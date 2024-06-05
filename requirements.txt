@@ -1,0 +1,16 @@
+pyyaml
+requests
+pandas
+matplotlib
+langdetect
+exifread
+exif
+torchvision
+s2sphere==0.2.5
+pytorch-lightning==1.0.1
+msgpack-python
+google-search-results
+beautifulsoup4
+selenium
+webdriver_manager
+geopy
