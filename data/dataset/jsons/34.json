@@ -1,0 +1,4379 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2016/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 114,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 26,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 114,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                3,
+                0,
+                0,
+                0,
+                114,
+                26,
+                0,
+                2,
+                0,
+                2,
+                7,
+                1,
+                4,
+                2,
+                0,
+                0,
+                1,
+                3,
+                1,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 275,
+            "percentage": 97.17314487632508
+          },
+          "Russian": {
+            "count": 7,
+            "percentage": 2.4734982332155475
+          },
+          "Hungarian": {
+            "count": 1,
+            "percentage": 0.35335689045936397
+          }
+        },
+        "total": 283,
+        "plot": {
+          "labels": [
+            "English",
+            "Russian",
+            "Hungarian"
+          ],
+          "data": [
+            97,
+            2,
+            0
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "ru",
+        "link": "https://echomsk.spb.ru/nws/1850539-kitajskaya-great-wall-otozvala-v-rossii-55-tys-avtomobilej-haval-izza-glonass.html",
+        "title": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f Great Wall \u043e\u0442\u043e\u0437\u0432\u0430\u043b\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 55 \u0442\u044b\u0441 ...Echomsk.spb.ruhttps://echomsk.spb.ru \u203a nws \u203a 185...",
+        "content": "Great Wall \u043e\u0442\u0447\u0438\u0442\u0430\u043b\u0441\u044f \u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430\u0445 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 Haval, Tank \u0438 GWM \u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043a\u043e\u043d\u0446\u0435\u0440\u043d Great Wall \u043f\u0440\u043e\u0434\u0430\u043b \u0441 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2023 \u0433\u043e\u0434\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 84,5\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": "2023:11:10 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://wp.towson.edu/iajournal/2016/05/11/joshua-norris-the-descent-of-icarus-air-strikes-and-justice-within-the-evolving-context-of-war/",
+        "title": "Air Strikes and Justice within the Evolving Context of WarTowson WordPress |https://wp.towson.edu \u203a iajournal \u203a 2016/05/11 \u203a jos...",
+        "content": "A People Apart: The Growing Military-Civilian Gap and its Consequences \u00b7 November 10, 2017. In \"American Politics(B)\" ; America and Ukraine:\u00a0...",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2016:05:11 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 112,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://wp.towson.edu/iajournal/2016/05/11/joshua-norris-the-descent-of-icarus-air-strikes-and-justice-within-the-evolving-context-of-war/",
+        "title": "Air Strikes and Justice within the Evolving Context of WarTowson WordPress |https://wp.towson.edu \u203a iajournal \u203a 2016/05/11 \u203a jos...",
+        "content": "A People Apart: The Growing Military-Civilian Gap and its Consequences \u00b7 November 10, 2017. In \"American Politics(B)\" ; America and Ukraine:\u00a0...",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2016:05:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://assonina.it/2021/04/02/linee-guida-per-comunicare-con-i-bambini-autistici/?c=why-tanks-are-still-warfare-workhorses-in-ukraine-jj-gZkGz8uK",
+        "title": "Why Tanks Are Still Warfare Workhorses In Ukraine, 58% OFFassonina.ithttps://assonina.it \u203a ... \u203a used russian t 72 tank for sale",
+        "content": "Ukraine The Guardian. Why Tanks Are Still Warfare Workhorses in Ukraine. Ukraine war: 'This is such a stupid tank': Commander's plea for\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2021:04:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://assonina.it/2021/04/02/linee-guida-per-comunicare-con-i-bambini-/?c=donated-tanks-headed-to-ukraine-defense-one-jj-WDeznbSj",
+        "title": "Donated Tanks Headed To Ukraine Defense One, 47% OFFassonina.ithttps://assonina.it \u203a Home \u203a t-72b tank price",
+        "content": "Donated Tanks Headed to Ukraine Defense One. Ukraine war: Czech crowdfunding buys 'Tomas the tank' for Ukraine BBC News. Detailed model Easy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2021:04:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mybroadband.co.za/forum/threads/russo-ukrainian-war-2022-edition-part-1.1181348/",
+        "title": "Russo-Ukrainian War - 2022 Edition Part 1 - MyBroadbandMyBroadbandhttps://mybroadband.co.za \u203a forum \u203a threads \u203a russo...",
+        "content": "The morale among Russian forces must be taking a knock. Pilots take off on a sortie, never to return. Tank regiments sent out taking massive\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2022:04:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mybroadband.co.za/forum/threads/russo-ukrainian-war-2022-edition-part-1.1181348/",
+        "title": "Russo-Ukrainian War - 2022 Edition Part 1 - MyBroadbandMyBroadbandhttps://mybroadband.co.za \u203a forum \u203a threads \u203a russo...",
+        "content": "The morale among Russian forces must be taking a knock. Pilots take off on a sortie, never to return. Tank regiments sent out taking massive\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2022:04:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wp.towson.edu/iajournal/2022/05/09/could-it-happen-the-use-of-weapons-of-mass-destruction-in-response-to-the-russo-ukrainian-war/",
+        "title": "Could it Happen?: The Use of Weapons of Mass Destruction ...Towson WordPress |https://wp.towson.edu \u203a iajournal \u203a 2022/05/09 \u203a co...",
+        "content": "The Russo-Ukrainian conflict has left many political pundits baffled, as Ukrainian ... ukraine-war-us-view-of-putin-\u00a0...",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2022:05:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wp.towson.edu/iajournal/2022/05/09/could-it-happen-the-use-of-weapons-of-mass-destruction-in-response-to-the-russo-ukrainian-war/",
+        "title": "Could it Happen?: The Use of Weapons of Mass Destruction ...Towson WordPress |https://wp.towson.edu \u203a iajournal \u203a 2022/05/09 \u203a co...",
+        "content": "The Russo-Ukrainian conflict has left many political pundits baffled, as Ukrainian ... ukraine-war-us-view-of-putin-\u00a0...",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2022:05:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wp.towson.edu/iajournal/2022/05/09/could-it-happen-the-use-of-weapons-of-mass-destruction-in-response-to-the-russo-ukrainian-war/",
+        "title": "Could it Happen?: The Use of Weapons of Mass Destruction ...Towson WordPress |https://wp.towson.edu \u203a iajournal \u203a 2022/05/09 \u203a co...",
+        "content": "The Russo-Ukrainian conflict has left many political pundits baffled, as Ukrainian ... ukraine-war-us-view-of-putin-\u00a0...",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2022:05:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kmov.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/?outputType=apps",
+        "title": "US sends new military aid for Ukraine to boost momentumKMOVhttps://www.kmov.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          800,
+          1200
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/news/politics/2022/09/15/us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWPLG Local 10https://www.local10.com \u203a news \u203a politics \u203a 2022/09/15",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022.",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbc11news.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKKCO 11 Newshttps://www.nbc11news.com \u203a 2022/09/16 \u203a us-sends-n...",
+        "content": "Ukrainian servicemen ride on a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14,\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pahomepage.com/news/politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumPAhomepage.comhttps://www.pahomepage.com \u203a news \u203a politics \u203a ap-u...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ktre.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKTREhttps://www.ktre.com \u203a 2022/09/16 \u203a us-sends-new-mil...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.whsv.com/2022/09/16/ukrainian-president-mass-grave-found-near-recaptured-city/",
+        "title": "Ukraine president says burial site includes torture victimsWHSVhttps://www.whsv.com \u203a 2022/09/16 \u203a ukrainian-presid...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dakotanewsnow.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumDakota News Nowhttps://www.dakotanewsnow.com \u203a 2022/09/16 \u203a us-se...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/news/politics/2022/09/15/us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWKMGhttps://www.clickorlando.com \u203a politics \u203a 2022/09/15",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022.",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtoc.com/2022/09/16/ukrainian-president-mass-grave-found-near-recaptured-city/",
+        "title": "Ukraine president says burial site includes torture victimsWTOChttps://www.wtoc.com \u203a 2022/09/16 \u203a ukrainian-presid...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wave3.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumwave3.comhttps://www.wave3.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wboy.com/news/politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWBOY.comhttps://www.wboy.com \u203a news \u203a politics \u203a ap-us-read...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox2now.com/news/politics/ap-politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumFOX 2https://fox2now.com \u203a news \u203a politics \u203a ap-politics",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbrc.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWBRC FOX6 Newshttps://www.wbrc.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          800,
+          1200
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newschannel6now.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumNews Channel 6 | Wichita Falls, TXhttps://www.newschannel6now.com \u203a 2022/09/16 \u203a us-...",
+        "content": "Ukrainian servicemen ride on a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14,\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kfor.com/news/oklahoma-legislature/ap-politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKFOR.comhttps://kfor.com \u203a oklahoma-legislature \u203a ap-politics",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wistv.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWIS News 10https://www.wistv.com \u203a 2022/09/16 \u203a us-sends-new-m...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wifr.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWIFRhttps://www.wifr.com \u203a 2022/09/16 \u203a us-sends-new-mil...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsmv.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumwsmv.comhttps://www.wsmv.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://komonews.com/news/nation-world/us-readies-new-military-aid-for-ukraine-to-boost-momentum-kyiv-counteroffensive-defense-department-pulling-weapons-equipment-finance-support-secretary-of-state-antony-blinken-russian-war-invasion",
+        "title": "US readies new military aid for Ukraine to boost momentumKOMOhttps://komonews.com \u203a news \u203a nation-world \u203a us-re...",
+        "content": "... Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kait8.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentum - KAITKAIThttps://www.kait8.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          800,
+          1200
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kjct8.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumkjct8.comhttps://www.kjct8.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newschannel6now.com/2022/09/16/ukrainian-president-mass-grave-found-near-recaptured-city/",
+        "title": "Ukraine president says burial site includes torture victimsNews Channel 6 | Wichita Falls, TXhttps://www.newschannel6now.com \u203a 2022/09/16 \u203a ukr...",
+        "content": "FILE - Ukrainian servicemen ride on a tank in the recently retaken area of Izium, Ukraine, on Wednesday. ... Elsewhere in Ukraine, the war\u00a0...",
+        "size": [
+          800,
+          1200
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.waff.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWAFFhttps://www.waff.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.25newsnow.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWEEK | 25 News Now | Peoria, ILhttps://www.25newsnow.com \u203a 2022/09/16 \u203a us-sends-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbc12.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWWBThttps://www.nbc12.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://upnorthlive.com/news/nation-world/us-readies-new-military-aid-for-ukraine-to-boost-momentum-kyiv-counteroffensive-defense-department-pulling-weapons-equipment-finance-support-secretary-of-state-antony-blinken-russian-war-invasion",
+        "title": "US readies new military aid for Ukraine to boost momentumWPBNhttps://upnorthlive.com \u203a news \u203a nation-world \u203a us-r...",
+        "content": "... Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.waff.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWAFFhttps://www.waff.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.25newsnow.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWEEK | 25 News Now | Peoria, ILhttps://www.25newsnow.com \u203a 2022/09/16 \u203a us-sends-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wavy.com/news/politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWAVY.comhttps://www.wavy.com \u203a news \u203a politics \u203a ap-us-read...",
+        "content": "... Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox5sandiego.com/news/politics/ap-politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumFOX 5 San Diegohttps://fox5sandiego.com \u203a news \u203a politics \u203a ap-politics",
+        "content": "Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://local21news.com/news/nation-world/us-readies-new-military-aid-for-ukraine-to-boost-momentum-kyiv-counteroffensive-defense-department-pulling-weapons-equipment-finance-support-secretary-of-state-antony-blinken-russian-war-invasion",
+        "title": "US readies new military aid for Ukraine to boost momentumlocal21news.comhttps://local21news.com \u203a news \u203a nation-world \u203a us-r...",
+        "content": "... Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.brproud.com/news/politics/ap-politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumBRProud.comhttps://www.brproud.com \u203a politics \u203a ap-politics \u203a ap...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mysuncoast.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/?outputType=apps",
+        "title": "US sends new military aid for Ukraine to boost momentumABC7 WWSBhttps://www.mysuncoast.com \u203a 2022/09/16 \u203a us-sends-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.alaskasnewssource.com/2022/09/16/ukrainian-president-mass-grave-found-near-recaptured-city/",
+        "title": "Ukraine president says burial site includes torture victimsAlaska's News Sourcehttps://www.alaskasnewssource.com \u203a 2022/09/16 \u203a ukr...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktla.com/news/politics/ap-politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKTLAhttps://ktla.com \u203a news \u203a politics \u203a ap-politics \u203a ap-us...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/news/politics/2022/09/15/us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKSAThttps://www.ksat.com \u203a news \u203a politics \u203a 2022/09/15",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022.",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wboy.com/news/politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWBOY.comhttps://www.wboy.com \u203a news \u203a politics \u203a ap-us-read...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox5sandiego.com/news/politics/ap-politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumFOX 5 San Diegohttps://fox5sandiego.com \u203a news \u203a politics \u203a ap-politics",
+        "content": "Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox2now.com/news/politics/ap-politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumFOX 2https://fox2now.com \u203a news \u203a politics \u203a ap-politics",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.alaskasnewssource.com/2022/09/16/ukrainian-president-mass-grave-found-near-recaptured-city/",
+        "title": "Ukraine president says burial site includes torture victimsAlaska's News Sourcehttps://www.alaskasnewssource.com \u203a 2022/09/16 \u203a ukr...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://forums.kitmaker.net/t/modelling-armour-in-ukraine-crisis/17957?page=284",
+        "title": "Modelling armour in Ukraine crisis - Modern - KitMaker NetworkKitMaker Networkhttps://forums.kitmaker.net \u203a Armor/AFV \u203a Modern",
+        "content": "... Ukraine and i was wondering what armour is being used by both sides? i have see some Russian T72 and possible T90 tanks but what versions",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.atlantanewsfirst.com/2022/09/16/ukrainian-president-mass-grave-found-near-recaptured-city/",
+        "title": "Ukraine president says burial site includes torture victimsAtlanta News Firsthttps://www.atlantanewsfirst.com \u203a 2022/09/16 \u203a ukrain...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          800,
+          1200
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox5vegas.com/2022/09/16/ukrainian-president-mass-grave-found-near-recaptured-city/",
+        "title": "Ukraine president says burial site includes torture victimsfox5vegas.comhttps://www.fox5vegas.com \u203a 2022/09/16 \u203a ukrainian-...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/news/politics/2022/09/15/us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWSLShttps://www.wsls.com \u203a news \u203a politics \u203a 2022/09/15 \u203a u...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022.",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/news/politics/2022/09/15/us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWKMGhttps://www.clickorlando.com \u203a politics \u203a 2022/09/15",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022.",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.whsv.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWHSVhttps://www.whsv.com \u203a 2022/09/16 \u203a us-sends-new-m...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox19.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumFOX19https://www.fox19.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://upnorthlive.com/news/nation-world/us-readies-new-military-aid-for-ukraine-to-boost-momentum-kyiv-counteroffensive-defense-department-pulling-weapons-equipment-finance-support-secretary-of-state-antony-blinken-russian-war-invasion",
+        "title": "US readies new military aid for Ukraine to boost momentumWPBNhttps://upnorthlive.com \u203a news \u203a nation-world \u203a us-r...",
+        "content": "... Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://apnews.com/article/russia-ukraine-kyiv-government-and-politics-7ca4adca99bd42537090d499325cd246",
+        "title": "US sends new military aid for Ukraine to boost momentumAP Newshttps://apnews.com \u203a article",
+        "content": "... military aid for Ukraine to boost momentum. Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine,. 1 of 2 |.",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rochesterfirst.com/news/politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumRochesterFirsthttps://www.rochesterfirst.com \u203a news \u203a politics \u203a ap-...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thenationalnews.com/world/europe/2022/09/15/ukraine-raises-flag-above-recaptured-towns-as-zelenskyy-condemns-russia-over-dam-attack/",
+        "title": "Ukraine raises flag above recaptured towns as Zelenskyy ...thenationalnews.comhttps://www.thenationalnews.com \u203a 2022/09/15 \u203a uk...",
+        "content": "The strikes hit the Karachunov reservoir dam, Mr Zelenskyy said in a video address released early on Thursday. The water system had \u201cno military\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.yahoo.com/us-readies-military-aid-ukraine-200738092.html",
+        "title": "US sends new military aid for Ukraine to boost momentumYahoo Newshttps://news.yahoo.com \u203a us-readies-military-aid-ukr...",
+        "content": "Russia Ukraine War. Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nwahomepage.com/news/politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKNWA FOX24https://www.nwahomepage.com \u203a news \u203a politics \u203a a...",
+        "content": "... Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.13abc.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWTVGhttps://www.13abc.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kwtx.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKWTXhttps://www.kwtx.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kcrg.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKCRGhttps://www.kcrg.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsfa.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/?outputType=apps",
+        "title": "US sends new military aid for Ukraine to boost momentumWSFAhttps://www.wsfa.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wdbj7.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/?outputType=apps",
+        "title": "US sends new military aid for Ukraine to boost momentumWDBJhttps://www.wdbj7.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pahomepage.com/news/politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumPAhomepage.comhttps://www.pahomepage.com \u203a news \u203a politics \u203a ap-u...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.standard.co.uk/news/world/vladimir-putin-ukraine-russia-war-invasion-kherson-izyum-latest-news-b1025784.html",
+        "title": "Putin's troops suffering 'significant casualties' in southern ...Evening Standardhttps://www.standard.co.uk \u203a News \u203a World",
+        "content": "Putin's troops suffering 'significant casualties' in southern Ukraine battles, says UK military think tank. Russian troops are desperately\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.westernmassnews.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWestern Mass Newshttps://www.westernmassnews.com \u203a 2022/09/16 \u203a us-s...",
+        "content": "Ukrainian servicemen ride on a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14,\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://komonews.com/news/nation-world/us-readies-new-military-aid-for-ukraine-to-boost-momentum-kyiv-counteroffensive-defense-department-pulling-weapons-equipment-finance-support-secretary-of-state-antony-blinken-russian-war-invasion",
+        "title": "US readies new military aid for Ukraine to boost momentumKOMOhttps://komonews.com \u203a news \u203a nation-world \u203a us-re...",
+        "content": "... Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wkbn.com/politics/ap-politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWKBN.comhttps://www.wkbn.com \u203a politics \u203a ap-politics \u203a ap-u...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.yahoo.com/lifestyle/us-readies-military-aid-ukraine-200738092.html",
+        "title": "US sends new military aid for Ukraine to boost momentumYahoohttps://www.yahoo.com \u203a lifestyle \u203a us-readies-military-...",
+        "content": "Russia Ukraine War. Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wgem.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWGEMhttps://www.wgem.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://komonews.com/news/nation-world/us-readies-new-military-aid-for-ukraine-to-boost-momentum-kyiv-counteroffensive-defense-department-pulling-weapons-equipment-finance-support-secretary-of-state-antony-blinken-russian-war-invasion",
+        "title": "US readies new military aid for Ukraine to boost momentumKOMOhttps://komonews.com \u203a news \u203a nation-world \u203a us-re...",
+        "content": "... Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hawaiinewsnow.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumHawaii News Nowhttps://www.hawaiinewsnow.com \u203a 2022/09/16 \u203a us-se...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wowt.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWOWThttps://www.wowt.com \u203a 2022/09/16 \u203a us-sends-new-m...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          1200,
+          1800
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kalb.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumkalb.comhttps://www.kalb.com \u203a 2022/09/16 \u203a us-sends-new-mil...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pahomepage.com/news/politics/ap-us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumPAhomepage.comhttps://www.pahomepage.com \u203a news \u203a politics \u203a ap-u...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (AP Photo/Evgeniy\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/politics/2022/09/15/us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumClickOnDetroithttps://www.clickondetroit.com \u203a politics \u203a 2022/09/15",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022.",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abc3340.com/news/nation-world/us-readies-new-military-aid-for-ukraine-to-boost-momentum-kyiv-counteroffensive-defense-department-pulling-weapons-equipment-finance-support-secretary-of-state-antony-blinken-russian-war-invasion",
+        "title": "US readies new military aid for Ukraine to boost momentumWBMAhttps://abc3340.com \u203a news \u203a nation-world \u203a us-readi...",
+        "content": "... Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbc12.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWWBThttps://www.nbc12.com \u203a 2022/09/16 \u203a us-sends-new-...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/politics/2022/09/15/us-readies-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumClickOnDetroithttps://www.clickondetroit.com \u203a politics \u203a 2022/09/15",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022.",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsaz.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumWSAZhttps://www.wsaz.com \u203a 2022/09/16 \u203a us-sends-new-mi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abc3340.com/news/nation-world/us-readies-new-military-aid-for-ukraine-to-boost-momentum-kyiv-counteroffensive-defense-department-pulling-weapons-equipment-finance-support-secretary-of-state-antony-blinken-russian-war-invasion",
+        "title": "US readies new military aid for Ukraine to boost momentumWBMAhttps://abc3340.com \u203a news \u203a nation-world \u203a us-readi...",
+        "content": "... Ukrainian servicemen drive atop a tank in the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kmvt.com/2022/09/16/us-sends-new-military-aid-ukraine-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumKMVThttps://www.kmvt.com \u203a 2022/09/16 \u203a us-sends-new-m...",
+        "content": "Ukrainian servicemen ride on a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14,\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.defensenews.com/pentagon/2022/09/16/us-sends-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumDefense Newshttps://www.defensenews.com \u203a 2022/09/16 \u203a us-sen...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (Evgeniy Maloletka/AP).",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2022:09:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.defensenews.com/pentagon/2022/09/16/us-sends-new-military-aid-for-ukraine-to-boost-momentum/",
+        "title": "US sends new military aid for Ukraine to boost momentumDefense Newshttps://www.defensenews.com \u203a 2022/09/16 \u203a us-sen...",
+        "content": "Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept. 14, 2022. (Evgeniy Maloletka/AP).",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2022:09:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.1011now.com/2022/09/17/pressure-russian-forces-mounts-after-ukraines-advances/",
+        "title": "For Russia's Putin, military and diplomatic pressures mount1011now.comhttps://www.1011now.com \u203a 2022/09/17 \u203a pressure-rus...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sundayworld.com/news/irish-news/irishman-shot-while-fighting-in-ukraine-faces-possible-dismissal-from-job-having-gone-awol/1743680819.html",
+        "title": "Irishman shot while fighting in Ukraine faces possible ...Sunday Worldhttps://www.sundayworld.com \u203a news \u203a irish-news",
+        "content": "... Ukrainian army in their rout of the Russians last week. Mr. Meagher ... \"I'm standing in an open-back truck, and, as this tank turned around,\u00a0...",
+        "size": [
+          1280,
+          960
+        ],
+        "date": "2022:09:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kptv.com/2022/09/18/uk-russia-likely-step-up-ukraine-civilian-target-attacks/",
+        "title": "Ukraine alleges torture at village near Russian border - KPTVKPTVhttps://www.kptv.com \u203a 2022/09/18 \u203a uk-russia-likely-s...",
+        "content": "",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.alaskasnewssource.com/2022/09/18/uk-russia-likely-step-up-ukraine-civilian-target-attacks/?outputType=apps",
+        "title": "Ukraine alleges torture at village near Russian borderAlaska's News Sourcehttps://www.alaskasnewssource.com \u203a 2022/09/18 \u203a uk-...",
+        "content": "",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mysuncoast.com/2022/09/20/graphic-ukraine-using-captured-russian-tanks-firms-up-its-lines/?outputType=apps",
+        "title": "GRAPHIC: 4 Ukrainian separatist regions plan votes to join ...ABC7 WWSBhttps://www.mysuncoast.com \u203a 2022/09/20 \u203a graphic-u...",
+        "content": "",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theage.com.au/world/europe/ukraine-needs-support-for-final-push-to-unlikely-victory-20220919-p5bjag.html",
+        "title": "Ukraine needs support for final push to unlikely victory - The AgeThe Agehttps://www.theage.com.au \u203a ... \u203a Russia-Ukraine war",
+        "content": "It is also the strongest evidence since the improbable successful defence of Kyiv early in the war that Ukrainian forces, armed with local nous,\u00a0...",
+        "size": [
+          736,
+          491
+        ],
+        "date": "2022:09:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.militarytimes.com/news/2022/09/21/use-us-for-combat-zone-tests-ukraine-minister-tells-us-war-industry/",
+        "title": "Use us for combat zone tests, Ukraine minister tells US war ...Military Timeshttps://www.militarytimes.com \u203a news \u203a 2022/09/21",
+        "content": "Ukraine's deputy defense minister suggested anti-tank systems with a 6-kilometer range or suicide drones as options his military could use.",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:09:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.politico.com/news/2022/09/22/ukraine-requests-american-tanks-counteroffensive-00058303",
+        "title": "'These are not rental cars': As Ukraine pleads for tanks, the ...Politicohttps://www.politico.com \u203a news \u203a 2022/09/22 \u203a ukr...",
+        "content": "NATO countries have been providing Ukraine with Soviet-era tanks and fighting vehicles over the course of the conflict, led by Poland, which\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:09:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.waff.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in Ukraine - WAFFWAFFhttps://www.waff.com \u203a 2022/09/23 \u203a un-rights-experts...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.walb.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in Ukraine - WALBWALBhttps://www.walb.com \u203a 2022/09/23 \u203a un-rights-experts...",
+        "content": "",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.25newsnow.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in UkraineWEEK | 25 News Now | Peoria, ILhttps://www.25newsnow.com \u203a 2022/09/23 \u203a un-rights-...",
+        "content": "",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox19.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in Ukraine - FOX19FOX19https://www.fox19.com \u203a 2022/09/23 \u203a un-rights-exper...",
+        "content": "",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbay.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in Ukraine - WBAYwbay.comhttps://www.wbay.com \u203a 2022/09/23 \u203a un-rights-expert...",
+        "content": "",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thehill.com/policy/international/3659023-un-panel-reports-ukrainian-children-have-been-raped-tortured-by-russian-forces/",
+        "title": "UN panel reports Ukrainian children have been raped ...The Hillhttps://thehill.com \u203a policy \u203a international \u203a 3659023...",
+        "content": "... war crimes committed in Ukraine amid its war with Russia. The ... Ukrainian servicemen drive atop a tank in the recently retaken area of Izium,\u00a0...",
+        "size": [
+          900,
+          505
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thehill.com/policy/international/3659023-un-panel-reports-ukrainian-children-have-been-raped-tortured-by-russian-forces/",
+        "title": "UN panel reports Ukrainian children have been raped ...The Hillhttps://thehill.com \u203a policy \u203a international \u203a 3659023...",
+        "content": "... war crimes committed in Ukraine amid its war with Russia. The ... Ukrainian servicemen drive atop a tank in the recently retaken area of Izium,\u00a0...",
+        "size": [
+          900,
+          505
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsfa.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in Ukraine - WSFAWSFAhttps://www.wsfa.com \u203a 2022/09/23 \u203a un-rights-experts...",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsfa.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in Ukraine - WSFAWSFAhttps://www.wsfa.com \u203a 2022/09/23 \u203a un-rights-experts...",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hawaiinewsnow.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in UkraineHawaii News Nowhttps://www.hawaiinewsnow.com \u203a 2022/09/23 \u203a un-ri...",
+        "content": "",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox5vegas.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/",
+        "title": "UN rights experts cite signs of war crimes in Ukrainefox5vegas.comhttps://www.fox5vegas.com \u203a 2022/09/23 \u203a un-rights-e...",
+        "content": "",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kcbd.com/2022/09/23/un-rights-experts-cite-signs-war-crimes-ukraine/?outputType=apps",
+        "title": "UN rights experts cite signs of war crimes in Ukraine - KCBDKCBDhttps://www.kcbd.com \u203a 2022/09/23 \u203a un-rights-expert...",
+        "content": "",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thehill.com/opinion/national-security/3652939-how-to-arm-ukraine-the-case-for-tanks-air-and-missile-defense/",
+        "title": "How to arm Ukraine: The case for tanks, air and missile defenseThe Hillhttps://thehill.com \u203a opinion \u203a national-security \u203a 36...",
+        "content": "However, HIMARS alone will not win the war, even if and when more than the 20 or so now in Ukrainian hands are sent to the front lines. Russian\u00a0...",
+        "size": [
+          900,
+          505
+        ],
+        "date": "2022:09:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox8live.com/2022/09/27/vote-ukraines-russia-held-areas-stokes-tension-with-west/?outputType=apps",
+        "title": "Kremlin announces vote, paves way to annex part of Ukrainefox8live.comhttps://www.fox8live.com \u203a 2022/09/27 \u203a vote-ukraine...",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2022:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kfvs12.com/2022/09/27/vote-ukraines-russia-held-areas-stokes-tension-with-west/",
+        "title": "Kremlin announces vote, paves way to annex part of UkraineKFVS12https://www.kfvs12.com \u203a 2022/09/27 \u203a vote-ukraines-...",
+        "content": "KYIV, Ukraine (AP) \u2014\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsfa.com/2022/09/27/vote-ukraines-russia-held-areas-stokes-tension-with-west/",
+        "title": "Kremlin announces vote, paves way to annex part of UkraineWSFAhttps://www.wsfa.com \u203a 2022/09/27 \u203a vote-ukraines-ru...",
+        "content": "KYIV, Ukraine (AP) \u2014\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsfa.com/2022/09/27/vote-ukraines-russia-held-areas-stokes-tension-with-west/",
+        "title": "Kremlin announces vote, paves way to annex part of UkraineWSFAhttps://www.wsfa.com \u203a 2022/09/27 \u203a vote-ukraines-ru...",
+        "content": "KYIV, Ukraine (AP) \u2014\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wistv.com/2022/09/27/vote-ukraines-russia-held-areas-stokes-tension-with-west/",
+        "title": "Kremlin announces vote, paves way to annex part of UkraineWIS News 10https://www.wistv.com \u203a 2022/09/27 \u203a vote-ukraines-ru...",
+        "content": "KYIV, Ukraine (AP) \u2014\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wlbt.com/2022/09/28/us-poised-provide-11-billion-more-aid-ukraine/",
+        "title": "US announces $1.1 billion more in military aid for UkraineWLBThttps://www.wlbt.com \u203a 2022/09/28 \u203a us-poised-provid...",
+        "content": "... Ukrainian ... military\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.live5news.com/2022/09/28/us-poised-provide-11-billion-more-aid-ukraine/?outputType=apps",
+        "title": "US announces $1.1 billion more in military aid for Ukrainelive5news.comhttps://www.live5news.com \u203a 2022/09/28 \u203a us-poised-p...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kcbd.com/2022/09/28/us-poised-provide-11-billion-more-aid-ukraine/",
+        "title": "US announces $1.1 billion more in military aid for UkraineKCBDhttps://www.kcbd.com \u203a 2022/09/28 \u203a us-poised-provi...",
+        "content": "... Ukrainian ... military\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.politico.com/news/2022/09/28/nuclear-threat-ukraine-weapons-brussels-00059240",
+        "title": "U.S. pledges to double rocket launchers for Ukraine - POLITICOPoliticohttps://www.politico.com \u203a news \u203a 2022/09/28 \u203a nuc...",
+        "content": "... war in Ukraine. The weapons are part of a $1.1 billion Ukraine ... At issue are calls for Germany to give Leopard main battle tanks to Ukraine\u00a0...",
+        "size": [
+          250,
+          200
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wymt.com/2022/09/28/us-poised-provide-11-billion-more-aid-ukraine/?outputType=apps",
+        "title": "US announces $1.1 billion more in military aid for UkraineWYMThttps://www.wymt.com \u203a 2022/09/28 \u203a us-poised-provi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox34.com/2022/09/28/us-poised-provide-11-billion-more-aid-ukraine/",
+        "title": "US announces $1.1 billion more in military aid for Ukrainefox34.comhttps://www.fox34.com \u203a 2022/09/28 \u203a us-poised-provi...",
+        "content": "Ukrainian servicemen\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.westernmassnews.com/2022/09/28/us-poised-provide-11-billion-more-aid-ukraine/",
+        "title": "US announces $1.1 billion more in military aid for UkraineWestern Mass Newshttps://www.westernmassnews.com \u203a 2022/09/28 \u203a us-p...",
+        "content": "... Ukrainian ... military\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wlbt.com/2022/09/28/us-poised-provide-11-billion-more-aid-ukraine/",
+        "title": "US announces $1.1 billion more in military aid for UkraineWLBThttps://www.wlbt.com \u203a 2022/09/28 \u203a us-poised-provid...",
+        "content": "... Ukrainian ... military\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wndu.com/2022/09/28/us-poised-provide-11-billion-more-aid-ukraine/",
+        "title": "US announces $1.1 billion more in military aid for UkraineWNDUhttps://www.wndu.com \u203a 2022/09/28 \u203a us-poised-provi...",
+        "content": "... Ukrainian ... military service, in the wake of widespread battlefield losses in Ukraine's\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/news/2022/10/4/russian-army-maps-show-major-retreats-in-ukraines-kherson-region",
+        "title": "Russian army maps show major retreats in Ukraine's Kherson ...Al Jazeerahttps://www.aljazeera.com \u203a news \u203a 2022/10 \u203a russia...",
+        "content": "... Ukraine army's counteroffensive. Ukrainian servicemen drive atop a tank in Izyum. Ukrainian servicemen drive a tank in the recently retaken\u00a0...",
+        "size": [
+          1800,
+          1800
+        ],
+        "date": "2022:10:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/news/world/2022/10/04/whats-putin-thinking-tough-to-know-for-nuclear-analysts/",
+        "title": "What's Putin thinking? Tough to know for nuclear analystsKSAThttps://www.ksat.com \u203a news \u203a world \u203a 2022/10/04",
+        "content": "FILE - Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, ... Follow AP's coverage of the war in Ukraine at https://\u00a0...",
+        "size": [
+          5000,
+          3332
+        ],
+        "date": "2022:10:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/world/2022/10/04/whats-putin-thinking-tough-to-know-for-nuclear-analysts/",
+        "title": "What's Putin thinking? Tough to know for nuclear analystsClickOnDetroithttps://www.clickondetroit.com \u203a world \u203a 2022/10/04",
+        "content": "FILE - Ukrainian servicemen drive atop a tank in the recently retaken area of Izium, ... Follow AP's coverage of the war in Ukraine at https://\u00a0...",
+        "size": [
+          5000,
+          3332
+        ],
+        "date": "2022:10:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.politico.com/news/2022/10/05/ukraine-advances-air-defenses-putin-00060580",
+        "title": "Ukraine reworks its weapons wish list as winter approachesPoliticohttps://www.politico.com \u203a news \u203a 2022/10/05 \u203a ukr...",
+        "content": "No new air defense capabilities were included in the Biden administration's $625 million military aid package announced Tuesday, which instead\u00a0...",
+        "size": [
+          250,
+          200
+        ],
+        "date": "2022:10:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.standard.co.uk/news/world/ukraine-russia-defence-tanks-military-hardware-putin-biden-nuclear-b1030905.html",
+        "title": "Over half of Ukraine's tanks 'captured' from Putin's forces, says ...Evening Standardhttps://www.standard.co.uk \u203a News \u203a World",
+        "content": "Ukraine has likely captured at least 440 Russian Main Battle Tanks, and around 650 other armoured vehicles since the invasion began in February,\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hawaiinewsnow.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to UkraineHawaii News Nowhttps://www.hawaiinewsnow.com \u203a 2022/10/14 \u203a us-se...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hawaiinewsnow.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to UkraineHawaii News Nowhttps://www.hawaiinewsnow.com \u203a 2022/10/14 \u203a us-se...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kctv5.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - KCTV5KCTVhttps://www.kctv5.com \u203a 2022/10/14 \u203a us-sending-725...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          800,
+          1200
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtvm.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - WTVMWTVMhttps://www.wtvm.com \u203a 2022/10/14 \u203a us-sending-725...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wect.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - WECTWECThttps://www.wect.com \u203a 2022/10/14 \u203a us-sending-725-...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox5vegas.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukrainefox5vegas.comhttps://www.fox5vegas.com \u203a 2022/10/14 \u203a us-sending...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox19.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - FOX19FOX19https://www.fox19.com \u203a 2022/10/14 \u203a us-sending-725...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbtv.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - WBTVWBTVhttps://www.wbtv.com \u203a 2022/10/14 \u203a us-sending-725-...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox8live.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - Fox 8fox8live.comhttps://www.fox8live.com \u203a 2022/10/14 \u203a us-sending-7...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.actionnews5.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to UkraineAction News 5https://www.actionnews5.com \u203a 2022/10/14 \u203a us-sendin...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          800,
+          1200
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cleveland19.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to UkraineCleveland 19 Newshttps://www.cleveland19.com \u203a 2022/10/14 \u203a us-sendin...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.valleynewslive.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to UkraineValley News Livehttps://www.valleynewslive.com \u203a 2022/10/14 \u203a us-sen...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtvm.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - WTVMWTVMhttps://www.wtvm.com \u203a 2022/10/14 \u203a us-sending-725...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbrc.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - WBRCWBRC FOX6 Newshttps://www.wbrc.com \u203a 2022/10/14 \u203a us-sending-725-...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wabi.tv/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - WABIWABIhttps://www.wabi.tv \u203a 2022/10/14 \u203a us-sending-725-mi...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kait8.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - KAITKAIThttps://www.kait8.com \u203a 2022/10/14 \u203a us-sending-725-...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.atlantanewsfirst.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to UkraineAtlanta News Firsthttps://www.atlantanewsfirst.com \u203a 2022/10/14 \u203a us-sen...",
+        "content": "FILE - Ukrainian servicemen ride on a tank in the recently retaken area of Izium, Ukraine, Wednesday, Sept.",
+        "size": [
+          800,
+          1200
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kptv.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - KPTVKPTVhttps://www.kptv.com \u203a 2022/10/14 \u203a us-sending-725-...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wibw.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - WIBWwibw.comhttps://www.wibw.com \u203a 2022/10/14 \u203a us-sending-725-...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          980,
+          560
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kktv.com/2022/10/14/us-sending-725-million-more-military-aid-ukraine/",
+        "title": "US sending $725 million more in military aid to Ukraine - KKTVKKTVhttps://www.kktv.com \u203a 2022/10/14 \u203a us-sending-725-...",
+        "content": "FILE - Ukrainian\u00a0...",
+        "size": [
+          5000,
+          2857
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://asiatimes.com/2022/10/russias-dirty-bomb-claim-lights-the-nuclear-fuse/",
+        "title": "Russia's 'dirty bomb' claim lights the nuclear fuse - Asia TimesAsia Timeshttps://asiatimes.com \u203a 2022/10 \u203a russias-dirty-bomb-c...",
+        "content": "... war in Ukraine. This is plausible because the Russian army's performance has been poor and Russian military leaders face dismissal or worse.",
+        "size": [
+          780,
+          521
+        ],
+        "date": "2022:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/gallery/2022/12/26/photos-the-year-in-ukraine",
+        "title": "Photos: The year in Ukraine, month by month | In PicturesAl Jazeerahttps://www.aljazeera.com \u203a gallery \u203a 2022/12/26",
+        "content": "... Ukraine and its allies allege are evidence of war crimes. Fighting ... Ukrainian servicemen drive atop a tank in Izyum. Ukrainian servicemen drive\u00a0...",
+        "size": [
+          1170,
+          780
+        ],
+        "date": "2022:12:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/gallery/2022/12/26/photos-the-year-in-ukraine",
+        "title": "Photos: The year in Ukraine, month by month | In PicturesAl Jazeerahttps://www.aljazeera.com \u203a gallery \u203a 2022/12/26",
+        "content": "... Ukraine and its allies allege are evidence of war crimes. Fighting ... Ukrainian servicemen drive atop a tank in Izyum. Ukrainian servicemen drive\u00a0...",
+        "size": [
+          1170,
+          780
+        ],
+        "date": "2022:12:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pulaski.pl/en/war-in-ukraine-weekly-update-13-19-02-2023-2/",
+        "title": "War in Ukraine - weekly update (13-19.02.2023)Fundacja im. Kazimierza Pu\u0142askiegohttps://pulaski.pl \u203a war-in-ukraine-weekly-update-13...",
+        "content": "Ukrainian soldiers travelled to training grounds in Germany and Poland to begin training on the newly promised Leopard 2 main battle tanks.[ii]\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pulaski.pl/war-in-ukraine-weekly-update-13-19-02-2023/",
+        "title": "War in Ukraine - weekly update (13-19.02.2023)Fundacja im. Kazimierza Pu\u0142askiegohttps://pulaski.pl \u203a war-in-ukraine-weekly-update-13...",
+        "content": "Ukrainian soldiers travelled to training grounds in Germany and Poland to begin training on the newly promised Leopard 2 main battle tanks.[ii]\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wearethemighty.com/mighty-trending/russian-soldiers-calls-back-home-reveal-horrifying-experiences-in-ukraine/",
+        "title": "Russian soldiers' calls back home reveal horrifying ...We Are The Mightyhttps://www.wearethemighty.com \u203a mighty-trending \u203a ru...",
+        "content": "... Ukraine war for the young Russian men who are fighting it. Around ... ukranian tanks against russian soldiers in ukraine. Ukrainian T-72AV\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:03:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sofrep.com/news/sitrep-expert-suspects-war-could-end-this-year/",
+        "title": "SITREP: Expert Suspects 'War Could End This Year' - SOFREPSOFREPhttps://sofrep.com \u203a news \u203a sitrep-expert-suspects-wa...",
+        "content": "As the one-year anniversary of the war in Ukraine is fast ... tanks for success, believing this will guarantee them a win. On Thursday\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:03:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://legionmagazine.com/russia-no-paper-tiger-warns-norad-commander/",
+        "title": "Russia no 'paper tiger,' warns Norad commanderLegion Magazinehttps://legionmagazine.com \u203a ... \u203a Front Lines",
+        "content": "The first Canadian Leopard 2 main battle tank donated to Ukraine arrives in Poland. ... Canada has committed more than $1 billion in military\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": "2023:03:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wearethemighty.com/articles/russian-soldiers-in-ukraine-are-being-hunted-using-social-media/",
+        "title": "Russian soldiers in Ukraine are being hunted using social ...We Are The Mightyhttps://www.wearethemighty.com \u203a articles \u203a russian-sold...",
+        "content": "The result is the Russia-Ukraine War is the first war where open ... Israel's latest tank was just in time for the Hamas war. MORE IN Wars\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:03:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wearethemighty.com/articles/north-korea-troops-in-ukraine-russia/",
+        "title": "Why Russia likely won't use North Korean troops in UkraineWe Are The Mightyhttps://www.wearethemighty.com \u203a articles \u203a north-korea...",
+        "content": "It's no secret Russia is taking extraordinary casualties in the war in Ukraine. ... Israel's latest tank was just in time for the Hamas war. MORE\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:03:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wearethemighty.com/articles/north-korea-troops-in-ukraine-russia/",
+        "title": "Why Russia likely won't use North Korean troops in UkraineWe Are The Mightyhttps://www.wearethemighty.com \u203a articles \u203a north-korea...",
+        "content": "It's no secret Russia is taking extraordinary casualties in the war in Ukraine. ... Israel's latest tank was just in time for the Hamas war. MORE\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:03:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.counterpunch.org/2023/03/17/a-democratic-end-to-ukraines-war/",
+        "title": "A Democratic End to Ukraine's War? - CounterPunch.orgCounterPunchhttps://www.counterpunch.org \u203a 2023/03/17 \u203a a-dem...",
+        "content": "Notably absent until now from the Western narrative regarding the current war in Ukraine and how it might end has been any suggestion that\u00a0...",
+        "size": [
+          680,
+          454
+        ],
+        "date": "2023:03:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://socialistworker.co.uk/letters/my-son-died-in-iraq-now-i-want-to-see-peace-in-ukraine/",
+        "title": "My son died in Iraq\u2014now I want to see peace in UkraineSocialist Workerhttps://socialistworker.co.uk \u203a letters \u203a my-son-died-i...",
+        "content": "As Britain moved into Iraq in 2003, its military had to take officers from camp to camp. They needed to have a radio operator with them.",
+        "size": [
+          760,
+          506
+        ],
+        "date": "2023:04:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ceasefire.ca/the-foreign-influence-registry-could-fail-a-charter-challenge-ukraine-war-update-and-more/",
+        "title": "The foreign influence registry could fail a Charter challengeCeasefire.cahttps://www.ceasefire.ca \u203a the-foreign-influence-regist...",
+        "content": "On the fifth day of the conflict, a ceasefire was agreed and appears to be holding. Photo credit: Wikimedia Commons (Ukrainian tank). Ceasefire.",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:05:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zeihan.com/ukraine-war-qa-series-who-really-started-this-whole-thing/",
+        "title": "Ukraine War Q&A Series: Who Really Started This Whole Thing?Zeihan on Geopoliticshttps://zeihan.com \u203a ukraine-war-qa-series-who-reall...",
+        "content": "If Russian propaganda has led you to believe that nazi-jewish-gay-demons run Ukraine...maybe this isn't the video for you.",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2023:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zeihan.com/ukraine-war-qa-series-who-really-started-this-whole-thing/",
+        "title": "Ukraine War Q&A Series: Who Really Started This Whole Thing?Zeihan on Geopoliticshttps://zeihan.com \u203a ukraine-war-qa-series-who-reall...",
+        "content": "If Russian propaganda has led you to believe that nazi-jewish-gay-demons run Ukraine...maybe this isn't the video for you.",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2023:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zeihan.com/ukraine-war-qa-series-who-really-started-this-whole-thing/",
+        "title": "Ukraine War Q&A Series: Who Really Started This Whole Thing?Zeihan on Geopoliticshttps://zeihan.com \u203a ukraine-war-qa-series-who-reall...",
+        "content": "If Russian propaganda has led you to believe that nazi-jewish-gay-demons run Ukraine...maybe this isn't the video for you.",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2023:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.eurasiareview.com/04062023-ukraine-military-situation-report-analysis-2/",
+        "title": "Ukraine Military Situation Report \u2013 Analysis - Eurasia ReviewEurasia Reviewhttps://www.eurasiareview.com \u203a 04062023-ukraine-...",
+        "content": "Yet paramilitary networks' arsenals, including advanced man-portable air defense systems, late-generation anti-tank ... Ukraine War has announced\u00a0...",
+        "size": [
+          800,
+          445
+        ],
+        "date": "2023:06:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thegeopolitics.com/will-the-new-supply-of-western-weapons-change-the-directions-of-the-ukraine-war/",
+        "title": "Will the New Supply of Western Weapons Change the ...The Geopoliticshttps://thegeopolitics.com \u203a will-the-new-supply-of-...",
+        "content": "The supply of Western weapons to Ukraine has changed the course of the conflict, but are we fueling a protracted war ... tank missiles, Leopard\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": "2023:06:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.counterpunch.org/2023/09/12/a-good-investment-the-ukraine-war-and-the-us-arms-racket/",
+        "title": "\u201cA Good Investment\u201d: The Ukraine War and the US Arms RacketCounterPunchhttps://www.counterpunch.org \u203a 2023/09/12 \u203a a-goo...",
+        "content": "While a certain narrative in US politics continues in the vein of traditional cant and hustling ceremony regarding the Ukraine War \u2013 \u201cnoble\u00a0...",
+        "size": [
+          680,
+          454
+        ],
+        "date": "2023:09:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://socialistrevolution.org/ukraine-war-leads-to-splits-in-the-communist-movement-back-to-lenin/",
+        "title": "Ukraine War Leads to Splits in the Communist MovementSocialist Revolutionhttps://socialistrevolution.org \u203a ukraine-war-leads-to-...",
+        "content": "... War. Tank Image AFU StratCom Wikimedia Commons The Russian Communist Workers' Party (RCWP) argued that Russia's war was \u201cjust and defensive.",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://socialistrevolution.org/ukraine-war-leads-to-splits-in-the-communist-movement-back-to-lenin/",
+        "title": "Ukraine War Leads to Splits in the Communist MovementSocialist Revolutionhttps://socialistrevolution.org \u203a ukraine-war-leads-to-...",
+        "content": "... War. Tank Image AFU StratCom Wikimedia Commons The Russian Communist Workers' Party (RCWP) argued that Russia's war was \u201cjust and defensive.",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://socialistrevolution.org/ukraine-war-leads-to-splits-in-the-communist-movement-back-to-lenin/",
+        "title": "Ukraine War Leads to Splits in the Communist MovementSocialist Revolutionhttps://socialistrevolution.org \u203a ukraine-war-leads-to-...",
+        "content": "... War. Tank Image AFU StratCom Wikimedia Commons The Russian Communist Workers' Party (RCWP) argued that Russia's war was \u201cjust and defensive.",
+        "size": [
+          960,
+          641
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://echomsk.spb.ru/nws/1850539-kitajskaya-great-wall-otozvala-v-rossii-55-tys-avtomobilej-haval-izza-glonass.html",
+        "title": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f Great Wall \u043e\u0442\u043e\u0437\u0432\u0430\u043b\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 55 \u0442\u044b\u0441 ...Echomsk.spb.ruhttps://echomsk.spb.ru \u203a nws \u203a 185...",
+        "content": "Great Wall \u043e\u0442\u0447\u0438\u0442\u0430\u043b\u0441\u044f \u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430\u0445 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 Haval, Tank \u0438 GWM \u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043a\u043e\u043d\u0446\u0435\u0440\u043d Great Wall \u043f\u0440\u043e\u0434\u0430\u043b \u0441 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2023 \u0433\u043e\u0434\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 84,5\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": "2023:11:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sotsu.co.jp/?o=ukraine-war-inspires-weapons-that-crack-battle-tanks-at-cc-Qz3x2lf0",
+        "title": "Ukraine War Inspires Weapons That Crack Battle Tanks At, 58 ...sotsu.co.jphttps://sotsu.co.jp \u203a dn-t72",
+        "content": "Ukraine war inspires weapons that crack battle tanks at weakest point, Camouflage masks for Russian T-90A 1/35 Spots are made to represent camo scheme for\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sotsu.co.jp/?k=ukraine-war-inspires-weapons-that-crack-battle-tanks-at-pp-DXYROEi8",
+        "title": "Ukraine War Inspires Weapons That Crack Battle Tanks At, 43 ...sotsu.co.jphttps://www.sotsu.co.jp \u203a dn-t72",
+        "content": "Ukraine war inspires weapons that crack battle tanks at weakest point, 1:35 USSR and Russia After Second World War Armoured Fighting Vehicles Military\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.escapeauthority.com/category/reviews/feed/war-in-ukraine-waiting-for-leopard-tanks-on-the-pp-z88Z8PsB",
+        "title": "War In Ukraine: Waiting For Leopard Tanks On The KharkivEscape Authorityhttps://www.escapeauthority.com \u203a reviews \u203a feed",
+        "content": "War In Ukraine: Waiting For Leopard Tanks On The Kharkiv Front: 'We Don't Have What We Need For The Counteroffensive' International EL PA\u00cdS English | Black\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://reject.awcfs.org/article/veiled-in-secrecy-tribulations-of-somalia-women-living-with-hiv-in-eastleigh/?e=war-in-ukraine-waiting-for-leopard-tanks-on-the-dd-PPGV2iy",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontAfrican Woman And Child Feature Servicehttps://reject.awcfs.org \u203a Home \u203a soldier force tank",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://en.wikipedia.org/wiki/Russo-Ukrainian_War",
+        "title": "Russo-Ukrainian War - WikipediaWikipediahttps://en.wikipedia.org \u203a wiki \u203a Russo-Ukrainian_War",
+        "content": "Clockwise from top left: Ukrainian tanks during the 2022 Kharkiv ... The Donbas war settled into a violent but static conflict between Ukraine and the\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mwi.westpoint.edu/the-kherson-ruse-ukraine-and-the-art-of-military-deception/",
+        "title": "The Kherson Ruse: Ukraine and the Art of Military DeceptionModern War Institute -https://mwi.westpoint.edu \u203a the-kherson-ruse-ukraine...",
+        "content": "That Ukrainian forces spearheaded their counteroffensive with a small number of tanks was to suggest that the action in Kharkiv was a feint. They then\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.transplantecapilarbrasilia.com.br/tratamento/tecnicas-capilares/?q=how-russia-lost-an-epic-tank-battle-repeating-earlier-xx-8nB7GbCy",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 50 ...transplantecapilarbrasilia.com.brhttps://www.transplantecapilarbrasilia.com.br \u203a tecnica...",
+        "content": "How Russia Lost an Epic Tank Battle, Repeating Earlier Mistakes The New York Times. Ukraine war: Is the tank doomed? BBC News. How Russia Lost an Epic Tank\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://escapeauthority.com/simple-hair-cutting/war-in-ukraine-waiting-for-leopard-tanks-on-the-pp-z88Z8PsB",
+        "title": "War In Ukraine: Waiting For Leopard Tanks On The KharkivEscape Authorityhttps://escapeauthority.com \u203a black tank driver",
+        "content": "War In Ukraine: Waiting For Leopard Tanks On The Kharkiv Front: 'We Don't Have What We Need For The Counteroffensive' International EL PA\u00cdS English | Black\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://int.insancendekiaska.org/?a=western-tanks-appear-headed-to-ukraine-breaking-another-taboo-jj-wYkGB9f2",
+        "title": "Western Tanks Appear Headed To Ukraine, Breaking Another ...insancendekiaska.orghttps://int.insancendekiaska.org \u203a ...",
+        "content": "Western Tanks Appear Headed to Ukraine, Breaking Another Taboo The New York Times. Ukraine war: Is the tank doomed? BBC News. Western Tanks Appear Headed to\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.iiitl.ac.in/unwanted_semiconscious.shtml/?g=western-tanks-appear-headed-to-ukraine-breaking-another-taboo-pp-WARzLNS9",
+        "title": "Western Tanks Appear Headed To Ukraine, Breaking Another ...IIIT Lucknowhttps://www.iiitl.ac.in \u203a unwanted_semiconscious",
+        "content": "Why Ukraine believes tanks can turn the tide of war \u2013 POLITICO. Tanks, But No ... Ukraine war: Is the tank doomed? BBC News. Western Tanks Appear Headed to\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/target=/?w=why-tanks-are-still-warfare-workhorses-in-ukraine-cc-w0ljbBUl",
+        "title": "Why Tanks Are Still Warfare Workhorses In Ukraine, 50% OFFelevate.inhttps://www.elevate.in \u203a Home \u203a vstank pro t 72 m1",
+        "content": "Why Tanks Are Still Warfare Workhorses in Ukraine. Ukraine war: 'This is such a stupid tank': Commander's plea for Western upgrades World News Sky News.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://market1.hu/?c=why-tanks-are-still-warfare-workhorses-in-ukraine-yy-7Ozy0nue",
+        "title": "Why Tanks Are Still Warfare Workhorses In Ukraine, 40% OFFmarket1.huhttps://market1.hu \u203a adventure force army tank",
+        "content": "Why Tanks Are Still Warfare Workhorses in Ukraine. Donated Tanks Headed to Ukraine Defense One. Why Tanks Are Still Warfare Workhorses in Ukraine. Ukraine war\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://brains.strathmore.edu/?m=russia-ukraine-war-list-of-key-events-day-400-oo-Y77dEzhj",
+        "title": "List of key events, day 400 Russia-Ukraine war News Al JazeeraStrathmore Universityhttps://brains.strathmore.edu \u203a finder 72b",
+        "content": "Trumpeter 9609 1/35 Russian T-72B1 with KTM-6 Grating Armour, The T-72 is a Soviet second-generation main battle tank that entered production in.",
+        "size": [
+          800,
+          445
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://asianinvent.com/?w=ukraine-war-czech-crowdfunding-buys-tomas-the-tank-for-4-pp-VXWJNrfR",
+        "title": "Ukraine War: Czech Crowdfunding Buys 'Tomas The Tank' For ...asianinvent.comhttps://asianinvent.com \u203a t-72b tank price",
+        "content": "Ukraine war: Czech crowdfunding buys 'Tomas the tank' for Ukraine BBC News, (Link):",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.msgcorp.jp/?e=russian-revolt-putin-aa-ojGVEAU1",
+        "title": "Russian Revolt Putin, 60% OFFGreat Future Pakistanhttps://www.msgcorp.jp \u203a 83fo tank",
+        "content": "Putin modernizing 60-year-old Soviet tanks for Ukraine war. New with tags, cable knit tank top in lilac wide straps metallic detail at neck and hem square\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=use-us-for-combat-zone-tests-ukraine-minister-tells-cc-jpA9Gls1",
+        "title": "Use us for combat zone tests, Ukraine minister tells US war ...elevate.inhttps://www.elevate.in \u203a dn-t72",
+        "content": "Ukraine war: Is the tank doomed? BBC News. Use us for combat zone tests ... Ukraine crisis: T-72 tank shoots hole in Russian denial BBC News. Use us for combat\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=use-us-for-combat-zone-tests-ukraine-minister-tells-cc-jpA9Gls1",
+        "title": "Use us for combat zone tests, Ukraine minister tells US war ...elevate.inhttps://www.elevate.in \u203a dn-t72",
+        "content": "Ukraine war: Is the tank doomed? BBC News. Use us for combat zone tests ... Ukraine crisis: T-72 tank shoots hole in Russian denial BBC News. Use us for combat\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://targoncavilla.com/at-last-the-is-sending-army-tanks-to-ukraine-gg-9eOWlOIQ",
+        "title": "At Last, The Is Sending Army Tanks To Ukrainetargoncavilla.comhttps://targoncavilla.com \u203a t72b1 tank",
+        "content": "At Last, The Is Sending Army Tanks To Ukraine | T72b1 Tank | targoncavilla ... 1:72 USSR and Russia After Second World War Tanks Military vehicles and equipment\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://baxtherland.com.mx/ukraine-expands-tank-fleet-russia-halves-since-invasion-began-ll-XGeVvAhp",
+        "title": "Ukraine Expands Tank Fleet, Russia Halves Since Invasionbaxtherland.com.mxhttps://baxtherland.com.mx \u203a bjf feeds uk",
+        "content": "Ukraine Expands Tank Fleet, Russia Halves Since Invasion Began: Report. Ukraine war: 'This is such a stupid tank': Commander's plea for Western upgrades\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ntc.egerton.ac.ke/?k=ukraine-to-receive-28-souped-up-soviet-tanks-from-ll-ewopVPiv",
+        "title": "Ukraine to receive 28 souped-up Soviet tanks from Slovenia in ...Egerton Universityhttps://ntc.egerton.ac.ke \u203a t-55s tank",
+        "content": "1:48 USSR and Russia After Second World War Tanks Military vehicles and equipment Scale models ... The Ukrainian Army Has Lost Its First Super-Upgraded M-55S Tank.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sotsu.co.jp/?k=general-frost-will-be-fighting-for-both-sides-in-pp-oBOqLJC8",
+        "title": "General Frost' Will Be Fighting for Both Sides in Ukrainesotsu.co.jphttps://www.sotsu.co.jp \u203a crown tank canada",
+        "content": "Will Ukraine's muddy ground halt Russian tanks? package dimensions: hx lx w (centimeters) part number: j5362159 package weight: kilograms country of origin:\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sotsu.co.jp/?o=general-frost-will-be-fighting-for-both-sides-in-cc-VNZQEVS2",
+        "title": "General Frost' Will Be Fighting for Both Sides in Ukrainesotsu.co.jphttps://sotsu.co.jp \u203a crown tank canada",
+        "content": "Russia's war on Ukraine latest: Missile strikes on Ukraine kill one Reuters ... Will Ukraine's muddy ground halt Russian tanks? Portable sinks for use in day\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://iiitl.ac.in/?k=donated-tanks-headed-to-ukraine-defense-one-cc-00GZ16tN",
+        "title": "Donated Tanks Headed to Ukraine Defense One - IIIT-LIIIT-Lhttps://iiitl.ac.in \u203a t-72 for sale czech",
+        "content": "Ukraine war: Czech crowdfunding buys 'Tomas the tank' for Ukraine BBC News. Donated Tanks Headed to Ukraine Defense One. Ukraine war: Is the tank doomed? BBC\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.chirimbola.mx/?q=why-tanks-are-still-warfare-workhorses-in-ukraine-mm-bRWL9zid",
+        "title": "Why Tanks Are Still Warfare Workhorses in Ukraine - ChirimbolaChirimbolahttps://www.chirimbola.mx \u203a ...",
+        "content": "Leopard 2: NATO tanks will be key to Ukraine's latest offensive International EL PA\u00cdS English. Why Tanks Are Still Warfare Workhorses in Ukraine. Ukraine war\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lbbangra.com.br/?u=ukrainians-are-selling-confiscated-russian-tanks-on-marca-ff-7eg6GEh3",
+        "title": "Ukrainians are selling confiscated Russian tanks on Marcalbbangra.com.brhttps://www.lbbangra.com.br \u203a ...",
+        "content": "Ukraine conflict day 423: and Germany to bolster Ukrainian tank forces CGTN ... Nato reports sightings of Russian tanks and troops entering eastern Ukraine\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elevate.in/?a=donated-tanks-headed-to-ukraine-defense-one-pp-DGlpeAUd",
+        "title": "Donated Tanks Headed To Ukraine Defense One, 42% OFFelevate.inhttps://elevate.in \u203a t-72 tank for sale usa",
+        "content": "Ukraine crisis: T-72 tank shoots hole in Russian denial BBC News. Donated Tanks Headed to Ukraine Defense One. Ukraine war: Is the tank doomed? BBC News.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zenaidebar.com.br/4117/7855-6089.htm/?e=donated-tanks-headed-to-ukraine-defense-one-ee-yv4YWluQ",
+        "title": "Donated Tanks Headed To Ukraine Defense One, 48% OFFzenaidebar.com.brhttps://zenaidebar.com.br \u203a ...",
+        "content": "Ukraine crisis: T-72 tank shoots hole in Russian denial BBC News. Donated Tanks Headed to Ukraine Defense One. Ukraine war: Is the tank doomed? BBC News.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.janux.nl/wp/geest-fles/?i=how-russia-lost-an-epic-tank-battle-repeating-earlier-vv-0QLX5fk",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 42 ...Jan Stegemanhttps://www.janux.nl \u203a Home \u203a real war tank",
+        "content": "Ukraine war: Is the tank doomed? BBC News. How Russia Lost an Epic Tank ... Ukraine conflict: Why is Russia losing so many tanks? BBC News. How Russia Lost an\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.activelifefitness.co.th/war-in-ukraine-waiting-for-leopard-tanks-on-the-yy-63297272",
+        "title": "War In Ukraine: Waiting For Leopard Tanks On The Kharkiv ...activelifefitness.co.thhttps://www.activelifefitness.co.th \u203a Tank army",
+        "content": "War In Ukraine: Waiting For Leopard Tanks On The Kharkiv Front: 'We Don't Have What We Need For The Counteroffensive' International EL PA\u00cdS English | Tank\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ceylonhestia.lk/?s=why-tanks-are-still-warfare-workhorses-in-ukraine-pp-qrXZ4PH1",
+        "title": "Why Tanks Are Still Warfare Workhorses In Ukraine, 43% OFFCeylon Hestiahttps://ceylonhestia.lk \u203a t-72a tank",
+        "content": "Why Tanks Are Still Warfare Workhorses in Ukraine, 1:35 USSR and Russia After Second World War Tanks Military vehicles and equipment Scale models.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=ukrainians-are-selling-confiscated-russian-tanks-on-marca-cc-KLmEdLTJ",
+        "title": "Ukrainians are selling confiscated Russian tanks on Marcaelevate.inhttps://www.elevate.in \u203a ukraine sellers",
+        "content": "Ukrainians are selling confiscated Russian tanks on Marca, I'm Ukrainian young artist from Zaporizhzhia and I love my country from the bottom of my I can't\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blog.topbrasilimoveis.com.br/at-last-the-is-sending-army-tanks-to-ukraine-vv-jqXXWWtr",
+        "title": "At Last, The Is Sending Army Tanks To Ukrainetopbrasilimoveis.com.brhttps://blog.topbrasilimoveis.com.br \u203a at-last-the-is-sen...",
+        "content": "At Last, The Is Sending Army Tanks To Ukraine | T-72 Tank For Sale Usa | blog.topbrasilimoveis.com.br.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blog.topbrasilimoveis.com.br/at-last-the-is-sending-army-tanks-to-ukraine-vv-jqXXWWtr",
+        "title": "At Last, The Is Sending Army Tanks To Ukrainetopbrasilimoveis.com.brhttps://blog.topbrasilimoveis.com.br \u203a at-last-the-is-sen...",
+        "content": "At Last, The Is Sending Army Tanks To Ukraine | T-72 Tank For Sale Usa | blog.topbrasilimoveis.com.br.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elementordemo-4.clinikadelexito.com/?k=why-tanks-are-still-warfare-workhorses-in-ukraine-jj-eqVpePTM",
+        "title": "Why Tanks Are Still Warfare Workhorses in Ukraineclinikadelexito.comhttps://elementordemo-4.clinikadelexito.com \u203a ...",
+        "content": "Why Tanks Are Still Warfare Workhorses in Ukraine, 1:35 USSR and Russia After Second World War Tanks Military vehicles and equipment Scale models.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://dicma.com.mx/content/russian-tank-force-k.html",
+        "title": "\u00e4\u00e4neen asentaa Joo russian tank force urheilija R\u00e4p\u00e4ytys Sulaadicma.com.mxhttp://dicma.com.mx \u203a content \u203a russian-tank-force-k",
+        "content": "The Russian Army Is Running Out Of Tanks For The War In Ukraine. \u00b7 Russia Boosts Flow of Fuel to Troops at Border | Energy Intelligence \u00b7 Russia lost nearly half\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://join.go-cv.co.uk/gilati-ice-maker-error-codes/western-tanks-appear-headed-to-ukraine-breaking-another-taboo-yy-LVPln4Ix",
+        "title": "Western Tanks Appear Headed To Ukraine, Breaking AnotherGo CVhttps://join.go-cv.co.uk \u203a gilati-ice-maker-error-codes",
+        "content": "Western Tanks Appear Headed to Ukraine, Breaking Another Taboo The New York Times. Ukraine war: Is the tank doomed? BBC News. With war clouds gathering, the\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oceanproperty.co.th/en/News/?q=ukrainians-are-selling-confiscated-russian-tanks-on-marca-ee-2yek3Wt6",
+        "title": "Ukrainians are selling confiscated Russian tanks on Marcaoceanproperty.co.thhttps://www.oceanproperty.co.th \u203a News",
+        "content": "Ukrainians are selling confiscated Russian tanks on Marca, Ukraine Flag Ukrainian Hand Held Small Mini Stick Flags Decorations Flags For Party Festival\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=xoANz9Hc2sM",
+        "title": "Russia's War Against Ukraine | RUSI Event 24 February 2023YouTube\u00a0\u00b7\u00a0RUSI2.7K+ views  \u00b7  9 months ago",
+        "content": "RUSI experts examine the impact of Russia's war against Ukraine on both countries, as well as on European security, and consider the likely\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://futureworld.edu.pk/about-future-world-school/russia-ukraine-war-list-of-key-events-day-400-cc-Kzx7JkHW",
+        "title": "Russia-Ukraine War: List Of Key Events, Day 400Future World Schoolhttps://futureworld.edu.pk \u203a finder 72b",
+        "content": "1:35 USSR and Russia After Second World War Tanks Military vehicles and equipment Scale models. Russia-Ukraine war: List of key events, day 400 Russia-Ukraine\u00a0...",
+        "size": [
+          800,
+          445
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://janekagiri.org/index.php/Russian-TV-Portrays-the-War-in-Ukraine-The-Atlantic-1175-115651",
+        "title": "How Russian TV Portrays the War in Ukraine - The Atlanticjanekagiri.orghttps://janekagiri.org \u203a index.php \u203a Russian-TV-Portra...",
+        "content": "How likely is the use of nuclear weapons by Russia? Chatham House \u2013 International Affairs Think Tank. How Russian TV Portrays the War in Ukraine - The\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pandetodos.com.gt/?u=how-russia-lost-an-epic-tank-battle-repeating-earlier-aa-eeeoJWFe",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 56 ...Pan de Todoshttps://www.pandetodos.com.gt \u203a ...",
+        "content": "Lessons from Ukraine could help shape Europe's new tank \u2014 if there is one ... The rot runs deep in the Russian war Ukraine is exposing it for all to see CNN.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://globe.or.jp/slovakia-ukraine-4-1-match-highlights-k.html",
+        "title": "\u0165a\u017eko Predbehnut\u00fd Pod\u013ea n\u00e1zvu slovakia ukraine 4 1 match ...globe.or.jphttps://globe.or.jp \u203a slovakia-ukraine-4-1-match-highli...",
+        "content": "Ukraine welcomes German tank move as 'first step' - BBC News ... Russia-Ukraine updates: US to send 31 Abrams tanks to Kyiv | Russia-Ukraine war News | Al Jazeera\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://virtuales.inu.edu.sv/?c=why-tanks-are-still-warfare-workhorses-in-ukraine-kk-ad6ZgWFl",
+        "title": "Why Tanks Are Still Warfare Workhorses In Ukraine, 50% OFF\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0634\u0646\u0627https://virtuales.inu.edu.sv \u203a t-72a tank",
+        "content": "Ukraine war: 'This is such a stupid tank': Commander's plea for Western ... 1:35 USSR and Russia After Second World War Tanks Military vehicles and equipment\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://futureworld.edu.pk/about-future-world-school/russia-ukraine-war-list-of-key-events-day-400-cc-Kzx7JkHW",
+        "title": "Russia-Ukraine War: List Of Key Events, Day 400Future World Schoolhttps://futureworld.edu.pk \u203a finder 72b",
+        "content": "1:35 USSR and Russia After Second World War Tanks Military vehicles and equipment Scale models. Russia-Ukraine war: List of key events, day 400 Russia-Ukraine\u00a0...",
+        "size": [
+          800,
+          445
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://janekagiri.org/index.php/Russian-TV-Portrays-the-War-in-Ukraine-The-Atlantic-1175-115651",
+        "title": "How Russian TV Portrays the War in Ukraine - The Atlanticjanekagiri.orghttps://janekagiri.org \u203a index.php \u203a Russian-TV-Portra...",
+        "content": "How likely is the use of nuclear weapons by Russia? Chatham House \u2013 International Affairs Think Tank. How Russian TV Portrays the War in Ukraine - The\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pandetodos.com.gt/?u=how-russia-lost-an-epic-tank-battle-repeating-earlier-aa-eeeoJWFe",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 56 ...Pan de Todoshttps://www.pandetodos.com.gt \u203a ...",
+        "content": "Lessons from Ukraine could help shape Europe's new tank \u2014 if there is one ... The rot runs deep in the Russian war Ukraine is exposing it for all to see CNN.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.alsholaco.com/?a=war-in-ukraine-waiting-for-leopard-tanks-on-the-cc-3266zXTO",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontalsholaco.comhttps://www.alsholaco.com \u203a Tank army",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://private.lanka.tax/?m=why-tanks-are-still-warfare-workhorses-in-ukraine-rr-vD5aj8iZ",
+        "title": "Why Tanks Are Still Warfare Workhorses in Ukraine - Lanka.Taxlanka.taxhttps://private.lanka.tax \u203a ai tank for sale uk",
+        "content": "A Force To Be Reckoned With The M26 Pershing, the first American tank capable of taking on the German Army's Tiger I and Panther tanks, was introduced.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dynalabs.com.mx/?c=ukrainians-are-selling-confiscated-russian-tanks-on-marca-ee-2DeYlrHv",
+        "title": "Ukrainians are selling confiscated Russian tanks on Marcadynalabs.com.mxhttps://dynalabs.com.mx \u203a ukraine site",
+        "content": "Chernobyl disaster This was awarded to all Chernobyl 'liquidators', the name given to the group of all civil military personnel who were. Ukrainians are\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://klientfokus.se/?k=russia-has-suffered-over-100-000-casualties-in-months-ff-842Qq7Ie",
+        "title": "Russia Has Suffered Over 100,000 Casualties In Months In ...klientfokus.sehttps://klientfokus.se \u203a of 100000",
+        "content": "UK says 1,900 tanks among list of Russia's heavy losses during Ukraine war ... Ukraine war: Refugee from Popasna spots looted possessions on Russian tank BBC News.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://private.lanka.tax/?m=why-tanks-are-still-warfare-workhorses-in-ukraine-rr-Xjzpnmhp",
+        "title": "Why Tanks Are Still Warfare Workhorses in Ukraine - Lanka.Taxlanka.taxhttps://private.lanka.tax \u203a ai tank for sale",
+        "content": "Ukraine war: 'This is such a stupid tank': Commander's plea for Western ... Ukraine Expands Tank Fleet, Russia Halves Since Invasion Began: Report. Why Tanks\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ll.desarrollaraucania.cl/?c=how-russia-lost-an-epic-tank-battle-repeating-earlier-yy-EXbnL5ub",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 47 ...Corporaci\u00f3n Desarrollo Araucan\u00edahttps://ll.desarrollaraucania.cl \u203a real war tank",
+        "content": "Ukraine war: Is the tank doomed? BBC News. How Russia Lost an Epic Tank ... Ukraine conflict: Why is Russia losing so many tanks? BBC News. You may also like.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dynalabs.com.mx/?c=ukrainians-are-selling-confiscated-russian-tanks-on-marca-ee-2DeYlrHv",
+        "title": "Ukrainians are selling confiscated Russian tanks on Marcadynalabs.com.mxhttps://dynalabs.com.mx \u203a ukraine site",
+        "content": "Chernobyl disaster This was awarded to all Chernobyl 'liquidators', the name given to the group of all civil military personnel who were. Ukrainians are\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://klientfokus.se/?k=russia-has-suffered-over-100-000-casualties-in-months-ff-842Qq7Ie",
+        "title": "Russia Has Suffered Over 100,000 Casualties In Months In ...klientfokus.sehttps://klientfokus.se \u203a of 100000",
+        "content": "UK says 1,900 tanks among list of Russia's heavy losses during Ukraine war ... Ukraine war: Refugee from Popasna spots looted possessions on Russian tank BBC News.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://private.lanka.tax/?m=why-tanks-are-still-warfare-workhorses-in-ukraine-rr-Xjzpnmhp",
+        "title": "Why Tanks Are Still Warfare Workhorses in Ukraine - Lanka.Taxlanka.taxhttps://private.lanka.tax \u203a ai tank for sale",
+        "content": "Ukraine war: 'This is such a stupid tank': Commander's plea for Western ... Ukraine Expands Tank Fleet, Russia Halves Since Invasion Began: Report. Why Tanks\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ll.desarrollaraucania.cl/?c=how-russia-lost-an-epic-tank-battle-repeating-earlier-yy-EXbnL5ub",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 47 ...Corporaci\u00f3n Desarrollo Araucan\u00edahttps://ll.desarrollaraucania.cl \u203a real war tank",
+        "content": "Ukraine war: Is the tank doomed? BBC News. How Russia Lost an Epic Tank ... Ukraine conflict: Why is Russia losing so many tanks? BBC News. You may also like.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://socialistworker.co.uk/tag/nato/",
+        "title": "Nato - Socialist WorkerSocialist Workerhttps://socialistworker.co.uk \u203a tag \u203a nato",
+        "content": "West supplying tanks to Ukraine threatens major escalation. Germany to send 14 ... Ukraine war entering a deadly new phase. War in Ukraine continues. 22 August\u00a0...",
+        "size": [
+          760,
+          506
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qmsoft.com.vn/ukraine-to-receive-28-souped-up-soviet-tanks-from-ff-jJvPgDCJ",
+        "title": "Ukraine To Receive 28 Souped-up Soviet Tanks From Sloveniaqmsoft.com.vnhttps://qmsoft.com.vn \u203a t-55s tank",
+        "content": "Slovenia hands over M-55S tanks to Ukraine: what they are. 1:48 USSR and Russia After Second World War Tanks Military vehicles and equipment Scale models.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.talentpool.com.ng/?y=donated-tanks-headed-to-ukraine-defense-one-ll-kbzZRziX",
+        "title": "Donated Tanks Headed to Ukraine Defense One - Talentpooltalentpool.com.nghttps://www.talentpool.com.ng \u203a ...",
+        "content": "Ukraine war: Is the tank doomed? BBC News. Donated Tanks Headed to Ukraine Defense ... Ukraine war: Czech crowdfunding buys 'Tomas the tank' for Ukraine BBC News.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/kallberg_ukraine-breakthrough-underway-as-kyiv-smashes-activity-7110642500263927809-Pjjs?trk=public_profile_like_view",
+        "title": "Jan Kallberg, Ph.D., LL.M.'s Post - LinkedInLinkedInhttps://www.linkedin.com \u203a posts \u203a kallberg_ukraine-bre...",
+        "content": "... tank mines TM 62 on Russian assets. Russians observe first use of a true swarm ... The best military assessment of the war in Ukraine. From the Commander in\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.grupobsg.com.br/wikipedia-fights-russian-order-to-remove-ukraine-war-information-oo-Y63EkxHB",
+        "title": "Wikipedia Fights Russian Order To Remove Ukraine Wargrupobsg.com.brhttps://www.grupobsg.com.br \u203a ...",
+        "content": "Battle Of Donbas: A Massive Tank War Could Decide Ukraine's Fate \u2014 Defense Priorities. \", The Super 55 Deluxe Vocal Microphone features a signature satin\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zenaidebar.com.br/4117/7855-6089.htm/?e=hundreds-of-russian-vehicles-weapon-systems-seized-during-kharkiv-ee-zv3RaVHX",
+        "title": "Hundreds of Russian vehicles, weapon systems seized during ...zenaidebar.com.brhttps://zenaidebar.com.br \u203a ... \u203a model artillery vehicle",
+        "content": "Ukraine Weapons Tracker on Twitter: \"This tank was captured from the Russian army by the Ukrainian 93rd Mechanized Brigade back in the beginning of\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.grupobsg.com.br/objektif/wikipedia-fights-russian-order-to-remove-ukraine-war-information-oo-Y63EkxHB",
+        "title": "Wikipedia Fights Russian Order To Remove Ukraine Wargrupobsg.com.brhttps://www.grupobsg.com.br \u203a objektif",
+        "content": "Battle Of Donbas: A Massive Tank War Could Decide Ukraine's Fate \u2014 Defense Priorities. \", The Super 55 Deluxe Vocal Microphone features a signature satin\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nuos.in/ukrainians-are-selling-confiscated-russian-tanks-on-marca-mm-zpG3rbHR",
+        "title": "Ukrainians Are Selling Confiscated Russian Tanks On Marcanuos.inhttps://nuos.in \u203a uk used weights for sale",
+        "content": "Ukraine pushes for Western fighter jets after tank deals. Ukrainians are ... The Kherson Ruse: Ukraine and the Art of Military Deception Modern War Institute\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cookinglinkcentral.com/?m=polish-t-55am-tank-equipped-with-zb-wlwd-mine-ll-R2qRAOTm",
+        "title": "Polish T-55AM Tank Equipped With ZB-WLWD Mine Clearing ...cookinglinkcentral.comhttps://www.cookinglinkcentral.com \u203a ...",
+        "content": "These are not rental cars': As Ukraine pleads for tanks, the West holds back POLITICO ... Tank Stock Photo Download Image Now Armored Tank, Military, War iStock.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/kallberg_ukraine-breakthrough-underway-as-kyiv-smashes-activity-7110642500263927809-Pjjs?trk=public_profile_like_view",
+        "title": "Jan Kallberg, Ph.D., LL.M.'s Post - LinkedInLinkedInhttps://www.linkedin.com \u203a posts \u203a kallberg_ukraine-bre...",
+        "content": "... tank mines TM 62 on Russian assets. Russians observe first use of a true swarm ... The best military assessment of the war in Ukraine. From the Commander in\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.valleymedpsych.com/?o=assessing-russia-s-war-in-ukraine-uu-8y8j6yc9",
+        "title": "Assessing Russia's War In Ukraine, 41% OFF - Valley MedPsychValley MedPsychhttps://www.valleymedpsych.com \u203a ...",
+        "content": "Assessing Russia's War in Ukraine, The LakeSurf Balance Board was designed with Wakesurfing and Skateboarding in mind to provide the most realistic Unlike a\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://inschrijven.recreactief.be/?e=why-tanks-are-still-warfare-workhorses-in-ukraine-bb-A87d2esB",
+        "title": "Why Tanks Are Still Warfare Workhorses in UkraineRecreactiefhttps://inschrijven.recreactief.be \u203a ...",
+        "content": "Why Tanks Are Still Warfare Workhorses in Ukraine. Ukraine war: 'This is such a stupid tank': Commander's plea for Western upgrades World News Sky News.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bellezatotal.com.ar/Invasion-of-Ukraine-A-Forum-for-Young-People-to-React-2331-170167",
+        "title": "Russia's Invasion of Ukraine: A Forum for Young People to ...bellezatotal.com.arhttps://bellezatotal.com.ar \u203a youth invasion card",
+        "content": "... Ukraine War on right-wing populism in Europe* - ECPS. Russia's Invasion of ... Think Tank reports on the invasion of Ukraine - Consilium. Russia's Invasion of\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/kallberg_14-russian-helicopters-likely-destroyed-by-activity-7125438375070699520-1opY?trk=public_profile_like_view",
+        "title": "Jan Kallberg, Ph.D., LL.M.'s Post - LinkedInLinkedIn\u00a0\u00b7\u00a0Jan Kallberg, Ph.D., LL.M.3 weeks ago",
+        "content": "The Russian speaking east is gone and they're not coming back. Time to end the war while there is still something left of Ukraine to salvage.",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://newpage.magistra.ec/?u=live-updates-un-chief-wants-ukraine-humanitarian-cease-fire-tt-00MrK6hE",
+        "title": "Live Updates: UN Chief Wants Ukraine Humanitarian, 45% OFFmagistra.echttps://newpage.magistra.ec \u203a 400 kl tank",
+        "content": "Live updates: UN chief wants Ukraine humanitarian cease-fire The San Diego Union-. War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.softoptimize.com/?a=russian-business-offers-cash-bounties-to-destroy-western-tanks-nn-prBx7fd",
+        "title": "Russian business offers cash bounties to destroy Western ...softoptimize.comhttps://www.softoptimize.com \u203a ...",
+        "content": "Russian business offers cash bounties to destroy Western tanks in Ukraine Reuters, 1:35 USSR and Russia After Second World War Tanks Military vehicles and\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://ceat.com.tn/Stars.aspx?iid=443281119-military+building+blocks&cid=108",
+        "title": "military building blocks Hot Sale - OFF 72% - CEATceat.com.tnhttp://ceat.com.tn \u203a Stars",
+        "content": "Style: Building Blocks Generic Red Packaging; XINGBAO 06019 Military Series The; General Jim's WW2 Military US Army; Buy DIY Mini Tank Style Military\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://dicma.com.mx/levitation142/td90p9dc1.html",
+        "title": "pys\u00e4k\u00f6id\u00e4 toimilaite nauru how much fuel does a tank use ...dicma.com.mxhttp://dicma.com.mx \u203a levitation142",
+        "content": "What is a 'main battle tank,' and how will Ukraine use them? - Breaking\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rusi.org/people/arnold",
+        "title": "Ed Arnold | Royal United Services Institute - RUSIRoyal United Services Institutehttps://www.rusi.org \u203a people \u203a arnold",
+        "content": "His primary research focus is on the transformation of European security following Russia's war on Ukraine. Specifically, he covers the evolving Euro\u00a0...",
+        "size": [
+          268,
+          176
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.grupobsg.com.br/wikipedia-fights-russian-order-to-remove-ukraine-war-information-oo-Y63EkxHB",
+        "title": "Wikipedia Fights Russian Order To Remove Ukraine Wargrupobsg.com.brhttps://www.grupobsg.com.br \u203a ...",
+        "content": "Battle Of Donbas: A Massive Tank War Could Decide Ukraine's Fate \u2014 Defense Priorities. \", The Super 55 Deluxe Vocal Microphone features a signature satin\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.grupobsg.com.br/objektif/wikipedia-fights-russian-order-to-remove-ukraine-war-information-oo-Y63EkxHB",
+        "title": "Wikipedia Fights Russian Order To Remove Ukraine Wargrupobsg.com.brhttps://www.grupobsg.com.br \u203a objektif",
+        "content": "Battle Of Donbas: A Massive Tank War Could Decide Ukraine's Fate \u2014 Defense Priorities. \", The Super 55 Deluxe Vocal Microphone features a signature satin\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nuos.in/ukrainians-are-selling-confiscated-russian-tanks-on-marca-mm-zpG3rbHR",
+        "title": "Ukrainians Are Selling Confiscated Russian Tanks On Marcanuos.inhttps://nuos.in \u203a uk used weights for sale",
+        "content": "Ukraine pushes for Western fighter jets after tank deals. Ukrainians are ... The Kherson Ruse: Ukraine and the Art of Military Deception Modern War Institute\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cookinglinkcentral.com/?m=polish-t-55am-tank-equipped-with-zb-wlwd-mine-ll-R2qRAOTm",
+        "title": "Polish T-55AM Tank Equipped With ZB-WLWD Mine Clearing ...cookinglinkcentral.comhttps://www.cookinglinkcentral.com \u203a ...",
+        "content": "These are not rental cars': As Ukraine pleads for tanks, the West holds back POLITICO ... Tank Stock Photo Download Image Now Armored Tank, Military, War iStock.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://virtuales.inu.edu.sv/?c=ukrainians-are-selling-confiscated-russian-tanks-on-marca-kk-b5W68PcY",
+        "title": "Ukrainians are selling confiscated Russian tanks on Marca\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0634\u0646\u0627https://virtuales.inu.edu.sv \u203a usa kaufen t 72 panzer",
+        "content": "Ukraine conflict day 423: and Germany to bolster Ukrainian tank forces CGTN ... 1:72 USSR Second World War Cars and trucks Military vehicles and equipment Scale\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://dicma.com.mx/content/how-much-fuel-does-a-tank-use-k.html",
+        "title": "How much fuel does a tank use? - dicmadicma.com.mxhttp://dicma.com.mx \u203a content \u203a how-much-fuel-doe...",
+        "content": "",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zenaidebar.com.br/4117/7855-6089.htm/?e=hundreds-of-russian-vehicles-weapon-systems-seized-during-kharkiv-ee-zv3RaVHX",
+        "title": "Hundreds of Russian vehicles, weapon systems seized during ...zenaidebar.com.brhttps://zenaidebar.com.br \u203a ... \u203a model artillery vehicle",
+        "content": "Ukraine Weapons Tracker on Twitter: \"This tank was captured from the Russian army by the Ukrainian 93rd Mechanized Brigade back in the beginning of\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.grupobsg.com.br/objektif/wikipedia-fights-russian-order-to-remove-ukraine-war-information-oo-Y63EkxHB",
+        "title": "Wikipedia Fights Russian Order To Remove Ukraine Wargrupobsg.com.brhttps://www.grupobsg.com.br \u203a objektif",
+        "content": "Battle Of Donbas: A Massive Tank War Could Decide Ukraine's Fate \u2014 Defense Priorities. \", The Super 55 Deluxe Vocal Microphone features a signature satin\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nuos.in/ukrainians-are-selling-confiscated-russian-tanks-on-marca-mm-zpG3rbHR",
+        "title": "Ukrainians Are Selling Confiscated Russian Tanks On Marcanuos.inhttps://nuos.in \u203a uk used weights for sale",
+        "content": "Ukraine pushes for Western fighter jets after tank deals. Ukrainians are ... The Kherson Ruse: Ukraine and the Art of Military Deception Modern War Institute\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cookinglinkcentral.com/?m=polish-t-55am-tank-equipped-with-zb-wlwd-mine-ll-R2qRAOTm",
+        "title": "Polish T-55AM Tank Equipped With ZB-WLWD Mine Clearing ...cookinglinkcentral.comhttps://www.cookinglinkcentral.com \u203a ...",
+        "content": "These are not rental cars': As Ukraine pleads for tanks, the West holds back POLITICO ... Tank Stock Photo Download Image Now Armored Tank, Military, War iStock.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://iiitl.ac.in/?k=behind-the-front-lines-russia-s-military-struggles-to-cc-KpgaJ8h5",
+        "title": "Behind The Front Lines, Russia's Military Struggles To, 53% OFFIIIT Lucknowhttps://iiitl.ac.in \u203a russian army gear for sale",
+        "content": "Behind the Front Lines, Russia's Military Struggles to Supply Its Forces WSJ. US to Help Transfer Soviet-Made Tanks to Ukraine: NYT. Behind the Front Lines\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=J1EELccOXFg",
+        "title": "A Contest of Wills: Ukraine's Summer Offensive - YouTubeYouTube\u00a0\u00b7\u00a0War on the Rocks Editor1.8K+ views  \u00b7  3 months ago",
+        "content": "... War In Ukraine | Secret Wars Uncovered | War Stories. War Stories ... Why Russian tanks are falling short of their Western counterparts | Ukraine:\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.worldwidecentralproperties.com/?y=frontline-videos-offer-grim-close-up-view-of-kyiv-dd-NA2r83t9",
+        "title": "Frontline Videos Offer Grim, Close-up View Of Kyiv's, 58% OFFWorldwide Central Propertieshttps://www.worldwidecentralproperties.com \u203a ...",
+        "content": "Russian troops 'fall back to regroup' north of Ukraine's Bakhmut Russia-Ukraine war News Al Jazeera ... Russian tanks and military vehicles captured by Ukraine\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shinyboxes.com/?w=how-ukraine-and-valeriy-zaluzhny-turned-the-tide-of-jj-BbpQq7So",
+        "title": "How Ukraine and Valeriy Zaluzhny Turned the Tide of the War ...shinyboxes.comhttps://shinyboxes.com \u203a ukraine t shirts australia",
+        "content": "FILE A car passes a destroyed tank abandoned on the road at a former Ukrainian army checkpoint that was overran last month by Russia-backed separatists\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ecocoolingcentre.com/?a=ukrainians-are-selling-confiscated-russian-tanks-on-marca-kk-7KPZXWhp",
+        "title": "Ukrainians are selling confiscated Russian tanks on MarcaEco cooling Centrehttps://ecocoolingcentre.com \u203a ...",
+        "content": "Ukrainians are selling confiscated Russian tanks on Marca. Ukraine pushes for Western fighter jets after tank deals. Ukrainians are selling confiscated\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.shiroya.jp/?y=hundreds-of-russian-vehicles-weapon-systems-seized-during-kharkiv-ee-Gk8GMLF3",
+        "title": "Hundreds of Russian vehicles, weapon systems seized during ...\u682a\u5f0f\u4f1a\u793e\u57ce\u5c4b\u30b3\u30f3\u30d4\u30e5\u30fc\u30bfhttps://www.shiroya.jp \u203a model artillery vehicle",
+        "content": "Ukraine Weapons Tracker on Twitter: \"This tank was captured from the Russian army by the Ukrainian 93rd Mechanized Brigade back in the beginning of\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mbrothers.com.au/fricasseed254-xwkils0m4.htm/?g=ukrainians-are-selling-confiscated-russian-tanks-on-marca-vv-kRwrqRCY",
+        "title": "Ukrainians are selling confiscated Russian tanks on Marcambrothers.com.auhttps://mbrothers.com.au \u203a Home \u203a ukraine sellers",
+        "content": "Ukrainians are selling confiscated Russian tanks on Marca. Ukraine Accuses Moscow Of 'False Flag' Operation To Lure Belarus Into War. Ukrainians are selling\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://ceat.com.tn/Stars.aspx?iid=443281125-military+building+blocks&cid=108",
+        "title": "military building blocks Hot Sale - OFF 67% - CEATceat.com.tnhttp://ceat.com.tn \u203a Stars",
+        "content": "Buy DIY Mini Tank Style Military; Call of Duty Strategy Guide; 1164 Pcs City Army Military Building; General Jim's WW2 USA M26 Pershing Anti; XINGBAO 06010\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mwi.westpoint.edu/competition-in-cyberspace-project/",
+        "title": "Competition in Cyberspace Project - Modern War Institute -Modern War Institute -https://mwi.westpoint.edu \u203a competition-in-cyberspac...",
+        "content": "The Russian invasion of Ukraine has become a test bed for theories about the conduct of modern warfare, and one of the mostly hotly debated topics has been the\u00a0...",
+        "size": [
+          400,
+          250
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://ceat.com.tn/Stars.aspx?iid=443281107-military+building+blocks&cid=108",
+        "title": "military building blocks Hot Sale - OFF 69% - CEATceat.com.tnhttp://ceat.com.tn \u203a Stars",
+        "content": "XINGBAO 06019 Military Series The; 21pcs/lot WW2 Military Building Blocks; General Jim's WW2 Military US Army; Cobi Blocks Clearance, SAVE 45; Buy DIY Mini Tank\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shinyboxes.com/?w=polish-t-55am-tank-equipped-with-zb-wlwd-mine-jj-7aDnWAuz",
+        "title": "Polish T-55AM Tank Equipped With ZB-WLWD Mine Clearing ...shinyboxes.comhttps://shinyboxes.com \u203a long line tanks",
+        "content": "Why Russian Tanks Are Exploding in Ukraine. Racerback 84% Poly Microfiber 16% Spandex ... Tank Stock Photo Download Image Now Armored Tank, Military, War iStock.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://technocrete.co/index.php/en/technocrete-products/landscaping/s-shape-rough-face?i=assessing-russia-s-war-in-ukraine-yy-jb97wbH4",
+        "title": "Assessing Russia's War In Ukraine, 42% OFF | technocrete.cotechnocrete.cohttps://technocrete.co \u203a index.php \u203a s-shape-rough-face",
+        "content": "Assessing Russia's War in Ukraine, Vans Half Cab Vault LX 'Black' shoes you will remember for a long time A little tape and goodwill can do This is the case\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vakaarchitecture.com/?a=ukraine-latest-key-allies-oppose-use-of-cluster-munitions-aa-XYn25MuM",
+        "title": "Ukraine latest: Key allies oppose use of cluster munitions by ...vakaarchitecture.comhttps://www.vakaarchitecture.com \u203a ...",
+        "content": "Russia-Ukraine War 'Not Like The Movies': Ukraine Filmmaker On War After Joining Frontline ... Ukraine battles, says UK military think tank Evening Standard.",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://en.m.wikipedia.org/wiki/File:UA_T-72AV_with_cross_01.jpg",
+        "title": "File:UA T-72AV with cross 01.jpg - WikipediaWikipediahttps://en.m.wikipedia.org \u203a wiki",
+        "content": "Russo-Ukrainian War \u00b7 User:Duu811/sandbox \u00b7 User:TankDude2000/sandbox. Global file usage. The following other wikis use this file: Usage on bcl.wikipedia.org.",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mihaus.com.co/on-war-in-Ukraine-232-93394",
+        "title": "Defence Secretary oral statement on war in Ukrainemihaus.com.cohttps://mihaus.com.co \u203a on-war-in-Ukraine-232-93394",
+        "content": "Defence Secretary oral statement on war in Ukraine | ben wallace now - mihaus.com.co.",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://a2zpapers.com/Saturn.aspx?iid=443281107-military+building+blocks&cid=108",
+        "title": "military building blocks Hot Sale - OFF 74%A2zpapers.comhttp://a2zpapers.com \u203a Saturn",
+        "content": "military building blocks Buy DIY Mini Tank Style Military military building ... Russia-Ukraine war: Ukraine says it has military building blocks. military\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shinyboxes.com/?w=war-in-ukraine-waiting-for-leopard-tanks-on-the-jj-ZR4LdJIp",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontshinyboxes.comhttps://shinyboxes.com \u203a pro line tanks",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://immivoyage.com/the-Ukrainians-in-WWII-Part-2-Stories-of-5327-86490",
+        "title": "Understanding the Ukrainians in WWII. Part 2. Stories ofimmivoyage.comhttps://immivoyage.com \u203a the-Ukrainians-in-WWII-...",
+        "content": "Russo-Ukrainian War - Wikipedia \u00b7 Kamianka, Ukraine, Bears Legacy and Detritus of WWII and Putin's \u00b7 The Language of Russia's War on Ukraine \u00b7 The Russia-Ukraine\u00a0...",
+        "size": [
+          960,
+          641
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.greenbamboodurians.com/chelsea-owner-roman-abramovich-says-he-will-sell-football-oo-6oXk76tv",
+        "title": "Chelsea Owner Roman Abramovich Says He Will Sell Footballgreenbamboodurians.comhttps://www.greenbamboodurians.com \u203a ...",
+        "content": "Chelsea Owner Roman Abramovich Says He Will Sell Football Club To Help Ukraine War Victims | Russian War Trophies For Sale | greenbamboodurians.com.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=v4bCXsaTD58",
+        "title": "Join us on 9 March for the RUSI Air and Missile ... - YouTubeYouTube\u00a0\u00b7\u00a0RUSI370+ views  \u00b7  9 months ago",
+        "content": "How Nepali youth joining Russian Army: Gurkhas in Ukraine #UPSC #IAS #CSE #IPS ... Divisions over Ukraine war mar G20 talks - BBC News. BBC News\u2022\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://torrea.mx/my-world-of-tank-won%27t-run-on-full-screen-k.html",
+        "title": "F\u0151utca \u00f3ce\u00e1n \u00c1tmenet my world of tank won't run on full ...torrea.mxhttps://torrea.mx \u203a my-world-of-tan...",
+        "content": "... Tanks - YouTube. What tanks are being sent to Ukraine and how will they\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://echomsk.spb.ru/nws/1913672-epoha-dominirovaniya-amerikanskih-podlodok-podhodit-k-kontsu-the-wall-street-journal.html",
+        "title": "\u042d\u043f\u043e\u0445\u0430 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043f\u043e\u0434\u043b\u043e\u0434\u043e\u043a \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u043a ...Echomsk.spb.ruhttps://echomsk.spb.ru \u203a nws \u203a 191...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1775100/epoha-dominirovaniya-amerikanskih-podlodok-podhodit-k-kontsu-the-wall-street-journal.html",
+        "title": "\u042d\u043f\u043e\u0445\u0430 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043f\u043e\u0434\u043b\u043e\u0434\u043e\u043a \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u043a ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a epoh...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1772164/wall-street-journal-vsu-ustali-i-ne-mogut-vesti-vojnu-na-istoschenie.html",
+        "title": "Wall Street Journal: \u0412\u0421\u0423 \u0443\u0441\u0442\u0430\u043b\u0438 \u0438 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u0435\u0441\u0442\u0438 \u0432\u043e\u0439\u043d\u0443 \u043d\u0430 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a wall-s...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://echomsk.spb.ru/nws/1897718-times-nastuplenie-ukrainskoj-armii-vydohlos.html",
+        "title": "Times: \u043d\u0430\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0439 \u0430\u0440\u043c\u0438\u0438 \u0432\u044b\u0434\u043e\u0445\u043b\u043e\u0441\u044cEchomsk.spb.ruhttps://echomsk.spb.ru \u203a nws \u203a 189...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1793096/arahamiya-vse-ukrainskoe-rukovodstvo-za-prodolgenie-vojny.html",
+        "title": "\u0410\u0440\u0430\u0445\u0430\u043c\u0438\u044f: \u0412\u0441\u0451 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0435 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u2014 \u0437\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a araha...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1761806/times-nastuplenie-ukrainskoj-armii-vydohlos.html",
+        "title": "Times: \u043d\u0430\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0439 \u0430\u0440\u043c\u0438\u0438 \u0432\u044b\u0434\u043e\u0445\u043b\u043e\u0441\u044cforpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a times...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "street",
+        "ioclass": "outdoor",
+        "probability": 0.33573687076568604
+      },
+      {
+        "class": "residential_neighborhood",
+        "ioclass": "outdoor",
+        "probability": 0.15854278206825256
+      },
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.05534127354621887
+      },
+      {
+        "class": "building_facade",
+        "ioclass": "outdoor",
+        "probability": 0.04846116900444031
+      },
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.047557730227708817
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.8208358287811279
+      },
+      {
+        "class": "moist",
+        "score": 0.7129828929901123
+      },
+      {
+        "class": "ice",
+        "score": 0.6565444469451904
+      },
+      {
+        "class": "season/winter",
+        "score": 0.6520485281944275
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.6463048458099365
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.5881508588790894
+      },
+      {
+        "class": "weather/clouds",
+        "score": 0.5699253082275391
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 360,
+        "pred_lat": 23.154390335083008,
+        "pred_long": -82.49630737304688
+      },
+      "middle": {
+        "pred_class": 384,
+        "pred_lat": 23.137033462524414,
+        "pred_long": -82.36347961425781
+      },
+      "fine": {
+        "pred_class": 4347,
+        "pred_lat": 14.576700210571289,
+        "pred_long": 120.97850799560547
+      },
+      "hierarchy": {
+        "pred_class": 6254,
+        "pred_lat": 23.138151168823242,
+        "pred_long": -82.37735748291016
+      },
+      "country": {
+        "city": "Manila",
+        "state": "",
+        "country": "Philippines"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 14.586995,
+    "longitude": 121.002785,
+    "generationtime_ms": 0.23496150970458984,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 5.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2016-05-11T00:00",
+        "2016-05-11T01:00",
+        "2016-05-11T02:00",
+        "2016-05-11T03:00",
+        "2016-05-11T04:00",
+        "2016-05-11T05:00",
+        "2016-05-11T06:00",
+        "2016-05-11T07:00",
+        "2016-05-11T08:00",
+        "2016-05-11T09:00",
+        "2016-05-11T10:00",
+        "2016-05-11T11:00",
+        "2016-05-11T12:00",
+        "2016-05-11T13:00",
+        "2016-05-11T14:00",
+        "2016-05-11T15:00",
+        "2016-05-11T16:00",
+        "2016-05-11T17:00",
+        "2016-05-11T18:00",
+        "2016-05-11T19:00",
+        "2016-05-11T20:00",
+        "2016-05-11T21:00",
+        "2016-05-11T22:00",
+        "2016-05-11T23:00",
+        "2016-05-12T00:00",
+        "2016-05-12T01:00",
+        "2016-05-12T02:00",
+        "2016-05-12T03:00",
+        "2016-05-12T04:00",
+        "2016-05-12T05:00",
+        "2016-05-12T06:00",
+        "2016-05-12T07:00",
+        "2016-05-12T08:00",
+        "2016-05-12T09:00",
+        "2016-05-12T10:00",
+        "2016-05-12T11:00",
+        "2016-05-12T12:00",
+        "2016-05-12T13:00",
+        "2016-05-12T14:00",
+        "2016-05-12T15:00",
+        "2016-05-12T16:00",
+        "2016-05-12T17:00",
+        "2016-05-12T18:00",
+        "2016-05-12T19:00",
+        "2016-05-12T20:00",
+        "2016-05-12T21:00",
+        "2016-05-12T22:00",
+        "2016-05-12T23:00"
+      ],
+      "apparent_temperature": [
+        34.9,
+        36.1,
+        38.4,
+        39.2,
+        39.6,
+        38.9,
+        39.2,
+        38.4,
+        37.5,
+        36.6,
+        35.8,
+        35.6,
+        35.3,
+        34.9,
+        34.4,
+        34.0,
+        33.8,
+        33.8,
+        33.5,
+        33.7,
+        33.6,
+        33.5,
+        33.8,
+        34.1,
+        34.8,
+        36.2,
+        37.8,
+        39.2,
+        39.4,
+        40.7,
+        39.0,
+        38.2,
+        37.3,
+        36.0,
+        35.6,
+        34.8,
+        34.6,
+        34.3,
+        34.0,
+        33.7,
+        33.3,
+        32.9,
+        32.5,
+        32.7,
+        32.7,
+        32.6,
+        32.6,
+        33.4
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        51,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

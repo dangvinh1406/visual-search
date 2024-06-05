@@ -1,0 +1,546 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 4,
+            "abnormal": true
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 4,
+        "abnormal": true,
+        "plot": {
+          "labels": [
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Anomaly detected",
+              "backgroundColor": "#DD1B16",
+              "data": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                4,
+                null,
+                null
+              ]
+            },
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                4,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 5,
+            "percentage": 100.0
+          }
+        },
+        "total": 5,
+        "plot": {
+          "labels": [
+            "English"
+          ],
+          "data": [
+            100
+          ],
+          "color": [
+            "#41B883"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://www.reuters.com/business/aerospace-defense/ukraine-war-orders-starting-boost-revenues-big-us-defense-contractors-2023-10-27/",
+        "title": "Ukraine war orders starting to boost revenues for big ... - ReutersReutershttps://www.reuters.com \u203a business \u203a aerospace-defense",
+        "content": "The Russian invasion of Ukraine in 2022 is starting to boost defense contractors' revenues, as customers such as the U.S. government restock\u00a0...",
+        "size": [
+          1200,
+          801
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/sep/16/russia-ukraine-war-live-kim-jong-un-meets-russias-defence-minister-and-inspects-nuclear-capable-bombers",
+        "title": "Russia-Ukraine war live: Moscow disputes Kyiv's claim about ...The Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a sep \u203a ru...",
+        "content": "Russia disputes Ukraine's claim about captured territory in Donetsk. Russia on Saturday denied a Ukrainian claim to have recaptured the\u00a0...",
+        "size": [
+          465,
+          279
+        ],
+        "date": "2023:09:16 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 0,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/sep/16/russia-ukraine-war-live-kim-jong-un-meets-russias-defence-minister-and-inspects-nuclear-capable-bombers",
+        "title": "Russia-Ukraine war live: Moscow disputes Kyiv's claim about ...The Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a sep \u203a ru...",
+        "content": "Russia disputes Ukraine's claim about captured territory in Donetsk. Russia on Saturday denied a Ukrainian claim to have recaptured the\u00a0...",
+        "size": [
+          465,
+          279
+        ],
+        "date": "2023:09:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/2023/10/04/europe/uk-nato-ukraine-war-ammunition-intl-hnk-ml/index.html",
+        "title": "Western ammo stocks at 'bottom of the barrel' as Ukraine war ...CNN.comhttps://www.cnn.com \u203a 2023/10/04 \u203a europe \u203a uk-nato-u...",
+        "content": "Western militaries are running out of ammunition to give to Ukraine, NATO and British officials warned Tuesday, as they urged the bloc's\u00a0...",
+        "size": [
+          1110,
+          741
+        ],
+        "date": "2023:10:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/2023/10/04/politics/ukraine-aid-impact-mccarthy-ouster-intl/index.html",
+        "title": "Ousting of US House speaker darkens outlook for Ukraine aid ...CNN.comhttps://www.cnn.com \u203a 2023/10/04 \u203a politics \u203a ukraine-a...",
+        "content": "The funding of Ukraine's war effort by the US has thus far amounted to $113 billion in security, economic and humanitarian aid since the Russian\u00a0...",
+        "size": [
+          1600,
+          1068
+        ],
+        "date": "2023:10:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-04-23/index.html",
+        "title": "October 4, 2023 - Russia-Ukraine news - CNNCNN.comhttps://www.cnn.com \u203a europe \u203a live-news \u203a russia-ukrai...",
+        "content": "President Volodymyr Zelensky said he believes Russia is now weaker than it was at the beginning of the war, so pausing the support or turning\u00a0...",
+        "size": [
+          460,
+          307
+        ],
+        "date": "2023:10:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reuters.com/business/aerospace-defense/ukraine-war-orders-starting-boost-revenues-big-us-defense-contractors-2023-10-27/",
+        "title": "Ukraine war orders starting to boost revenues for big ... - ReutersReutershttps://www.reuters.com \u203a business \u203a aerospace-defense",
+        "content": "The Russian invasion of Ukraine in 2022 is starting to boost defense contractors' revenues, as customers such as the U.S. government restock\u00a0...",
+        "size": [
+          1200,
+          801
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "hayfield",
+        "ioclass": "outdoor",
+        "probability": 0.22209283709526062
+      },
+      {
+        "class": "farm",
+        "ioclass": "outdoor",
+        "probability": 0.1663029044866562
+      },
+      {
+        "class": "sky",
+        "ioclass": "outdoor",
+        "probability": 0.11626532673835754
+      },
+      {
+        "class": "field/wild",
+        "ioclass": "outdoor",
+        "probability": 0.06392376869916916
+      },
+      {
+        "class": "field_road",
+        "ioclass": "outdoor",
+        "probability": 0.04690041393041611
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.8730420470237732
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.7496614456176758
+      },
+      {
+        "class": "bright",
+        "score": 0.7451358437538147
+      },
+      {
+        "class": "rugged",
+        "score": 0.6670986413955688
+      },
+      {
+        "class": "colorful",
+        "score": 0.6269257068634033
+      },
+      {
+        "class": "glowing",
+        "score": 0.6127335429191589
+      },
+      {
+        "class": "moist",
+        "score": 0.5529459714889526
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5451529622077942
+      },
+      {
+        "class": "weather/clouds",
+        "score": 0.5343543887138367
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1677,
+        "pred_lat": 38.50510787963867,
+        "pred_long": -96.11244201660156
+      },
+      "middle": {
+        "pred_class": 421,
+        "pred_lat": 32.59574890136719,
+        "pred_long": -98.95178985595703
+      },
+      "fine": {
+        "pred_class": 11854,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "hierarchy": {
+        "pred_class": 9855,
+        "pred_lat": 36.95846176147461,
+        "pred_long": -94.55805206298828
+      },
+      "country": {
+        "city": "",
+        "state": "Missouri",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": "2023:09:13 14:20:32",
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 39.40246,
+    "longitude": -94.22653,
+    "generationtime_ms": 0.25200843811035156,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 326.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2023-09-13T00:00",
+        "2023-09-13T01:00",
+        "2023-09-13T02:00",
+        "2023-09-13T03:00",
+        "2023-09-13T04:00",
+        "2023-09-13T05:00",
+        "2023-09-13T06:00",
+        "2023-09-13T07:00",
+        "2023-09-13T08:00",
+        "2023-09-13T09:00",
+        "2023-09-13T10:00",
+        "2023-09-13T11:00",
+        "2023-09-13T12:00",
+        "2023-09-13T13:00",
+        "2023-09-13T14:00",
+        "2023-09-13T15:00",
+        "2023-09-13T16:00",
+        "2023-09-13T17:00",
+        "2023-09-13T18:00",
+        "2023-09-13T19:00",
+        "2023-09-13T20:00",
+        "2023-09-13T21:00",
+        "2023-09-13T22:00",
+        "2023-09-13T23:00",
+        "2023-09-14T00:00",
+        "2023-09-14T01:00",
+        "2023-09-14T02:00",
+        "2023-09-14T03:00",
+        "2023-09-14T04:00",
+        "2023-09-14T05:00",
+        "2023-09-14T06:00",
+        "2023-09-14T07:00",
+        "2023-09-14T08:00",
+        "2023-09-14T09:00",
+        "2023-09-14T10:00",
+        "2023-09-14T11:00",
+        "2023-09-14T12:00",
+        "2023-09-14T13:00",
+        "2023-09-14T14:00",
+        "2023-09-14T15:00",
+        "2023-09-14T16:00",
+        "2023-09-14T17:00",
+        "2023-09-14T18:00",
+        "2023-09-14T19:00",
+        "2023-09-14T20:00",
+        "2023-09-14T21:00",
+        "2023-09-14T22:00",
+        "2023-09-14T23:00"
+      ],
+      "apparent_temperature": [
+        20.4,
+        18.1,
+        16.6,
+        15.9,
+        15.7,
+        13.4,
+        13.5,
+        11.8,
+        11.4,
+        11.2,
+        12.0,
+        10.7,
+        9.8,
+        12.8,
+        16.8,
+        20.0,
+        22.2,
+        24.1,
+        24.8,
+        24.9,
+        24.9,
+        23.3,
+        22.7,
+        21.7,
+        20.6,
+        18.8,
+        17.7,
+        17.1,
+        16.1,
+        15.7,
+        15.4,
+        14.5,
+        13.2,
+        11.6,
+        11.7,
+        12.5,
+        11.3,
+        12.6,
+        16.8,
+        19.7,
+        21.9,
+        22.9,
+        23.6,
+        23.5,
+        23.8,
+        24.0,
+        22.9,
+        23.0
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        2,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

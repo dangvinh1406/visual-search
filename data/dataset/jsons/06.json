@@ -1,0 +1,3049 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2013/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2013/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 84,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 84,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2013/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2014/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2015/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                2,
+                2,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                0,
+                0,
+                0,
+                1,
+                2,
+                0,
+                0,
+                2,
+                1,
+                1,
+                2,
+                3,
+                84,
+                3,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 76,
+            "percentage": 50.666666666666664
+          },
+          "Bengali": {
+            "count": 24,
+            "percentage": 16.0
+          },
+          "Chinese": {
+            "count": 12,
+            "percentage": 8.0
+          },
+          "Spanish; Castilian": {
+            "count": 8,
+            "percentage": 5.333333333333333
+          },
+          "Hindi": {
+            "count": 5,
+            "percentage": 3.3333333333333335
+          },
+          "Persian": {
+            "count": 4,
+            "percentage": 2.6666666666666665
+          },
+          "Malayalam": {
+            "count": 4,
+            "percentage": 2.6666666666666665
+          },
+          "Russian": {
+            "count": 4,
+            "percentage": 2.6666666666666665
+          },
+          "Indonesian": {
+            "count": 3,
+            "percentage": 2.0
+          },
+          "Tamil": {
+            "count": 3,
+            "percentage": 2.0
+          },
+          "Arabic": {
+            "count": 2,
+            "percentage": 1.3333333333333333
+          },
+          "Georgian": {
+            "count": 1,
+            "percentage": 0.6666666666666666
+          },
+          "Dutch; Flemish": {
+            "count": 1,
+            "percentage": 0.6666666666666666
+          },
+          "Oriya": {
+            "count": 1,
+            "percentage": 0.6666666666666666
+          },
+          "Turkish": {
+            "count": 1,
+            "percentage": 0.6666666666666666
+          },
+          "Urdu": {
+            "count": 1,
+            "percentage": 0.6666666666666666
+          }
+        },
+        "total": 150,
+        "plot": {
+          "labels": [
+            "English",
+            "Bengali",
+            "Chinese",
+            "Spanish; Castilian",
+            "others"
+          ],
+          "data": [
+            50,
+            16,
+            8,
+            5,
+            21
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "bn",
+        "link": "https://www.khaborerkagoj.com/international/790744",
+        "title": "\u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09c7\u09b0 \u09b8\u09b9\u09be\u09af\u09bc\u09a4\u09be \u099b\u09be\u09a1\u09bc\u09be\u0987 \u09b2\u09a1\u09bc\u09ac\u09c7 \u0987\u0989\u0995\u09cd\u09b0\u09c7\u09a8\u09c0\u09af\u09bc \u09b8\u09c7\u09a8\u09be\u09b0\u09bekhaborerkagoj.comhttps://www.khaborerkagoj.com \u203a i...",
+        "content": "",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:11:12 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.boston.com/culture/health/2013/07/16/restoring-a-culture-of-compassion-in-a-crisis/",
+        "title": "Restoring a culture of compassion in a crisis - Boston.comBoston.comhttps://www.boston.com \u203a culture \u203a health \u203a 2013/07/16",
+        "content": "... Israel-Hamas war. World News \u00b7 Israel strikes Gaza, Syria and West Bank as war against Hamas threatens to ignite other fronts \u00b7 World News\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2013:07:16 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 29,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.boston.com/culture/health/2013/07/16/restoring-a-culture-of-compassion-in-a-crisis/",
+        "title": "Restoring a culture of compassion in a crisis - Boston.comBoston.comhttps://www.boston.com \u203a culture \u203a health \u203a 2013/07/16",
+        "content": "... Israel-Hamas war. World News \u00b7 Israel strikes Gaza, Syria and West Bank as war against Hamas threatens to ignite other fronts \u00b7 World News\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2013:07:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ajc.com/news/national/anthem-the-seas-forced-cut-voyage-short-return-home-again/OOOYiwsulIqQbwqIE2HHjI/",
+        "title": "Anthem of the Seas forced to cut voyage short, return home ...AJC.comhttps://www.ajc.com \u203a news \u203a national \u203a anthem-the-seas...",
+        "content": "... Israel-Hamas War \u00b7 50 Years of Atlanta Hip Hop \u00b7 Trump Georgia Indictment \u00b7 Fall Dining Guide \u00b7 Georgia Politics \u00b7 Sports \u00b7 Opinion \u00b7 Local News.",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2016:02:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.daytondailynews.com/news/watch-video-of-9-year-old-belting-whitney-houston-goes-viral/576387011/",
+        "title": "WATCH: Boy, 9, with Down syndrome belts Whitney Houston ...Dayton Daily Newshttps://www.daytondailynews.com \u203a news \u203a watch-vid...",
+        "content": "Live updates | Israel says it's stepping up attacks on the Gaza Strip \u00b7 3. Philadelphia Orchestra and musicians agree to 3-year labor deal with\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2017:07:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ajc.com/news/national/officers-use-force-probed-after-robbers-hit-pub-hosting-cop-retirement-party/A7zltsv6PQftNubai5zviK/",
+        "title": "Officers' use of force probed after robbers hit pub hosting cop's ...AJC.comhttps://www.ajc.com \u203a news \u203a national \u203a officers-use-for...",
+        "content": "... Israel-Hamas War \u00b7 50 Years of Atlanta Hip Hop \u00b7 Trump Georgia Indictment \u00b7 Fall Dining Guide \u00b7 Georgia Politics \u00b7 Sports \u00b7 Opinion \u00b7 Local News.",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2017:09:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ajc.com/news/national/raising-cane-employee-fired-for-stirring-tea-with-her-arm-viral-video/FlomU01z0mA3vzWuA2BgpJ/",
+        "title": "Raising Cane's employee fired for stirring tea with her arm in ...AJC.comhttps://www.ajc.com \u203a news \u203a national \u203a raising-cane-em...",
+        "content": "... Israel-Hamas War \u00b7 50 Years of Atlanta Hip Hop \u00b7 Trump Georgia Indictment \u00b7 Fall Dining Guide \u00b7 Georgia Politics \u00b7 Sports \u00b7 Opinion \u00b7 Local News.",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2018:06:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.daytondailynews.com/news/national/watch-daughter-signs-song-lyrics-deaf-father-three-days-grace-concert/JsAFJDQYG1mRvxU1lDBgaL/",
+        "title": "Daughter signs song lyrics to deaf father at Three Days Grace ...Dayton Daily Newshttps://www.daytondailynews.com \u203a news \u203a national",
+        "content": "... Israel strikes Gaza, Syria and West Bank as war against Hamas threatens... 3. AP Top 25 Takeaways: Franklin, Penn State still chasing elite\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2019:06:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2020-05-07/manuel-negrete-da-positivo-al-covid-19",
+        "title": "Manuel Negrete da positivo al COVID-19 - Los Angeles TimesLos Angeles Timeshttps://www.latimes.com \u203a articulo",
+        "content": "... Israel bombardea Gaza, Siria y Cisjordania mientras la guerra contra Hamas amenaza con extenderse \u00b7 Vista del exterior del Consulado de M\u00e9xico\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": "2020:05:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/gallery/business/2020/07/31/champagne-losing-its-fizz-as-global-pandemic-clobbers-sales/",
+        "title": "Champagne losing its fizz as global pandemic clobbers salesClickOnDetroithttps://www.clickondetroit.com \u203a business \u203a 2020/07/31",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2020:07:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.ahram.org.eg/News/375988.aspx",
+        "title": "Saudi Arabia following with great concern consequences of ...Ahram Onlinehttps://english.ahram.org.eg \u203a News",
+        "content": "... Israel keeps blocking critical..... Most Viewed. Cairo Summit for Peace: Global leaders gather to de-escalate Israel-Gaza war..... Massive\u00a0...",
+        "size": [
+          200,
+          133
+        ],
+        "date": "2020:08:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/gallery/health/2020/08/31/asia-today-australia-records-its-deadliest-day-of-pandemic/",
+        "title": "Asia Today: Australia records its deadliest day of pandemicClickOnDetroithttps://www.clickondetroit.com \u203a health \u203a 2020/08/31",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2020:08:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/gallery/sports/2020/09/04/nascars-playoffs-move-on-without-any-pomp-or-circumstance/",
+        "title": "NASCAR's playoffs move on without any pomp or circumstanceWSLShttps://www.wsls.com \u203a gallery \u203a sports \u203a 2020/09/04",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2020:09:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/news/politics/2020/09/16/romney-says-biden-probe-not-legitimate-role-of-government/",
+        "title": "Romney says Biden probe 'not legitimate role of government'WKMGhttps://www.clickorlando.com \u203a politics \u203a 2020/09/16",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2020:09:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.latimes.com/espanol/california/articulo/2020-11-29/mas-de-500-hospitalizados-por-coronavirus-suma-california-en-un-dia",
+        "title": "M\u00e1s de 500 hospitalizados por coronavirus suma California ...Los Angeles Timeshttps://www.latimes.com \u203a articulo",
+        "content": "M\u00e1s de 500 hospitalizados por coronavirus suma California en un d\u00eda \u00b7 Israel bombardea Gaza, Siria y Cisjordania mientras la guerra contra Hamas\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": "2020:11:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2020-12-10/los-rams-tienen-recuerdos-dolorosos-de-los-patriots-y-cam-newton-podria-darles-mas-heridas-frescas",
+        "title": "Los Rams tienen recuerdos dolorosos de los Patriots, y Cam ...Los Angeles Timeshttps://www.latimes.com \u203a articulo",
+        "content": "... Israel bombardea Gaza, Siria y Cisjordania mientras la guerra contra Hamas amenaza con extenderse. Oct. 22, 2023. Vista del exterior del\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": "2020:12:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/gallery/news/2021/01/29/biden-to-visit-wounded-soldiers-at-walter-reed-hospital/",
+        "title": "Biden to visit wounded soldiers at Walter Reed Hospital - WPLGWPLGhttps://www.local10.com \u203a gallery \u203a news \u203a 2021/01/29",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2021:01:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/gallery/sports/2021/07/01/vasilevskiy-price-put-on-a-show-early-in-cup-final-game-2/",
+        "title": "Vasilevskiy, Price put on a show early in Cup Final Game 2WPLGhttps://www.local10.com \u203a sports \u203a 2021/07/01 \u203a vasil...",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2021:07:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ml",
+        "link": "https://www.sirajlive.com/when-leaving-karipur-airport.html?s",
+        "title": "Siraj DailySiraj Dailyhttps://www.sirajlive.com \u203a when-le...",
+        "content": "",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2021:08:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/gallery/sports/2021/09/06/police-investigating-4-argentines-over-wcup-qualifier-chaos/",
+        "title": "Police investigating 4 Argentines over WCup qualifier chaosClick2Houstonhttps://www.click2houston.com \u203a sports \u203a 2021/09/06",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2021:09:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ml",
+        "link": "https://www.sirajlive.com/legislature-handcuffing-case-the-accused-including-minister-v-sivankutty-denied-the-crime-in-the-court.html",
+        "title": "\u0d28\u0d3f\u0d2f\u0d2e\u0d38\u0d2d\u0d3e \u0d15\u0d48\u0d2f\u0d3e\u0d19\u0d4d\u0d15\u0d33\u0d3f \u0d15\u0d47\u0d38\u0d4d - Siraj DailySiraj Dailyhttps://www.sirajlive.com \u203a legislatu...",
+        "content": "",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2022:09:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/news/2022/09/25/jewish-pilgrims-gather-in-ukraine-despite-the-perils-of-war/",
+        "title": "Jewish pilgrims gather in Ukraine despite the perils of warWKMGhttps://www.clickorlando.com \u203a news \u203a 2022/09/25",
+        "content": "",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2022:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/news/2022/09/25/jewish-pilgrims-gather-in-ukraine-despite-the-perils-of-war/",
+        "title": "Jewish pilgrims gather in Ukraine despite the perils of warWKMGhttps://www.clickorlando.com \u203a news \u203a 2022/09/25",
+        "content": "",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2022:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.ahram.org.eg/News/476961.aspx",
+        "title": "Finland to ban entry to Russian tourists starting midnightAhram Onlinehttps://english.ahram.org.eg \u203a News",
+        "content": "Cairo Summit for Peace: Global leaders gather to de-escalate Israel-Gaza war..... Massive protests in several countries in solidarity with\u00a0...",
+        "size": [
+          200,
+          133
+        ],
+        "date": "2022:09:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/gallery/news/2023/01/23/rep-gallego-announces-bid-for-sinemas-arizona-senate-seat/",
+        "title": "Rep. Gallego announces bid for Sinema's Arizona Senate seatWPLGhttps://www.local10.com \u203a gallery \u203a news \u203a 2023/01/23",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://dymontiger.livejournal.com/18457649.html",
+        "title": "\u0416\u0443\u0442\u043a\u0438\u0435 \u043a\u0430\u0434\u0440\u044b \u0438\u0437 \u0422\u0443\u0440\u0446\u0438\u0438 - dymontiger - LiveJournaldymontigerhttps://dymontiger.livejournal.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:02:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.conclusion.com.ar/info-general/como-solicitar-el-certificado-de-vivienda-familiar/02/2023/",
+        "title": "C\u00f3mo solicitar el Certificado de Vivienda FamiliarDiario Digital Conclusi\u00f3nhttps://www.conclusion.com.ar \u203a co...",
+        "content": "",
+        "size": [
+          300,
+          181
+        ],
+        "date": "2023:02:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.deltatimes24.com/details.php?id=115306",
+        "title": "\u0987\u09b8\u09b0\u09be\u0987\u09b2\u09bf \u09b8\u09c7\u09a8\u09be\u09a6\u09c7\u09b0 \u0997\u09c1\u09b2\u09bf\u09a4\u09c7 \u09e9 \u09ab\u09bf\u09b2\u09bf\u09b8\u09cd\u09a4\u09bf\u09a8\u09bf \u09a8\u09bf\u09b9\u09a4 - Delta TimesDelta Timeshttps://www.deltatimes24.com \u203a det...",
+        "content": "",
+        "size": [
+          250,
+          131
+        ],
+        "date": "2023:05:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.ahram.org.eg/News/503225.aspx",
+        "title": "New US-Saudi-brokered 72 hour ceasefire in Sudan to begin ...Ahram Onlinehttps://english.ahram.org.eg \u203a News",
+        "content": "World leaders speak on de-escalating Israel-Gaza War: Who said what in Cairo..... Jordanian King denounces Israeli bombardment in Gaza as 'war\u00a0...",
+        "size": [
+          200,
+          133
+        ],
+        "date": "2023:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.deltatimes24.com/details.php?id=117348",
+        "title": "\u0995\u09be\u0981\u099a\u09be \u0995\u09be\u0981\u09a0\u09be\u09b2 \u09a6\u09bf\u09af\u09bc\u09c7 \u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09ae\u09be\u0982\u09b8 \u09ad\u09c1\u09a8\u09be - Delta TimesDelta Timeshttps://www.deltatimes24.com \u203a det...",
+        "content": "",
+        "size": [
+          250,
+          131
+        ],
+        "date": "2023:06:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://asarhumanity.org/id/kabar_terkini/56",
+        "title": "Alhamdulillah dengan izin Allah hajatan Qurban Extra Berkah ...ASAR Humanityhttps://asarhumanity.org \u203a kabar_ter...",
+        "content": "Israel Luncurkan Serangan Roket ke Rumah Sakit di Gaza, Lebih Dari 500 Penduduk Tewas. Diposting pada 18 Oktober 2023. Link. Home Tentang\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:07:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://asarhumanity.org/id/kabar_terkini/62",
+        "title": "Warga Nekat Puluhan Tahun Mandi Pakai Air AsinASAR Humanityhttps://asarhumanity.org \u203a kabar_ter...",
+        "content": "AsarNews, Lombok Tengah \u00b7 Agresi Israel: Melawan Penduduk Sipil dan Anak-Anak Di Palestina \u00b7 Pertahanan Sipil Palestina: Sebanyak 30 Orang Tewas\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:08:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://samakal.com/international/article/2308187601/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F",
+        "title": "\u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09c7\u09b0 \u09b8\u09b9\u09af\u09cb\u0997\u09bf\u09a4\u09be \u099a\u09be\u0987\u09b2\u09c7\u09a8 \u09a8\u09be\u0987\u099c\u09be\u09b0\u09c7\u09b0 \u0995\u09cd\u09b7\u09ae\u09a4\u09be\u099a\u09cd\u09af\u09c1\u09a4 \u09aa\u09cd\u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099fSamakalhttps://samakal.com \u203a article \u203a \u09af\u09c1\u0995...",
+        "content": "",
+        "size": [
+          250,
+          142
+        ],
+        "date": "2023:08:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ml",
+        "link": "https://www.sirajlive.com/questions-raised-by-udayanidhi-stalin.html?s",
+        "title": "Siraj DailySiraj Dailyhttps://www.sirajlive.com \u203a question...",
+        "content": "",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2023:09:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.deltatimes24.com/details.php?id=122621",
+        "title": "\u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09be\u09b2\u09be\u0995\u09c7 \u09b9\u09a4\u09cd\u09af\u09be\u0995\u09be\u09b0\u09c0 \u09b8\u09c7\u0987 \u099d\u09be\u09a1\u09bc\u09c1\u09a6\u09be\u09b0\u09c7\u09b0 \u09b2\u09be\u09b6 \u09ae\u09bf\u09b2\u09b2 \u09a5\u09be\u09a8\u09be\u09b0 \u099f\u09af\u09bc\u09b2\u09c7\u099f\u09c7Delta Timeshttps://www.deltatimes24.com \u203a det...",
+        "content": "",
+        "size": [
+          250,
+          131
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.amaderbarta.net/world/news/12037",
+        "title": "\u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8\u09c7 \u0988\u09a6\u09c7 \u09ae\u09bf\u09b2\u09be\u09a6\u09c1\u09a8\u09cd\u09a8\u09ac\u09c0\u09b0 \u09ae\u09bf\u099b\u09bf\u09b2\u09c7 \u09ad\u09af\u09bc\u09be\u09ac\u09b9 \u09ac\u09cb\u09ae\u09be \u09b9\u09be\u09ae\u09b2\u09be, \u09a8\u09bf\u09b9\u09a4 \u09eb\u09e8-Amader Bartahttps://www.amaderbarta.net \u203a news",
+        "content": "",
+        "size": [
+          373,
+          210
+        ],
+        "date": "2023:09:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ta",
+        "link": "https://tamil.news18.com/videos/tamil-nadu/this-week-s-horoscope-result-is-libra-tulam-01-10-2023-07-10-2023-weekly-astrology-n18v-1177722.html",
+        "title": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0 \u0bb0\u0bbe\u0b9a\u0bbf \u0baa\u0bb2\u0ba9\u0bcd \u0ba4\u0bc1\u0bb2\u0bbe\u0bae\u0bcd \u0bb0\u0bbe\u0b9a\u0bbf | Tulam | 01.10.2023News18 Tamilhttps://tamil.news18.com \u203a tamil-nadu",
+        "content": "",
+        "size": [
+          1200,
+          720
+        ],
+        "date": "2023:10:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.standaard.be/cnt/dmf20231001_96278635",
+        "title": "Jezelf zijn | De Standaard MobileDe Standaardhttps://www.standaard.be \u203a cnt \u203a d...",
+        "content": "Hier raakte ik in de war. Hoe kan ik mezelf kennen als ik mezelf ... De Standaard Waarom Biden Oekra\u00efne linkt aan Isra\u00ebl. Meest recent. Live\u00a0...",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:10:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/sports/2023/10/01/tim-wakefield-who-revived-his-career-and-red-sox-trophy-case-with-knuckleball-has-died-at-57/",
+        "title": "Tim Wakefield, who revived his career and Red Sox trophy ...WKMGhttps://www.clickorlando.com \u203a sports \u203a 2023/10/01",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.resetera.com/threads/the-ongoing-israel-palestine-conflict-news-thread-see-staff-posts-for-posting-guidelines.772478/page-145",
+        "title": "The Ongoing Israel / Palestine Conflict News Thread | Page 145ResetErahttps://www.resetera.com \u203a Discussion \u203a EtcetEra Forum",
+        "content": "A recap of the latest developments in the war. Hamas says it informed Qatar the armed group planned to release two Israeli captives for \"\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.boards.ie/discussion/2058317133/hamas-strike-on-israel-threadbans-in-op-mod-warning-in-op-updated-19-10-23/p346",
+        "title": "Hamas strike on Israel - mod warning in OP updated 19/10/23Boards.iehttps://www.boards.ie \u203a ... \u203a Current Affairs/IMHO",
+        "content": "Second batch of aid enters Gaza as Israeli bombing continues. https://www.aljazeera.com/news/liveblog/2023/10/21/israel-gaza-war-hamas-and-\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/gallery/sports/2023/10/18/neymars-next-chapter-is-off-to-a-difficult-start-as-ronaldo-and-messi-continue-to-lead-the-way/",
+        "title": "Neymar's next chapter is off to a difficult start as Ronaldo and ...Click2Houstonhttps://www.click2houston.com \u203a sports \u203a 2023/10/18",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/gallery/sports/2023/10/18/struggling-offenses-lead-to-the-lowest-scoring-week-in-the-nfl-since-2014/",
+        "title": "Struggling offenses lead to the lowest-scoring week in the NFL ...Click2Houstonhttps://www.click2houston.com \u203a sports \u203a 2023/10/18",
+        "content": "Israel strikes Gaza, Syria and West Bank as war\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfgate.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...SFGATEhttps://www.sfgate.com \u203a News \u203a World News",
+        "content": "Meantime, Gaza's Hamas-run Interior Ministry reported heavy Israeli airstrikes across the territory overnight into Sunday, including southern\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.khaborerkagoj.com/international/788279",
+        "title": "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7\u09b0 \u09aa\u09b0 \u0997\u09bf\u09b0\u09cd\u099c\u09be\u09af\u09bc \u09b9\u09be\u09ae\u09b2\u09be \u0964 \u0996\u09ac\u09b0\u09c7\u09b0 \u0995\u09be\u0997\u099c - Khaborer Kagojkhaborerkagoj.comhttps://www.khaborerkagoj.com \u203a i...",
+        "content": "",
+        "size": [
+          200,
+          100
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mysanantonio.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...MySAhttps://www.mysanantonio.com \u203a News \u203a World News",
+        "content": "King Abdullah II of Jordan said Israel's attacks on Gaza were \u201ca war crime\u201d and slammed the international community's response. \u201cAnywhere else,\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.chron.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Chronhttps://www.chron.com \u203a News \u203a World News",
+        "content": "Hagari, the Israeli military spokesman, said \u201cthe humanitarian situation in Gaza is under control.\u201d He said the aid would be delivered only to\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.bangladeshglobal.com/?p=cont&news_id=77432&sub_cat=3&active=m_2",
+        "title": "\u0986\u0993\u09af\u09bc\u09be\u09ae\u09c0 \u09b2\u09c0\u0997\u09c7\u09b0 \u09b8\u0982\u09b8\u09a6\u09c0\u09af\u09bc \u09a6\u09b2\u09c7\u09b0 \u09b8\u09ad\u09be \u0995\u09be\u09b2bangladeshglobal.comhttps://www.bangladeshglobal.com \u203a ...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/news/liveblog/2023/10/21/israel-gaza-war-hamas-and-israel-spar-over-hostage-release",
+        "title": "Israel-Hamas war updates: Hamas says repelled ... - Al JazeeraAl Jazeerahttps://www.aljazeera.com \u203a liveblog \u203a 2023/10/21 \u203a i...",
+        "content": "At least 4,385 Palestinians have been killed in Israeli strikes on Gaza since October 7, according to Palestinian officials, and 86 Palestinians\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WKMGhttps://www.clickorlando.com \u203a world \u203a 2023/10/21",
+        "content": "More than 1,400 people in Israel have been killed in the war \u2014 mostly civilians slain during the Hamas attack. More than 4,300 people have been\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/gallery/news/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Israel strikes Gaza after 2 captives freed, and there are signs ...KSAThttps://www.ksat.com \u203a gallery \u203a news \u203a 2023/10/21",
+        "content": "Israel says its war can both destroy Hamas and rescue hostages. Their families are less. 1 hour ago \u00b7 Israel says its war can both destroy\u00a0...",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.expressnews.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...San Antonio Express-Newshttps://www.expressnews.com \u203a News",
+        "content": "Soldiers drive a militar vehicle near the border between Israel and Gaza Strip in Israel, ... war. We are going to increase the attacks, from\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.the-journal.com/articles/egypt-gaza-border-crossing-opens-letting-desperately-needed-aid-flow-to-palestinians/",
+        "title": "Egypt-Gaza border crossing opens, letting desperately ...the-journal.comhttps://www.the-journal.com \u203a articles \u203a egypt-gaza-b...",
+        "content": "More than 1,400 people in Israel have been killed in the war \u2014 mostly civilians slain during the Hamas attack.More than 4,300 people have\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.denverpost.com/2023/10/21/live-updates-israel-says-its-stepping-up-attacks-on-the-gaza-strip/",
+        "title": "Live updates | Israel says it's stepping up attacks on the Gaza ...The Denver Posthttps://www.denverpost.com \u203a 2023/10/21 \u203a live-upda...",
+        "content": "Israel's military spokesman said the country is stepping up its attacks, and there are growing expectations of a ground offensive. The war, now\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.khaleejtimes.com/world/mena/israel-to-step-up-gaza-strikes-military-spokesman",
+        "title": "Israel plans to increase strike attacks on Gaza; US adds air ...Khaleej Timeshttps://www.khaleejtimes.com \u203a world \u203a mena \u203a israel-to...",
+        "content": "The first humanitarian aid convoy allowed into the besieged Gaza Strip since war broke out arrived through the Rafah border crossing on Saturday\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://860amtheanswer.com/news/national/israel-strikes-gaza-syria-and-west-bank-as-war-against-hamas-threatens-to-ignite/916edd66e3af095d49e5ba1c59d90c2a",
+        "title": "Israel strikes Gaza, Syria and West Bank as war against ...860 AM The Answerhttps://860amtheanswer.com \u203a news \u203a national \u203a israel...",
+        "content": "Israel has traded fire with Lebanon's Hezbollah militant group on a near-daily basis since the war began, and tensions are soaring in the\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...ClickOnDetroithttps://www.clickondetroit.com \u203a world \u203a 2023/10/21",
+        "content": "Soldiers drive a militar vehicle near the border between Israel and Gaza Strip in Israel, ... war. We are going to increase the attacks, from\u00a0...",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/article/2023/10/1210448",
+        "title": "Egypt's border crossing opens to let a trickle of despe...AccessWDUNhttps://accesswdun.com \u203a article \u203a 2023/10",
+        "content": "Daniel Hagari, said the country planned to step up its airstrikes starting Saturday as preparation for the next stage of the war. ... Israel, are\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/gallery/2023/10/21/limited-aid-enters-gaza-as-israeli-bombing-compounds-dire-situation",
+        "title": "Limited aid enters Gaza as Israeli bombing compounds dire ...Al Jazeerahttps://www.aljazeera.com \u203a gallery \u203a 2023/10/21 \u203a li...",
+        "content": "The 20 trucks of aid that entered Gaza are just a distraction from Israel's murderous war on the Palestinians. Opinion by Bel\u00e9n Fern\u00e1ndez\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...News4JAXhttps://www.news4jax.com \u203a world \u203a 2023/10/21 \u203a isr...",
+        "content": "Soldiers drive a militar vehicle near the border between Israel and Gaza Strip in Israel, ... war. We are going to increase the attacks, from\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theglobeandmail.com/world/article-israel-hamas-war-updates-trucks-carrying-aid-arrive-in-gaza/",
+        "title": "Israel-Hamas war updates: Here's what happened on Oct. 21The Globe and Mailhttps://www.theglobeandmail.com \u203a ... \u203a World",
+        "content": "Israel-Hamas war day 15 \u00b7 Federal government acknowledged Israel did not cause explosion at Gaza hospital \u00b7 Canada commits to spend $50-million\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.middletownpress.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...The Middletown Presshttps://www.middletownpress.com \u203a News",
+        "content": "Soldiers drive a militar vehicle near the border between Israel and Gaza Strip in Israel, ... war \u2014 mostly civilians slain during the Hamas attack\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Click2Houstonhttps://www.click2houston.com \u203a world \u203a 2023/10/21",
+        "content": "Soldiers drive a militar vehicle near the border between Israel and Gaza Strip in Israel, ... war. We are going to increase the attacks, from\u00a0...",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ctinsider.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...CT Insiderhttps://www.ctinsider.com \u203a News",
+        "content": "Soldiers drive a militar vehicle near the border between Israel and Gaza Strip in Israel, ... war \u2014 mostly civilians slain during the Hamas attack\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WSLShttps://www.wsls.com \u203a news \u203a world \u203a 2023/10/21",
+        "content": "Soldiers drive a militar vehicle near the border between Israel and Gaza Strip in Israel, ... war. We are going to increase the attacks, from\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...KSAThttps://www.ksat.com \u203a news \u203a world \u203a 2023/10/21 \u203a i...",
+        "content": "Soldiers drive a militar vehicle near the border between Israel and Gaza Strip in Israel, ... war. We are going to increase the attacks, from\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thehour.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...The Hourhttps://www.thehour.com \u203a News",
+        "content": "... Israel and Gaza Strip in Israel, Saturday, Oct. 21, 2023.Francisco ... war. We are going to increase the attacks, from today,\u201d Hagari said\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.marinij.com/2023/10/21/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...Marin Independent Journalhttps://www.marinij.com \u203a 2023/10/21 \u203a second-aid-c...",
+        "content": "Israel has traded fire with Hezbollah militants since the war began, and tensions are soaring in the West Bank, where Israeli forces have\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesunion.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Times Unionhttps://www.timesunion.com \u203a News",
+        "content": "... Israel and Gaza Strip in Israel, Saturday, Oct. 21, 2023.Francisco ... war. We are going to increase the attacks, from today,\u201d Hagari said\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WPLGhttps://www.local10.com \u203a news \u203a world \u203a 2023/10/21",
+        "content": "King Abdullah II of Jordan said Israel's attacks on Gaza were \u201ca war crime\u201d and slammed the international community's response. \u201cAnywhere else,\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://m.mojahedin.org/id/09d68b22-1097-4112-9cba-a4b3232491cd",
+        "title": "\u0634\u0627\u0646\u0632\u062f\u0647\u0645\u06cc\u0646 \u0631\u0648\u0632 \u062c\u0646\u06af \u063a\u0632\u0647 - \u0631\u0648\u0632 \u06cc\u06a9\u0634\u0646\u0628\u0647 \u06f1\u06f7\u06a9\u0627\u0645\u06cc\u0648\u0646 \u062f\u06cc\u06af\u0631 \u0627\u062c\u0627\u0632\u0647 \u0639\u0628\u0648\u0631 ...mojahedin.orghttps://m.mojahedin.org \u203a ...",
+        "content": "\u062f\u06cc\u0644\u06cc \u0645\u06cc\u0644 \u06f2\u06f9\u0645\u0647\u0631: \u0648\u0632\u06cc\u0631 \u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0633\u0631\u0627\u06cc\u06cc\u0644 \u062f\u0631 \u0645\u0635\u0627\u062d\u0628\u0647 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u062f\u0631 \u0635\u0648\u0631\u062a \u067e\u06cc\u0648\u0633\u062a\u0646 \u062d\u0632\u0628\u200c\u0627\u0644\u0644\u0647 \u0628\u0647 \u062c\u0646\u06af \u0628\u0627\u06cc\u062f \u00ab\u0633\u0631 \u0645\u0627\u0631\u00bb \u0631\u0627 \u062f\u0631 \u0627\u06cc\u0631\u0627\u0646 \u0642\u0637\u0639 \u06a9\u0631\u062f. \u0622\u06cc\u062a\u200c\u0627\u0644\u0644\u0647\u200c\u0647\u0627\u06cc\u00a0...",
+        "size": [
+          690,
+          460
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://silkcitynews.com/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE-%E0%A6%86%E0%A6%B0/",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u09b9\u09be\u09ae\u09b2\u09be\u09b0 \u09a4\u09c0\u09ac\u09cd\u09b0\u09a4\u09be \u0986\u09b0\u0993 \u09ac\u09be\u09a1\u09bc\u09be\u09a8\u09cb\u09b0 \u0998\u09cb\u09b7\u09a3\u09be \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09c7\u09b0Silkcity Newshttps://silkcitynews.com \u203a \u0997\u09be\u099c\u09be\u09af...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://weibo.com/7227928409/Np3rQrWvB?type=repost",
+        "title": "\u5b9e\u65f6\u66f4\u65b0##\u5df4\u4ee5\u51b2\u7a81##\u5df4\u52d2\u65af\u5766##\u4ee5\u8272\u5217##... \u6765\u81ea ...\u5fae\u535ahttps://weibo.com \u203a ...",
+        "content": "",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://news.mojahedin.org/id/09d68b22-1097-4112-9cba-a4b3232491cd",
+        "title": "\u0634\u0627\u0646\u0632\u062f\u0647\u0645\u06cc\u0646 \u0631\u0648\u0632 \u062c\u0646\u06af \u063a\u0632\u0647 - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0648\u0641\u0627: \u062f\u0631 \u062c\u0631\u06cc\u0627\u0646 \u062c\u0646\u06af \u062f\u0631 \u063a\u0632\u0647 \u0628\u06cc\u0634 ...mojahedin.orghttps://news.mojahedin.org \u203a ...",
+        "content": "\u0631\u0648\u0632 \u06cc\u06a9\u0634\u0646\u0628\u0647 \u0627\u0631\u062a\u0634 \u0627\u0633\u0631\u0627\u06cc\u06cc\u0644 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u0627\u0632 \u0622\u063a\u0627\u0632 \u062c\u0646\u06af \u0627\u062e\u06cc\u0631 \u0628\u0627 \u062d\u0645\u0627\u0633 \u062a\u0627\u06a9\u0646\u0648\u0646 \u06f3\u06f0\u06f7\u062a\u0646 \u0627\u0632 \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0627\u06cc\u0646 \u0627\u0631\u062a\u0634 \u06a9\u0634\u062a\u0647 \u0648 \u06f2\u06f1\u06f2\u062a\u0646 \u062a\u0648\u0633\u0637 \u062d\u0645\u0627\u0633 \u0627\u0633\u06cc\u0631 \u0634\u062f\u0647\u200c\u0627\u0646\u062f.",
+        "size": [
+          690,
+          460
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://somoyerkotha24.com/archives/17679.html",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u09b9\u09be\u09ae\u09b2\u09be\u09b0 \u09a4\u09c0\u09ac\u09cd\u09b0\u09a4\u09be \u0986\u09b0\u0993 \u09ac\u09be\u09a1\u09bc\u09be\u09a8\u09cb\u09b0 \u0998\u09cb\u09b7\u09a3\u09be \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09c7\u09b0\u09b8\u09ae\u09af\u09bc\u09c7\u09b0 \u0995\u09a5\u09be \u09e8\u09eahttps://somoyerkotha24.com \u203a archives",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/print/2023/10/1210532",
+        "title": "Israel says it's stepping up attacks on the Gaza StripAccessWDUNhttps://accesswdun.com \u203a print \u203a 2023/10",
+        "content": "Israel says Hamas has freed two American hostages who had been held in Gaza since the war began Oct. 7. Israeli airstrikes continued to hit\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/print/2023/10/1210538",
+        "title": "Israel strikes Gaza, Syria and West Bank as war against ...AccessWDUNhttps://accesswdun.com \u203a print \u203a 2023/10",
+        "content": "Israel has traded fire with Lebanon's Hezbollah militant group on a near-daily basis since the war began, and tensions are soaring in the\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://muktinews24.com/archives/21306",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u09b9\u09be\u09ae\u09b2\u09be\u09b0 \u09a4\u09c0\u09ac\u09cd\u09b0\u09a4\u09be \u0986\u09b0\u0993 \u09ac\u09be\u09a1\u09bc\u09be\u09a8\u09cb\u09b0 \u0998\u09cb\u09b7\u09a3\u09be \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09c7\u09b0Muktinews24https://muktinews24.com \u203a archives",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.denverpost.com/2023/10/22/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...The Denver Posthttps://www.denverpost.com \u203a 2023/10/22 \u203a second-ai...",
+        "content": "Israel has traded fire with Hezbollah militants since the war began, and tensions are soaring in the West Bank, where Israeli forces have\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.dhakapost.com/international/231569",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u09b9\u09be\u09ae\u09b2\u09be\u09b0 \u09a4\u09c0\u09ac\u09cd\u09b0\u09a4\u09be \u0986\u09b0\u0993 \u09ac\u09be\u09a1\u09bc\u09be\u09a8\u09cb\u09b0 \u0998\u09cb\u09b7\u09a3\u09be \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09c7\u09b0dhakapost.comhttps://www.dhakapost.com \u203a intern...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.boston.com/news/world-news/2023/10/22/israel-strikes-gaza-syria-and-west-bank-as-war-against-hamas-threatens-to-ignite-other-fronts/",
+        "title": "Israel strikes Gaza, Syria and West Bank as war against ...Boston.comhttps://www.boston.com \u203a world-news \u203a 2023/10/22",
+        "content": "Israel's military has said it is striking Hamas members and installations, but does not target civilians. Palestinian militants have fired over\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://samakal.com/kalerjatra-2022/article/203266/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%AB%E0%A7%AB",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09bf \u09b9\u09be\u09ae\u09b2\u09be\u09af\u09bc \u098f\u0995 \u09b0\u09be\u09a4\u09c7 \u09a8\u09bf\u09b9\u09a4 \u09eb\u09eb - SAMAKALSamakalhttps://samakal.com \u203a article \u203a \u0997\u09be\u099c...",
+        "content": "",
+        "size": [
+          700,
+          400
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://samakal.com/international/article/2310203266/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%AB%E0%A7%AB",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09bf \u09b9\u09be\u09ae\u09b2\u09be\u09af\u09bc \u098f\u0995 \u09b0\u09be\u09a4\u09c7 \u09a8\u09bf\u09b9\u09a4 \u09eb\u09eb - SAMAKALSamakalhttps://samakal.com \u203a article \u203a \u0997\u09be\u099c...",
+        "content": "",
+        "size": [
+          700,
+          400
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailypress.com/2023/10/22/live-updates-israel-says-its-stepping-up-attacks-on-the-gaza-strip/",
+        "title": "Live updates | Israel says it's stepping up attacks on the Gaza ...Daily Presshttps://www.dailypress.com \u203a 2023/10/22 \u203a live-updat...",
+        "content": "Israel's military spokesman said the country is stepping up its attacks, and there are growing expectations of a ground offensive. The war, now\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.dainikshiksha.com/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%B9%E0%A6%BE-%E0%A6%AE-%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%8F%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A7%AB%E0%A7%AB-%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%A8%E0%A6%BF-%E0%A6%B9-%E0%A6%A4/262052/",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09bf \u09b9\u09be*\u09ae*\u09b2\u09be\u09af\u09bc \u098f\u0995 \u09b0\u09be\u09a4\u09c7 \u09eb\u09eb \u09ab\u09bf\u09b2\u09bf\u09b8\u09cd\u09a4\u09bf\u09a8\u09bf \u09a8\u09bf*\u09b9*\u09a4 - \u09ac\u09bf\u09ac\u09bf\u09a7Dainikshikshahttps://www.dainikshiksha.com \u203a \u0997...",
+        "content": "",
+        "size": [
+          840,
+          480
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.courant.com/2023/10/22/live-updates-israel-says-its-stepping-up-attacks-on-the-gaza-strip/",
+        "title": "Live updates | Israel says it's stepping up attacks on the Gaza ...Hartford Couranthttps://www.courant.com \u203a 2023/10/22 \u203a live-updates-...",
+        "content": "The war, now in its 16th day, is the deadliest of five Gaza wars for both sides. The Palestinian Health Ministry said Sunday that the death toll\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://samakal.com/economics/article/2310203266/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%AB%E0%A7%AB",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09bf \u09b9\u09be\u09ae\u09b2\u09be\u09af\u09bc \u098f\u0995 \u09b0\u09be\u09a4\u09c7 \u09a8\u09bf\u09b9\u09a4 \u09eb\u09eb - SAMAKALSamakalhttps://samakal.com \u203a article \u203a \u0997\u09be\u099c...",
+        "content": "",
+        "size": [
+          700,
+          400
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/news/2023/10/22/israeli-air-strike-kills-two-in-west-bank-palestinian-medics-say",
+        "title": "Israel strikes mosque in occupied West Bank refugee campAl Jazeerahttps://www.aljazeera.com \u203a news \u203a 2023/10/22 \u203a isra...",
+        "content": "Israel's war on Gaza: Is the West Bank under increased attack too? ... At least 76 Palestinians killed by Israeli soldiers and settlers in the\u00a0...",
+        "size": [
+          270,
+          180
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.hambastegimeli.com/110721_%D8%B4%D8%A7%D9%86%D8%B2%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D8%AC%D9%86%DA%AF-%D8%BA%D8%B2%D9%87---%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1",
+        "title": "\u0634\u0627\u0646\u0632\u062f\u0647\u0645\u06cc\u0646 \u0631\u0648\u0632 \u062c\u0646\u06af \u063a\u0632\u0647 - \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u062e\u0637\u0631 \u062f\u0631\u06af\u06cc\u0631\u06cc \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u062a\u0631 ...\u0647\u0645\u0628\u0633\u062a\u06af\u06cc \u0645\u0644\u06cchttps://www.hambastegimeli.com \u203a ...",
+        "content": "\u0644\u0648\u06cc\u062f \u0622\u0633\u062a\u06cc\u0646\u060c \u0648\u0632\u06cc\u0631 \u062f\u0641\u0627\u0639 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u06a9\u0647 \u0628\u0627 \u062a\u0648\u062c\u0647 \u0628\u0647 \u062d\u0645\u0644\u0627\u062a \u0627\u062e\u06cc\u0631 \u0634\u0628\u0647\u200c\u0646\u0638\u0627\u0645\u06cc\u0627\u0646 \u0648\u0627\u0628\u0633\u062a\u0647 \u0628\u0647 \u0627\u06cc\u0631\u0627\u0646 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u062e\u0627\u0648\u0631\u0645\u06cc\u0627\u0646\u0647 \u0648 \u062a\u0634\u062f\u06cc\u062f \u062a\u0646\u0634\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u062f\u0631 \u0627\u0633\u0631\u0627\u06cc\u06cc\u0644\u00a0...",
+        "size": [
+          690,
+          460
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://samakal.com/voices-of-youth/article/2310203266/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%AB%E0%A7%AB",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09bf \u09b9\u09be\u09ae\u09b2\u09be\u09af\u09bc \u098f\u0995 \u09b0\u09be\u09a4\u09c7 \u09a8\u09bf\u09b9\u09a4 \u09eb\u09eb - SAMAKALSamakalhttps://samakal.com \u203a article \u203a \u0997\u09be\u099c...",
+        "content": "",
+        "size": [
+          700,
+          400
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.whec.com/national-world/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...WHEC.comhttps://www.whec.com \u203a national-world \u203a second-aid-...",
+        "content": "Israel has traded fire with Hezbollah militants since the war began, and tensions are soaring in the West Bank, where Israeli forces have\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://news.mojahedin.org/id/09d68b22-1097-4112-9cba-a4b3232491cd",
+        "title": "\u0634\u0627\u0646\u0632\u062f\u0647\u0645\u06cc\u0646 \u0631\u0648\u0632 \u062c\u0646\u06af \u063a\u0632\u0647 - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0648\u0641\u0627: \u062f\u0631 \u062c\u0631\u06cc\u0627\u0646 \u062c\u0646\u06af \u062f\u0631 \u063a\u0632\u0647 \u0628\u06cc\u0634 ...mojahedin.orghttps://news.mojahedin.org \u203a ...",
+        "content": "\u0631\u0648\u0632 \u06cc\u06a9\u0634\u0646\u0628\u0647 \u0627\u0631\u062a\u0634 \u0627\u0633\u0631\u0627\u06cc\u06cc\u0644 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u0627\u0632 \u0622\u063a\u0627\u0632 \u062c\u0646\u06af \u0627\u062e\u06cc\u0631 \u0628\u0627 \u062d\u0645\u0627\u0633 \u062a\u0627\u06a9\u0646\u0648\u0646 \u06f3\u06f0\u06f7\u062a\u0646 \u0627\u0632 \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0627\u06cc\u0646 \u0627\u0631\u062a\u0634 \u06a9\u0634\u062a\u0647 \u0648 \u06f2\u06f1\u06f2\u062a\u0646 \u062a\u0648\u0633\u0637 \u062d\u0645\u0627\u0633 \u0627\u0633\u06cc\u0631 \u0634\u062f\u0647\u200c\u0627\u0646\u062f.",
+        "size": [
+          690,
+          460
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mumsnet.com/talk/conflict-in-the-middle-east/4925894-nearly-5000-now-dead-mostly-women-and-children-sickening",
+        "title": "Nearly 5000 now dead, mostly women and children. Sickening.Mumsnethttps://www.mumsnet.com \u203a conflict-in-the-middle-east",
+        "content": "... war-hamas-and-israel-spar-over-hostage-release. Add message. Thanks ... They attacked Israel, killed 1,400, are holding Israeli hostages to\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wnyt.com/us-news/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...WNYThttps://wnyt.com \u203a us-news \u203a second-aid-convoy-reac...",
+        "content": "Israel has traded fire with Hezbollah militants since the war began, and tensions are soaring in the West Bank, where Israeli forces have\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.thenewsnest.com/international-israel-hamas-war-overnight-air-attacks-kill-55-people-in-gaza/",
+        "title": "Gaza: \u0997\u09be\u099c\u09be\u09af\u09bc \u0987\u09b8\u09b0\u09be\u0987\u09b2\u09c7\u09b0 \u09ac\u09b0\u09cd\u09ac\u09b0 \u09aa\u09be\u09b6\u09ac\u09bf\u0995 \u09b9\u09be\u09ae\u09b2\u09be\u09af\u09bc \u098f\u0995 \u09b0\u09be\u09a4\u09c7 \u09a8\u09bf\u09b9\u09a4 \u09eb\u09ebThe News Nesthttps://www.thenewsnest.com \u203a inte...",
+        "content": "Israel-Hamas war : Overnight air attacks 'kill 55 people' in Gaza - \u09ab\u09bf\u09b2\u09bf\u09b8\u09cd\u09a4\u09bf\u09a8\u09c7\u09b0 \u0997\u09be\u099c\u09be \u0989\u09aa\u09a4\u09cd\u09af\u0995\u09be\u09af\u09bc \u09b0\u09be\u09a4\u09ad\u09b0 \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09bf \u09b9\u09be\u09ae\u09b2\u09be\u09af\u09bc \u0995\u09ae\u09aa\u0995\u09cd\u09b7\u09c7\u00a0...",
+        "size": [
+          723,
+          408
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://chinese.aljazeera.net/palestine-israel-conflict/liveblog/2023/10/22/%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E7%BA%A6%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E9%9A%BE%E6%B0%91%E8%90%A5",
+        "title": "\u5df4\u4ee5\u51b2\u7a81\u5347\u7ea7\uff1a\u7b2c\u4e8c\u6279\u63f4\u52a9\u7269\u8d44\u901a\u8fc7\u62c9\u6cd5\u53e3\u5cb8\u8fdb\u5165\u52a0\u6c99Al Jazeerahttps://chinese.aljazeera.net \u203a liveblog",
+        "content": "",
+        "size": [
+          570,
+          380
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://muktinews24.com/archives/21306",
+        "title": "\u0997\u09be\u099c\u09be\u09af\u09bc \u09b9\u09be\u09ae\u09b2\u09be\u09b0 \u09a4\u09c0\u09ac\u09cd\u09b0\u09a4\u09be \u0986\u09b0\u0993 \u09ac\u09be\u09a1\u09bc\u09be\u09a8\u09cb\u09b0 \u0998\u09cb\u09b7\u09a3\u09be \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09c7\u09b0Muktinews24https://muktinews24.com \u203a archives",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cotilleando.com/threads/gaza-e-israel-entran-en-guerra-tras-un-ataque-sin-precedentes-desde-la-franja.162495/page-729",
+        "title": "Gaza e Israel entran en guerra tras un ataque sin precedentes ...Cotilleandohttps://www.cotilleando.com \u203a threads",
+        "content": "... Israel pidi\u00f3 la ... Hamas' military wing says it repelled an Israeli ground attack near Khan Younis in Gaza; Israel says one soldier killed.",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.independentespanol.com/noticias/eeuu/israel-bombardea-gaza-siria-y-cisjordania-mientras-la-guerra-contra-hamas-amenaza-con-extenderse-b2433904.html",
+        "title": "Israel bombardea Gaza, Siria y Cisjordania mientras la guerra ...Independent en Espa\u00f1olhttps://www.independentespanol.com \u203a ...",
+        "content": "Hace d\u00edas que Israel parece a punto de lanzar una ofensiva terrestre en Gaza como parte de su respuesta al letal ataque de Ham\u00e1s el 7 de octubre\u00a0...",
+        "size": [
+          295,
+          166
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.latimes.com/espanol/eeuu/articulo/2023-10-22/israel-bombardea-gaza-siria-y-cisjordania-mientras-la-guerra-contra-hamas-amenaza-con-extenderse",
+        "title": "Israel bombardea Gaza, Siria y Cisjordania mientras la guerra ...Los Angeles Timeshttps://www.latimes.com \u203a articulo",
+        "content": "Israel ha cruzado fuego con el grupo miliciano liban\u00e9s Hezbollah casi a diario desde que comenz\u00f3 la guerra y las tensiones est\u00e1n disparadas\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://goodwordnews.com/israel-strikes-gaza-syria-and-west-bank-as-war-against-hamas-threatens-to-inflame-other-fronts/",
+        "title": "Israel strikes Gaza, Syria and West Bank as war against ...Good Word Newshttps://goodwordnews.com \u203a USA News",
+        "content": "Israeli Prime Minister Benjamin Netanyahu told troops in northern Israel that if Hezbollah launches a war against Israel, \u201cit will make the\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://chinese.aljazeera.net/palestine-israel-conflict/2023/10/22/%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%A8%E9%9D%A2%E5%9B%B4%E5%9B%B0%E5%8A%A0%E6%B2%99%E8%83%8C%E5%90%8E%E7%9A%84%E5%86%9B%E4%BA%8B%E9%80%BB%E8%BE%91",
+        "title": "\u4ee5\u8272\u5217\u201c\u5168\u9762\u201d\u56f4\u56f0\u52a0\u6c99\u80cc\u540e\u7684\u519b\u4e8b\u903b\u8f91 - \u534a\u5c9b\u7535\u89c6\u53f0Al Jazeerahttps://chinese.aljazeera.net \u203a \u4ee5\u8272...",
+        "content": "",
+        "size": [
+          270,
+          180
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://yebekagh.com/israel-hamas-war-ended-truth-no-one-told-you/",
+        "title": "Israel-Hamas war ended: Truth no one told you - YebekaghYebekaghhttps://yebekagh.com \u203a News",
+        "content": "Israel-Hamas war ended? - In May 2021, the world witnessed yet another round of intense conflict between Israel and Hamas, a Palestinian\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cotilleando.com/threads/gaza-e-israel-entran-en-guerra-tras-un-ataque-sin-precedentes-desde-la-franja.162495/page-713",
+        "title": "Gaza e Israel entran en guerra tras un ataque sin precedentes ...Cotilleandohttps://www.cotilleando.com \u203a threads",
+        "content": "Hamas' military wing says it repelled an Israeli ground attack near Khan Younis in Gaza; Israel says one soldier killed.",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mumsnet.com/talk/conflict-in-the-middle-east/4925641-airstrikes-on-gaza-and-west-bank-increasing",
+        "title": "Airstrikes on Gaza and West Bank increasing | MumsnetMumsnethttps://www.mumsnet.com \u203a conflict-in-the-middle-east",
+        "content": "https://news.sky.com/story/israel-hamas-war-live-updates-gaza-latest-sky-news-blog-12978800\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.khaleejtimes.com/world/mena/israel-strikes-gaza-syria-west-bank-as-war-against-hamas-threatens-to-ignite-other-fronts",
+        "title": "Israel strikes Gaza, Syria, West Bank as war against Hamas ...Khaleej Timeshttps://www.khaleejtimes.com \u203a world \u203a mena \u203a israel-str...",
+        "content": "Israel strikes Gaza, Syria, West Bank as war against Hamas threatens to ignite other fronts \u00b7 Tanks and tens of thousands of Israeli troops have\u00a0...",
+        "size": [
+          1200,
+          799
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://chinese.aljazeera.net/palestine-israel-conflict/2023/10/22/%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%A8%E9%9D%A2%E5%9B%B4%E5%9B%B0%E5%8A%A0%E6%B2%99%E8%83%8C%E5%90%8E%E7%9A%84%E5%86%9B%E4%BA%8B%E9%80%BB%E8%BE%91",
+        "title": "\u4ee5\u8272\u5217\u201c\u5168\u9762\u201d\u56f4\u56f0\u52a0\u6c99\u80cc\u540e\u7684\u519b\u4e8b\u903b\u8f91 - \u534a\u5c9b\u7535\u89c6\u53f0Al Jazeerahttps://chinese.aljazeera.net \u203a \u4ee5\u8272...",
+        "content": "",
+        "size": [
+          270,
+          180
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/features/2023/10/23/beautiful-solidarity-cooking-for-displaced-palestinians-in-southern-gaza",
+        "title": "'Beautiful solidarity': Cooking for displaced Palestinians in ...Al Jazeerahttps://www.aljazeera.com \u203a features \u203a 2023/10/23 \u203a b...",
+        "content": "\u201cThe pain in our hearts will never make us forgive Israel for what it has done and continues to do to us.\u201d The children affected by the war this\u00a0...",
+        "size": [
+          270,
+          180
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-hamas-war-news-live-updates/liveblog/104614986.cms",
+        "title": "Israel Hamas War News - The Times of IndiaThe Times of Indiahttps://timesofindia.indiatimes.com \u203a world \u203a liveblog",
+        "content": "Israel Hamas War News | Israel-Palestine Conflict Live: Israeli warplanes are striking targets across Gaza ahead of an expected ground\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://riyadhherald.com/world/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%BA%D8%B2%D8%A9-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A/",
+        "title": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u062a\u0636\u0631\u0628 \u063a\u0632\u0629 \u0648\u0633\u0648\u0631\u064a\u0627 \u0648\u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629 \u0641\u064a\u0645\u0627 \u062a\u0647\u062f\u062f \u0627\u0644\u062d\u0631\u0628 \u0636\u062f ...\u0631\u064a\u0627\u0636 \u0647\u064a\u0631\u0627\u0644\u062fhttps://riyadhherald.com \u203a world \u203a \u0625...",
+        "content": "\u0648\u0627\u062d\u062a\u0634\u062f\u062a \u0627\u0644\u062f\u0628\u0627\u0628\u0627\u062a \u0648\u0639\u0634\u0631\u0627\u062a \u0627\u0644\u0622\u0644\u0627\u0641 \u0645\u0646 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0633\u062a\u0639\u062f\u0627\u062f\u0627 \u0644\u0644\u0647\u062c\u0648\u0645 \u0627\u0644\u0628\u0631\u064a \u0627\u0644\u0648\u0634\u064a\u0643 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0648\u0642\u0635\u0641\u062a \u0637\u0627\u0626\u0631\u0627\u062a \u062d\u0631\u0628\u064a\u0629 \u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0623\u0647\u062f\u0627\u0641\u0627\u00a0...",
+        "size": [
+          1200,
+          799
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://asarhumanity.org/id/kabar_terkini/96",
+        "title": "Pertahanan Sipil Palestina - ASAR HumanityASAR Humanityhttps://asarhumanity.org \u203a kabar_ter...",
+        "content": "Kementerian Dalam Negeri Gaza mengatakan ada banyak korban jiwa menyusul serangan udara Israel pada Minggu malam terhadap sebuah bangunan tempat\u00a0...",
+        "size": [
+          2586,
+          1724
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://chinese.aljazeera.net/palestine-israel-conflict/liveblog/2023/10/23/%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%E6%8A%A5%E9%81%93%E7%A7%B0%E5%8A%A0%E6%B2%99%E5%B8%8C%E6%B3%95%E5%8C%BB%E9%99%A2%E4%B8%8E%E5%9C%A3%E5%9F%8E%E5%8C%BB%E9%99%A2%E9%99%84%E8%BF%91",
+        "title": "\u5df4\u4ee5\u51b2\u7a81\u5347\u7ea7\uff1a\u54c8\u9a6c\u65af\u79f0\u5176\u5728\u52a0\u6c99\u5730\u5e26\u4e0e\u4ee5\u8272\u5217\u519b\u961f\u4f5c\u6218Al Jazeerahttps://chinese.aljazeera.net \u203a liveblog",
+        "content": "",
+        "size": [
+          270,
+          180
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://chinese.aljazeera.net/palestine-israel-conflict/2023/10/23/%E4%B8%AD%E6%96%B9%E8%AD%A6%E5%91%8A%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8A%BF%E4%B8%A5%E9%87%8D%E5%B9%B6%E5%91%BC%E5%90%81%E5%81%9C%E6%AD%A2%E6%88%98%E4%BA%89",
+        "title": "\u4e2d\u65b9\u8b66\u544a\u52a0\u6c99\u5c40\u52bf\u4e25\u91cd\u5e76\u547c\u5401\u505c\u6b62\u6218\u4e89 - \u534a\u5c9b\u7535\u89c6\u53f0Al Jazeerahttps://chinese.aljazeera.net \u203a \u4e2d\u65b9...",
+        "content": "",
+        "size": [
+          270,
+          180
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://chinese.aljazeera.net/palestine-israel-conflict/2023/10/23/%E4%B8%AD%E6%96%B9%E8%AD%A6%E5%91%8A%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8A%BF%E4%B8%A5%E9%87%8D%E5%B9%B6%E5%91%BC%E5%90%81%E5%81%9C%E6%AD%A2%E6%88%98%E4%BA%89",
+        "title": "\u4e2d\u65b9\u8b66\u544a\u52a0\u6c99\u5c40\u52bf\u4e25\u91cd\u5e76\u547c\u5401\u505c\u6b62\u6218\u4e89 - \u534a\u5c9b\u7535\u89c6\u53f0Al Jazeerahttps://chinese.aljazeera.net \u203a \u4e2d\u65b9...",
+        "content": "",
+        "size": [
+          270,
+          180
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://videosamachar.com/play/super-50-israel-hamas-war-update-gaza-patti-rahul-gandhi-agniveer-23-oct-2023-indiatv",
+        "title": "Super 50 Israel Hamas War Update Gaza Patti Rahul Gandhi ...videosamachar.comhttps://videosamachar.com \u203a play",
+        "content": "Super 50: Israel-Hamas War Update | Gaza Patti | Rahul Gandhi | Agniveer | 23 Oct 2023.....\u00bb\u00bb Category: newsChannel: indiatv\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ta",
+        "link": "https://public.app/video/sp_f38d5325j7k2s",
+        "title": "Tamil Nadu, India : \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd | Israel WarPublic Apphttps://public.app \u203a video",
+        "content": "\u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd - \u0bb9\u0bae\u0bbe\u0bb8\u0bcd \u0baa\u0bcb\u0bb0\u0bcd.. \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd | Vanakkam Tamilnadu | Israel War | Hamas. Tamil Nadu, India | Oct 26, 2023.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ta",
+        "link": "https://tamil.news18.com/videos/tamil-nadu/continued-israel-hamas-war-increasing-casualties-vanakkam-tamilnadu-israel-war-hamas-1208306.html",
+        "title": "\u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd | Vanakkam Tamilnadu | Israel WarNews18 Tamilhttps://tamil.news18.com \u203a tamil-nadu",
+        "content": "\u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd - \u0bb9\u0bae\u0bbe\u0bb8\u0bcd \u0baa\u0bcb\u0bb0\u0bcd.. \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd | Vanakkam Tamilnadu | Israel War | Hamas.",
+        "size": [
+          1200,
+          720
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "or",
+        "link": "https://www.odiaspotnews.in/news-details/isreal-homas-war-1698304648",
+        "title": "\u0b26\u0b47\u0b36 \u0b2c\u0b3f\u0b26\u0b47\u0b36 - Odia Spot NewsOdia Spot Newshttps://www.odiaspotnews.in \u203a isreal...",
+        "content": "ISREAL- HOMAS WAR. \u0b1c\u0b47\u0b30\u0b41\u0b1c\u0b47\u0b32\u0b2e : \u0b07\u0b38\u0b4d\u0b30\u0b3e\u0b0f\u0b32 \u0b0f\u0b2c\u0b02 \u0b39\u0b2e\u0b3e\u0b38 \u0b2e\u0b27\u0b4d\u0b5f\u0b30\u0b47 \u0b2c\u0b3f\u0b2c\u0b3e\u0b26 \u0b06\u0b30\u0b2e\u0b4d\u0b2d \u0b39\u0b47\u0b2c\u0b3e\u0b30 \u0b26\u0b41\u0b07 \u0b38\u0b2a\u0b4d\u0b24\u0b3e\u0b39\u0b30\u0b41\u00a0...",
+        "size": [
+          300,
+          168
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.yeniasya.com.tr/aile-saglik/gazze-de-salgin-hastalik-yayilma-endisesi-artiyor_589336",
+        "title": "Gazze'de salg\u0131n hastal\u0131k yay\u0131lma endi\u015fesi art\u0131yor - YEN\u0130 ASYAYeni Asyahttps://www.yeniasya.com.tr \u203a gazz...",
+        "content": "",
+        "size": [
+          960,
+          548
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ur",
+        "link": "https://www.express.pk/story/2558622/1",
+        "title": "\u063a\u0632\u06c1 \u0645\u06a9\u0645\u0644 \u0645\u062d\u0627\u0635\u0631\u06d2 \u0645\u06cc\u06ba - \u0627\u06cc\u06a9\u0633\u067e\u0631\u06cc\u0633 \u0627\u0631\u062f\u0648 - Express NewsExpress News Urduhttps://www.express.pk \u203a story",
+        "content": "\u0628\u06be\u0627\u0634\u0646 \u06c1\u06cc \u0628\u06be\u0627\u0634\u0646\u060c \u0645\u0646\u0688\u06cc \u0644\u06af\u06cc \u06c1\u0648\u0626\u06cc \u06c1\u06d2 \u0628\u06be\u0627\u0634\u0646\u0648\u06ba \u06a9\u06cc\u060c \u0679\u06a9\u06d2 \u0633\u06cc\u0631 \u0628\u06be\u0627\u0634\u0646\u060c \u0627\u06af\u0631 \u0648\u06c1 \u0628\u06be\u06cc \u067e\u0644\u06d2 \u0646\u06c1 \u06c1\u0648 \u062a\u0648 \u0645\u0641\u062a \u0645\u06cc\u06ba \u062f\u0633\u062a \u06cc\u0627\u0628 \u06c1\u06cc\u06ba\u06d4 \u062f\u0627\u0646\u0634 \u0648\u0631\u0648\u06ba \u06a9\u06d2 \u0628\u06be\u0627\u0634\u0646\u060c \u062d\u0642\u0648\u0642 \u0627\u0646\u0633\u0627\u0646\u06cc\u060c\u00a0...",
+        "size": [
+          600,
+          245
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ar.inspiredpencil.com/pictures-2023/warning-extremely-graphic-war-images",
+        "title": "Warning Extremely Graphic War Images - ar.inspiredpencil.cominspiredpencil.comhttps://ar.inspiredpencil.com \u203a pictures-2023 \u203a warnin...",
+        "content": "Israel-Hamas war: Misinformation is spreading. Here are the facts | AP News. Israel-Hamas war: Misinformation is spreading. Here are the\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:11:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.khaborerkagoj.com/international/790808",
+        "title": "\u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09c7 \u09ac\u09c8\u09a0\u0995\u09c7 \u09ac\u09b8\u09ac\u09c7\u09a8 \u09ac\u09be\u0987\u09a1\u09c7\u09a8 \u0993 \u099c\u09bf\u09a8\u09aa\u09bf\u0982 - \u0996\u09ac\u09b0\u09c7\u09b0 \u0995\u09be\u0997\u099ckhaborerkagoj.comhttps://www.khaborerkagoj.com \u203a i...",
+        "content": "",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:11:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.khaborerkagoj.com/international/790744",
+        "title": "\u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09c7\u09b0 \u09b8\u09b9\u09be\u09af\u09bc\u09a4\u09be \u099b\u09be\u09a1\u09bc\u09be\u0987 \u09b2\u09a1\u09bc\u09ac\u09c7 \u0987\u0989\u0995\u09cd\u09b0\u09c7\u09a8\u09c0\u09af\u09bc \u09b8\u09c7\u09a8\u09be\u09b0\u09bekhaborerkagoj.comhttps://www.khaborerkagoj.com \u203a i...",
+        "content": "",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:11:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=cPrnN83UJFM",
+        "title": "Israel threatens to bomb Gaza hospital again - YouTubeYouTube\u00a0\u00b7\u00a0Geo News13K+ views  \u00b7  1 month ago",
+        "content": "War Room Gaza | Israel threatens to bomb Gaza hospital again - Israel-Palestine conflict | Geo News Do not miss an important news update\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=kw8-DPgE18Q",
+        "title": "Pakistan Jumped Into Hamas-Israel War? | 24 News HDYouTube\u00a0\u00b7\u00a024 News HD10.4K+ views  \u00b7  4 weeks ago",
+        "content": "Pakistan Jumped Into Hamas-Israel War? | 6pm News Headlines | 25 Oct 2023 | 24 News HD #hamasattack #israelhamasconflict #pakistan #24newshd\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=fvKr1D3ys_8",
+        "title": "Geo News Headlines 9 PM - Palestinian Child | 15th Oct 2023YouTube\u00a0\u00b7\u00a0Geo News164K+ views  \u00b7  1 month ago",
+        "content": "War Room Gaza | Israel threatens to bomb Gaza hospital again - Israel-Palestine conflict | Geo News. Geo News\u202213K views \u00b7 27:03. Go\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.boston.com/category/news/page/301/",
+        "title": "News | Page 301 of 1000 - Boston.comBoston.comhttps://www.boston.com \u203a category \u203a news \u203a page",
+        "content": "News \u00b7 Kayaker rescued from Ipswich Bay \u00b7 Israel strikes Gaza, Syria and West Bank as war against Hamas threatens to ignite other fronts \u00b7 Big Chicken to open in\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/timesofindia/status/1715939251844694266",
+        "title": "The Times Of India on X: \"Israel not behind Gaza hospital blast ...Twitter\u00a0\u00b7\u00a0timesofindia80+ likes  \u00b7  1 month ago",
+        "content": "Israel not behind Gaza hospital blast that killed hundreds, Canada ... war-news-live-updates/liveblog/104614986.cms\u2026 Embedded video. GIF. 3\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/AJEnglish/status/1715898314217152783",
+        "title": "Al Jazeera English on X: \"The fast-depleting fuel supplies in ...Twitter\u00a0\u00b7\u00a0AJEnglish300+ likes",
+        "content": "LIVE updates \u2935\ufe0f. Israel-Hamas war updates: Hamas says repelled ground attack in Gaza. aljazeera.com. 1:10 AM \u00b7 Oct 22, 2023. \u00b7. 55.5K. Views. 161. Reposts.",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vuadens.ch/Dose-Rockets-are-reeling-NBC-Sports-1424-197855",
+        "title": "Dose: Rockets are reeling - NBC Sports - vuadens.chVuadenshttps://www.vuadens.ch \u203a Dose-Rockets-are-reeling-N...",
+        "content": "Israel declares war against Hamas as casualty figures rise - The. Dose: Rockets are reeling - NBC Sports. Houston Rockets: News, Scores, Stats, Headlines\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vuadens.ch/Dose-Rockets-are-reeling-NBC-Sports-1424-197855",
+        "title": "Dose: Rockets are reeling - NBC Sports - vuadens.chVuadenshttps://www.vuadens.ch \u203a Dose-Rockets-are-reeling-N...",
+        "content": "Israel declares war against Hamas as casualty figures rise - The. Dose: Rockets are reeling - NBC Sports. Houston Rockets: News, Scores, Stats, Headlines\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://aksharexpress.com/israel-hamas-war-updates-hamas-says-repelled-ground-attack-in-al-jazeera-english/",
+        "title": "Hamas says repelled ground attack in - aksharexpress.comaksharexpress.comhttps://aksharexpress.com \u203a News",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/AJEnglish/status/1715879823065911720",
+        "title": "Al Jazeera English on X: \"UN agencies have released a ...Twitter\u00a0\u00b7\u00a0AJEnglish150+ likes",
+        "content": "Israel-Hamas war updates: Hamas says repelled ground attack in Gaza. aljazeera.com. 11:56 PM \u00b7 Oct 21, 2023 \u00b7 94. Reposts \u00b7 4. Quotes \u00b7 156.",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.youtube.com/watch?v=zqBRiYWErms",
+        "title": "Super 50: Israel-Hamas War Update | Gaza Patti | 23 Oct 2023YouTube\u00a0\u00b7\u00a0IndiaTV19.4K+ views  \u00b7  1 month ago",
+        "content": "Israel-Hamas War Update: \u0907\u091c\u0930\u093e\u092f\u0932 \u0914\u0930 \u0939\u092e\u093e\u0938 \u0915\u0947 \u092f\u0941\u0926\u094d\u0927 \u0915\u093e \u0906\u091c 17\u0935\u093e\u0902 \u0926\u093f\u0928. \u0907\u091c\u0930\u093e\u092f\u0932 \u0928\u0947 \u0939\u092e\u093e\u0938 \u0915\u0947 \u0920\u093f\u0915\u093e\u0928\u094b\u0902 \u092a\u0930 \u0939\u092e\u0932\u0947 \u0915\u093f\u090f \u0924\u0947\u091c\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://videosamachar.com/play/super-50-israel-hamas-war-update-gaza-patti-rahul-gandhi-agniveer-23-oct-2023-indiatv/81",
+        "title": "Super 50 Israel Hamas War Update Gaza Patti Rahul Gandhi ...videosamachar.comhttps://videosamachar.com \u203a play",
+        "content": "Super 50: Israel-Hamas War Update | Gaza Patti | Rahul Gandhi | Agniveer | 23 Oct 2023.....\u00bb\u00bb Category: newsChannel: indiatvOct 23rd, 2023. Related Videos.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://videosamachar.com/play/super-50-israel-hamas-war-update-gaza-patti-rahul-gandhi-agniveer-23-oct-2023-indiatv/61",
+        "title": "Super 50 Israel Hamas War Update Gaza Patti Rahul Gandhi ...videosamachar.comhttps://videosamachar.com \u203a play",
+        "content": "Super 50: Israel-Hamas War Update | Gaza Patti | Rahul Gandhi | Agniveer | 23 Oct 2023.....\u00bb\u00bb Category: newsChannel: indiatvOct 23rd, 2023. Related Videos.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://videosamachar.com/play/super-50-israel-hamas-war-update-gaza-patti-rahul-gandhi-agniveer-23-oct-2023-indiatv/21",
+        "title": "Super 50 Israel Hamas War Update Gaza Patti Rahul Gandhi ...videosamachar.comhttps://videosamachar.com \u203a play",
+        "content": "Super 50: Israel-Hamas War Update | Gaza Patti | Rahul Gandhi | Agniveer | 23 Oct 2023.....\u00bb\u00bb Category: newsChannel: indiatvOct 23rd, 2023. Related Videos.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ka",
+        "link": "https://m.facebook.com/p/Flag-of-all-countries-100064145283356/?locale=ka_GE",
+        "title": "Flag of all countries - FacebookFacebook\u00a0\u00b7\u00a0Flag of all countries2.9K+ followers",
+        "content": "They had gone to Israel under agricultural program LEARN AND LEARN about month ... According to Israel government Haamas is holding 222 hostages. Whereas more\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.facebook.com/p/Flag-of-all-countries-100064145283356/?locale=zh_CN",
+        "title": "Flag of all countries - FacebookFacebook\u00a0\u00b7\u00a0Flag of all countries2.9K+ followers",
+        "content": "Bodies of four Nepalese Students killed in Israel \u00b7 According to Israel government Haamas is holding \u00b7 Some people ranges of Mountains in Nepal.",
+        "size": [
+          730,
+          410
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://arabic.mojahedin.org/346322",
+        "title": "\u0644\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u062f\u0633 \u0639\u0634\u0631 \u062a\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0647\u062c\u0645\u0627\u062a \u0639\u0644\u0649 \u063a\u0632\u0629 \u0648\u062a\u0638\u0627\u0647\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645\u0645\u0646\u0638\u0645\u0629 \u0645\u062c\u0627\u0647\u062f\u064a \u062e\u0644\u0642 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629https://arabic.mojahedin.org \u203a ...",
+        "content": "\u0623\u0641\u0627\u062f\u062a \u0648\u0633\u0627\u0626\u0644 \u0625\u0639\u0644\u0627\u0645 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629 \u0623\u0646 11 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0627 \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644 \u0642\u062a\u0644\u0648\u0627 \u0641\u064a \u0627\u0644\u0647\u062c\u0648\u0645 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0639\u0644\u0649 \u0645\u062f\u064a\u0646\u0629 \u062e\u0627\u0646 \u064a\u0648\u0646\u0633 \u062c\u0646\u0648\u0628 \u0642\u0637\u0627\u0639 \u063a\u0632\u0629 \u0627\u0644\u0644\u064a\u0644\u0629 \u0627\u0644\u0645\u0627\u0636\u064a\u0629\u060c \u0648\u0627\u0644\u0647\u062c\u0648\u0645 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0639\u0644\u0649 \u0645\u062f\u064a\u0646\u0629 \u0631\u0641\u062d\u00a0...",
+        "size": [
+          690,
+          460
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ml",
+        "link": "https://www.sirajlive.com/boiled-well-water-and-in-their-reserves.html?s",
+        "title": "\u0d24\u0d3f\u0d33\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a \u0d15\u0d3f\u0d23\u0d7c \u0d35\u0d46\u0d33\u0d4d\u0d33\u0d02, \u0d05\u0d35\u0d30\u0d41\u0d1f\u0d46 ...Siraj Dailyhttps://www.sirajlive.com \u203a boiled-...",
+        "content": "",
+        "size": [
+          400,
+          225
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://dymontiger.livejournal.com/19434151.html",
+        "title": "\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0441\u043d\u0438\u043c\u043a\u0438 \u0438\u0437 \u0418\u043d\u0434\u0438\u0438 - dymontiger - LiveJournaldymontigerhttps://dymontiger.livejournal.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.khaborerkagoj.com/international/790804",
+        "title": "\u099c\u09be\u09a4\u09bf\u09b8\u0982\u0998\u09c7 \u09ab\u09bf\u09b2\u09bf\u09b8\u09cd\u09a4\u09bf\u09a8\u09c7 \u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2\u09bf \u09ac\u09b8\u09a4\u09bf\u09b0 \u09a8\u09bf\u09a8\u09cd\u09a6\u09be \u09aa\u09cd\u09b0\u09b8\u09cd\u09a4\u09be\u09ac\u09c7 \u09b8\u09ae\u09b0\u09cd\u09a5\u09a8 ...khaborerkagoj.comhttps://www.khaborerkagoj.com \u203a i...",
+        "content": "",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://dymontiger.livejournal.com/19430290.html",
+        "title": "\u0416\u0443\u0442\u043a\u0438\u0435 \u0444\u043e\u0442\u043e \u0438\u0437 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u044b - dymontiger - LiveJournaldymontigerhttps://dymontiger.livejournal.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://dymontiger.livejournal.com/3160699.html",
+        "title": "\u041a\u0443\u0440\u044c\u0435\u0437\u043d\u044b\u0435 \u043f\u0440\u043e\u0438\u0441\u0448\u0435\u0441\u0442\u0432\u0438\u044f \u0441 \u043e\u0434\u0435\u0436\u0434\u043e\u0439 - dymontigerdymontigerhttps://dymontiger.livejournal.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.deltatimes24.com/details.php?id=108860",
+        "title": "\u09b6\u09c7\u09b0\u09aa\u09c1\u09b0 \u09b8\u09c0\u09ae\u09be\u09a8\u09cd\u09a4\u09c7 \u09ae\u09c7\u099b\u09cb \u09ac\u09be\u0998 \u0989\u09a6\u09cd\u09a7\u09be\u09b0 - Delta TimesDelta Timeshttps://www.deltatimes24.com \u203a det...",
+        "content": "",
+        "size": [
+          250,
+          131
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "http://www.amaderbarta.net/archives/",
+        "title": "Archives Archives - Amader BartaAmader Bartahttp://www.amaderbarta.net \u203a archi...",
+        "content": "",
+        "size": [
+          373,
+          210
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://haiwai.co.uk/england/article/guojidongtai/detail-59872.html",
+        "title": "\u7a81\u53d1\uff01\u4ee5\u8272\u5217\u7279\u6218\u5206\u961f29\u65e5\u5165\u4fb5\u52a0\u6c99,\u906d\u9ed1\u8c79\u90e8\u961f\u4f0f\u51fb\u5168\u519b\u8986\u6ca1\uff01\u82f1\u56fd\u6d77\u5916\u7f51https://haiwai.co.uk \u203a detail-59872",
+        "content": "",
+        "size": [
+          1238,
+          832
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.amaderbarta.net/details/country-news/3373/mango-flavour-jilapi",
+        "title": "\u09a8\u09bf\u09b9\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u09ac\u09c7\u09a1\u09bc\u09c7 \u09e8\u09e8\u09e6\u09e6, \u09a4\u09c1\u09b0\u09b8\u09cd\u0995\u09c7 \u09b8\u09ac \u09b8\u09cd\u0995\u09c1\u09b2 \u09ac\u09a8\u09cd\u09a7 \u0998\u09cb\u09b7\u09a3\u09be-Amader Bartahttps://www.amaderbarta.net \u203a details",
+        "content": "",
+        "size": [
+          373,
+          210
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://haiwai.co.uk/scotland/article/guojidongtai/detail-59872.html",
+        "title": "\u7a81\u53d1\uff01\u4ee5\u8272\u5217\u7279\u6218\u5206\u961f29\u65e5\u5165\u4fb5\u52a0\u6c99,\u906d\u9ed1\u8c79\u90e8\u961f\u4f0f\u51fb\u5168\u519b\u8986\u6ca1\uff01\u82f1\u56fd\u6d77\u5916\u7f51https://haiwai.co.uk \u203a detail-59872",
+        "content": "",
+        "size": [
+          1238,
+          832
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://haiwai.co.uk/wales/article/guojidongtai/detail-59872.html",
+        "title": "\u7a81\u53d1\uff01\u4ee5\u8272\u5217\u7279\u6218\u5206\u961f29\u65e5\u5165\u4fb5\u52a0\u6c99,\u906d\u9ed1\u8c79\u90e8\u961f\u4f0f\u51fb\u5168\u519b\u8986\u6ca1\uff01\u82f1\u56fd\u6d77\u5916\u7f51https://haiwai.co.uk \u203a detail-59872",
+        "content": "",
+        "size": [
+          1238,
+          832
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://blackshirts.info/collection/%E8%A1%80%E8%85%A5%E6%98%9F%E6%9C%9F%E4%BA%94-%E7%88%B1%E5%B0%94%E5%85%B0",
+        "title": "\u8840\u8165\u661f\u671f\u4e94\u7231\u5c14\u5170\u8a18\u4e8b - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "operating_room",
+        "ioclass": "indoor",
+        "probability": 0.6702060103416443
+      },
+      {
+        "class": "hospital_room",
+        "ioclass": "indoor",
+        "probability": 0.21488304436206818
+      },
+      {
+        "class": "veterinarians_office",
+        "ioclass": "indoor",
+        "probability": 0.034722261130809784
+      },
+      {
+        "class": "repair_shop",
+        "ioclass": "indoor",
+        "probability": 0.02057626284658909
+      },
+      {
+        "class": "butchers_shop",
+        "ioclass": "indoor",
+        "probability": 0.011489087715744972
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.8928678035736084
+      },
+      {
+        "class": "busy",
+        "score": 0.6724798679351807
+      },
+      {
+        "class": "moist",
+        "score": 0.6351304054260254
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.6238397359848022
+      },
+      {
+        "class": "bright",
+        "score": 0.5914704203605652
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 775,
+        "pred_lat": 40.41817092895508,
+        "pred_long": -3.7062253952026367
+      },
+      "middle": {
+        "pred_class": 881,
+        "pred_lat": 40.416900634765625,
+        "pred_long": -3.703780174255371
+      },
+      "fine": {
+        "pred_class": 919,
+        "pred_lat": 40.416934967041016,
+        "pred_long": -3.703742742538452
+      },
+      "hierarchy": {
+        "pred_class": 919,
+        "pred_lat": 40.416934967041016,
+        "pred_long": -3.703742742538452
+      },
+      "country": {
+        "city": "Madrid",
+        "state": "Community of Madrid",
+        "country": "Spain"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 40.386642,
+    "longitude": -3.6760864,
+    "generationtime_ms": 0.2409219741821289,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 666.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2013-07-16T00:00",
+        "2013-07-16T01:00",
+        "2013-07-16T02:00",
+        "2013-07-16T03:00",
+        "2013-07-16T04:00",
+        "2013-07-16T05:00",
+        "2013-07-16T06:00",
+        "2013-07-16T07:00",
+        "2013-07-16T08:00",
+        "2013-07-16T09:00",
+        "2013-07-16T10:00",
+        "2013-07-16T11:00",
+        "2013-07-16T12:00",
+        "2013-07-16T13:00",
+        "2013-07-16T14:00",
+        "2013-07-16T15:00",
+        "2013-07-16T16:00",
+        "2013-07-16T17:00",
+        "2013-07-16T18:00",
+        "2013-07-16T19:00",
+        "2013-07-16T20:00",
+        "2013-07-16T21:00",
+        "2013-07-16T22:00",
+        "2013-07-16T23:00",
+        "2013-07-17T00:00",
+        "2013-07-17T01:00",
+        "2013-07-17T02:00",
+        "2013-07-17T03:00",
+        "2013-07-17T04:00",
+        "2013-07-17T05:00",
+        "2013-07-17T06:00",
+        "2013-07-17T07:00",
+        "2013-07-17T08:00",
+        "2013-07-17T09:00",
+        "2013-07-17T10:00",
+        "2013-07-17T11:00",
+        "2013-07-17T12:00",
+        "2013-07-17T13:00",
+        "2013-07-17T14:00",
+        "2013-07-17T15:00",
+        "2013-07-17T16:00",
+        "2013-07-17T17:00",
+        "2013-07-17T18:00",
+        "2013-07-17T19:00",
+        "2013-07-17T20:00",
+        "2013-07-17T21:00",
+        "2013-07-17T22:00",
+        "2013-07-17T23:00"
+      ],
+      "apparent_temperature": [
+        21.9,
+        20.3,
+        19.3,
+        18.8,
+        18.3,
+        17.9,
+        18.4,
+        21.6,
+        23.7,
+        25.6,
+        28.1,
+        29.8,
+        30.7,
+        31.5,
+        31.5,
+        30.5,
+        30.3,
+        29.2,
+        28.9,
+        28.7,
+        27.4,
+        26.0,
+        23.9,
+        22.5,
+        21.9,
+        21.5,
+        21.0,
+        20.7,
+        20.2,
+        19.6,
+        19.7,
+        21.7,
+        23.5,
+        25.7,
+        28.9,
+        30.6,
+        31.8,
+        32.1,
+        32.1,
+        31.6,
+        30.9,
+        29.9,
+        28.0,
+        26.6,
+        25.7,
+        24.7,
+        23.8,
+        22.9
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

@@ -1,0 +1,1529 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 12,
+            "abnormal": false
+          },
+          "2024/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2024/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 12,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2024/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                5,
+                3,
+                1,
+                1,
+                0,
+                5,
+                0,
+                0,
+                0,
+                12,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 36,
+            "percentage": 50.0
+          },
+          "Spanish; Castilian": {
+            "count": 14,
+            "percentage": 19.444444444444443
+          },
+          "Dutch; Flemish": {
+            "count": 6,
+            "percentage": 8.333333333333334
+          },
+          "French": {
+            "count": 5,
+            "percentage": 6.944444444444445
+          },
+          "Russian": {
+            "count": 3,
+            "percentage": 4.166666666666667
+          },
+          "Slovenian": {
+            "count": 3,
+            "percentage": 4.166666666666667
+          },
+          "German": {
+            "count": 2,
+            "percentage": 2.7777777777777777
+          },
+          "Italian": {
+            "count": 1,
+            "percentage": 1.3888888888888888
+          },
+          "Polish": {
+            "count": 1,
+            "percentage": 1.3888888888888888
+          },
+          "Turkish": {
+            "count": 1,
+            "percentage": 1.3888888888888888
+          }
+        },
+        "total": 72,
+        "plot": {
+          "labels": [
+            "English",
+            "Spanish; Castilian",
+            "Dutch; Flemish",
+            "French",
+            "others"
+          ],
+          "data": [
+            50,
+            19,
+            8,
+            6,
+            17
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "es",
+        "link": "http://deborahberger.co.uk/http/klublr.com/esa/prueba-de-choque-del-modelo-tesla",
+        "title": "Prueba De Choque Del Modelo Tesladeborahberger.co.ukhttp://deborahberger.co.uk \u203a esa \u203a p...",
+        "content": "2023 Tesla Model 3 \u00b7 251 Tesla Crash Stock Photos, High-Res Pictures, and Images... \u00b7 2023 Tesla Model 3 \u00b7 2022 Tesla Model 3 Crash Test Ratings -\u00a0...",
+        "size": [
+          1440,
+          1080
+        ],
+        "date": "2024:01:08 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "ru",
+        "link": "https://4pda.to/2022/02/02/396292/google_ustanovila_lichnyj_rekord_po_prodazham_smartfonov/",
+        "title": "Google \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0430 \u043b\u0438\u0447\u043d\u044b\u0439 \u0440\u0435\u043a\u043e\u0440\u0434 \u043f\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430\u043c \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u04324PDAhttps://4pda.to \u203a 2022/02/02 \u203a goo...",
+        "content": "... 3 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u0430 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432, \u0447\u0442\u043e \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043c\u0435\u043d\u0435\u0435 1% \u043e\u0442 \u0432\u0441\u0435\u0433\u043e \u0440\u044b\u043d\u043a\u0430. \u0421\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043e\u0437\u0432\u0443\u0447\u0435\u043d\u043d\u044b\u043c \u0434\u0430\u043d\u043d\u044b\u043c, \u0437\u0430 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044b\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b 2021-\u0433\u043e Alphabet \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0430 $75,3\u00a0...",
+        "size": [
+          400,
+          300
+        ],
+        "date": "2022:02:02 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 43,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "ru",
+        "link": "https://4pda.to/2022/02/02/396292/google_ustanovila_lichnyj_rekord_po_prodazham_smartfonov/",
+        "title": "Google \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0430 \u043b\u0438\u0447\u043d\u044b\u0439 \u0440\u0435\u043a\u043e\u0440\u0434 \u043f\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430\u043c \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u04324PDAhttps://4pda.to \u203a 2022/02/02 \u203a goo...",
+        "content": "... 3 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u0430 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432, \u0447\u0442\u043e \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043c\u0435\u043d\u0435\u0435 1% \u043e\u0442 \u0432\u0441\u0435\u0433\u043e \u0440\u044b\u043d\u043a\u0430. \u0421\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043e\u0437\u0432\u0443\u0447\u0435\u043d\u043d\u044b\u043c \u0434\u0430\u043d\u043d\u044b\u043c, \u0437\u0430 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044b\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b 2021-\u0433\u043e Alphabet \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0430 $75,3\u00a0...",
+        "size": [
+          400,
+          300
+        ],
+        "date": "2022:02:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insideevs.com/news/657929/tesla-model3-wrecked-crazy-crash-footage-teslacam/",
+        "title": "Tesla Model 3 Wrecked: Crazy Crash Footage Caught On Two ...InsideEVshttps://insideevs.com \u203a Tesla \u203a Model 3 \u203a News",
+        "content": "An incident with a van leaves one Model 3 wrecked and the other barely escaping. The TeslaCam technology proves who was at fault. ... Two Tesla\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:03:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sl",
+        "link": "http://www.avtomanija.com/2023/03/107631/dve-tesli-in-kombi",
+        "title": "Posnetki nesre\u010d - Dve Tesli in kombi - AvtomanijaAvtomanijahttp://www.avtomanija.com \u203a dve-t...",
+        "content": "Dva voznika Teslinih Modelov 3 sta se peljala v slu\u017ebo, ko ... Rde\u010da Tesla je posku\u0161ala obvoziti stoje\u010de vozilo po levi, a ji ni povsem uspelo.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:03:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sl",
+        "link": "http://www.avtomanija.com/2023/03/107631/setcookieshit.php",
+        "title": "Posnetki nesre\u010d - Dve Tesli in kombi - AvtomanijaAvtomanijahttp://www.avtomanija.com \u203a setco...",
+        "content": "Dva voznika Teslinih Modelov 3 sta se peljala v slu\u017ebo, ko ... Rde\u010da Tesla je posku\u0161ala obvoziti stoje\u010de vozilo po levi, a ji ni povsem uspelo.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:03:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://es.motor1.com/news/658212/tesla-model3-accidente-furgoneta-teslacam/",
+        "title": "Mira este accidente de un Tesla Model 3 grabado por dos ...Motor1.com Espa\u00f1ahttps://es.motor1.com \u203a ... \u203a Noticias",
+        "content": "Un incidente con una furgoneta deja a un ejemplar bastante da\u00f1ado y al otro escapando por cent\u00edmetros. Accidente Tesla Model 3.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:03:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://uk.motor1.com/news/659149/kia-soul-airborne-after-crashing-into-runaway-tyre/",
+        "title": "Kia Soul goes airborne after smashing into runaway wheel in ...Motor1.com UKhttps://uk.motor1.com \u203a Kia \u203a Soul \u203a News",
+        "content": "The shocking footage was recorded by a camera inside a Tesla. ; tesla model3 crash footage caught teslacam Tesla Model 3 wrecked: Crazy crash\u00a0...",
+        "size": [
+          445,
+          250
+        ],
+        "date": "2023:03:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://tork.news/Que-10-coches-podria-tener-Rubius-gracias-a-su-ropa-exclusiva-t202304090003.html",
+        "title": "Qu\u00e9 10 coches podr\u00eda tener Rubius gracias a su ropa exclusivatork.newshttps://tork.news \u203a ... \u203a Lamborghini",
+        "content": "1 - Ford Shelby GT500 2020 \u00b7 2 - Lamborghini Hurac\u00e1n \u00b7 3 - Chevrolet Camaro ZL1 \u00b7 4 - BMW i8 \u00b7 5 - Tesla Model S.",
+        "size": [
+          409,
+          305
+        ],
+        "date": "2023:04:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insideevs.com/news/662553/tesla-totaled-after-crash-pickup-truck/",
+        "title": "Tesla Totaled After Crashing Into Pickup Truck - InsideEVsInsideEVshttps://insideevs.com \u203a Tesla \u203a News",
+        "content": "Tesla Totaled After Crashing Into Pickup Truck: $60,000 Disaster \u00b7 The pickup truck driver tried to beat traffic while turning left and didn't\u00a0...",
+        "size": [
+          445,
+          250
+        ],
+        "date": "2023:04:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insideevs.com/news/664832/tesla-model3-totaled-new-owner-shares-surprises/",
+        "title": "Tesla Model 3 Totaled, New Owner Has Surprises To ShareInsideEVshttps://insideevs.com \u203a Tesla \u203a Model 3 \u203a News",
+        "content": "Winston's 2018 Tesla Model 3 Long Range had been in a crash and was considered a total loss, but he had no idea what actually happened. After he\u00a0...",
+        "size": [
+          445,
+          250
+        ],
+        "date": "2023:04:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://4pda.to/2023/05/03/412837/vladet_tesla_v_rossii_stalo_zapredelno_dorogo/",
+        "title": "\u0412\u043b\u0430\u0434\u0435\u0442\u044c Tesla \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0441\u0442\u0430\u043b\u043e \u0437\u0430\u043f\u0440\u0435\u0434\u0435\u043b\u044c\u043d\u043e \u0434\u043e\u0440\u043e\u0433\u043e - 4PDA4PDAhttps://4pda.to \u203a 2023/05/03 \u203a vlad...",
+        "content": "\u0420\u0430\u0441\u0447\u0451\u0442\u044b \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043b\u0438\u0441\u044c \u0434\u043b\u044f Tesla Model 3 2019 \u0433\u043e\u0434\u0430 \u0432\u044b\u043f\u0443\u0441\u043a\u0430, \u043a\u0443\u043f\u043b\u0435\u043d\u043d\u043e\u0439 \u0432 \u0430\u0432\u0442\u043e\u0441\u0430\u043b\u043e\u043d\u0435, \u0441\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430\u043c\u0438: 451 \u043b. \u0441., \u043f\u0440\u043e\u0431\u0435\u0433 \u0432 38 000\u00a0...",
+        "size": [
+          400,
+          300
+        ],
+        "date": "2023:05:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sl",
+        "link": "https://www.avto-fokus.si/Novice/teslin_avtopilot_povezan_s_736_nesrecami_in_17_smrtnimi_zrtvami.html",
+        "title": "Teslin avtopilot samo v ZDA povezan s 736 nesre\u010dami in 17 ...AVTO FOKUShttps://www.avto-fokus.si \u203a Novice",
+        "content": "Tesla in Elon Musk se na razkrite podatke \u0161e nista odzvala. Samo po ... 3? 02.02.2024 Audi Q8: Spredaj sveti lasersko, zadaj ponosno\u00a0...",
+        "size": [
+          1024,
+          552
+        ],
+        "date": "2023:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.tomsguide.fr/tesla-vise-par-une-nouvelle-enquete-la-direction-assistee-des-model-3-et-y-serait-defectueuse/",
+        "title": "Tesla vis\u00e9 par une nouvelle enqu\u00eate : la direction assist\u00e9e des ...Toms Guidehttps://www.tomsguide.fr \u203a tesla-vis...",
+        "content": "... Tesla Model 3 et Y ... Tesla Model 3 Y enqu\u00eate direction assist\u00e9e. Une Tesla abim\u00e9e apr\u00e8s un accident en mars 2023.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:08:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://doingbuzz.com/la-direction-assistee-des-model-3-et-y-serait-defectueuse/",
+        "title": "La Direction Assist\u00e9e Des Model 3 Et Y Serait D\u00e9fectueuseDoingbuzzhttps://doingbuzz.com \u203a la-direction...",
+        "content": "La direction assist\u00e9e des Tesla Model 3 et Y rencontre actuellement des d\u00e9fauts qui ont \u00e9t\u00e9 signal\u00e9s par de nombreux propri\u00e9taires.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:08:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.tomsguide.fr/tesla-il-percute-violemment-une-voiture-de-police-malgre-150-avertissements-de-lautopilot/",
+        "title": "Tesla : il percute violemment une voiture de police malgr\u00e9 150 ...Toms Guidehttps://www.tomsguide.fr \u203a tesla-il-...",
+        "content": "Un conducteur d'une Tesla Model 3 a percut\u00e9 une voiture de police stationn\u00e9e sur le bord de la route alors qu'il regardait un film sur son\u00a0...",
+        "size": [
+          240,
+          170
+        ],
+        "date": "2023:08:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insideevs.com/news/682776/watch-tesla-model-3-dive-flood-water-running-fsd-beta/",
+        "title": "Watch Tesla Model 3 Dive Into Flood Water While Running On ...InsideEVshttps://insideevs.com \u203a Tesla \u203a Model 3 \u203a News",
+        "content": "A Tesla Model 3 running on FSD Beta aquaplaned and drove into flood water after the ADAS did not heed a \"Flooded\" sign and the driver did\u00a0...",
+        "size": [
+          445,
+          250
+        ],
+        "date": "2023:08:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.tomsguide.fr/tesla-les-premiers-proces-sanglants-pour-lautopilot-defaillant-debutent-la-firme-nie-en-bloc/",
+        "title": "Tesla : tra\u00een\u00e9e en justice pour son Autopilot meurtrier, la firme ...Toms Guidehttps://www.tomsguide.fr \u203a tesla-les...",
+        "content": "La firme est accus\u00e9e de tromperie et de n\u00e9gligence par les familles, alors que les rapports de d\u00e9c\u00e8s s'entassent. Crash mortel Tesla Model 3. Le\u00a0...",
+        "size": [
+          240,
+          170
+        ],
+        "date": "2023:08:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://hmjvandenbosch.com/2023/12/03/de-automatisering-van-het-rijden-twee-visies-4-8/",
+        "title": "De automatisering van het rijden: twee visies (4/8)hmjvandenbosch.comhttps://hmjvandenbosch.com \u203a de-a...",
+        "content": "Verkeerd gebruik van Tesla's autopilot heeft geleid tot crashes met dodelijke afloop ... Huns inziens is veilig rijden op SAE-niveau 3 onmogelijk\u00a0...",
+        "size": [
+          908,
+          510
+        ],
+        "date": "2023:12:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://hmjvandenbosch.com/tag/automatisering-rijden/",
+        "title": "automatisering rijden - Project 'De humane ruimte'hmjvandenbosch.comhttps://hmjvandenbosch.com \u203a tag",
+        "content": "Verkeerd gebruik van Tesla's autopilot heeft geleid tot crashes met dodelijke afloop ... Huns inziens is veilig rijden op SAE-niveau 3 onmogelijk\u00a0...",
+        "size": [
+          908,
+          510
+        ],
+        "date": "2023:12:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://hmjvandenbosch.com/tag/autopilot/",
+        "title": "autopilot - Project 'De humane ruimte'hmjvandenbosch.comhttps://hmjvandenbosch.com \u203a tag",
+        "content": "Verkeerd gebruik van Tesla's autopilot heeft geleid tot crashes met dodelijke afloop ... Huns inziens is veilig rijden op SAE-niveau 3 onmogelijk\u00a0...",
+        "size": [
+          908,
+          510
+        ],
+        "date": "2023:12:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://hmjvandenbosch.com/tag/tesla/",
+        "title": "Tesla - Project 'De humane ruimte'hmjvandenbosch.comhttps://hmjvandenbosch.com \u203a tag",
+        "content": "Verkeerd gebruik van Tesla's autopilot heeft geleid tot crashes met dodelijke afloop ... Huns inziens is veilig rijden op SAE-niveau 3 onmogelijk\u00a0...",
+        "size": [
+          908,
+          510
+        ],
+        "date": "2023:12:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hermanvandenbosch.com/2023/12/05/the-automation-of-driving-two-views-4-4/",
+        "title": "The automation of driving: two views (4/4) | Science for Societyhermanvandenbosch.comhttps://hermanvandenbosch.com \u203a 2023/12/05 \u203a the-a...",
+        "content": "I will write later about the investments made to achieve this goal. Incorrect use of Tesla's autopilot has led to fatal crashes. The\u00a0...",
+        "size": [
+          908,
+          510
+        ],
+        "date": "2023:12:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldebate.com/motor/20231206/chivato-tesla-antiguo-trabajador-revela-verdadero-problema-coches-electricos_158549.html",
+        "title": "El chivato de Tesla: un antiguo trabajador revela el verdadero ...El Debatehttps://www.eldebate.com \u203a motor",
+        "content": "En pleno fiasco del Cybertruck, Tesla se enfrenta a una de las mayores crisis de su historia tras las denuncias de un antiguo empleado.",
+        "size": [
+          620,
+          353
+        ],
+        "date": "2023:12:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://tork.news/autos/La-cantidad-de-salarios-minimos-que-necesitas-para-comprar-el-Mini-Cooper-de-Blake-de-Lively-20231217-0011.html",
+        "title": "Aunque Blake Lively tiene millones de d\u00f3lares, conduce este ...tork.newshttps://tork.news \u203a ... \u203a Blake Lively",
+        "content": "... Tesla Model S, su Lamborghini Aventador Roadster, su Cadillac Escalade, por nombrar tan solo unos pocos. La estrella de Hollywood es\u00a0...",
+        "size": [
+          409,
+          305
+        ],
+        "date": "2023:12:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://esa.animalia-life.club/coche-rojo-da%C3%B1ado",
+        "title": "Coche Rojo Da\u00f1adoAnimalia Lifehttps://esa.animalia-life.club \u203a coche...",
+        "content": "Car crash night fotos de stock, im\u00e1genes de Car crash night sin royalties ... Mira este accidente de un Tesla Model 3 grabado por dos TeslaCam\u00a0...",
+        "size": [
+          1440,
+          1080
+        ],
+        "date": "2023:12:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.xataka.com.mx/automovil/conductores-tesla-que-accidentes-tienen-ram-que-peor-conducen-estudio",
+        "title": "Los conductores de Tesla son los que m\u00e1s accidentes tienen ...Xataka M\u00e9xicohttps://www.xataka.com.mx \u203a cond...",
+        "content": "Despu\u00e9s de analizar 30 marcas automotrices, LendingTree, una prestamista web, encontr\u00f3 que los conductores de Tesla est\u00e1n involucrados en\u00a0...",
+        "size": [
+          650,
+          365
+        ],
+        "date": "2023:12:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://tork.news/autos/Cual-es-la-marca-con-la-taza-mas-alta-de-accidentes-20231222-0017.html",
+        "title": "\u00bfCu\u00e1l es la marca con la taza m\u00e1s alta de accidentes?tork.newshttps://tork.news \u203a Autos \u203a Tesla",
+        "content": "Tesla Accidente ... Tesla cuenta con la taza de accidentes m\u00e1s alta. Un Tesla Model 3 accidentado a modo ilustrativo.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:12:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.techinside.com/tesla-suruculeri-en-yuksek-kaza-oranina-sahip/",
+        "title": "Tesla s\u00fcr\u00fcc\u00fcleri en y\u00fcksek kaza oran\u0131na sahip! - TechInsideTechInsidehttps://www.techinside.com \u203a tesla-s...",
+        "content": "Elektrikli otomobil \u00fcreticisi Tesla'n\u0131n s\u00fcr\u00fcc\u00fcleri, Amerika Birle\u015fik Devletleri'nde en y\u00fcksek kaza oran\u0131na sahip oldu\u011fu ortaya \u00e7\u0131kt\u0131.",
+        "size": [
+          768,
+          432
+        ],
+        "date": "2023:12:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://tork.news/autos/Asi-luce-por-dentro-el-carro-con-mas-espiritu-navideno-del-mundo-entero-20231224-0009.html",
+        "title": "As\u00ed luce por dentro el carro con m\u00e1s esp\u00edritu navide\u00f1o del ...tork.newshttps://tork.news \u203a Autos \u203a Tesla",
+        "content": "Luces y m\u00fasica en un veh\u00edculo el\u00e9ctrico de lujo. Desliza y no te pierdas el video. Tesla muestra su espiritu navide\u00f1o.",
+        "size": [
+          409,
+          305
+        ],
+        "date": "2023:12:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "http://deborahberger.co.uk/http/klublr.com/esa/prueba-de-choque-del-modelo-tesla",
+        "title": "Prueba De Choque Del Modelo Tesladeborahberger.co.ukhttp://deborahberger.co.uk \u203a esa \u203a p...",
+        "content": "2023 Tesla Model 3 \u00b7 251 Tesla Crash Stock Photos, High-Res Pictures, and Images... \u00b7 2023 Tesla Model 3 \u00b7 2022 Tesla Model 3 Crash Test Ratings -\u00a0...",
+        "size": [
+          1440,
+          1080
+        ],
+        "date": "2024:01:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://farma.t4h.com.br/?q=here-are-some-of-the-first-tesla-model-crashes-ee-aG80yJsa",
+        "title": "Here are some of the first Tesla Model crashes Electrekfarma t4hhttps://farma.t4h.com.br \u203a ...",
+        "content": "Here are some of the first Tesla Model crashes Electrek, Front Size Rear Size Bolt Pattern Offset ET This is a set of wheels No warranty is provided on\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=6XkIr8Hv6Zo",
+        "title": "INSANE CRASH FOOTAGE CAPTURED BY TWO TESLASYouTube\u00a0\u00b7\u00a0Wham Baam Teslacam512K+ views  \u00b7  11 months ago",
+        "content": "Tesla is totaled in a crash with a van, but the built-in cameras proved who was in the wrong! In this episode, 20 Tesla owner share their\u00a0...",
+        "size": [
+          120,
+          90
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linsdevasconcellos.org.br/salvage-2021-tesla-model-unknown-for-sale-in-hueytown-pp-rzpnvGFk",
+        "title": "Salvage 2021 Tesla Model UNKNOWN for Sale in Hueytown ...linsdevasconcellos.org.brhttps://www.linsdevasconcellos.org.br \u203a salvage-2021-...",
+        "content": "... Tesla Model 3\uff08M3-EX05LCF\uff09. Salvage 2021 Tesla Model UNKNOWN for Sale in Hueytown ... Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. Model\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dott.co.at/?i=model-potentially-totaled-by-car-running-from-the-police-jj-A7gYXhE",
+        "title": "Model Potentially Totaled By Car Running From The Police ...Dott Architektenhttps://www.dott.co.at \u203a tesla model airbags",
+        "content": "Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. \"Every Tesla ... Tesla Sued Over Highway Crash When Model 3's Airbags Malfunctioned. Related\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ntawards.tv/?y=here-are-some-of-the-first-tesla-model-crashes-rr-d7VqdNtD",
+        "title": "Here are some of the first Tesla Model crashes Electrekntawards.tvhttps://www.ntawards.tv \u203a ...",
+        "content": "My experience with Tesla Insurance after destroying my leased Model in a freeway accident Tesla Motors Club ... INSANE TESLA MODEL CRASH VIDEO TESLACAM STORIES\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mitindore.co.in/?u=here-are-some-of-the-first-tesla-model-crashes-tt-ERwgLOs1",
+        "title": "Here are some of the first Tesla Model crashes ElectrekMalwa Institute of Technology, Indorehttps://www.mitindore.co.in \u203a ...",
+        "content": "Incredible moment Tesla Autopilot saves woman's life after a 70mph car crash throws her hands from the steering wheel The Sun. Here are some of the first\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.flerodiesel.it/?k=top-20-biggest-tesla-crashes-of-2022-qq-l5lbW2cm",
+        "title": "TOP 20 BIGGEST TESLA CRASHES OF 2022, 51% OFFflerodiesel.ithttps://www.flerodiesel.it \u203a crashed tesla",
+        "content": "TOP 20 BIGGEST TESLA CRASHES OF 2022, Tesla MODEL S 2022 vin: 5YJSA1E50NF471025 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0430\u0443\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0435 IAAI \u0432 \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u043c\u0430\u044f \u0446\u0435\u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0438.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://tratenor.es/?o=ntsb-tesla-model-traveling-up-to-90-mph-before-xx-xOm2lBTB",
+        "title": "Tesla Model traveling up to 90 mph before fatal Florida crashTratenorhttps://tratenor.es \u203a tesla 90",
+        "content": "NTSB: Tesla Model traveling up to 90 mph before fatal Florida crash, Shop 1:20 Tesla Model X Alloy Car Model Diecasts Toy Vehicles Toy Cars Free Shipping\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://richtig.cl/?w=top-20-biggest-tesla-crashes-of-2022-ll-aRGm3yUK",
+        "title": "top 20 biggest tesla crashes of 2022 - Richtigrichtig.clhttps://richtig.cl \u203a crashed tesla",
+        "content": "Tesla Crash Victim Was 99% to Blame for His Death in Model S, Jury Says Tech News. TOP 20 BIGGEST TESLA CRASHES OF 2022. Tesla that crashed into police car\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mva.bh/?a=2022-tesla-model-y-for-sale-co-denver-south-nn-db2kbGHp",
+        "title": "2022 TESLA MODEL Y for Sale CO DENVER SOUTH Sep 05 ...mva.bhhttps://www.mva.bh \u203a tesla model y crash",
+        "content": "... Model 3] Made of high-quality ABS and strong. 2022 TESLA MODEL Y for Sale CO ... INSANE TESLA MODEL Y CRASH VIDEO TESLACAM STORIES 118. Quality pcs Front\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mustaqbal.af/?o=how-safe-are-teslas-in-a-crash-i-see-gg-Qnl22MHb",
+        "title": "How Safe Are Teslas In A Crash? I See They Have High, 44 ...mustaqbal.afhttps://www.mustaqbal.af \u203a are teslas safe",
+        "content": "INSANE TESLA MODEL CRASH VIDEO TESLACAM STORIES 103. How safe are Teslas in a ... Tesla Model 3, Model X take top honors in Euro NCAP Best in Class Cars 2019\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oceanproperty.co.th/?q=internal-docs-reveal-tesla-to-allow-salvaged-cars-to-ee-DWrNrrSn",
+        "title": "Internal Docs Reveal Tesla To Allow Salvaged Cars To Use ...oceanproperty.co.thhttps://www.oceanproperty.co.th \u203a ...",
+        "content": "Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. Internal ... Salvage title model Tesla Motors Club.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contratacion.fundovidaips.com/?m=top-20-biggest-tesla-crashes-of-2022-yy-1o0EznU0",
+        "title": "TOP 20 BIGGEST TESLA CRASHES OF 2022, 53% OFFFundovidahttps://contratacion.fundovidaips.com \u203a ...",
+        "content": "TOP 20 BIGGEST TESLA CRASHES OF 2022, Tesla MODEL S 2022 vin: 5YJSA1E50NF471025 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0430\u0443\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0435 IAAI \u0432 \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u043c\u0430\u044f \u0446\u0435\u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0438.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.login.britishinternationalschool.org/?i=vin-5yj3e1ea0lf504446-tesla-model-2020-car-history-ff-Zg2oeBho",
+        "title": "VIN: 5YJ3E1EA0LF504446 TESLA MODEL 2020 car historyBIS Lubumbashihttps://www.login.britishinternationalschool.org \u203a ...",
+        "content": "Description \u00b7 A Reminder That Tesla's Autopilot Still Requires a \"Pilot\" \u00b7 VIN: 5YJ3E1EA5MF048820 TESLA MODEL 2021 car history \u00b7 Tesla Model Wrecked: Crazy Crash\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lupafiscal.com.br/?e=tesla-to-allow-salvaged-vehicles-back-on-supercharger-network-gg-d65EQbTD",
+        "title": "Tesla to allow salvaged vehicles back on Supercharger networkCEI Aurorahttps://www.lupafiscal.com.br \u203a ...",
+        "content": "Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. Tesla to ... Salvage title model Tesla Motors Club. Tesla to allow salvaged vehicles back on\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oceanproperty.co.th/en/News/?q=obliterated-tesla-model-sells-for-$15-599-it-still-ee-o6oRmph1",
+        "title": "Obliterated Tesla Model Sells For $15599: It Still Superchargesoceanproperty.co.thhttps://www.oceanproperty.co.th \u203a News",
+        "content": "... TESLA MODEL LONG RANGE DUAL MOTOR Our photos provide an accurate representation of the listed. ... Tesla Model Wrecked: Crazy Crash Footage Caught On Two\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://skyhouse.md/?o=obliterated-tesla-model-sells-for-$15-599-it-still-cc-KwGkzQUb",
+        "title": "Obliterated Tesla Model Sells For $15599: It Still SuperchargesSkyHousehttps://skyhouse.md \u203a salvage tesla battery for sale",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oceanproperty.co.th/en/News/?q=tesla-to-allow-salvaged-vehicles-back-on-supercharger-network-ee-AXboLpub",
+        "title": "Tesla to allow salvaged vehicles back on Supercharger networkoceanproperty.co.thhttps://www.oceanproperty.co.th \u203a News",
+        "content": "Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. Tesla to ... Salvage title model Tesla Motors Club. Buy Tesla Battery Module 18650 battery ev\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tonicradio.fr/deuxieme-match-et-deuxieme-defaite-pour-lasvel/?m=here-are-some-of-the-first-tesla-model-crashes-rr-7W1VBrCP",
+        "title": "Here are some of the first Tesla Model crashes ElectrekPrizm Institutehttps://www.tonicradio.fr \u203a deuxieme-match-et-deuxie...",
+        "content": "Here are some of the first Tesla Model crashes Electrek, Includes, 4x Wheels, 4x 255/45-19 Tires, 4x Tesla Factory Tire Pressure Monitor Sensor We purchase\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.batidur.fr/constructeur-construction-87/dubai/?w=tesla-to-allow-salvaged-vehicles-back-on-supercharger-network-ii-EbpOQ3Cg",
+        "title": "Tesla to allow salvaged vehicles back on Supercharger networkmaisons batidurhttps://www.batidur.fr \u203a dubai",
+        "content": "2x tesla battery 3x tesla battery 4x tesla s battery For sale is an Clean ... Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. Free local\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.batidur.fr/constructeur-construction-87/dubai/?w=tesla-to-allow-salvaged-vehicles-back-on-supercharger-network-ii-EbpOQ3Cg",
+        "title": "Tesla to allow salvaged vehicles back on Supercharger networkmaisons batidurhttps://www.batidur.fr \u203a dubai",
+        "content": "2x tesla battery 3x tesla battery 4x tesla s battery For sale is an Clean ... Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. Free local\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://skyhouse.md/?o=obliterated-tesla-model-sells-for-%2415-599-it-still-cc-KwGkzQUb",
+        "title": "Obliterated Tesla Model Sells For $15599: It Still SuperchargesSkyHousehttps://skyhouse.md \u203a salvage tesla battery for sale",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://skyhouse.md/?o=you-won-t-believe-it-but-this-tesla-model-cc-Rvp0EzFG",
+        "title": "You Won't Believe It But This Tesla Model Is Still, 46% OFFskyhouse.mdhttps://skyhouse.md \u203a salvage tesla battery for sale",
+        "content": "You won't believe it but this Tesla Model is still 'driveable' Electrek, 2012-2020 TESLA 2016-2020 TESLA All modules and electronics are tested and in\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://makkalnewstv.com/?o=model-potentially-totaled-by-car-running-from-the-police-ff-wypM7iW",
+        "title": "Model Potentially Totaled By Car Running From The Police ...makkalnewstv.comhttps://makkalnewstv.com \u203a tesla model airbags",
+        "content": "Tesla Model Airbags Didn't Deploy in Crash, Lawyer Says Company Is Unresponsive ... Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. Model\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.funchaltransportes.com.br/?m=new-york-cars-trucks-by-dealer-k5-craigslist-uu-3gbGxACL",
+        "title": "New York Cars Trucks By Dealer K5 Craigslist, 40% OFFFunchal Transporteshttps://www.funchaltransportes.com.br \u203a bgmi tesla",
+        "content": "... Tesla Model Y In-Game MySmartPrice. new york cars trucks by dealer. 2023 Tesla Model S Prices, Reviews, and Pictures Edmunds. One Shot Graffiti Remover is a\u00a0...",
+        "size": [
+          445,
+          250
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nelsonpino.com.uy/tesla-model-totaled-new-owner-has-surprises-to-share-aa-Jn7pXMiy",
+        "title": "Tesla Model Totaled, New Owner Has Surprises To Sharenelsonpino.com.uyhttps://nelsonpino.com.uy \u203a tesla pink car price",
+        "content": "Modello 3D 2020 Tesla Roadster rosso per il scaricare come c4d, 3ds, dae, fbx, and obj esente da diritti su TurboSquid: modelli 3D per giochi,. Tesla Model\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://russian.lt/?q=top-20-biggest-tesla-crashes-of-2022-dd-DZK96OsL",
+        "title": "TOP 20 BIGGEST TESLA CRASHES OF 2022, 42% OFFrussian.lthttps://russian.lt \u203a crashed tesla",
+        "content": "TOP 20 BIGGEST TESLA CRASHES OF 2022, Tesla MODEL S 2022 vin: 5YJSA1E50NF471025 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0430\u0443\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0435 IAAI \u0432 \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u043c\u0430\u044f \u0446\u0435\u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0438.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://attorneygeneral.gov.lk/?c=tesla-to-allow-salvaged-vehicles-back-on-supercharger-network-xx-ZgyeZKfe",
+        "title": "Tesla to allow salvaged vehicles back on Supercharger networkattorneygeneral.gov.lkhttps://attorneygeneral.gov.lk \u203a ...",
+        "content": "This battery module is designed to fit perfectly into your Tesla Model X or S, providing you with a whopping kWh of energy and 250Ah of capacity,.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lmpoman.co/?i=obliterated-tesla-model-sells-for-%2415-599-it-still-yy-v5Mv2dUk",
+        "title": "Obliterated Tesla Model Sells For $15599: It Still SuperchargesLandmark Properties Omanhttps://lmpoman.co \u203a salvage tesla battery for sale",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lmpoman.co/?i=you-won-t-believe-it-but-this-tesla-model-yy-k8E590sV",
+        "title": "You Won't Believe It But This Tesla Model Is Still, 54% OFFlmpoman.cohttps://lmpoman.co \u203a salvage tesla battery for sale",
+        "content": "You won't believe it but this Tesla Model is still 'driveable' Electrek, 2012-2020 TESLA 2016-2020 TESLA All modules and electronics are tested and in\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.tomsguide.fr/une-tesla-sarrete-net-un-plein-milieu-de-lautoroute-javais-peur-quon-me-percute/",
+        "title": "Une Tesla s'arr\u00eate net un plein milieu de l'autoroute, \"j'avais ...Toms Guidehttps://www.tomsguide.fr \u203a une-tesl...",
+        "content": " \u00b7 ",
+        "size": [
+          240,
+          170
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gbu-hamovniki.ru/?g=tesla-modell-l%C3%A4uft-immer-noch-nach-dem-aufsummieren-beweist-hh-7Mz3yNTQ",
+        "title": "Tesla Modell L\u00e4uft Immer Noch Nach Dem Aufsummieren,, 47 ...\u0413\u0411\u0423 \"\u0416\u0438\u043b\u0438\u0449\u043d\u0438\u043a\" \u0440\u0430\u0439\u043e\u043d\u0430 \u0425\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0438https://www.gbu-hamovniki.ru \u203a ...",
+        "content": "Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams ... Tesla Model 3: Die ersten Autos erreichen Europa (Februar 2019). Tesla Modell L\u00e4uft Immer\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://vsyamebel.shop/articles/p-obraznyij-divan-rif/?g=tesla-modell-l%C3%A4uft-immer-noch-nach-dem-aufsummieren-beweist-aa-wk9qJ3cG",
+        "title": "Tesla Modell L\u00e4uft Immer Noch Nach Dem Aufsummieren,, 53 ...\u0432\u0441\u044f\u043c\u0435\u0431\u0435\u043b\u044c \u0448\u043e\u043fhttps://vsyamebel.shop \u203a articles \u203a p...",
+        "content": "Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. Satin ... Tesla Model 3: Die ersten Autos erreichen Europa (Februar 2019). Beschreibung, Mit\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://auto.everyeye.it/notizie/tesla-model-3/",
+        "title": "Notizie su Tesla Model 3 - Everyeye AutoEveryeye Autohttps://auto.everyeye.it \u203a notizie \u203a te...",
+        "content": "Tutte le ultime novit\u00e0, informazioni, curiosit\u00e0 e aggiornamenti di Tesla Model 3 su Everyeye Auto.",
+        "size": [
+          350,
+          196
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.youtube.com/watch?v=1ZhF0m9IypM",
+        "title": "ESTE CHOQUE FUE CAPTADO POR DOS TESLAS Y ES ...YouTube\u00a0\u00b7\u00a0Wham Baam en Espa\u00f1ol235.7K+ views  \u00b7  10 months ago",
+        "content": "UN TESLA CON 3 HORAS DE VIDA RECIBE DESTRUCCI\u00d3N TOTAL. Wham Baam en ... UN ANCIANO CHOCA UN TESLA MODEL X ALQUILADO. Wham Baam en Espa\u00f1ol\u202285K\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://4pda.to/tag/tesla/page/2/",
+        "title": "Tesla - 4PDA4PDAhttps://4pda.to \u203a tag \u203a tesla \u203a page",
+        "content": "\u041e\u0434\u0438\u043d \u0438\u0437 \u0447\u0438\u0442\u0430\u0442\u0435\u043b\u0435\u0439 Reuters \u0437\u0430\u043c\u0435\u0442\u0438\u043b, \u0447\u0442\u043e \u0435\u0433\u043e Tesla Model 3 \u0438\u043d\u043e\u0433\u0434\u0430 \u043e\u0448\u0438\u0431\u0430\u0435\u0442\u0441\u044f \u0432 \u0434\u0432\u0430 \u0440\u0430\u0437\u0430 \u043f\u0440\u0438 \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u0435 \u0437\u0430\u043f\u0430\u0441\u0430 \u0445\u043e\u0434\u0430 \u043d\u0430 \u043e\u0434\u043d\u043e\u043c \u0437\u0430\u0440\u044f\u0434\u0435 \u0410\u041a\u0411.",
+        "size": [
+          400,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.youtube.com/watch?v=DLPhkU1QS_4",
+        "title": "CHOCAR CONTRA TESLA ES UN ERROR CARO - YouTubeYouTube\u00a0\u00b7\u00a0Wham Baam en Espa\u00f1ol78K+ views  \u00b7  1 year ago",
+        "content": "Tesla se ve envuelto en un accidente masivo, y el conductor que choc\u00f3 contra el Tesla no contaba con los papeles del seguro.",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.linkedin.com/posts/hermanvandenbosch_the-automation-of-driving-two-views44-activity-7137723432581906433-hTTL?trk=public_profile_like_view",
+        "title": "Herman van den Bosch - The automation of driving - LinkedInLinkedIn\u00a0\u00b7\u00a0Herman van den Bosch3 reactions  \u00b7  2 months ago",
+        "content": "",
+        "size": [
+          800,
+          449
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://twitter.com/XatakaMexico/status/1737187353683267636",
+        "title": "Xataka M\u00e9xico on X: \"Los conductores de Tesla son los que ...X\u00a0\u00b7\u00a0XatakaMexico9 likes  \u00b7  1 month ago",
+        "content": "Los conductores de Tesla son los que m\u00e1s accidentes tienen, mientras que los de RAM son los que peor conducen, seg\u00fan estudio\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.xataka.com.mx/tag/accidente-automovilistico",
+        "title": "Accidente automovil\u00edstico - Xataka M\u00e9xicoXataka M\u00e9xicohttps://www.xataka.com.mx \u203a tag",
+        "content": "... 3comentarios Hace 17 d\u00edas. Los conductores de Tesla son los que m\u00e1s\u00a0...",
+        "size": [
+          200,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.xataka.com.mx/tag/conduccion",
+        "title": "Conducci\u00f3n - Xataka M\u00e9xicoXataka M\u00e9xicohttps://www.xataka.com.mx \u203a tag",
+        "content": "Conducci\u00f3n:Los conductores de Tesla son los que m\u00e1s accidentes tienen, mientras que los de RAM son los que peor conducen, seg\u00fan estudio .Cat\u00e1logo de autos.",
+        "size": [
+          200,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://evmagazyn.pl/ubezpieczenie-gap-dla-aut-elektrycznych-ochrona-wartosci-twojego-pojazdu/",
+        "title": "Ubezpieczenie GAP dla Aut Elektrycznych: Ochrona Warto\u015bci ...evmagazyn.plhttps://evmagazyn.pl \u203a ubezpieczeni...",
+        "content": "Jakie S\u0105 Warunki i Koszty Ubezpieczenia GAP? Za ubezpieczenie GAP, na przyk\u0142ad dla pojazdu marki Tesla, mo\u017cemy spodziewa\u0107 si\u0119 sk\u0142adki w wysoko\u015bci oko\u0142o 3000 z\u0142\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://nl.linkedin.com/in/ropbeesems",
+        "title": "Rop Beesems - Scrum Master - BNNVARA - LinkedInLinkedIn\u00a0\u00b7\u00a0Rop Beesems280+ followers",
+        "content": "",
+        "size": [
+          800,
+          449
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.7794512510299683
+      },
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.06379322707653046
+      },
+      {
+        "class": "auto_factory",
+        "ioclass": "indoor",
+        "probability": 0.03877292945981026
+      },
+      {
+        "class": "auto_showroom",
+        "ioclass": "indoor",
+        "probability": 0.03337129205465317
+      },
+      {
+        "class": "driveway",
+        "ioclass": "outdoor",
+        "probability": 0.02385607548058033
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9176821112632751
+      },
+      {
+        "class": "bright",
+        "score": 0.646671712398529
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.5808533430099487
+      },
+      {
+        "class": "lush",
+        "score": 0.5614294409751892
+      },
+      {
+        "class": "colorful",
+        "score": 0.5498991012573242
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5476396083831787
+      },
+      {
+        "class": "busy",
+        "score": 0.5411868095397949
+      },
+      {
+        "class": "beautiful",
+        "score": 0.532982349395752
+      },
+      {
+        "class": "dirty",
+        "score": 0.5219821929931641
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1085,
+        "pred_lat": 35.51435470581055,
+        "pred_long": -83.34195709228516
+      },
+      "middle": {
+        "pred_class": 1333,
+        "pred_lat": 35.51435470581055,
+        "pred_long": -83.34195709228516
+      },
+      "fine": {
+        "pred_class": 1312,
+        "pred_lat": 34.08672332763672,
+        "pred_long": -84.39799499511719
+      },
+      "hierarchy": {
+        "pred_class": 8577,
+        "pred_lat": 35.53656768798828,
+        "pred_long": -83.0740966796875
+      },
+      "country": {
+        "city": "Roswell",
+        "state": "Georgia",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 34.059753,
+    "longitude": -84.375,
+    "generationtime_ms": 0.11110305786132812,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 307.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2022-02-02T00:00",
+        "2022-02-02T01:00",
+        "2022-02-02T02:00",
+        "2022-02-02T03:00",
+        "2022-02-02T04:00",
+        "2022-02-02T05:00",
+        "2022-02-02T06:00",
+        "2022-02-02T07:00",
+        "2022-02-02T08:00",
+        "2022-02-02T09:00",
+        "2022-02-02T10:00",
+        "2022-02-02T11:00",
+        "2022-02-02T12:00",
+        "2022-02-02T13:00",
+        "2022-02-02T14:00",
+        "2022-02-02T15:00",
+        "2022-02-02T16:00",
+        "2022-02-02T17:00",
+        "2022-02-02T18:00",
+        "2022-02-02T19:00",
+        "2022-02-02T20:00",
+        "2022-02-02T21:00",
+        "2022-02-02T22:00",
+        "2022-02-02T23:00",
+        "2022-02-03T00:00",
+        "2022-02-03T01:00",
+        "2022-02-03T02:00",
+        "2022-02-03T03:00",
+        "2022-02-03T04:00",
+        "2022-02-03T05:00",
+        "2022-02-03T06:00",
+        "2022-02-03T07:00",
+        "2022-02-03T08:00",
+        "2022-02-03T09:00",
+        "2022-02-03T10:00",
+        "2022-02-03T11:00",
+        "2022-02-03T12:00",
+        "2022-02-03T13:00",
+        "2022-02-03T14:00",
+        "2022-02-03T15:00",
+        "2022-02-03T16:00",
+        "2022-02-03T17:00",
+        "2022-02-03T18:00",
+        "2022-02-03T19:00",
+        "2022-02-03T20:00",
+        "2022-02-03T21:00",
+        "2022-02-03T22:00",
+        "2022-02-03T23:00"
+      ],
+      "apparent_temperature": [
+        3.6,
+        3.1,
+        2.3,
+        1.6,
+        1.1,
+        0.7,
+        0.7,
+        -0.1,
+        -0.3,
+        -0.8,
+        -1.2,
+        -0.7,
+        -1.1,
+        -1.1,
+        0.5,
+        1.2,
+        1.6,
+        2.7,
+        3.8,
+        5.2,
+        6.1,
+        6.7,
+        5.4,
+        4.7,
+        3.9,
+        2.0,
+        2.8,
+        3.2,
+        3.0,
+        3.7,
+        4.0,
+        5.0,
+        5.9,
+        6.7,
+        7.8,
+        9.3,
+        9.4,
+        9.9,
+        11.1,
+        11.5,
+        11.5,
+        11.7,
+        13.2,
+        14.4,
+        15.4,
+        15.9,
+        16.0,
+        15.5
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        0.8,
+        2.9,
+        1.0,
+        2.2,
+        2.1,
+        1.8,
+        1.3,
+        1.0,
+        0.1,
+        0.7,
+        0.8,
+        0.1,
+        2.0,
+        3.2,
+        1.0,
+        2.5,
+        2.1,
+        2.6,
+        1.0,
+        3.1,
+        0.3,
+        0.2,
+        0.1,
+        4.6
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        3,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        51,
+        53,
+        63,
+        55,
+        61,
+        61,
+        61,
+        61,
+        55,
+        51,
+        53,
+        53,
+        51,
+        61,
+        63,
+        55,
+        63,
+        61,
+        63,
+        55,
+        63,
+        51,
+        51,
+        51,
+        63
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

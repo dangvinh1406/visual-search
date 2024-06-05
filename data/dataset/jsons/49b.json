@@ -1,0 +1,2981 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {},
+        "seasonal": false,
+        "max_count": 0,
+        "abnormal": false,
+        "plot": {
+          "labels": [],
+          "datasets": []
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 105,
+            "percentage": 45.851528384279476
+          },
+          "German": {
+            "count": 23,
+            "percentage": 10.043668122270743
+          },
+          "Indonesian": {
+            "count": 19,
+            "percentage": 8.296943231441048
+          },
+          "Spanish; Castilian": {
+            "count": 14,
+            "percentage": 6.11353711790393
+          },
+          "Dutch; Flemish": {
+            "count": 13,
+            "percentage": 5.676855895196507
+          },
+          "Italian": {
+            "count": 11,
+            "percentage": 4.8034934497816595
+          },
+          "Slovak": {
+            "count": 6,
+            "percentage": 2.6200873362445414
+          },
+          "French": {
+            "count": 6,
+            "percentage": 2.6200873362445414
+          },
+          "Portuguese": {
+            "count": 5,
+            "percentage": 2.183406113537118
+          },
+          "Vietnamese": {
+            "count": 4,
+            "percentage": 1.7467248908296944
+          },
+          "Chinese": {
+            "count": 2,
+            "percentage": 0.8733624454148472
+          },
+          "Estonian": {
+            "count": 3,
+            "percentage": 1.3100436681222707
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 3,
+            "percentage": 1.3100436681222707
+          },
+          "Thai": {
+            "count": 2,
+            "percentage": 0.8733624454148472
+          },
+          "Swedish": {
+            "count": 2,
+            "percentage": 0.8733624454148472
+          },
+          "Norwegian": {
+            "count": 2,
+            "percentage": 0.8733624454148472
+          },
+          "Serbian": {
+            "count": 1,
+            "percentage": 0.4366812227074236
+          },
+          "Danish": {
+            "count": 1,
+            "percentage": 0.4366812227074236
+          },
+          "Turkish": {
+            "count": 1,
+            "percentage": 0.4366812227074236
+          },
+          "Croatian": {
+            "count": 1,
+            "percentage": 0.4366812227074236
+          },
+          "Greek, Modern (1453-)": {
+            "count": 1,
+            "percentage": 0.4366812227074236
+          },
+          "Czech": {
+            "count": 1,
+            "percentage": 0.4366812227074236
+          }
+        },
+        "total": 229,
+        "plot": {
+          "labels": [
+            "English",
+            "German",
+            "Indonesian",
+            "Spanish; Castilian",
+            "others"
+          ],
+          "data": [
+            45,
+            10,
+            8,
+            6,
+            31
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": null,
+      "oldest": null,
+      "unspecified_time": 229,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/technology/2018/may/29/tesla-crash-autopilot-california-police-car",
+        "title": "Tesla that crashed into police car was in 'autopilot' mode ...The Guardianhttps://www.theguardian.com \u203a technology \u203a may \u203a te...",
+        "content": " \u00b7 ",
+        "size": [
+          700,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://applebarnorchardandwinery.com/?i=inside-the-final-seconds-of-a-deadly-tesla-autopilot-oo-ndyBBxUl",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...Apple Barn Orchard & Wineryhttps://applebarnorchardandwinery.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, NOW ON NETFLIX! Read the steamy romance that started the international sensation\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.euronews.com/next/2021/09/15/tesla-autopilot-crash-investigation-expands-as-ford-bmw-and-10-other-carmakers-asked-for-d",
+        "title": "Tesla Autopilot crash investigation expands as Ford, BMW ...Euronewshttps://www.euronews.com \u203a Next \u203a Mobility",
+        "content": " \u00b7 ",
+        "size": [
+          385,
+          202
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.forbes.com/sites/bradtempleton/2023/04/26/tesla-again-paints-a-very-misleading-story-with-their-crash-data/",
+        "title": "Tesla Again Paints A Crash Data Story That Misleads Many ...Forbeshttps://www.forbes.com \u203a bradtempleton \u203a 2023/04/26",
+        "content": " \u00b7 ",
+        "size": [
+          710,
+          525
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.forbes.com/sites/bradtempleton/2021/09/20/teslas-are-crashing-into-emergency-vehicles-too-much-so-nhtsa-asks-other-car-companies-about-it/",
+        "title": "Teslas Are Crashing Into Emergency Vehicles Too Much, So ...Forbeshttps://www.forbes.com \u203a bradtempleton \u203a 2021/09/20",
+        "content": " \u00b7 ",
+        "size": [
+          1217,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/What-are-the-risks-associated-with-Teslas-full-self-driving-feature-on-highways",
+        "title": "What are the risks associated with Tesla's 'full self-driving ...Quorahttps://www.quora.com \u203a What-are-the-risks-associated-...",
+        "content": " \u00b7 ",
+        "size": [
+          602,
+          332
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/2023/06/12/there-s-been-a-whopping-736-tesla-crashes-involving-autopilot-mode-since-2019-report-finds/",
+        "title": "WaPo research finds 736 Tesla crashes involving Autopilot ...Autobloghttps://www.autoblog.com \u203a Partner",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynettoday.com/briefs/tesla-investigations",
+        "title": "Crashes caused by Tesla Autopilot are piling up, and there ...Skynet Todayhttps://www.skynettoday.com \u203a tesla-investigations",
+        "content": " \u00b7 ",
+        "size": [
+          2972,
+          1671
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ocregister.com/tesla-on-autopilot-crashes-into-police-vehicle-in-laguna-beach/",
+        "title": "Tesla in Autopilot mode crashes into police vehicle in Laguna ...Orange County Registerhttps://www.ocregister.com \u203a tesla-on-autopilot-crashe...",
+        "content": " \u00b7 ",
+        "size": [
+          620,
+          465
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.livescience.com/62692-tesla-sedan-crash-police-car.html",
+        "title": "Tesla on Autopilot Crashes into Parked Police CarLive Sciencehttps://www.livescience.com \u203a Tech \u203a Electric Vehicles",
+        "content": " \u00b7 ",
+        "size": [
+          1500,
+          938
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.forbes.com/sites/bradtempleton/2020/06/02/tesla-in-taiwan-crashes-directly-into-overturned-truck-ignores-pedestrian-with-autopilot-on/",
+        "title": "Tesla In Taiwan Crashes Directly Into Overturned Truck ...Forbeshttps://www.forbes.com \u203a bradtempleton \u203a 2020/06/02",
+        "content": " \u00b7 ",
+        "size": [
+          1067,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.minnpost.com/other-nonprofit-media/2021/08/why-the-feds-are-investigating-teslas-autopilot-and-what-that-means-for-the-future-of-self-driving-cars/",
+        "title": "Why the feds are investigating Tesla's Autopilot and what that ...MinnPosthttps://www.minnpost.com \u203a 2021/08 \u203a why-the-feds-...",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://applebarnorchardandwinery.com/?i=inside-the-final-seconds-of-a-deadly-tesla-autopilot-oo-0gPeenc9",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...Apple Barn Orchard & Wineryhttps://applebarnorchardandwinery.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, About the Book.",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/cars/comments/pxvusw/tesla_on_autopilot_slammed_into_police_cars/",
+        "title": "Tesla on Autopilot slammed into police cars despite flashing ...Reddit\u00a0\u00b7\u00a0r/cars900+ comments  \u00b7  2 years ago",
+        "content": "... Tesla failed to engage the Autopilot safety features to avoid the accident. The vehicle did not apply its \"Automatic Emergency Braking\" to\u00a0...",
+        "size": [
+          1200,
+          887
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://globalnews.ca/news/4240255/tesla-autopilot-crash-california-police-vehicle/",
+        "title": "Tesla in autopilot mode crashes into parked police cruiser in ...Global Newshttps://globalnews.ca \u203a news \u203a tesla-autopilot-crash-cal...",
+        "content": " \u00b7 ",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://peiffer.de/?o=tesla-autopilot-crashes-and-fatalities-surge-despite-musk-s-ww-0W8ykqCK",
+        "title": "Tesla 'Autopilot' Crashes And Fatalities Surge, Despite, 57 ...Peiffer Land- und Gartentechnikhttps://peiffer.de \u203a 736 x 15",
+        "content": "Tesla 'Autopilot' crashes and fatalities surge, despite Musk's claims The Washington Post, High-Speed Charging: The 100W USB-C port pumps out enough power\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.extremetech.com/cars/270049-why-self-driving-cars-keep-running-into-things",
+        "title": "Why Self-Driving Cars Keep Running Into Things | ExtremetechExtremeTechhttps://www.extremetech.com \u203a cars \u203a 270049-why-se...",
+        "content": " \u00b7 ",
+        "size": [
+          400,
+          225
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.washingtonpost.com/opinions/2022/06/26/problem-with-self-driving-cars-many-dont-drive-themselves/",
+        "title": "The problem with self-driving cars? Many don't drive themselves.Washington Posthttps://www.washingtonpost.com \u203a 2022/06/26 \u203a prob...",
+        "content": " \u00b7 ",
+        "size": [
+          300,
+          222
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mycabinetspro.com/?w=inside-the-final-seconds-of-a-deadly-tesla-autopilot-ff-qBr8wlhA",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...mycabinetspro.comhttps://mycabinetspro.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, Shop Every Day [Blu-ray] [2018] at Best Find low everyday prices and buy online\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnews.com/news/us-news/tesla-hits-parked-california-police-vehicle-driver-blames-autopilot-n878481",
+        "title": "Tesla hits parked California police vehicle, driver blames ...NBC Newshttps://www.nbcnews.com \u203a news \u203a us-news \u203a tesla-hit...",
+        "content": " \u00b7 ",
+        "size": [
+          1240,
+          930
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbsnews.com/losangeles/news/tesla-autopilot-crash-police-suv-model-x/",
+        "title": "Tesla Sedan In Autopilot Mode Hits Laguna Beach Police SUVCBS Newshttps://www.cbsnews.com \u203a ... \u203a Local News",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lunfardo.com.ar/?e=tesla-owner-broke-his-arm-in-crash-teslacam-stories-zz-qKpKnAFP",
+        "title": "tesla owner broke his arm in crash teslacam stories #70Lunfardo Desarrolladora de Bebidashttps://lunfardo.com.ar \u203a tesla story broken",
+        "content": "TESLA OWNER BROKE HIS ARM IN CRASH TESLACAM STORIES #70. Tesla driver 'complained about autopilot defect' before fatal car crash US News Sky News. TESLA OWNER\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://southwesttribune.com/news/tesla-autopilot-and-other-driver-assist-systems-linked-to-hundreds-of-crashes/",
+        "title": "Tesla Autopilot and Other Driver-Assist Systems Linked to ...SouthWest Tribunehttps://southwesttribune.com \u203a news \u203a tesla-autopilot-a...",
+        "content": " \u00b7 ",
+        "size": [
+          1440,
+          810
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abcnews.go.com/US/tesla-autopilot-crashes-parked-police-car/story?id=55525536",
+        "title": "Tesla on Autopilot crashes into parked police car - ABC NewsABC News - Breaking News, Latest News and Videoshttps://abcnews.go.com \u203a story",
+        "content": " \u00b7 ",
+        "size": [
+          992,
+          558
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.forbes.com/sites/jessedamiani/2018/05/30/tesla-model-s-on-autopilot-crashes-into-parked-police-vehicle-in-laguna-beach/",
+        "title": "Tesla Model S On Autopilot Crashes Into Parked Police ...Forbeshttps://www.forbes.com \u203a jessedamiani \u203a 2018/05/30",
+        "content": " \u00b7 ",
+        "size": [
+          711,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynettoday.com/briefs/tesla-crash/",
+        "title": "Tesla's Lethal Autopilot Crash \u2014 A Failing of UI as Much as AISkynet Todayhttps://www.skynettoday.com \u203a briefs \u203a tesla-crash",
+        "content": " \u00b7 ",
+        "size": [
+          2972,
+          1671
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://forum.leasehackr.com/t/tesla-on-autopilot-slams-into-truck-at-high-rate-of-speed/259485?page=2",
+        "title": "Tesla on Autopilot Slams into Truck at High Rate of SpeedLEASEHACKRhttps://forum.leasehackr.com \u203a tesla-on-autopilot-slam...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/artificial/comments/sq9eeo/crashes_caused_by_tesla_autopilot_are_piling_up/",
+        "title": "Crashes caused by Tesla Autopilot are piling up, and ... - RedditReddit\u00a0\u00b7\u00a0r/artificial10+ comments  \u00b7  1 year ago",
+        "content": "",
+        "size": [
+          2972,
+          1671
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bharatagritech.com/?q=tesla-owner-broke-his-arm-in-crash-teslacam-stories-xx-pKJK8lsb",
+        "title": "tesla owner broke his arm in crash teslacam stories #70bharatagritech.comhttps://www.bharatagritech.com \u203a tesla story broken",
+        "content": "Tesla driver 'complained about autopilot defect' before fatal car crash US News Sky News. TESLA OWNER BROKE HIS ARM IN CRASH TESLACAM STORIES #70. EV Crash Of\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://adanatozboya.com/?e=inside-the-final-seconds-of-a-deadly-tesla-autopilot-ee-Kv2PY5Fk",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...Adana Toz Boyahttps://adanatozboya.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, Tessa has everything to Hardin has nothing to except After We Collided Life will\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-10087655/US-asks-Tesla-didnt-recall-Autopilot-driving-system.html",
+        "title": "NHTSA demands to know why Tesla didn't recall cars over ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-10087655",
+        "content": " \u00b7 ",
+        "size": [
+          634,
+          476
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://castoreventi.com/tesla-fatal-crash-k.html",
+        "title": "blodige paraply Soloppgang tesla fatal crash bli imponert ...castoreventi.comhttps://castoreventi.com \u203a tesla-fatal-crash-k",
+        "content": "Tesla hit parked police car 'while using Autopilot' - BBC News \u00b7 Feds Investigating Yet Another Fatal Tesla Crash, Again | The Drive \u00b7 Family of victims killed in\u00a0...",
+        "size": [
+          700,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-10028917/Tesla-owners-choose-self-driving-software-meaning-thousands-soon-hit-road.html",
+        "title": "Tesla owners can now choose 'full self-driving' software at the ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-10028917",
+        "content": " \u00b7 ",
+        "size": [
+          634,
+          476
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.smh.com.au/national/push-for-new-body-to-probe-half-human-vehicle-crashes-20220323-p5a76p.html",
+        "title": "Push for new body to probe 'half-human' vehicle crashesSydney Morning Heraldhttps://www.smh.com.au \u203a National \u203a Road safety",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gbu-hamovniki.ru/?k=tesla-owner-broke-his-arm-in-crash-teslacam-stories-uu-o1g1zoIZ",
+        "title": "tesla owner broke his arm in crash teslacam stories #70\u0413\u0411\u0423 \"\u0416\u0438\u043b\u0438\u0449\u043d\u0438\u043a\" \u0440\u0430\u0439\u043e\u043d\u0430 \u0425\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0438https://gbu-hamovniki.ru \u203a tesla story broken",
+        "content": "Tesla driver 'complained about autopilot defect' before fatal car crash US News Sky News. TESLA OWNER BROKE HIS ARM IN CRASH TESLACAM STORIES #70. Man in\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxbusiness.com/technology/tesla-fatal-crash-autopilot-issues",
+        "title": "Tesla driver in fatal crash had reported problems before with ...Fox Businesshttps://www.foxbusiness.com \u203a technology \u203a tesla-fata...",
+        "content": " \u00b7 ",
+        "size": [
+          931,
+          523
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedrive.com/category/self-driving-tech/page/2",
+        "title": "Self-Driving Tech (Page 2 Results) | The DriveThe Drivehttps://www.thedrive.com \u203a ... \u203a Self-Driving Tech",
+        "content": "'You Stay!': Watch a Cop Yell at a Waymo Self-Driving Taxi Like a Dog. By Aaron Cole / Updated May 1, 2023. 2017 Tesla Model X destroyed in the crash that\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linsdevasconcellos.org.br/fat-black-and-white-cat/feds-tesla-accelerated-didn-t-brake-ahead-of-fatal-pp-XDnPWvTg",
+        "title": "Feds: Tesla Accelerated, Didn't Brake Ahead Of Fatal CrashLins de Vasconcelloshttps://www.linsdevasconcellos.org.br \u203a feds-tesla-acce...",
+        "content": "Tesla hits parked California police vehicle, driver blames 'autopilot'. Feds ... New Tesla Fatal Crash in Florida Raises Doubts \u2013 Was Autopilot Involved?",
+        "size": [
+          200,
+          112
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxbusiness.com/lifestyle/feds-demand-details-tesla-autopilot-emergency-vehicle-crash-probe",
+        "title": "Feds demand details on Tesla Autopilot in emergency vehicle ...Fox Businesshttps://www.foxbusiness.com \u203a lifestyle \u203a feds-deman...",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://efratalogistics.com/?a=inside-the-final-seconds-of-a-deadly-tesla-autopilot-tt-XMEZqnse",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...Efrata Logisticshttps://efratalogistics.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mitopower.com/?c=inside-the-final-seconds-of-a-deadly-tesla-autopilot-yy-8YzLoGud",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...mitopower.comhttps://www.mitopower.com \u203a ...",
+        "content": "California Tesla driver, 27, must stand trial for 2019 autopilot ... Tesla Autopilot crash: Images of the fatal accident's aftermath emerge [Video] Electrek\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/2021/08/17/nhtsa-tesla-autopilot-investigation/",
+        "title": "Does Tesla Autopilot investigation signal a new get ... - AutoblogAutobloghttps://www.autoblog.com \u203a Tesla \u203a Tesla News",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://borgio.com.ua/?u=tesla-blames-driver-in-fatal-crash-as-victim-s-11-tt-4V4dBNsg",
+        "title": "Tesla Blames Driver In Fatal Crash As Victim's Family, 43% OFFborgio.com.uahttps://borgio.com.ua \u203a video game crash 2018",
+        "content": "Tesla Blames Driver in Fatal Crash as Victim's Family Lawyers Up Bloomberg, Start your engines with the original game modes, characters, tracks,\u00a0...",
+        "size": [
+          760,
+          570
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.the-sun.com/motors/6210129/feds-demanding-tesla-autopilot-data/",
+        "title": "Feds are demanding Tesla forward Autopilot data for crash ...The US Sunhttps://www.the-sun.com \u203a motors \u203a feds-demanding-tesl...",
+        "content": " \u00b7 ",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://test.adirondackbernedoodles.com/?y=inside-the-final-seconds-of-a-deadly-tesla-autopilot-xx-77P4LRUj",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...Adirondack Mini Bernedoodleshttps://test.adirondackbernedoodles.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, Cincuenta Sombras De Grey Movies TV.",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynettoday.com/categories/briefs/",
+        "title": "Briefs - Skynet TodaySkynet Todayhttps://www.skynettoday.com \u203a categories \u203a briefs",
+        "content": "Briefs. Crashes caused by Tesla Autopilot are piling up, and there are consequences. / Elon Musk, self-driving,. Crashes caused by Tesla Autopilot are piling up\u00a0...",
+        "size": [
+          2972,
+          1671
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/2021/06/29/nhtsa-orders-automakers-to-report-autonomy-crashes-tesla-autopilot/",
+        "title": "NHTSA orders crash reporting for cars with automated or ...Autobloghttps://www.autoblog.com \u203a Official",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/technology/comments/qd3oce/dutch_forensic_lab_decrypts_teslas_driving_safety/",
+        "title": "Dutch forensic lab decrypts Tesla's driving safety data ... - RedditReddit\u00a0\u00b7\u00a0r/technology20+ comments  \u00b7  2 years ago",
+        "content": "In one collision that involved Autopilot the Dutch researchers determined that the self-driving system gave the driver a warning and the\u00a0...",
+        "size": [
+          1200,
+          887
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thetimes.co.uk/article/tesla-shares-hit-by-inquiry-into-crashes-on-autopilot-w25rfhtch",
+        "title": "Tesla shares hit by inquiry into crashes on Autopilot - The TimesThe Timeshttps://www.thetimes.co.uk \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-5784431/Tesla-Autopilot-mode-crashes-California-police-car.html",
+        "title": "Tesla in Autopilot mode crashes into parked police car as Elon ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-5784431",
+        "content": " \u00b7 ",
+        "size": [
+          634,
+          468
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://scrp.scot/?a=inside-the-final-seconds-of-a-deadly-tesla-autopilot-rr-Y9dZ7lUn",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...scrp.scothttps://scrp.scot \u203a watch after we collided full movie",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, From New York Times bestselling author and Wattpad sensation Anna Todd,",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wp.bssnews.net/?p=28506",
+        "title": "Tesla in autonomous mode hits parked police carBangladesh Sangbad Sangsthahttps://wp.bssnews.net \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          346,
+          238
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ufpmarkets.com/?w=inside-the-final-seconds-of-a-deadly-tesla-autopilot-zz-AjRYpaI6",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...UFPMarketshttps://ufpmarkets.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, Una saga derivada de los acontecimientos de En el verano de 1988, Teeg Lawless\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://casadebulldog.com.br/?w=inside-the-final-seconds-of-a-deadly-tesla-autopilot-bb-YdAdaxCx",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...Casa de Bulldoghttps://casadebulldog.com.br \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoevolution.com/news/nhtsa-upgrades-autopilot-investigation-to-engineering-analysis-finds-disturbing-signs-190944.html",
+        "title": "NHTSA Upgrades Autopilot Investigation to Engineering ...autoevolutionhttps://www.autoevolution.com \u203a News \u203a Coverstory",
+        "content": " \u00b7 ",
+        "size": [
+          860,
+          483
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thetimes.co.uk/article/tesla-driver-on-autopilot-in-fatal-los-angeles-crash-vhkhqsh9b",
+        "title": "Tesla driver 'on autopilot' in fatal Los Angeles crash - The TimesThe Timeshttps://www.thetimes.co.uk \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          392,
+          220
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.micoope.com.gt/?o=idiots-need-to-understand-that-self-driving-cars-aren-nn-Eg2DPDfq",
+        "title": "Idiots Need To Understand That Self-driving Cars Aren't, 60 ...Micoopehttps://www.micoope.com.gt \u203a idiots in cars 74",
+        "content": "Nearly 400 crashes in less than a year with self-driving cars Allen and Allen ... Car Crash\u00a0...",
+        "size": [
+          994,
+          559
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bloomberg.com/news/articles/2021-08-17/tesla-probe-signals-auto-safety-agency-s-more-activist-stance",
+        "title": "Tesla Probe Ushers In Get-Tough Era at Auto-Safety WatchdogBloomberghttps://www.bloomberg.com \u203a news \u203a articles \u203a tesla-p...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          887
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bloomberg.com/news/newsletters/2021-09-29/tesla-drivers-gripped-by-fomo-clamor-to-be-fsd-beta-testers",
+        "title": "Tesla Drivers, Gripped by FOMO, Clamor to Be FSD Beta ...Bloomberghttps://www.bloomberg.com \u203a news \u203a newsletters \u203a tes...",
+        "content": " \u00b7 ",
+        "size": [
+          2000,
+          1478
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxbusiness.com/markets/tesla-autopilot-mode-is-assisted-driving-cybersecurity-expert",
+        "title": "Tesla Autopilot mode is assisted driving: cybersecurity expertFox Businesshttps://www.foxbusiness.com \u203a markets \u203a tesla-autopil...",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://maghrebcultures.ca/?a=inside-the-final-seconds-of-a-deadly-tesla-autopilot-jj-Z8ANlWun",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...maghrebcultures.cahttps://maghrebcultures.ca \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedrive.com/category/tesla-news/page/4",
+        "title": "Tesla News (Page 4 Results) | The DriveThe Drivehttps://www.thedrive.com \u203a ... \u203a Tesla News",
+        "content": "Tesla Falsely Advertises Autopilot, Full Self-Driving Tech: California DMV. By ... Tesla Autopilot Crashed Much More Than Other Driver-Assist Systems: Feds. By\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://borgio.com.ua/?u=tesla-autopilot-caused-car-to-accelerate-before-fatal-crash-4-tt-4V4dBNsg",
+        "title": "Tesla autopilot caused car to accelerate before fatal crash ...borgio.com.uahttps://borgio.com.ua \u203a video game crash 2018",
+        "content": "Federal Agency Investigates Tesla Crash; Driver Says Car Was On Autopilot The Two-Way NPR.",
+        "size": [
+          760,
+          570
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://portipoh.com.my/?m=tesla-owner-broke-his-arm-in-crash-teslacam-stories-ss-dpjpvPH1",
+        "title": "tesla owner broke his arm in crash teslacam stories #70APKHuehttps://portipoh.com.my \u203a tesla story broken",
+        "content": "Tesla driver 'complained about autopilot defect' before fatal car crash US News Sky News. TESLA OWNER BROKE HIS ARM IN CRASH TESLACAM STORIES #70. TESLA\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bldeanursingtikota.ac.in/Nearly-400-crashes-in-less-than-a-year-with-self-driving-cars-286888.html",
+        "title": "Nearly 400 crashes in less than a year with self-driving carsbldeanursingtikota.ac.inhttps://bldeanursingtikota.ac.in \u203a Nearly-400-crashes-i...",
+        "content": "Sawyer Merritt on X: CONTEXT: In 2022, @Tesla recorded one crash for every ~5.7M miles driven in which drivers were using Autopilot. By comparison, NHTSA\u00a0...",
+        "size": [
+          2972,
+          2197
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://enroyale.consulting/police-car-crash-k.html",
+        "title": "\u00fazkos\u0165 Obor Zlat\u00fd klinec police car crash \u0161t\u00fdl pr\u00edle\u017eitos\u0165 zajtraenroyale.consultinghttps://enroyale.consulting \u203a police-car-crash-k",
+        "content": "Tesla in Autopilot mode crashes into parked police car - ABC News\u00a0...",
+        "size": [
+          700,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thetimes.co.uk/article/children-hurt-in-tesla-crash-at-west-sussex-school-qfqc3htr2",
+        "title": "Children hurt in Tesla crash at West Sussex school - The TimesThe Timeshttps://www.thetimes.co.uk \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          392,
+          220
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bloomberg.com/news/newsletters/2023-01-19/bloomberg-evening-briefing-dark-days-are-here-for-elon-musk-and-tesla",
+        "title": "Dark Days Are Here for Elon Musk and Tesla - BloombergBloomberghttps://www.bloomberg.com \u203a news \u203a newsletters \u203a bl...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          887
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/TeslaLounge/comments/puohjo/tesla_autopilot_upgraded_to_slow_down_when_it/",
+        "title": "Tesla Autopilot upgraded to slow down when it detects ...Reddit\u00a0\u00b7\u00a0r/TeslaLounge3 comments  \u00b7  2 years ago",
+        "content": "124K subscribers in the TeslaLounge community. Relaxed area for all-around discussion on Tesla. This is the official Lounge for\u00a0...",
+        "size": [
+          1062,
+          597
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://spacegears.pl/?i=inside-the-final-seconds-of-a-deadly-tesla-autopilot-uu-G10Z89CJ",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...spacegears.plhttps://spacegears.pl \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, Ten years after his Apocalypse Weekend escapades, The Postal Dude finally\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxbusiness.com/lifestyle/nhtsa-investigate-fatal-florida-tesla-crash",
+        "title": "NHTSA investigators looking at fatal Florida Tesla crashFox Businesshttps://www.foxbusiness.com \u203a lifestyle \u203a nhtsa-investi...",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thetimes.co.uk/article/tesla-autopilot-system-under-investigation-in-us-after-string-of-crashes-cmlnqh7w2",
+        "title": "Tesla autopilot system under investigation in US after string of ...The Timeshttps://www.thetimes.co.uk \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.eventsmauritius.tourism-mauritius.mu/?i=tesla-owner-broke-his-arm-in-crash-teslacam-stories-ss-1OoOa2U3",
+        "title": "tesla owner broke his arm in crash teslacam stories #70Courthouse Research Specialistshttps://www.eventsmauritius.tourism-mauritius.mu \u203a ...",
+        "content": "Tesla driver 'complained about autopilot defect' before fatal car crash US News Sky News. TESLA OWNER BROKE HIS ARM IN CRASH TESLACAM STORIES #70. EV Crash Of\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mitopower.com/?c=inside-the-final-seconds-of-a-deadly-tesla-autopilot-yy-bRgZJaIl",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...mitopower.comhttps://www.mitopower.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, \u200eRomance \u00b7 2014.",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mva.bh/?a=tesla-car-on-autopilot-crashes-into-police-suv-nn-XmnYmZso",
+        "title": "Tesla Car On Autopilot Crashes Into Police SUV, 44% OFFMVA Internationalhttps://www.mva.bh \u203a crashed tesla",
+        "content": "Tesla car on autopilot crashes into police SUV, Hundreds of new jobs at Tesla Gigafactory 4, \u2022 Millions of unique designs by independent Find your.",
+        "size": [
+          200,
+          112
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://borgio.com.ua/?u=video-ntsb-unhappy-with-tesla-over-crash-disclosures-abc-9-tt-4V4dBNsg",
+        "title": "Video NTSB 'unhappy' with Tesla over crash disclosures ABC ...borgio.com.uahttps://borgio.com.ua \u203a video game crash 2018",
+        "content": "Tesla Driver Was on Autopilot Eating a Bagel and Hit a Fire Truck ... Federal Agency Investigates Tesla Crash; Driver Says Car Was On Autopilot The Two-Way NPR.",
+        "size": [
+          760,
+          570
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wiki.abopharma.info/?k=tesla-data-confirms-model-s-was-in-autopilot-when-xx-NGYrK4hp",
+        "title": "Tesla Data Confirms Model S Was In Autopilot When It Hit, 42 ...Abopharmahttps://wiki.abopharma.info \u203a tesla model c jordan",
+        "content": "Tesla Autopilot fatal crash data released by NTSB Electrek. Tesla data ... Tesla Driver Was on Autopilot Eating a Bagel and Hit a Fire Truck. Tesla data\u00a0...",
+        "size": [
+          1024,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://solucaotoldos.com.br/?y=inside-the-final-seconds-of-a-deadly-tesla-autopilot-oo-B96Yaoc5",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...solucaotoldos.com.brhttps://solucaotoldos.com.br \u203a ...",
+        "content": "California Tesla driver, 27, must stand trial for 2019 autopilot ... Tesla Autopilot crash: Images of the fatal accident's aftermath emerge [Video] Electrek.",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bangkoksoul.com.au/content/police-car-crash-k.html",
+        "title": "Popt\u00e1vka jemn\u00fd d\u016fkaz police car crash chladi\u010d Prohl\u00e1\u0161en\u00ed O ...bangkoksoul.com.auhttps://www.bangkoksoul.com.au \u203a content \u203a police-c...",
+        "content": "Tesla's Autopilot woes continue with Laguna Beach police car crash - ABC News\u00a0...",
+        "size": [
+          700,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nftuploader.net/?y=inside-the-final-seconds-of-a-deadly-tesla-autopilot-bb-VEOXBeCJ",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...nftuploader.nethttps://nftuploader.net \u203a ...",
+        "content": "California Tesla driver, 27, must stand trial for 2019 autopilot ... Tesla Autopilot crash: Images of the fatal accident's aftermath emerge [Video] Electrek.",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://voi.id/en/technology/12514",
+        "title": "The Fun Of Watching Movies, Tesla's Autopilot Mode Hits A ...VOI.IDhttps://voi.id \u203a Aktual \u203a Teknologi",
+        "content": "A Tesla electric sedan lost control and crashed into a police car in North Carolina, United States (US). The incident occurred when the driver was engrossed\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bloomberg.com/news/articles/2021-09-14/tesla-probe-leads-nhtsa-to-request-documents-from-12-carmakers",
+        "title": "Tesla Probe Leads NHTSA to Request Documents From 12 ...Bloomberghttps://www.bloomberg.com \u203a news \u203a articles \u203a tesla-p...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          887
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://spsbg.com/?i=idiots-need-to-understand-that-self-driving-cars-aren-yy-PzDvyvUL",
+        "title": "Idiots Need To Understand That Self-driving Cars Aren't, 47 ...SPS Music Agencyhttps://spsbg.com \u203a idiots in cars 74",
+        "content": "Idiots Need to Understand That Self-driving Cars Aren't Here Yet The Truth. Self-Driving Technology Linked to Hundreds of Crashes, NTHSA Report Raises Many\u00a0...",
+        "size": [
+          994,
+          559
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynettoday.com/briefs/elon-musk-1mil-robotaxis",
+        "title": "1000000 Robotaxis by 2020? Most agree: not happeningSkynet Todayhttps://www.skynettoday.com \u203a briefs",
+        "content": " \u00b7 ",
+        "size": [
+          2972,
+          1671
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fentoni.in/sales-do-crash-MarketWatch-3584016.html",
+        "title": "What happens if car sales do crash - MarketWatchfentoni.inhttps://fentoni.in \u203a sales-do-crash-MarketWatch-35840...",
+        "content": "Crashes caused by Tesla Autopilot are piling up, and there are. What happens ... Car crash of bad news sends auto stocks plunging - MarketWatch. What happens\u00a0...",
+        "size": [
+          2972,
+          1671
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://villacarrara.it/robos.asp?shop=nhtsa+tesla&cid=4",
+        "title": "nhtsa tesla > OFF-71% | - Villa Carraravillacarrara.ithttps://villacarrara.it \u203a robos",
+        "content": "safety claims, NHTSA says; NHTSA Tesla Model 3 crash test videos; nhtsa tesla Does Tesla Autopilot investigation; nhtsa tesla NHTSA Investigating Tesla\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hardworkingtrucks.com/trucks/article/15050757/a-tesla-slams-into-another-fire-truck-as-safety-liaison-quits-chief-engineer-takes-leave-of-absence",
+        "title": "A Tesla slams into another fire truck as safety liaison quits ...Hard Working Truckshttps://www.hardworkingtrucks.com \u203a trucks \u203a article \u203a a...",
+        "content": " \u00b7 ",
+        "size": [
+          250,
+          167
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://diatica.pt/police-car-crash-k.html",
+        "title": "\u0161tene neregularan \u010de\u0161njak police car crash Jedna re\u010denica ...diatica.pthttps://diatica.pt \u203a police-car-crash-k",
+        "content": "Tesla on Autopilot crashes into parked police car - ABC News\u00a0...",
+        "size": [
+          700,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.engadget.com/2018-05-30-the-morning-after-pokemon-madness-and-airplay-2.html",
+        "title": "The Morning After: Pok\u00e9mon madness and AirPlay 2 - EngadgetEngadgethttps://www.engadget.com \u203a 2018-05-30-the-morning...",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hakanguclu.com/accident-cota-1200-k.html",
+        "title": "Onestitate pur Critic accident cota 1200 A desena Predare Plajahakanguclu.comhttps://www.hakanguclu.com \u203a accident-cota-1200-k",
+        "content": "Tesla hits parked California police vehicle, driver blames 'autopilot'\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.urdupoint.com/en/world/tesla-in-autonomous-mode-hits-parked-police-c-357434.html",
+        "title": "Tesla In Autonomous Mode Hits Parked Police Car - UrduPointUrduPointhttps://www.urdupoint.com \u203a World \u203a News",
+        "content": " \u00b7 ",
+        "size": [
+          740,
+          404
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedrive.com/category/electric-vehicles/page/10",
+        "title": "EV News (Page 10 Results) - The DriveThe Drivehttps://www.thedrive.com \u203a ... \u203a Electric Vehicles",
+        "content": "Tesla Autopilot Crashed Much More Than Other Driver-Assist Systems: Feds ... The chronicle of car culture, delivered to your inbox. Sign Up. stripe. The\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.starshoutouts.com/?m=inside-the-final-seconds-of-a-deadly-tesla-autopilot-ww-2dnJdwIQ",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...starshoutouts.comhttps://www.starshoutouts.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, Una saga derivada de los acontecimientos de En el verano de 1988, Teeg Lawless\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://times.vg/feds-demand-details-on-tesla-autopilot-in-emergency-vehicle-crash-probe",
+        "title": "Feds demand details on Tesla Autopilot in emergency vehicle ...TIMES.VGhttps://times.vg \u203a feds-demand-details-on-tesla-autopil...",
+        "content": "Feds demand details on Tesla Autopilot in emergency vehicle crash probe. 11 crashes led to one fatality and 17 injuries. The National Highway Traffic Safety\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://cilsancikolata.com/robos.php?shop=nhtsa+tesla&cid=4",
+        "title": "nhtsa tesla OFF55% |\u00c7ilsan \u00c7ikolatahttp://cilsancikolata.com \u203a robos",
+        "content": "safety claims, NHTSA says; NHTSA Tesla Model 3 crash test videos; nhtsa tesla Does Tesla Autopilot investigation; nhtsa tesla NHTSA Investigating Tesla\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://southwesttribune.com/news_categories/local/",
+        "title": "Local Archives - SouthWest TribuneSouthWest Tribunehttps://southwesttribune.com \u203a news_categories \u203a local",
+        "content": "Local. News. Tesla Autopilot and Other Driver-Assist Systems... December 15, 2023. NHTSA data on crashes involving driver-assistance technology show that more\u00a0...",
+        "size": [
+          545,
+          315
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://southwesttribune.com/news_categories/intellectual-corner/page/2/",
+        "title": "Intellectual Corner Archives - Page 2 of 12 - SouthWest TribuneSouthWest Tribunehttps://southwesttribune.com \u203a news_categories \u203a page",
+        "content": "Tesla Autopilot and Other Driver-Assist Systems... December 15, 2023. NHTSA data on crashes involving driver-assistance technology show that more people have\u00a0...",
+        "size": [
+          545,
+          315
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.inkl.com/news/look-south-korea-donates-130-patrol-cars-to-pnp",
+        "title": "LOOK: South Korea donates 130 patrol cars to PNP - inklinklhttps://www.inkl.com \u203a news \u203a look-south-korea-dona...",
+        "content": " \u00b7 ",
+        "size": [
+          600,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.linkedin.com/in/jaimin-patel-88737432",
+        "title": "Jaimin Patel - Canadian Natural Resources Limited (CNRL)LinkedIn\u00a0\u00b7\u00a0Jaimin Patel180+ followers",
+        "content": "Tesla that crashed into police car was\u2026 Liked by Jaimin Patel \u00b7 Nothing ... Jaimin Patel. Passionate Technical Lead | Driving Innovation & Team Excellence.",
+        "size": [
+          800,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newstrail.com/car-accidents/",
+        "title": "15 Car Accident Statistics, Facts and Trends For 2022newstrail.comhttps://www.newstrail.com \u203a car-accidents",
+        "content": " \u00b7 ",
+        "size": [
+          768,
+          432
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vervetimes.com/nhtsa-orders-crash-reporting-for-cars-with-automated-or-driver-assist-systems/",
+        "title": "NHTSA orders crash reporting for cars with automated or ...Verve timeshttps://vervetimes.com \u203a nhtsa-orders-crash-reporting-...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.linkedin.com/in/averychak",
+        "title": "Avery Chakravarty - Kodsi Forensic Engineering - LinkedInLinkedIn\u00a0\u00b7\u00a0Avery Chakravarty150+ followers",
+        "content": "... collision. Graphic. -. 2009 - 2014. Volunteer Experience. Women in Science and Engineering (WISE) McMaster Chapter Graphic. Steering Committee Member. Women in\u00a0...",
+        "size": [
+          800,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dsf.my/2021/10/fiat-500-wins-the-small-car-of-the-year-at-news-uk-motor-awards/",
+        "title": "Fiat 500 Wins News UK Motor 'Small Car of the Year' AwardDSF.myhttps://www.dsf.my \u203a 2021 \u203a October",
+        "content": " \u00b7 ",
+        "size": [
+          290,
+          166
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dsf.my/2021/11/leona-chin-takes-2-wins-mcs-2021/",
+        "title": "Leona Chin And Team Bag Two Race Wins At the MCS 2021DSF.myhttps://www.dsf.my \u203a 2021 \u203a November",
+        "content": " \u00b7 ",
+        "size": [
+          290,
+          166
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ealaw-solicitors.com/zenb.php?cid=149&kys=fatal+love+29+beach+cruiser&g=2",
+        "title": "fatal love 29 beach cruiser - OFF-52% > Shipping free - EA Lawealaw-solicitors.comhttps://ealaw-solicitors.com \u203a zenb",
+        "content": "fatal love 29 beach cruiser Crashes caused by Tesla Autopilot are; Fatal Love 29 Beach Cruiser Online; fatal love 29 beach cruiser\u00a0...",
+        "size": [
+          2972,
+          1671
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.standaard.be/cnt/dmf20220616_94778951",
+        "title": "'Zelfrijdende' Tesla's crashen het vaakst - De StandaardDe Standaardhttps://www.standaard.be \u203a cnt \u203a d...",
+        "content": " \u00b7 ",
+        "size": [
+          1150,
+          853
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://sekolahbinakreasimandiri.sch.id/?k=inside-the-final-seconds-of-a-deadly-tesla-autopilot-bb-1mkB8EuG",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...sekolahbinakreasimandiri.sch.idhttps://sekolahbinakreasimandiri.sch.id \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, BUDAYAKAN MEMBACA SEBELUM MELAKUKAN PEMBELIAN, Novel After We Collided (Setelah\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.nieuwsblad.be/cnt/dmf20230530_93753902",
+        "title": "Klachten over automatische piloot van Tesla gelekt, inclusief ...Het Nieuwsbladhttps://www.nieuwsblad.be \u203a dmf20230530_93753902",
+        "content": " \u00b7 ",
+        "size": [
+          633,
+          423
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.hln.be/mobiliteit/tesla-met-autopilot-rijdt-in-op-stilstaande-politiewagen~a8725126/",
+        "title": "Tesla met 'autopilot' rijdt in op stilstaande politiewagen - HLNHLNhttps://www.hln.be \u203a ... \u203a Mobiliteit",
+        "content": " \u00b7 ",
+        "size": [
+          694,
+          513
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://order.enjoystuckups.com/?w=inside-the-final-seconds-of-a-deadly-tesla-autopilot-gg-nOAQvbCE",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...enjoystuckups.comhttps://order.enjoystuckups.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, BUDAYAKAN MEMBACA SEBELUM MELAKUKAN PEMBELIAN, Novel After We Collided (Setelah\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investoren-verklagen-musk-wegen-autopilot-fehlschlaegen-a-cac22b68-4696-4404-b88c-4d49e23cb7a1",
+        "title": "Tesla-Investoren verklagen Elon Musk wegen Autopilot ...Spiegelhttps://www.spiegel.de \u203a wirtschaft",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          320
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gva.be/cnt/dmf20230530_93841026",
+        "title": "Doen Tesla's zichzelf crashen? Gelekte documenten over ...Gazet van Antwerpenhttps://www.gva.be \u203a cnt \u203a dmf202...",
+        "content": " \u00b7 ",
+        "size": [
+          633,
+          423
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.blick.ch/auto/news_n_trends/betrugsvorwuerfe-gegen-elektro-pionier-vertuscht-tesla-unfaelle-mit-dem-autopiloten-id17583912.html",
+        "title": "Betrugsvorw\u00fcrfe gegen Elektro-Pionier Tesla - BlickBlickhttps://www.blick.ch \u203a news_n_trends",
+        "content": " \u00b7 ",
+        "size": [
+          1325,
+          1325
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.nieuwsblad.be/cnt/dmf20230530_93753902",
+        "title": "Klachten over automatische piloot van Tesla gelekt, inclusief ...Het Nieuwsbladhttps://www.nieuwsblad.be \u203a dmf20230530_93753902",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          853
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lapresse.ca/auto/actualites/tesla/201805/30/01-5183772-apres-les-camions-de-pompiers-une-auto-de-police-un-autre-accident-de-tesla.php",
+        "title": "Apr\u00e8s les camions de pompiers, une auto de policeLaPresse.cahttps://www.lapresse.ca \u203a auto \u203a tesla",
+        "content": " \u00b7 ",
+        "size": [
+          923,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.standaard.be/cnt/dmf20220616_94778951",
+        "title": "'Zelfrijdende' Tesla's crashen het vaakst - De StandaardDe Standaardhttps://www.standaard.be \u203a cnt \u203a d...",
+        "content": " \u00b7 ",
+        "size": [
+          1150,
+          853
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://sekolahbinakreasimandiri.sch.id/?k=inside-the-final-seconds-of-a-deadly-tesla-autopilot-bb-1mkB8EuG",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...sekolahbinakreasimandiri.sch.idhttps://sekolahbinakreasimandiri.sch.id \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, BUDAYAKAN MEMBACA SEBELUM MELAKUKAN PEMBELIAN, Novel After We Collided (Setelah\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.nieuwsblad.be/cnt/dmf20230530_93753902",
+        "title": "Klachten over automatische piloot van Tesla gelekt, inclusief ...Het Nieuwsbladhttps://www.nieuwsblad.be \u203a dmf20230530_93753902",
+        "content": " \u00b7 ",
+        "size": [
+          633,
+          423
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.hln.be/mobiliteit/tesla-met-autopilot-rijdt-in-op-stilstaande-politiewagen~a8725126/",
+        "title": "Tesla met 'autopilot' rijdt in op stilstaande politiewagen - HLNHLNhttps://www.hln.be \u203a ... \u203a Mobiliteit",
+        "content": " \u00b7 ",
+        "size": [
+          694,
+          513
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://order.enjoystuckups.com/?w=inside-the-final-seconds-of-a-deadly-tesla-autopilot-gg-nOAQvbCE",
+        "title": "Inside The Final Seconds Of A Deadly Tesla Autopilot Crash ...enjoystuckups.comhttps://order.enjoystuckups.com \u203a ...",
+        "content": "Inside the final seconds of a deadly Tesla Autopilot crash Washington Post, BUDAYAKAN MEMBACA SEBELUM MELAKUKAN PEMBELIAN, Novel After We Collided (Setelah\u00a0...",
+        "size": [
+          650,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investoren-verklagen-musk-wegen-autopilot-fehlschlaegen-a-cac22b68-4696-4404-b88c-4d49e23cb7a1",
+        "title": "Tesla-Investoren verklagen Elon Musk wegen Autopilot ...Spiegelhttps://www.spiegel.de \u203a wirtschaft",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          320
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gva.be/cnt/dmf20230530_93841026",
+        "title": "Doen Tesla's zichzelf crashen? Gelekte documenten over ...Gazet van Antwerpenhttps://www.gva.be \u203a cnt \u203a dmf202...",
+        "content": " \u00b7 ",
+        "size": [
+          633,
+          423
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.blick.ch/auto/news_n_trends/betrugsvorwuerfe-gegen-elektro-pionier-vertuscht-tesla-unfaelle-mit-dem-autopiloten-id17583912.html",
+        "title": "Betrugsvorw\u00fcrfe gegen Elektro-Pionier Tesla - BlickBlickhttps://www.blick.ch \u203a news_n_trends",
+        "content": " \u00b7 ",
+        "size": [
+          1325,
+          1325
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.nieuwsblad.be/cnt/dmf20230530_93753902",
+        "title": "Klachten over automatische piloot van Tesla gelekt, inclusief ...Het Nieuwsbladhttps://www.nieuwsblad.be \u203a dmf20230530_93753902",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          853
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lapresse.ca/auto/actualites/tesla/201805/30/01-5183772-apres-les-camions-de-pompiers-une-auto-de-police-un-autre-accident-de-tesla.php",
+        "title": "Apr\u00e8s les camions de pompiers, une auto de policeLaPresse.cahttps://www.lapresse.ca \u203a auto \u203a tesla",
+        "content": " \u00b7 ",
+        "size": [
+          923,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.focus.de/auto/elektroauto/erhebliche-rechenfehler-unfallzahl-verdoppelt-us-behoerde-machte-falsche-angaben-zu-teslas-autopilot_id_10305617.html",
+        "title": "Tesla: Unfallzahl verdoppelt? US-Beh\u00f6rde machte falsche ...FOCUS onlinehttps://www.focus.de \u203a elektroauto",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          678
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "et",
+        "link": "https://tehnika.postimees.ee/7832537/video-usa-politsei-viis-tesla-kohtusse",
+        "title": "VIDEO USA politsei viis Tesla kohtusse - Postimees TehnikaPostimeeshttps://tehnika.postimees.ee \u203a video-...",
+        "content": " \u00b7 ",
+        "size": [
+          685,
+          506
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.manager-magazin.de/unternehmen/autoindustrie/tesla-model-s-unfall-mit-polizeiauto-autopilot-assistenzsystem-war-aktiv-a-1210349.html",
+        "title": "Tesla Model S baut Unfall mit Polizeiwagen - Autopilot war aktivManager Magazinhttps://www.manager-magazin.de \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          320
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.manager-magazin.de/unternehmen/tesla-autopilot-us-verkehrsbehoerde-nhtsa-weitet-untersuchung-nach-unfaellen-aus-a-2d5e4b68-956a-4bc2-9197-7224caacb2af",
+        "title": "Tesla Autopilot: US-Verkehrsbeh\u00f6rde NHTSA weitet ...Manager Magazinhttps://www.manager-magazin.de \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          320
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.01net.com/actualites/quand-une-tesla-model-s-en-mode-autopilot-percute-une-voiture-de-police-1459415.html",
+        "title": "Quand une Tesla Model S en mode Autopilot percute une ...01net.comhttps://www.01net.com \u203a actualites",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          448
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://otomotif.bisnis.com/read/20210818/46/1430907/sering-bermasalah-as-investigasi-auto-pilot-tesla",
+        "title": "Sering Bermasalah, AS Investigasi Auto Pilot Tesla - OtomotifBisnis.comhttps://otomotif.bisnis.com \u203a read",
+        "content": " \u00b7 ",
+        "size": [
+          450,
+          237
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://villory.com/police-car-crash-k.html",
+        "title": "otira\u010d povijesni Goneryl police car crash hobi blokada predlo\u017eitivillory.comhttps://villory.com \u203a police-car-cras...",
+        "content": "Tesla in Autopilot mode crashes into parked police car - ABC News\u00a0...",
+        "size": [
+          700,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.blick.ch/auto/news_n_trends/irrefuehrung-beim-autopilot-system-investoren-verklagen-elon-musk-und-tesla-id18360458.html",
+        "title": "Tesla-Investoren verklagen Elon Musk wegen Irref\u00fchrung ...Blickhttps://www.blick.ch \u203a news_n_trends",
+        "content": " \u00b7 ",
+        "size": [
+          1325,
+          1325
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-tesla-gewinnt-ersten-us-prozess-um-toedlichen-autopilot-unfall-a-cb70b5ed-7d9b-413d-862d-45f3f0b2ef77",
+        "title": "Tesla gewinnt ersten US-Prozess um t\u00f6dlichen \u00bbAutopilot ...Spiegelhttps://www.spiegel.de \u203a wirtschaft",
+        "content": " \u00b7 ",
+        "size": [
+          180,
+          101
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://www.marketingoops.com/news/brand-move/tesla-crash/",
+        "title": "\u0e2b\u0e23\u0e37\u0e2d AI \u0e43\u0e19\u0e23\u0e16\u0e22\u0e19\u0e15\u0e4c\u0e08\u0e30\u0e44\u0e21\u0e48\u0e0a\u0e48\u0e27\u0e22\u0e25\u0e14\u0e2d\u0e38\u0e1a\u0e31\u0e15\u0e34\u0e40\u0e2b\u0e15\u0e38\u0e44\u0e14\u0e49 100% \u0e40\u0e21\u0e37\u0e48\u0e2d Tesla \u0e23\u0e16\u0e0a\u0e19 ...Marketing Oops!https://www.marketingoops.com \u203a t...",
+        "content": " \u00b7 ",
+        "size": [
+          700,
+          525
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.antaranews.com/berita/1762025/fitur-autopilot-tesla-dapat-peringkat-kurang-memuaskan-dari-ncap",
+        "title": "Fitur Autopilot Tesla dapat peringkat kurang memuaskan dari ...ANTARA Newshttps://www.antaranews.com \u203a berita",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.focus.de/auto/elektroauto/autopilot-unter-beobachtung-tesla-hat-ein-blaulicht-problem-unfallserie-mit-polizei-und-rettungswagen_id_16269483.html",
+        "title": "Tesla hat ein Blaulicht-Problem: Unfallserie mit PolizeiFOCUS onlinehttps://www.focus.de \u203a elektroauto",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          678
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.spiegel.de/wirtschaft/unternehmen/toedlicher-unfall-tesla-chef-elon-musk-muss-unter-eid-aussagen-a-04cebfbc-de39-4e09-a9a0-cbb3332f4823",
+        "title": "Tesla: T\u00f6dlicher Autopilot-Unfall - Chef Elon Musk muss unter ...Spiegelhttps://www.spiegel.de \u203a wirtschaft",
+        "content": " \u00b7 ",
+        "size": [
+          180,
+          101
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.voaindonesia.com/a/untuk-pertama-kali-pengemudi-autopilot-tesla-dijerat-pasal-pembunuhan-/6402956.html",
+        "title": "Untuk Pertama Kali, Pengemudi Autopilot Tesla Dijerat Pasal ...Voice of America Indonesiahttps://www.voaindonesia.com \u203a u...",
+        "content": " \u00b7 ",
+        "size": [
+          1080,
+          608
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.corriere.it/tecnologia/economia-digitale/cards/incidente-tesla-autopilot-colpisce-auto-polizia/auto-era-ferma_principale.shtml",
+        "title": "Incidente per Tesla: l'Autopilot colpisce un'auto della poliziaCorrierehttps://www.corriere.it \u203a cards \u203a a...",
+        "content": " \u00b7 ",
+        "size": [
+          593,
+          443
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://otomotif.bisnis.com/read/20200830/275/1284976/sopir-nonton-film-tesla-autopilot-sikat-mobil-polisi",
+        "title": "Sopir Nonton Film, Tesla Autopilot Sikat Mobil Polisi - OtomotifBisnis.comhttps://otomotif.bisnis.com \u203a read",
+        "content": " \u00b7 ",
+        "size": [
+          450,
+          237
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.trend.sk/t/autopilot",
+        "title": "autopilot - Najnov\u0161ie \u010dl\u00e1nky - TrendTREND.skhttps://www.trend.sk \u203a autopilot",
+        "content": "#autopilot \u00b7 Tesla zvol\u00e1 vy\u0161e dva mili\u00f3ny vozidiel. \u00b7 B\u00fdval\u00fd technik spochyb\u0148uje bezpe\u010dnos\u0165 Tesly. \u00b7 Vodi\u010di Tesly upozor\u0148uj\u00fa na potenci\u00e1lne smrte\u013en\u00e9 vady\u00a0...",
+        "size": [
+          960,
+          540
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://efahrer.chip.de/news/tesla-autopilot-debatte-um-unfallstatistik_10274",
+        "title": "Tesla Autopilot: Debatte um Unfallstatistik - EFAHRER.comEFAHRER.comhttps://efahrer.chip.de \u203a News",
+        "content": " \u00b7 ",
+        "size": [
+          720,
+          405
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.mojelektromobil.sk/dalsia-nehoda-tesla-autopilot/",
+        "title": "\u010eal\u0161ia nehoda Tesly s Autopilotom. Narazila do policajn\u00e9ho ...MojElektromobil.skhttps://www.mojelektromobil.sk \u203a ...",
+        "content": "... crash and minor injuries were sustained to the Tesla driver. #lagunabeach ... Autopilot \u00b7 elektromobilita \u00b7 Elektromobily \u00b7 Tesla \u00b7 Tesla Autopilot. Pravidl\u00e1\u00a0...",
+        "size": [
+          810,
+          610
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://expansion.mx/empresas/2018/05/29/un-tesla-en-modo-autopilot-choca-contra-un-vehiculo-policial-estacionado",
+        "title": "Un Tesla en modo 'Autopilot' choca de nuevo en EU - Expansi\u00f3nexpansion.mxhttps://expansion.mx \u203a 2018/05/29",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.antaranews.com/berita/1762025/fitur-autopilot-tesla-dapat-peringkat-kurang-memuaskan-dari-ncap",
+        "title": "Fitur Autopilot Tesla dapat peringkat kurang memuaskan dari ...ANTARA Newshttps://www.antaranews.com \u203a berita",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.focus.de/auto/elektroauto/autopilot-unter-beobachtung-tesla-hat-ein-blaulicht-problem-unfallserie-mit-polizei-und-rettungswagen_id_16269483.html",
+        "title": "Tesla hat ein Blaulicht-Problem: Unfallserie mit PolizeiFOCUS onlinehttps://www.focus.de \u203a elektroauto",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          678
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.spiegel.de/wirtschaft/unternehmen/toedlicher-unfall-tesla-chef-elon-musk-muss-unter-eid-aussagen-a-04cebfbc-de39-4e09-a9a0-cbb3332f4823",
+        "title": "Tesla: T\u00f6dlicher Autopilot-Unfall - Chef Elon Musk muss unter ...Spiegelhttps://www.spiegel.de \u203a wirtschaft",
+        "content": " \u00b7 ",
+        "size": [
+          180,
+          101
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.voaindonesia.com/a/untuk-pertama-kali-pengemudi-autopilot-tesla-dijerat-pasal-pembunuhan-/6402956.html",
+        "title": "Untuk Pertama Kali, Pengemudi Autopilot Tesla Dijerat Pasal ...Voice of America Indonesiahttps://www.voaindonesia.com \u203a u...",
+        "content": " \u00b7 ",
+        "size": [
+          1080,
+          608
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.corriere.it/tecnologia/economia-digitale/cards/incidente-tesla-autopilot-colpisce-auto-polizia/auto-era-ferma_principale.shtml",
+        "title": "Incidente per Tesla: l'Autopilot colpisce un'auto della poliziaCorrierehttps://www.corriere.it \u203a cards \u203a a...",
+        "content": " \u00b7 ",
+        "size": [
+          593,
+          443
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://otomotif.bisnis.com/read/20200830/275/1284976/sopir-nonton-film-tesla-autopilot-sikat-mobil-polisi",
+        "title": "Sopir Nonton Film, Tesla Autopilot Sikat Mobil Polisi - OtomotifBisnis.comhttps://otomotif.bisnis.com \u203a read",
+        "content": " \u00b7 ",
+        "size": [
+          450,
+          237
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.trend.sk/t/autopilot",
+        "title": "autopilot - Najnov\u0161ie \u010dl\u00e1nky - TrendTREND.skhttps://www.trend.sk \u203a autopilot",
+        "content": "#autopilot \u00b7 Tesla zvol\u00e1 vy\u0161e dva mili\u00f3ny vozidiel. \u00b7 B\u00fdval\u00fd technik spochyb\u0148uje bezpe\u010dnos\u0165 Tesly. \u00b7 Vodi\u010di Tesly upozor\u0148uj\u00fa na potenci\u00e1lne smrte\u013en\u00e9 vady\u00a0...",
+        "size": [
+          960,
+          540
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://efahrer.chip.de/news/tesla-autopilot-debatte-um-unfallstatistik_10274",
+        "title": "Tesla Autopilot: Debatte um Unfallstatistik - EFAHRER.comEFAHRER.comhttps://efahrer.chip.de \u203a News",
+        "content": " \u00b7 ",
+        "size": [
+          720,
+          405
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.mojelektromobil.sk/dalsia-nehoda-tesla-autopilot/",
+        "title": "\u010eal\u0161ia nehoda Tesly s Autopilotom. Narazila do policajn\u00e9ho ...MojElektromobil.skhttps://www.mojelektromobil.sk \u203a ...",
+        "content": "... crash and minor injuries were sustained to the Tesla driver. #lagunabeach ... Autopilot \u00b7 elektromobilita \u00b7 Elektromobily \u00b7 Tesla \u00b7 Tesla Autopilot. Pravidl\u00e1\u00a0...",
+        "size": [
+          810,
+          610
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://expansion.mx/empresas/2018/05/29/un-tesla-en-modo-autopilot-choca-contra-un-vehiculo-policial-estacionado",
+        "title": "Un Tesla en modo 'Autopilot' choca de nuevo en EU - Expansi\u00f3nexpansion.mxhttps://expansion.mx \u203a 2018/05/29",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://macdominusng.com/accident-cota-1200-k.html",
+        "title": "scuti Arashigaoka \u00cenapoi, \u00eenapoi, \u00eenapoi parte accident cota ...macdominusng.comhttps://macdominusng.com \u203a accide...",
+        "content": "Tesla hits parked California police vehicle, driver blames 'autopilot'\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.trend.sk/technologie/usa-zacalo-oficialne-vysetrovanie-nehod-vozidiel-tesla-autopilotom",
+        "title": "V USA za\u010dalo ofici\u00e1lne vy\u0161etrovanie neh\u00f4d \u00e1ut Tesla | TRENDTREND.skhttps://www.trend.sk \u203a technologie",
+        "content": " \u00b7 ",
+        "size": [
+          960,
+          540
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.aquelamaquina.pt/noticias/actualidade/detalhe/tesla-vai-contra-carro-de-policia-e-condutor-culpa-autopilot.html",
+        "title": "Tesla vai contra carro de pol\u00edcia e condutor culpa AutopilotAquela M\u00e1quinahttps://www.aquelamaquina.pt \u203a tesl...",
+        "content": " \u00b7 ",
+        "size": [
+          706,
+          471
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.manager-magazin.de/unternehmen/tech/tesla-elon-musk-kuendigt-humanoiden-roboter-tesla-bot-an-a-37d37c05-13ea-4b99-8475-c7ff7860e8b5",
+        "title": "Tesla: Elon Musk verspricht Roboter mit K\u00fcnstlicher IntelligenzManager Magazinhttps://www.manager-magazin.de \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          180,
+          101
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.caranddriver.gr/eidiseis/arthro/h_nhtsa_zita_stoixeia_apo_tin_tesla_gia_to_autopilot-7801842/",
+        "title": "H NHTSA \u03b6\u03b7\u03c4\u03ac \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd Tesla \u03b3\u03b9\u03b1 \u03c4\u03bf Autopilotcaranddriver.grhttps://www.caranddriver.gr \u203a arthro",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://sumut.antaranews.com/berita/336733/fitur-autopilot-tesla-dapat-skor-kurang-memuaskan-dari-ncap",
+        "title": "Fitur Autopilot Tesla dapat skor kurang memuaskan dari NCAPAntara News sumuthttps://sumut.antaranews.com \u203a berita",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.hln.be/mobiliteit/opzettelijke-explosies-in-elektrische-auto-moeten-gevaarlijke-schok-bij-een-botsing-voorkomen~aadad33b/",
+        "title": "Opzettelijke explosies in elektrische auto moeten gevaarlijke ...HLNhttps://www.hln.be \u203a ... \u203a Mobiliteit",
+        "content": " \u00b7 ",
+        "size": [
+          694,
+          513
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.infobae.com/america/eeuu/2018/05/30/un-vehiculo-de-tesla-en-modalidad-de-piloto-automatico-choco-contra-un-auto-de-la-policia-en-california/%23TBCLPRK5HREC3KLL5IA6YEDWCI/",
+        "title": "Un veh\u00edculo de Tesla en modalidad de \"piloto autom\u00e1tico ...Infobaehttps://www.infobae.com \u203a america \u203a eeuu \u203a 2018/05/30",
+        "content": " \u00b7 ",
+        "size": [
+          1440,
+          1440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lesoir.be/159558/article/2018-05-30/usa-une-tesla-en-mode-semi-autonome-percute-une-voiture-de-police",
+        "title": "USA: une Tesla en mode semi-autonome percute une voiture ...Le Soirhttps://www.lesoir.be \u203a article \u203a usa...",
+        "content": " \u00b7 ",
+        "size": [
+          864,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.dealmoon.com/cn/autopilot-failure-again-tesla-crash-into-police-suv/911564.html",
+        "title": "Tesla Model S \u4e3a\u4f55\u4e00\u5934\u649e\u4e0a\u8def\u8fb9\u8b66\u8f66\u7f6a\u9b41\u7978\u9996\u53c8\u662fAutopilot\u5317\u7f8e\u7701\u94b1\u5feb\u62a5https://www.dealmoon.com \u203a autopi...",
+        "content": "Autopilot\u53c8\u51fa\u4e8b\u4e86\uff01\u6628\u65e5\u5728\u52a0\u5ddeLaguna Beach\uff0c\u4e00\u53f0\u4f7f\u7528\u201cAutopilot\u201d\u81ea\u52a8\u9a7e\u9a76\u7684Tesla Model S\u5168\u901f\u649e\u4e0a\u4e86\u8def\u8fb9\u505c\u7740\u7684\u8b66\u8f66\u3002Model S\u7684\u8f66\u5934\u5df2\u7ecf\u53d8\u5f62\uff0c\u6c14\u56ca\u5168\u90e8\u7206\u51fa\uff0c\u597d\u5728\u53f8\u673a\u00a0...",
+        "size": [
+          480,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://kalsel.antaranews.com/berita/195510/supir-asyik-nonton-film-sedan-tesla-mode-autopilot-tabrak-mobil-polisi",
+        "title": "Supir asyik nonton film sedan Tesla mode autopilot tabrak ...ANTARA News Kalimantan Selatanhttps://kalsel.antaranews.com \u203a berita",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.ad.nl/auto/opzettelijke-explosies-in-elektrische-auto-moeten-gevaarlijke-schok-bij-een-botsing-voorkomen~aadad33b/",
+        "title": "Opzettelijke explosies in elektrische auto moeten gevaarlijke ...AD.nlhttps://www.ad.nl \u203a ... \u203a Auto",
+        "content": " \u00b7 ",
+        "size": [
+          694,
+          513
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.terra.com.br/byte/veiculo-tesla-no-piloto-automatico-colide-com-carro-policial-na-california,13688eca89a486c1673dc45e7be2fc3f5twpg16s.html",
+        "title": "Ve\u00edculo Tesla no piloto autom\u00e1tico colide com carro policial ...Terrahttps://www.terra.com.br \u203a Byte",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://eju.tv/2018/05/un-vehiculo-de-tesla-en-modalidad-de-piloto-automatico-choco-contra-un-auto-de-la-policia-en-california/",
+        "title": "Un veh\u00edculo de Tesla en modalidad de \u00abpiloto autom\u00e1ticoEJU.TVhttps://eju.tv \u203a 2018/05 \u203a un-vehicu...",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.infobae.com/america/eeuu/2018/05/30/un-vehiculo-de-tesla-en-modalidad-de-piloto-automatico-choco-contra-un-auto-de-la-policia-en-california/",
+        "title": "Un veh\u00edculo de Tesla en modalidad de \"piloto autom\u00e1tico ...Infobaehttps://www.infobae.com \u203a america \u203a eeuu \u203a 2018/05/30",
+        "content": " \u00b7 ",
+        "size": [
+          1440,
+          1440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://futurezone.at/produkte/tesla-autopilot-verwechselt-burger-king-mit-stoppschild/400953773",
+        "title": "Tesla Autopilot verwechselt Burger King mit StoppschildFuturezonehttps://futurezone.at \u203a produkte \u203a te...",
+        "content": " \u00b7 ",
+        "size": [
+          616,
+          616
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.blick.ch/auto/news_n_trends/17-verletzte-und-ein-toter-us-behoerden-fragen-nach-beim-e-auto-pionier-warum-crashen-teslas-in-rettungswagen-id16912292.html",
+        "title": "Ein Toter, 17 Verletzte bei Unf\u00e4llen mit Teslas auf AutopilotBlickhttps://www.blick.ch \u203a news_n_trends",
+        "content": " \u00b7 ",
+        "size": [
+          1325,
+          1325
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://thanhnien.vn/autopilot-tags715067.html",
+        "title": "Autopilot: tin t\u1ee9c, h\u00ecnh \u1ea3nh, video, b\u00ecnh lu\u1eadn m\u1edbi nh\u1ea5tB\u00e1o Thanh Ni\u00eanhttps://thanhnien.vn \u203a autopilot-tags...",
+        "content": "Gi\u00e1m \u0111\u1ed1c \u0111i\u1ec1u h\u00e0nh Elon Musk c\u1ee7a Tesla cho bi\u1ebft c\u00f4ng ty \u0111ang nghi\u00ean c\u1ee9u, ch\u1ebf t\u1ea1o m\u1ed9t robot h\u00ecnh ng\u01b0\u1eddi c\u00f3 t\u00ean g\u1ecdi Tesla Bot v\u00e0 m\u1ed9t nguy\u00ean m\u1eabu c\u1ee7a s\u1ea3n ph\u1ea9m s\u1ebd\u00a0...",
+        "size": [
+          686,
+          429
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://jaclynjphoto.com/crashed-buton.laguna.2-location-k.html",
+        "title": "Suradam Email liniu\u021b\u0103 crashed buton.laguna.2 location ...jaclynjphoto.comhttps://jaclynjphoto.com \u203a crashed-...",
+        "content": "3 women killed by alleged drunk driver after Sweet 16 party on LI. Crashes\u00a0...",
+        "size": [
+          2972,
+          1671
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elmundo.es/motor/2021/08/17/611b0de421efa0b16b8b4615.html",
+        "title": "La 'querencia' de los Tesla a chocar con los veh\u00edculos de ...El Mundohttps://www.elmundo.es \u203a Motor",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://expansion.mx/empresas/2018/06/18/tesla-lo-hace-de-nuevo-y-causa-controversia-por-vehiculo-incendiado-de-la-nada",
+        "title": "Un Tesla se incendia sin raz\u00f3n aparente en Los \u00c1ngelesexpansion.mxhttps://expansion.mx \u203a Empresas",
+        "content": " \u00b7 ",
+        "size": [
+          600,
+          338
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://voi.id/teknologi/12514/keasyikan-nonton-film-mode-i-autopilot-i-tesla-seruduk-mobil-polisi",
+        "title": "Keasyikan Nonton Film, Mode Autopilot Tesla Seruduk Mobil ...VOI.IDhttps://voi.id \u203a Aktual \u203a Teknologi",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://thanhnien.vn/autopilot.html",
+        "title": "Autopilot: tin t\u1ee9c, h\u00ecnh \u1ea3nh, video, b\u00ecnh lu\u1eadn - B\u00e1o Thanh Ni\u00eanB\u00e1o Thanh Ni\u00eanhttps://thanhnien.vn \u203a autopilot",
+        "content": "B\u1ed9 T\u01b0 ph\u00e1p M\u1ef9 \u0111\u00e3 kh\u1edfi \u0111\u1ed9ng cu\u1ed9c \u0111i\u1ec1u tra li\u00ean quan \u0111\u1ebfn h\u1ec7 th\u1ed1ng h\u1ed7 tr\u1ee3 l\u00e1i xe Autopilot c\u1ee7a Tesla sau h\u01a1n m\u1ed9t ch\u1ee5c v\u1ee5 tai n\u1ea1n, v\u1edbi m\u1ed9t trong s\u1ed1 \u0111\u00f3 g\u00e2y ch\u1ebft\u00a0...",
+        "size": [
+          686,
+          429
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eluniversal.com.mx/autopistas/otro-choque-de-tesla-esta-vez-con-una-patrulla/",
+        "title": "Otro choque de Tesla, esta vez con una patrulla... - El UniversalEl Universalhttps://www.eluniversal.com.mx \u203a o...",
+        "content": " \u00b7 ",
+        "size": [
+          400,
+          225
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.terra.com.br/byte/canaltech/veiculo-tesla-no-piloto-automatico-colide-com-carro-policial-na-california,13688eca89a486c1673dc45e7be2fc3f5twpg16s.html",
+        "title": "Ve\u00edculo Tesla no piloto autom\u00e1tico colide com carro policial ...Terrahttps://www.terra.com.br \u203a Byte",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "no",
+        "link": "https://www.dagbladet.no/emne/autopilot",
+        "title": "autopilot - dagbladet.nodagbladet.nohttps://www.dagbladet.no \u203a emne",
+        "content": "NYHETSSAKER OM: AUTOPILOT \u00b7 Tesla-sj\u00e5f\u00f8ren satte p\u00e5 autopilot. \u00b7 Tesla-sj\u00e5f\u00f8ren satte p\u00e5 autopiloten og satte seg i passasjersetet. \u00b7 Tesla-f\u00f8rer d\u00f8de i autopilot-\u00a0...",
+        "size": [
+          380,
+          171
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "et",
+        "link": "https://arileht.delfi.ee/artikkel/120252976/toeline-surmaloks-tesla-endine-tootaja-kahtlen-auto-turvalisuses-see-on-oht-koigile-liiklejatele",
+        "title": "T\u00f5eline surmal\u00f5ks? Tesla endine t\u00f6\u00f6taja: kahtlen auto ...\u00c4rilehthttps://arileht.delfi.ee \u203a artikkel \u203a to...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          711
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.denik.cz/ekonomika/dalsi-nehoda-autopilota-tesla-v-kalifornii-nabourala-stojici-policejni-auto-20180530.html",
+        "title": "Dal\u0161\u00ed nehoda Autopilota. Tesla v Kalifornii nabourala stoj\u00edc\u00ed ...Den\u00edk.czhttps://www.denik.cz \u203a ekonomika",
+        "content": " \u00b7 ",
+        "size": [
+          630,
+          354
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://www.springnews.co.th/digital-tech/auto/841726",
+        "title": "Tesla \u0e1e\u0e27\u0e07\u0e21\u0e32\u0e25\u0e31\u0e22\u0e04\u0e49\u0e32\u0e07 \u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e40\u0e23\u0e48\u0e07\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e23\u0e16\u0e01\u0e27\u0e48\u0e32 ... - springnewsspringnewshttps://www.springnews.co.th \u203a auto",
+        "content": "Tesla \u0e1e\u0e27\u0e07\u0e21\u0e32\u0e25\u0e31\u0e22\u0e04\u0e49\u0e32\u0e07 \u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e40\u0e23\u0e48\u0e07\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e23\u0e16\u0e01\u0e27\u0e48\u0e32 280,000 \u0e04\u0e31\u0e19 \u0e21\u0e35\u0e41\u0e27\u0e27\u0e40\u0e23\u0e35\u0e22\u0e01\u0e04\u0e37\u0e19\u0e23\u0e16. \u0e19\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e22\u0e31\u0e07\u0e40\u0e1c\u0e0a\u0e34\u0e0d\u0e01\u0e31\u0e1a\u0e40\u0e17\u0e04\u0e42\u0e19\u0e42\u0e25\u0e22\u0e35 Autopilot \u0e41\u0e25\u0e30 Full-Self Driving \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e2b\u0e15\u0e38\u0e01\u0e32\u0e23\u0e13\u0e4c\u00a0...",
+        "size": [
+          1080,
+          648
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.pikiran-rakyat.com/otomotif/pr-01707905/hati-hati-gunakan-fitur-autopilot-sopir-ini-asyik-nonton-film-hingga-tesla-nya-tabrak-mobil-polisi",
+        "title": "Hati-hati Gunakan Fitur Autopilot, Sopir Ini Asyik Nonton Film ...Pikiran-Rakyat.comhttps://www.pikiran-rakyat.com \u203a h...",
+        "content": " \u00b7 ",
+        "size": [
+          220,
+          140
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "no",
+        "link": "https://www.dagbladet.no/emne/tesla",
+        "title": "tesla - dagbladet.nodagbladet.nohttps://www.dagbladet.no \u203a emne",
+        "content": "F\u00f8dte i Tesla p\u00e5 autopilot. Duell: Tesla Y mot Skoda ... N\u00e6r p\u00e5kj\u00f8rt\u00a0...",
+        "size": [
+          380,
+          171
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.trend.sk/t/autonomne-auta/2",
+        "title": "Auton\u00f3mne aut\u00e1 - Najnov\u0161ie \u010dl\u00e1nky - TrendTREND.skhttps://www.trend.sk \u203a autonomne-a...",
+        "content": "Japonsko \u00b7 24.1. \u00b7 10:07 ; Tesla Autopilot \u00b7 10.9. \u00b7 10:30 ; Apple car alias Project Titan, predpokladan\u00fd neofici\u00e1lny dizajn \u00b7 3.9. \u00b7 7:30 ; Auton\u00f3mne vozidlo Argo AI.",
+        "size": [
+          960,
+          540
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.corriere.it/tecnologia/18_agosto_24/kalashnikov-lancia-sfida-tesla-un-auto-sapore-retro-bb4a18fe-a792-11e8-bb9e-9d89da2a0eaa.shtml",
+        "title": "Kalashnikov lancia la sfida a Tesla con un'auto dal sapore r\u00e9troCorrierehttps://www.corriere.it \u203a tecnologia",
+        "content": " \u00b7 ",
+        "size": [
+          593,
+          443
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://reggezuivel.nl/r3379930.asp",
+        "title": "Genehmigung Kriegsgefangener Man\u00f6ver wie schwer ist eine ...Reggezuivelhttps://reggezuivel.nl \u203a ...",
+        "content": "Tesla-Batterie-Modul 255 Ah - Typ 90 - 5,5kWh 25,2V \u00b7 Tesla: Weitere Tesla-Batterie fing Stunden nach Unfall Feuer \u00b7 Neue E-Auto Akku-Technologie: Diese Firmen\u00a0...",
+        "size": [
+          900,
+          506
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://3c.yipee.cc/126048/tesla-%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E5%87%BA%E9%8C%AF%E6%92%9E%E5%81%9C%E5%9C%A8%E8%B7%AF%E9%82%8A%E7%9A%84%E8%AD%A6%E8%BB%8A%EF%BC%8C%E9%A7%95%E9%A7%9B%E5%8F%97%E8%BC%95%E5%82%B7/",
+        "title": "Tesla \u81ea\u52d5\u99d5\u99db\u51fa\u932f\u649e\u505c\u5728\u8def\u908a\u7684\u8b66\u8eca\uff0c\u99d5\u99db\u53d7\u8f15\u50b7 - \u4e09\u563b\u884c\u52d5\u54c7\u4e09\u563b\u884c\u52d5\u54c7 Yipee!https://3c.yipee.cc \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          620,
+          372
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.corriere.it/tecnologia/cards/tesla-ancora-sotto-scacco-spie-auto-fuoco-tagli-personale/auto-fuoco.shtml",
+        "title": "Tesla ancora sotto scacco: spie, auto a fuoco e tagli al personaleCorrierehttps://www.corriere.it \u203a cards \u203a aut...",
+        "content": " \u00b7 ",
+        "size": [
+          593,
+          443
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://expansion.mx/empresas/2018/06/12/el-nuevo-auto-de-tesla-impulsa-las-acciones-en-wall-street",
+        "title": "Las acciones de Tesla est\u00e1n imparables en Wall Streetexpansion.mxhttps://expansion.mx \u203a 2018/06/12",
+        "content": " \u00b7 ",
+        "size": [
+          600,
+          338
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.pinterest.fr/Breezcar/voitures-autonomes/",
+        "title": "56 id\u00e9es de Voitures autonomes - PinterestPinterest - Francehttps://www.pinterest.fr \u203a Breezcar",
+        "content": "Robots-taxis : apr\u00e8s Ford, Tesla r\u00e9volutionnera-t-il le secteur automobile ? ... Conduite autonome : le syst\u00e8me Tesla Autopilot est-il dangereux ?",
+        "size": [
+          236,
+          157
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.webmotors.com.br/wm1/noticias/tesla-autonomo-bate-carro-policia-eua",
+        "title": "Tesla 'aut\u00f4nomo' bate em carro da pol\u00edcia nos EUA - WebmotorsWebmotorshttps://www.webmotors.com.br \u203a te...",
+        "content": " \u00b7 ",
+        "size": [
+          1254,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://infokomputer.grid.id/read/12774397/inilah-penyebab-mobil-tanpa-sopir-tesla-model-s-tabrak-mobil-polisi",
+        "title": "Inilah Penyebab Mobil Tanpa Sopir Tesla Model S Tabrak ...Info Komputerhttps://infokomputer.grid.id \u203a read",
+        "content": " \u00b7 ",
+        "size": [
+          700,
+          465
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "da",
+        "link": "https://www.dr.dk/nyheder/viden/teknologi/tesla-bil-torpederer-politibil-i-californien",
+        "title": "Tesla-bil torpederer politibil i Californien | Teknologi - DRDRhttps://www.dr.dk \u203a ... \u203a Teknologi",
+        "content": " \u00b7 ",
+        "size": [
+          719,
+          405
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.clarin.com/autos/detienen-conductor-iba-dormido-bordo-tesla-viajaba-110-km_0_mNRUW6F3Y.html",
+        "title": "Detienen a un conductor que iba dormido a bordo de un Tesla ...Clar\u00ednhttps://www.clarin.com \u203a Autos",
+        "content": " \u00b7 ",
+        "size": [
+          1256,
+          620
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.pikiran-rakyat.com/otomotif/pr-01707905/hati-hati-gunakan-fitur-autopilot-sopir-ini-asyik-nonton-film-hingga-tesla-nya-tabrak-mobil-polisi?page=",
+        "title": "Hati-hati Gunakan Fitur Autopilot, Sopir Ini Asyik Nonton Film ...Pikiran Rakyathttps://www.pikiran-rakyat.com \u203a h...",
+        "content": " \u00b7 ",
+        "size": [
+          220,
+          140
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.corriere.it/tecnologia/cards/tesla-ancora-sotto-scacco-spie-auto-fuoco-tagli-personale/talpa_principale.shtml",
+        "title": "Tesla ancora sotto scacco: spie, auto a fuoco e tagli al personaleCorrierehttps://www.corriere.it \u203a cards \u203a tal...",
+        "content": " \u00b7 ",
+        "size": [
+          593,
+          443
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.pikiran-rakyat.com/otomotif/pr-01707905/hati-hati-gunakan-fitur-autopilot-sopir-ini-asyik-nonton-film-hingga-tesla-nya-tabrak-mobil-polisi?page=all",
+        "title": "Hati-hati Gunakan Fitur Autopilot, Sopir Ini Asyik Nonton Film ...Pikiran Rakyathttps://www.pikiran-rakyat.com \u203a h...",
+        "content": " \u00b7 ",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://www.best-parks.com/traffi-c-accident-investigator%27s-manual-for-police",
+        "title": "\u0437\u043b\u043e\u043d\u0430\u043c\u0435\u0440\u043d\u043e \u0421\u0430\u043d\u043a\u0446\u0438\u0458\u0430 \u0432\u0435\u0447\u0435\u0440\u0430\u0441 \u0441\u0442\u0432\u0430\u0440 \u0459\u0443\u0434\u0441\u043a\u0438 \u0440\u0435\u0441\u0443\u0440\u0441\u0438 ...best-parks.comhttps://www.best-parks.com \u203a traffi-...",
+        "content": "\u0458\u0435\u0434\u043d\u043e\u0441\u0442\u0430\u0432\u043d\u043e \u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448 \u041f\u043e\u0434\u0438\u0433\u043d\u0438 \u0441\u0435 Tesla Autopilot crash\u00a0...",
+        "size": [
+          1440,
+          810
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.newsauto.it/notizie/incidente-tesla-guida-autonoma-auto-polizia-2018-155869/",
+        "title": "Incidente Tesla contro auto della Polizia, causa la guida ...newsauto.ithttps://www.newsauto.it \u203a notizie \u203a i...",
+        "content": " \u00b7 ",
+        "size": [
+          670,
+          502
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://feber.se/bil/en-tesla-model-s-krockade-med-parkerad-polisbil/382727/",
+        "title": "En Tesla Model S krockade med parkerad polisbil ... - FeberFeber.sehttps://feber.se \u203a bil \u203a en-tesla-mode...",
+        "content": "En Tesla Model S har varit inblandad i \u00e4nnu en bilolycka i USA d\u00e4r bilens Autopilot var aktiverad n\u00e4r olyckan skedde. Vid olyckan s\u00e5 k\u00f6rde den aktuella\u00a0...",
+        "size": [
+          980,
+          654
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elcarrocolombiano.com/tag/autopilot/",
+        "title": "AutoPilot: todo lo que usted quiere saber - El Carro ColombianoEl Carro Colombianohttps://www.elcarrocolombiano.com \u203a ...",
+        "content": "La Administraci\u00f3n Estatal de Regulaci\u00f3n del Mercado en China anunci\u00f3 que Tesla est\u00e1 llamando a revisi\u00f3n 1,6 millones de carros debido a riesgos de seguridad\u00a0...",
+        "size": [
+          1100,
+          580
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.cmjornal.pt/tecnologia/detalhe/condutor-ligou-autopilot-do-tesla-model-s-e-foi-dormir-para-o-banco-traseiro",
+        "title": "Condutor ligou piloto autom\u00e1tico do Tesla Model S e foi ...Correio da Manh\u00e3https://www.cmjornal.pt \u203a detalhe",
+        "content": " \u00b7 ",
+        "size": [
+          298,
+          168
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.thenewslens.com/article/97971",
+        "title": "Elon Musk\uff1a\u7279\u65af\u62c9\u300c\u5168\u81ea\u99d5\u529f\u80fd\u300d\u4eca\u5e74\u516b\u6708\u6b63\u5f0f\u555f\u7528The News Lens \u95dc\u9375\u8a55\u8ad6\u7db2https://www.thenewslens.com \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          1080,
+          810
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://playtech.ro/2021/autopilotul-de-la-tesla-face-iar-ravagii-de-data-asta-chiar-cu-masina-de-politie/",
+        "title": "Autopilotul de la Tesla face iar ravagii. De data asta, chiar cu ...Playtech.rohttps://playtech.ro \u203a autopilotul-de...",
+        "content": " \u00b7 ",
+        "size": [
+          1500,
+          938
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://thanhnien.vn/tesla-model-s-tags685702.html",
+        "title": "Tesla Model S - B\u00e1o Thanh Ni\u00eanB\u00e1o Thanh Ni\u00eanhttps://thanhnien.vn \u203a tesla-model-s...",
+        "content": "... Autopilot c\u1ee7a chi\u1ebfc Tesla Model S \u00b7 H\u00fac \u0111u\u00f4i SUV c\u1ee7a c\u1ea3nh s\u00e1t, t\u00e0i x\u1ebf \u0111\u1ed5 l\u1ed7i t\u1ea1i xe. Xe Tesla c\u1ee7a Elon Musk c\u00f4ng b\u1ed1 \u0111\u1ee3t tri\u1ec7u h\u1ed3i l\u1edbn nh\u1ea5t trong l\u1ecbch s\u1eed \u00b7 H\u00e3ng\u00a0...",
+        "size": [
+          686,
+          429
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://expansion.mx/empresas/2018/06/06/elon-musk-niega-que-tesla-se-vaya-a-quedar-sin-dinero",
+        "title": "Elon Musk niega que Tesla se vaya a quedar sin dineroexpansion.mxhttps://expansion.mx \u203a 2018/06/06",
+        "content": " \u00b7 ",
+        "size": [
+          600,
+          338
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.lusicar.it/index.php/2018/05/30/e-la-tesla-centra-lauto-della-polizia/",
+        "title": "E la Tesla centra l'auto della polizia - Formia - Lusi Car Srllusicar.ithttps://www.lusicar.it \u203a 2018/05/30",
+        "content": " \u00b7 ",
+        "size": [
+          670,
+          502
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.autospecial.it/tesla-incidente-usa-unauto-si-schianta-volante-della-polizia/",
+        "title": "Tesla: nuovo incidente in USA, un'auto si schianta contro una ...autospecial.ithttps://www.autospecial.it \u203a tesla-i...",
+        "content": " \u00b7 ",
+        "size": [
+          670,
+          502
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://elbil.ifokus.se/discussion/1493112/varfor-elbil",
+        "title": "Varf\u00f6r elbil? | Elbil iFokusElbil iFokushttps://elbil.ifokus.se \u203a discussion",
+        "content": "Tesla Full Self Driving (FSD) Beta 9 Complicated Drive on the Hill Software ... crash-eines-tesla-model-x-10516973.html \u00b7 Selbstfahrende Autos verhindern viel\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://futurezone.at/digital-life/selbstfahrende-autos-cruise-autonom-san-francisco-security/402071467",
+        "title": "Robo-Taxis verlieren Kontakt zu Server, sperren Autofahrer einFuturezonehttps://futurezone.at \u203a digital-life",
+        "content": " \u00b7 ",
+        "size": [
+          616,
+          616
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.3dlab.tn/e-auto-unfall-batterie-k.html",
+        "title": "Kommunismus Irgendein Herz e auto unfall batterie ...3dlab.tnhttps://www.3dlab.tn \u203a e-auto-unfall...",
+        "content": "Drei Menschen sterben bei Unfall: E-Auto-Batterie explodiert - n-tv.de \u00b7 Irrer Tesla-Crash: Unfall mit Model 3 l\u00e4sst Akkuzellen in H\u00e4user fliegen - WinFuture.de\u00a0...",
+        "size": [
+          900,
+          506
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.clarin.com/de-autos/tesla-piloto-automatico-choco-camioneta-policia_0_HkhzxIs1X.html",
+        "title": "Un Tesla en piloto autom\u00e1tico choc\u00f3 contra una camioneta de ...Clar\u00ednhttps://www.clarin.com \u203a Autos",
+        "content": " \u00b7 ",
+        "size": [
+          1256,
+          620
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://futurezone.at/science/selbstfahrende-autos-verhindern-viel-weniger-unfaelle-als-vermutet/400932794",
+        "title": "Selbstfahrende Autos verhindern viel weniger Unf\u00e4lle als ...Futurezonehttps://futurezone.at \u203a science \u203a sel...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://blackshirts.info/collection/selbstfahrende-autos-tesla-unfall",
+        "title": "Selbstfahrende Autos Tesla Unfall - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection",
+        "content": "Was der Tesla-Unfall f\u00fcr die Zukunft des autonomen Fahrens ... Foto. Tesla-Auto - T\u00f6dlicher Unfall mit Autopilot Foto. go. Tesla \"Blackbox\" Crash Tool\u00a0...",
+        "size": [
+          1232,
+          693
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://thanhnien.vn/model-s-tags661944.html",
+        "title": "Model S: tin t\u1ee9c, h\u00ecnh \u1ea3nh, video, b\u00ecnh lu\u1eadn m\u1edbi nh\u1ea5tB\u00e1o Thanh Ni\u00eanhttps://thanhnien.vn \u203a model-s-tags...",
+        "content": "... Autopilot c\u1ee7a chi\u1ebfc Tesla Model S. H\u00fac \u0111u\u00f4i SUV c\u1ee7a c\u1ea3nh s\u00e1t, t\u00e0i x\u1ebf \u0111\u1ed5 l\u1ed7i t\u1ea1i xe. Tesla Model S phi\u00ean b\u1ea3n \u0111\u1ed9 Limousine \u0111\u1ea7u ti\u00ean th\u1ebf gi\u1edbi. M\u1ed9t chi\u1ebfc xe \u0111i\u1ec7n\u00a0...",
+        "size": [
+          686,
+          429
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "et",
+        "link": "https://tehnika.postimees.ee/7832537/video-usa-politsei-viis-tesla-kohtusse/comments",
+        "title": "VIDEO USA politsei viis Tesla kohtusse - Postimees TehnikaPostimeeshttps://tehnika.postimees.ee \u203a com...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://voi.id/fr/teknologi/12514",
+        "title": "Le Plaisir De Regarder Des Films, Le Mode Pilote ... - VOIVOI.IDhttps://voi.id \u203a Aktual \u203a Teknologi",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://twitter.com/rosiedejong",
+        "title": "Rosemarijn de Jong (@RosiedeJong) / XX\u00a0\u00b7\u00a0RosiedeJong100+ followers",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.repubblica.it/motori/sezioni/attualita/2018/05/30/foto/e_la_tesla_centra_l_auto_della_polizia-197707937/4/",
+        "title": "E la Tesla centra l'auto della polizia - La Repubblicala Repubblicahttps://www.repubblica.it \u203a foto",
+        "content": " \u00b7 ",
+        "size": [
+          670,
+          502
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.repubblica.it/motori/sezioni/attualita/2018/05/30/foto/e_la_tesla_centra_l_auto_della_polizia-197707937/1/",
+        "title": "E la Tesla centra l'auto della polizia - la Repubblicala Repubblicahttps://www.repubblica.it \u203a foto",
+        "content": "E la Tesla centra l'auto della polizia. 30 Maggio 2018. 1 di 3. 2 di 3. 3 di 3. Il Network. Supplementi Repubblica.",
+        "size": [
+          670,
+          502
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%8A%A0%E5%BC%BA%E5%AE%A1%E6%9F%A5%E6%B6%89%E5%8F%8A%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BD%A6%E7%A5%B8-11625011808",
+        "title": "\u7f8e\u56fd\u76d1\u7ba1\u90e8\u95e8\u52a0\u5f3a\u5ba1\u67e5\u6d89\u53ca\u8f85\u52a9\u9a7e\u9a76\u7cfb\u7edf\u7684\u8f66\u7978 - \u534e\u5c14\u8857\u65e5\u62a5\u534e\u5c14\u8857\u65e5\u62a5\u4e2d\u6587\u7f51https://cn.wsj.com \u203a articles \u203a \u7f8e\u56fd...",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          853
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia/aumentan-las-dudas-frente-al-piloto-automatico-de-tesla-224296",
+        "title": "Aumentan las dudas frente al piloto autom\u00e1tico de TeslaEl Tiempohttps://www.eltiempo.com \u203a novedades-tecnologia",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          428
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.repubblica.it/motori/sezioni/attualita/2018/05/30/foto/e_la_tesla_centra_l_auto_della_polizia-197707937/2/",
+        "title": "E la Tesla centra l'auto della polizia - La Repubblicala Repubblicahttps://www.repubblica.it \u203a foto \u203a e...",
+        "content": " \u00b7 ",
+        "size": [
+          670,
+          502
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.tek.id/tek/mobil-listrik-tesla-kembali-alami-kecelakaan-b1Uzx9bBc",
+        "title": "Mobil listrik Tesla kembali alami kecelakaan - Tek.idTek.idhttps://www.tek.id \u203a tek",
+        "content": " \u00b7 ",
+        "size": [
+          600,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://cn.wsj.com/articles/CN-BIZ-20210630075952",
+        "title": "\u7f8e\u56fd\u76d1\u7ba1\u90e8\u95e8\u52a0\u5f3a\u5ba1\u67e5\u6d89\u53ca\u8f85\u52a9\u9a7e\u9a76\u7cfb\u7edf\u7684\u8f66\u7978 - \u534e\u5c14\u8857\u65e5\u62a5\u534e\u5c14\u8857\u65e5\u62a5\u4e2d\u6587\u7f51https://cn.wsj.com \u203a articles \u203a CN-B...",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          853
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.dailymotion.com/video/x6knnqi",
+        "title": "Tesla'n\u0131n Otomatik Pilotu Bu Kez Polis Arac\u0131na \u00c7arpt\u0131Dailymotionhttps://www.dailymotion.com \u203a video",
+        "content": " \u00b7 ",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.3218817412853241
+      },
+      {
+        "class": "street",
+        "ioclass": "outdoor",
+        "probability": 0.1573936641216278
+      },
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.09735511243343353
+      },
+      {
+        "class": "raceway",
+        "ioclass": "outdoor",
+        "probability": 0.08873647451400757
+      },
+      {
+        "class": "highway",
+        "ioclass": "outdoor",
+        "probability": 0.06492191553115845
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9512834548950195
+      },
+      {
+        "class": "busy",
+        "score": 0.6628590822219849
+      },
+      {
+        "class": "dry",
+        "score": 0.6580349206924438
+      },
+      {
+        "class": "cluttered",
+        "score": 0.6296186447143555
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.5727797746658325
+      },
+      {
+        "class": "lush",
+        "score": 0.5381239056587219
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1084,
+        "pred_lat": 32.14820098876953,
+        "pred_long": -110.84607696533203
+      },
+      "middle": {
+        "pred_class": 3762,
+        "pred_lat": 32.252620697021484,
+        "pred_long": -110.95811462402344
+      },
+      "fine": {
+        "pred_class": 1931,
+        "pred_lat": 34.673583984375,
+        "pred_long": -112.26678466796875
+      },
+      "hierarchy": {
+        "pred_class": 10723,
+        "pred_lat": 32.21744155883789,
+        "pred_long": -110.96893310546875
+      },
+      "country": {
+        "city": "",
+        "state": "Arizona",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {},
+  "inference": {
+    "conflicts": []
+  }
+}

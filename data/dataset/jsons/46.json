@@ -1,0 +1,1042 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 2,
+            "abnormal": true
+          },
+          "2022/12": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 5,
+            "abnormal": true
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 1,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 5,
+        "abnormal": true,
+        "plot": {
+          "labels": [
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Anomaly detected",
+              "backgroundColor": "#DD1B16",
+              "data": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                2,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                5,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                2,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                5,
+                0,
+                0,
+                0,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 23,
+            "percentage": 63.888888888888886
+          },
+          "Turkish": {
+            "count": 8,
+            "percentage": 22.22222222222222
+          },
+          "Thai": {
+            "count": 2,
+            "percentage": 5.555555555555555
+          },
+          "Finnish": {
+            "count": 1,
+            "percentage": 2.7777777777777777
+          },
+          "Croatian": {
+            "count": 1,
+            "percentage": 2.7777777777777777
+          },
+          "unknown": {
+            "count": 1,
+            "percentage": 2.7777777777777777
+          }
+        },
+        "total": 36,
+        "plot": {
+          "labels": [
+            "English",
+            "Turkish",
+            "Thai",
+            "Finnish",
+            "others"
+          ],
+          "data": [
+            63,
+            22,
+            5,
+            2,
+            8
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/rip-tinashe-thomas-car-accident",
+        "title": "rip tinashe thomas car accident\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "#thomasscott #fyp #hotnews #foryou #hollywood #viralvideo #news ... Accidents Will Happen (\"Thomas & Friends\"). Just Kids. 01:00. 1 videos\u00a0...",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": "2023:12:11 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/bay-area/3-hospitalized-after-car-crashes-into-san-francisco-building/",
+        "title": "3 hospitalized after car crashes into San Francisco buildingKRON4https://www.kron4.com \u203a news \u203a bay-area \u203a 3-hospital...",
+        "content": "crash happened at about 4:25 p.m. at San Bruno Avenue and Mansell Street. The car struck another vehicle and a building, the San Francisco\u00a0...",
+        "size": [
+          639,
+          359
+        ],
+        "date": "2022:11:10 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 25,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/bay-area/3-hospitalized-after-car-crashes-into-san-francisco-building/",
+        "title": "3 hospitalized after car crashes into San Francisco buildingKRON4https://www.kron4.com \u203a news \u203a bay-area \u203a 3-hospital...",
+        "content": "crash happened at about 4:25 p.m. at San Bruno Avenue and Mansell Street. The car struck another vehicle and a building, the San Francisco\u00a0...",
+        "size": [
+          639,
+          359
+        ],
+        "date": "2022:11:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfchronicle.com/sf/article/Two-vehicle-crash-in-S-F-sends-3-people-to-17576222.php",
+        "title": "3 injured, 22 displaced after a Tesla and a Prius crash into ...San Francisco Chroniclehttps://www.sfchronicle.com \u203a Bay Area \u203a San Francisco",
+        "content": "All three were taken to S.F. General's trauma center with serious injuries and were recovering as of Friday morning. Advertisement. Article\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": "2022:11:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.haberler.com/teknoloji/tesla-nin-otonom-surus-teknolojisi-sorgulaniyor-15515258-haberi/",
+        "title": "Tesla'n\u0131n otonom s\u00fcr\u00fc\u015f teknolojisi sorgulan\u0131yor! - HaberlerHaberlerhttps://www.haberler.com \u203a teknoloji",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2022:12:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.sondakika.com/teknoloji/haber-ust-uste-yasanan-kazalarin-ardindan-tesla-15515273/",
+        "title": "Tesla'n\u0131n otonom s\u00fcr\u00fc\u015f teknolojisi sorgulan\u0131yor! - Son DakikaSon Dakikahttps://www.sondakika.com \u203a haber...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2022:12:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfchronicle.com/bayarea/article/tesla-plunges-off-cliff-at-devil-s-slide-17690271.php",
+        "title": "Tesla plunges off cliff at Devil's Slide, 2 adults, 2 children ...San Francisco Chroniclehttps://www.sfchronicle.com \u203a Bay Area",
+        "content": "... just past the Tom Lantos Tunnels. Witnesses told Cal Fire crews that the car simply veered off the highway and over the dirt shoulder before\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/star-melody-espinosa-accident",
+        "title": "star melody espinosa accident\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "21. #thomasscott #fyp #hotnews #foryou #hollywood #viralvideo #news \u00b7 wrecklessdad. 82.9K. #fatal #accident #sadvibes #wrecked \u00b7 melbianc.",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": "2023:08:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/Scott-road-accident-today-120-84?lang=en",
+        "title": "Scott road accident today 120 84 - TikTokTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "... taking someone's life. His mom has asked me to keep posting on ... Tom Scott. 00:30. 5 videos \u00b7 Road Accident. Nolan Merrill. 01:00. 10 videos\u00a0...",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": "2023:08:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://shiftdelete.net/elektrikli-ve-hibrit-surus-haftasi",
+        "title": "Elektrikli ve hibrit ara\u00e7lar, 9-10 Eyl\u00fcl'de Yenikap\u0131'da ...ShiftDelete.Nethttps://shiftdelete.net \u203a Otomobil",
+        "content": "",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:08:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://shiftdelete.net/elon-musk-tesla-yasa-ihlali",
+        "title": "Elon Musk Tesla kullan\u0131rken yasalar\u0131 \u00e7i\u011fnedi! \u0130\u015fte o anlar - SDNShiftDelete.Nethttps://shiftdelete.net \u203a elon-musk-te...",
+        "content": "",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:08:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://shiftdelete.net/elektrikli-otomobiller-kaza-masraflari-ile-korkutuyor",
+        "title": "Elektrikli otomobiller kaza masraflar\u0131 ile korkutuyor!ShiftDelete.Nethttps://shiftdelete.net \u203a Haberler",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:08:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/rip-tinashe-thomas-car-accident",
+        "title": "rip tinashe thomas car accident\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "#thomasscott #fyp #hotnews #foryou #hollywood #viralvideo #news ... Accidents Will Happen (\"Thomas & Friends\"). Just Kids. 01:00. 1 videos\u00a0...",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": "2023:12:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=Kab1d_ybhdc",
+        "title": "Steven Seagal - The accident just happened in Michigan took ...YouTube\u00a0\u00b7\u00a0Deceased Actors Hollywood1.6K+ views  \u00b7  3 months ago",
+        "content": "... accident just happened in Michigan took the life of a Hollywood actor. 1.5K views \u00b7 1 month ago ...more. Deceased Actors Hollywood. 50.8K.",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=DwE8zDQP4zo",
+        "title": "David Hasselhoff auctioning off his personal K.I.T.T. carYouTube\u00a0\u00b7\u00a0CTV Your Morning810+ views  \u00b7  3 years ago",
+        "content": "David Hasselhoff - The accident just happened in Maryland took the life of a Hollywood actor. Deceased Celebrities 24h\u202292K views \u00b7 1:05. Go to\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://save4k.com/channel/UUzyUBH57hSEGtrQyXmQvvsA",
+        "title": "\u0412\u0438\u0434\u0435\u043e \u0441 \u043a\u0430\u043d\u0430\u043b\u0430 \"Deceased Actors Hollywood\"Save4K.comhttps://save4k.com \u203a channel",
+        "content": "... Accident Just Happened In Georgia Took The Life Of A Hollywood Actress. \u0421\u043a\u0430\u0447\u0430\u0442\u044c. 11. Hollywood Reported On The Accident Of Actor Tom Cruise, Accompanied By A\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/channel/UCzyUBH57hSEGtrQyXmQvvsA/videos?view=0&sort=dd&shelf_id=0",
+        "title": "Deceased Actors Hollywood - YouTubeYouTubehttps://www.youtube.com \u203a channel \u203a videos",
+        "content": "Julia Roberts - The accident just happened in Georgia took the life of a Hollywood actress ... 10 mins ago / With actor Tom Selleck's tearful final goodbye, he is\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/Thomas-street-car-accident-10th-august",
+        "title": "Thomas street car accident 10th august\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "viral.video6032. 21. #thomasscott #fyp #hotnews #foryou #hollywood #viralvideo #news ; samantha.vz. 28. Thomas \ud83d\udd4a\ufe0f\ud83d\udd4a\ufe0f\ud83d\udd4a\ufe0f\ud83d\udd4a\ufe0f     ; aces.tiktok. 6. 1999 thomas terrible\u00a0...",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://amoretti.edu.bo/?u=tesla-crashes-into-girl-scout-cookie-stand-at-a-gg-lZAdQRcB",
+        "title": "Tesla Crashes Into Girl Scout Cookie Stand At A Walmart In ...Unidad Educativa Amoretti. La Paz-Boliviahttps://amoretti.edu.bo \u203a ...",
+        "content": "... has sold 14 million copies Gamers play as Detective John. Tesla crashes into Girl Scout cookie stand at a Walmart in Granite Bay. Tesla Crash Victim Was 99\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://test-web.eufonie.fr/?o=tesla-crashes-into-girl-scout-cookie-stand-at-a-uu-p3gWm5tv",
+        "title": "Tesla Crashes Into Girl Scout Cookie Stand At A Walmart In ...Eufoniehttps://test-web.eufonie.fr \u203a ...",
+        "content": "Tesla Crash Victim Was 99% to Blame for His Death in Model S, Jury Says Tech News ... Bay City MI Michigan Bay County Vintage US Flag Decal Bumper Sticker 3M\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contratacion.fundovidaips.com/?m=us-safety-watchdog-probes-fatal-tesla-crash-in-florida-yy-xAj07Yfo",
+        "title": "US safety watchdog probes fatal Tesla crash in FloridaFundovidahttps://contratacion.fundovidaips.com \u203a ...",
+        "content": "US safety watchdog probes fatal Tesla crash in Florida, Tesla MODEL S 2022 vin: 5YJSA1E50NF471025 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0430\u0443\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0435 IAAI \u0432 \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u043c\u0430\u044f\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.flerodiesel.it/?k=tesla-totaled-after-crashing-into-pickup-truck-$60-000-qq-dwLRxNTv",
+        "title": "Tesla Totaled After Crashing Into Pickup Truckflerodiesel.ithttps://www.flerodiesel.it \u203a crashed tesla",
+        "content": "",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://martinvangrieken.nl/Two-injured-in-South-Main-Street-crash-905-215238",
+        "title": "Two injured in South Main Street crash - martinvangrieken.nlmartinvangrieken.nlhttps://martinvangrieken.nl \u203a Two-injured-in-South-M...",
+        "content": "Two killed in accident on Main Street in downtown Wheeling. Two injured in South ... life'. San Antonio Spurs Jordan Statement Swingman Jersey 22-23 - Custom\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://diatica.pt/entity.php?4689j4aojk.htm",
+        "title": "berberin mrtva\u010dnica Lije\u010dnik car crash injuries Takozvani ...diatica.pthttps://diatica.pt \u203a entity",
+        "content": "berberin mrtva\u010dnica Lije\u010dnik car crash injuries Takozvani Menstruacija Anemone ribe \u00b7 4 Things You Need To Do When You're Injured In A Car Crash - News \u00b7 7 Most\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dssolution.in/?c=man-in-horror-tesla-crash-walks-out-unscathed-vows-9-ee-AYDjVjUG",
+        "title": "Man In Horror Tesla Crash Walks Out Unscathed, Vows To ...dssolution.inhttps://www.dssolution.in \u203a ...",
+        "content": "Description. Experience the sensation of an all-electric 7-seater SUV that sprints from 0-100km/h in just seconds \u2013 driving is believing. Man in horror Tesla\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pilchuckfoundation.org/tesla-car-crash",
+        "title": "publika Mo\u017ee se izra\u010dunati Ku\u0107ni ljubimci tesla car crashpilchuckfoundation.orghttps://www.pilchuckfoundation.org \u203a tesla-car-crash",
+        "content": "Poljoprivreda ruda Odnos Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 Rasplod Lo\u0161e pla\u0107anje Tesla in spotlight again in China as Model 3\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contratacion.fundovidaips.com/?m=tesla-totaled-after-crashing-into-pickup-truck-$60-000-yy-5B7VrJhE",
+        "title": "Tesla Totaled After Crashing Into Pickup TruckFundovidahttps://contratacion.fundovidaips.com \u203a ...",
+        "content": "Tesla Model owner says vehicle 'performed miraculously' in high-speed rear-end crash, all occupants are safe Electrek. Tesla Totaled After Crashing Into\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.4math.net/2019/04/olympiade-math-algebre-01-ex-29.html/?q=us-safety-watchdog-probes-fatal-tesla-crash-in-florida-gg-E3WrQ5Fx",
+        "title": "US Safety Watchdog Probes Fatal Tesla Crash In Florida4Mathhttps://www.4math.net \u203a 2019/04 \u203a olympiade-math-a...",
+        "content": " \u00b7 ",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://trustiain.com/car-audio-san-bruno-k.html",
+        "title": "Courageous Gloomy Pamphlet car audio san bruno National ...trustiain.comhttps://trustiain.com \u203a car-audio-san-bruno-k",
+        "content": "2023 Hyundai VENUE \u00b7 3 injured, 22 displaced after a Tesla and a Prius crash into S.F. \u00b7 2023 Genesis G90 3.5T E-Supercharger For Sale in San Bruno, CA -\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://saltsourcecompany.com/1075btvuR1391HL502.htm",
+        "title": "Expression stay up Dialogue car audio san bruno ...saltsourcecompany.comhttps://saltsourcecompany.com \u203a ...",
+        "content": "2023 Hyundai IONIQ 5 SEL San Bruno CA | Brisbane Millbrae Colma California KM8KNDAF8PU160517 \u00b7 3 injured, 22 displaced after a Tesla and a Prius crash into S.F.\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://videomon.biz/?q=tom+selleck",
+        "title": "Tom Selleck mp3 mp4 flv webm m4a hd video indirVideomon.Bizhttps://videomon.biz \u203a ...",
+        "content": "Tom Selleck Was 'Scared To Death' To Guest Star On 'Friends'. Tom Selleck Was ... Tom Selleck - The accident just happened in Michigan took the life of a Hollywoo.",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://tr.alrm.pt/tom-selleck-opens-up-about-value-his-family-life-over-fame",
+        "title": "Tom Selleck Kaliforniya'daki Aile \u00c7iftli\u011finde Ya\u015fam\u0131 Konu\u015fuyoralrm.pthttps://tr.alrm.pt \u203a tom-selleck-open...",
+        "content": "Tom Selleck, Kaliforniya'daki \u00f6zel \u00e7iftli\u011finde ailesi ve hayat\u0131 ... Tom Selleck - The accident just happened in Michigan took the life of a Hollywood actor.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://hr.alrm.pt/tom-selleck-opens-up-about-value-his-family-life-over-fame",
+        "title": "Tom Selleck razgovara o \u017eivotu na svom obiteljskom ran\u010du u ...alrm.pthttps://hr.alrm.pt \u203a tom-selleck-ope...",
+        "content": "Tom Selleck otvorio je u nedavnom intervjuu o svojoj obitelji i ... Tom Selleck - The accident just happened in Michigan took the life of a Hollywood actor.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://fi.alrm.pt/tom-selleck-opens-up-about-value-his-family-life-over-fame",
+        "title": "Tom Selleck puhuu el\u00e4m\u00e4st\u00e4\u00e4n perheens\u00e4 tilalla Kaliforniassaalrm.pthttps://fi.alrm.pt \u203a tom-selleck-open...",
+        "content": "Deceased Actors Hollywood. 51.9K subscribers. Tom Selleck - The accident just happened in Michigan took the life of a Hollywood actor. Deceased Actors Hollywood.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "iw",
+        "link": "https://iw.alrm.pt/tom-selleck-opens-up-about-value-his-family-life-over-fame",
+        "title": "\u05d8\u05d5\u05dd \u05e1\u05dc\u05e7 \u05de\u05d3\u05d1\u05e8 \u05e2\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd \u05d1\u05d7\u05d5\u05d5\u05d4 \u05d4\u05de\u05e9\u05e4\u05d7\u05ea\u05d9\u05ea \u05e9\u05dc\u05d5 \u05d1\u05e7\u05dc\u05d9\u05e4\u05d5\u05e8\u05e0\u05d9\u05d4 - alrmalrm.pthttps://iw.alrm.pt \u203a tom-selleck-ope...",
+        "content": "Deceased Actors Hollywood. 50.7K subscribers. Tom Selleck - The accident just happened in Michigan took the life of a Hollywood actor. Deceased Actors Hollywood.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://shiftdelete.net/yazar/gokberk-bayram",
+        "title": "G\u00f6kberk Baycan Yaz\u0131lar\u0131 - ShiftDelete.NetShiftDelete.Nethttps://shiftdelete.net \u203a yazar \u203a gokb...",
+        "content": "",
+        "size": [
+          640,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://www.flash-mini.com/p2444275.html",
+        "title": "12 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 2566 [1] - flash-mini.comflash-mini.comhttps://www.flash-mini.com \u203a ...",
+        "content": "",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://www.flash-mini.com/%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B8%AD.html",
+        "title": "12 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 2566 [1] - flash-mini.comflash-mini.comhttps://www.flash-mini.com \u203a \u0e1d\u0e31\u0e19\u0e27...",
+        "content": "",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "auto_showroom",
+        "ioclass": "indoor",
+        "probability": 0.30691275000572205
+      },
+      {
+        "class": "assembly_line",
+        "ioclass": "indoor",
+        "probability": 0.17049439251422882
+      },
+      {
+        "class": "auto_factory",
+        "ioclass": "indoor",
+        "probability": 0.15966930985450745
+      },
+      {
+        "class": "parking_garage/indoor",
+        "ioclass": "indoor",
+        "probability": 0.10492271929979324
+      },
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.06967278569936752
+      }
+    ],
+    "transients": [
+      {
+        "class": "dirty",
+        "score": 0.8084595799446106
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.7417401075363159
+      },
+      {
+        "class": "moist",
+        "score": 0.6983674168586731
+      },
+      {
+        "class": "ice",
+        "score": 0.6963270902633667
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.6912239789962769
+      },
+      {
+        "class": "season/winter",
+        "score": 0.6721378564834595
+      },
+      {
+        "class": "busy",
+        "score": 0.6459953784942627
+      },
+      {
+        "class": "cluttered",
+        "score": 0.6280763149261475
+      },
+      {
+        "class": "glowing",
+        "score": 0.5229980945587158
+      },
+      {
+        "class": "rugged",
+        "score": 0.5215697884559631
+      },
+      {
+        "class": "exciting",
+        "score": 0.5210635662078857
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1712,
+        "pred_lat": 48.84591293334961,
+        "pred_long": 2.2985706329345703
+      },
+      "middle": {
+        "pred_class": 3131,
+        "pred_lat": 37.7408561706543,
+        "pred_long": -122.46481323242188
+      },
+      "fine": {
+        "pred_class": 35,
+        "pred_lat": 47.254981994628906,
+        "pred_long": -122.44819641113281
+      },
+      "hierarchy": {
+        "pred_class": 35,
+        "pred_lat": 47.254981994628906,
+        "pred_long": -122.44819641113281
+      },
+      "country": {
+        "city": "Tacoma",
+        "state": "Washington",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 47.27592,
+    "longitude": -122.499985,
+    "generationtime_ms": 0.09703636169433594,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 97.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2022-11-10T00:00",
+        "2022-11-10T01:00",
+        "2022-11-10T02:00",
+        "2022-11-10T03:00",
+        "2022-11-10T04:00",
+        "2022-11-10T05:00",
+        "2022-11-10T06:00",
+        "2022-11-10T07:00",
+        "2022-11-10T08:00",
+        "2022-11-10T09:00",
+        "2022-11-10T10:00",
+        "2022-11-10T11:00",
+        "2022-11-10T12:00",
+        "2022-11-10T13:00",
+        "2022-11-10T14:00",
+        "2022-11-10T15:00",
+        "2022-11-10T16:00",
+        "2022-11-10T17:00",
+        "2022-11-10T18:00",
+        "2022-11-10T19:00",
+        "2022-11-10T20:00",
+        "2022-11-10T21:00",
+        "2022-11-10T22:00",
+        "2022-11-10T23:00",
+        "2022-11-11T00:00",
+        "2022-11-11T01:00",
+        "2022-11-11T02:00",
+        "2022-11-11T03:00",
+        "2022-11-11T04:00",
+        "2022-11-11T05:00",
+        "2022-11-11T06:00",
+        "2022-11-11T07:00",
+        "2022-11-11T08:00",
+        "2022-11-11T09:00",
+        "2022-11-11T10:00",
+        "2022-11-11T11:00",
+        "2022-11-11T12:00",
+        "2022-11-11T13:00",
+        "2022-11-11T14:00",
+        "2022-11-11T15:00",
+        "2022-11-11T16:00",
+        "2022-11-11T17:00",
+        "2022-11-11T18:00",
+        "2022-11-11T19:00",
+        "2022-11-11T20:00",
+        "2022-11-11T21:00",
+        "2022-11-11T22:00",
+        "2022-11-11T23:00"
+      ],
+      "apparent_temperature": [
+        2.5,
+        2.3,
+        3.3,
+        0.8,
+        1.2,
+        0.7,
+        -0.2,
+        -0.0,
+        0.1,
+        -0.3,
+        -2.4,
+        -1.8,
+        -1.0,
+        -3.1,
+        -3.2,
+        -3.1,
+        -0.7,
+        0.5,
+        2.5,
+        3.7,
+        4.6,
+        5.2,
+        5.2,
+        4.9,
+        4.1,
+        2.5,
+        2.1,
+        0.6,
+        -0.2,
+        -1.3,
+        -1.3,
+        -0.6,
+        -1.1,
+        -1.8,
+        -1.9,
+        -1.4,
+        -1.8,
+        -1.6,
+        -1.2,
+        -0.8,
+        -0.5,
+        -0.2,
+        0.9,
+        1.9,
+        2.8,
+        2.5,
+        2.9,
+        2.9
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

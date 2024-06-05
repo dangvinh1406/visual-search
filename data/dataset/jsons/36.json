@@ -1,0 +1,3037 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2013/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/11": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2013/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 50,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 50,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2013/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2014/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2015/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                50,
+                7,
+                4,
+                2,
+                2,
+                4,
+                0,
+                4,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 67,
+            "percentage": 45.270270270270274
+          },
+          "Spanish; Castilian": {
+            "count": 25,
+            "percentage": 16.89189189189189
+          },
+          "Italian": {
+            "count": 10,
+            "percentage": 6.756756756756757
+          },
+          "French": {
+            "count": 7,
+            "percentage": 4.72972972972973
+          },
+          "Arabic": {
+            "count": 6,
+            "percentage": 4.054054054054054
+          },
+          "German": {
+            "count": 6,
+            "percentage": 4.054054054054054
+          },
+          "Persian": {
+            "count": 5,
+            "percentage": 3.3783783783783785
+          },
+          "Indonesian": {
+            "count": 4,
+            "percentage": 2.7027027027027026
+          },
+          "Polish": {
+            "count": 4,
+            "percentage": 2.7027027027027026
+          },
+          "Vietnamese": {
+            "count": 4,
+            "percentage": 2.7027027027027026
+          },
+          "Chinese": {
+            "count": 2,
+            "percentage": 1.3513513513513513
+          },
+          "Portuguese": {
+            "count": 2,
+            "percentage": 1.3513513513513513
+          },
+          "Azerbaijani": {
+            "count": 1,
+            "percentage": 0.6756756756756757
+          },
+          "Dutch; Flemish": {
+            "count": 1,
+            "percentage": 0.6756756756756757
+          },
+          "Thai": {
+            "count": 1,
+            "percentage": 0.6756756756756757
+          }
+        },
+        "total": 148,
+        "plot": {
+          "labels": [
+            "English",
+            "Spanish; Castilian",
+            "Italian",
+            "French",
+            "others"
+          ],
+          "data": [
+            45,
+            16,
+            6,
+            4,
+            29
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "es",
+        "link": "https://www.cronicadigital.cl/2023/11/13/presidente-ucraniano-promete-ofensiva-para-agradar-a-occidente/",
+        "title": "Presidente ucraniano promete ofensiva para agradar a ...cr\u00f3nica digital.clhttps://www.cronicadigital.cl \u203a presi...",
+        "content": "",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "es",
+        "link": "https://www.zona-militar.com/foros/threads/noticias-sobre-el-conflicto-militar-ruso-ucraniano.30518/page-5620",
+        "title": "Noticias sobre el conflicto militar ruso-ucraniano| P\u00e1gina 5620Zona Militarhttps://www.zona-militar.com \u203a foros",
+        "content": "Lancet con RPG-7 tandem por dentro. Click to expand... el Lancet 3 lleva una carga de 3kg , la PG7-VR (la de la foto) pesa 4,5kg no est\u00e1 tan\u00a0...",
+        "size": [
+          1000,
+          668
+        ],
+        "date": "2013:11:22 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 67,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "es",
+        "link": "https://www.zona-militar.com/foros/threads/noticias-sobre-el-conflicto-militar-ruso-ucraniano.30518/page-5620",
+        "title": "Noticias sobre el conflicto militar ruso-ucraniano| P\u00e1gina 5620Zona Militarhttps://www.zona-militar.com \u203a foros",
+        "content": "Lancet con RPG-7 tandem por dentro. Click to expand... el Lancet 3 lleva una carga de 3kg , la PG7-VR (la de la foto) pesa 4,5kg no est\u00e1 tan\u00a0...",
+        "size": [
+          1000,
+          668
+        ],
+        "date": "2013:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "http://newspaper.albaathmedia.sy/2021/05/09/%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%88-%D8%B7%D8%B1%D8%B7%D9%88%D8%B3-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82-%D8%AA%D9%83%D8%B1%D9%8A%D8%B3-%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9/",
+        "title": "\u0645\u0632\u0627\u0631\u0639\u0648 \u0637\u0631\u0637\u0648\u0633.. \u0627\u0644\u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0634\u0623\u0646 \u0633\u0648\u0631\u064a \u062f\u0627\u062e\u0644\u064a \u0628\u0627\u0645\u062a\u064a\u0627\u0632 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0639\u062b\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0639\u062bhttp://newspaper.albaathmedia.sy \u203a ...",
+        "content": "\u0637\u0631\u0637\u0648\u0633- \u0631\u0634\u0627 \u0633\u0644\u064a\u0645\u0627\u0646: \u0631\u063a\u0645 \u0627\u0646\u0634\u063a\u0627\u0644 \u0645\u0632\u0627\u0631\u0639\u064a\u0646\u0627 \u0628\u0647\u0645\u0648\u0645 \u0627\u0644\u0623\u0631\u0636 \u0648\u0627\u0644\u0645\u0648\u0627\u0633\u0645 \u0648\u0627\u0644\u0645\u062d\u0627\u0635\u064a\u0644 \u0648\u062a\u0633\u0648\u064a\u0642\u0647\u0627\u060c \u0644\u0627\u062a\u063a\u064a\u0628 \u0639\u0646\u0647\u0645 \u064a\u0648\u0645\u064a\u0627\u062a \u0627\u0644\u0648\u0637\u0646 \u0648\u0645\u062a\u0627\u0628\u0639\u0627\u062a \u0645\u062c\u0631\u064a\u0627\u062a\u0647 \u0648\u0623\u062d\u062f\u0627\u062b\u0647\u060c \u0648\u064a\u0638\u0647\u0631 \u0630\u0644\u0643\u00a0...",
+        "size": [
+          390,
+          205
+        ],
+        "date": "2021:05:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.prensa-latina.cu/2022/02/12/brighton-escala-al-noveno-lugar-en-liga-premier-inglesa",
+        "title": "Brighton escala al noveno lugar en Liga Premier inglesaPrensa Latinahttps://www.prensa-latina.cu \u203a ... \u203a 12",
+        "content": "",
+        "size": [
+          500,
+          219
+        ],
+        "date": "2022:02:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thefarmingforum.co.uk/index.php?threads/the-war-in-ukraine.364183/page-1089",
+        "title": "The war in Ukraine... | Page 1089 - The Farming ForumThe Farming Forumhttps://thefarmingforum.co.uk \u203a threads \u203a page-1089",
+        "content": "Probably over 300000 troops killed between the two sides, but no one cares because its Ukraine and Russia. Imagine if it was that many Brits\u00a0...",
+        "size": [
+          1796,
+          1200
+        ],
+        "date": "2022:02:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://miahservices.com/4uykunyu.htm",
+        "title": "sale now STILL Kabul US of - miahservices.commiahservices.comhttps://miahservices.com \u203a ...",
+        "content": "economic troubles include Russia's invasion of Ukraine and a hangover from pandemic-related shutdowns, but they also trace their roots\u00a0...",
+        "size": [
+          1200,
+          550
+        ],
+        "date": "2022:03:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://raiseyasi.com/%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D9%85%D8%B3/",
+        "title": "\u0646\u062a\u0627\u0626\u062c \u0627\u0644\u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629 \u062a\u0643\u0634\u0641 \u0627\u0644\u0645\u0633\u062a\u0648\u0631 \u0641\u064a \u062a\u062d\u0627\u0644\u0641\u0627\u062a \u00ab\u0627\u0644\u0625\u062e\u0648\u0629 ...\u0631\u0623\u064a \u0633\u064a\u0627\u0633\u064ahttps://raiseyasi.com \u203a \u0646\u062a\u0627\u0626\u062c-\u0627\u0644\u0627\u0646\u062a\u062e...",
+        "content": "\u0648\u0631\u0643\u0651\u0632 \u0641\u064a \u0627\u062d\u062a\u0641\u0627\u0644\u0647 \u0628\u064a\u0648\u0645 \u0627\u0644\u0646\u0635\u0631 \u0639\u0644\u0649 \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u062e\u0635\u0648\u0645\u0647\u060c \u0648\u0623\u0628\u0631\u0632\u0647\u0645 \u062d\u0632\u0628 \u00ab\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629\u00bb\u060c \u0645\u0633\u062a\u062d\u0636\u0631\u0627\u064b \u0641\u064a \u0627\u0644\u0648\u0642\u062a \u0646\u0641\u0633\u0647 \u062d\u0645\u0644\u062a\u0647 \u0639\u0644\u0649 \u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0646\u064a\u0627\u0628\u064a \u0646\u0628\u064a\u0647 \u0628\u0631\u064a \u0645\u0646\u00a0...",
+        "size": [
+          390,
+          220
+        ],
+        "date": "2022:05:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cronicadigital.cl/2022/12/21/tropas-rusas-en-ucrania-reciben-modernos-tanques-t-90m/",
+        "title": "Tropas rusas en Ucrania reciben modernos tanques T-90Mcr\u00f3nica digital.clhttps://www.cronicadigital.cl \u203a 2022...",
+        "content": "",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2022:12:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://galaxiamilitar.es/francia-entregara-tanques-amx-10rc-al-ejercito-ucraniano/",
+        "title": "Francia entregar\u00e1 blindados AMX-10RC al ej\u00e9rcito ucraniano.Galaxia Militarhttps://galaxiamilitar.es \u203a ...",
+        "content": "",
+        "size": [
+          390,
+          205
+        ],
+        "date": "2023:01:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://arabic.cnn.com/world/article/2023/04/08/north-korea-claims-to-have-tested-an-underwater-drone-capable-of-carrying-a-nuclear-warhead-kcna",
+        "title": "\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u062a\u0639\u0644\u0646 \u0625\u062c\u0631\u0627\u0621 \u0627\u062e\u062a\u0628\u0627\u0631 \u062c\u062f\u064a\u062f \u0644\u063a\u0648\u0627\u0635\u0629 \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 ...CNN Arabichttps://arabic.cnn.com \u203a 2023/04/08",
+        "content": "(CNN)-- \u0623\u0639\u0644\u0646\u062a \u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0623\u0646\u0647\u0627 \u0623\u062c\u0631\u062a \u0627\u062e\u062a\u0628\u0627\u0631 \u062c\u062f\u064a\u062f \u0644\u063a\u0648\u0627\u0635\u0629 \u0645\u0633\u064a\u0631\u0629 \u062a\u062d\u062a \u0627\u0644\u0645\u0627\u0621 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062d\u0645\u0644 \u0631\u0623\u0633 \u0646\u0648\u0648\u064a\u060c \u0628\u062d\u0633\u0628 \u0645\u0627 \u0630\u0643\u0631\u062a \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tellerreport.com/news/2023-04-07-war-in-ukraine--pentagon-investigates-leak-of-confidential-documents.rJZAtKpab3.html",
+        "title": "War in Ukraine: Pentagon investigates leak of confidential ...Teller Reporthttps://www.tellerreport.com \u203a news \u203a 2023-04-07-wa...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dnyuz.com/2023/04/07/leaked-ukraine-war-plans-complicate-spring-counteroffensive/",
+        "title": "Leaked Ukraine War Plans Complicate Spring CounteroffensiveDNyuzhttps://dnyuz.com \u203a News",
+        "content": "Sign up to receive World Brief in your inbox every weekday. Classified war documents on U.S. and NATO efforts to support Ukraine's military\u00a0...",
+        "size": [
+          1000,
+          666
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://arabic.cnn.com/world/article/2023/04/07/wsj-journalist-espionage-russia",
+        "title": "\u0648\u0633\u0627\u0626\u0644 \u0625\u0639\u0644\u0627\u0645 \u0631\u0648\u0633\u064a\u0629: \u062a\u0648\u062c\u064a\u0647 \u062a\u0647\u0645\u0629 \u0627\u0644\u062a\u062c\u0633\u0633 \u0644\u0635\u062d\u0641\u064a \"\u0648\u0648\u0644 \u0633\u062a\u0631\u064a\u062a ...CNN Arabichttps://arabic.cnn.com \u203a 2023/04/07",
+        "content": "\u0623\u0641\u0627\u062f\u062a \u0648\u0633\u0627\u0626\u0644 \u0625\u0639\u0644\u0627\u0645 \u0631\u0648\u0633\u064a\u0629 \u0631\u0633\u0645\u064a\u0629 \u0627\u0644\u062c\u0645\u0639\u0629 \u0623\u0646 \u0627\u0644\u0645\u062d\u0642\u0642\u064a\u0646 \u0627\u0644\u0631\u0648\u0633 \u0648\u062c\u0647\u0648\u0627 \u0627\u062a\u0647\u0627\u0645\u0627\u062a \u0631\u0633\u0645\u064a\u0629 \u0644\u0645\u0631\u0627\u0633\u0644 \u0635\u062d\u064a\u0641\u0629 \"\u0648\u0648\u0644 \u0633\u062a\u0631\u064a\u062a \u062c\u0648\u0631\u0646\u0627\u0644\"\u060c \u0625\u064a\u0641\u0627\u0646 \u063a\u064a\u0631\u0634\u0643\u0648\u0641\u064a\u062a\u0634\u060c \u0628\u0627\u0644\u062a\u062c\u0633\u0633\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.france24.com/fr/am%C3%A9riques/20230407-guerre-en-ukraine-le-pentagone-enqu%C3%AAte-sur-une-fuite-de-documents-confidentiels",
+        "title": "Guerre en Ukraine : le Pentagone enqu\u00eate sur une fuite de ...France 24https://www.france24.com \u203a 20230...",
+        "content": "",
+        "size": [
+          1280,
+          960
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/04/07/classified-us-national-security-docs-turn-up-in-nightmare-leak/",
+        "title": "Classified US national security docs turn up in 'nightmare' leakNew York Posthttps://nypost.com \u203a 2023/04/07 \u203a classified-us-nation...",
+        "content": "Classified documents that seem to detail US national security secrets related to Ukraine, the Middle East and China have emerged online.",
+        "size": [
+          1200,
+          799
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foreignpolicy.com/2023/04/07/ukraine-war-plans-leak-russia-us-nato-counteroffensive/",
+        "title": "Leaked Ukraine War Plans Complicate Spring CounteroffensiveForeign Policyhttps://foreignpolicy.com \u203a 2023/04/07 \u203a ukraine-war-pl...",
+        "content": "Classified war documents on U.S. and NATO efforts to support Ukraine's military ahead of a planned spring counteroffensive were posted to social\u00a0...",
+        "size": [
+          1000,
+          666
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.defenseone.com/threats/2023/04/some-ukrainian-troops-are-still-using-soviet-methods-despite-us-training/384967/",
+        "title": "Some Ukrainian Troops Are Still Using Soviet Methods ...Defense Onehttps://www.defenseone.com \u203a threats \u203a 2023/04 \u203a so...",
+        "content": "A Ukrainian serviceman prepares to fire a rocket-propelled grenade (RPG) from a launcher during a training exercise in the Donetsk region on\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.rp.pl/swiat/art38285571-wojna-rosji-z-ukraina-dzien-408",
+        "title": "Wojna Rosji z Ukrain\u0105. Dzie\u0144 408. Relacja na \u017cywo - rp.plRzeczpospolitahttps://www.rp.pl \u203a ... \u203a \u015awiat",
+        "content": "",
+        "size": [
+          108,
+          108
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://arabic.cnn.com/world/article/2023/04/08/ukrainian-missile-intercepted-over-southern-crimea-russia",
+        "title": "\u0645\u0633\u0624\u0648\u0644 \u0631\u0648\u0633\u064a \u064a\u0639\u0644\u0646 \u0627\u0639\u062a\u0631\u0627\u0636 \u0635\u0627\u0631\u0648\u062e \u0623\u0648\u0643\u0631\u0627\u0646\u064a \u0641\u0648\u0642 \u0634\u0628\u0647 \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0642\u0631\u0645CNN Arabichttps://arabic.cnn.com \u203a 2023/04/08",
+        "content": "\u0623\u0633\u0642\u0637\u062a \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0631\u0648\u0633\u064a\u0629\u060c \u0627\u0644\u0633\u0628\u062a\u060c \u0635\u0627\u0631\u0648\u062e\u064b\u0627 \u0623\u064f\u0637\u0644\u0642 \u0645\u0646 \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627 \u0641\u0648\u0642 \u0645\u064a\u0646\u0627\u0621 \u0641\u064a\u0648\u062f\u0648\u0633\u064a\u0627 \u0641\u064a \u0634\u0628\u0647 \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0642\u0631\u0645\u060c \u0639\u0644\u0649 \u0627\u0644\u0633\u0627\u062d\u0644 \u0627\u0644\u062c\u0646\u0648\u0628\u064a \u0644\u0634\u0628\u0647 \u0627\u0644\u062c\u0632\u064a\u0631\u0629\u060c \u0648\u0641\u0642\u064b\u0627\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.liputan6.com/photo/read/5255672/prajurit-ukraina-latihan-militer-di-donetsk-tempat-pertempuran-paling-sengit-melawan-rusia",
+        "title": "Prajurit Ukraina Latihan Militer di Donetsk, Tempat ...Liputan6.comhttps://www.liputan6.com \u203a read",
+        "content": "... (RPG) dari peluncur saat latihan di tengah invasi Rusia ke Ukraina di ... (RPG). (Genya SAVILOV/AFP). Advertisement - Scroll untuk Melanjutkan.",
+        "size": [
+          500,
+          342
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-menace-de-suspendre-l-accord-d-exportation-de-cereales-ukrainiennes_5759381.html",
+        "title": "Guerre en Ukraine : 31 enfants emmen\u00e9s ill\u00e9galement en ...Franceinfohttps://www.francetvinfo.fr \u203a europe",
+        "content": "Ces enfants avaient \u00e9t\u00e9 emmen\u00e9s en Russie depuis les r\u00e9gions de Kharkiv et de Kherson, selon l'ONG Save Ukraine.",
+        "size": [
+          944,
+          531
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-unites-ukrainiennes-formees-en-europe-et-aux-etats-unis-en-vue-d-une-contre-offensive-contre-la-russie_5759810.html",
+        "title": "Guerre en Ukraine : des unit\u00e9s ukrainiennes form\u00e9es en ...Franceinfohttps://www.francetvinfo.fr \u203a europe",
+        "content": "\u00c0 terme, l'Ukraine veut mettre sur pied et \u00e9quiper 14 brigades de soldats, soit 130 000 hommes.",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.caribemagazine.nl/oekraiense-eenheden-trainden-in-europa-en-de-verenigde-staten-om-een-tegenoffensief-tegen-rusland-te-lanceren/",
+        "title": "Oekra\u00efense eenheden trainden in Europa en de Verenigde ...Caribe Magazinehttps://www.caribemagazine.nl \u203a oe...",
+        "content": "",
+        "size": [
+          1500,
+          843
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://arabic.cnn.com/world/article/2023/04/08/china-taiwan-military-exercises-hnk-intl-ml-2",
+        "title": "\"\u0627\u0644\u0633\u064a\u0641 \u0627\u0644\u062d\u0627\u062f \u0627\u0644\u0645\u064f\u062a\u062d\u062f\".. \u0627\u0644\u062c\u064a\u0634 \u0627\u0644\u0635\u064a\u0646\u064a \u064a\u062c\u0631\u064a \u062a\u062f\u0631\u064a\u0628\u0627\u062a \u0639\u0633\u0643\u0631\u064a\u0629 \u0644\u0640 ...CNN Arabichttps://arabic.cnn.com \u203a 2023/04/08",
+        "content": "\u0628\u062f\u0623\u062a \u0627\u0644\u0635\u064a\u0646 \u062a\u062f\u0631\u064a\u0628\u0627\u062a \u0639\u0633\u0643\u0631\u064a\u0629 \u0644\u0645\u062f\u0629 \u062b\u0644\u0627\u062b\u0629 \u0623\u064a\u0627\u0645 \u062d\u0648\u0644 \u062a\u0627\u064a\u0648\u0627\u0646 \u0628\u0639\u062f \u0623\u0646 \u0627\u0644\u062a\u0642\u062a \u0631\u0626\u064a\u0633\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0628\u0631\u0626\u064a\u0633 \u0645\u062c\u0644\u0633 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0641\u064a \u062a\u062d\u062f \u0644\u062a\u0647\u062f\u064a\u062f\u0627\u062a \u0628\u0643\u064a\u0646 \u0627\u0644\u0645\u062a\u0643\u0631\u0631\u0629\u060c\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.rp.pl/polityka/art38288691-bosak-o-wizycie-zelenskiego-duda-wyglaszal-niemal-wylacznie-ukrainskie-postulaty",
+        "title": "Bosak o wizycie Ze\u0142enskiego: Duda wyg\u0142asza\u0142 niemal ...Rzeczpospolitahttps://www.rp.pl \u203a ... \u203a Polityka",
+        "content": "",
+        "size": [
+          108,
+          108
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://itsmrj.com/leaked-documents-russias-military-struggles-and-depth-of-u-s-spy-efforts/",
+        "title": "Leaked Documents Russia's Military Struggles and Depth of ...itsmrj.comhttps://itsmrj.com \u203a leaked-documents-russias-military-...",
+        "content": "This intelligence has allowed the US to help Ukraine defend itself against Russian attacks. Ukrainian soldiers watch the horizon where Russian\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/04/08/leaked-pentagon-docs-show-russian-intelligence-compromised-by-us/",
+        "title": "Leaked Pentagon docs show Russian intelligence ... - NY PostNew York Posthttps://nypost.com \u203a 2023/04/08 \u203a leaked-pentagon-d...",
+        "content": "Leaked classified documents detailing U.S. national security secrets regarding Ukraine, China, and the Middle East reportedly show just how\u00a0...",
+        "size": [
+          389,
+          260
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldebate.com/internacional/20230408/planes-filtrados-contraofensiva-ucrania-jugada-maestra-treta-putin_106521.html",
+        "title": "Los planes filtrados de la contraofensiva de Ucrania - El DebateEl Debatehttps://www.eldebate.com \u203a planes-f...",
+        "content": "",
+        "size": [
+          940,
+          353
+        ],
+        "date": "2023:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.ntdtv.com/b5/2023/04/09/a103686974.html",
+        "title": "\u70cf\u514b\u862d30\u591a\u540d\u5152\u7ae5\u7372\u6551\u8207\u7236\u6bcd\u5718\u805a| \u4fc4\u70cf\u6230\u722d - \u65b0\u5510\u4eba\u96fb\u8996\u53f0\u65b0\u5510\u4eba\u96fb\u8996\u53f0https://www.ntdtv.com \u203a 2023/04/09",
+        "content": "",
+        "size": [
+          360,
+          202
+        ],
+        "date": "2023:04:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://mgronline.com/around/detail/9660000033086",
+        "title": "\u0e40\u0e1e\u0e19\u0e15\u0e32\u0e01\u0e2d\u0e19\u0e23\u0e31\u0e1a\u201c\u0e40\u0e2d\u0e01\u0e2a\u0e32\u0e23\u0e25\u0e31\u0e1a\"\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e23\u0e39\u0e49\u0e25\u0e48\u0e27\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e41\u0e1c\u0e19\u0e42\u0e08\u0e21\u0e15\u0e35\u0e01\u0e33\u0e25\u0e31\u0e07 ...MGR Onlinehttps://mgronline.com \u203a detail",
+        "content": "",
+        "size": [
+          300,
+          172
+        ],
+        "date": "2023:04:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/04/09/russian-fighter-jet-nearly-shot-down-british-spy-plane-leaked-docs/",
+        "title": "Russian fighter jet nearly shot down British spy plane - NY PostNew York Posthttps://nypost.com \u203a 2023/04/09 \u203a russian-fighter-jet-...",
+        "content": "... Games \u00b7 Sports Odds \u00b7 Podcasts \u00b7 Careers. Sub menu 2. Email Newsletters ... russia \u00b7 ukraine \u00b7 ukraine war \u00b7 4/9/23 \u00b7 Read Next 2 Fla. women\u00a0...",
+        "size": [
+          389,
+          260
+        ],
+        "date": "2023:04:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.rp.pl/swiat/art38288321-wojna-rosji-z-ukraina-dzien-409",
+        "title": "Wojna Rosji z Ukrain\u0105. Dzie\u0144 409. Relacja na \u017cywo - rp.plRzeczpospolitahttps://www.rp.pl \u203a ... \u203a \u015awiat",
+        "content": "... Ukraine, by\u0142y pe\u0142nomocnik prezydenta ds. praw dziecka. - Teraz 31 dzieci jest w drodze do Kijowa. Te dzieci przyb\u0119d\u0105 do stolicy za 3-4\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:04:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.ntdtv.com/gb/2023/04/09/a103686974.html",
+        "title": "\u4e4c\u514b\u517030\u591a\u540d\u513f\u7ae5\u83b7\u6551\u4e0e\u7236\u6bcd\u56e2\u805a| \u4fc4\u4e4c\u6218\u4e89\u65b0\u5510\u4eba\u96fb\u8996\u53f0https://www.ntdtv.com \u203a 2023/04/09",
+        "content": "",
+        "size": [
+          360,
+          202
+        ],
+        "date": "2023:04:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.rp.pl/konflikty-zbrojne/art38289121-wojna-rosji-z-ukraina-dzien-410",
+        "title": "Wojna Rosji z Ukrain\u0105. Dzie\u0144 410. Relacja na \u017cywo - rp.plRzeczpospolitahttps://www.rp.pl \u203a konflikty-zbrojne",
+        "content": "\u015awiatu, kt\u00f3ry ceni \u017cycie, szacunek i r\u00f3wno\u015b\u0107 ka\u017cdego cz\u0142owieka.\" I congratulate Ukrainians, all Christians celebrating Easter today. At\u00a0...",
+        "size": [
+          108,
+          108
+        ],
+        "date": "2023:04:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://galaxiamilitar.es/rusia-podria-proponer-un-alto-el-fuego-para-frenar-la-contraofensiva-ucraniana/",
+        "title": "Rusia podr\u00eda proponer un alto el fuego para frenar la ...Galaxia Militarhttps://galaxiamilitar.es \u203a rusia-podr...",
+        "content": "... (RPG) desde un lanzador. Art\u00edculos Noticias Tierra. Rusia podr\u00eda proponer un alto el fuego para frenar la contraofensiva ucraniana. 10 abril\u00a0...",
+        "size": [
+          1000,
+          668
+        ],
+        "date": "2023:04:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldebate.com/internacional/20230410/que-revelan-sobre-ucrania-documentos-ultrasecretos-filtrados-internet_106885.html",
+        "title": "Qu\u00e9 revelan sobre Ucrania los documentos ultrasecretos ...El Debatehttps://www.eldebate.com \u203a que-rev...",
+        "content": "",
+        "size": [
+          120,
+          90
+        ],
+        "date": "2023:04:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldebate.com/internacional/20230410/pascua-triste-perspectivas-paz-pierden_106655.html",
+        "title": "La Pascua triste: las perspectivas de paz se pierden - El DebateEl Debatehttps://www.eldebate.com \u203a pascua-...",
+        "content": "",
+        "size": [
+          120,
+          90
+        ],
+        "date": "2023:04:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.publico.es/internacional/ue-estanca-compra-conjunta-municion-crucial-ofensiva-primavera-ucrania.html",
+        "title": "La UE se estanca en la compra conjunta de munici\u00f3n crucial ...Diario P\u00fablicohttps://www.publico.es \u203a internacional",
+        "content": "",
+        "size": [
+          300,
+          180
+        ],
+        "date": "2023:04:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsweek.com/russia-ukraine-ceasefire-counteroffensive-orthodox-easter-1793377",
+        "title": "Russia May Propose Ceasefire in Bid to Stop Ukraine ...Newsweekhttps://www.newsweek.com \u203a ... \u203a Orthodox Christianity",
+        "content": "Ukrainian Serviceman Donetsk. A Ukrainian serviceman prepares to fire a rocket-propelled grenade (RPG) from a launcher during a training\u00a0...",
+        "size": [
+          1600,
+          900
+        ],
+        "date": "2023:04:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.ntdtv.com/b5/2023/04/11/a103687983.html",
+        "title": "\u518d\u73fe\u91cd\u5927\u6d29\u5bc6\u6848\u7f8e\u6025\u67e5\u4f86\u6e90\u8a55\u4f30\u5c0d\u570b\u5b89\u5f71\u97ff - \u65b0\u5510\u4eba\u96fb\u8996\u53f0\u65b0\u5510\u4eba\u96fb\u8996\u53f0https://www.ntdtv.com \u203a 2023/04/11",
+        "content": "",
+        "size": [
+          360,
+          202
+        ],
+        "date": "2023:04:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://koran-jakarta.com/rusia-dapat-mengajukan-gencatan-senjata-demi-menghentikan-serangan-balik-ukraina",
+        "title": "Rusia Dapat Mengajukan Gencatan Senjata Demi ...Koran-Jakarta.comhttps://koran-jakarta.com \u203a rusia-da...",
+        "content": "Prajurit Ukraina bersiap untuk menembakkan granat berpeluncur roket (RPG) selama latihan di wilayah Donetsk pada 7 April 2023, di tengah invasi\u00a0...",
+        "size": [
+          450,
+          308
+        ],
+        "date": "2023:04:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.publico.es/internacional/pentagono-admite-filtraciones-guerra-ucrania-suponen-grave-riesgo-seguridad-eeuu.html",
+        "title": "El Pent\u00e1gono admite que las filtraciones sobre la guerra en ...Diario P\u00fablicohttps://www.publico.es \u203a internacional",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:04:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.ntdtv.com/gb/2023/04/11/a103688105.html",
+        "title": "\u4e94\u89d2\u5927\u697c\u6cc4\u5bc6\u4e8b\u4ef6\u7f8e\u56fd\u5df2\u622a\u83b7\u4fc4\u7f57\u65af\u653b\u51fb\u8ba1\u5212\u65b0\u5510\u4eba\u96fb\u8996\u53f0https://www.ntdtv.com \u203a 2023/04/11",
+        "content": "",
+        "size": [
+          192,
+          108
+        ],
+        "date": "2023:04:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilgazzettino.it/esteri/missile_nucleare_putin_joe_biden_guerra_ucraina-7339355.html",
+        "title": "Putin accoglie Biden in Europa con un missile ... - Il GazzettinoIl Gazzettinohttps://www.ilgazzettino.it \u203a esteri",
+        "content": "",
+        "size": [
+          140,
+          140
+        ],
+        "date": "2023:04:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilgazzettino.it/esteri/come_finira_la_guerra_morte_putin_zelensky_attacco_ucraina-7339847.html",
+        "title": "Come finir\u00e0 la guerra? Dalla morte di Putin o Zelensky all ...Il Gazzettinohttps://www.ilgazzettino.it \u203a esteri",
+        "content": "",
+        "size": [
+          227,
+          124
+        ],
+        "date": "2023:04:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.publico.es/internacional/ultima-filtracion-documentos-pentagono-cinco-claves.html",
+        "title": "La \u00faltima filtraci\u00f3n de documentos del Pent\u00e1gono en cinco ...Diario P\u00fablicohttps://www.publico.es \u203a internacional",
+        "content": "",
+        "size": [
+          300,
+          180
+        ],
+        "date": "2023:04:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilmessaggero.it/mondo/guerra_ucraina_diretta_oggi_12_aprile_nucleare_controffensiva_russia_missili_italia_che_cosa_sappiamo_spiegato_bene-7339064.html",
+        "title": "I russi hanno decapitato due militari ucraini, il mondo reagisca\u00bb.Il Messaggerohttps://www.ilmessaggero.it \u203a mondo",
+        "content": "",
+        "size": [
+          227,
+          124
+        ],
+        "date": "2023:04:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilgazzettino.it/esteri/pentagono_documenti_rubati_pubblicati_online_talpa_chi_e-7341236.html",
+        "title": "Documenti rubati agli Usa, ecco la talpa del PentagonoIl Gazzettinohttps://www.ilgazzettino.it \u203a esteri",
+        "content": "",
+        "size": [
+          227,
+          124
+        ],
+        "date": "2023:04:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilmattino.it/primopiano/esteri/talpa_pentagono_chi_e_documenti_rubati_usa-7341212.html",
+        "title": "Documenti rubati agli Usa, ecco la talpa del PentagonoIl Mattinohttps://www.ilmattino.it \u203a ... \u203a Esteri",
+        "content": "",
+        "size": [
+          140,
+          140
+        ],
+        "date": "2023:04:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.strategicstudyindia.com/2023_04_13_archive.html",
+        "title": "04/13/23 - Indian Strategic StudiesIndian Strategic Studieshttps://www.strategicstudyindia.com \u203a 2023_04_13_ar...",
+        "content": "In the war in Ukraine, artillery has emerged as perhaps the signature weapon of war, and that reality is likely to continue for the foreseeable\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": "2023:04:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilmessaggero.it/mondo/jack_teixeira_talpa_documenti_guerra_usa_nato_ucraina_russia_ultime_notizie-7341829.html",
+        "title": "Jack Teixeira, chi \u00e8 la talpa di 21 anni che ha beffato gli 007 ...Il Messaggerohttps://www.ilmessaggero.it \u203a mondo",
+        "content": "Nella stanza creata per fanatici di war games, giochi di guerra, lui ... La stanza su Russia e Ucraina era stata ribattezzata \u201cOrso e maiale\u201d.",
+        "size": [
+          227,
+          124
+        ],
+        "date": "2023:04:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.blacklistednews.com/article/84543/more-doubts-about-the-leaked-briefing.html",
+        "title": "More Doubts About The 'Leaked' Briefing SlidesBlackListed Newshttps://www.blacklistednews.com \u203a article \u203a more-dou...",
+        "content": "A stalemate also will result in Ukraine enacting the \u201cfull mobilization\u201d of its remaining eligible population, the document predicts, sending\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:04:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://video.tribunnews.com/view/595837/rusia-sebut-amerika-serikat-sedang-ciptakan-senjata-biologis-di-perbatasan-ukraina-kini-lapor-pbb",
+        "title": "Rusia Sebut Amerika Serikat Sedang Ciptakan 'Senjata ...Tribun Videohttps://video.tribunnews.com \u203a view \u203a rusia-sebut-ame...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:04:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.businessinsider.com/western-officers-facetime-ukrainian-troops-help-teach-using-weapons-2023-4",
+        "title": "Western Officers FaceTime With Ukrainian Troops to Help ...Business Insiderhttps://www.businessinsider.com \u203a western-officers-fac...",
+        "content": "A Ukrainian serviceman fires a rocket-propelled grenade (RPG) from a launcher during a training exercise in the Donetsk region on April 7,\u00a0...",
+        "size": [
+          750,
+          563
+        ],
+        "date": "2023:04:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://pontofinal-macau.com/2023/04/21/a-diplomacia-assertiva-da-china-em-plena-oscilacao-uma-luz-ao-fundo-do-tunel-na-guerra-russo-ucraniana/",
+        "title": "A Diplomacia Assertiva da China em plena oscila\u00e7\u00e3opontofinal-macau.comhttps://pontofinal-macau.com \u203a Opini\u00e3o",
+        "content": "",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:04:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://thanhnien.vn/ukraine-giuong-dong-kich-tay-185230425180615377.htm",
+        "title": "Ukraine 'gi\u01b0\u01a1ng \u0111\u00f4ng, k\u00edch t\u00e2y'? - B\u00e1o Thanh Ni\u00eanB\u00e1o Thanh Ni\u00eanhttps://thanhnien.vn \u203a ... \u203a Qu\u00e2n s\u1ef1",
+        "content": "Theo \u0111\u00e0i CNN, Kyiv d\u01b0\u1eddng nh\u01b0 ng\u00e0y c\u00e0ng k\u00edn ti\u1ebfng h\u01a1n v\u1ec1 ho\u1ea1t \u0111\u1ed9ng qu\u00e2n s\u1ef1. Th\u1ee9 tr\u01b0\u1edfng Qu\u1ed1c ph\u00f2ng Ukraine Hanna Maliar tu\u1ea7n tr\u01b0\u1edbc nh\u1ea5n m\u1ea1nh r\u1eb1ng\u00a0...",
+        "size": [
+          1500,
+          844
+        ],
+        "date": "2023:04:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.irna.ir/news/85095040/%DA%A9%DB%8C-%DB%8C%D9%81-%D8%B2%DB%8C%D8%B1-%D8%A2%D8%AA%D8%B4-%D8%AC%D9%86%DA%AF-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%DB%B1%DB%B2-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86%DB%8C-%D9%88-%D8%A7%D9%86%D9%87%D8%AF%D8%A7%D9%85-%DB%B2%DB%B1-%D9%85%D9%88%D8%B4%DA%A9-%D9%88-%DB%B2",
+        "title": "\u06a9\u06cc\u200c\u06cc\u0641 \u0632\u06cc\u0631 \u0622\u062a\u0634 \u062c\u0646\u06af/ \u06a9\u0634\u062a\u0647 \u0634\u062f\u0646 \u06f1\u06f2 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646\u06cc \u0648 \u0627\u0646\u0647\u062f\u0627\u0645 \u06f2\u06f1 \u0645\u0648\u0634\u06a9 \u0648 \u06f2 ...Islamic Republic News Agencyhttps://www.irna.ir \u203a news \u203a \u06a9\u06cc-\u06cc...",
+        "content": "\u062a\u0647\u0631\u0627\u0646- \u0627\u06cc\u0631\u0646\u0627- \u0645\u0642\u0627\u0645\u200c\u0647\u0627\u06cc \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0628\u0627 \u0627\u0639\u0644\u0627\u0645 \u0627\u06cc\u0646\u06a9\u0647 \u06f2\u06f1 \u0645\u0648\u0634\u06a9 \u06a9\u0631\u0648\u0632 \u0648 \u06f2 \u067e\u0647\u0628\u0627\u062f \u0631\u0648\u0633 \u0631\u0627 \u062f\u0631 \u062d\u0645\u0644\u0647\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u06a9\u06cc\u200c\u06cc\u0641 \u0648 \u062f\u06cc\u06af\u0631 \u0634\u0647\u0631\u0647\u0627\u06cc \u0627\u06cc\u0646 \u06a9\u0634\u0648\u0631 \u0637\u06cc \u0634\u0628\u0627\u0646\u0647 \u0631\u0648\u0632\u00a0...",
+        "size": [
+          180,
+          120
+        ],
+        "date": "2023:04:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://sahebkhabar.ir/news/59909280/%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%DA%A9%DB%8C-%DB%8C%D9%81-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%BA%D8%A7%D8%B2-%DB%8C%DA%A9-%D8%B6%D8%AF%D8%AD%D9%85%D9%84%D9%87-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D9%85%D9%87%D9%85%D8%A7%D8%AA-%D9%88-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%D8%A7%D9%86%D8%AF%DA%A9",
+        "title": "\u0686\u0627\u0644\u0634\u200c\u0647\u0627\u06cc \u06a9\u06cc\u200c\u06cc\u0641 \u0628\u0631\u0627\u06cc \u0622\u063a\u0627\u0632 \u06cc\u06a9 \u0636\u062f\u062d\u0645\u0644\u0647\u061b \u06a9\u0645\u0628\u0648\u062f \u0645\u0647\u0645\u0627\u062a \u0648 \u062a\u062c\u0631\u0628\u0647 \u0627\u0646\u062f\u06a9\u0635\u0627\u062d\u0628\u200c\u062e\u0628\u0631https://sahebkhabar.ir \u203a news \u203a \u0686\u0627\u0644...",
+        "content": "\u062a\u0647\u0631\u0627\u0646- \u0627\u06cc\u0631\u0646\u0627- \u0633\u0641\u06cc\u0631 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u062f\u0631 \u0622\u0644\u0645\u0627\u0646 \u0628\u0627 \u0627\u0634\u0627\u0631\u0647 \u0628\u0647 \u0628\u0631\u0646\u0627\u0645\u0647 \u06a9\u06cc\u200c\u06cc\u0641 \u0628\u0631\u0627\u06cc \u0622\u063a\u0627\u0632 \u0639\u0645\u0644\u06cc\u0627\u062a \u0636\u062f\u062d\u0645\u0644\u0647 \u0639\u0644\u06cc\u0647 \u0631\u0648\u0633\u06cc\u0647 \u06af\u0641\u062a \u06a9\u0647 \u06a9\u0634\u0648\u0631\u0634 \u0628\u0647 \u062a\u0633\u0644\u06cc\u062d\u0627\u062a \u0648 \u062a\u062c\u0647\u06cc\u0632\u0627\u062a \u0646\u0638\u0627\u0645\u06cc\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:04:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.irna.ir/news/85095979/%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%DA%A9%DB%8C-%DB%8C%D9%81-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%BA%D8%A7%D8%B2-%DB%8C%DA%A9-%D8%B6%D8%AF%D8%AD%D9%85%D9%84%D9%87-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D9%85%D9%87%D9%85%D8%A7%D8%AA-%D9%88-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%D8%A7%D9%86%D8%AF%DA%A9",
+        "title": "\u0686\u0627\u0644\u0634\u200c\u0647\u0627\u06cc \u06a9\u06cc\u200c\u06cc\u0641 \u0628\u0631\u0627\u06cc \u0622\u063a\u0627\u0632 \u06cc\u06a9 \u0636\u062f\u062d\u0645\u0644\u0647\u061b \u06a9\u0645\u0628\u0648\u062f \u0645\u0647\u0645\u0627\u062a \u0648 \u062a\u062c\u0631\u0628\u0647 \u0627\u0646\u062f\u06a9Islamic Republic News Agencyhttps://www.irna.ir \u203a news \u203a \u0686\u0627\u0644\u0634-\u0647\u0627...",
+        "content": "\u062a\u0647\u0631\u0627\u0646- \u0627\u06cc\u0631\u0646\u0627- \u0633\u0641\u06cc\u0631 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u062f\u0631 \u0622\u0644\u0645\u0627\u0646 \u0628\u0627 \u0627\u0634\u0627\u0631\u0647 \u0628\u0647 \u0628\u0631\u0646\u0627\u0645\u0647 \u06a9\u06cc\u200c\u06cc\u0641 \u0628\u0631\u0627\u06cc \u0622\u063a\u0627\u0632 \u0639\u0645\u0644\u06cc\u0627\u062a \u0636\u062f\u062d\u0645\u0644\u0647 \u0639\u0644\u06cc\u0647 \u0631\u0648\u0633\u06cc\u0647 \u06af\u0641\u062a \u06a9\u0647 \u06a9\u0634\u0648\u0631\u0634 \u0628\u0647 \u062a\u0633\u0644\u06cc\u062d\u0627\u062a \u0648 \u062a\u062c\u0647\u06cc\u0632\u0627\u062a \u0646\u0638\u0627\u0645\u06cc\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:04:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.irna.ir/news/85098396/%D8%B1%D8%A7%DB%8C%D8%B2%D9%86%DB%8C-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D9%88-%D9%86%D8%A7%D8%AA%D9%88-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B6%D8%AF%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%88-%D8%B3%D9%86%D8%A7%D8%B1%DB%8C%D9%88%D9%87%D8%A7%DB%8C",
+        "title": "\u0631\u0627\u06cc\u0632\u0646\u06cc \u0645\u0642\u0627\u0645\u0627\u062a \u0646\u0638\u0627\u0645\u06cc \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0648 \u0646\u0627\u062a\u0648 \u062f\u0631\u0628\u0627\u0631\u0647 \u0636\u062f\u062d\u0645\u0644\u0627\u062a \u0648 \u0633\u0646\u0627\u0631\u06cc\u0648\u0647\u0627\u06cc ...Islamic Republic News Agencyhttps://www.irna.ir \u203a news \u203a \u0631\u0627\u06cc\u0632\u0646\u06cc...",
+        "content": "\u062a\u0647\u0631\u0627\u0646-\u0627\u06cc\u0631\u0646\u0627- \u06cc\u06a9 \u0631\u0633\u0627\u0646\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646\u06cc \u06af\u0632\u0627\u0631\u0634 \u062f\u0627: \u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0645\u0633\u0644\u062d \u0627\u0631\u062a\u0634 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0648 \u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u0639\u0627\u0644\u06cc \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0645\u0633\u0644\u062d \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u0622\u0645\u0627\u062f\u06af\u06cc \u0628\u0631\u0627\u06cc \u0636\u062f\u00a0...",
+        "size": [
+          180,
+          120
+        ],
+        "date": "2023:05:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "az",
+        "link": "https://modern.az/dunya/409281/muharibe-olmasaydi-sherh/",
+        "title": "M\u00fcharib\u0259 \u00c7inin maraqlar\u0131na cavab verir - \u015e\u018fRH - Modern.azModern.azhttps://modern.az \u203a dunya \u203a muhari...",
+        "content": "",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:05:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://thanhnien.vn/chien-su-toi-55-my-tap-trung-ho-tro-phong-khong-cho-ukraine-18523050517230558.htm",
+        "title": "Chi\u1ebfn s\u1ef1 t\u1ed1i 5.5: M\u1ef9 t\u1eadp trung h\u1ed7 tr\u1ee3 ph\u00f2ng kh\u00f4ng cho UkraineB\u00e1o Thanh Ni\u00eanhttps://thanhnien.vn \u203a ... \u203a Qu\u00e2n s\u1ef1",
+        "content": "L\u1ef1c l\u01b0\u1ee3ng Nga \u0111\u00e3 ti\u1ebfn h\u00e0nh nhi\u1ec1u \u0111\u1ee3t t\u1ea5n c\u00f4ng \u1ed3 \u1ea1t b\u1eb1ng t\u00ean l\u1eeda v\u00e0 UAV t\u1ea1i Ukraine trong v\u00e0i ng\u00e0y qua. Kh\u00f4ng qu\u00e2n Ukraine cho bi\u1ebft \u0111\u00e3 b\u1eafn r\u01a1i\u00a0...",
+        "size": [
+          1500,
+          844
+        ],
+        "date": "2023:05:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://thanhnien.vn/nga-canh-bao-ukraine-ve-hau-qua-nang-ne-neu-phan-cong-185230505123723153.htm",
+        "title": "Nga c\u1ea3nh b\u00e1o Ukraine v\u1ec1 h\u1eadu qu\u1ea3 n\u1eb7ng n\u1ec1 n\u1ebfu ph\u1ea3n c\u00f4ngB\u00e1o Thanh Ni\u00eanhttps://thanhnien.vn \u203a ... \u203a Th\u1ebf gi\u1edbi",
+        "content": "Th\u1ee9 tr\u01b0\u1edfng Ngo\u1ea1i giao Nga Mikhail Galuzin h\u00f4m 4.5 tuy\u00ean b\u1ed1 d\u00f9 Ukraine \u0111ang \u0111\u01b0\u1ee3c ph\u01b0\u01a1ng T\u00e2y kh\u1ea9n tr\u01b0\u01a1ng b\u01a1m v\u0169 kh\u00ed nh\u1eb1m chu\u1ea9n b\u1ecb cho m\u1ed9t cu\u1ed9c\u00a0...",
+        "size": [
+          214,
+          134
+        ],
+        "date": "2023:05:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://thanhnien.vn/xung-dot-ukraine-leo-thang-sau-vu-tan-cong-kremlin-185230506014322878.htm",
+        "title": "Xung \u0111\u1ed9t Ukraine leo thang sau v\u1ee5 't\u1ea5n c\u00f4ng Kremlin'B\u00e1o Thanh Ni\u00eanhttps://thanhnien.vn \u203a Th\u1ebf gi\u1edbi",
+        "content": "Gi\u1edbi ch\u1ee9c Nga \u0111\u00e3 k\u00eau g\u1ecdi s\u1eed d\u1ee5ng v\u0169 kh\u00ed h\u1ea1t nh\u00e2n chi\u1ebfn thu\u1eadt \u0111\u1ec3 \u0111\u00e1p tr\u1ea3 Ukraine sau v\u1ee5 t\u1ea5n c\u00f4ng m\u00e0 Kyiv ph\u1ee7 nh\u1eadn li\u00ean quan.",
+        "size": [
+          1500,
+          844
+        ],
+        "date": "2023:05:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cronicadigital.cl/2023/05/09/ucrania-contraofensiva-para-la-victoria-o-para-una-negociacion-honrosa/",
+        "title": "Ucrania \u00bfcontraofensiva para la victoria\u2026 o ... - Cr\u00f3nica Digitalcr\u00f3nica digital.clhttps://www.cronicadigital.cl \u203a ucra...",
+        "content": "",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2023:05:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.sohu.com/a/678762481_100145375",
+        "title": "\u4fc4\u519b\u6ca1\u6709\u5b9e\u73b0\u53bb\u519b\u4e8b\u5316\uff0c\u53cd\u800c\u4e4c\u519b\u8d8a\u6253\u8d8a\u5f3a - \u641c\u72d0Sohuhttps://www.sohu.com \u203a ...",
+        "content": "",
+        "size": [
+          1280,
+          875
+        ],
+        "date": "2023:05:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.plenglish.com/news/2023/06/05/large-scale-ukrainian-offensive-in-donetsk-fails/",
+        "title": "Large-scale Ukrainian offensive in Donetsk fails - Prensa LatinaLatin American News Agencyhttps://www.plenglish.com \u203a 2023 \u203a June \u203a 5",
+        "content": "Moscow, Jun 5 (Prensa Latina) The Ukrainian army failed in a large-scale offensive in five sectors of the front in the south of the Donetsk\u00a0...",
+        "size": [
+          1024,
+          448
+        ],
+        "date": "2023:06:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cronicadigital.cl/2023/06/05/museo-de-la-memoria-recoge-la-expresion-grafica-callejera-de-los-ultimos-50-anos/",
+        "title": "Museo de la Memoria recoge la expresi\u00f3n gr\u00e1fica callejera de ...cr\u00f3nica digital.clhttps://www.cronicadigital.cl \u203a muse...",
+        "content": "",
+        "size": [
+          640,
+          280
+        ],
+        "date": "2023:06:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldebate.com/internacional/20230605/rusia-confirma-inicio-contraofensiva-ucraniana-tanques-leopard-cabeza_119515.html",
+        "title": "Rusia confirma el inicio de la contraofensiva ucraniana con ...El Debatehttps://www.eldebate.com \u203a rusia-co...",
+        "content": "Con lo guapos que est\u00e1is callados. Andr\u00e9s Carevic \u2022 Hace 5 meses. los tanques leopard son chatarra alemana, vuelan en pedazos con RPG-7.",
+        "size": [
+          120,
+          90
+        ],
+        "date": "2023:06:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.prensa-latina.cu/2023/06/05/fracasa-ofensiva-ucraniana-a-gran-escala-en-donetsk",
+        "title": "Fracasa ofensiva ucraniana a gran escala en DonetskPrensa Latinahttps://www.prensa-latina.cu \u203a ... \u203a 5",
+        "content": "",
+        "size": [
+          1024,
+          448
+        ],
+        "date": "2023:06:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://urbanity.one/t/fuerzas-armadas-espana/2569?page=6",
+        "title": "Fuerzas Armadas | Espa\u00f1a - Urbanityurbanity.onehttps://urbanity.one \u203a fuerzas-armad...",
+        "content": "The arrival of new units could be pivotal. But progress has been slow for Ukraine in the early stage of its counteroffensive. Dentro de este\u00a0...",
+        "size": [
+          400,
+          400
+        ],
+        "date": "2023:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Does-Russia-still-use-RPG",
+        "title": "Does Russia still use RPG? - QuoraQuorahttps://www.quora.com \u203a Does-Russia-still-use-RPG",
+        "content": "More results from www.quora.com",
+        "size": [
+          602,
+          276
+        ],
+        "date": "2023:07:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedefensepost.com/2023/08/10/ukraine-training-advanced-weapons/",
+        "title": "Ukrainian Troops Not Getting Adequate Training on Advanced ...The Defense Posthttps://www.thedefensepost.com \u203a Europe",
+        "content": "Ukraine RPG Ukrainian soldiers prepare to fire a rocket-propelled grenade from a launcher during a training exercise in the Donetsk region.",
+        "size": [
+          1200,
+          550
+        ],
+        "date": "2023:08:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/why-in-ukrainian",
+        "title": "Why In Ukrainian - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a why-in-ukrainian",
+        "content": "Ukraine's Outpost: Dnipropetrovsk and the Russian-Ukrainian ... image. Ukraine: Conflict at the Crossroads of Europe and Russia ... Ukraine's\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": "2023:08:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://galaxiamilitar.es/un-dron-bayraktar-tb2-destruye-el-barco-de-transporte-ruso-ks-701-tuna/",
+        "title": "Un dron Bayraktar TB2 destruye el barco de transporte ruso ...Galaxia Militarhttps://galaxiamilitar.es \u203a un-dron-b...",
+        "content": "#Ukraine: After time absent, the Ukrainian Bayraktar TB2 UCAV is back \u2013 a Russian KS-701 patrol boat unloading equipment was destroyed by a\u00a0...",
+        "size": [
+          390,
+          205
+        ],
+        "date": "2023:09:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedefensepost.com/2023/09/06/us-concerned-ukraine-tactics/",
+        "title": "US 'Increasingly Concerned' With Ukraine Battlefield Tactics ...The Defense Posthttps://www.thedefensepost.com \u203a Americas",
+        "content": "US officials have expressed concerns regarding the battlefield tactics Ukraine is using to combat invading Russian forces.",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:09:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://angelnetworknews.com/us-increasingly-concerned-with-ukraine-battlefield-tactics-against-russia/",
+        "title": "US 'Increasingly Concerned' With Ukraine Battlefield Tactics ...Angel Network Newshttps://angelnetworknews.com \u203a World",
+        "content": "US officials have expressed concerns regarding the battlefield tactics Ukraine is using to combat invading Russian forces.",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.irna.ir/news/85234383/%D8%A7%D9%86%D9%87%D8%AF%D8%A7%D9%85-%D9%85%D9%87%D9%85%D8%A7%D8%AA-%D8%A7%D9%88%D8%B1%D8%A7%D9%86%DB%8C%D9%88%D9%85-%D8%B6%D8%B9%DB%8C%D9%81-%D8%B4%D8%AF%D9%87-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%AA%D9%88%D8%B3%D8%B7-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
+        "title": "\u0627\u0646\u0647\u062f\u0627\u0645 \u0645\u0647\u0645\u0627\u062a \u0627\u0648\u0631\u0627\u0646\u06cc\u0648\u0645 \u0636\u0639\u06cc\u0641 \u0634\u062f\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u062a\u0648\u0633\u0637 \u0627\u0631\u062a\u0634 \u0631\u0648\u0633\u06cc\u0647 - \u0627\u06cc\u0631\u0646\u0627Islamic Republic News Agencyhttps://www.irna.ir \u203a news \u203a \u0627\u0646\u0647\u062f\u0627\u0645-\u0645\u0647...",
+        "content": "\u062a\u0647\u0631\u0627\u0646-\u0627\u06cc\u0631\u0646\u0627- \u0648\u0632\u0627\u0631\u062a \u062f\u0641\u0627\u0639 \u0631\u0648\u0633\u06cc\u0647 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u06a9\u0647 \u0637\u06cc \u0631\u0648\u0632\u0647\u0627\u06cc \u06af\u0630\u0634\u062a\u0647 \u062a\u0627\u0633\u06cc\u0633\u0627\u062a \u0648 \u062a\u062c\u0647\u06cc\u0632\u0627\u062a \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u062e\u0627\u0631\u062c\u06cc \u062d\u0627\u0636\u0631 \u062f\u0631 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0627\u0632 \u062c\u0645\u0644\u0647 \u0645\u0647\u0645\u0627\u062a\u06cc \u0628\u0627\u00a0...",
+        "size": [
+          180,
+          120
+        ],
+        "date": "2023:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://galaxiamilitar.es/ucrania-despliega-por-fin-sus-antiguos-obuses-archer-suecos/",
+        "title": "Ucrania despliega por fin sus antiguos obuses Archer suecos.Galaxia Militarhttps://galaxiamilitar.es \u203a ucrania-de...",
+        "content": "",
+        "size": [
+          390,
+          205
+        ],
+        "date": "2023:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedefensepost.com/2023/11/07/ukraine-bracing-assault-avdiivka/",
+        "title": "Ukraine Bracing for New Russian Assault on AvdiivkaThe Defense Posthttps://www.thedefensepost.com \u203a Europe",
+        "content": "... Ukrainian soldiers prepare to fire a rocket-propelled grenade from a launcher. Photo: GENYA SAVILOV/AFP. Home/Europe\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedefensepost.com/2023/11/07/f-16s-romania-train-ukrainian-pilots/",
+        "title": "First F-16s Sent to Romania to Train Ukrainian Pilots: DutchThe Defense Posthttps://www.thedefensepost.com \u203a Europe",
+        "content": "The Netherlands sent its first five F-16 fighter jets to Romania where the planes will be used to train Ukrainian and Romanian pilots.",
+        "size": [
+          220,
+          150
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cronicadigital.cl/2023/11/13/presidente-ucraniano-promete-ofensiva-para-agradar-a-occidente/",
+        "title": "Presidente ucraniano promete ofensiva para agradar a ...cr\u00f3nica digital.clhttps://www.cronicadigital.cl \u203a presi...",
+        "content": "",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.uk/photos/rpg-7-rocket-launcher",
+        "title": "89 Rpg 7 Rocket Launcher Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.co.uk \u203a photos \u203a rpg-7-rocke...",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic Rpg 7 Rocket Launcher stock photos, royalty-free images, and pictures.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://printouch.biz/?e=ukrainian-troops-spotted-with-american-made-but-russian-styled-hh-ZP08l7S9",
+        "title": "Ukrainian Troops Spotted With American-made, But, 45% OFFprintouch.bizhttps://printouch.biz \u203a m4 rpg",
+        "content": "Ukraine Purchases American-Made RPG-7 Launchers Here is a video showing the Ukrainian National Guard soldiers testing the newly received PSRL (Precision\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://homiletica.com.br/ebk-1-esb-aula/?q=rebels-have-reportedly-begun-using-this-rpg-against-ukrainian-oo-GW11M6hR",
+        "title": "Rebels Have Reportedly Begun Using This RPG Against, 54 ...homiletica.com.brhttps://homiletica.com.br \u203a Home \u203a rpg 27",
+        "content": "Rebels Have Reportedly Begun Using This RPG Against Ukrainian Forces, Model available for download in OBJ Visit CGTrader and browse more than million 3D\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://camara.cristianodantas.com.br/?y=ukrainian-troops-spotted-with-american-made-but-russian-styled-dd-gAz1JbS1",
+        "title": "Ukrainian Troops Spotted With American-made, But, 57% OFFcristianodantas.com.brhttps://camara.cristianodantas.com.br \u203a us made rpg",
+        "content": "Ukrainian troops spotted with American-made, but Russian-styled, Here's where they came, RPG-7 soviet individual fireearms (hand-held anti-tank grenade\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.uk/photos/rpg-7-rocket",
+        "title": "267 Rpg 7 Rocket Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.co.uk \u203a photos \u203a rpg-7-rocket",
+        "content": "children playing role play game as astronauts on mars. ... Ukrainian serviceman fires a rocket-propelled grenade from a launcher during\u00a0...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/military-grenade-launcher",
+        "title": "872 Military Grenade Launcher Stock Photos & High-Res ...Getty Imageshttps://www.gettyimages.com \u203a photos \u203a military-gren...",
+        "content": "An Ukrainian solider seen posing for a photo with his RPG launcher.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ca/photos/military-grenade-launcher",
+        "title": "869 Military Grenade Launcher Stock Photos & High-Res ...Getty Imageshttps://www.gettyimages.ca \u203a photos \u203a military-grenad...",
+        "content": "An Ukrainian solider seen posing for a photo with his RPG launcher.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sign.support/?u=rpg-7-the-60-year-old-enemy-of-the-pp-zlA6NzUO",
+        "title": "RPG-7 The 60-year Old Enemy Of The Armour, 40% OFFsign.supporthttps://www.sign.support \u203a og-7v gun",
+        "content": "RPG-7 The 60-year old enemy of the armour. Are American-Made RPG-7s in Ukraine Taking Down Russian Tanks? The Armory Life. inside you have igs iges stp \u0431\u043e\u043b\u044c\u0448\u0435\u00a0...",
+        "size": [
+          602,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sotsu.co.jp/?k=ukrainian-troops-training-with-us-electronic-jamming-kit-pp-XA8w5kIO",
+        "title": "Ukrainian troops training with US electronic jamming kitsotsu.co.jphttps://www.sotsu.co.jp \u203a ukrainian army helmet",
+        "content": "EU launches military training mission for Ukraine's armed forces Russia-Ukraine war News Al Jazeera.",
+        "size": [
+          1200,
+          550
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ie/photos/military-grenade-launcher",
+        "title": "883 Military Grenade Launcher Stock Photos and High-res ...Getty Imageshttps://www.gettyimages.ie \u203a photos \u203a military-grenad...",
+        "content": "An Ukrainian solider seen posing for a photo with his RPG launcher.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://eventos-virtuales.ievents.mx/rpg-7-the-60-year-old-enemy-of-the-jj-5Xlw7DFO",
+        "title": "RPG-7 The 60-year Old Enemy Of The Armour - iEventsievents.mxhttps://eventos-virtuales.ievents.mx \u203a og-7v gun",
+        "content": "Are American-Made RPG-7s in Ukraine Taking Down Russian Tanks? The Armory ... Russia soviet era combat grenade Diagram of Russia's RPG-7 with. RPG-7 The 60\u00a0...",
+        "size": [
+          602,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.in/photos/military-grenade-launcher",
+        "title": "906 Military Grenade Launcher Stock Photos and High-res ...Getty Imageshttps://www.gettyimages.in \u203a photos \u203a military-grenad...",
+        "content": "An Ukrainian solider seen posing for a photo with his RPG launcher.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsweek.com/topic/russia-ukraine-war?page=76",
+        "title": "Result Page 76 for Russia-Ukraine War news ... - NewsweekNewsweekhttps://www.newsweek.com \u203a topic \u203a russia-ukraine-war",
+        "content": "A video shared Tuesday purportedly shows two Russian tanks \"spectacularly\" exploding following an attack from Ukraine's 43rd Artillery Brigade. By Aila Slisco\u00a0...",
+        "size": [
+          466,
+          311
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.uk/photos/propelled-grenade",
+        "title": "2183 Propelled Grenade Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.co.uk \u203a photos \u203a propelled-g...",
+        "content": "Ukrainian servicemen carry rocket-propelled grenades and sniper rifles as ... Chadian soldier atop a pick up armed\u00a0...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsweek.com/topic/orthodox-christianity",
+        "title": "Orthodox Christianity news & latest pictures from ... - NewsweekNewsweekhttps://www.newsweek.com \u203a topic \u203a orthodox-christi...",
+        "content": "The shelling of the church in the Ukrainian city of Nikipol came on Orthodox Easter, which is celebrated by millions of Ukrainians. By Andrew Stanton On 4/16/23\u00a0...",
+        "size": [
+          466,
+          311
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://iiitl.ac.in/?k=female-soldiers-in-ukraine-are-wearing-huge-uniforms-and-cc-XwAK90SD",
+        "title": "Female Soldiers In Ukraine Are Wearing 'huge' Uniforms And ...IIIT Lucknowhttps://iiitl.ac.in \u203a ukraine army combat uniform",
+        "content": "Female soldiers in Ukraine are wearing 'huge' uniforms and suffering yeast infections due to a lack of women's resources on the frontlines: report,\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsweek.com/topic/russia?page=68",
+        "title": "Result Page 68 for Russia news & latest pictures ... - NewsweekNewsweekhttps://www.newsweek.com \u203a topic \u203a russia",
+        "content": "Aside from Crimea, Victory Day parades will also not be taking place on May 9 in Russia's Kursk and Belgorod regions, which border Ukraine, their governors\u00a0...",
+        "size": [
+          466,
+          311
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://raymichaels.com/?o=rpg-7-the-60-year-old-enemy-of-the-bb-4K2xyLHl",
+        "title": "RPG-7 The 60-year Old Enemy Of The Armour, 53% OFFraymichaels.comhttps://raymichaels.com \u203a og-7v gun",
+        "content": "RPG-7 Rocket that's ACTUALLY A GUN in Minute #Shorts. RPG-7 The 60-year old enemy of the armour. Are American-Made RPG-7s in Ukraine Taking Down Russian\u00a0...",
+        "size": [
+          602,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aic-prestigeinspirefoundation.in/?g=female-soldiers-in-ukraine-are-wearing-huge-uniforms-and-aa-3YwbgAi5",
+        "title": "Female Soldiers In Ukraine Are Wearing 'huge' Uniforms And ...AIC-PRESTIGEhttps://www.aic-prestigeinspirefoundation.in \u203a ...",
+        "content": "Female soldiers in Ukraine are wearing 'huge' uniforms and suffering yeast infections due to a lack of women's resources on the frontlines: report,\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=1P6K1gNOMVI",
+        "title": "Documents Containing Kyiv's Counteroffensive Plans 'Leaked ...YouTube\u00a0\u00b7\u00a0TIMES NOW1.5K+ views  \u00b7  7 months ago",
+        "content": "Russia War Live : Reports surfaced that classified documents laying out Ukraine's counteroffensive plans were leaked.",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://beautycharmbox.com/?o=mexican-army-rpg-29-how-why-did-they-get-vv-9mLYL0FZ",
+        "title": "Mexican Army RPG-29 How/Why Did They Get Them?, 40 ...beautycharmbox.comhttps://beautycharmbox.com \u203a rpg29-25b",
+        "content": "As an infantry man in an anti-tank team, which of these weapons will give you the highest confidence when facing all modern tanks from 1980 onwards: RPG 32,\u00a0...",
+        "size": [
+          602,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pintoinc.com/?e=female-soldiers-in-ukraine-are-wearing-huge-uniforms-and-yy-lB3MoasO",
+        "title": "Female Soldiers In Ukraine Are Wearing 'huge' Uniforms And ...J. Pinto & Associateshttps://www.pintoinc.com \u203a ...",
+        "content": "Female soldiers in Ukraine are wearing 'huge' uniforms and suffering yeast infections due to a lack of women's resources on the frontlines: report,\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=hy3fPD2uoig",
+        "title": "Russia War Live : Documents Containing Kyiv's ... - YouTubeYouTube\u00a0\u00b7\u00a0TIMES NOW4.2K+ views  \u00b7  7 months ago",
+        "content": "Russia War Live : Reports surfaced that classified documents laying out Ukraine's counteroffensive plans were leaked.",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://prabhavshastri.in/but-insufficient-for-full-scale-invasion-Ukrainian-military-4960-69482",
+        "title": "Ukraine Russia crisis: Russian build-up continues, but ...prabhavshastri.inhttps://prabhavshastri.in \u203a but-insufficient-for-full-scal...",
+        "content": "Ukraine Russia crisis: Russian build-up continues, but insufficient for full-scale invasion, Ukrainian military intelligence says | alexei kovalev ukraine\u00a0...",
+        "size": [
+          1200,
+          550
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://heureux-dans-sa-vie.com/comment-devenir-independant-affectivement-au-sein-de-son-couple/?c=ukraine-military-has-eliminated-116-000-russian-troops-report-7-ww-379MJVF4",
+        "title": "Ukraine Military Has Eliminated 116000 Russian Troops: ReportHeureux dans sa viehttps://heureux-dans-sa-vie.com \u203a comment-devenir-i...",
+        "content": "Find many great new used options and get the best deals for Uniform Tactical Helmet 6B7-1M Ratnik Size-3 Invaders War in Ukraine at the best.",
+        "size": [
+          1200,
+          550
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://booking-smartworld.com/?k=rpg-7-the-60-year-old-enemy-of-the-ww-EOMVEBiW",
+        "title": "RPG-7 The 60-year Old Enemy Of The Armour, 52% OFFbooking-smartworld.comhttps://booking-smartworld.com \u203a og-7v gun",
+        "content": "... Russia soviet era combat grenade Diagram of Russia's RPG-7 with. ... Are American-Made RPG-7s in Ukraine Taking Down Russian Tanks? The Armory\u00a0...",
+        "size": [
+          602,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/grenade-weapon",
+        "title": "16368 Grenade Weapon Stock Photos & High-Res PicturesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a grenade-wea...",
+        "content": "Ukrainian servicemen carry rocket-propelled grenades\u00a0...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/propelled-grenade",
+        "title": "2229 Propelled Grenade Stock Photos & High-Res PicturesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a propelled-gre...",
+        "content": "... Russian... Ukrainian servicemen carry rocket-propelled\u00a0...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.twenty4hrdesign.com/War-Latest-News-Analysis-Ukraine-s-Spring-1122-126859",
+        "title": "Russia-Ukraine War Latest News & Analysis: Ukraine's Springtwenty4hrdesign.comhttps://www.twenty4hrdesign.com \u203a War-Latest-News-...",
+        "content": "Russia-Ukraine War Latest News & Analysis: Ukraine's Spring | alexei kovalev ww2 - twenty4hrdesign.com.",
+        "size": [
+          1000,
+          666
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.twenty4hrdesign.com/War-Latest-News-Analysis-Ukraine-s-Spring-1122-126859",
+        "title": "Russia-Ukraine War Latest News & Analysis: Ukraine's Springtwenty4hrdesign.comhttps://www.twenty4hrdesign.com \u203a War-Latest-News-...",
+        "content": "Russia-Ukraine War Latest News & Analysis: Ukraine's Spring | alexei kovalev ww2 - twenty4hrdesign.com.",
+        "size": [
+          1000,
+          666
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.akashdas.co/War-Latest-News-Analysis-Ukraine-s-Spring-2657-113294",
+        "title": "Russia-Ukraine War Latest News & Analysis: Ukraine's Springakashdas.cohttps://www.akashdas.co \u203a War-Latest-News-Analysis-Uk...",
+        "content": "Russia-Ukraine War Latest News & Analysis: Ukraine's Spring | alexei kovalev ww2 - akashdas.co.",
+        "size": [
+          1000,
+          666
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bistro160.com.br/soviet-general-uniform-for-sale-k.html",
+        "title": "Rodeo Possesso Cielo soviet general uniform for sale Punto ...bistro160.com.brhttps://bistro160.com.br \u203a soviet-general-uniform-for-...",
+        "content": "Some Ukrainian Troops Are Still Using Soviet Methods, Despite US\u00a0...",
+        "size": [
+          1200,
+          550
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://colab.research.google.com/drive/1Ukis_7tjF995MF1kjVe-UO3oV5TZpTps",
+        "title": "Special Force Launcher Admin Exe Download - ColaboratoryGoogle Researchhttps://colab.research.google.com \u203a drive",
+        "content": "Russia's Conventional Weapons Are Deadlier Than Its Nukes ... Biden Signs Order Transferring Arms To Ukrainian Defenders > U.S. ...",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/is-war-still-going-on-in-ukraine",
+        "title": "Is War Still Going On In Ukraine Articles - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a is-war-still-going-...",
+        "content": "US experts: Invasion of Ukraine has been 'a disaster' for ... Ukrainians Stand Behind War Effort Despite Some Fatigue photograph. US experts: Invasion of\u00a0...",
+        "size": [
+          860,
+          394
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/how-can-i-join-ukraine-army-from-nigeria",
+        "title": "How Can I Join Ukraine Army From Nigeria Articlesblackshirts.infohttps://blackshirts.info \u203a collection \u203a how-can-i-join-u...",
+        "content": "US, Ukrainian infantry soldiers connect at Combined Resolve ... Russia-Ukraine: Nigerians Join The Ukrainian International ... photograph. US, Ukrainian\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pueblerino.info/best-ukraine-war-podcasts-reddit",
+        "title": "Best Ukraine War Podcasts Reddit - Pu Eble Rinopueblerino.infohttps://pueblerino.info \u203a best-ukraine-war-podcasts-reddit",
+        "content": "Fact Check: Has Russia Lost More Men in Ukraine than U.S. in ... Ukraine Attack by Russia: Hollywood Reactions \u2013 The ... Is time on Ukraine's side?",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gr.linkedin.com/in/theodoros-tzouvelekis-853783a0",
+        "title": "Theodoros TZOUVELEKIS - Financial Officer - Hellenic ArmyLinkedIn\u00a0\u00b7\u00a0Theodoros TZOUVELEKIS230+ followers",
+        "content": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian); Svenska (Swedish); \u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22 (Thai); Tagalog (Tagalog); T\u00fcrk\u00e7e (Turkish); \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 (Ukrainian); \u7b80\u4f53\u4e2d\u6587 (Chinese (Simplified)); \u6b63\u9ad4\u4e2d\u6587\u00a0...",
+        "size": [
+          800,
+          532
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/how-many-u.s.-troops-are-in-ukraine",
+        "title": "How Many Us Troops Are In Ukraine Gallery - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a how-many-...",
+        "content": "US: Over 130,000 Russian Troops Now Staged Outside Ukraine ... Ukraine holds military drills with U.S. forces, NATO allies ... More.",
+        "size": [
+          860,
+          394
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://colab.research.google.com/drive/1hkkY6LoLcEUZVUot63VCMiGAv3vdqzue",
+        "title": "Download Flash Embedded Magazine Reddit - ColaboratoryGoogle Researchhttps://colab.research.google.com \u203a drive",
+        "content": "Leaked War Plans Detail U.S., NATO Efforts to Support Ukraine's ... Bike Dynamos Explained | The Best Dynamo Lights & Hubs Rated ...",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=MC3nf1epRB8",
+        "title": "What is the Real Meaning Of Jihad? - YouTubeYouTube\u00a0\u00b7\u00a0Hasnain Voice1 views  \u00b7  1 week ago",
+        "content": "... , AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400. Lex Fridman New 2.4M views \u00b7 20:51 \u00b7 Go to channel\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gay-fetish-xxx.com/army-leaked.html",
+        "title": "Army Leaked | Gay Fetish XXXGay Fetish XXXhttps://www.gay-fetish-xxx.com \u203a army-leaked",
+        "content": "Army Leaked Inviting Ukraine Agents Pursued Drone Attacks Inside Belarus And Russia Leaked U S Docs Say ... Army Leaked impassioned Ukraine war The leaked war\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.ch/fotos/rpg-armed",
+        "title": "1.814 Rpg Armed Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.ch \u203a fotos",
+        "content": "Ukrainian soldiers from the 28th Brigade practice firing their AK-47 assault rifles and RPGs , as Ukrainian Armed Forces units train for a critical...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.de/fotos/rpg-armed",
+        "title": "1.818 Rpg Armed Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.de \u203a fotos",
+        "content": "Ukrainian soldiers from the 28th Brigade practice firing their AK-47 assault rifles and RPGs , as Ukrainian Armed Forces units train for a critical...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.de/fotos/rpg-7-rocket-launcher",
+        "title": "29 Rpg 7 Rocket Launcher Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.de \u203a fotos",
+        "content": "Finden Sie Stock-Fotos zum Thema Rpg 7 Rocket Launcher sowie redaktionelle Newsbilder von Getty Images ... Ukrainian serviceman fires a rocket-propelled grenade\u00a0...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://ww2.w.gay-fetish-xxx.com/bdsm-documents.html",
+        "title": "Bdsm Documents | Gay Fetish XXXGay Fetish XXXhttp://ww2.w.gay-fetish-xxx.com \u203a bdsm-documents",
+        "content": "",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.ch/fotos/rpg-7-rocket-launcher",
+        "title": "30 Rpg 7 Rocket Launcher Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.ch \u203a fotos",
+        "content": "W\u00e4hlen Sie aus 30 erstklassigen Inhalten zum Thema Rpg 7 Rocket Launcher in h\u00f6chster Qualit\u00e4t ... Ukrainian serviceman fires a rocket-propelled grenade from a\u00a0...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/military-grenade-launcher",
+        "title": "931 fotos e im\u00e1genes de Military Grenade LauncherGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "An Ukrainian solider seen posing for a photo with his RPG launcher.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/military-grenade-launcher",
+        "title": "907 fotos de stock e banco de imagens de Military Grenade ...Getty Imageshttps://www.gettyimages.com.br \u203a ...",
+        "content": "An Ukrainian solider seen posing for a photo with his RPG launcher.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gay-fetish-xxx.com/bdsm-documents.html",
+        "title": "Bdsm Documents | Gay Fetish XXXGay Fetish XXXhttps://www.gay-fetish-xxx.com \u203a bdsm-documents",
+        "content": "",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gay-fetish-xxx.com/german-documents.html",
+        "title": "German Documents | Gay Fetish XXXGay Fetish XXXhttps://www.gay-fetish-xxx.com \u203a german-documents",
+        "content": "",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gay-fetish-xxx.com/german-documents.html",
+        "title": "German Documents | Gay Fetish XXXGay Fetish XXXhttps://www.gay-fetish-xxx.com \u203a german-documents",
+        "content": "",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/soldier-grenade",
+        "title": "7.397 fotos e im\u00e1genes de Soldier Grenade - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "... Ukrainian servicemen carry rocket-propelled grenades\u00a0...",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.francetvinfo.fr/redaction/eric-biegala/",
+        "title": "Eric Biegala - Actualit\u00e9, infos et vid\u00e9os en direct - FranceinfoFranceinfohttps://www.francetvinfo.fr \u203a eric-b...",
+        "content": "Depuis l'attaque de la Russie en Ukraine, les budgets militaires des pays d'Europe explosent. Avec une d\u00e9fense anti-missiles europ\u00e9enne quasi inexistante, l\u00a0...",
+        "size": [
+          432,
+          243
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.at/fotos/military-rocket-launcher",
+        "title": "1.444 Military Rocket Launcher Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.at \u203a fotos",
+        "content": "Ukrainian multiple rocket launcher BM-21 \"Grad\" shells Russian troops ... Russian positions in Donetsk region on October 3 amid the Russian invasion of Ukraine.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.ch/fotos/military-rocket-launcher",
+        "title": "1.406 Military Rocket Launcher Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.ch \u203a fotos",
+        "content": "Ukrainian multiple rocket launcher BM-21 \"Grad\" shells Russian troops ... Russian positions in Donetsk region on October 3 amid the Russian invasion of Ukraine.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/military-hand-grenades",
+        "title": "3.406 fotos e im\u00e1genes de Military Hand GrenadesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "Ukrainian serviceman prepares to fire a rocket-propelled grenade from a ... Russian military and pro-Russian... de 100. SIGUIENTE.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/military-grenades",
+        "title": "4.764 fotos e im\u00e1genes de Military Grenades - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "Ukrainian serviceman prepares to fire a rocket-propelled grenade from a ... Russian military and pro-Russian... de 100. SIGUIENTE.",
+        "size": [
+          612,
+          418
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.france24.com/fr/auteur/france-24/126/",
+        "title": "126 - France 24France 24https://www.france24.com \u203a auteur",
+        "content": "FRANCE 24 \u00b7 Depuis le Texas, un juge f\u00e9d\u00e9ral suspend une pilule abortive aux \u00c9tats-Unis \u00b7 Ukraine : retour de 31 enfants emmen\u00e9s ill\u00e9galement en Russie \u00b7 La Chine\u00a0...",
+        "size": [
+          480,
+          270
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://m.youtube.com/watch?v=ZCpSOoV547w",
+        "title": "Rusia Sebut Amerika Serikat Sedang Ciptakan 'Senjata ...YouTube\u00a0\u00b7\u00a0Tribunnews10.9K+ views  \u00b7  7 months ago",
+        "content": "... beritaviral #live #breakingnews #amerikaserikat #usa #joebiden #russia #rusia #ukraine #ukraina #putin #zelensky #warzone #perangrusia.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.france24.com/fr/auteur/france-24/128/",
+        "title": "128 - France 24France 24https://www.france24.com \u203a auteur",
+        "content": "",
+        "size": [
+          480,
+          270
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.france24.com/fr/auteur/france-24/127/",
+        "title": "FRANCE 24 - France 24France 24https://www.france24.com \u203a auteur",
+        "content": "",
+        "size": [
+          480,
+          270
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilmessaggero.it/mondo/putin_bakhmut_guerra_oggi-7343383.html",
+        "title": "Putin intensifica attacco a Bakhmut, Ucraina costretta a ritiri ...Il Messaggerohttps://www.ilmessaggero.it \u203a mondo",
+        "content": "La Russia ha intensificato la sua offensiva contro Bakhmut grazie a una migliore cooperazione tra il ministero della Difesa russo e il gruppo Wagner.",
+        "size": [
+          227,
+          124
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://twitter.com/PrensaLatina_cu/status/1665710873132818437",
+        "title": "Prensa Latina on X: \"     El ej\u00e9rcito ucraniano fracas\u00f3 en una ...X\u00a0\u00b7\u00a0PrensaLatina_cu5 months ago",
+        "content": "",
+        "size": [
+          1024,
+          448
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilmessaggero.it/mondo/guerra_ucraina_ultimi_aggiornamenti_oggi_taiwan_cina_cosa_succede-7341129.html",
+        "title": "Guerra Ucraina, mina russa esplode in centrale nucleare ...Il Messaggerohttps://www.ilmessaggero.it \u203a mondo",
+        "content": "File Usa: per Mosca la Cina ha accettato di fornire armi. La Cina aveva approvato la \u00abfornitura di armi\u00bb alla Russia nella sua guerra in Ucraina all'inizio di\u00a0...",
+        "size": [
+          227,
+          124
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.prensa-latina.cu/tags/escala",
+        "title": "escala - Prensa LatinaPrensa Latinahttps://www.prensa-latina.cu \u203a tags",
+        "content": "",
+        "size": [
+          500,
+          219
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.davidpiner.com/http/ita.animalia-life.club/Elenco-delle-armi-delle-sas-britanniche",
+        "title": "Elenco Delle Armi Delle Sas Britannichedavidpiner.comhttps://www.davidpiner.com \u203a http",
+        "content": "",
+        "size": [
+          1280,
+          701
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://cowaythaiservice.com/tecnologia-militare-segreta-k.html",
+        "title": "implicare consegna a domicilio A partire dal tecnologia ...cowaythaiservice.comhttps://cowaythaiservice.com \u203a tecn...",
+        "content": "",
+        "size": [
+          620,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.5436547994613647
+      },
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.20393531024456024
+      },
+      {
+        "class": "watering_hole",
+        "ioclass": "outdoor",
+        "probability": 0.03144454210996628
+      },
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.023723794147372246
+      },
+      {
+        "class": "archaelogical_excavation",
+        "ioclass": "indoor",
+        "probability": 0.021814027801156044
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.7935097813606262
+      },
+      {
+        "class": "rugged",
+        "score": 0.5963935852050781
+      },
+      {
+        "class": "moist",
+        "score": 0.5872852802276611
+      },
+      {
+        "class": "season/winter",
+        "score": 0.5869508981704712
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.5843497514724731
+      },
+      {
+        "class": "ice",
+        "score": 0.5426102876663208
+      },
+      {
+        "class": "dirty",
+        "score": 0.5293365716934204
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5281348824501038
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.5217435956001282
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 2470,
+        "pred_lat": 55.939640045166016,
+        "pred_long": -3.3404691219329834
+      },
+      "middle": {
+        "pred_class": 4424,
+        "pred_lat": 55.939640045166016,
+        "pred_long": -3.3404691219329834
+      },
+      "fine": {
+        "pred_class": 6129,
+        "pred_lat": 55.939640045166016,
+        "pred_long": -3.3404691219329834
+      },
+      "hierarchy": {
+        "pred_class": 6129,
+        "pred_lat": 55.939640045166016,
+        "pred_long": -3.3404691219329834
+      },
+      "country": {
+        "city": "City of Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 55.92267,
+    "longitude": -3.3128662,
+    "generationtime_ms": 0.1760721206665039,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 44.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2013-11-22T00:00",
+        "2013-11-22T01:00",
+        "2013-11-22T02:00",
+        "2013-11-22T03:00",
+        "2013-11-22T04:00",
+        "2013-11-22T05:00",
+        "2013-11-22T06:00",
+        "2013-11-22T07:00",
+        "2013-11-22T08:00",
+        "2013-11-22T09:00",
+        "2013-11-22T10:00",
+        "2013-11-22T11:00",
+        "2013-11-22T12:00",
+        "2013-11-22T13:00",
+        "2013-11-22T14:00",
+        "2013-11-22T15:00",
+        "2013-11-22T16:00",
+        "2013-11-22T17:00",
+        "2013-11-22T18:00",
+        "2013-11-22T19:00",
+        "2013-11-22T20:00",
+        "2013-11-22T21:00",
+        "2013-11-22T22:00",
+        "2013-11-22T23:00",
+        "2013-11-23T00:00",
+        "2013-11-23T01:00",
+        "2013-11-23T02:00",
+        "2013-11-23T03:00",
+        "2013-11-23T04:00",
+        "2013-11-23T05:00",
+        "2013-11-23T06:00",
+        "2013-11-23T07:00",
+        "2013-11-23T08:00",
+        "2013-11-23T09:00",
+        "2013-11-23T10:00",
+        "2013-11-23T11:00",
+        "2013-11-23T12:00",
+        "2013-11-23T13:00",
+        "2013-11-23T14:00",
+        "2013-11-23T15:00",
+        "2013-11-23T16:00",
+        "2013-11-23T17:00",
+        "2013-11-23T18:00",
+        "2013-11-23T19:00",
+        "2013-11-23T20:00",
+        "2013-11-23T21:00",
+        "2013-11-23T22:00",
+        "2013-11-23T23:00"
+      ],
+      "apparent_temperature": [
+        -5.7,
+        -5.7,
+        -5.3,
+        -5.2,
+        -5.4,
+        -5.5,
+        -5.6,
+        -6.2,
+        -6.2,
+        -6.0,
+        -4.3,
+        -2.3,
+        -1.2,
+        -0.9,
+        -0.8,
+        -1.5,
+        -2.1,
+        -2.3,
+        -2.3,
+        -2.8,
+        -3.0,
+        -3.0,
+        -3.3,
+        -3.8,
+        -3.7,
+        -4.3,
+        -4.1,
+        -4.2,
+        -4.1,
+        -4.5,
+        -4.7,
+        -4.5,
+        -4.3,
+        -3.9,
+        -2.1,
+        -0.3,
+        1.3,
+        2.3,
+        2.1,
+        1.5,
+        0.3,
+        -0.8,
+        -1.9,
+        -2.9,
+        -3.4,
+        -3.8,
+        -3.8,
+        -4.1
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

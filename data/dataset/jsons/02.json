@@ -1,0 +1,4488 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2012/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/06": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2012/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2015/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 177,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 177,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2012/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2013/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2014/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2015/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                2,
+                0,
+                1,
+                2,
+                0,
+                0,
+                1,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                2,
+                0,
+                1,
+                0,
+                0,
+                2,
+                1,
+                4,
+                1,
+                0,
+                2,
+                177,
+                4,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 226,
+            "percentage": 85.28301886792453
+          },
+          "Spanish; Castilian": {
+            "count": 14,
+            "percentage": 5.283018867924528
+          },
+          "Greek, Modern (1453-)": {
+            "count": 10,
+            "percentage": 3.7735849056603774
+          },
+          "German": {
+            "count": 7,
+            "percentage": 2.641509433962264
+          },
+          "French": {
+            "count": 2,
+            "percentage": 0.7547169811320755
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 2,
+            "percentage": 0.7547169811320755
+          },
+          "Persian": {
+            "count": 1,
+            "percentage": 0.37735849056603776
+          },
+          "Hindi": {
+            "count": 1,
+            "percentage": 0.37735849056603776
+          },
+          "Kannada": {
+            "count": 1,
+            "percentage": 0.37735849056603776
+          },
+          "Serbian": {
+            "count": 1,
+            "percentage": 0.37735849056603776
+          }
+        },
+        "total": 265,
+        "plot": {
+          "labels": [
+            "English",
+            "Spanish; Castilian",
+            "Greek, Modern (1453-)",
+            "German",
+            "others"
+          ],
+          "data": [
+            85,
+            5,
+            3,
+            2,
+            5
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "el",
+        "link": "https://unboxholics.com/stories/110126-epeteios-10-chronon-gia-to-ps4-5-stigmes-pou-kathorisan-ti-genia",
+        "title": "\u0395\u03c0\u03ad\u03c4\u03b5\u03b9\u03bf\u03c2 10 \u03c7\u03c1\u03cc\u03bd\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf PS4 \u2013 5 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03b8\u03cc\u03c1\u03b9\u03c3\u03b1\u03bd \u03c4\u03b7 ...Unboxholicshttps://unboxholics.com \u203a Stories",
+        "content": "",
+        "size": "",
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.marinij.com/2012/06/14/community-corner-chico-running-club-mdash-independence-day-run-is-one-of-four-events-that-benefit-community-fitness-programs/",
+        "title": "Community Corner: Chico Running Club &mdashMarin Independent Journalhttps://www.marinij.com \u203a 2012/06/14 \u203a community-c...",
+        "content": "",
+        "size": [
+          525,
+          349
+        ],
+        "date": "2012:06:14 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 47,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.marinij.com/2012/06/14/community-corner-chico-running-club-mdash-independence-day-run-is-one-of-four-events-that-benefit-community-fitness-programs/",
+        "title": "Community Corner: Chico Running Club &mdashMarin Independent Journalhttps://www.marinij.com \u203a 2012/06/14 \u203a community-c...",
+        "content": "",
+        "size": [
+          525,
+          349
+        ],
+        "date": "2012:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.marinij.com/2012/06/14/community-corner-chico-running-club-mdash-independence-day-run-is-one-of-four-events-that-benefit-community-fitness-programs/",
+        "title": "Community Corner: Chico Running Club &mdashMarin Independent Journalhttps://www.marinij.com \u203a 2012/06/14 \u203a community-c...",
+        "content": "",
+        "size": [
+          525,
+          349
+        ],
+        "date": "2012:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.daytondailynews.com/news/national/memphis-zoo-celebrates-new-baby-flamingo-chicks/xovwgYAOdHwlWeRzK1DzPO/",
+        "title": "Memphis Zoo celebrates new baby Flamingo chicksDayton Daily Newshttps://www.daytondailynews.com \u203a news \u203a national",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2015:08:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksnt.com/news/emporia-state-baseball-smashes-central-oklahoma/",
+        "title": "Emporia State baseball smashes Central Oklahoma - KSNTKSNT 27 Newshttps://www.ksnt.com \u203a news \u203a emporia-state-baseball-...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2016:04:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dcnewsnow.com/news/discovery-station-holds-superheroes-for-emma-event-to-raise-awareness-about-aplastic-anemia/",
+        "title": "Discovery Station holds Superheroes for Emma event to raise ...DC News Nowhttps://www.dcnewsnow.com \u203a news \u203a discovery-stati...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2017:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wkrn.com/news/firefighter-injured-in-donelson-house-fire/",
+        "title": "Firefighter injured in Donelson house fire - Nashville - WKRNWKRN News 2https://www.wkrn.com \u203a news \u203a firefighter-injured-in-...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2017:04:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.daytondailynews.com/news/national/mouse-waits-for-ride-sheriff-deputy-car/qNF9VTVR9kL7eDgkbc27HO/",
+        "title": "Mouse waits for ride on sheriff deputy's car - Dayton Daily NewsDayton Daily Newshttps://www.daytondailynews.com \u203a news \u203a national",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2018:02:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ajc.com/entertainment/2018-mtv-vmas-madonna-criticized-for-aretha-franklin-tribute/rnjdqMcCU51jL0Ot7LDk4M/",
+        "title": "Madonna responds to criticism of Aretha Franklin speechAJC.comhttps://www.ajc.com \u203a entertainment \u203a 2018-mtv-vmas-...",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2018:08:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.daytondailynews.com/news/national/aaa-dec-the-worst-travel-day-for-christmas-this-year/4EvCgHvJ7wLQyeQXWi7Q7O/",
+        "title": "Today is the worst day to travel for the Christmas 2018 holiday ...Dayton Daily Newshttps://www.daytondailynews.com \u203a news \u203a national",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2018:12:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox21news.com/news/local/colorado-springs-apartment-fire-caused-by-unattended-cooking-on-stove/",
+        "title": "Colorado Springs apartment fire caused by unattended ...FOX21 News Coloradohttps://www.fox21news.com \u203a news \u203a local \u203a colorado...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2019:04:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wkrn.com/community/2-gives-back/2-gives-back-nashville-rescue-mission/",
+        "title": "2 Gives Back: Nashville Rescue Mission | WKRN News 2WKRN News 2https://www.wkrn.com \u203a community \u203a 2-gives-back-n...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2019:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news10.com/news/international/zimbabwe-government-announces-mining-ban-in-national-parks/",
+        "title": "Zimbabwe government announces mining ban in national parksNEWS10 ABChttps://www.news10.com \u203a news \u203a zimbabwe-govern...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2020:09:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ajc.com/things-to-do/atlanta-restaurant-blog/from-a-japanese-grocery-store-to-online-classes-restaurants-look-for-new-ways-to-create-revenue/Z3J4Q3VHLNDDRK5DYNOCDAO3J4/",
+        "title": "During COVID-19, Atlanta restaurants look for creative ways to ...AJC.comhttps://www.ajc.com \u203a atlanta-restaurant-blog \u203a from-a...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2020:10:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.qcnews.com/health-care/analyzing-trumps-illness-is-humbling-for-medias-med-teams/",
+        "title": "Analyzing Trump's illness is humbling for media's med teamsQueen City Newshttps://www.qcnews.com \u203a health-care \u203a analyzing-tru...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2020:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnyhomepage.com/news/more-delays-in-ny-22nd-congressional-case/",
+        "title": "UPDATE \u2013 More Delays In NY 22nd Congressional CaseCNYhomepage.comhttps://www.cnyhomepage.com \u203a news",
+        "content": "The Oneida County Board of Elections are the only county board not to have submitted their recanvass results in the disputed New York 22nd\u00a0...",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2020:12:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lmneuquen.com/velorio-mortal-asistieron-y-16-miembros-la-familia-murieron-covid-n765009",
+        "title": "Velorio mortal: asistieron y 16 miembros de la familia ...Lmneuquen.comhttps://www.lmneuquen.com \u203a velo...",
+        "content": "",
+        "size": [
+          350,
+          197
+        ],
+        "date": "2021:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://santamariatimes.com/news/local/some-restrictions-lifted-for-santa-barbara-county-restaurants-salons/article_b408e683-a0ac-57b3-82ca-be3f4cc751ea.html",
+        "title": "Some restrictions lifted for Santa Barbara County restaurants ...Santa Maria Timeshttps://santamariatimes.com \u203a news \u203a local \u203a some-restric...",
+        "content": "",
+        "size": [
+          200,
+          133
+        ],
+        "date": "2021:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.everythinglubbock.com/news/international/indonesian-military-says-submarine-missing-with-53-on-board/",
+        "title": "Indonesia searching for missing submarine with 53 on boardKLBKhttps://www.everythinglubbock.com \u203a international \u203a i...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2021:04:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.siouxlandproud.com/news/local-news/sioux-city-city-council-allows-new-housing-development-to-move-forward/",
+        "title": "Sioux City City Council allows new housing development to ...SiouxlandProudhttps://www.siouxlandproud.com \u203a news \u203a local-news \u203a s...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2021:06:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbs42.com/sports/marlins-lopez-sets-mlb-mark-with-9-strikeouts-to-open-game/",
+        "title": "Marlins' L\u00f3pez sets MLB mark with 9 strikeouts to open gameCBS 42https://www.cbs42.com \u203a sports \u203a marlins-lopez-sets-...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2021:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lmneuquen.com/el-peronismo-el-aguinaldo-y-una-historia-leer-la-playa-n872412",
+        "title": "El peronismo, el aguinaldo y una historia para leer en la playaLmneuquen.comhttps://www.lmneuquen.com \u203a el-pe...",
+        "content": "",
+        "size": [
+          790,
+          444
+        ],
+        "date": "2021:12:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/sports/2022/02/07/mlb-players-stop-drug-testing-during-lockout/",
+        "title": "MLB, players stop drug testing during lockout - Click OrlandoWKMGhttps://www.clickorlando.com \u203a sports \u203a 2022/02/07",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2022:02:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.scribd.com/article/597251011/The-Handmaid-s-Tale-Season-5-The-3-Biggest-Talking-Points-From-Episode-4",
+        "title": "The Handmaid's Tale Season 5: The 3 Biggest Talking Points ...Scribdhttps://www.scribd.com \u203a article \u203a The-Handmaid-s-Tale...",
+        "content": "",
+        "size": [
+          287,
+          187
+        ],
+        "date": "2022:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dcnewsnow.com/news/white-house-marks-rollout-of-over-the-counter-hearing-aids-at-retailers-nationwide/",
+        "title": "White House marks rollout of over-the-counter hearing aids at ...DC News Nowhttps://www.dcnewsnow.com \u203a news \u203a white-house-m...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2022:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.toledoblade.com/opinion/editorials/2022/11/17/editorial-after-action-a-good-plan/stories/20221117014",
+        "title": "Editorial: After-action a good plan - Toledo BladeToledo Bladehttps://www.toledoblade.com \u203a 2022/11/17 \u203a stories",
+        "content": "",
+        "size": [
+          600,
+          450
+        ],
+        "date": "2022:11:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnyhomepage.com/sports/national-sports/ap-loss-for-messi-and-argentina-among-biggest-world-cup-upsets/",
+        "title": "Loss for Messi and Argentina among biggest World Cup upsetsCNYhomepage.comhttps://www.cnyhomepage.com \u203a national-sports \u203a ap-...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2022:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsav.com/news/local-news/savannah/major-sewage-spill-shuts-down-traffic-lane-for-2-weeks-city-says/",
+        "title": "City finalizing repairs on sewer main this week after spill shuts ...WSAV-TVhttps://www.wsav.com \u203a news \u203a local-news \u203a savannah",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.yourerie.com/news/national-news/first-pill-for-fecal-transplant-wins-fda-approval/",
+        "title": "First pill for fecal transplants wins FDA approval - YourErie.comyourerie.comhttps://www.yourerie.com \u203a news \u203a national-news \u203a fir...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:04:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.yourerie.com/news/national-news/first-pill-for-fecal-transplant-wins-fda-approval/",
+        "title": "First pill for fecal transplants wins FDA approval - YourErie.comyourerie.comhttps://www.yourerie.com \u203a news \u203a national-news \u203a fir...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:04:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://santamariatimes.com/santa-maria-community-honors-service-members-on-memorial-day-monday-photos/collection_9ee745c0-d142-56c8-aad1-6855def9b487.html",
+        "title": "Santa Maria community honors service members on Memorial ...Santa Maria Timeshttps://santamariatimes.com \u203a santa-maria-community-...",
+        "content": "",
+        "size": [
+          200,
+          133
+        ],
+        "date": "2023:05:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtrf.com/news/international/india-train-crash-kills-over-280-hurts-900-in-countrys-deadliest-rail-accident-in-decades/",
+        "title": "India train crash kills over 280, injures 900 in one of nation's ...WTRFhttps://www.wtrf.com \u203a news \u203a international \u203a india-tr...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:06:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtrf.com/news/international/india-train-crash-kills-over-280-hurts-900-in-countrys-deadliest-rail-accident-in-decades/",
+        "title": "India train crash kills over 280, injures 900 in one of nation's ...WTRFhttps://www.wtrf.com \u203a news \u203a international \u203a india-tr...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:06:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.toledoblade.com/a-e/living/2023/06/10/trumps-tricks-favorite-card-game-euchre/stories/20230611006",
+        "title": "Trump, tricks, and Toledo's favorite card game: Euchre a ...Toledo Bladehttps://www.toledoblade.com \u203a 2023/06/10 \u203a stories",
+        "content": "",
+        "size": [
+          600,
+          450
+        ],
+        "date": "2023:06:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "kn",
+        "link": "https://kannada.news18.com/videos/davanagere/a-bear-came-to-maramma-s-temple-premises-in-davanagere-1195687.html",
+        "title": "\u0cae\u0cbe\u0cb0\u0cae\u0ccd\u0cae\u0ca8 \u0ca6\u0cc7\u0cb5\u0cbe\u0cb2\u0caf \u0c86\u0cb5\u0cb0\u0ca3\u0c95\u0ccd\u0c95\u0cc6 \u0cac\u0c82\u0ca6 \u0c95\u0cb0\u0ca1\u0cbf! - News18 KannadaNews18 Kannadahttps://kannada.news18.com \u203a videos",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:06:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.conchovalleyhomepage.com/news/national-news/ap-u-of-michigan-president-condemns-antisemitic-vandalism-at-two-off-campus-fraternity-houses/",
+        "title": "U of Michigan president condemns antisemitic vandalism at ...ConchoValleyHomepage.comhttps://www.conchovalleyhomepage.com \u203a news \u203a ap-...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://apnews.com/world-news/general-news-920f43e0bdfbcbe432284695754b1a6c",
+        "title": "Argentina: ministro y candidato presidencial sortear\u00e1 autos y ...AP Newshttps://apnews.com \u203a world-news",
+        "content": "",
+        "size": [
+          599,
+          399
+        ],
+        "date": "2023:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://santamariatimes.com/opinion/guest/santa-barbara-county-s-fatal-attraction-with-the-private-sector-andy-caldwell/article_5906701e-33f2-5a0a-a92e-44757896ce8e.html",
+        "title": "Santa Barbara County's fatal attraction with the private sectorSanta Maria Timeshttps://santamariatimes.com \u203a opinion \u203a guest \u203a santa-bar...",
+        "content": "",
+        "size": [
+          200,
+          133
+        ],
+        "date": "2023:09:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/gallery/sports/2023/10/11/connor-bedard-picks-up-an-assist-in-his-nhl-debut-as-the-blackhawks-rally-past-crosby-penguins-4-2/",
+        "title": "Connor Bedard picks up an assist in his NHL debut as the ...Click2Houstonhttps://www.click2houston.com \u203a sports \u203a 2023/10/11",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wwlp.com/automotive/internet-brands/mclaren-ceo-tech-for-electric-supercar-wont-be-ready-until-2030/",
+        "title": "McLaren CEO: Tech for electric supercar won't be ready until ...WWLPhttps://www.wwlp.com \u203a automotive \u203a internet-brands",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wtop.com/national/2023/10/auto-workers-escalate-strike-walking-out-at-fords-largest-factory-and-threatening-stellantis/",
+        "title": "Ford says it's at the limit on how much it can spend to get new ...WTOPhttps://wtop.com \u203a Business and Financial News",
+        "content": "",
+        "size": [
+          480,
+          320
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.riverbender.com/topnews/details.cfm?id=428265",
+        "title": "US says North Korea delivered 1,000 containers of equipment ...RiverBender.comhttps://www.riverbender.com \u203a topnews \u203a details",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wusf.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - WUSFWUSFhttps://www.wusf.org \u203a photos-scenes-from-the-israel-...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.npr.org/sections/pictureshow/2023/10/15/1206040971/photos-scenes-from-the-israel-gaza-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - NPRNPRhttps://www.npr.org \u203a sections \u203a pictureshow \u203a 2023/10/15",
+        "content": "",
+        "size": [
+          1100,
+          733
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wfae.org/united-states-world/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - Charlotte - WFAEWFAEhttps://www.wfae.org \u203a united-states-world \u203a photos-s...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.wjct.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | WJCT News 89.9WJCT Public Mediahttps://news.wjct.org \u203a photos-scenes-from-the-israel-h...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wamc.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - WAMCWAMChttps://www.wamc.org \u203a photos-scenes-from-the-israel...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://listen.sdpb.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - SDPB RadioSouth Dakota Public Broadcastinghttps://listen.sdpb.org \u203a photos-scenes-from-the-israel-...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kazu.org/npr-news/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | 90.3 KAZUKAZUhttps://www.kazu.org \u203a npr-news \u203a photos-scenes-fro...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wkyufm.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - WKU Public RadioWKU Public Radiohttps://www.wkyufm.org \u203a photos-scenes-from-the-isr...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.waer.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - WAERWAERhttps://www.waer.org \u203a photos-scenes-from-the-israel-...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wyomingpublicmedia.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas WarWyoming Public Mediahttps://www.wyomingpublicmedia.org \u203a photos-scenes...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.capeandislands.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | CAI - WCAIcapeandislands.orghttps://www.capeandislands.org \u203a photos-scenes-from-...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kvcrnews.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | KVCR NewsKVCR Newshttps://www.kvcrnews.org \u203a photos-scenes-from-the-is...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mynspr.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | NSPRNSPRhttps://www.mynspr.org \u203a photos-scenes-from-the-isra...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wesa.fm/national-international-news/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | 90.5 WESA90.5 WESAhttps://www.wesa.fm \u203a national-international-news \u203a p...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nhpr.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - NHPRNew Hampshire Public Radiohttps://www.nhpr.org \u203a photos-scenes-from-the-israel-...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbjb.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas WarBrookdale Public Radiohttps://www.wbjb.org \u203a photos-scenes-from-the-israel-...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kmuw.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | KMUWKMUWhttps://www.kmuw.org \u203a photos-scenes-from-the-israe...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsiu.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - WSIUWSIUhttps://www.wsiu.org \u203a photos-scenes-from-the-israel-...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.southcarolinapublicradio.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | South Carolina ...South Carolina Public Radiohttps://www.southcarolinapublicradio.org \u203a photos-sce...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wunc.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - WUNCWUNChttps://www.wunc.org \u203a photos-scenes-from-the-israel...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.iowapublicradio.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | Iowa Public RadioIowa Public Radiohttps://www.iowapublicradio.org \u203a photos-scenes-fro...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wxpr.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | WXPRWXPRhttps://www.wxpr.org \u203a photos-scenes-from-the-israel-...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wuwm.com/world/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | WUWM 89.7 FMWUWMhttps://www.wuwm.com \u203a world \u203a photos-scenes-from...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wrvo.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - WRVOWRVOhttps://www.wrvo.org \u203a photos-scenes-from-the-israel-...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbur.org/npr/1206040971/photos-scenes-from-the-israel-gaza-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - WBURWBURhttps://www.wbur.org \u203a npr \u203a photos-scenes-from-the-...",
+        "content": "",
+        "size": [
+          786,
+          524
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vpm.org/npr-news/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - VPM NewsVPMhttps://www.vpm.org \u203a npr-news \u203a photos-scenes-fro...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wnmufm.org/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War | WNMU-FMWNMU-FMhttps://www.wnmufm.org \u203a photos-scenes-from-the-is...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kpbs.org/news/news/international/2023/10/15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - KPBSKPBShttps://www.kpbs.org \u203a international \u203a 2023/10/15 \u203a p...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nepm.org/national-world-news/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - NEPMNEPMhttps://www.nepm.org \u203a national-world-news \u203a photos...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ktep.org/world-news/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - KTEPKTEPhttps://www.ktep.org \u203a world-news \u203a photos-scenes-fr...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kunr.org/world-headlines/2023-10-15/photos-scenes-from-the-israel-hamas-war",
+        "title": "Photos: Scenes from the Israel-Hamas War - KUNRKUNRhttps://www.kunr.org \u203a world-headlines \u203a photos-scen...",
+        "content": "",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtaj.com/trending/florida-man-hides-in-chest-uses-whiteboard-in-attempt-to-evade-arrest-deputies/",
+        "title": "Florida man hides in chest, uses whiteboard in attempt ... - WTAJWTAJhttps://www.wtaj.com \u203a trending \u203a florida-man-hides-i...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://heraldcourier.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_f6a20c17-dfa8-5369-94fa-87bd7261616e.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Bristol Herald Courierhttps://heraldcourier.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.chron.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Chronhttps://www.chron.com \u203a News \u203a World News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...News4JAXhttps://www.news4jax.com \u203a world \u203a 2023/10/21 \u203a isr...",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://legalesedecoder.com/the-ai-legalese-decoder-a-game-changer-in-analyzing-israels-strikes-on-gaza-syria-and-west-bank-amid-heightening-conflict-with-hamas/",
+        "title": "The AI Legalese Decoder: A Game-Changer In Analyzing ...Legalese Decoderhttps://legalesedecoder.com \u203a News \u203a Related News",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lakegenevanews.net/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_03aec03c-a263-5016-be6a-15d523945c15.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesLake Geneva Newshttps://lakegenevanews.net \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ctinsider.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...CT Insiderhttps://www.ctinsider.com \u203a News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://beatricedailysun.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_2fab42a1-0e4a-5529-a4ee-52a34159993f.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesBeatrice Daily Sunhttps://beatricedailysun.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bismarcktribune.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_faf9a3ca-638c-5cc9-98d5-4e61f9d6eb03.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesBismarck Tribunehttps://bismarcktribune.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thehour.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...The Hourhttps://www.thehour.com \u203a News",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pennlive.com/nation-world/2023/10/egypts-border-opens-to-let-a-bit-of-aid-into-gaza.html",
+        "title": "Egypt's border opens to let a bit of aid into Gaza - Penn LivePennLive.comhttps://www.pennlive.com \u203a nation-world \u203a 2023/10 \u203a e...",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://740thefan.com/2023/10/21/supporters-push-for-ceasefire-in-israel-palestine-conflict/",
+        "title": "Supporters push for ceasefire in Israel-Palestine conflict740 The FANhttps://740thefan.com \u203a 2023/10/21 \u203a supporters-push...",
+        "content": "",
+        "size": [
+          339,
+          226
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pantagraph.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_e29c9014-f660-5edb-b135-a190138744bd.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Pantagraphhttps://pantagraph.com \u203a news \u203a government-politics \u203a ai...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lacrossetribune.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_b729797d-8667-5d25-b8d8-566ce39ba26b.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesLa Crosse Tribunehttps://lacrossetribune.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...ClickOnDetroithttps://www.clickondetroit.com \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...ClickOnDetroithttps://www.clickondetroit.com \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/news/world/2023/10/21/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripClick2Houstonhttps://www.click2houston.com \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://860amtheanswer.com/news/national/israel-strikes-gaza-syria-and-west-bank-as-war-against-hamas-threatens-to-ignite/916edd66e3af095d49e5ba1c59d90c2a",
+        "title": "Israel strikes Gaza, Syria and West Bank as war against ...860 AM The Answerhttps://860amtheanswer.com \u203a news \u203a national \u203a israel...",
+        "content": "",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://martinsvillebulletin.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_21e15ebe-1322-5440-a753-434892d41c9d.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesMartinsville Bulletinhttps://martinsvillebulletin.com \u203a government-politics \u203a a...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://theeagle.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_49731f8b-1b6e-53ed-8564-ec8f0ffa9c5d.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesBryan College Station Eaglehttps://theeagle.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://froggyweb.com/2023/10/21/supporters-push-for-ceasefire-in-israel-palestine-conflict/",
+        "title": "Supporters push for ceasefire in Israel-Palestine conflictfroggyweb.comhttps://froggyweb.com \u203a 2023/10/21 \u203a supporters-pus...",
+        "content": "",
+        "size": [
+          339,
+          226
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nonpareilonline.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_9125c2eb-50bb-559f-a35a-a3b6ed063fbc.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesDaily Nonpareilhttps://nonpareilonline.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsnationnow.com/your-morning/october-21-egypts-border-crossing-opens-to-let-a-trickle-of-aid-into-gaza-rep-jordan-out-as-speaker-nominee/",
+        "title": "October 21: Egypt's border crossing opens to let a trickle of aid ...NewsNationhttps://www.newsnationnow.com \u203a your-morning \u203a oc...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WKMGhttps://www.clickorlando.com \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://scnow.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_93a7587c-ec1b-5a1d-b4c7-5bfdb0610f0c.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikes - SCNowSCNowhttps://scnow.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://napavalleyregister.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_cf1d3fe1-492d-560b-8d16-3f1f1c7a5648.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Napa Valley Registerhttps://napavalleyregister.com \u203a government-politics \u203a ai...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jg-tc.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_db700a5f-b88d-51a2-a353-0ef986960c28.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikes - JG-TC.comJG-TC.comhttps://jg-tc.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wahoo-ashland-waverly.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_eed9c369-6cf5-5bb0-abdc-998706c8bac7.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesWahoo-Ashland-Waverly.comhttps://wahoo-ashland-waverly.com \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gazettetimes.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_2a405c0b-8dfe-550b-84ea-6a68713edbab.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesCorvallis Gazette-Timeshttps://gazettetimes.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://frapp.ch/de/articles/stories/israel-intensiviert-einsatz-gegen-hamas",
+        "title": "Israel intensiviert Einsatz gegen Hamas - FrappFrapphttps://frapp.ch \u203a articles \u203a stories",
+        "content": "",
+        "size": [
+          375,
+          281
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://www.tanjug.rs/svet/politika/55558/hamas-nema-pregovora-o-sudbini-zarobljenih-izraelskih-vojnika-dok-traju-napadi/vest",
+        "title": "Hamas: Nema pregovora o sudbini zarobljenih izraelskih ...tanjug.rshttps://www.tanjug.rs \u203a politika \u203a vest",
+        "content": "",
+        "size": [
+          1024,
+          758
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mrt.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Midland Reporter-Telegramhttps://www.mrt.com \u203a News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.expressnews.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...San Antonio Express-Newshttps://www.expressnews.com \u203a News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.krmg.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...KRMGhttps://www.krmg.com \u203a news \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nwitimes.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_5ef67bb2-7bac-5840-b1f3-12a966948d59.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesnwitimes.comhttps://www.nwitimes.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://greensboro.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_d67674ec-8b92-5cac-bdae-16f3d53823e9.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesGreensboro News and Recordhttps://greensboro.com \u203a news \u203a government-politics \u203a ai...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://morganton.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_12153cf8-8e36-5b59-be03-2e5a360f08a5.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesmorganton.comhttps://morganton.com \u203a news \u203a government-politics \u203a ai...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesunion.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Times Unionhttps://www.timesunion.com \u203a News",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WSLShttps://www.wsls.com \u203a news \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/news/world/2023/10/21/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripWKMGhttps://www.clickorlando.com \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WPLGhttps://www.local10.com \u203a news \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mysanantonio.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...MySAhttps://www.mysanantonio.com \u203a News \u203a World News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nonpareilonline.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_9125c2eb-50bb-559f-a35a-a3b6ed063fbc.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesDaily Nonpareilhttps://nonpareilonline.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfgate.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...SFGATEhttps://www.sfgate.com \u203a News \u203a World News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.24newshd.tv/21-Oct-2023/qatar-says-mediation-will-lead-to-hamas-hostage-releases-very-soon-",
+        "title": "Qatar says mediation will lead to Hamas hostage releases ...24 News HDhttps://www.24newshd.tv \u203a 21-Oct-2023 \u203a qatar-says-...",
+        "content": "",
+        "size": [
+          358,
+          215
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://beatricedailysun.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_2fab42a1-0e4a-5529-a4ee-52a34159993f.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesBeatrice Daily Sunhttps://beatricedailysun.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ravallirepublic.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_9466ce28-2cc7-5d95-a268-c62f7a27ad10.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesRavalli Republichttps://ravallirepublic.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hickoryrecord.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_5337d497-f709-5861-9e04-ab5ac119ff7f.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesHickory Daily Recordhttps://hickoryrecord.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://roanoke.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_3d12ada9-d71e-530b-b223-7a63fde84cce.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesRoanoke Timeshttps://roanoke.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qctimes.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_bf6d9b03-f42e-59da-b2e7-f74f820af7ff.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesQuad-City Timeshttps://qctimes.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/world/2023/10/21/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripClickOnDetroithttps://www.clickondetroit.com \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://buffalonews.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_de7a9b69-fabf-5739-85ab-b08b04a6c3ae.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Buffalo Newshttps://buffalonews.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.denverpost.com/2023/10/21/live-updates-israel-says-its-stepping-up-attacks-on-the-gaza-strip/",
+        "title": "Live updates | Israel says it's stepping up attacks on the Gaza ...The Denver Posthttps://www.denverpost.com \u203a 2023/10/21 \u203a live-upda...",
+        "content": "",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsnationnow.com/world/war-in-israel/ap-israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...NewsNationhttps://www.newsnationnow.com \u203a world \u203a war-in-israel",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theglobeandmail.com/world/article-israel-hamas-war-updates-trucks-carrying-aid-arrive-in-gaza/",
+        "title": "Israel-Hamas war updates: Here's what happened on Oct. 21The Globe and Mailhttps://www.theglobeandmail.com \u203a ... \u203a World",
+        "content": "KEROLOS SALAH/AFP/Getty Images. 3 of 24. Residents of Tel Aviv show support and solidarity with the families of hostages who are being held in\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dailyprogress.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_cd175e74-743f-59f9-ab0d-29dc8c2f808a.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Daily Progresshttps://dailyprogress.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://trib.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_5b36e7a9-78b4-5447-b9ce-a9d92f5d3de1.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesCasper Star-Tribunehttps://trib.com \u203a nation-world \u203a government-politics \u203a a...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wacotrib.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_84d4d00c-0040-5bb4-91f6-e2b4c3f8b00f.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesWaco Tribune-Heraldhttps://wacotrib.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://richmond.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_857b44dd-9e2e-5172-bec0-ab515dd4f985.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesRichmond Times-Dispatchhttps://richmond.com \u203a news \u203a government-politics \u203a aid...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://helenair.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_eefca9eb-2f04-5bb8-82ad-71b970d375a9.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Independent Recordhttps://helenair.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/news/world/2023/10/21/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripWSLShttps://www.wsls.com \u203a news \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.marinij.com/2023/10/21/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...Marin Independent Journalhttps://www.marinij.com \u203a 2023/10/21 \u203a second-aid-c...",
+        "content": "",
+        "size": [
+          978,
+          651
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/news/world/2023/10/21/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripWPLGhttps://www.local10.com \u203a news \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/news/world/2023/10/21/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripWPLGhttps://www.local10.com \u203a news \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.seattletimes.com/nation-world/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripThe Seattle Timeshttps://www.seattletimes.com \u203a nation-world \u203a live-updat...",
+        "content": "",
+        "size": [
+          2040,
+          1360
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.inquirer.com/news/nation-world/israel-palestinians-gaza-aid-egypt-crossing-20231021.html",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Inquirer.comhttps://www.inquirer.com \u203a News \u203a Nation World",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.greenfieldreporter.com/2023/10/21/egypts-border-crossing-opens-to-let-a-trickle-of-desperately-needed-aid-into-besieged-gaza/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...The Daily Reporter - Greenfield Indianahttps://www.greenfieldreporter.com \u203a 2023/10/21 \u203a eg...",
+        "content": "",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.chron.com/news/article/live-updates-hamas-frees-2-american-hostages-18439348.php",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripChronhttps://www.chron.com \u203a News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dailyjournal.net/2023/10/21/egypts-border-crossing-opens-to-let-a-trickle-of-desperately-needed-aid-into-besieged-gaza/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Daily Journal - Johnson County, Indianahttps://dailyjournal.net \u203a 2023/10/21 \u203a egypts-border-...",
+        "content": "",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/article/2023/10/1210446",
+        "title": "Live updates | Aid starts moving into the Gaza Strip af...AccessWDUNhttps://accesswdun.com \u203a article \u203a 2023/10",
+        "content": "",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.seattlepi.com/news/article/live-updates-hamas-frees-2-american-hostages-18439348.php",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripSeattle Post-Intelligencerhttps://www.seattlepi.com \u203a News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/gallery/news/2023/10/21/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Aid starts moving into the Gaza Strip after 2 weeks of war - KSATKSAThttps://www.ksat.com \u203a gallery \u203a news \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/liveblog-october-21-2023/",
+        "title": "Oct. 21: Rocket attacks continue from Gaza, Lebanon as ...The Times of Israelhttps://www.timesofisrael.com \u203a liveblog-october-21-2...",
+        "content": "... Salah/AFP). Israel gave the green light for humanitarian aid to pass through Egypt's Rafah crossing into the Gaza Strip several days ago\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfgate.com/news/article/live-updates-hamas-frees-2-american-hostages-18439348.php",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripSFGATEhttps://www.sfgate.com \u203a News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.phillytrib.com/news/aid-trickles-into-gaza-from-egypt/article_10525399-9609-5da5-a991-9d70a142787d.html",
+        "title": "Aid trickles into Gaza from Egypt - The Philadelphia TribuneThe Philadelphia Tribunehttps://www.phillytrib.com \u203a news \u203a aid-trickles-into-gaz...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://journalstar.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_0b164fb5-c6dd-592b-be15-a339403ffea0.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesLincoln Journal Starhttps://journalstar.com \u203a news \u203a government-politics \u203a ai...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ravallirepublic.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_9466ce28-2cc7-5d95-a268-c62f7a27ad10.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesRavalli Republichttps://ravallirepublic.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mysanantonio.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...MySAhttps://www.mysanantonio.com \u203a News \u203a World News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://theeagle.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_49731f8b-1b6e-53ed-8564-ec8f0ffa9c5d.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesBryan College Station Eaglehttps://theeagle.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mrt.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Midland Reporter-Telegramhttps://www.mrt.com \u203a News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://martinsvillebulletin.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_21e15ebe-1322-5440-a753-434892d41c9d.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesMartinsville Bulletinhttps://martinsvillebulletin.com \u203a government-politics \u203a a...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://heraldcourier.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_f6a20c17-dfa8-5369-94fa-87bd7261616e.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Bristol Herald Courierhttps://heraldcourier.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://godanriver.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_7ee86e30-5071-56a2-a303-6c260070a235.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Danville Register and Beehttps://godanriver.com \u203a news \u203a government-politics \u203a ai...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://roanoke.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_3d12ada9-d71e-530b-b223-7a63fde84cce.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesRoanoke Timeshttps://roanoke.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://rapidcityjournal.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_b9d276f9-5371-5806-8ea6-142d333fe43f.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesRapid City Journalhttps://rapidcityjournal.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pressofatlanticcity.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_4bc7bb54-aec8-5c71-82bb-52f8cd9aeb6b.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesPress of Atlantic Cityhttps://pressofatlanticcity.com \u203a government-politics \u203a ai...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lacrossetribune.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_b729797d-8667-5d25-b8d8-566ce39ba26b.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesLa Crosse Tribunehttps://lacrossetribune.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...ClickOnDetroithttps://www.clickondetroit.com \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/news/world/2023/10/21/live-updates-aid-starts-moving-into-the-gaza-strip-after-2-weeks-of-war/",
+        "title": "Live updates | Israel plans to step up attacks on the Gaza StripClick2Houstonhttps://www.click2houston.com \u203a world \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.middletownpress.com/news/world/article/israel-strikes-gaza-after-2-captives-freed-and-18439394.php",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...The Middletown Presshttps://www.middletownpress.com \u203a News",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theglobeandmail.com/world/article-israel-hamas-war-updates-trucks-carrying-aid-arrive-in-gaza/",
+        "title": "Israel-Hamas war updates: Here's what happened on Oct. 21The Globe and Mailhttps://www.theglobeandmail.com \u203a ... \u203a World",
+        "content": "KEROLOS SALAH/AFP/Getty Images. 3 of 24. Residents of Tel Aviv show support and solidarity with the families of hostages who are being held in\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ravallirepublic.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_9466ce28-2cc7-5d95-a268-c62f7a27ad10.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesRavalli Republichttps://ravallirepublic.com \u203a news \u203a government-politics",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theglobeandmail.com/world/article-israel-hamas-war-updates-trucks-carrying-aid-arrive-in-gaza/",
+        "title": "Israel-Hamas war updates: Here's what happened on Oct. 21The Globe and Mailhttps://www.theglobeandmail.com \u203a ... \u203a World",
+        "content": "KEROLOS SALAH/AFP/Getty Images. 3 of 24. Residents of Tel Aviv show support and solidarity with the families of hostages who are being held in\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/news/world/2023/10/21/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...News4JAXhttps://www.news4jax.com \u203a world \u203a 2023/10/21 \u203a isr...",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://godanriver.com/news/nation-world/government-politics/aid-trickles-into-gaza-strip-as-israel-steps-up-airstrikes-palestinian-territory/article_7ee86e30-5071-56a2-a303-6c260070a235.html",
+        "title": "Aid trickles into Gaza Strip as Israel hikes airstrikesThe Danville Register and Beehttps://godanriver.com \u203a news \u203a government-politics \u203a ai...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksl.com/article/50760762/israel-strikes-gaza-syria-and-west-bank-as-war-against-hamas-threatens-to-ignite-other-fronts",
+        "title": "Israel strikes Gaza, Syria and West Bank as war against ...KSL Newshttps://www.ksl.com \u203a article \u203a israel-strikes-gaza-syria...",
+        "content": "",
+        "size": [
+          1228,
+          690
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.khaleejtimes.com/world/mena/israel-strikes-gaza-syria-west-bank-as-war-against-hamas-threatens-to-ignite-other-fronts",
+        "title": "Israel strikes Gaza, Syria, West Bank as war against Hamas ...Khaleej Timeshttps://www.khaleejtimes.com \u203a world \u203a mena \u203a israel-str...",
+        "content": "",
+        "size": [
+          1200,
+          799
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsday.com/news/nation/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt-rg4vhzl7",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Newsdayhttps://www.newsday.com \u203a News \u203a Nation/World",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wokv.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WOKVhttps://www.wokv.com \u203a news \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.whio.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...whio.comhttps://www.whio.com \u203a news \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsbradio.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...95.5 WSBhttps://www.wsbradio.com \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wtop.com/national/2023/10/israel-strikes-gaza-syria-and-west-bank-as-war-against-hamas-threatens-to-ignite-other-fronts/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...WTOPhttps://wtop.com \u203a Latest News",
+        "content": "",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://scrippsnews.com/stories/israel-strikes-gaza-syria-west-bank-amid-worry-hamas-war-could-widen/",
+        "title": "Some injured as Israeli tank 'accidentally' hits Egyptian borderScripps Newshttps://scrippsnews.com \u203a stories \u203a israel-strikes-gaza-s...",
+        "content": "",
+        "size": [
+          330,
+          186
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lavoz.com.ar/noticias/agencias/israel-bombardea-gaza-siria-y-cisjordania-mientras-la-guerra-contra-hamas-amenaza-con-extenderse/",
+        "title": "M\u00e1xima tensi\u00f3n: Israel bombardea Gaza, Siria y Cisjordania, y ...La Voz del Interiorhttps://www.lavoz.com.ar \u203a agencias",
+        "content": "",
+        "size": [
+          980,
+          640
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.whec.com/national-world/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...WHEC.comhttps://www.whec.com \u203a national-world \u203a second-aid-...",
+        "content": "",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsoctv.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WSOC-TVhttps://www.wsoctv.com \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsbradio.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...95.5 WSBhttps://www.wsbradio.com \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wokv.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WOKVhttps://www.wokv.com \u203a news \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.denverpost.com/2023/10/22/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...The Denver Posthttps://www.denverpost.com \u203a 2023/10/22 \u203a second-ai...",
+        "content": "",
+        "size": [
+          978,
+          651
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.manilatimes.net/2023/10/22/world/israeli-strikes-on-gaza-syria-and-west-bank-escalate-tensions-with-hamas/1915931",
+        "title": "Israeli strikes on Gaza, Syria, and West Bank escalate ...Manila Timeshttps://www.manilatimes.net \u203a 2023/10/22 \u203a world \u203a is...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.latimes.com/espanol/eeuu/articulo/2023-10-22/israel-bombardea-gaza-siria-y-cisjordania-mientras-la-guerra-contra-hamas-amenaza-con-extenderse",
+        "title": "Israel bombardea Gaza, Siria y Cisjordania mientras la guerra ...Los Angeles Timeshttps://www.latimes.com \u203a articulo",
+        "content": "... Salah al-Din, en Bureij, el 8 de noviembre de 2023. (Hatem Moussa/AP). MOR-GEN ISRAEL-PALESTINOS-LO ULTIMO. 11/52. Palestinos huyen al sur de\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://focuspress.ro/israelul-a-eliminat-inca-un-lider-al-biroului-politic-hamas/",
+        "title": "Israelul a eliminat \u00eenc\u0103 un lider al biroului politic Hamasfocuspress.rohttps://focuspress.ro \u203a Externe",
+        "content": "",
+        "size": [
+          599,
+          399
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://espanol.almayadeen.net/noticias/politica/1764141/m%C3%A1s-de-50-de-palestinos-muertos-en-solo-una-noche-de-agresi%C3%B3",
+        "title": "M\u00e1s de 50 palestinos muertos en solo una noche de agresi\u00f3n ...Al Mayadeen Espa\u00f1olhttps://espanol.almayadeen.net \u203a Noticias \u203a Pol\u00edtica",
+        "content": "",
+        "size": [
+          600,
+          353
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.arkansasonline.com/news/2023/oct/22/20-aid-trucks-let-in-as-gaza-calls-for-more/",
+        "title": "20 aid trucks let in as Gaza calls for moreThe Arkansas Democrat-Gazettehttps://www.arkansasonline.com \u203a news \u203a oct \u203a 20-aid...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://ferplei.com/noticias/2023/10/22/israel-bombardea-gaza-siria-y-cisjordania-mientras-la-guerra-contra-hamas-amenaza-con-extenderse/",
+        "title": "Ingresa segunda caravana de ayuda a Gaza mientras Israel ...Ferpleihttps://ferplei.com \u203a 2023/10/22 \u203a i...",
+        "content": "",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/print/2023/10/1210532",
+        "title": "Israel says it's stepping up attacks on the Gaza StripAccessWDUNhttps://accesswdun.com \u203a print \u203a 2023/10",
+        "content": "",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.twincities.com/2023/10/22/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...Pioneer Presshttps://www.twincities.com \u203a 2023/10/22 \u203a second-aid...",
+        "content": "",
+        "size": [
+          978,
+          651
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsbradio.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...95.5 WSBhttps://www.wsbradio.com \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.freiburger-nachrichten.ch/israel-intensiviert-kampfeinsatz-gegen-hamas-die-nacht-im-ueberblick/",
+        "title": "Israel intensiviert Kampfeinsatz gegen Hamas - Die Nacht im ...Freiburger Nachrichtenhttps://www.freiburger-nachrichten.ch \u203a ...",
+        "content": "",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsbtv.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...WSB-TVhttps://www.wsbtv.com \u203a news \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.independentespanol.com/noticias/eeuu/israel-bombardea-gaza-siria-y-cisjordania-mientras-la-guerra-contra-hamas-amenaza-con-extenderse-b2433904.html",
+        "title": "Israel bombardea Gaza, Siria y Cisjordania mientras la guerra ...Independent en Espa\u00f1olhttps://www.independentespanol.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailypress.com/2023/10/22/live-updates-israel-says-its-stepping-up-attacks-on-the-gaza-strip/",
+        "title": "Live updates | Israel says it's stepping up attacks on the Gaza ...Daily Presshttps://www.dailypress.com \u203a 2023/10/22 \u203a live-updat...",
+        "content": "",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://frapp.ch/de/articles/stories/blutiger-hauserkampf-in-gaza-befurchtet",
+        "title": "Blutiger H\u00e4userkampf in Gaza bef\u00fcrchtet - FrappFrapphttps://frapp.ch \u203a articles \u203a stories",
+        "content": "",
+        "size": [
+          375,
+          281
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hotsr.com/news/2023/oct/22/egypt-gaza-border-crossing-opens-desperately/",
+        "title": "Egypt-Gaza border crossing opens; desperately needed aid ...The Sentinel-Recordhttps://www.hotsr.com \u203a news \u203a oct \u203a egypt-gaza-bord...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.boston25news.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Boston 25 Newshttps://www.boston25news.com \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.stltoday.com/news/nation-world/israel-tells-people-of-gaza-to-move-south-or-risk-being-seen-as-terrorist-partner/article_e572a32e-70c0-11ee-a893-934d75685d8b.html",
+        "title": "Israel tells people of Gaza to move south or risk being seen as ...St. Louis Post-Dispatchhttps://www.stltoday.com \u203a news \u203a nation-world \u203a israel-...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.khaleejtimes.com/world/mena/israel-strikes-gaza-syria-west-bank-as-war-against-hamas-threatens-to-ignite-other-fronts",
+        "title": "Israel strikes Gaza, Syria, West Bank as war against Hamas ...Khaleej Timeshttps://www.khaleejtimes.com \u203a world \u203a mena \u203a israel-str...",
+        "content": "",
+        "size": [
+          1200,
+          799
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.actionnewsjax.com/news/world/egypts-border/4HHWRNW2CDSFCRNV3YIAX72Z7Q/",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Action News Jaxhttps://www.actionnewsjax.com \u203a world \u203a egypts-border",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsday.com/news/nation/israel-strikes-gaza-after-2-captives-freed-and-there-are-signs-that-aid-may-soon-enter-from-egypt-rg4vhzl7",
+        "title": "Egypt's border crossing opens to let a trickle of desperately ...Newsdayhttps://www.newsday.com \u203a News \u203a Nation/World",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.twincities.com/2023/10/22/second-aid-convoy-reaches-gaza-as-israel-attacks-targets-in-syria-and-occupied-west-bank/",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...Pioneer Presshttps://www.twincities.com \u203a 2023/10/22 \u203a second-aid...",
+        "content": "",
+        "size": [
+          978,
+          651
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.stltoday.com/news/nation-world/israel-tells-people-of-gaza-to-move-south-or-risk-being-seen-as-terrorist-partner/article_e572a32e-70c0-11ee-a893-934d75685d8b.html",
+        "title": "Israel tells people of Gaza to move south or risk being seen as ...St. Louis Post-Dispatchhttps://www.stltoday.com \u203a news \u203a nation-world \u203a israel-...",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gazette.com/bestof./",
+        "title": "Colorado Springs News, Sports & Business | ColoradThe Gazettehttps://gazette.com \u203a bestof",
+        "content": "",
+        "size": [
+          200,
+          133
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.riverbender.com/topnews/details.cfm?id=429002",
+        "title": "University of Michigan slithers toward history with massive ...RiverBender.comhttps://www.riverbender.com \u203a topnews \u203a details",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.riverbender.com/topnews/details.cfm?id=428957",
+        "title": "Second aid convoy reaches Gaza as Israel attacks targets in ...RiverBender.comhttps://www.riverbender.com \u203a topnews \u203a details",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.riverbender.com/topnews/details.cfm?id=429078",
+        "title": "Aces celebrate 2nd WNBA championship and promise more ...RiverBender.comhttps://www.riverbender.com \u203a topnews \u203a details",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.lkz.de/%C3%BCberregionales_artikel,-unbaerbock-betont-israels-recht-auf-selbstverteidigung-_arid,758107.html",
+        "title": "UN: Baerbock betont Israels Recht auf SelbstverteidigungLudwigsburger Kreiszeitunghttps://www.lkz.de \u203a \u00fcberregionales_...",
+        "content": "",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.scribd.com/article/680026790/U-N-Warns-Gaza-Blockade-Could-Force-It-To-Sharply-Cut-Relief-Operations-As-Bombings-Rise",
+        "title": "U.N. Warns Gaza Blockade Could Force It To Sharply Cut ...Scribdhttps://www.scribd.com \u203a article \u203a U-N-Warns-Gaza-Blo...",
+        "content": "",
+        "size": [
+          287,
+          187
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theatlantic.com/photo/2023/10/photos-destruction-gaza/675760/",
+        "title": "Photos: Destruction in Gaza - The AtlanticThe Atlantichttps://www.theatlantic.com \u203a photo \u203a 2023/10 \u203a phot...",
+        "content": "",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.marinij.com/2023/10/26/us-fighter-jets-strike-iran-linked-sites-in-syria-in-retaliation-for-attacks-on-us-troops/",
+        "title": "US fighter jets strike Iran-linked sites in Syria in retaliation for ...Marin Independent Journalhttps://www.marinij.com \u203a 2023/10/26 \u203a us-fighter-jet...",
+        "content": "",
+        "size": [
+          525,
+          349
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.twincities.com/2023/10/28/david-brooks-searching-for-humanity-in-the-middle-east/",
+        "title": "David Brooks: Searching for humanity in the Middle EastPioneer Presshttps://www.twincities.com \u203a 2023/10/28 \u203a david-broo...",
+        "content": "",
+        "size": [
+          978,
+          651
+        ],
+        "date": "2023:10:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://frapp.ch/de/articles/stories/israel-intensiviert-kampfe-im-gazastreifen",
+        "title": "Israel intensiviert K\u00e4mpfe im Gazastreifen - FrappFrapphttps://frapp.ch \u203a articles \u203a stories",
+        "content": "",
+        "size": [
+          375,
+          281
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.denverpost.com/2023/10/30/opinion-denver-imam-rabbi-plea-peace-israel-palestine/",
+        "title": "Denver Rabbi and Imam make plea for peace, bridge buildingThe Denver Posthttps://www.denverpost.com \u203a 2023/10/30 \u203a opinion-...",
+        "content": "",
+        "size": [
+          978,
+          651
+        ],
+        "date": "2023:10:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.timesofindia.com/world/middle-east/a-killed-after-israeli-airstrike-targets-hospital-building-in-gaza/articleshow/105020894.cms",
+        "title": "Israeli air strike on Gaza's hospital building kills one, injures ...The Times of Indiahttps://m.timesofindia.com \u203a ... \u203a Middle East News",
+        "content": "",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://focuspress.ro/romanii-ingrijorati-de-razboiul-dintre-israel-si-hamas-cei-mai-multi-se-tem-de-amenintarile-teroriste/",
+        "title": "Rom\u00e2nii, \u00eengrijora\u021bi de r\u0103zboiul dintre Israel \u0219i Hamas. Cei ...focuspress.rohttps://focuspress.ro \u203a Ultima Ora",
+        "content": "",
+        "size": [
+          599,
+          399
+        ],
+        "date": "2023:11:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://frapp.ch/de/articles/stories/un-sicherheitsrat-waffenruhen-in-gaza",
+        "title": "UN-Sicherheitsrat: Waffenruhen in Gaza - FrappFrapphttps://frapp.ch \u203a articles \u203a stories",
+        "content": "",
+        "size": [
+          375,
+          281
+        ],
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://unboxholics.com/stories/110126-epeteios-10-chronon-gia-to-ps4-5-stigmes-pou-kathorisan-ti-genia",
+        "title": "\u0395\u03c0\u03ad\u03c4\u03b5\u03b9\u03bf\u03c2 10 \u03c7\u03c1\u03cc\u03bd\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf PS4 \u2013 5 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03b8\u03cc\u03c1\u03b9\u03c3\u03b1\u03bd \u03c4\u03b7 ...Unboxholicshttps://unboxholics.com \u203a Stories",
+        "content": "",
+        "size": "",
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.independent.co.uk/topic/tel-aviv",
+        "title": "Tel Aviv - latest news, breaking stories and commentThe Independenthttps://www.independent.co.uk \u203a topic \u203a tel-aviv",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.independent.co.uk/topic/iran",
+        "title": "Iran - latest news, breaking stories and commentThe Independenthttps://www.independent.co.uk \u203a topic \u203a iran",
+        "content": "Iran ; Lebanon Israel Palestinians \u00b7 News ; <p>A drone of the Izz al-Din al-Qassam Brigades, \u00b7 Middle East ; Israel Palestine Qatar \u00b7 Americas\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.independent.co.uk/topic/syria",
+        "title": "Syria - latest news, breaking stories and commentThe Independenthttps://www.independent.co.uk \u203a topic \u203a syria",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/topic/Religion/",
+        "title": "Religion - ClickOnDetroitClickOnDetroithttps://www.clickondetroit.com \u203a topic \u203a Religion",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/topic/Egyptian/",
+        "title": "Egyptian - KSATKSAThttps://www.ksat.com \u203a topic \u203a Egyptian",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/topic/Gaza_Strip/",
+        "title": "Gaza Strip - WPLGWPLGhttps://www.local10.com \u203a topic \u203a Gaza_Strip",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/topic/Gaza_Strip/",
+        "title": "Gaza Strip - WPLGWPLGhttps://www.local10.com \u203a topic \u203a Gaza_Strip",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/topic/Religion/",
+        "title": "Religion - News4JAXNews4JAXhttps://www.news4jax.com \u203a topic \u203a Religion",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.24newshd.tv/20-Nov-2023/deaths-top-13-000-as-premature-babies-evacuated-from-gaza-hospital",
+        "title": "Deaths top 13,000 as premature babies evacuated from Gaza ...24 News HDhttps://www.24newshd.tv \u203a 20-Nov-2023 \u203a deaths-top...",
+        "content": " \u00b7 ",
+        "size": [
+          358,
+          215
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/topic/Religion/",
+        "title": "Religion - News4JAXNews4JAXhttps://www.news4jax.com \u203a topic \u203a Religion",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/topic/Religion/",
+        "title": "Religion - WPLGWPLGhttps://www.local10.com \u203a topic \u203a Religion",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://tibausgourmet.com.br/Store-in-the-Middle-East-opens-in-Qatar-The-2455-88737",
+        "title": "First official NBA Store in the Middle East opens in Qatartibausgourmet.com.brhttps://tibausgourmet.com.br \u203a Store-in-the-Middle-Ea...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.24newshd.tv/20-Nov-2023/deaths-top-13-000-as-premature-babies-evacuated-from-gaza-hospital",
+        "title": "Deaths top 13,000 as premature babies evacuated from Gaza ...24 News HDhttps://www.24newshd.tv \u203a 20-Nov-2023 \u203a deaths-top...",
+        "content": " \u00b7 ",
+        "size": [
+          358,
+          215
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/topic/Religion/",
+        "title": "Religion - Click2HoustonClick2Houstonhttps://www.click2houston.com \u203a topic \u203a Religion",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://faradai.ai/corl/Nazem-Kadri-brings-the-Stanley-Cup-to-hometown-mosque-4494-56598",
+        "title": "Nazem Kadri brings the Stanley Cup to hometown mosqueFaradaihttps://faradai.ai \u203a corl \u203a Nazem-Kadri-brings-the-Stan...",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mobile.twitter.com/denverpost/status/1719090871700799782",
+        "title": "The Denver Post on X: \"Opinion: Denver Imam and rabbi ...Twitter\u00a0\u00b7\u00a0denverpost3 likes  \u00b7  3 weeks ago",
+        "content": "",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lmcipolletti.com/un-challenge-viral-tiktok-ya-se-cobro-cuatro-victimas-n1039445",
+        "title": "Un challenge viral de TikTok ya se cobr\u00f3 cuatro v\u00edctimasLMCipollettihttps://www.lmcipolletti.com \u203a un-c...",
+        "content": "",
+        "size": [
+          350,
+          197
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.infranken.de/person/abdullah-ii-bin-al-hussein/",
+        "title": "Abdullah II. bin al-Hussein - inFrankeninFranken.dehttps://www.infranken.de \u203a person",
+        "content": "",
+        "size": [
+          352,
+          264
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/topic/Gaza_Strip/",
+        "title": "Gaza Strip - Click OrlandoWKMGhttps://www.clickorlando.com \u203a topic \u203a Gaza_Strip",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/topic/Gaza_Strip/",
+        "title": "Gaza Strip - Click OrlandoWKMGhttps://www.clickorlando.com \u203a topic \u203a Gaza_Strip",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.independentespanol.com/tag/siria",
+        "title": "Siria - Guerra civil, ayuda humanitaria, terrorismo, Bashar al ...Independent en Espa\u00f1olhttps://www.independentespanol.com \u203a ...",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lmcipolletti.com/volcan-la-palma-como-se-ve-el-espacio-el-avance-la-lava-n847223",
+        "title": "Volc\u00e1n de La Palma: c\u00f3mo se ve desde el espacio el avance ...LMCipollettihttps://www.lmcipolletti.com \u203a volc...",
+        "content": "",
+        "size": [
+          350,
+          197
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.independentespanol.com/tag/joe-biden",
+        "title": "Biden - propuestas, presidencia, noticiasIndependent en Espa\u00f1olhttps://www.independentespanol.com \u203a ...",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lmcipolletti.com/una-explosion-hizo-colapsar-un-puente-clave-rusia-n954809",
+        "title": "Una explosi\u00f3n hizo colapsar un puente clave en RusiaLMCipollettihttps://www.lmcipolletti.com \u203a una-...",
+        "content": "",
+        "size": [
+          350,
+          197
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://fr.timesofisrael.com/les-premiers-camions-daide-humanitaire-venus-degypte-entrent-dans-gaza/",
+        "title": "Tsahal va intensifier ses frappes sur le Hamas malgr\u00e9 les ...The Times of Isra\u00eblhttps://fr.timesofisrael.com \u203a les-pre...",
+        "content": "... Salah/AFP). Isra\u00ebl a donn\u00e9 son feu vert au passage de l'aide humanitaire par le point de passage \u00e9gyptien de Rafah vers la bande de Gaza il y a plusieurs\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lmcipolletti.com/se-cumplen-34-anos-la-tragedia-nuclear-chernobil-n701025",
+        "title": "Se cumplen 34 a\u00f1os de la tragedia nuclear en Chern\u00f3bilLMCipollettihttps://www.lmcipolletti.com \u203a se-c...",
+        "content": "",
+        "size": [
+          350,
+          197
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://helenair.com/news/nation-world/government-politics/israel-palestinians/image_4db1d539-2b8d-5a9c-93a2-39458babca56.html",
+        "title": "Israel Palestinians - Helena Independent RecordThe Independent Recordhttps://helenair.com \u203a nation-world \u203a government-politics",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.resitacazare.ro/Dirk-drains-at-the-death-Eurosport-536-209612",
+        "title": "Dirk drains at the death - Eurosport - resitacazare.roresitacazare.rohttps://www.resitacazare.ro \u203a dirk nowitzki 2006",
+        "content": "",
+        "size": [
+          5760,
+          3840
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.risingnepaldaily.com/news/34122",
+        "title": "Israeli forces say they are stepping up Gaza attacks as ground ...The Rising Nepalhttps://www.risingnepaldaily.com \u203a news",
+        "content": "",
+        "size": [
+          680,
+          453
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://tbdrweb.libercus.net/business/development",
+        "title": "Development - The BladeLibercushttp://tbdrweb.libercus.net \u203a business \u203a development",
+        "content": "",
+        "size": [
+          600,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://smansadompu.com/purify-the-Utah-Jazz-s-drinking-water-as-it-were-1551-74533",
+        "title": "Danuel House is trying to purify the Utah Jazz's drinking water ...SMAN 1 DOMPUhttps://smansadompu.com \u203a purify-the-Utah-Jazz-s-dri...",
+        "content": "",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://inamdarsblouse.com/Store-in-the-Middle-East-opens-in-Qatar-The-873-52556",
+        "title": "First official NBA Store in the Middle East opens in Qatar - Theinamdarsblouse.comhttps://inamdarsblouse.com \u203a Store-in-the-Middle-East...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.therisingpanjab.com/new/International",
+        "title": "World News, International Breaking News, World Latest NewsThe Rising Panjabhttps://www.therisingpanjab.com \u203a new \u203a International",
+        "content": "",
+        "size": [
+          2240,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://inamdarsblouse.com/the-Middle-East-opens-in-Qatar-The-Jerusalem-Post-3650-29454",
+        "title": "First official NBA Store in the Middle East opens in QatarSA Inamdarhttps://inamdarsblouse.com \u203a nba official store",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://inamdarsblouse.com/NBA-Store-in-the-Middle-East-opens-in-Qatar-The-2358-83577",
+        "title": "First official NBA Store in the Middle East opens in Qatar - Theinamdarsblouse.comhttps://inamdarsblouse.com \u203a nba store miami heat",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://fr.timesofisrael.com/les-premiers-camions-daide-humanitaire-venus-degypte-entrent-dans-gaza/",
+        "title": "Tsahal va intensifier ses frappes sur le Hamas malgr\u00e9 les ...The Times of Isra\u00eblhttps://fr.timesofisrael.com \u203a les-pre...",
+        "content": "... Salah/AFP). Isra\u00ebl a donn\u00e9 son feu vert au passage de l'aide humanitaire par le point de passage \u00e9gyptien de Rafah vers la bande de Gaza il y a plusieurs\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.news247.gr/kosmos/xamas-simfonia-gia-prosorini-katapafsi-piros-kai-apeleftherosi-omiron-diapsevdei-to-israil/",
+        "title": "\u03a7\u03b1\u03bc\u03ac\u03c2: \"\u03a3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03ae \u03ba\u03b1\u03c4\u03ac\u03c0\u03b1\u03c5\u03c3\u03b7 \u03c0\u03c5\u03c1\u03cc\u03c2 \u03ba\u03b1\u03b9 ...News 24/7https://www.news247.gr \u203a kosmos",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://dialogos.com.cy/xeperasan-toys-14-000-oi-nekroi-tis-israilines-epitheseis-sti/",
+        "title": "\u039e\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03c4\u03bf\u03c5\u03c2 14.000 \u03bf\u03b9 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b9\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03ad\u03c2 \u03b5\u03c0\u03b9\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 ...Dialogoshttps://dialogos.com.cy \u203a ... \u203a \u0394\u03b9\u03b5\u03b8\u03bd\u03ae",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://dialogos.com.cy/xeperasan-toys-14-000-oi-nekroi-tis-israilines-epitheseis-sti/",
+        "title": "\u039e\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03c4\u03bf\u03c5\u03c2 14.000 \u03bf\u03b9 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b9\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03ad\u03c2 \u03b5\u03c0\u03b9\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 ...Dialogoshttps://dialogos.com.cy \u203a ... \u203a \u0394\u03b9\u03b5\u03b8\u03bd\u03ae",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://dialogos.com.cy/chamas-symfonia-prosorini-katapaysi-pyros-apeleytherosi-omiron-diapseysi-israil/",
+        "title": "\u03a7\u03b1\u03bc\u03ac\u03c2: \u00ab\u03a3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03ae \u03ba\u03b1\u03c4\u03ac\u03c0\u03b1\u03c5\u03c3\u03b7 \u03c0\u03c5\u03c1\u03cc\u03c2 \u03ba\u03b1\u03b9 ...Dialogoshttps://dialogos.com.cy \u203a ... \u203a \u0394\u03b9\u03b5\u03b8\u03bd\u03ae",
+        "content": "",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://primetvindia.com/israel-hamaswar-hamas-keeps-weapons-in-the-mosque/",
+        "title": "Israel-HamasWar: Hamas \u092e\u0938\u094d\u091c\u093f\u0926 \u092e\u0947\u0902 \u0930\u0916\u0924\u093e \u0939\u0948 \u0939\u0925\u093f\u092f\u093e\u0930.. - Prime TvPrime Tv Indiahttps://primetvindia.com \u203a ... \u203a \u0926\u0947\u0936",
+        "content": " \u00b7 ",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.gossip-tv.gr/showbiz/story/799508/madwalk-2023-h-emfanisi-tis-stikoydi-me-see-through-synolo-ston-ekto-mina-tis-egkymosynis-tis",
+        "title": "MadWalk 2023: H \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03a3\u03c4\u03b9\u03ba\u03bf\u03cd\u03b4\u03b7 \u03bc\u03b5 see-through ...Gossip-tvhttps://www.gossip-tv.gr \u203a story",
+        "content": "MadWalk 2023: H \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03a3\u03c4\u03b9\u03ba\u03bf\u03cd\u03b4\u03b7 \u03bc\u03b5 see-through ...Gossip-tvhttps://www.gossip-tv.gr \u203a story",
+        "size": "",
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.irna.ir/news/85299447/%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%DB%8C%DA%A9-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%DB%B4-%D9%81%D8%B1%D8%B2%D9%86%D8%AF",
+        "title": "\u062f\u0627\u0633\u062a\u0627\u0646 \u06cc\u06a9 \u067e\u0627\u06cc\u062f\u0627\u0631\u06cc \u067e\u0633 \u0627\u0632 \u0634\u0647\u0627\u062f\u062a \u06f4 \u0641\u0631\u0632\u0646\u062f - \u0627\u06cc\u0631\u0646\u0627Islamic Republic News Agencyhttps://www.irna.ir \u203a news \u203a \u062f\u0627\u0633\u062a\u0627\u0646-...",
+        "content": " \u00b7 ",
+        "size": [
+          360,
+          212
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.msn.com/el-gr/news/other/%CF%80%CE%AD%CE%B8%CE%B1%CE%BD%CE%B5-%CE%B7-%CF%80%CF%81%CF%8E%CE%B7%CE%BD-%CF%80%CF%81%CF%8E%CF%84%CE%B7-%CE%BA%CF%85%CF%81%CE%AF%CE%B1-%CF%84%CF%89%CE%BD-%CE%B7%CF%80%CE%B1-%CF%81%CF%8C%CE%B6%CE%B1%CE%BB%CE%B9%CE%BD-%CE%BA%CE%AC%CF%81%CF%84%CE%B5%CF%81/vi-AA1kdmuE",
+        "title": "\u03a0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b7 \u03c0\u03c1\u03ce\u03b7\u03bd \u03a0\u03c1\u03ce\u03c4\u03b7 \u039a\u03c5\u03c1\u03af\u03b1 \u03c4\u03c9\u03bd \u0397\u03a0\u0391 \u03a1\u03cc\u03b6\u03b1\u03bb\u03b9\u03bd \u039a\u03ac\u03c1\u03c4\u03b5\u03c1 - MSNMSNhttps://www.msn.com \u203a news \u203a other",
+        "content": " \u00b7 ",
+        "size": [
+          700,
+          466
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.msn.com/el-gr/video/celebs/%CE%B1%CE%BD-%CE%B5%CE%BE%CE%B1%CE%B9%CF%81%CE%AD%CF%83%CF%89-%CF%8C%CF%84%CE%B9-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CE%B1%CE%B5%CE%BA%CF%84%CE%B6%CE%AE%CF%82-%CF%83-%CF%8C%CE%BB%CE%B1-%CF%84-%CE%AC%CE%BB%CE%BB%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%85%CF%80%CE%AD%CF%81%CE%BF%CF%87%CE%BF%CF%82-%CE%BF-%CE%B3-%CE%BA%CE%B1%CF%81%CE%B1%CE%BC%CE%AF%CF%87%CE%BF%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-%CE%B2%CE%B1%CF%86%CF%84%CE%B9%CF%83%CF%84%CE%AE%CF%81%CE%B9-%CF%84%CE%BF%CF%85/vi-AA1kc7cq",
+        "title": "\u0391\u03bd \u03b5\u03be\u03b1\u03b9\u03c1\u03ad\u03c3\u03c9 \u03cc\u03c4\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u0391\u03b5\u03ba\u03c4\u03b6\u03ae\u03c2, \u03c3' \u03cc\u03bb\u03b1 \u03c4' \u03ac\u03bb\u03bb\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c5\u03c0\u03b5\u03c1\u03bf\u03c3\u03c7\u03bf\u03c2MSNhttps://www.msn.com \u203a el-gr \u203a celebs",
+        "content": " \u00b7 ",
+        "size": [
+          700,
+          466
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.msn.com/el-gr/video/deltia-eidiseon/%CE%B1%CE%BA%CF%81%CE%B9%CE%B2%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CF%82-%CF%86%CE%AD%CF%84%CE%BF%CF%82-%CE%BF-%CF%87%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%85%CE%B3%CE%B5%CE%BD%CE%BD%CE%B9%CE%AC%CF%84%CE%B9%CE%BA%CE%BF%CF%82-%CF%83%CF%84%CE%BF%CE%BB%CE%B9%CF%83%CE%BC%CF%8C%CF%82/vi-AA1kbZhR",
+        "title": "\u0391\u03ba\u03c1\u03b9\u03b2\u03cc\u03c4\u03b5\u03c1\u03bf\u03c2 \u03c6\u03ad\u03c4\u03bf\u03c2 \u03bf \u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5\u03b3\u03b5\u03bd\u03bd\u03b9\u03ac\u03c4\u03b9\u03ba\u03bf\u03c2 \u03c3\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03cc\u03c2 - MSNMSNhttps://www.msn.com \u203a el-gr \u203a video",
+        "content": " \u00b7 ",
+        "size": [
+          700,
+          466
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.msn.com/el-gr/video/deltia-eidiseon/%CE%B7-%CE%B3%CE%B7-%CF%84%CE%B7%CF%82-%CE%B5%CE%BB%CE%B9%CE%AC%CF%82-%CF%84%CE%B9-%CE%B8%CE%B1-%CE%B4%CE%BF%CF%8D%CE%BC%CE%B5-%CF%83%CF%84%CE%BF-%CE%B1%CF%80%CE%BF%CF%88%CE%B9%CE%BD%CF%8C-%CE%B5%CF%80%CE%B5%CE%B9%CF%83%CF%8C%CE%B4%CE%B9%CE%BF/vi-AA1kdr1l",
+        "title": "\u0397 \u0393\u03b7 \u03c4\u03b7\u03c2 \u0395\u03bb\u03b9\u03ac\u03c2\u00bb: \u03a4\u03b9 \u03b8\u03b1 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03c3\u03c4\u03bf \u03b1\u03c0\u03bf\u03c8\u03b9\u03bd\u03cc \u03b5\u03c0\u03b5\u03b9\u03c3\u03cc\u03b4\u03b9\u03bf - MSNMSNhttps://www.msn.com \u203a el-gr \u203a video",
+        "content": " \u00b7 ",
+        "size": [
+          700,
+          466
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.3333359360694885
+      },
+      {
+        "class": "trench",
+        "ioclass": "outdoor",
+        "probability": 0.2566583454608917
+      },
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.2147180289030075
+      },
+      {
+        "class": "construction_site",
+        "ioclass": "outdoor",
+        "probability": 0.057842548936605453
+      },
+      {
+        "class": "excavation",
+        "ioclass": "outdoor",
+        "probability": 0.05694420263171196
+      }
+    ],
+    "transients": [
+      {
+        "class": "season/winter",
+        "score": 0.8988263607025146
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.8307203054428101
+      },
+      {
+        "class": "time/daylight",
+        "score": 0.7900174260139465
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.7815204858779907
+      },
+      {
+        "class": "ice",
+        "score": 0.7713402509689331
+      },
+      {
+        "class": "moist",
+        "score": 0.7295886874198914
+      },
+      {
+        "class": "rugged",
+        "score": 0.5799955129623413
+      },
+      {
+        "class": "dirty",
+        "score": 0.5734575390815735
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5677090883255005
+      },
+      {
+        "class": "bright",
+        "score": 0.5194588303565979
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1283,
+        "pred_lat": 33.36734390258789,
+        "pred_long": -6.661009788513184
+      },
+      "middle": {
+        "pred_class": 1661,
+        "pred_lat": 33.36734390258789,
+        "pred_long": -6.661009788513184
+      },
+      "fine": {
+        "pred_class": 9886,
+        "pred_lat": 32.06399917602539,
+        "pred_long": 36.17129135131836
+      },
+      "hierarchy": {
+        "pred_class": 9886,
+        "pred_lat": 32.06399917602539,
+        "pred_long": 36.17129135131836
+      },
+      "country": {
+        "city": "",
+        "state": "Zarqa",
+        "country": "Jordan"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 32.09139,
+    "longitude": 36.195652,
+    "generationtime_ms": 0.21600723266601562,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 661.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2012-06-14T00:00",
+        "2012-06-14T01:00",
+        "2012-06-14T02:00",
+        "2012-06-14T03:00",
+        "2012-06-14T04:00",
+        "2012-06-14T05:00",
+        "2012-06-14T06:00",
+        "2012-06-14T07:00",
+        "2012-06-14T08:00",
+        "2012-06-14T09:00",
+        "2012-06-14T10:00",
+        "2012-06-14T11:00",
+        "2012-06-14T12:00",
+        "2012-06-14T13:00",
+        "2012-06-14T14:00",
+        "2012-06-14T15:00",
+        "2012-06-14T16:00",
+        "2012-06-14T17:00",
+        "2012-06-14T18:00",
+        "2012-06-14T19:00",
+        "2012-06-14T20:00",
+        "2012-06-14T21:00",
+        "2012-06-14T22:00",
+        "2012-06-14T23:00",
+        "2012-06-15T00:00",
+        "2012-06-15T01:00",
+        "2012-06-15T02:00",
+        "2012-06-15T03:00",
+        "2012-06-15T04:00",
+        "2012-06-15T05:00",
+        "2012-06-15T06:00",
+        "2012-06-15T07:00",
+        "2012-06-15T08:00",
+        "2012-06-15T09:00",
+        "2012-06-15T10:00",
+        "2012-06-15T11:00",
+        "2012-06-15T12:00",
+        "2012-06-15T13:00",
+        "2012-06-15T14:00",
+        "2012-06-15T15:00",
+        "2012-06-15T16:00",
+        "2012-06-15T17:00",
+        "2012-06-15T18:00",
+        "2012-06-15T19:00",
+        "2012-06-15T20:00",
+        "2012-06-15T21:00",
+        "2012-06-15T22:00",
+        "2012-06-15T23:00"
+      ],
+      "apparent_temperature": [
+        18.9,
+        18.3,
+        17.6,
+        17.2,
+        18.9,
+        22.9,
+        26.4,
+        30.5,
+        33.9,
+        35.9,
+        37.4,
+        38.1,
+        38.5,
+        38.3,
+        36.6,
+        35.3,
+        33.6,
+        31.2,
+        29.6,
+        28.6,
+        27.9,
+        27.0,
+        25.9,
+        24.7,
+        23.3,
+        22.4,
+        22.0,
+        21.7,
+        24.0,
+        26.2,
+        27.9,
+        31.1,
+        32.4,
+        33.8,
+        35.3,
+        36.5,
+        37.0,
+        36.7,
+        36.0,
+        34.5,
+        32.0,
+        30.0,
+        29.0,
+        28.4,
+        27.5,
+        26.6,
+        26.0,
+        25.1
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

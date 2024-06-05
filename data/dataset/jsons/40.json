@@ -1,0 +1,3814 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2023/01": {
+            "count": 192,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 27,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 192,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                192,
+                7,
+                0,
+                1,
+                27,
+                5,
+                3,
+                2,
+                0,
+                2,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 269,
+            "percentage": 97.11191335740072
+          },
+          "Spanish; Castilian": {
+            "count": 7,
+            "percentage": 2.527075812274368
+          },
+          "French": {
+            "count": 1,
+            "percentage": 0.36101083032490977
+          }
+        },
+        "total": 277,
+        "plot": {
+          "labels": [
+            "English",
+            "Spanish; Castilian",
+            "French"
+          ],
+          "data": [
+            97,
+            2,
+            0
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://ar.inspiredpencil.com/pictures-2023/signal-mountain-car-over-cliff",
+        "title": "Signal Mountain Car Over Cliffinspiredpencil.comhttps://ar.inspiredpencil.com \u203a pictures-2023 \u203a signal-...",
+        "content": "Parks Canada not commenting after woman drives off Signal Hill cliff ... Man who allegedly intentionally drove Tesla off cliff with family inside\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.ky3.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KY3ky3.comhttps://www.ky3.com \u203a 2023/01/03 \u203a 2-adults-2-kids-res...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 38,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.ky3.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KY3ky3.comhttps://www.ky3.com \u203a 2023/01/03 \u203a 2-adults-2-kids-res...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kmph.com/newsletter/4-alive-in-miracle-after-car-plunges-off-california-cliff",
+        "title": "4 alive in 'miracle' after car plunges off Northern California cliffKMPHhttps://kmph.com \u203a newsletter \u203a 4-alive-in-miracle-aft...",
+        "content": "... cliff along the Pacific Coast Highway near an area known as Devil's Slide that's known for fatal wrecks, officials said. The Tesla sedan\u00a0...",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.blackhillsfox.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KEVNKEVNhttps://www.blackhillsfox.com \u203a 2023/01/03 \u203a 2-adults-2...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfgate.com/news/bayarea/article/Chp-Believes-Tesla-Was-Intentionally-Driven-Off-17692851.php",
+        "title": "CHP says man intentionally drove Tesla off Bay Area cliff with ...SFGATEhttps://www.sfgate.com \u203a News \u203a Bay Area & State",
+        "content": "Monday's Tesla crash off a steep cliff near Devil's Slide in San Mateo County that injured two adults and endangered two children is being\u00a0...",
+        "size": [
+          1800,
+          1200
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktxs.com/news/nation-world/family-survives-after-tesla-plunges-250-feet-off-california-cliff-accident-children-adults-autopilot-miracle",
+        "title": "Family survives after Tesla plunges 250 feet off California cliffKTXShttps://ktxs.com \u203a news \u203a nation-world \u203a family-survi...",
+        "content": "",
+        "size": [
+          768,
+          346
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wwnytv.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WWNYWWNY-TVhttps://www.wwnytv.com \u203a 2023/01/03 \u203a 2-adults-2-kids...",
+        "content": "The Tesla sedan\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.1011now.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KOLNKOLNhttps://www.1011now.com \u203a 2023/01/03 \u203a 2-adults-2-ki...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kmph.com/4-alive-in-miracle-after-car-plunges-off-california-cliff",
+        "title": "4 alive in 'miracle' after car plunges off Northern California cliffKMPHhttps://kmph.com \u203a 4-alive-in-miracle-after-car-plung...",
+        "content": "The Tesla sedan plummeted more than 250 feet (76.20 meters) from the highway and crashed into a rocky outcropping. It appears to have flipped a\u00a0...",
+        "size": [
+          768,
+          346
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox8live.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - FOX 8fox8live.comhttps://www.fox8live.com \u203a 2023/01/03 \u203a 2-adults-2-kid...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://teslamotorsclub.com/tmc/threads/tesla-goes-over-cliff-pacific-coast-highway-california-miracle-survivors.289885/",
+        "title": "Tesla goes over cliff-pacific-coast-highway-California-miracle ...Tesla Motors Clubhttps://teslamotorsclub.com \u203a ... \u203a Tesla, Inc.",
+        "content": "... drive off the cliff. Very strange accident. by default 2023-01-03 at 2.26.35 PM.jpg. You can see the guardrail, dark shadow, alongside the\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bakersfieldnow.com/news/local/4-alive-in-miracle-after-car-plunges-off-california-cliff",
+        "title": "4 alive in 'miracle' after car plunges off Northern California cliffKBAKhttps://bakersfieldnow.com \u203a news \u203a local \u203a 4-alive-in...",
+        "content": "The Tesla sedan plummeted more than 250 feet (76.20 meters) from the highway and crashed into a rocky outcropping. It appears to have flipped a\u00a0...",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kgns.tv/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KGNSKGNShttps://www.kgns.tv \u203a 2023/01/03 \u203a 2-adults-2-kids-resc...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsaw.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WSAWWSAWhttps://www.wsaw.com \u203a 2023/01/03 \u203a 2-adults-2-kids-r...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kwtx.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KWTXKWTXhttps://www.kwtx.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://krcrtv.com/news/local/4-alive-in-miracle-after-car-plunges-off-california-cliff",
+        "title": "4 alive in 'miracle' after car plunges off Northern California cliffKRCR-TVhttps://krcrtv.com \u203a news \u203a local \u203a 4-alive-in-miracle-...",
+        "content": "The Tesla sedan plummeted more than 250 feet (76.20 meters) from the highway and crashed into a rocky outcropping. It appears to have flipped a\u00a0...",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foxsanantonio.com/newsletter-daily/family-survives-after-tesla-plunges-250-feet-off-california-cliff-accident-children-adults-autopilot-miracle",
+        "title": "Family survives after Tesla plunges 250 feet off California cliffKABBhttps://foxsanantonio.com \u203a newsletter-daily \u203a family-...",
+        "content": "(AP) \u2014 A 4-year-old girl, a 9-year-old boy and two adults survived Monday after their car plunged off a Northern California cliff along the\u00a0...",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wlbt.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WLBTWLBThttps://www.wlbt.com \u203a 2023/01/03 \u203a 2-adults-2-kids-res...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wave3.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliffwave3.comhttps://www.wave3.com \u203a 2023/01/03 \u203a 2-adults-2-kids-...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          300,
+          135
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.knoe.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KNOEKNOEhttps://www.knoe.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://katu.com/news/nation-world/2-children-2-adults-alive-in-miracle-after-tesla-plunges-off-coastal-cliff-california-pacific-coast-highway-pch-san-mateo-county-sheriffs-office-ocean-devils-slide-cal-fire-coastside-protection-district",
+        "title": "2 children, 2 adults alive in 'miracle' after Tesla plunges off ...KATUhttps://katu.com \u203a news \u203a nation-world \u203a 2-children-2-ad...",
+        "content": "(AP) \u2014 A 4-year-old girl, a 9-year-old boy and two adults survived Monday after their car plunged off a Northern California cliff along the\u00a0...",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ky3.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KY3ky3.comhttps://www.ky3.com \u203a 2023/01/03 \u203a 2-adults-2-kids-res...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wwnytv.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/?outputType=apps",
+        "title": "Man suspected of intentionally driving off California cliff - WWNYWWNY-TVhttps://www.wwnytv.com \u203a 2023/01/03 \u203a 2-adults-2-kids...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hawaiinewsnow.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliffHawaii News Nowhttps://www.hawaiinewsnow.com \u203a 2023/01/03 \u203a 2-adult...",
+        "content": "The Tesla sedan\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbsaustin.com/news/nation-world/family-survives-after-tesla-plunges-250-feet-off-california-cliff-accident-children-adults-autopilot-miracle",
+        "title": "Family survives after Tesla plunges 250 feet off California cliffKEYEhttps://cbsaustin.com \u203a news \u203a nation-world \u203a family-s...",
+        "content": "(AP) \u2014 A 4-year-old girl, a 9-year-old boy and two adults survived Monday after their car plunged off a Northern California cliff along the\u00a0...",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kmph.com/news/local/4-alive-in-miracle-after-car-plunges-off-california-cliff",
+        "title": "4 alive in 'miracle' after car plunges off Northern California cliffKMPHhttps://kmph.com \u203a news \u203a local \u203a 4-alive-in-miracle-afte...",
+        "content": "The Tesla sedan plummeted more than 250 feet (76.20 meters) from the highway and crashed into a rocky outcropping. It appears to have flipped a\u00a0...",
+        "size": [
+          768,
+          346
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cleveland19.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliffCleveland 19 Newshttps://www.cleveland19.com \u203a 2023/01/03 \u203a 2-adults-2-...",
+        "content": "The Tesla sedan\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbtv.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WBTVWBTVhttps://www.wbtv.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kttc.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KTTCKTTChttps://www.kttc.com \u203a 2023/01/03 \u203a 2-adults-2-kids-res...",
+        "content": "The Tesla sedan\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox5vegas.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California clifffox5vegas.comhttps://www.fox5vegas.com \u203a 2023/01/03 \u203a 2-adults-2-k...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wafb.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WAFBWAFBhttps://www.wafb.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktvl.com/news/4-alive-in-miracle-after-car-plunges-off-california-cliff",
+        "title": "4 alive in 'miracle' after car plunges off Northern California cliffKTVLhttps://ktvl.com \u203a news \u203a 4-alive-in-miracle-after-car-...",
+        "content": "... Drive image. Breaking News. KTVL Les Schwab 2023 Community Toy Drive ... Tesla to go off the highway in that spot. \u201cI don't even like driving\u00a0...",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wabi.tv/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WABIWABIhttps://www.wabi.tv \u203a 2023/01/03 \u203a 2-adults-2-kids-resc...",
+        "content": "The Tesla sedan\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kptv.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KPTVKPTVhttps://www.kptv.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news4sanantonio.com/news/nation-world/family-survives-after-tesla-plunges-250-feet-off-california-cliff-accident-children-adults-autopilot-miracle",
+        "title": "Family survives after Tesla plunges 250 feet off California cliffWOAIhttps://news4sanantonio.com \u203a news \u203a nation-world",
+        "content": "(AP) \u2014 A 4-year-old girl, a 9-year-old boy and two adults survived Monday after their car plunged off a Northern California cliff along the\u00a0...",
+        "size": [
+          1920,
+          639
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kmjnow.com/2023/01/03/4-alive-in-miracle-after-car-plunges-off-northern-california-cliff/",
+        "title": "4 Alive In 'Miracle' After Car Plunges Off California Cliff, Driver ...kmjnow.comhttps://www.kmjnow.com \u203a 2023/01/03 \u203a 4-alive-in-...",
+        "content": "The Tesla sedan plummeted more than 250 feet (76.20 meters) from the highway and crashed into a rocky outcropping. It appears to have flipped a\u00a0...",
+        "size": [
+          768,
+          346
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.waff.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WAFFWAFFhttps://www.waff.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "The Tesla sedan\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtoc.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WTOCWTOChttps://www.wtoc.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://carbuzz.com/news/family-lucky-to-be-alive-after-their-tesla-model-y-fell-250-feet-down-a-cliff",
+        "title": "Family Lucky To Be Alive After Their Tesla Model Y Fell 250 ...CarBuzzhttps://carbuzz.com \u203a News",
+        "content": "The electric vehicle was carrying four occupants when it fell off a steep cliff in California, and nobody was seriously hurt.",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wdtv.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WDTVWDTVhttps://www.wdtv.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "However, Patel is a doctor in radiology at Providence Holy Cross ... The Tesla sedan plummeted more than 250 feet (76 meters) from the\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wgem.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WGEMWGEMhttps://www.wgem.com \u203a 2023/01/03 \u203a 2-adults-2-kids-r...",
+        "content": "The Tesla sedan\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foxsanantonio.com/news/nation-world/family-survives-after-tesla-plunges-250-feet-off-california-cliff-accident-children-adults-autopilot-miracle",
+        "title": "Family survives after Tesla plunges 250 feet off California cliffKABBhttps://foxsanantonio.com \u203a news \u203a nation-world \u203a fa...",
+        "content": "MONTARA, Calif. (AP) \u2014 A 4-year-old girl, a 9-year-old boy and two adults survived Monday after their car plunged off a Northern California\u00a0...",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wvlt.tv/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WVLTWVLThttps://www.wvlt.tv \u203a 2023/01/03 \u203a 2-adults-2-kids-rescu...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kait8.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KAITKAIThttps://www.kait8.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbrc.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/?outputType=apps",
+        "title": "Man suspected of intentionally driving off California cliff - WBRCWBRC FOX6 Newshttps://www.wbrc.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newschannel6now.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliffNews Channel 6 | Wichita Falls, TXhttps://www.newschannel6now.com \u203a 2023/01/03 \u203a 2-ad...",
+        "content": "However, Patel is a doctor in radiology at Providence Holy Cross Medical ... Tesla sedan plummeted more than 250 feet (76 meters) from the\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsfa.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WSFAWSFAhttps://www.wsfa.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://carbuzz.com/news/family-lucky-to-be-alive-after-their-tesla-model-y-fell-250-feet-down-a-cliff",
+        "title": "Family Lucky To Be Alive After Their Tesla Model Y Fell 250 ...CarBuzzhttps://carbuzz.com \u203a News",
+        "content": "The electric vehicle was carrying four occupants when it fell off a steep cliff in California, and nobody was seriously hurt.",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kktv.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - KKTVKKTVhttps://www.kktv.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "The Tesla sedan\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wdtv.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WDTVWDTVhttps://www.wdtv.com \u203a 2023/01/03 \u203a 2-adults-2-kids-re...",
+        "content": "However, Patel is a doctor in radiology at Providence Holy Cross ... The Tesla sedan plummeted more than 250 feet (76 meters) from the\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wnem.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WNEMWNEMhttps://www.wnem.com \u203a 2023/01/03 \u203a 2-adults-2-kids-r...",
+        "content": "MONTARA, Calif. (AP) \u2014 The driver of a car that plunged off a cliff in Northern California, seriously wounding two children and a second\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wibw.com/2023/01/03/2-adults-2-kids-rescued-miracle-after-car-plunges-off-cliff/",
+        "title": "Man suspected of intentionally driving off California cliff - WIBWwibw.comhttps://www.wibw.com \u203a 2023/01/03 \u203a 2-adults-2-kids-r...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theprogress.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffThe Chilliwack Progresshttps://www.theprogress.com \u203a news \u203a family-of-4-stil...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rosslandnews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliffRossland Newshttps://www.rosslandnews.com \u203a news \u203a family-of-4-st...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kelownacapnews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffKelowna Capital Newshttps://www.kelownacapnews.com \u203a news \u203a family-of-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vernonmorningstar.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-3354500",
+        "title": "Family of 4 still hospitalized after father drove off cliffVernon Morning Starhttps://www.vernonmorningstar.com \u203a news \u203a family-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.langleyadvancetimes.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-2572308",
+        "title": "Family of 4 still hospitalized after father drove off cliffLangley Advance Timeshttps://www.langleyadvancetimes.com \u203a news \u203a family...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quesnelobserver.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliffQuesnel Cariboo Observerhttps://www.quesnelobserver.com \u203a news \u203a family-of-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kimberleybulletin.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffKimberley Bulletinhttps://www.kimberleybulletin.com \u203a news \u203a family-of...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nelsonstar.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-4909458",
+        "title": "Family of 4 still hospitalized after father drove off cliff - Nelson ...Nelson Starhttps://www.nelsonstar.com \u203a news \u203a family-of-4-still-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.agassizharrisonobserver.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliffAgassiz-Harrison Observerhttps://www.agassizharrisonobserver.com \u203a news \u203a fa...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kimberleybulletin.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffKimberley Bulletinhttps://www.kimberleybulletin.com \u203a news \u203a family-of...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.langleyadvancetimes.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-2572308",
+        "title": "Family of 4 still hospitalized after father drove off cliffLangley Advance Timeshttps://www.langleyadvancetimes.com \u203a news \u203a family...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thefreepress.ca/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffthefreepress.cahttps://www.thefreepress.ca \u203a news \u203a family-of-4-still-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oakbaynews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-538167",
+        "title": "Family of 4 still hospitalized after father drove off cliff - Oak Bay ...Oak Bay Newshttps://www.oakbaynews.com \u203a news \u203a family-of-4-sti...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.abbynews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffThe Abbotsford Newshttps://www.abbynews.com \u203a news \u203a family-of-4-still-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clearwatertimes.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliffClearwater Timeshttps://www.clearwatertimes.com \u203a news \u203a family-of-4...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.terracestandard.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliff - Terrace ...Terrace Standardhttps://www.terracestandard.com \u203a news \u203a family-of-4...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vernonmorningstar.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-3354500",
+        "title": "Family of 4 still hospitalized after father drove off cliffVernon Morning Starhttps://www.vernonmorningstar.com \u203a news \u203a family-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vancouverislandfreedaily.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffVancouver Island Free Dailyhttps://www.vancouverislandfreedaily.com \u203a news \u203a fa...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sookenewsmirror.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffSooke News Mirrorhttps://www.sookenewsmirror.com \u203a news \u203a family-of...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.rtl.be/page-videos/monde/sauvetage-miraculeux-aux-etats-unis-une-famille-survit-apres-avoir-chute-dune/2023-01-04/video/514271",
+        "title": "Sauvetage miraculeux aux Etats-Unis: une famille survit apr\u00e8s ...RTL infohttps://www.rtl.be \u203a monde \u203a video",
+        "content": "monde accident Tesla San Francisco. S\u00e9lectionn\u00e9 pour vous. Une actualit\u00e9 s\u00e9lectionn\u00e9e pour vous ! S\u00e9lectionnez les th\u00e8mes qui vous int\u00e9ressent\u00a0...",
+        "size": [
+          644,
+          362
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ladysmithchronicle.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffLadysmith Chemainus Chroniclehttps://www.ladysmithchronicle.com \u203a news \u203a family-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pressdemocrat.com/article/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off San Mateo ...The Press Democrathttps://www.pressdemocrat.com \u203a News \u203a State",
+        "content": "The driver of the Tesla that plunged off a cliff in Northern ... Patel is a doctor in radiology at Providence Holy Cross Medical Center in\u00a0...",
+        "size": [
+          1022,
+          460
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reviewjournal.com/news/nation-and-world/father-drives-family-in-tesla-off-california-cliff-2706179/",
+        "title": "Father drives family in Tesla off California cliff | Nation and WorldLas Vegas Review-Journalhttps://www.reviewjournal.com \u203a ... \u203a Nation and World",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          700,
+          460
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.revelstokereview.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffRevelstoke Reviewhttps://www.revelstokereview.com \u203a news \u203a family-of-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://timesofsandiego.com/crime/2023/01/04/pasadena-doctor-whose-familys-tesla-plunged-off-cliff-faces-attempted-murder-charges/",
+        "title": "Pasadena Doctor Whose Family's Tesla Plunged Off Cliff ...Times of San Diegohttps://timesofsandiego.com \u203a Crime",
+        "content": "",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pasadenanow.com/main/chp-pasadena-man-purposely-drove-tesla-off-cliff-with-three-others-inside",
+        "title": "CHP: Pasadena Man Purposely Drove Tesla Off Cliff With ...Pasadena Nowhttps://www.pasadenanow.com \u203a main \u203a chp-pasadena...",
+        "content": "A 42-year-old Pasadena man has been arrested for allegedly intentionally driving a Tesla approximately 250-300 feet down a cliff off Highway\u00a0...",
+        "size": [
+          740,
+          400
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.telegraph.co.uk/world-news/2023/01/04/doctor-arrested-attempted-murder-driving-family-off-cliff/",
+        "title": "Doctor arrested for attempted murder after driving family off ...The Telegraphhttps://www.telegraph.co.uk \u203a world-news \u203a 2023/01/04",
+        "content": "Dharmesh A Patel, 42, a radiologist at Providence Holy Cross Medical Centre in Los Angeles is said to have deliberately steered the white Tesla\u00a0...",
+        "size": [
+          922,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.peacearchnews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffPeace Arch Newshttps://www.peacearchnews.com \u203a news \u203a family-of-4...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.saanichnews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliff - Saanich ...Saanich Newshttps://www.saanichnews.com \u203a news \u203a family-of-4-sti...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.northdeltareporter.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffNorth Delta Reporterhttps://www.northdeltareporter.com \u203a news \u203a family-o...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox5vegas.com/2023/01/04/man-suspected-intentionally-driving-off-california-cliff/",
+        "title": "Man suspected of intentionally driving off California clifffox5vegas.comhttps://www.fox5vegas.com \u203a 2023/01/04 \u203a man-suspect...",
+        "content": "However, Patel is a \u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.coastmountainnews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffCoast Mountain Newshttps://www.coastmountainnews.com \u203a news \u203a family-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reuters.com/legal/california-doctor-who-drove-tesla-off-cliff-be-charged-with-attempted-murder-2023-01-04/",
+        "title": "California doctor who drove Tesla off cliff to be charged with ...Reutershttps://www.reuters.com \u203a legal \u203a california-doctor-who-...",
+        "content": "A doctor whom police say intentionally drove his Tesla off a California cliff - injuring his two children, his wife and himself - will face\u00a0...",
+        "size": [
+          1024,
+          536
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.insider.com/father-accused-driving-tesla-off-notoriously-dangerous-cliff-devils-slide-2023-1",
+        "title": "Father Accused by Authorities of Driving Tesla Off Notoriously ...insider.comhttps://www.insider.com \u203a News",
+        "content": "On Monday, four passengers miraculously survived the steep drop after the car careened off the 250-foot cliff on the Northern California\u00a0...",
+        "size": [
+          1000,
+          500
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.northislandgazette.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffNorth Island Gazettehttps://www.northislandgazette.com \u203a news \u203a family-o...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.msn.com/en-gb/news/world/doctor-arrested-for-attempted-murder-after-driving-family-off-250ft-cliff/ar-AA15YrO6?ocid=sf",
+        "title": "Doctor arrested for attempted murder after driving family off ...MSNhttps://www.msn.com \u203a en-gb \u203a news \u203a world",
+        "content": "A California doctor whose Tesla plunged off a 250ft cliff with his family inside has been arrested on suspicion of attempted murder after\u00a0...",
+        "size": [
+          922,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.clarin.com/internacional/doctor-quiso-matar-familia-arrojandose-acantilado-sobrevivieron-espera-peor_0_audYMy9XbF.html",
+        "title": "Un doctor quiso matar a su familia arroj\u00e1ndose de un acantiladoClar\u00ednhttps://www.clarin.com \u203a internacio...",
+        "content": "En California, Dharmesh Arvind Patel, un hombre de 41 a\u00f1os que manejaba un Tesla, decidi\u00f3 matarse y con \u00e9l a toda su familia y aunque su\u00a0...",
+        "size": [
+          720,
+          480
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pqbnews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-1210697",
+        "title": "Family of 4 still hospitalized after father drove off cliffParksville Qualicum Beach Newshttps://www.pqbnews.com \u203a news \u203a family-of-4-still-h...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mapleridgenews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff/",
+        "title": "Family of 4 still hospitalized after father drove off cliffMaple Ridge-Pitt Meadows Newshttps://www.mapleridgenews.com \u203a news \u203a family-of-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elimparcial.com/mundo/Investigan-a-medico-por-intento-de-asesinato-despues-de-que-el-auto-donde-iba-con-su-familia-cayera-70-metros-por-un-acantilado-al-dar-un-giro-en-U-20230104-0076.html",
+        "title": "Investigan a m\u00e9dico por intento de asesinato despu\u00e9s de que ...El Imparcialhttps://www.elimparcial.com \u203a mundo",
+        "content": "HE GOT MAD OVER CURRY! California doctor charged with attempted murder for ... Tesla off cliff with another adult, 2 kids in car: authorities",
+        "size": [
+          688,
+          428
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.msn.com/en-gb/news/world/doctor-arrested-for-attempted-murder-after-driving-family-off-250ft-cliff/ar-AA15YrO6",
+        "title": "Doctor arrested for attempted murder after driving family off ...MSNhttps://www.msn.com \u203a en-gb \u203a news \u203a world",
+        "content": "A California doctor whose Tesla plunged off a 250ft cliff with his family inside has been arrested on suspicion of attempted murder after\u00a0...",
+        "size": [
+          922,
+          576
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://peopleenespanol.com/noticias/medico-arrestado-por-lanzar-tesla-al-vacio-en-california/",
+        "title": "M\u00e9dico acusado de lanzarse con un Tesla por un acantilado ...People en Espa\u00f1olhttps://peopleenespanol.com \u203a medi...",
+        "content": "... Tesla over cliff California. Credit: San Mateo County Sheriff's Office ... off in our systems. They are usually only\u00a0...",
+        "size": [
+          2503,
+          1252
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.upi.com/Top_News/US/2023/01/04/Telsa-driver-arrested-attempted-murder/9871672817318/",
+        "title": "Man arrested after driving Tesla off cliff with family inside carupi.comhttps://www.upi.com \u203a Top_News \u203a 2023/01/04 \u203a Tel...",
+        "content": "",
+        "size": [
+          700,
+          333
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.9news.com.au/world/man-accused-of-intentionally-driving-off-a-cliff-with-his-wife-and-2-children/d7e7fe9e-3997-42cc-8ae4-e32751b598c9",
+        "title": "California Tesla crash: Man accused of intentionally driving off ...9News.com.auhttps://www.9news.com.au \u203a World",
+        "content": "Attempted murder charges after 'intentional' Tesla cliff crash on California highway \u00b7 California Highway Patrol spokesman Officer Mark Andrews\u00a0...",
+        "size": [
+          1200,
+          628
+        ],
+        "date": "2023:01:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oregonlive.com/crime/2023/01/tesla-crash-off-cliff-shatters-idyllic-image-of-california-doctors-family.html",
+        "title": "Tesla crash off cliff shatters idyllic image of California doctor's ...OregonLive.comhttps://www.oregonlive.com \u203a crime \u203a 2023/01 \u203a tesla-cr...",
+        "content": "",
+        "size": [
+          300,
+          135
+        ],
+        "date": "2023:01:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oregonlive.com/crime/2023/01/tesla-driver-charged-with-attempted-murder-after-driving-off-cliff-with-3-passengers-in-car-all-survive.html",
+        "title": "Tesla driver charged with attempted murder after driving off ...OregonLive.comhttps://www.oregonlive.com \u203a crime \u203a 2023/01 \u203a tesla-dr...",
+        "content": "However, Patel is a doctor in radiology at Providence Holy Cross Medical ... The driver of the Tesla that plunged off a cliff in Northern\u00a0...",
+        "size": [
+          300,
+          135
+        ],
+        "date": "2023:01:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsbreak.com/los-angeles-ca/2880591517223-dharmesh-patel-delivered-gift-before-allegedly-purposely-driving-tesla-off-cliff",
+        "title": "Dharmesh Patel delivered gift before allegedly purposely ...newsbreak.comhttps://www.newsbreak.com \u203a Los Angeles, CA",
+        "content": "The doctor who allegedly drove his Tesla off a California cliff on purpose was filmed delivering a Christmas gift to a neighbor just days\u00a0...",
+        "size": [
+          580,
+          386
+        ],
+        "date": "2023:01:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nilepost.co.ug/2023/01/09/man-tries-to-kill-wife-two-children-by-driving-car-off-cliff/",
+        "title": "Man tries to kill wife, two children, by driving car off cliffNile Posthttps://nilepost.co.ug \u203a Blog",
+        "content": "All four occupants of the Tesla survived the crash Monday after the car plunged 250 to 300 feet into a rocky beach area known as Devil's\u00a0...",
+        "size": [
+          360,
+          180
+        ],
+        "date": "2023:01:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pasadenaweekly.com/news/pasadena-father-arrested-after-driving-family-off-cliff/article_201a6ce2-91f0-11ed-8b26-43d0fabd58c1.html",
+        "title": "Pasadena father arrested after driving family off cliff | NewsPasadena Weeklyhttps://www.pasadenaweekly.com \u203a news \u203a pasadena-fat...",
+        "content": "CHP investigators arrested Patel on the belief he drove the family's white Tesla off the cliff intentionally. In a statement, CHP stated\u00a0...",
+        "size": [
+          1200,
+          540
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/news/national/2023/01/28/driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California cliff crash moved from hospital to jailNews4JAXhttps://www.news4jax.com \u203a national \u203a 2023/01/28",
+        "content": "The driver of the car that plunged 250 feet off a cliff in Northern ... Tesla Model Y to rule out the possibility of a mechanical problem.",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.abc27.com/news/us-world/ap-driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California Tesla crash jailed for attempted murderABC27https://www.abc27.com \u203a news \u203a us-world \u203a ap-driver...",
+        "content": "MONTARA, Calif. (AP) \u2014 The driver of a car that plunged 250 feet (76 meters) off a treacherous cliff in northern California, injuring his\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wkbn.com/news/national-world/ap-us-news/ap-driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California Tesla crash jailed for attempted murderWKBN.comhttps://www.wkbn.com \u203a national-world \u203a ap-us-news",
+        "content": "MONTARA, Calif. (AP) \u2014 The driver of a car that plunged 250 feet (76 meters) off a treacherous cliff in northern California, injuring his\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/news/national/2023/01/28/driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California cliff crash moved from hospital to jail - WPLGWPLGhttps://www.local10.com \u203a news \u203a national \u203a 2023/01/28",
+        "content": "The driver of the car that plunged 250 feet off a cliff in Northern ... Tesla Model Y to rule out the possibility of a mechanical problem.",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.siouxlandproud.com/news/national/ap-driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California Tesla crash jailed for attempted murderSiouxlandProudhttps://www.siouxlandproud.com \u203a news \u203a national",
+        "content": "MONTARA, Calif. (AP) \u2014 The driver of a car that plunged 250 feet (76 meters) off a treacherous cliff in northern California, injuring his\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.yourcentralvalley.com/news/u-s-world/ap-driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California Tesla crash jailed for attempted murderYourCentralValley.comhttps://www.yourcentralvalley.com \u203a news \u203a u-s-world",
+        "content": "MONTARA, Calif. (AP) \u2014 The driver of a car that plunged 250 feet (76 meters) off a treacherous cliff in northern California, injuring his\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox59.com/news/national-world/ap-us-news/ap-driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California Tesla crash jailed for attempted murderFox 59https://fox59.com \u203a news \u203a national-world \u203a ap-us-news",
+        "content": "MONTARA, Calif. (AP) \u2014 The driver of a car that plunged 250 feet (76 meters) off a treacherous cliff in northern California, injuring his\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wspa.com/news/national/driver-in-california-cliff-crash-moved-from-hospital-to-jail/",
+        "title": "Driver in California cliff crash moved from hospital to jail - WSPAWSPA 7NEWShttps://www.wspa.com \u203a news \u203a national \u203a driver-in-c...",
+        "content": "The driver of a car that plunged 250 feet off a treacherous cliff in northern California, injuring his two young children and his wife,\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/news/national/2023/01/28/driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California cliff crash moved from hospital to jailWKMGhttps://www.clickorlando.com \u203a national \u203a 2023/01/28",
+        "content": "The driver of a car that plunged 250 feet off a treacherous cliff in northern California, injuring his two young children and his wife,\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sandiegouniontribune.com/news/california/story/2023-01-27/driver-in-california-tesla-crash-jailed-for-attempted-murder",
+        "title": "Driver in California cliff crash moved from hospital to jailSan Diego Union-Tribunehttps://www.sandiegouniontribune.com \u203a california \u203a story",
+        "content": "The driver of a car that plunged 250 feet off a treacherous cliff in ... Tesla Model Y to rule out the possibility of a mechanical problem\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.counton2.com/news/national-news/ap-driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California Tesla crash jailed for attempted murderWCBDhttps://www.counton2.com \u203a news \u203a national-news \u203a a...",
+        "content": "MONTARA, Calif. (AP) \u2014 The driver of a car that plunged 250 feet (76 meters) off a treacherous cliff in northern California, injuring his\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/news/national/2023/01/28/driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California cliff crash moved from hospital to jail - KSATKSAThttps://www.ksat.com \u203a news \u203a national \u203a 2023/01/28",
+        "content": "The driver of the car that plunged 250 feet off a cliff in Northern ... Tesla Model Y to rule out the possibility of a mechanical problem.",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/national/2023/01/28/driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California cliff crash moved from hospital to jailClickOnDetroithttps://www.clickondetroit.com \u203a national \u203a 2023/01/28",
+        "content": "The driver of the car that plunged 250 feet off a cliff in Northern ... Tesla Model Y to rule out the possibility of a mechanical problem.",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.the-independent.com/news/world/americas/crime/tesla-driver-dharmesh-patel-california-cliff-b2271006.html",
+        "title": "Father who 'drove Tesla off cliff with family inside' held for ...the-independent.comhttps://www.the-independent.com \u203a ... \u203a US Crime News",
+        "content": "Father in California crash who 'drove Tesla off cliff with family inside' held for attempted murder ... Pasadena doctor intentionally drove his\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:01:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/news/national/2023/01/28/driver-in-california-tesla-crash-jailed-for-attempted-murder/",
+        "title": "Driver in California cliff crash moved from hospital to jailWSLShttps://www.wsls.com \u203a news \u203a national \u203a 2023/01/28",
+        "content": "The driver of a car that plunged 250 feet off a treacherous cliff in northern California, injuring his two young children and his wife,\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsnationnow.com/us-news/west/driver-california-tesla-crash-jailed-attempted-murder/",
+        "title": "Driver of Tesla that went off California cliff out of hospital, jailedNewsNationhttps://www.newsnationnow.com \u203a us-news \u203a west \u203a d...",
+        "content": "The driver of a car that plunged 250 feet off a treacherous cliff in northern California, injuring his two young children and his wife,\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:01:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://krcrtv.com/news/local/driver-in-california-cliff-crash-moved-from-hospital-to-jail",
+        "title": "Driver in California cliff crash moved from hospital to jail - KRCRKRCR-TVhttps://krcrtv.com \u203a news \u203a local \u203a driver-in-california...",
+        "content": "MONTARA, Calif. (AP) \u2014 The driver of a car that plunged 250 feet (76 meters) off a treacherous cliff in northern California, injuring his\u00a0...",
+        "size": [
+          1050,
+          591
+        ],
+        "date": "2023:01:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kttc.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KTTCKTTChttps://www.kttc.com \u203a 2023/01/30 \u203a driver-california-cl...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kptv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KPTVKPTVhttps://www.kptv.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.alaskasnewssource.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 chargedAlaska's News Sourcehttps://www.alaskasnewssource.com \u203a 2023/01/30 \u203a driv...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wdbj7.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WDBJWDBJhttps://www.wdbj7.com \u203a 2023/01/30 \u203a driver-california...",
+        "content": "",
+        "size": [
+          300,
+          135
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox10tv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 chargedfox10tv.comhttps://www.fox10tv.com \u203a 2023/01/30 \u203a driver-californ...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wrdw.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 chargedwrdw.comhttps://www.wrdw.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kcbd.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/?outputType=apps",
+        "title": "Driver in California cliff crash that injured 4 charged - KCBDKCBDhttps://www.kcbd.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.21alivenews.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - 21Alive21Alivehttps://www.21alivenews.com \u203a 2023/01/30 \u203a driver-cali...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbay.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WBAYwbay.comhttps://www.wbay.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kcbd.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KCBDKCBDhttps://www.kcbd.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.whsv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/?outputType=apps",
+        "title": "Driver in California cliff crash that injured 4 charged - WHSVWHSVhttps://www.whsv.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.live5news.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 chargedlive5news.comhttps://www.live5news.com \u203a 2023/01/30 \u203a driver-califo...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mysuncoast.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WWSBABC7 WWSBhttps://www.mysuncoast.com \u203a 2023/01/30 \u203a driver-calif...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kmov.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KMOVKMOVhttps://www.kmov.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wyomingnewsnow.tv/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 chargedWyoming News Nowhttps://www.wyomingnewsnow.tv \u203a 2023/01/30 \u203a driver...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsaz.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WSAZWSAZhttps://www.wsaz.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kwqc.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KWQCKWQChttps://www.kwqc.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "REDWOOD CITY, Calif. (AP) \u2014 The driver of a car that plunged off a treacherous cliff in northern California, seriously injuring himself,\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.walb.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WALBWALBhttps://www.walb.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsmv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WSMVwsmv.comhttps://www.wsmv.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox8live.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - Fox 8fox8live.comhttps://www.fox8live.com \u203a 2023/01/30 \u203a driver-californ...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kxii.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KXIIKXIIhttps://www.kxii.com \u203a 2023/01/30 \u203a driver-california-cl...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wvlt.tv/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WVLTWVLThttps://www.wvlt.tv \u203a 2023/01/30 \u203a driver-california-clif...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wvva.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WVVAWVVAhttps://www.wvva.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newschannel6now.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 chargedNews Channel 6 | Wichita Falls, TXhttps://www.newschannel6now.com \u203a 2023/01/30 \u203a driv...",
+        "content": "REDWOOD CITY, Calif. (AP) \u2014 The driver of a car that plunged off a treacherous cliff in northern California, seriously injuring himself,\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kctv5.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KCTVKCTVhttps://www.kctv5.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kalb.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KALBkalb.comhttps://www.kalb.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hawaiinewsnow.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 chargedHawaii News Nowhttps://www.hawaiinewsnow.com \u203a 2023/01/30 \u203a driver-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wagmtv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WAGMWAGM-TVhttps://www.wagmtv.com \u203a 2023/01/30 \u203a driver-californ...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ky3.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KY3ky3.comhttps://www.ky3.com \u203a 2023/01/30 \u203a driver-california-cl...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtoc.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WTOCWTOChttps://www.wtoc.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.whsv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WHSVWHSVhttps://www.whsv.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kfvs12.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KFVS12KFVS12https://www.kfvs12.com \u203a 2023/01/30 \u203a driver-californi...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.keyc.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KEYCKEYC News Nowhttps://www.keyc.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wcjb.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WCJBWCJB TV20https://www.wcjb.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtvm.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WTVMWTVMhttps://www.wtvm.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kcrg.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KCRGKCRGhttps://www.kcrg.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.1011now.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KOLN1011now.comhttps://www.1011now.com \u203a 2023/01/30 \u203a driver-califor...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wect.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/?outputType=apps",
+        "title": "Driver in California cliff crash that injured 4 charged - WECTWECThttps://www.wect.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox19.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - FOX19FOX19https://www.fox19.com \u203a 2023/01/30 \u203a driver-california...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kfyrtv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KFYRKFYR-TVhttps://www.kfyrtv.com \u203a 2023/01/30 \u203a driver-california...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.latimes.com/california/story/2023-01-30/tesla-driver-family-northern-california-cliff-charged-attempted-murder",
+        "title": "Man who drove family off California cliff charged with ...Los Angeles Timeshttps://www.latimes.com \u203a california \u203a story \u203a tesla-drive...",
+        "content": "Neha Patel was still conscious when paramedics rescued her from a white Tesla that had gone off Highway 1 over the cliff at Devil's Slide\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wkyt.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WKYTWKYThttps://www.wkyt.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox5vegas.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 chargedfox5vegas.comhttps://www.fox5vegas.com \u203a 2023/01/30 \u203a driver-califo...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksla.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KSLAKSLAhttps://www.ksla.com \u203a 2023/01/30 \u203a driver-california-cl...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wymt.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WYMTWYMThttps://www.wymt.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtok.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/?outputType=apps",
+        "title": "Driver in California cliff crash that injured 4 charged - WTOKWTOKhttps://www.wtok.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kait8.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KAITKAIThttps://www.kait8.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wwnytv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WWNYWWNY-TVhttps://www.wwnytv.com \u203a 2023/01/30 \u203a driver-californ...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wowt.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WOWTWOWThttps://www.wowt.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kktv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KKTVKKTVhttps://www.kktv.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbc15.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WMTVWMTVhttps://www.nbc15.com \u203a 2023/01/30 \u203a driver-california...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/us/california-man-who-drove-tesla-off-cliff-wife-2-kids-inside-transported-jail-hospital",
+        "title": "California doctor who drove Tesla off cliff with wife, 2 kids ...Fox Newshttps://www.foxnews.com \u203a california-man-who-drov...",
+        "content": "Dharmesh Patel, the California man accused of driving his wife and two children off a cliff on Jan. 2, has been transported from the\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kmov.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/?outputType=apps",
+        "title": "Driver in California cliff crash that injured 4 charged - KMOVKMOVhttps://www.kmov.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kjct8.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KJCTkjct8.comhttps://www.kjct8.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wlbt.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WLBTWLBThttps://www.wlbt.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksnblocal4.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KSNBKSNBhttps://www.ksnblocal4.com \u203a 2023/01/30 \u203a driver-calif...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wafb.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WAFBWAFBhttps://www.wafb.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox8live.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/?outputType=apps",
+        "title": "Driver in California cliff crash that injured 4 charged - Fox 8fox8live.comhttps://www.fox8live.com \u203a 2023/01/30 \u203a driver-californ...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kalb.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/?outputType=apps",
+        "title": "Driver in California cliff crash that injured 4 charged - KALBkalb.comhttps://www.kalb.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.witn.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WITNWITNhttps://www.witn.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "REDWOOD CITY, Calif. (AP) \u2014 The driver of a car that plunged off a treacherous cliff in northern California, seriously injuring himself,\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.1011now.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KOLN1011now.comhttps://www.1011now.com \u203a 2023/01/30 \u203a driver-califor...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kmvt.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KMVTKMVThttps://www.kmvt.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wymt.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WYMTWYMThttps://www.wymt.com \u203a 2023/01/30 \u203a driver-california-...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kbtx.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KBTXKBTX News 3https://www.kbtx.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wect.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WECTWECThttps://www.wect.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox19.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - FOX19FOX19https://www.fox19.com \u203a 2023/01/30 \u203a driver-california...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wwnytv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/?outputType=apps",
+        "title": "Driver in California cliff crash that injured 4 charged - WWNYWWNY-TVhttps://www.wwnytv.com \u203a 2023/01/30 \u203a driver-californ...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kfyrtv.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - KFYRKFYR-TVhttps://www.kfyrtv.com \u203a 2023/01/30 \u203a driver-california...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wabi.tv/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WABIWABIhttps://www.wabi.tv \u203a 2023/01/30 \u203a driver-california-clif...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wlbt.com/2023/01/30/driver-california-cliff-crash-that-injured-4-charged/",
+        "title": "Driver in California cliff crash that injured 4 charged - WLBTWLBThttps://www.wlbt.com \u203a 2023/01/30 \u203a driver-california-c...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kmph.com/news/local/driver-in-california-cliff-crash-that-injured-4-is-charged-san-mateo-county-district-attorney-devils-slide-pacific-coast-highway-tesla",
+        "title": "Driver in California cliff crash that injured 4 is charged - KMPHKMPHhttps://kmph.com \u203a news \u203a local \u203a driver-in-california-cli...",
+        "content": "Firefighters had to cut open the Tesla Model Y to ... Wagstaffe said his office was still trying to determine why Patel drove off the cliff.",
+        "size": [
+          640,
+          274
+        ],
+        "date": "2023:01:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sandiegouniontribune.com/news/california/story/2023-01-31/tesla-driver-family-northern-california-cliff-charged-attempted-murder",
+        "title": "Man who drove family off California cliff charged with ...San Diego Union-Tribunehttps://www.sandiegouniontribune.com \u203a california \u203a story",
+        "content": "Neha Patel was still conscious when paramedics rescued her from a white Tesla that had gone off Highway 1 over the cliff at Devil's Slide\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://time.news/usa-tesla-fell-over-a-cliff-now-the-drivers-wife-speaks/",
+        "title": "USA: Tesla fell over a cliff \u2013 now the driver's wife speakstime.newshttps://time.news \u203a usa-tesla-fell-over-a-cliff-now-the-...",
+        "content": "... off charging him until he was transferred from the hospital last week. Neha Patel and the two children have now also been able to leave the\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mirror.co.uk/news/us-news/wife-says-he-tried-kill-29098801",
+        "title": "Wife says 'he tried to kill us' to paramedics after ... - The MirrorMirrorhttps://www.mirror.co.uk \u203a News \u203a US News \u203a Crime",
+        "content": "Wife says 'he tried to kill us' to paramedics after husband drives Tesla off cliff ... The wife of a doctor accused of attempted murder after the\u00a0...",
+        "size": [
+          615,
+          345
+        ],
+        "date": "2023:01:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abcnews.go.com/US/man-allegedly-intentionally-drove-tesla-off-cliff-family/story?id=96783905",
+        "title": "Man who allegedly intentionally drove Tesla off cliff with family ...ABC Newshttps://abcnews.go.com \u203a story",
+        "content": "A California man who prosecutors say intentionally drove his Tesla off a cliff with his family inside is facing attempted murder charges.",
+        "size": [
+          384,
+          216
+        ],
+        "date": "2023:01:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.telemundo.com/noticias/noticias-telemundo/crimen-y-violencia/trato-de-matarnos-dice-la-esposa-del-hombre-acusado-de-aventar-un-tesl-rcna68516",
+        "title": "\"Trat\u00f3 de matarnos\", dice la esposa del hombre acusado de ...Telemundohttps://www.telemundo.com \u203a crimen-y-violencia \u203a trato...",
+        "content": "\"Trat\u00f3 de matarnos\", dice la esposa del hombre acusado de aventar un Tesla al precipicio en California ... Arrestan doctor por lanzarse en un\u00a0...",
+        "size": [
+          1024,
+          512
+        ],
+        "date": "2023:02:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/us/dharmesh-patel-son-california-doctor-who-allegedly-drove-family-off-cliff-had-no-injuries-fall",
+        "title": "Son of California doctor who allegedly drove family off cliff had ...Fox Newshttps://www.foxnews.com \u203a dharmesh-patel-son-califo...",
+        "content": "The 4-year-old son of Dharmesh Patel, a California doctor accused of driving his family off a cliff, had 'no injuries at all' after the\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.washingtonexaminer.com/news/wife-doctor-drove-off-california-cliff-doesnt-want-him-prosecuted",
+        "title": "Wife of doctor who drove her off California cliff says she doesn ...Washington Examinerhttps://www.washingtonexaminer.com \u203a news \u203a wife-d...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.insideedition.com/wife-of-man-accused-of-intentionally-driving-his-family-off-a-cliff-has-asked-officials-not-to",
+        "title": "Man Accused of Driving Family Off Cliff on Purpose Pleads ...Inside Editionhttps://www.insideedition.com \u203a wife-of-man-accused-...",
+        "content": "The wife of a California doctor who allegedly drove his car off a cliff ... tesla \u00b7 doctor \u00b7 police \u00b7 california. Trending on Inside Edition. 1.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:02:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.the-independent.com/news/world/americas/crime/tesla-crash-dharmesh-patel-pasadena-california-b2281688.html",
+        "title": "Wife of man accused of driving family off cliff in Tesla 'doesn't ...the-independent.comhttps://www.the-independent.com \u203a ... \u203a US Crime News",
+        "content": "The Tesla car that he allegedly drove off a cliff had his wife Neha and their children inside. Ms Patel had initially told first responders that\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:02:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.insideedition.com/texts-beloved-tennessee-teen-sent-before-being-fatally-shot-helped-catch-her-alleged-killers-mom",
+        "title": "Beloved Teen Fatally Shot After Leaving High School ...Inside Editionhttps://www.insideedition.com \u203a texts-beloved-tenness...",
+        "content": "Related Stories. Man Accused of Driving Family Off Cliff on Purpose Pleads Not Guilty ... 4. Woman Drives Around Railroad Crossing Gate as Train\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:02:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.insideedition.com/florida-church-deacon-sentenced-to-22-years-in-prison-for-possessing-and-producing-child",
+        "title": "Florida Deacon Sentenced for Producing Child Porn in ChurchInside Editionhttps://www.insideedition.com \u203a florida-church-deaco...",
+        "content": "Jim Phillips. Related Stories. California Man Beaten, His Family Threatened at 'Sideshow' \u00b7 Man Accused of Driving Family Off Cliff on Purpose\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:02:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deal.town/san-francisco-chronicle/killion-warriors-face-a-dynastic-threat-from-kings-in-a-game-7-showdown-P3NPTJN5L",
+        "title": "Killion: Warriors face a dynastic threat from Kings in a Game 7 ...dealtownhttps://deal.town \u203a san-francisco-chronicle",
+        "content": "Why police believe California dad drove Tesla off cliff\u00a0...",
+        "size": [
+          300,
+          300
+        ],
+        "date": "2023:04:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deal.town/san-francisco-chronicle/did-this-california-burger-joint-inspire-the-krusty-krab-from-spongebob-P3JCVCPCW9",
+        "title": "Did this California burger joint inspire the Krusty Krab from ...dealtownhttps://deal.town \u203a san-francisco-chronicle",
+        "content": "Instead, drive five hours north on Highway 101. Plenty of locals in ... Why police\u00a0...",
+        "size": [
+          300,
+          300
+        ],
+        "date": "2023:05:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deal.town/san-francisco-chronicle/did-this-california-burger-joint-inspire-the-krusty-krab-from-spongebob-P3JCVCPCW9",
+        "title": "Did this California burger joint inspire the Krusty Krab from ...dealtownhttps://deal.town \u203a san-francisco-chronicle",
+        "content": "Instead, drive five hours north on Highway 101. Plenty of locals in ... Why police\u00a0...",
+        "size": [
+          300,
+          300
+        ],
+        "date": "2023:05:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deal.town/san-francisco-chronicle/warriors-found-lineup-twist-that-nearly-saved-them-but-it-comes-at-big-cost-P3XE9CQQ9",
+        "title": "Warriors found lineup twist that nearly saved them, but it ...dealtownhttps://deal.town \u203a san-francisco-chronicle",
+        "content": "Why police believe California dad drove Tesla off cliff\u00a0...",
+        "size": [
+          300,
+          300
+        ],
+        "date": "2023:05:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deal.town/san-francisco-chronicle/with-ai-on-the-rise-get-that-english-degree-ready-you-might-actually-need-it-F3PSF64QL",
+        "title": "With AI on the rise, get that English degree ready. You might ...dealtownhttps://deal.town \u203a san-francisco-chronicle",
+        "content": "Why police believe California dad drove Tesla off cliff\u00a0...",
+        "size": [
+          300,
+          300
+        ],
+        "date": "2023:05:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.abc10.com/article/news/local/california/wife-says-california-doctor-purposely-drove-family-off-cliff/103-6439fc54-625c-45ee-9e81-d942b5ca36da",
+        "title": "Court Record: California doctor purposely drove family off cliffABC10https://www.abc10.com \u203a article \u203a news \u203a local \u203a wife-...",
+        "content": "\"He said he was going to drive off the cliff. He purposely drove off ... Tesla driver pleads not guilty to attempted murder in cliff plunge.",
+        "size": [
+          1140,
+          641
+        ],
+        "date": "2023:05:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deal.town/annoushka/knuckle-the-craft-behind-the-collection-F3A68RFPL",
+        "title": "Knuckle: the craft behind the collection - Annoushka - Deal Towndealtownhttps://deal.town \u203a annoushka",
+        "content": "Why police believe California dad drove Tesla off cliff \u00b7 san francisco chronicle \u00b7 Why police believe California dad drove Tesla off cliff.",
+        "size": [
+          300,
+          300
+        ],
+        "date": "2023:05:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sandiegouniontribune.com/news/california/story/2023-05-17/california-radiologist-intentionally-drove-family-off-cliff-wife-says",
+        "title": "Court record: Wife says California doctor purposely drove ...San Diego Union-Tribunehttps://www.sandiegouniontribune.com \u203a california \u203a story",
+        "content": "The wife of a California radiologist accused of trying to kill his family when he drove his Tesla off a cliff along the Northern California\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:05:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/05/17/dharmesh-patel-intentionally-drove-tesla-off-cliff-wife/",
+        "title": "Dharmesh Patel intentionally drove Tesla off cliff: wifeNew York Posthttps://nypost.com \u203a 2023/05/17 \u203a dharmesh-patel-int...",
+        "content": "Suicidal Tesla driver Dharmesh Patel blames car for plunging off cliff \u2014 but wife says he 'purposely drove off' ... The suicidal doctor accused of\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:05:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.huffpost.com/entry/dharmesh-patel-neha-patel-drove-car-off-cliff_n_64655c7ae4b0ab2b97e52cd5",
+        "title": "Radiologist's Wife Says He Intentionally Drove Family Off CliffHuffPosthttps://www.huffpost.com \u203a entry",
+        "content": "Neha Patel told rescuers that Dharmesh Patel intentionally drove off a San Mateo County cliff on Jan. 2 in a bid to kill her and their two\u00a0...",
+        "size": [
+          1200,
+          629
+        ],
+        "date": "2023:05:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.seattletimes.com/nation-world/nation/court-record-wife-says-california-doctor-purposely-drove-family-off-cliff/",
+        "title": "Court record: Wife says California doctor purposely drove ...The Seattle Timeshttps://www.seattletimes.com \u203a Nation & World \u203a Nation",
+        "content": "REDWOOD CITY, Calif. (AP) \u2014 The wife of a California radiologist accused of trying to kill his family when he drove his Tesla off a cliff\u00a0...",
+        "size": [
+          1200,
+          576
+        ],
+        "date": "2023:05:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://apnews.com/article/california-driver-drove-off-cliff-2f6e3ffe3c741eec6d8b365da14d8dcc",
+        "title": "Wife says California doctor purposely drove family off cliffAP Newshttps://apnews.com \u203a article",
+        "content": "The San Francisco Chronicle reported Wednesday that Neha Patel repeatedly told rescuers that Dharmesh Patel intentionally drove off a San Mateo\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:05:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://newsbasics.com/news/california-radiologists-wife-accuses-him-of-intentionally-driving-family-off-cliff/",
+        "title": "California Radiologist's Wife Accuses Him Of Intentionally ...newsbasics.comhttps://newsbasics.com \u203a news \u203a california-radiologists...",
+        "content": "... Tesla off a cliff along the. ... \u201cHe said he was going to drive off the cliff. He purposely drove off.\u201d Dharmesh Patel, 41, has pleaded not guilty\u00a0...",
+        "size": [
+          1200,
+          629
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/us/california-doctor-purposefully-drove-tesla-cliff-family-inside-affadavit",
+        "title": "California doctor 'purposefully drove' Tesla off cliff with family ...Fox Newshttps://www.foxnews.com \u203a california-doctor-purpose...",
+        "content": "California radiologist Dharmesh Patel was \"depressed\" and \"purposefully drove off\" a cliff in his Tesla with his family inside, his wife, Neha\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.univision.com/local/san-francisco-kdtv/acusan-conductor-tesla-dharmesh-patel-intentar-matar-familia-arrojar-auto-acantilado",
+        "title": "Conductor de Tesla se avent\u00f3 a acantilado con su familia ...Univisionhttps://www.univision.com \u203a local",
+        "content": "Dharmesh Patel, un radi\u00f3logo de Pasadena de 41 a\u00f1os, fue acusado por su esposa de querer matar a su familia tras lanzar el Tesla en que\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktla.com/news/local-news/wife-of-pasadena-doctor-says-he-purposely-drove-off-cliff/",
+        "title": "Pasadena doctor 'purposely drove off' cliff, wife says - KTLAKTLAhttps://ktla.com \u203a news \u203a local-news \u203a wife-of-pasaden...",
+        "content": "",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktla.com/news/wife-of-pasadena-doctor-says-he-purposely-drove-off-cliff/",
+        "title": "Pasadena doctor 'purposely drove off' cliff, wife says - KTLAKTLAhttps://ktla.com \u203a news \u203a wife-of-pasadena-doctor-say...",
+        "content": "",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbsnews.com/sanfrancisco/news/california-radiologist-intentionally-drove-family-off-cliff-wife-says/",
+        "title": "Wife says California doctor purposely drove family off Highway ...CBS Newshttps://www.cbsnews.com \u203a CBS San Francisco \u203a Crime",
+        "content": "The San Francisco Chronicle reported Wednesday that Neha Patel repeatedly told rescuers that Dharmesh Patel intentionally drove off a San Mateo\u00a0...",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbsnews.com/news/dharmesh-patel-california-doctor-wife/",
+        "title": "Wife said California doctor \"purposely drove off\" cliff with ...CBS Newshttps://www.cbsnews.com \u203a Crime",
+        "content": "... Tesla. Patel's wife, Neha, told rescuers, according to the Chronicle: \"He's depressed. He's a doctor. He said he was going to drive off the\u00a0...",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox5vegas.com/2023/05/18/court-record-wife-says-california-doctor-purposely-drove-family-off-cliff/",
+        "title": "Wife says California doctor purposely drove family off clifffox5vegas.comhttps://www.fox5vegas.com \u203a 2023/05/18 \u203a court-record...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12097221/California-doctor-declared-intention-die-driving-cliff-family-wife-says.html",
+        "title": "Wife of 'depressed' California doctor who drove Tesla off cliff ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12097221",
+        "content": "The wife of a California radiologist accused of trying to kill his family by driving his Tesla off a cliff told cops that he declared his\u00a0...",
+        "size": [
+          634,
+          287
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://whatsnew2day.com/california-doctor-declared-his-intention-to-die-before-driving-off-cliff-with-family-wife-says/",
+        "title": "California Doctor Declared His Intention To Die Before Driving ...WhatsNew2dayhttps://whatsnew2day.com \u203a US",
+        "content": "The wife of a California radiologist accused of trying to kill his family by driving his Tesla off a cliff told cops he declared his\u00a0...",
+        "size": [
+          634,
+          287
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.the-independent.com/news/world/americas/crime/tesla-crash-dharmesh-patel-california-b2341161.html",
+        "title": "Tesla-driving California doctor denies wife's claim he ...the-independent.comhttps://www.the-independent.com \u203a ... \u203a US Crime News",
+        "content": "\"He's a doctor. He said he was going to drive off the cliff. He purposely drove off,\" Ms Patel said, according to documents obtained by the San\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.accuweather.com/en/weather-news/man-who-drove-off-california-cliff-says-he-was-pulling-over-to-check-tires-court-documents-say/1529077",
+        "title": "Man who drove off cliff says he was pulling over to check tire ...AccuWeatherhttps://www.accuweather.com \u203a weather-news \u203a man-...",
+        "content": "Rescuers were able to successfully retrieve the four passengers of a Tesla that plunged off a cliff in California. ... Dr. Dharmesh Patel. (San\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/news/father-accused-intentionally-driving-tesla-model-y-off-cliff-tire-issues/",
+        "title": "Father accused of intentionally driving Tesla Model Y off cliff ...driveteslacanada.cahttps://driveteslacanada.ca \u203a news \u203a father-accused-int...",
+        "content": "\u201cHe drove off. He's depressed. He's a doctor. He said he was going to drive off the cliff. He purposefully drove off,\u201d she said. (via San\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.telemundo.com/noticias/noticias-telemundo/justicia/la-esposa-del-radiologo-que-precipito-un-tesla-en-california-con-su-fa-rcna85219",
+        "title": "La esposa del radi\u00f3logo que precipit\u00f3 un Tesla en California ...Telemundohttps://www.telemundo.com \u203a noticias-telemundo \u203a justicia",
+        "content": "El doctor Dharmesh Patel, de 41 a\u00f1os, fue acusado de tres cargos de intento de asesinato tras estrellar el auto con su mujer y dos hijos por\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mirror.co.uk/news/us-news/dad-who-tried-kill-family-30021399",
+        "title": "Dad who 'tried to kill family' by driving Tesla off 330ft cliff 'did it ...Mirrorhttps://www.mirror.co.uk \u203a News \u203a US News \u203a Crime",
+        "content": "Dr Dharmesh Patel, 41, has pleaded not guilty to three counts of attempted murder over the harrowing incident which occurred on January 2, on\u00a0...",
+        "size": [
+          615,
+          277
+        ],
+        "date": "2023:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3221237/wife-us-doctor-who-drove-tesla-cliff-family-says-he-was-trying-kill-everyone",
+        "title": "Wife of US doctor who drove Tesla off cliff with family says he ...South China Morning Posthttps://www.scmp.com \u203a ... \u203a United States & Canada",
+        "content": "Prosecutors charged Dharmesh Patel, 41 with three counts of attempted murder in January after authorities said he drove his Tesla off the\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:05:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfchronicle.com/crime/article/doc-accused-driving-car-cliff-banned-practicing-18150861.php",
+        "title": "Doc accused of driving car over cliff banned from practicing ...San Francisco Chroniclehttps://www.sfchronicle.com \u203a Bay Area \u203a Crime",
+        "content": "'Danger to the public': Doctor accused of intentionally driving Tesla off cliff banned from practicing medicine ... He said he was going to drive\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:06:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12195513/California-doctor-drove-Tesla-cliff-wife-children-inside-barred-medicine.html",
+        "title": "California doctor who drove Tesla off cliff with his ... - Daily MailDaily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12195513",
+        "content": "Radiologist Dharmesh Patel, 41, has pleaded not guilty to three counts of attempted murder after his white 2021 Tesla Model Y veered off the\u00a0...",
+        "size": [
+          634,
+          289
+        ],
+        "date": "2023:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://celebjam.com/crime/california-doctor-who-drove-tesla-off-cliff-with-his-wife-and-children-inside-barred-from-medicine/",
+        "title": "California doctor who drove Tesla off cliff with his wife and ...Celeb Jamhttps://celebjam.com \u203a crime \u203a california-doctor-who-...",
+        "content": "California doctor, 41, who 'tried to kill his family' by driving their Tesla off 250ft Devil's Slide cliff is BANNED from practicing\u00a0...",
+        "size": [
+          634,
+          289
+        ],
+        "date": "2023:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hindustantimes.com/world-news/indianorigin-doctor-drives-tesla-off-cliff-with-family-in-us-california-news-101686842190558.html",
+        "title": "Indian-origin doctor who drove Tesla off cliff with family in US ...Hindustan Timeshttps://www.hindustantimes.com \u203a world news",
+        "content": "Dharmesh A Patel, a radiologist, was charged with three counts of murder in January for intentionally driving a Tesla off a cliff with his wife\u00a0...",
+        "size": [
+          549,
+          309
+        ],
+        "date": "2023:06:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.latimes.com/california/story/2023-06-15/lake-tahoe-attempted-murder-man-arrested-sexual-assault-teenager-reno",
+        "title": "Man tried to drive teen off cliff near Lake Tahoe, deputies sayLos Angeles Timeshttps://www.latimes.com \u203a california \u203a story \u203a lake-tahoe...",
+        "content": "Nevada man is charged with attempted murder and sexual assault after allegedly trying to drive a car off a cliff with a teen in the\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": "2023:06:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/us/doctor-accused-purposely-driving-family-off-cliff-asks-mental-health-treatment-instead-prison",
+        "title": "Doctor accused of 'purposely' driving family off cliff asks for ...Fox Newshttps://www.foxnews.com \u203a doctor-accused-purposely...",
+        "content": "The lawyers for Dharmesh Patel, the California doctor who drove his family off a cliff in an alleged murder-suicide attempt, asked the court\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/07/09/dharmesh-patel-asks-court-for-diversion/",
+        "title": "Doctor who drove family off cliff asks court for mental health ...New York Posthttps://nypost.com \u203a 2023/07/09 \u203a dharmesh-patel-ask...",
+        "content": "",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfchronicle.com/crime/article/dog-ransom-california-18198094.php",
+        "title": "The incredible rescue of a Silicon Valley dog held for ransomSan Francisco Chroniclehttps://www.sfchronicle.com \u203a Bay Area \u203a Crime",
+        "content": "'Danger to the public': Doctor accused of intentionally driving Tesla off cliff banned from practicing medicine. Najib, in a phone interview\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": "2023:07:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sowetanlive.co.za/business/2023-08-01-us-opens-probe-into-280000-new-tesla-vehicles-over-steering-issue/",
+        "title": "US opens probe into 280,000 new Tesla vehicles over ...SowetanLIVEhttps://www.sowetanlive.co.za \u203a business \u203a 2023-08-0...",
+        "content": "The NHTSA would need to upgrade the probe to an engineering analysis before it could demand a recall. Doctor who drove Tesla off cliff to be\u00a0...",
+        "size": [
+          500,
+          281
+        ],
+        "date": "2023:08:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.latimes.com/california/story/2023-08-30/tesla-driver-seeks-mental-health-diversion-in-attempted-murder-case-of-family",
+        "title": "Tesla driver seeks mental health diversion in attempted ...Los Angeles Timeshttps://www.latimes.com \u203a california \u203a story \u203a tesla-drive...",
+        "content": "Man who drove family off cliff in Tesla seeks mental health diversion in attempted murder case. A mugshot of Dharmesh Patel. Dharmesh Patel of\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": "2023:08:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ar.inspiredpencil.com/pictures-2023/signal-mountain-car-over-cliff",
+        "title": "Signal Mountain Car Over Cliffinspiredpencil.comhttps://ar.inspiredpencil.com \u203a pictures-2023 \u203a signal-...",
+        "content": "Parks Canada not commenting after woman drives off Signal Hill cliff ... Man who allegedly intentionally drove Tesla off cliff with family inside\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ar.inspiredpencil.com/pictures-2023/signal-mountain-car-over-cliff",
+        "title": "Signal Mountain Car Over Cliffinspiredpencil.comhttps://ar.inspiredpencil.com \u203a pictures-2023 \u203a signal-...",
+        "content": "Parks Canada not commenting after woman drives off Signal Hill cliff ... Man who allegedly intentionally drove Tesla off cliff with family inside\u00a0...",
+        "size": [
+          1280,
+          576
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/LosAngeles/comments/103hznv/california_doctor_who_drove_tesla_off_cliff_to_be/",
+        "title": "California doctor who drove Tesla off cliff to be charged with ...Reddit\u00a0\u00b7\u00a0r/LosAngeles10+ comments  \u00b7  10 months ago",
+        "content": "California doctor who drove Tesla off cliff to be charged with attempted murder ... Archived post. New comments cannot be posted and votes cannot\u00a0...",
+        "size": [
+          640,
+          335
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedailybeast.com/tesla-driver-arrested-for-attempted-murder-after-devils-slide-crash",
+        "title": "Father Intentionally Drove Car With Family Off Cliff, Cops SayThe Daily Beasthttps://www.thedailybeast.com \u203a tesla-driver-arrested-f...",
+        "content": "The driver of a Tesla which plunged off a cliff in Northern California was ... Doctor Secretly Used His Own Sperm to Impregnate Fertility Patient: Lawsuit.",
+        "size": [
+          912,
+          513
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/indiadrive/comments/10452tk/indian_driver_drives_tesla_off_the_cliff/",
+        "title": "Indian driver drives Tesla off the cliff? : r/indiadrive - RedditReddit\u00a0\u00b7\u00a0r/indiadrive5 comments  \u00b7  10 months ago",
+        "content": "Indian driver drives Tesla off the cliff? CHP officers and additional ... He is a doctor and well settled, can't believe he really did this\u00a0...",
+        "size": [
+          906,
+          604
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/masskillers/comments/108hfp5/los_angeles_radiologist_dr_dharmesh_patel_has/",
+        "title": "Los Angeles radiologist Dr. Dharmesh Patel has been ... - RedditReddit\u00a0\u00b7\u00a0r/masskillers150+ comments  \u00b7  10 months ago",
+        "content": "Dharmesh Patel has been charged with attempted murder x3 after allegedly intentionally driving his Tesla off a 250-foot cliff along the Pacific\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/JusticeServed/comments/10pyqhl/man_who_drove_tesla_off_cliff_charged_with/",
+        "title": "Man Who Drove Tesla Off Cliff Charged With Attempted MurderReddit\u00a0\u00b7\u00a0r/JusticeServed20+ comments  \u00b7  9 months ago",
+        "content": "Man Who Drove Tesla Off Cliff Charged With Attempted Murder | California prosecutors charged Dharmesh Patel with three counts of attempted\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedailybeast.com/dharmesh-patel-drove-off-cliff-to-intentionally-kill-his-family-wife-says",
+        "title": "Tesla Driver Plunged Off Cliff to Intentionally Kill His Family ...The Daily Beasthttps://www.thedailybeast.com \u203a dharmesh-patel-drov...",
+        "content": "The wife of the Tesla driver who drove his car off a California cliff said he \u201cintentionally tried to kill\u201d his family, according to officials.",
+        "size": [
+          912,
+          513
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedailybeast.com/four-survive-as-tesla-plunges-250-feet-at-devils-slide",
+        "title": "Four Survive as Tesla Plunges 250 Feet Off California CliffThe Daily Beasthttps://www.thedailybeast.com \u203a four-survive-as-tesla-...",
+        "content": "Four people were found alive inside a Tesla that crashed down a cliff Monday in an area of Northern California notorious for fatal car accidents,\u00a0...",
+        "size": [
+          912,
+          513
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedailybeast.com/dharmesh-patel-accused-of-deliberately-driving-family-off-cliff-pleads-not-guilty",
+        "title": "Doctor Accused of Deliberately Driving Family Off Cliff Pleads ...The Daily Beasthttps://www.thedailybeast.com \u203a dharmesh-patel-accus...",
+        "content": "... Tesla at the bottom of a 250-foot cliff in Northern California last month. Patel denied allegations that the crash was intentional at a court hearing on\u00a0...",
+        "size": [
+          912,
+          513
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/model-y/driver-of-tesla-that-plunged-off-cliff-pleads-not-guilty-to-attempted-murder/",
+        "title": "Driver of Tesla that plunged off cliff pleads not guilty to ...driveteslacanada.cahttps://driveteslacanada.ca \u203a model-y \u203a driver-of-tesla-...",
+        "content": "Patel worked as a doctor at Providence Holy Cross Medical Center in Los Angeles before the incident. ... Copyright \u00a9 2019-2023 | Drive Tesla. HOME | CONTACT US |\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/tag/devils-slide/",
+        "title": "devil's slide Archives - Drive TeslaDrive Teslahttps://driveteslacanada.ca \u203a tag \u203a devils-slide",
+        "content": "A California man accused of intentionally driving his Tesla Model Y off a cliff is blaming the incident on the tires of the electric SUV.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/DulithHerath/status/1611039322853232642",
+        "title": "Dulith Herath on X: \"Yesterday's California car crash plunged ...Twitter\u00a0\u00b7\u00a0DulithHerath110+ likes  \u00b7  10 months ago",
+        "content": "Yesterday's California car crash plunged this tesla 250 feet off a cliff and everyone survived. Lot of luck but what a well built safe car\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vicnews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-109597",
+        "title": "Family of 4 still hospitalized after father drove off cliffVictoria Newshttps://www.vicnews.com \u203a news \u203a family-of-4-still-h...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside Monday along the\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cloverdalereporter.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliffCloverdale Reporterhttps://www.cloverdalereporter.com \u203a news \u203a family-o...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local Work.",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.surreynowleader.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliffSurrey Now-Leaderhttps://www.surreynowleader.com \u203a news \u203a family-of-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside Monday along the\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thenorthernview.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-5997912",
+        "title": "Family of 4 still hospitalized after father drove off cliffThe Northern Viewhttps://www.thenorthernview.com \u203a news \u203a family-of-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside Monday along the\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wltribune.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-5549805",
+        "title": "Family of 4 still hospitalized after father drove off cliffThe Williams Lake Tribunehttps://www.wltribune.com \u203a news \u203a family-of-4-still-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside Monday along the\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.eaglevalleynews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliffEagle Valley Newshttps://www.eaglevalleynews.com \u203a news \u203a family-of-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local Work.",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pentictonwesternnews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-3635662",
+        "title": "Family of 4 still hospitalized after father drove off cliffPenticton Western Newshttps://www.pentictonwesternnews.com \u203a news \u203a famil...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local Work.",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.saobserver.net/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliff - Salmon ...Salmon Arm Observerhttps://www.saobserver.net \u203a news \u203a family-of-4-still-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local Work.",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.trailtimes.ca/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-5074535",
+        "title": "Family of 4 still hospitalized after father drove off cliff - Trail ...Trail Timeshttps://www.trailtimes.ca \u203a news \u203a family-of-4-still-hos...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside Monday along the\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cowichanvalleycitizen.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-841730",
+        "title": "Family of 4 still hospitalized after father drove off cliffCowichan Valley Citizenhttps://www.cowichanvalleycitizen.com \u203a news \u203a famil...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside Monday along the\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.goldstreamgazette.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-647646",
+        "title": "Family of 4 still hospitalized after father drove off cliffGoldstream News Gazettehttps://www.goldstreamgazette.com \u203a news \u203a family-o...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside Monday along the\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.westerlynews.ca/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-1356534",
+        "title": "Family of 4 still hospitalized after father drove off cliff - Tofino ...Tofino-Ucluelet Westerly Newshttps://www.westerlynews.ca \u203a news \u203a family-of-4-still...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local Work.",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nanaimobulletin.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff",
+        "title": "Family of 4 still hospitalized after father drove off cliffNanaimo News Bulletinhttps://www.nanaimobulletin.com \u203a news \u203a family-of-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla sedan plummeted down a notorious cliffside Monday along the\u00a0...",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.albernivalleynews.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-749621",
+        "title": "Family of 4 still hospitalized after father drove off cliffAlberni Valley Newshttps://www.albernivalleynews.com \u203a news \u203a family-o...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local Work.",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://katu.com/news/nation-world/gallery/2-children-2-adults-alive-in-miracle-after-tesla-plunges-off-coastal-cliff-california-pacific-coast-highway-pch-san-mateo-county-sheriffs-office-ocean-devils-slide-cal-fire-coastside-protection-district?photo=2",
+        "title": "2 children, 2 adults alive in 'miracle' after Tesla plunges off ...KATUhttps://katu.com \u203a news \u203a nation-world \u203a gallery \u203a 2-c...",
+        "content": "",
+        "size": [
+          1920,
+          822
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.comoxvalleyrecord.com/news/family-of-4-still-hospitalized-after-father-drove-off-cliff-1639809",
+        "title": "Family of 4 still hospitalized after father drove off cliffComox Valley Recordhttps://www.comoxvalleyrecord.com \u203a news \u203a family-...",
+        "content": "... doctors to leave. Rescuers initially hailed the family's survival as a \u201cmiracle\u201d after the Tesla ... Today's Drive \u00b7 Auto Showcase \u00b7 Jobs \u00b7 Local Work.",
+        "size": [
+          871,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/joeyryken?lang=en",
+        "title": "Joey Ryken (@joeyryken) / XTwitter\u00a0\u00b7\u00a0joeyryken780+ followers",
+        "content": "Leafs pull off the W in a shoot out! Embedded video. 0:09. From. Hockey Daily 365 ... Tesla Full Self-Driving capability demo in Austin FSD capability features\u00a0...",
+        "size": [
+          1122,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://idcar.com.ar/collects-World-Series-ring-earned-with-Astros-1662-132613",
+        "title": "Giants GM Pete Putila collects World Series ring earned with ...idcar.com.arhttps://idcar.com.ar \u203a astros rings 2022",
+        "content": "",
+        "size": [
+          300,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/WholeMarsBlog/status/1712964265991385516",
+        "title": "Whole Mars Catalog on X: \"When shit gets real, make sure ...Twitter\u00a0\u00b7\u00a0WholeMarsBlog2K+ likes",
+        "content": "When shit gets real, make sure you're in a Tesla. Image. 10:51 PM \u00b7 Oct 13, 2023. \u00b7. 267.3K. Views. 259. Reposts.",
+        "size": [
+          1122,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kmjnow.com/category/local-news/page/31/?full-site=true",
+        "title": "Category Archives: Local News - KMJ-AF1kmjnow.comhttps://www.kmjnow.com \u203a local-news \u203a page",
+        "content": "Category Archives: Local News \u00b7 4 Alive In 'Miracle' After Car Plunges Off California Cliff, Driver Arrested \u00b7 2 Dead, A Dozen Injured After Magnitude 6.4\u00a0...",
+        "size": [
+          768,
+          346
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/ramis-akbar-kaimkhani-4aa3ba18_toronto-ratehike-buyer-activity-6937730884460584960-ph8i?trk=posts_directory",
+        "title": "Ramis Akbar Kaimkhani on LinkedIn: #toronto #ratehike ...LinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "A family of 4 survives a 250-foot jump off a cliff in a Tesla. THEY. SURVIVED !! everyone talking about Tesla Share going Up, may be they were driving at\u00a0...",
+        "size": [
+          800,
+          527
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/ramis-akbar-kaimkhani-4aa3ba18_first-time-home-buyer-incentive-place-to-activity-6938105975694401536-az1a",
+        "title": "Ramis Akbar Kaimkhani on LinkedIn: First-Time Home Buyer ...LinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "A family of 4 survives a 250-foot jump off a cliff in a Tesla. THEY. SURVIVED !! everyone talking about Tesla Share going Up, may be they were driving at\u00a0...",
+        "size": [
+          800,
+          527
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bakersfieldnow.com/news/local/gallery/4-alive-in-miracle-after-car-plunges-off-california-cliff",
+        "title": "4 alive in 'miracle' after car plunges off Northern California cliffKBAKhttps://bakersfieldnow.com \u203a news \u203a local \u203a gallery",
+        "content": "",
+        "size": [
+          768,
+          346
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shuddh.co.in/Lakers-Jerseys-for-sale-in-Devils-Slide-Utah-397-87661",
+        "title": "Lakers Jerseys for sale in Devils Slide, Utah - shuddh.co.inshuddh.co.inhttps://shuddh.co.in \u203a lakers jersey xxxl",
+        "content": "Court record: Wife says California doctor purposely drove family off cliff. Lakers Jerseys for sale in Devils Slide, Utah. 2022 NBA Mock Draft (V1). Lakers\u00a0...",
+        "size": [
+          599,
+          270
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/joeyryken?lang=en",
+        "title": "Joey Ryken (@joeyryken) / XTwitter\u00a0\u00b7\u00a0joeyryken780+ followers",
+        "content": "Leafs pull off the W in a shoot out! Embedded video. 0:09. From. Hockey Daily 365 ... Tesla Full Self-Driving capability demo in Austin FSD capability features\u00a0...",
+        "size": [
+          1122,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/mushanmo?lang=en",
+        "title": "Mushan Salahudeen (@mushanmo) / XTwitter\u00a0\u00b7\u00a0mushanmo70+ followers",
+        "content": "... tesla 250 feet off a cliff and everyone survived. Lot of luck but what a well built safe car proof it is. Thanks. @elonmusk. for saving lives. #tesla. Image.",
+        "size": [
+          600,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://gt.linkedin.com/posts/ramis-akbar-kaimkhani-4aa3ba18_property-money-gta-activity-7016799699181469696-cO4n",
+        "title": "Ramis Akbar Kaimkhani en LinkedIn: #property #money #gta ...LinkedInhttps://gt.linkedin.com \u203a posts",
+        "content": "A family of 4 survives a 250-foot jump off a cliff in a Tesla. THEY. SURVIVED !! everyone talking about Tesla Share going Up, may be they were driving at\u00a0...",
+        "size": [
+          800,
+          527
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.8326137661933899
+      },
+      {
+        "class": "crevasse",
+        "ioclass": "outdoor",
+        "probability": 0.0275582242757082
+      },
+      {
+        "class": "glacier",
+        "ioclass": "outdoor",
+        "probability": 0.026332035660743713
+      },
+      {
+        "class": "cliff",
+        "ioclass": "outdoor",
+        "probability": 0.024167658761143684
+      },
+      {
+        "class": "campsite",
+        "ioclass": "outdoor",
+        "probability": 0.009484258480370045
+      }
+    ],
+    "transients": [
+      {
+        "class": "season/winter",
+        "score": 1.0237135887145996
+      },
+      {
+        "class": "ice",
+        "score": 0.9683101177215576
+      },
+      {
+        "class": "time/daylight",
+        "score": 0.9648128151893616
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.9634819030761719
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.9368672370910645
+      },
+      {
+        "class": "moist",
+        "score": 0.9157214164733887
+      },
+      {
+        "class": "rugged",
+        "score": 0.7130271792411804
+      },
+      {
+        "class": "dirty",
+        "score": 0.7119978070259094
+      },
+      {
+        "class": "cluttered",
+        "score": 0.642719030380249
+      },
+      {
+        "class": "bright",
+        "score": 0.5921236276626587
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.5920274257659912
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 2975,
+        "pred_lat": 23.34157943725586,
+        "pred_long": 121.20248413085938
+      },
+      "middle": {
+        "pred_class": 772,
+        "pred_lat": 45.92356491088867,
+        "pred_long": 6.892004013061523
+      },
+      "fine": {
+        "pred_class": 6532,
+        "pred_lat": 45.90866470336914,
+        "pred_long": 6.875753402709961
+      },
+      "hierarchy": {
+        "pred_class": 6532,
+        "pred_lat": 45.90866470336914,
+        "pred_long": 6.875753402709961
+      },
+      "country": {
+        "city": "",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 45.940243,
+    "longitude": 6.7036448,
+    "generationtime_ms": 0.11205673217773438,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 1588.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2023-01-03T00:00",
+        "2023-01-03T01:00",
+        "2023-01-03T02:00",
+        "2023-01-03T03:00",
+        "2023-01-03T04:00",
+        "2023-01-03T05:00",
+        "2023-01-03T06:00",
+        "2023-01-03T07:00",
+        "2023-01-03T08:00",
+        "2023-01-03T09:00",
+        "2023-01-03T10:00",
+        "2023-01-03T11:00",
+        "2023-01-03T12:00",
+        "2023-01-03T13:00",
+        "2023-01-03T14:00",
+        "2023-01-03T15:00",
+        "2023-01-03T16:00",
+        "2023-01-03T17:00",
+        "2023-01-03T18:00",
+        "2023-01-03T19:00",
+        "2023-01-03T20:00",
+        "2023-01-03T21:00",
+        "2023-01-03T22:00",
+        "2023-01-03T23:00",
+        "2023-01-04T00:00",
+        "2023-01-04T01:00",
+        "2023-01-04T02:00",
+        "2023-01-04T03:00",
+        "2023-01-04T04:00",
+        "2023-01-04T05:00",
+        "2023-01-04T06:00",
+        "2023-01-04T07:00",
+        "2023-01-04T08:00",
+        "2023-01-04T09:00",
+        "2023-01-04T10:00",
+        "2023-01-04T11:00",
+        "2023-01-04T12:00",
+        "2023-01-04T13:00",
+        "2023-01-04T14:00",
+        "2023-01-04T15:00",
+        "2023-01-04T16:00",
+        "2023-01-04T17:00",
+        "2023-01-04T18:00",
+        "2023-01-04T19:00",
+        "2023-01-04T20:00",
+        "2023-01-04T21:00",
+        "2023-01-04T22:00",
+        "2023-01-04T23:00"
+      ],
+      "apparent_temperature": [
+        1.1,
+        0.7,
+        -0.1,
+        0.7,
+        0.7,
+        0.3,
+        0.2,
+        0.5,
+        0.6,
+        0.5,
+        1.4,
+        2.0,
+        1.3,
+        1.1,
+        0.6,
+        0.3,
+        -0.1,
+        -0.2,
+        -0.3,
+        -1.2,
+        -2.2,
+        -5.0,
+        -5.4,
+        -6.8,
+        -6.8,
+        -7.5,
+        -7.6,
+        -7.5,
+        -7.3,
+        -7.6,
+        -7.1,
+        -7.6,
+        -5.5,
+        -1.5,
+        1.0,
+        1.7,
+        1.7,
+        2.2,
+        2.1,
+        1.5,
+        1.2,
+        1.2,
+        -0.6,
+        -0.6,
+        -0.3,
+        -1.0,
+        -0.8,
+        -0.8
+      ],
+      "precipitation": [
+        1.2,
+        0.5,
+        0.5,
+        0.3,
+        0.1,
+        0.1,
+        0.3,
+        0.3,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.3,
+        0.3,
+        0.3,
+        0.2,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        55,
+        53,
+        53,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        3,
+        3,
+        3,
+        51,
+        51,
+        51,
+        51,
+        51,
+        3,
+        3,
+        2,
+        0,
+        1,
+        1,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

@@ -1,0 +1,3829 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2015/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/11": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2015/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 126,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 8,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 126,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2015/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                1,
+                126,
+                8,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 164,
+            "percentage": 73.21428571428571
+          },
+          "Indonesian": {
+            "count": 11,
+            "percentage": 4.910714285714286
+          },
+          "Greek, Modern (1453-)": {
+            "count": 9,
+            "percentage": 4.017857142857143
+          },
+          "Portuguese": {
+            "count": 8,
+            "percentage": 3.5714285714285716
+          },
+          "Spanish; Castilian": {
+            "count": 8,
+            "percentage": 3.5714285714285716
+          },
+          "Turkish": {
+            "count": 4,
+            "percentage": 1.7857142857142858
+          },
+          "Chinese": {
+            "count": 3,
+            "percentage": 1.3392857142857142
+          },
+          "Persian": {
+            "count": 3,
+            "percentage": 1.3392857142857142
+          },
+          "Urdu": {
+            "count": 2,
+            "percentage": 0.8928571428571429
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 2,
+            "percentage": 0.8928571428571429
+          },
+          "Afrikaans": {
+            "count": 2,
+            "percentage": 0.8928571428571429
+          },
+          "Norwegian": {
+            "count": 1,
+            "percentage": 0.44642857142857145
+          },
+          "Serbian": {
+            "count": 1,
+            "percentage": 0.44642857142857145
+          },
+          "Swedish": {
+            "count": 1,
+            "percentage": 0.44642857142857145
+          },
+          "Tamil": {
+            "count": 1,
+            "percentage": 0.44642857142857145
+          },
+          "Central Khmer": {
+            "count": 1,
+            "percentage": 0.44642857142857145
+          },
+          "Hindi": {
+            "count": 1,
+            "percentage": 0.44642857142857145
+          },
+          "Vietnamese": {
+            "count": 1,
+            "percentage": 0.44642857142857145
+          },
+          "Pushto; Pashto": {
+            "count": 1,
+            "percentage": 0.44642857142857145
+          }
+        },
+        "total": 224,
+        "plot": {
+          "labels": [
+            "English",
+            "Indonesian",
+            "Greek, Modern (1453-)",
+            "Portuguese",
+            "others"
+          ],
+          "data": [
+            73,
+            4,
+            4,
+            3,
+            16
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "id",
+        "link": "https://medan.tribunnews.com/2023/11/13/sosok-barkitzi-matania-artzi-keponakan-pm-israel-benjamin-netanyahu-dikabarkan-tewas-ditangan-hamas",
+        "title": "Sosok Barkitzi Matania Artzi, Keponakan PM Israel Benjamin ...Tribun-medan.comhttps://medan.tribunnews.com \u203a News \u203a Internasioal",
+        "content": "Sebelumnya seorang tentara Israel lainnya bernama Yeir yang dilaporkan tewas dalam pertempuran sengit melawan Hamas di Gaza ketika IDF melakukan\u00a0...",
+        "size": [
+          830,
+          466
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://peoplesworld.org/article/is-pitiless-war-the-best-leaders-can-offer-these-days/",
+        "title": "Is \"pitiless war\" the best leaders can offer these days?People's Worldhttps://peoplesworld.org \u203a article \u203a is-pitiless-war-the-...",
+        "content": "The French bombed them in 2013. The country remains shattered. It is ... At least\u00a0...",
+        "size": [
+          340,
+          190
+        ],
+        "date": "2015:11:19 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 65,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://peoplesworld.org/article/is-pitiless-war-the-best-leaders-can-offer-these-days/",
+        "title": "Is \"pitiless war\" the best leaders can offer these days?People's Worldhttps://peoplesworld.org \u203a article \u203a is-pitiless-war-the-...",
+        "content": "The French bombed them in 2013. The country remains shattered. It is ... At least\u00a0...",
+        "size": [
+          340,
+          190
+        ],
+        "date": "2015:11:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ajc.com/news/national-govt--politics/trump-encourages-russia-hack-clinton-emails/PZenjZv31gGST6y6OnLDAN/",
+        "title": "Trump encourages Russia to hack Clinton's emailsAJC.comhttps://www.ajc.com \u203a news \u203a national-govt--politics \u203a tr...",
+        "content": "",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2016:07:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ajc.com/news/national/large-fire-burns-several-cambridge-buildings/7ykGQTEMt9XRWt1htJLVfM/",
+        "title": "Large fire burns several Cambridge buildingsAJC.comhttps://www.ajc.com \u203a news \u203a national \u203a large-fire-burns...",
+        "content": "... Gaza's doctors struggle to save hospital blast survivors as Middle East rage grows \u00b7 Inflation in UK unchanged at 6.7% in September, still way\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2016:12:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtvq.com/doug-high-greeting-afghanistan/",
+        "title": "Doug High: Message from Afghanistan - ABC 36 NewsABC 36 Newshttps://www.wtvq.com \u203a doug-high-greeting-afghanist...",
+        "content": "US presses Israel to allow aid into Gaza as strikes kill civilians seeking refuge. Recipe Concepts. Chimichurri Shrimp with Tomatoes Recipe.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2017:06:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.peoplesworld.org/article/trump-peace-plan-shrinks-palestine-expands-israel/",
+        "title": "Trump peace plan shrinks Palestine, expands IsraelPeople's Worldhttps://www.peoplesworld.org \u203a article \u203a trump-peace-...",
+        "content": "",
+        "size": [
+          340,
+          190
+        ],
+        "date": "2019:05:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsandsentinel.com/news/local-news/2019/05/parkersburg-woman-who-bought-gun-illegally-pleads-guilty-to-identity-theft/",
+        "title": "Parkersburg woman who bought gun illegally pleads guilty to ...News and Sentinelhttps://www.newsandsentinel.com \u203a news \u203a 2019/05",
+        "content": "Over 200 Palestinians killed in Israeli airstrike on hospital, Gaza Health Ministry says \u00b7 MHS students honored for life-saving actions at BOE\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2019:05:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/gallery/travel/2019/10/15/7-places-scaling-down-on-tourism/",
+        "title": "7 places scaling down on tourism - WSLSWSLShttps://www.wsls.com \u203a gallery \u203a travel \u203a 2019/10/15",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2019:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://kronos36.news/tr/sanatci-ferhat-tunca-yeni-sorusturma-ve-evinde-arama-karari/",
+        "title": "Sanat\u00e7\u0131 Ferhat Tun\u00e7'a yeni soru\u015fturma ve evinde arama karar\u0131Kronos Newshttps://kronos36.news \u203a sanatci-ferh...",
+        "content": "",
+        "size": [
+          324,
+          182
+        ],
+        "date": "2019:12:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://edmonton.citynews.ca/2020/05/05/woman-arraigned-in-killing-of-security-guard-over-virus-mask/",
+        "title": "Woman arraigned in killing of security guard over virus maskCityNews Edmontonhttps://edmonton.citynews.ca \u203a 2020/05/05 \u203a woman-...",
+        "content": "... Hundreds killed in Israeli attack on Gaza hospital. Hundreds have been killed after an attack on a hospital in Gaza City. While\u00a0...",
+        "size": [
+          300,
+          199
+        ],
+        "date": "2020:05:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.diariodocentrodomundo.com.br/video-gavioes-da-fiel-diz-basta-e-colocara-o-somos-democracia-no-carnaval-de-rua/",
+        "title": "V\u00cdDEO: Gavi\u00f5es da Fiel diz \"Basta!\" e colocar\u00e1 o ... - DCMDCMhttps://www.diariodocentrodomundo.com.br \u203a ...",
+        "content": "",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2020:06:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://peoplesworld.org/article/closing-the-political-gender-gap/",
+        "title": "Closing the political gender gap - People's WorldPeople's Worldhttps://peoplesworld.org \u203a article \u203a closing-the-politica...",
+        "content": "Israel tells Gaza health workers: Get out, we're about to bomb your hospital \u00b7 Israeli forces trained cops in 'restraint techniques' at\u00a0...",
+        "size": [
+          340,
+          190
+        ],
+        "date": "2020:06:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtvq.com/nku-named-one-of-the-princeton-reviews-best-online-nursing-programs/",
+        "title": "NKU named one of The Princeton Review's best online ...ABC 36 Newshttps://www.wtvq.com \u203a nku-named-one-of-the-princ...",
+        "content": "... Medical Center, where copies of the book are used in many units. \u201cWe ... Gaza as strikes kill civilians seeking refuge\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2021:03:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://kronos36.news/tr/gri-pasaportla-kacakcilikla-suclanan-sancak-belediyesi-bize-de-teklif-geldi-valilige-bildirdik/",
+        "title": "'Gri pasaportla ka\u00e7ak\u00e7\u0131l\u0131k'la su\u00e7lanan Sancak BelediyesiKronos Haberhttps://kronos36.news \u203a gri-pasapor...",
+        "content": "",
+        "size": [
+          324,
+          182
+        ],
+        "date": "2021:04:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/sports/2021/11/28/new-country-new-name-for-us-citizen-enes-kanter-freedom/",
+        "title": "New country, new name for US citizen 'Enes Kanter Freedom'WKMGhttps://www.clickorlando.com \u203a sports \u203a 2021/11/28",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2021:11:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/sports/2021/11/28/new-country-new-name-for-us-citizen-enes-kanter-freedom/",
+        "title": "New country, new name for US citizen 'Enes Kanter Freedom'WKMGhttps://www.clickorlando.com \u203a sports \u203a 2021/11/28",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2021:11:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wfla.com/community/health/coronavirus/pfizer-opens-study-of-covid-shots-updated-to-match-omicron/",
+        "title": "Pfizer opens study of COVID shots updated to match omicronWFLAhttps://www.wfla.com \u203a health \u203a coronavirus \u203a pfizer-...",
+        "content": "Israel denies involvement with hospital bombing \u00b7 Calls to change parade route amid concerns for swans \u00b7 Top Stories \u00b7 More Stories. Republicans\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2022:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wfla.com/community/health/coronavirus/pfizer-opens-study-of-covid-shots-updated-to-match-omicron/",
+        "title": "Pfizer opens study of COVID shots updated to match omicronWFLAhttps://www.wfla.com \u203a health \u203a coronavirus \u203a pfizer-...",
+        "content": "Israel denies involvement with hospital bombing \u00b7 Calls to change parade route amid concerns for swans \u00b7 Top Stories \u00b7 More Stories. Republicans\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2022:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsandsentinel.com/news/business/2022/06/colleagues-at-wvu-p-discuss-gilmers-influence-over-school/",
+        "title": "Colleagues at WVU-P discuss Gilmer's influence over schoolNews and Sentinelhttps://www.newsandsentinel.com \u203a business \u203a 2022/06",
+        "content": "Over 200 Palestinians killed in Israeli airstrike on hospital, Gaza Health Ministry says \u00b7 MHS students honored for life-saving actions at BOE\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2022:06:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsandsentinel.com/news/local-news/2022/12/cold-shoulder-disability-rights-group-details-strained-relationship-with-west-virginia-dhhrs-crouch/",
+        "title": "Cold Shoulder: Disability rights group details strained ...News and Sentinelhttps://www.newsandsentinel.com \u203a news \u203a 2022/12",
+        "content": "Folio previously worked for DHHR as general counsel for the Office of Health Facilities, the division that monitor's state-owned hospitals and\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2022:12:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gx94radio.com/2023/01/27/moose-lake-mb-woman-charged-with-second-degree-murder-back-in-court/",
+        "title": "Moose Lake, MB woman charged with Second Degree Murder ...GX94 Radiohttps://www.gx94radio.com \u203a 2023/01/27 \u203a moose-la...",
+        "content": "Israel bombs Gaza region where civilians were told to\u00a0...",
+        "size": [
+          1000,
+          666
+        ],
+        "date": "2023:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.westernslopenow.com/news/national-news/ap-feds-open-civil-rights-probe-after-deputies-shoot-black-man/",
+        "title": "Feds open civil rights probe after deputies shoot Black manWesternSlopeNow.comhttps://www.westernslopenow.com \u203a national-news \u203a a...",
+        "content": "... hospital three weeks after being shot by sheriff's deputies. The ... Gaza \u00b7 Live updates | Jordan appears on brink of defeat \u2026 Rep. Jim Jordan\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2023:02:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.westernslopenow.com/news/national-news/ap-feds-open-civil-rights-probe-after-deputies-shoot-black-man/",
+        "title": "Feds open civil rights probe after deputies shoot Black manWesternSlopeNow.comhttps://www.westernslopenow.com \u203a national-news \u203a a...",
+        "content": "... hospital three weeks after being shot by sheriff's deputies. The ... Gaza \u00b7 Live updates | Jordan appears on brink of defeat \u2026 Rep. Jim Jordan\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2023:02:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.kgnow.com/watch/802963/full-pernyataan-amien-rais-dan-rizal-ramli-usai-bertemu-kritik-pemerintahan-jokowi",
+        "title": "[FULL] Pernyataan Amien Rais dan Rizal Ramli Usai Bertemu ...KGNowhttps://www.kgnow.com \u203a watch \u203a f...",
+        "content": "",
+        "size": [
+          650,
+          366
+        ],
+        "date": "2023:08:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.kgnow.com/watch/813675/sby-bersama-ahy-dan-ibas-hadiri-upacara-hut-ke-78-ri-di-pacitan",
+        "title": "SBY Bersama AHY dan Ibas Hadiri Upacara HUT ke-78 RI di ...KGNowhttps://www.kgnow.com \u203a watch \u203a s...",
+        "content": "",
+        "size": [
+          650,
+          366
+        ],
+        "date": "2023:08:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.kgnow.com/watch/906070/penyerahan-bantuan-pangan-cadangan-beras-pemerintah-tahap-ii-di-bolaang-mongondow?source=KOMPASTV&position=detail_inline_player_1",
+        "title": "Penyerahan Bantuan Pangan Cadangan Beras Pemerintah ...KGNowhttps://www.kgnow.com \u203a watch",
+        "content": "",
+        "size": [
+          650,
+          366
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/gallery/news/2023/10/05/stock-market-today-asian-shares-rise-buoyed-by-wall-street-rally-from-bonds-and-oil-prices/",
+        "title": "Stock market today: Asian shares rise buoyed by Wall Street ...KSAThttps://www.ksat.com \u203a gallery \u203a news \u203a 2023/10/05",
+        "content": "",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qwer.ro/en/what-will-israels-strategy-be-to-release-hostages-from-hamas",
+        "title": "What will Israel's strategy be to release hostages from Hamas?QWER.rohttps://qwer.ro \u203a what-will-israels-strategy-be-to-releas...",
+        "content": "NBC News analysts Jeremy Bash and James Stavridis provide strategic analysis as Israel continues to build up military near Gaza ahead of an\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/gallery/news/2023/10/13/biden-is-talking-about-green-energy-and-jobs-in-pennsylvania-again-will-his-message-break-through/",
+        "title": "Biden is talking about green energy and jobs in ... - KSATKSAThttps://www.ksat.com \u203a gallery \u203a news \u203a 2023/10/13",
+        "content": "Gaza's doctors struggle to save hospital blast survivors\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.toledoblade.com/sports/walleye/2023/10/14/walleye-ot-loss-4-3-kalamazoo-wings-preseason/stories/20231014125",
+        "title": "Walleye fall in OT 4-3 against Kalamazoo Wings - Toledo BladeToledo Bladehttps://www.toledoblade.com \u203a 2023/10/14 \u203a stories",
+        "content": "... Gaza. After blast kills hundreds at Gaza hospital, Hamas and Israel trade blame as rage spreads in region \u00b7 News Home \u00b7 Deaths \u00b7 Medical.",
+        "size": [
+          600,
+          450
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/news/world/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...Click2Houstonhttps://www.click2houston.com \u203a world \u203a 2023/10/17",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesnownews.com/world/breaking-500-killed-in-explosion-at-hospital-due-to-israeli-airstrike-hamas-ministry-article-104506646",
+        "title": "Breaking | 500 Palestinians Killed In Israeli Airstrike On HospitalTimes Nowhttps://www.timesnownews.com \u203a world",
+        "content": "500 killed in Israeli strike on Gaza hospital. Photo : AP. Gaza Strip: The Gaza Health Ministry\u00a0...",
+        "size": [
+          1279,
+          720
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12640783/Has-Israel-decided-NOT-launch-ground-invasion-IDF-says-effort-wipe-Hamas-different-despite-massing-troops-tanks-Gaza-border.html",
+        "title": "Has Israel decided NOT to launch ground invasion? IDF says ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12640783",
+        "content": "In Gaza, people wounded in the air strikes this morning were rushed to hospital ... Israel has sealed off and bombed Hamas-ruled Gaza since the\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://tolonews.com/world-185597",
+        "title": "100s Killed in Israeli Airstrike on Gaza City Hospital - TOLOnewsTOLOnewshttps://tolonews.com \u203a world-185597",
+        "content": "... Gaza Strip. Israeli military spokesman Rear Adm. Daniel Hagari said there were still no details on the hospital deaths: \u201cWe will get the\u00a0...",
+        "size": [
+          440,
+          295
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://positiveuniverse.com/2023-10-17-news-headlines/",
+        "title": "2023-10-17: News Headlines | Positive Universepositiveuniverse.comhttps://positiveuniverse.com \u203a 2023-10-17-news-headl...",
+        "content": "At least 500 killed instantly as Israel bombs Gaza hospital. ... Hospital massacre in the Gaza Strip earlier in the day. | RELATED\u00a0...",
+        "size": [
+          340,
+          190
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesnownews.com/world/breaking-500-killed-in-explosion-at-hospital-due-to-israeli-airstrike-hamas-ministry-article-104506646",
+        "title": "Breaking | 500 Palestinians Killed In Israeli Airstrike On HospitalTimes Nowhttps://www.timesnownews.com \u203a world",
+        "content": "500 killed in Israeli strike on Gaza hospital. Photo : AP. Gaza Strip: The Gaza Health Ministry\u00a0...",
+        "size": [
+          1279,
+          720
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.peoplesworld.org/article/movement-of-democratic-women-in-israel-condemns-war-says-political-solution-needed/",
+        "title": "Movement of Democratic Women in Israel condemns war ...People's Worldhttps://www.peoplesworld.org \u203a article \u203a movement-of...",
+        "content": "Palestinians evacuate wounded from a building destroyed in Israeli bombardment in Rafah refugee camp in Gaza Strip on Tuesday, Oct. 17,\u00a0...",
+        "size": [
+          960,
+          540
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://washingtonmonthly.com/2023/10/17/the-case-for-hope-in-israel-and-gaza-really/",
+        "title": "The Case for Hope in Israel and Gaza. Really.Washington Monthlyhttps://washingtonmonthly.com \u203a 2023/10/17 \u203a the-ca...",
+        "content": "... Gaza Strip on Tuesday, Oct. 17, 2023. (AP Photo/Fatima Shbair). The ... The aerial bombing of Gaza in response and the looming ground invasion\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://positiveuniverse.com/2023-10-17-news-headlines/",
+        "title": "2023-10-17: News Headlines | Positive Universepositiveuniverse.comhttps://positiveuniverse.com \u203a 2023-10-17-news-headl...",
+        "content": "At least 500 killed instantly as Israel bombs Gaza hospital. ... Hospital massacre in the Gaza Strip earlier in the day. | RELATED\u00a0...",
+        "size": [
+          340,
+          190
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsandsentinel.com/news/2023/10/over-200-palestinians-killed-in-israeli-airstrike-on-hospital-gaza-health-ministry-says/",
+        "title": "Over 200 Palestinians killed in Israeli airstrike on hospital ...News and Sentinelhttps://www.newsandsentinel.com \u203a news \u203a 2023/10",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 Israel bombed areas of southern Gaza where Palestinians sought safety, killing dozens of civilians and at least\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gx94radio.com/2023/10/17/precision-weather-forecast-oct-17-5pm/",
+        "title": "Precision Weather Forecast Oct 17 5PM - GX94 RadioGX94 Radiohttps://www.gx94radio.com \u203a 2023/10/17",
+        "content": "... Israel bombs Gaza region where civilians were told to seek\u00a0...",
+        "size": [
+          1000,
+          666
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://kronos36.news/tr/israil-gazze-seridindeki-hastaneyi-vurdu-en-az-500-kisi-hayatini-kaybetti/",
+        "title": "\u0130srail, Gazze'de hastane vurdu: En az 500 ki\u015fi hayat\u0131n\u0131 kaybettiKronos Newshttps://kronos36.news \u203a israil-gazze...",
+        "content": "",
+        "size": [
+          300,
+          199
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://aftabnews.ir/fa/news/867191/%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D8%AC%D9%86%DA%AF-%D8%AF%D8%B1-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86%7C-%D8%BA%D8%B2%D9%87-%D8%B2%DB%8C%D8%B1-%D8%A2%D8%AA%D8%B4-%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86-%D8%BA%D8%B1%D9%82-%D8%AE%D9%88%D9%86%7C-%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D8%AF%D8%B1-%D9%84%D8%A8%D9%87-%D9%BE%D8%B1%D8%AA%DA%AF%D8%A7%D9%87-%D8%B9%DA%A9%D8%B3",
+        "title": "\u06cc\u0627\u0632\u062f\u0647\u0645\u06cc\u0646 \u0631\u0648\u0632 \u062c\u0646\u06af \u062f\u0631 \u0641\u0644\u0633\u0637\u06cc\u0646| \u063a\u0632\u0647 \u0632\u06cc\u0631 \u0622\u062a\u0634\u060c \u06a9\u0648\u062f\u06a9\u0627\u0646 \u063a\u0631\u0642 \u062e\u0648\u0646\u0622\u0641\u062a\u0627\u0628 \u0646\u06cc\u0648\u0632https://aftabnews.ir \u203a ... \u203a \u0639\u0645\u0648\u0645\u06cc",
+        "content": "\u0647\u0645\u0632\u0645\u0627\u0646 \u0628\u0627 \u06cc\u0627\u0632\u062f\u0647\u0645\u06cc\u0646 \u0631\u0648\u0632 \u0627\u0632 \u062c\u0646\u06af \u062d\u0645\u0627\u0633 \u0648 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0627\u0639\u0636\u0627\u06cc \u0634\u0648\u0631\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0645\u062a\u062d\u062f \u0642\u0637\u0639\u0646\u0627\u0645\u0647 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u06cc \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631\u0627\u06cc \u0628\u0631\u0642\u0631\u0627\u0631\u06cc \u0622\u062a\u0634\u200c\u0628\u0633 \u0645\u0648\u0642\u062a \u062f\u0631 \u063a\u0632\u0647 \u0628\u0647\u00a0...",
+        "size": [
+          188,
+          125
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.koutipandoras.gr/article/chtypithike-nosokomeio-sti-gaza-toulachiston-200-nekroi/",
+        "title": "\u03a7\u03c4\u03c5\u03c0\u03ae\u03b8\u03b7\u03ba\u03b5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u03c3\u03c4\u03b7 \u0393\u03ac\u03b6\u03b1 - \u03a6\u03cc\u03b2\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 500 ...\u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2https://www.koutipandoras.gr \u203a article",
+        "content": "#BREAKING At least 200 killed in Israeli strike on Gaza hospital complex: Hamas ministry pic.twitter.com/FS8rzDufFE. \u2014 ... Hospital in Gaza. We\u00a0...",
+        "size": [
+          1192,
+          722
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.ocafezinho.com/2023/10/17/vieira-se-articula-para-que-chanceleres-aprovem-a-resolucao-do-brasil-sobre-gaza-na-onu/",
+        "title": "Vieira se articula para que chanceleres aprovem a resolu\u00e7\u00e3o ...O Cafezinhohttps://www.ocafezinho.com \u203a vieir...",
+        "content": "Vieira se articula para que chanceleres aprovem a resolu\u00e7\u00e3o do Brasil sobre Gaza na ONU. Nesta ter\u00e7a-feira, 17, o Ministro das Rela\u00e7\u00f5es\u00a0...",
+        "size": [
+          820,
+          546
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "no",
+        "link": "https://www.vg.no/nyheter/utenriks/i/APyvnA/foelg-utviklingen-live-angrepene-i-israel-og-gaza?pinnedEntry=35883",
+        "title": "D\u00f8dstallene stiger i Gaza og p\u00e5 Vestbredden - VGVGhttps://www.vg.no \u203a APyvnA \u203a foel...",
+        "content": "... Hospital nord i Gaza. Senere siterer ogs\u00e5 de helsemyndighetene i Gaza p\u00e5 at tolv personer er drept. If\u00f8lge Al Jazeera er sykehuset per\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.voc-news.com/2023/10/17/500-people-were-killed-in-an-airstrike-on-a-hospital-in-gaza/",
+        "title": "\u06a9\u0634\u062a\u0647 \u0634\u062f\u0646 \u06f5\u06f0\u06f0 \u0646\u0641\u0631 \u062f\u0631 \u062d\u0645\u0644\u0647\u200c\u200c\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0628\u0647 \u0628\u06cc\u0645\u0627\u0631\u0633\u062a\u0627\u0646 \u063a\u0632\u0647\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0634\u0647\u0631\u0648\u0646\u062fhttps://www.voc-news.com \u203a 500-p...",
+        "content": "\u062f\u0631 \u0647\u0645\u06cc\u0646 \u062d\u0627\u0644 \u062f\u0627\u0646\u06cc\u0644 \u0647\u0627\u06af\u0627\u0631\u06cc\u060c \u0633\u062e\u0646\u06af\u0648\u06cc \u0627\u0631\u062a\u0634 \u0627\u0633\u0631\u0627\u06cc\u06cc\u0644 \u06af\u0641\u062a\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0647\u0646\u0648\u0632 \u062c\u0632\u06cc\u06cc\u0627\u062a\u06cc \u062f\u0631 \u0645\u0648\u0631\u062f \u0645\u0631\u06af\u200c\u0648 \u0645\u06cc\u0631 \u062f\u0631 \u0628\u06cc\u0645\u0627\u0631\u0633\u062a\u0627\u0646 \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f. \u0627\u0648 \u0627\u0641\u0632\u0648\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0647\u0631 \u0632\u0645\u0627\u0646\u00a0...",
+        "size": [
+          756,
+          378
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://blogdolindenberg.com.br/ataque-israelense-em-hospital-de-gaza-deixa-pelo-menos-500-mortos/",
+        "title": "Ataque israelense em hospital de Gaza deixa pelo menos 500 ...Blog do Lindenberghttps://blogdolindenberg.com.br \u203a a...",
+        "content": "O Minist\u00e9rio da Sa\u00fade de Gaza disse que um ataque a\u00e9reo israelense na ter\u00e7a-feira atingiu um hospital da cidade repleto de feridos em busca de\u00a0...",
+        "size": [
+          820,
+          546
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://blogdolindenberg.com.br/ataque-israelense-em-hospital-de-gaza-deixa-pelo-menos-500-mortos/",
+        "title": "Ataque israelense em hospital de Gaza deixa pelo menos 500 ...Blog do Lindenberghttps://blogdolindenberg.com.br \u203a a...",
+        "content": "O Minist\u00e9rio da Sa\u00fade de Gaza disse que um ataque a\u00e9reo israelense na ter\u00e7a-feira atingiu um hospital da cidade repleto de feridos em busca de\u00a0...",
+        "size": [
+          820,
+          546
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://morfema.press/destacada/un-bombardeo-en-un-hospital-en-gaza-dejo-cientos-de-muertos/",
+        "title": "Un bombardeo en un hospital en Gaza dej\u00f3 cientos de muertosMorfema Presshttps://morfema.press \u203a destacada",
+        "content": "Las autoridades de Sanidad del grupo terrorista Hamas afirmaron que un ataque a\u00e9reo israel\u00ed alcanz\u00f3 el martes un hospital de la ciudad de\u00a0...",
+        "size": [
+          980,
+          653
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.diariodocentrodomundo.com.br/ataque-israelense-em-hospital-de-gaza-deixa-pelo-menos-500-mortos/",
+        "title": "Ataque israelense em hospital de Gaza deixa pelo menos 500 ...DCMhttps://www.diariodocentrodomundo.com.br \u203a ...",
+        "content": "O Minist\u00e9rio da Sa\u00fade de Gaza disse que um ataque a\u00e9reo israelense na ter\u00e7a-feira atingiu um hospital da cidade repleto de feridos em busca\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.ocafezinho.com/2023/10/17/urgente-israel-ataca-hospital-e-mata-500-civis-na-faixa-de-gaza/",
+        "title": "Urgente! Israel ataca hospital e mata 500 civis na Faixa de GazaO Cafezinhohttps://www.ocafezinho.com \u203a urge...",
+        "content": "Um ataque a\u00e9reo israelense atingiu o Hospital al-Ahli, na Faixa de Gaza, resultando em um tr\u00e1gico saldo de pelo menos 500 mortos,\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elindependiente.mx/geopolitica/2023/10/17/aumentan-los-muertos-por-bombardeos-en-gaza-a-un-dia-de-visita-de-biden-a-israel/",
+        "title": "Reportan 500 muertos en ataque a un hospital en Gaza, a un ...elindependiente.mxhttps://elindependiente.mx \u203a aument...",
+        "content": "Israel aument\u00f3 los bombardeos sobre la Franja de Gaza a un d\u00eda de que el presidente de EE.UU. Joe Biden visite el territorio israel\u00ed.",
+        "size": [
+          820,
+          546
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.wfla.com/tampa-hoy/mundo/docenas-de-muertos-en-bombardeos-israelies-entre-esfuerzos-por-llevar-ayuda-a-millones-en-gaza/",
+        "title": "Docenas de muertos en bombardeos israel\u00edes entre esfuerzos ...WFLAhttps://www.wfla.com \u203a mundo \u203a d...",
+        "content": "En Gaza, los heridos llegaban al hospital tras intensos ataques en las afueras de las ciudades sure\u00f1as de Rafah y Khan Younis, seg\u00fan residentes.",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://hk.news.yahoo.com/biden-heads-israel-jordan-aid-045839066.html",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...Yahoo News HKhttps://hk.news.yahoo.com \u203a biden-...",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://hk.news.yahoo.com/biden-heads-israel-jordan-aid-045839066.html",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...Yahoo News HKhttps://hk.news.yahoo.com \u203a biden-...",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://soundhealthandlastingwealth.com/celebrity/has-israel-decided-not-to-launch-ground-invasion-idf-says-effort-to-wipe-out-hamas-might-be-something-different-despite-massing-troops-and-tanks-at-gaza-border/",
+        "title": "Has Israel decided NOT to launch ground invasion? IDF says ...Sound Health and Lasting Wealthhttps://soundhealthandlastingwealth.com \u203a Celebrity",
+        "content": "... hospital in Khan Younis in the southern Gaza Strip, October 17, 2023 ... Israel has sealed off and bombed Hamas-ruled Gaza since the militant\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://calgary.citynews.ca/2023/10/17/israel-gaza-hospital-hundreds-dead/",
+        "title": "Israel airstrike on Gaza hospital kills 100s - CityNews CalgaryCityNews Calgaryhttps://calgary.citynews.ca \u203a 2023/10/17 \u203a israel-gaza-...",
+        "content": "The Gaza Health Ministry said an Israeli airstrike Tuesday hit a Gaza City hospital packed with Palestinians killing hundreds ... Gaza Strip,\u00a0...",
+        "size": [
+          975,
+          646
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://sahebkhabar.ir/news/62966179/%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D8%AC%D9%86%DA%AF-%D8%AF%D8%B1-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A8%D8%A7-%D9%82%D8%B7%D8%B9%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C",
+        "title": "\u06cc\u0627\u0632\u062f\u0647\u0645\u06cc\u0646 \u0631\u0648\u0632 \u062c\u0646\u06af \u062f\u0631 \u0641\u0644\u0633\u0637\u06cc\u0646| \u063a\u0632\u0647 \u0632\u06cc\u0631 \u0622\u062a\u0634\u060c \u06a9\u0648\u062f\u06a9\u0627\u0646 \u063a\u0631\u0642 \u062e\u0648\u0646\u0635\u0627\u062d\u0628\u200c\u062e\u0628\u0631https://sahebkhabar.ir \u203a news \u203a \u06cc\u0627\u0632\u062f\u0647...",
+        "content": "\u0647\u0645\u0632\u0645\u0627\u0646 \u0628\u0627 \u06cc\u0627\u0632\u062f\u0647\u0645\u06cc\u0646 \u0631\u0648\u0632 \u0627\u0632 \u062c\u0646\u06af \u062d\u0645\u0627\u0633 \u0648 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0627\u0639\u0636\u0627\u06cc \u0634\u0648\u0631\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0645\u062a\u062d\u062f \u0642\u0637\u0639\u0646\u0627\u0645\u0647 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u06cc \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631\u0627\u06cc \u0628\u0631\u0642\u0631\u0627\u0631\u06cc \u0622\u062a\u0634\u200c\u0628\u0633 \u0645\u0648\u0642\u062a \u062f\u0631 \u063a\u0632\u0647 \u0628\u0647\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/news/world/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...KSAThttps://www.ksat.com \u203a news \u203a world \u203a 2023/10/17",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gvwire.com/2023/10/17/hundreds-killed-in-israeli-airstrike-on-gaza-city-hospital-health-ministry-says/",
+        "title": "Blast Kills Hundreds at Gaza Hospital, Hamas and Israel ...GV Wirehttps://gvwire.com \u203a 2023 \u203a October \u203a 17",
+        "content": "KHAN YOUNIS, Gaza Strip \u2014 A massive blast rocked a Gaza City hospital packed with wounded and other Palestinians seeking shelter Tuesday,\u00a0...",
+        "size": [
+          1000,
+          600
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vancouver.citynews.ca/2023/10/17/israel-gaza-hospital-hundreds-dead/",
+        "title": "Israel airstrike on Gaza hospital kills 100s - CityNews VancouverCityNews Vancouverhttps://vancouver.citynews.ca \u203a 2023/10/17 \u203a israel-ga...",
+        "content": "... Palestinians evacuate wounded from a building destroyed in Israeli bombardment in Rafah refugee camp in Gaza Strip on Tuesday, Oct. 17\u00a0...",
+        "size": [
+          975,
+          646
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/news/world/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...WPLG Local 10https://www.local10.com \u203a news \u203a world \u203a 2023/10/17",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.marketwatch.com/story/palestinians-say-israeli-airstrike-on-gaza-hospital-kills-hundreds-5b6cf464",
+        "title": "Blast kills hundreds at Gaza hospital; Hamas and Israel trade ...MarketWatchhttps://www.marketwatch.com \u203a story",
+        "content": "Elsewhere, Israeli airstrikes kill dozens of civilians and at least one senior Hamas figure in southern part of Gaza Strip\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/news/world/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...News4JAXhttps://www.news4jax.com \u203a world \u203a 2023/10/17 \u203a as-...",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abc17news.com/ap-national/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...ABC17NEWShttps://abc17news.com \u203a ap-national \u203a 2023/10/17 \u203a a...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 A massive blast rocked a Gaza City ... bombing of the hospital complex as proof that the hospital was an Israeli\u00a0...",
+        "size": [
+          860,
+          574
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pix11.com/news/israeli-airstrike-on-gaza-city-hospital-kills-hundreds-of-people-health-ministry-says/",
+        "title": "Blast kills hundreds at Gaza hospital; Hamas and Israel trade ...PIX11https://pix11.com \u203a news \u203a israeli-airstrike-on-gaza-cit...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 A massive blast rocked a Gaza City hospital packed with wounded and other Palestinians seeking shelter\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vinnews.com/2023/10/17/israel-strongly-denies-involvement-in-gaza-hospital-blast-says-explosion-caused-by-palestinian-rocket/",
+        "title": "Israel Strongly Denies Involvement in Gaza Hospital Blast ...VINnewshttps://vinnews.com \u203a 2023/10/17 \u203a israel-strongly-de...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 The Israeli military says it had no ... Gaza City hospital and that the blast was caused by a misfired Palestinian\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/news/world/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...News4JAXhttps://www.news4jax.com \u203a world \u203a 2023/10/17 \u203a as-...",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://caribbean.loopnews.com/content/hamas-run-health-min-says-israeli-airstrike-hospital-kills-hundreds-3",
+        "title": "Hamas-run Health Min says Israeli airstrike on hospital kills ...Loop Caribbean Newshttps://caribbean.loopnews.com \u203a content \u203a hamas-run...",
+        "content": "... Gaza Strip. Hamas, which sparked the latest war with an attack last ... Israeli bombings in Gaza kill dozens. LoopNews Video \u00b7 World News.",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wgntv.com/israel-hamas-conflict/israeli-airstrike-on-hospital-kills-hundreds-ministry-says/",
+        "title": "Blast kills hundreds at Gaza hospital; Hamas and Israel trade ...WGN-TVhttps://wgntv.com \u203a israel-hamas-conflict \u203a israeli-airstrik...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 A massive blast rocked a Gaza City hospital packed with wounded and other Palestinians seeking shelter\u00a0...",
+        "size": [
+          962,
+          637
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gvwire.com/2023/10/17/hundreds-killed-in-israeli-airstrike-on-gaza-city-hospital-health-ministry-says/",
+        "title": "Blast Kills Hundreds at Gaza Hospital, Hamas and Israel ...GV Wirehttps://gvwire.com \u203a 2023 \u203a October \u203a 17",
+        "content": "KHAN YOUNIS, Gaza Strip \u2014 A massive blast rocked a Gaza City hospital packed with wounded and other Palestinians seeking shelter Tuesday,\u00a0...",
+        "size": [
+          1000,
+          600
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sentinelcolorado.com/uncategorized/after-blast-kills-hundreds-at-gaza-hospital-hamas-and-israel-trade-blame-as-rage-spreads-in-region/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...Sentinel Coloradohttps://sentinelcolorado.com \u203a Nation & World \u203a Nation",
+        "content": "KHAN YOUNIS, Gaza Strip | A massive blast rocked a Gaza City hospital ... bombing of the hospital complex as proof that the hospital was an\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.toledoblade.com/news/World/2023/10/17/hundreds-killed-in-israeli-airstrike-on-gaza-city-hospital-health-ministry-says/stories/20231017118",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...Toledo Bladehttps://www.toledoblade.com \u203a 2023/10/17 \u203a stories",
+        "content": "KHAN YOUNIS, Gaza Strip \u2014 A massive blast rocked a Gaza City hospital ... bombing of the hospital complex as proof that the hospital was an\u00a0...",
+        "size": [
+          1140,
+          797
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nzherald.co.nz/world/israel-hamas-war-hundreds-killed-in-israeli-airstrike-on-gaza-city-hospital-health-ministry-says/IF7NAHS3RBBNNHQOY5MVUAFJLA/",
+        "title": "Israel-Hamas war: Israel denies involvement in Gaza hospital ...New Zealand Heraldhttps://www.nzherald.co.nz \u203a World",
+        "content": "... hospital in Deir al-Balah, southern Gaza Strip on October 17. Photo ... I'm horrified to see the bombing of al-Ahli Hospital in Gaza and\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/news/world/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...WKMGhttps://www.clickorlando.com \u203a world \u203a 2023/10/17",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pressherald.com/2023/10/17/israel-bombs-gaza-region-where-civilians-were-told-to-seek-refuge-as-mediators-try-to-unlock-aid/",
+        "title": "Blast kills hundreds at Gaza hospital; Hamas and Israel trade ...The Portland Press Heraldhttps://www.pressherald.com \u203a 2023/10/17 \u203a israel-bomb...",
+        "content": "KHAN YOUNIS, Gaza Strip \u2014 A massive blast rocked a Gaza City hospital ... bombing of the hospital complex as proof that the hospital was an\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wtop.com/world/2023/10/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...WTOPhttps://wtop.com \u203a Latest News",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 A massive blast rocked a Gaza City ... bombing of the hospital complex as proof that the hospital was an Israeli\u00a0...",
+        "size": [
+          1880,
+          1254
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/news/world/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...WSLShttps://www.wsls.com \u203a news \u203a world \u203a 2023/10/17",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mariettatimes.com/news/2023/10/over-200-palestinians-killed-in-israeli-airstrike-on-hospital-gaza-health-ministry-says/",
+        "title": "Over 200 Palestinians killed in Israeli airstrike on hospital ...mariettatimes.comhttps://www.mariettatimes.com \u203a news \u203a 2023/10 \u203a ov...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 Israel bombed areas of southern Gaza where Palestinians sought safety, killing dozens of civilians and at least\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox8.com/news/hamas-run-health-ministry-says-israeli-airstrike-on-hospital-kills-hundreds/",
+        "title": "Report: Airstrike on Gaza hospital kills hundreds - FOX 8 NewsFOX 8 Newshttps://fox8.com \u203a news \u203a hamas-run-health-ministry-s...",
+        "content": "[Watch previous Associated Press coverage in the player above.] KHAN YOUNIS, Gaza Strip (AP) \u2014 The Health Ministry run by Hamas said an\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.yahoo.com/biden-heads-israel-jordan-aid-045839066.html",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...Yahoo Newshttps://news.yahoo.com \u203a biden-heads-israel-jordan-ai...",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/world/2023/10/17/as-biden-heads-to-israel-and-jordan-aid-is-held-up-for-a-gaza-on-the-verge-of-total-collapse/",
+        "title": "After blast kills hundreds at Gaza hospital, Hamas and Israel ...ClickOnDetroithttps://www.clickondetroit.com \u203a world \u203a 2023/10/17",
+        "content": "Wounded Palestinians sit in al-Shifa hospital in Gaza City, central Gaza Strip, ... bombing of the hospital complex as proof that the hospital was\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://centraloregondaily.com/israel-gaza-hamas-hospital-airstrike/",
+        "title": "Hundreds killed in airstrike on Gaza City hospitalCentral Oregon Dailyhttps://centraloregondaily.com \u203a israel-gaza-hamas-ho...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 A senior Palestinian official says President Mahmoud Abbas has canceled his participation in a meeting\u00a0...",
+        "size": [
+          925,
+          520
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://upnorthlive.com/news/nation-world/hundreds-killed-in-israeli-airstrike-on-gaza-city-hospital-health-ministry-says",
+        "title": "Hundreds killed in Israeli airstrike on Gaza City hospital ...WPBNhttps://upnorthlive.com \u203a news \u203a nation-world \u203a hund...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 The Health Ministry in Gaza said an Israeli airstrike on Tuesday hit a Gaza City hospital packed with wounded\u00a0...",
+        "size": [
+          1280,
+          548
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsday.com/news/nation/israel-hamas-gaza-airstrike-commanders-va8bofql",
+        "title": "Blast kills hundreds at Gaza hospital; Hamas and Israel trade ...Newsdayhttps://www.newsday.com \u203a News \u203a Nation/World",
+        "content": "KHAN YOUNIS, Gaza Strip \u2014. A massive blast rocked a Gaza City hospital packed with wounded and other Palestinians seeking shelter Tuesday,\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wfla.com/news/world/source-president-mahmoud-abbas-cancels-planned-meeting-with-president-biden-after-hospital-strike/",
+        "title": "Israel denies involvement in Gaza hospital blast, says ... - WFLAWFLAhttps://www.wfla.com \u203a news \u203a world \u203a source-preside...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 The Israeli military says it had no involvement in an explosion that killed hundreds of people at a Gaza City\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.620ckrm.com/2023/10/17/israel-bombs-gaza-region-where-civilians-were-told-to-seek-refuge-as-mediators-try-to-unlock-aid/",
+        "title": "Israel bombs Gaza region where civilians were told to seek ...620 CKRMhttps://www.620ckrm.com \u203a 2023/10/17 \u203a israel-bom...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 Israel bombed areas of southern Gaza ... In Gaza, dozens of injured were rushed to hospitals after heavy attacks\u00a0...",
+        "size": [
+          1000,
+          666
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12639951/Israel-bombs-areas-southern-Gaza-Palestinians-flee-bombardment.html",
+        "title": "Israel bombs areas of southern Gaza where it told ... - Daily MailDaily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12639951",
+        "content": "In Gaza, people wounded in the air strikes were rushed to hospital ... Strip has thrown the tiny territory's 2.3 million people into upheaval and\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.trentonian.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as ... - TrentonianThe Trentonianhttps://www.trentonian.com \u203a 2023/10/18 \u203a israel-will...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.etvbharat.com/english/gallery/news/in-frames-rubble-blood-and-human-suffering-in-gaza/na20231018185859970970432",
+        "title": "In frames: Rubble, blood, and human suffering in GazaETV Bharathttps://www.etvbharat.com \u203a english \u203a gallery \u203a news",
+        "content": "Palestinian Foreign Minister Riad Malki accused Israel of \u201cintentionally\u201d bombing a hospital in Gaza and said the strip's residents are being\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.radiodalsan.com/yahuudda-oo-xasuuqday-shacab-falastiiniyiin-ah-iyo-caro-ka-taagan-caalamka-islaamka/",
+        "title": "Yahuudda oo Xasuuqday Shacab Falastiiniyiin ah iyo Caro ka ...Radio Dalsanhttps://www.radiodalsan.com \u203a Warar",
+        "content": "Ururka Xamaas ayaa ku eedeeyey Israa'iil inay weerartay cusbitaalka magaalada Gaza ee al-Ahli Arab Hospital, iyaga oo bayaan ay soo saareen\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.delcotimes.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Delco Timeshttps://www.delcotimes.com \u203a 2023/10/18 \u203a israel-will...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mcall.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...The Morning Callhttps://www.mcall.com \u203a 2023/10/18 \u203a israel-will-let-e...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.orlandosentinel.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Orlando Sentinelhttps://www.orlandosentinel.com \u203a 2023/10/18 \u203a israel...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.ocafezinho.com/2023/10/18/russia-pede-que-brasil-cite-na-resolucao-o-massacre-de-israel-contra-hospital-em-gaza/",
+        "title": "R\u00fassia pede que Brasil cite na resolu\u00e7\u00e3o o massacre de ...O Cafezinhohttps://www.ocafezinho.com \u203a russi...",
+        "content": "R\u00fassia pede que Brasil cite na resolu\u00e7\u00e3o o massacre de Israel contra hospital em Gaza. Com o objetivo de evitar poss\u00edveis obst\u00e1culos nas\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.ocafezinho.com/2023/10/18/governo-do-brasil-condena-ataque-a-hospital-em-gaza/",
+        "title": "Governo do Brasil condena ataque a hospital em GazaO Cafezinhohttps://www.ocafezinho.com \u203a gove...",
+        "content": "",
+        "size": [
+          820,
+          546
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ta",
+        "link": "https://tamil.samayam.com/latest-news/international-news/500-people-killed-in-air-strike-on-gaza-hospital-in-the-israel-hamas-war/articleshow/104514741.cms",
+        "title": "\u0b95\u0bbe\u0b9a\u0bbe \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8 \u0bae\u0bc0\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bca\u0b9f\u0bc2\u0bb0 ...Samayam Tamilhttps://tamil.samayam.com \u203a articles...",
+        "content": "\u0b87\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0bb2\u0b95 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. 500 people killed in air strike on gaza hospital in the israel hamas\u00a0...",
+        "size": [
+          380,
+          285
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.euronews.ro/articole/razboiul-israel-hamas-ziua-11",
+        "title": "R\u0103zboiul Israel-Hamas, ziua 11. Cel pu\u021bin 500 de mor\u021bi la ...euronews.rohttps://www.euronews.ro \u203a articole",
+        "content": "The entire world should know: It was barbaric terrorists in Gaza that attacked the hospital in Gaza, and not the IDF. Those who brutally\u00a0...",
+        "size": [
+          940,
+          530
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.euronews.ro/articole/razboiul-israel-hamas-ziua-11",
+        "title": "R\u0103zboiul Israel-Hamas, ziua 11. Cel pu\u021bin 500 de mor\u021bi la ...euronews.rohttps://www.euronews.ro \u203a articole",
+        "content": "The entire world should know: It was barbaric terrorists in Gaza that attacked the hospital in Gaza, and not the IDF. Those who brutally\u00a0...",
+        "size": [
+          940,
+          530
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lmtribune.com/wire/blast-kills-hundreds-at-gaza-hospital/article_f3446a99-d8f6-5da5-9453-100c1a8ff34f.html",
+        "title": "Blast kills hundreds at Gaza hospital - The Lewiston TribuneThe Lewiston Tribunehttps://www.lmtribune.com \u203a wire \u203a blast-kills-hundreds-...",
+        "content": "KHAN YOUNIS, Gaza Strip \u2014 A massive blast rocked a Gaza City hospital ... bombing of the hospital complex as proof that the hospital was an\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.kompas.tv/internasional/453020/israel-bantah-terlibat-dalam-ledakan-rumah-sakit-di-gaza-sebut-karena-roket-palestina-salah-sasaran?page=all",
+        "title": "Israel Bantah Terlibat Dalam Ledakan Rumah Sakit di Gaza ...Kompas TVhttps://www.kompas.tv \u203a internasional",
+        "content": "",
+        "size": [
+          316,
+          177
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.kompas.tv/internasional/453020/israel-bantah-terlibat-dalam-ledakan-rumah-sakit-di-gaza-sebut-karena-roket-palestina-salah-sasaran?page=all",
+        "title": "Israel Bantah Terlibat Dalam Ledakan Rumah Sakit di Gaza ...Kompas TVhttps://www.kompas.tv \u203a internasional",
+        "content": "",
+        "size": [
+          316,
+          177
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.htv.com.vn/no-lon-tai-benh-vien-o-gaza-hang-tram-nguoi-thiet-mang",
+        "title": "N\u1ed5 l\u1edbn t\u1ea1i b\u1ec7nh vi\u1ec7n \u1edf Gaza, h\u00e0ng tr\u0103m ng\u01b0\u1eddi thi\u1ec7t m\u1ea1ng - HTV\u0110\u00e0i Truy\u1ec1n h\u00ecnh TP.HCMhttps://www.htv.com.vn \u203a no-lon-ta...",
+        "content": "T\u1ed1i ng\u00e0y 17/10 theo gi\u1edd \u0111\u1ecba ph\u01b0\u01a1ng, m\u1ed9t v\u1ee5 n\u1ed5 l\u1edbn t\u1ea1i \u0111\u00e3 x\u1ea3y ra b\u1ec7nh vi\u1ec7n Al-Ahli Al-Arabi, \u1edf Gaza. B\u1ed9 Y t\u1ebf do Hamas \u0111i\u1ec1u h\u00e0nh cho bi\u1ebft,\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.indiatoday.in/world/story/israel-hamas-war-live-updates-israel-gaza-conflict-death-toll-netanyahu-gaza-strip-rocket-attack-2449896-2023-10-17",
+        "title": "Israel-Hamas war Highlights: Rockets fired at Gaza hospital ...India Todayhttps://www.indiatoday.in \u203a World",
+        "content": "The United Arab Emirates strongly condemned \"the Israeli attack that targeted Al-Ahli Baptist Hospital in the Gaza Strip resulting in the death\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://www.alo.rs/vesti/svet/818941/dvanesti-dan-rata-u-izraelu/vest",
+        "title": "Dvanesti dan rata u Izraelu - Alo.rsAlo.rshttps://www.alo.rs \u203a vesti \u203a svet \u203a vest",
+        "content": "... Gaza hospital Parking lot, causing the explosion that Israel was blamed for by the terrorist organization #Hamas. Video #1 in English by\u00a0...",
+        "size": [
+          930,
+          525
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lowellsun.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as ... - Lowell SunLowell Sunhttps://www.lowellsun.com \u203a 2023/10/18 \u203a israel-will-...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.arkansasonline.com/news/2023/oct/18/hundreds-die-in-gaza-strike/",
+        "title": "Hundreds die in Gaza strike | The Arkansas Democrat-GazetteThe Arkansas Democrat-Gazettehttps://www.arkansasonline.com \u203a news \u203a oct \u203a hundr...",
+        "content": "KHAN YOUNIS, Gaza Strip -- A major blast rocked a Gaza City hospital packed with wounded people and other Palestinians seeking shelter\u00a0...",
+        "size": [
+          8640,
+          5760
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://breakingnewscom.biz.id/israel-airstrike-on-gaza-hospital-kills-100s-gaza-health-ministry/",
+        "title": "Israel airstrike on Gaza hospital kills 100s: Gaza health ministrybreakingnewscom.biz.idhttps://breakingnewscom.biz.id \u203a ...",
+        "content": "Nofal, formerly the intelligence chief of Hamas' armed wing, was in charge of Hamas militant activities in the central Gaza Strip, including\u00a0...",
+        "size": [
+          975,
+          646
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.marinij.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Marin Independent Journalhttps://www.marinij.com \u203a 2023/10/18 \u203a israel-will-let...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thebhopalnews.com/israel-hamas-war-2023/",
+        "title": "Israel Hamas war 2023 On Gaza Conflict - The Bhopal NewsThe Bhopal Newshttps://www.thebhopalnews.com \u203a israel-hamas-war-2...",
+        "content": "Israel Hamas War 2023 News Live Updates: Church that funds Gaza hospital condemns blast, says Gaza deprived of safe havens.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailylocal.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Daily Localhttps://www.dailylocal.com \u203a 2023/10/18 \u203a israel-will-...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://breakingnewscom.biz.id/israel-airstrike-on-gaza-hospital-kills-100s-gaza-health-ministry/",
+        "title": "Israel airstrike on Gaza hospital kills 100s: Gaza health ministrybreakingnewscom.biz.idhttps://breakingnewscom.biz.id \u203a ...",
+        "content": "Nofal, formerly the intelligence chief of Hamas' armed wing, was in charge of Hamas militant activities in the central Gaza Strip, including\u00a0...",
+        "size": [
+          975,
+          646
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesherald.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...timesherald.comhttps://www.timesherald.com \u203a 2023/10/18 \u203a israel-wil...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12646823/President-Israel-Isaac-Herzog-blasts-BBC-atrocious-refusing-brand-Hamas-terrorists-interview-war-erupted.html",
+        "title": "President of Israel Isaac Herzog blasts the BBC as 'atrocious ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12646823",
+        "content": "... Gaza malfunctioned mid-air moments before devastating explosion at hospital that killed hundreds ... Gaza Strip on October 17, 2023. On the row\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pottsmerc.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...pottsmerc.comhttps://www.pottsmerc.com \u203a 2023/10/18 \u203a israel-will-...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.indiatimes.com/news/world/doctors-testimony-from-attacked-gaza-hospital-618030.html",
+        "title": "Doctor's Testimony From Attacked Gaza Hospital - IndiaTimesIndiaTimeshttps://www.indiatimes.com \u203a News \u203a World",
+        "content": "Over 500 people were killed as bombs fell on the central Gaza hospital, where displaced Palestinians were sheltering.",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.indiatimes.com/news/world/doctors-testimony-from-attacked-gaza-hospital-618030.html",
+        "title": "Doctor's Testimony From Attacked Gaza Hospital - IndiaTimesIndiaTimeshttps://www.indiatimes.com \u203a News \u203a World",
+        "content": "Over 500 people were killed as bombs fell on the central Gaza hospital, where displaced Palestinians were sheltering.",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.india.com/news/world/hamas-run-health-ministry-says-israeli-airstrike-on-hospital-kills-hundreds-6422391/",
+        "title": "Hamas-run Health Ministry Says Israeli Airstrike On Hospital ...India.Comhttps://www.india.com \u203a News",
+        "content": "KHAN YOUNIS, Gaza Strip: The Health Ministry run by Hamas said an Israeli airstrike on Tuesday hit a Gaza City hospital packed with wounded\u00a0...",
+        "size": [
+          700,
+          472
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.saratogian.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as ... - SaratogianThe Saratogianhttps://www.saratogian.com \u203a 2023/10/18 \u203a israel-will...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sun-sentinel.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Sun Sentinelhttps://www.sun-sentinel.com \u203a 2023/10/18 \u203a israel-wi...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.yahoo.com/news/why-risk-wider-war-middle-100000756.html",
+        "title": "Why the risk of wider war in Middle East is 'very, very high'Yahoohttps://www.yahoo.com \u203a news \u203a why-risk-wider-war-...",
+        "content": "... bombing campaign on the densely populated Gaza Strip. The violence was further inflamed Tuesday by an explosion at a hospital in Gaza that\u00a0...",
+        "size": [
+          900,
+          505
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/article/2023/10/1209921",
+        "title": "Israel to allow Egypt to deliver limited quantities of...AccessWDUNhttps://accesswdun.com \u203a article \u203a 2023/10",
+        "content": "... Gaza City, Gaza Strip, Wednesday, Oct. 17, 2023. (AP Photo/Abed ... Hundreds of Palestinians had taken refuge in al-Ahli and other hospitals in\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.yahoo.com/why-risk-wider-war-middle-100000756.html",
+        "title": "Why the risk of wider war in Middle East is 'very, very high'Yahoo Newshttps://news.yahoo.com \u203a why-risk-wider-war-middle-...",
+        "content": "... bombing campaign on the densely populated Gaza Strip. The violence was further inflamed Tuesday by an explosion at a hospital in Gaza that\u00a0...",
+        "size": [
+          900,
+          505
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thehill.com/policy/defense/4261591-why-the-risk-of-wider-war-in-middle-east-is-very-very-high/",
+        "title": "Why the risk of wider war in Middle East is 'very, very high'The Hillhttps://thehill.com \u203a policy \u203a defense \u203a 4261591-why-...",
+        "content": "... bombing campaign on the densely populated Gaza Strip. The violence was further inflamed Tuesday by an explosion at a hospital in Gaza that\u00a0...",
+        "size": [
+          1400,
+          787
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailyfreeman.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...The Daily Freemanhttps://www.dailyfreeman.com \u203a 2023/10/18 \u203a israel-...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nashobavalleyvoice.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Nashoba Valley Voicehttps://www.nashobavalleyvoice.com \u203a 2023/10/18 \u203a i...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailypress.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as ... - Daily PressDaily Presshttps://www.dailypress.com \u203a 2023/10/18 \u203a israel-will-...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://headtopics.com/ph/arab-world-blames-israel-for-hospital-strike-as-thousands-rally-47080646",
+        "title": "Arab world blames Israel for hospital strike as thousands rallyHead Topicshttps://headtopics.com \u203a arab-world-blames-israel-for-...",
+        "content": "A Gaza hospital strike that killed at least 200 people has unleashed a torrent of condemnation across the Arab world.",
+        "size": [
+          640,
+          426
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bostonherald.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza ... - Boston HeraldBoston Heraldhttps://www.bostonherald.com \u203a 2023/10/18 \u203a israel-...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oneidadispatch.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Oneida Dispatchhttps://www.oneidadispatch.com \u203a 2023/10/18 \u203a israel...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sentinelandenterprise.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Sentinel & Enterprisehttps://www.sentinelandenterprise.com \u203a 2023/10/18",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.troyrecord.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as ... - Troy RecordTroy Recordhttps://www.troyrecord.com \u203a 2023/10/18 \u203a israel-will...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.courant.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza, as doctors ...Hartford Couranthttps://www.courant.com \u203a 2023/10/18 \u203a israel-will-let...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.readingeagle.com/2023/10/18/israel-will-let-egypt-deliver-some-aid-to-gaza-as-doctors-struggle-to-treat-hospital-blast-victims/",
+        "title": "Israel will let Egypt deliver some aid to Gaza ... - Reading EagleReading Eaglehttps://www.readingeagle.com \u203a 2023/10/18 \u203a israel-w...",
+        "content": "... Gaza Strip, the first crack in a 10-day seal on the territory. Palestinians were reeling from a massive blast at a Gaza City hospital the\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.india.com/news/india/meet-keralas-superwomen-sabitha-and-meera-fearless-nurses-who-saved-elderly-couple-under-hamas-gunpoint-nir-oz-kibbutz-6422562/",
+        "title": "Meet Keralas Superwomen Sabitha And Meera - India.ComIndia.Comhttps://www.india.com \u203a News",
+        "content": "However, at 6:30 a.m., the blaring siren was sounded to warn people to seek refuge in bomb shelters. ... Biden 'Outraged' By Gaza Hospital Blast\u00a0...",
+        "size": [
+          700,
+          472
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.kompas.tv/internasional/453592/barat-bungkam-atas-pembantaian-israel-di-gaza-utusan-palestina-untuk-uni-eropa-ini-mengerikan?page=all",
+        "title": "Barat Bungkam atas \"Pembantaian\" Israel di Gaza, Utusan ...Kompas TVhttps://www.kompas.tv \u203a internasional",
+        "content": "Antengnya Barat menyikapi bombardir Gaza berbanding terbalik dengan respons atas serangan Hamas ke Israel pada 7 Oktober lalu.",
+        "size": [
+          316,
+          177
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dnaindia.com/world/report-why-are-neighbouring-countries-egypt-jordan-refusing-to-accept-palestinian-refugees-from-gaza-israel-hamas-3065063",
+        "title": "Why are neighbouring countries, Egypt and Jordan, refusing ...DNA Indiahttps://www.dnaindia.com \u203a World",
+        "content": "Palestinians refer to the event as the Nakba, Arabic for \u201ccatastrophe.\u201d In the 1967 Mideast war, when Israel seized the West Bank and Gaza Strip\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailyrecord.co.uk/news/uk-world-news/air-strike-kills-500-gaza-31213543",
+        "title": "Air strike on Gaza hospital 'kills at least 500 people', health ...Daily Recordhttps://www.dailyrecord.co.uk \u203a News \u203a UK & World",
+        "content": "... Gaza Strip. Promoted Stories. Israeli military spokesman Rear Admiral Daniel Hagari said there were still no details on the hospital deaths\u00a0...",
+        "size": [
+          615,
+          409
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://headtopics.com/ph/fury-erupts-as-hospital-strike-kills-200-biden-blames-hamas-47102752",
+        "title": "Fury erupts as hospital strike kills 200; Biden blames HamasHead Topicshttps://headtopics.com \u203a fury-erupts-as-hospital-strike-...",
+        "content": "Defining the News. 200 killed in Israeli strikes on Gaza hospital complex: Hamas ministry.",
+        "size": [
+          640,
+          426
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.toledoblade.com/sports/high-school/2023/10/19/meet-the-toledo-area-s-2023-division-i-state-golf-qualifiers/stories/20231019057",
+        "title": "Meet the Toledo area's 2023 Division I state golf qualifiersToledo Bladehttps://www.toledoblade.com \u203a 2023/10/19 \u203a stories",
+        "content": "",
+        "size": [
+          600,
+          450
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jionews.com/home/article/9/1098336292/Why-are-neighbouring-countries-Egypt-and-Jordan-refusing-to-accept-Palestinian-refugees-from-Gaza",
+        "title": "Why are neighbouring countries, Egypt and Jordan, refusing ...Jionewshttps://jionews.com \u203a World",
+        "content": "Palestinians refer to the event as the Nakba, Arabic for \u201ccatastrophe.\u201d In the 1967 Mideast war, when Israel seized the West Bank and Gaza Strip\u00a0...",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jionews.com/home/article/9/1098336292/Why-are-neighbouring-countries-Egypt-and-Jordan-refusing-to-accept-Palestinian-refugees-from-Gaza",
+        "title": "Why are neighbouring countries, Egypt and Jordan, refusing ...Jionewshttps://jionews.com \u203a World",
+        "content": "Palestinians refer to the event as the Nakba, Arabic for \u201ccatastrophe.\u201d In the 1967 Mideast war, when Israel seized the West Bank and Gaza Strip\u00a0...",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.toledoblade.com/sports/high-school/2023/10/19/friday-forecast-predicting-10-toledo-area-games-for-week-10-3/stories/20231016128",
+        "title": "Friday Forecast: Predicting 10 Toledo-area games for Week 10Toledo Bladehttps://www.toledoblade.com \u203a 2023/10/19 \u203a stories",
+        "content": "",
+        "size": [
+          600,
+          450
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://headtopics.com/id/dosen-di-palestina-bertekad-tetap-tinggal-di-gaza-meski-kehilangan-mahasiswa-dan-kampus-rusak-parah-47219039",
+        "title": "Dosen di Palestina Bertekad Tetap Tinggal di Gaza Meski ...Head Topicshttps://headtopics.com \u203a dosen-di-p...",
+        "content": "",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.aftonbladet.se/nyheter/a/dwe6eJ/gaza-desperat-vantan-pa-nodhjalp",
+        "title": "Gaza: Desperat v\u00e4ntan p\u00e5 n\u00f6dhj\u00e4lp - AftonbladetAftonbladethttps://www.aftonbladet.se \u203a nyheter",
+        "content": "",
+        "size": [
+          1900,
+          1267
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailyrecord.co.uk/all-about/israel-hamas-war?pageNumber=3",
+        "title": "Israel-Hamas war - News, views, gossip, pictures, videoDaily Recordhttps://www.dailyrecord.co.uk \u203a all-about \u203a israel-hamas-...",
+        "content": "... bombing of a hospital. ... Nadia El-Nakla called for an urgent ceasefire in the Gaza Strip ahead of an expected land invasion by Israeli armed\u00a0...",
+        "size": [
+          615,
+          409
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailyrecord.co.uk/news/scottish-news/aid-deliveries-arrive-besieged-gaza-31247076",
+        "title": "Aid deliveries arrive in besieged Gaza Strip two weeks after ...Daily Recordhttps://www.dailyrecord.co.uk \u203a News \u203a Scottish News",
+        "content": "... Hospital in Deir al-Balah, central Gaza. BEIRUT - Israeli forces and ... bombings. Hundreds of foreign passport holders also waited to cross\u00a0...",
+        "size": [
+          615,
+          409
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://m.youtube.com/live/aDthNoHTu_s?si=DDkiEAXn1DEOpglF",
+        "title": "Tragedia en Gaza: Hospitales, iglesias y barrios arrasadosYouTubehttps://m.youtube.com \u203a live \u203a aDth...",
+        "content": "... hospital lleno de pacientes y con un parqueadero lleno de refugiados, huyendo de las bombas, fue bombardeado, acabando con la vida de\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://m.youtube.com/live/aDthNoHTu_s?si=DDkiEAXn1DEOpglF",
+        "title": "Tragedia en Gaza: Hospitales, iglesias y barrios arrasadosYouTubehttps://m.youtube.com \u203a live \u203a aDth...",
+        "content": "... hospital lleno de pacientes y con un parqueadero lleno de refugiados, huyendo de las bombas, fue bombardeado, acabando con la vida de\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://kronos36.news/tr/aihm-eski-yargici-turmenden-kafasi-karisanlara-ders-savasi-hamasin-baslatmasi-durumu-degistirmez-israilin-yaptiklari-cok-acik-savas-sucudur/",
+        "title": "A\u0130HM eski yarg\u0131c\u0131 T\u00fcrmen'den ders: \u0130srail'in yapt\u0131klar\u0131 \u00e7ok a\u00e7\u0131k ...Kronos Newshttps://kronos36.news \u203a aihm-eski-y...",
+        "content": "",
+        "size": [
+          975,
+          646
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://blog.udn.com/dff1baf6/180028055",
+        "title": "\u5df4\u52d2\u65af\u5766\u7684\u54c8\u746a\u65af\u7d44\u7e54\u8a93\u8a00\u91cd\u5efa\u52a0\u85a9\u8d70\u5ecaPalestinian Hamas ...Udn \u90e8\u843d\u683chttps://blog.udn.com \u203a ...",
+        "content": "... Gaza. Israel expanded its military assault deeper into the northern Gaza Strip as the U.N. and medical staff expressed fears over airstrikes\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fair.org/home/medias-in-house-critics-to-reporters-quit-quoting-palestinians-about-civilian-deaths/",
+        "title": "Media's In-House Critics to Reporters: Quit Quoting ... - FAIRfair.orghttps://fair.org \u203a home \u203a medias-in-house-critics-to-re...",
+        "content": "... Gaza before the bombing of the hospital. New York Times map pinpointing the actual location of an object that was claimed to be. After\u00a0...",
+        "size": [
+          350,
+          264
+        ],
+        "date": "2023:11:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktla.com/news/local-news/l-a-demonstrators-call-for-peace-freedom-for-palestinian-people/",
+        "title": "L.A. demonstrators call for peace, freedom for Palestinian ...KTLAhttps://ktla.com \u203a news \u203a local-news \u203a l-a-demonstrato...",
+        "content": "... hospital, in Gaza City, central Gaza Strip, Tuesday, Oct. 17, 2023. (AP Photo/Abed Khaled); Palestinians evacuate wounded from a building\u00a0...",
+        "size": [
+          1181,
+          787
+        ],
+        "date": "2023:11:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gvwire.com/2023/11/07/msnbc-commentator-netanyahu-on-gaza-war-sounds-like-a-call-for-genocide/",
+        "title": "MSNBC Commentator: Netanyahu on Gaza War Sounds 'Like ...GV Wirehttps://gvwire.com \u203a 2023 \u203a November \u203a 7",
+        "content": "\u201cGiven that these bombings are being done using (American) tax dollars, perhaps we should ask some questions,\u201d she said. View Reid's full\u00a0...",
+        "size": [
+          1000,
+          600
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gvwire.com/2023/11/07/msnbc-commentator-netanyahu-on-gaza-war-sounds-like-a-call-for-genocide/",
+        "title": "MSNBC Commentator: Netanyahu on Gaza War Sounds 'Like ...GV Wirehttps://gvwire.com \u203a 2023 \u203a November \u203a 7",
+        "content": "\u201cGiven that these bombings are being done using (American) tax dollars, perhaps we should ask some questions,\u201d she said. View Reid's full\u00a0...",
+        "size": [
+          1000,
+          600
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "km",
+        "link": "https://master.btv.com.kh/category/security",
+        "title": "\u179f\u1793\u17d2\u178f\u17b7\u179f\u17bb\u1781 \u1793\u17b7\u1784 \u179f\u1784\u17d2\u1782\u1798 - BTV Newsbtv.com.khhttps://master.btv.com.kh \u203a security",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://medan.tribunnews.com/2023/11/13/sosok-barkitzi-matania-artzi-keponakan-pm-israel-benjamin-netanyahu-dikabarkan-tewas-ditangan-hamas",
+        "title": "Sosok Barkitzi Matania Artzi, Keponakan PM Israel Benjamin ...Tribun-medan.comhttps://medan.tribunnews.com \u203a News \u203a Internasioal",
+        "content": "Sebelumnya seorang tentara Israel lainnya bernama Yeir yang dilaporkan tewas dalam pertempuran sengit melawan Hamas di Gaza ketika IDF melakukan\u00a0...",
+        "size": [
+          830,
+          466
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.courthousenews.com/palestinians-file-lawsuit-accusing-biden-administration-of-violating-genocide-convention/",
+        "title": "Palestinians file lawsuit accusing Biden administration of ...Courthouse News Servicehttps://www.courthousenews.com \u203a palestinians-file-la...",
+        "content": "... Gaza Strip on Tuesday, Oct. 17, 2023. (AP Photo/Fatima Shbair). SAN ... 10, following the collapse of services and communications at hospitals\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://medan.tribunnews.com/2023/11/13/sosok-barkitzi-matania-artzi-keponakan-pm-israel-benjamin-netanyahu-dikabarkan-tewas-ditangan-hamas",
+        "title": "Sosok Barkitzi Matania Artzi, Keponakan PM Israel Benjamin ...Tribun-medan.comhttps://medan.tribunnews.com \u203a News \u203a Internasioal",
+        "content": "Sebelumnya seorang tentara Israel lainnya bernama Yeir yang dilaporkan tewas dalam pertempuran sengit melawan Hamas di Gaza ketika IDF melakukan\u00a0...",
+        "size": [
+          830,
+          466
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.courthousenews.com/israel-denies-involvement-in-gaza-hospital-blast-says-explosion-caused-by-palestinian-rocket/",
+        "title": "Israel denies involvement in Gaza hospital blast, says ...Courthouse News Servicehttps://www.courthousenews.com \u203a israel-denies-invol...",
+        "content": "KHAN YOUNIS, Gaza Strip (AP) \u2014 The Israeli military says it had no involvement in an explosion that killed hundreds of people at a Gaza City hospital and that\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fanverse.org/threads/the-israel-hamas-war.1303460/page-24",
+        "title": "X - Megathread - The Israel-Hamas War | Page 24 - FanVerseFanVersehttps://www.fanverse.org \u203a Downtown \u203a The Caf\u00e9",
+        "content": "Because this discussion of who bombed the hospital and who had the ... The Gaza War started when Israel launched a large military campaign in the Gaza Strip\u00a0...",
+        "size": [
+          1280,
+          719
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fanverse.org/threads/the-israel-hamas-war.1303460/page-24",
+        "title": "X - Megathread - The Israel-Hamas War | Page 24 - FanVerseFanVersehttps://www.fanverse.org \u203a Downtown \u203a The Caf\u00e9",
+        "content": "Because this discussion of who bombed the hospital and who had the ... The Gaza War started when Israel launched a large military campaign in the Gaza Strip\u00a0...",
+        "size": [
+          1280,
+          719
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/anne_weills?lang=en",
+        "title": "Anne Weills (@anne_weills) / XX\u00a0\u00b7\u00a0anne_weills130+ followers",
+        "content": "... hospital in Gaza was bombed by the\u2026 Show more. Quote. Square profile picture ... Hospital in the north of the Gaza Strip. The hospital was operational, with\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mynbc15.com/news/nation-world/photos-strikes-on-gaza-continue-as-israel-hamas-war-rages-on-hospital-gaza-strip-israeli-palestinians-casualities-memorials-president-joe-biden-travel",
+        "title": "Strikes on Gaza continue as Israel-Hamas war rages on - WPMIWPMIhttps://mynbc15.com \u203a news \u203a nation-world \u203a photos-stri...",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://krcgtv.com/news/nation-world/photos-strikes-on-gaza-continue-as-israel-hamas-war-rages-on-hospital-gaza-strip-israeli-palestinians-casualities-memorials-president-joe-biden-travel",
+        "title": "Strikes on Gaza continue as Israel-Hamas war rages on - KRCGKRCGhttps://krcgtv.com \u203a news \u203a nation-world \u203a photos-strike...",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wchstv.com/news/nation-world/photos-strikes-on-gaza-continue-as-israel-hamas-war-rages-on-hospital-gaza-strip-israeli-palestinians-casualities-memorials-president-joe-biden-travel",
+        "title": "Strikes on Gaza continue as Israel-Hamas war rages on - WCHSWCHS-TVhttps://wchstv.com \u203a news \u203a nation-world \u203a photos-strike...",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kcby.com/news/nation-world/photos-strikes-on-gaza-continue-as-israel-hamas-war-rages-on-hospital-gaza-strip-israeli-palestinians-casualities-memorials-president-joe-biden-travel",
+        "title": "Strikes on Gaza continue as Israel-Hamas war rages on - KCBYKCBYhttps://kcby.com \u203a news \u203a nation-world \u203a photos-strikes-...",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kcby.com/news/nation-world/photos-strikes-on-gaza-continue-as-israel-hamas-war-rages-on-hospital-gaza-strip-israeli-palestinians-casualities-memorials-president-joe-biden-travel",
+        "title": "Strikes on Gaza continue as Israel-Hamas war rages on - KCBYKCBYhttps://kcby.com \u203a news \u203a nation-world \u203a photos-strikes-...",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wgxa.tv/news/nation-world/photos-strikes-on-gaza-continue-as-israel-hamas-war-rages-on-hospital-gaza-strip-israeli-palestinians-casualities-memorials-president-joe-biden-travel",
+        "title": "Strikes on Gaza continue as Israel-Hamas war rages on - WGXAWGXAhttps://wgxa.tv \u203a news \u203a nation-world \u203a photos-strikes-o...",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox56.com/news/nation-world/photos-strikes-on-gaza-continue-as-israel-hamas-war-rages-on-hospital-gaza-strip-israeli-palestinians-casualities-memorials-president-joe-biden-travel",
+        "title": "Strikes on Gaza continue as Israel-Hamas war rages on - Fox 56fox56.comhttps://fox56.com \u203a news \u203a nation-world \u203a photos-strikes...",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fair.org/instagram/feed/",
+        "title": "FAIRfair.orghttps://fair.org \u203a instagram \u203a feed",
+        "content": "... Gaza, plus condemnation of the response by Israel.\u201d This paints a false ... hospital blast wanted. It's not the kind of reporting that victims of mass\u00a0...",
+        "size": [
+          350,
+          264
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://medium.com/@licraja258/why-the-impact-of-the-israel-gaza-war-on-civilians-a-humanitarian-crisis-5f9997b45fce",
+        "title": "Why the Impact of the Israel-Gaza War on Civilians - MediumMedium\u00a0\u00b7\u00a0Licraja1 month ago",
+        "content": "The Israeli military claims that the bombing, one of the bloodiest hospital strikes in decades, was triggered by a misfired Palestinian Islamic\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=9CMRsWWkByU",
+        "title": "Hamas and Israel trade blame, as Biden heads to MideastYouTube\u00a0\u00b7\u00a0millennium news1 views  \u00b7  1 month ago",
+        "content": "Blast kills hundreds at Gaza hospital; Hamas and Israel trade blame, as Biden heads to Mideast. 1 view \u00b7 8 days ago ...more\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=9CMRsWWkByU",
+        "title": "Hamas and Israel trade blame, as Biden heads to MideastYouTube\u00a0\u00b7\u00a0millennium news1 views  \u00b7  1 month ago",
+        "content": "Blast kills hundreds at Gaza hospital; Hamas and Israel trade blame, as Biden heads to Mideast. 1 view \u00b7 8 days ago ...more\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dayton247now.com/news/nation-world/gallery/photos-strikes-on-gaza-continue-as-israel-hamas-war-rages-on-hospital-gaza-strip-israeli-palestinians-casualities-memorials-president-joe-biden-travel",
+        "title": "Strikes on Gaza continue as Israel-Hamas war rages on - WKEFWKEFhttps://dayton247now.com \u203a news \u203a nation-world \u203a gallery",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailyrecord.co.uk/all-about/israel",
+        "title": "Israel - News, views, gossip, pictures, video - Daily RecordDaily Recordhttps://www.dailyrecord.co.uk \u203a all-about \u203a israel",
+        "content": " \u00b7 ",
+        "size": [
+          615,
+          409
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/tawfiq-s-rabi-734333102_dollar-currency-data-activity-7052517568233811968-pK6L",
+        "title": "Tawfiq S. Rabi - dollar #currency #data #economy #goldLinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "Tragic Hospital Explosion Rocks Gaza as Israel-Hamas Conflict Escalates In Khan Younis, Gaza Strip, an earth-shattering explosion devastated a Gaza City\u00a0...",
+        "size": [
+          700,
+          466
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mobile.twitter.com/fox8news/status/1714359288863338573",
+        "title": "fox8news on X: \"The Health Ministry run by Hamas said an ...Twitter\u00a0\u00b7\u00a0fox8news1 likes  \u00b7  1 month ago",
+        "content": "The Health Ministry run by Hamas said an Israeli airstrike on Tuesday hit a Gaza City hospital packed with wounded and other Palestinians\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/geopolitics/comments/17atwxj/why_the_risk_of_wider_war_in_middle_east_is_very/",
+        "title": "Why the risk of wider war in Middle East is 'very, very high'Reddit\u00a0\u00b7\u00a0r/geopolitics110+ comments  \u00b7  1 month ago",
+        "content": "The goal is to limit the dmg israel will cause to the gaza strip. ... He made a harsh statement about the hospital bombing, but he did not make\u00a0...",
+        "size": [
+          640,
+          359
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.instagram.com/p/Cyinxmgrjh4/",
+        "title": "Fatima Shbair on Instagram: \"Gaza, Oct 2023. @apnews\"Instagram\u00a0\u00b7\u00a0fatimashbair4.6K+ likes  \u00b7  1 month ago",
+        "content": "4622 likes, 123 comments - fatimashbair on October 18, 2023: \"Gaza, Oct 2023. @apnews\"",
+        "size": [
+          1440,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.courthousenews.com/category/international/",
+        "title": "International | Courthouse News ServiceCourthouse News Servicehttps://www.courthousenews.com \u203a category \u203a internat...",
+        "content": "Plaintiffs are asking that the U.S. government be ordered to use all measures within its power to end the bombing of the people of Gaza. ... Medics and patients,\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.courthousenews.com/category/politics/",
+        "title": "Politics | Courthouse News ServiceCourthouse News Servicehttps://www.courthousenews.com \u203a category \u203a politics",
+        "content": "Plaintiffs are asking that the U.S. government be ordered to use all measures within its power to end the bombing of the people of Gaza.",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://tolonews.com/index.php/world-185504",
+        "title": "Palestinians Say Civilians Are Paying the Price in Israeli ...TOLOnewshttps://tolonews.com \u203a index.php \u203a world-185504",
+        "content": "Biden Vows Aid for Gaza, Israel As Protests Rock Middle East. 19 OCTOBER 2023. Thumbnail. 100s Killed in Israeli Airstrike on Gaza City Hospital: Health\u00a0...",
+        "size": [
+          310,
+          206
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/ROSAsocfemIE/?locale=sw_KE",
+        "title": "ROSA - Socialist Feminist Movement - FacebookFacebook\u00a0\u00b7\u00a0ROSA - Socialist Feminist Movement16.6K+ followers",
+        "content": "was the first maternity hospital established since repeal and an epic fail for social progress. ... Gaza is rubble - leaving over 1 million people without homes\u00a0...",
+        "size": [
+          1405,
+          1756
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/ROSAsocfemIE/?locale=it_IT",
+        "title": "ROSA - Socialist Feminist Movement - FacebookFacebook\u00a0\u00b7\u00a0ROSA - Socialist Feminist Movement16.6K+ followers",
+        "content": "was the first maternity hospital established since repeal and an epic fail for social progress. ... Gaza is rubble - leaving over 1 million people without homes\u00a0...",
+        "size": [
+          1405,
+          1756
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/tawfiq-s-rabi-734333102_trading-dollar-currency-activity-7056872357503664129-YcaX",
+        "title": "Tawfiq S. Rabi - trading #dollar #currency #capitalmarketsLinkedInhttps://www.linkedin.com \u203a posts \u203a tawfiq-s-rabi-734333...",
+        "content": "Tragic Hospital Explosion Rocks Gaza as Israel-Hamas Conflict Escalates In Khan Younis, Gaza Strip, an earth-shattering explosion devastated a Gaza City\u00a0...",
+        "size": [
+          700,
+          466
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/tawfiq-s-rabi-734333102_platinum-trading-activity-7064124781608022016-kDaj",
+        "title": "Tawfiq S. Rabi's Post - platinum #trading - LinkedInLinkedInhttps://www.linkedin.com \u203a posts \u203a tawfiq-s-rabi-734333...",
+        "content": "Tragic Hospital Explosion Rocks Gaza as Israel-Hamas Conflict Escalates In Khan Younis, Gaza Strip, an earth-shattering explosion devastated a Gaza City\u00a0...",
+        "size": [
+          700,
+          466
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/ROSAsocfemIE/?locale=zh_CN",
+        "title": "ROSA - Socialist Feminist Movement - FacebookFacebook\u00a0\u00b7\u00a0ROSA - Socialist Feminist Movement16.6K+ followers",
+        "content": "Gaza is rubble - leaving over 1 million people without homes to return to. ... demonstrated through the bombing of the al-Ahli hospital last night where some\u00a0...",
+        "size": [
+          1405,
+          1756
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/israel-air-strike-hospital",
+        "title": "Israel Air Strike Hospital - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a israel-air-strike-h...",
+        "content": " \u00b7 ",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://washingtonmonthly.com/author/storer-h-rowley/",
+        "title": "Storer H. Rowley - Washington MonthlyWashington Monthlyhttps://washingtonmonthly.com \u203a author \u203a storer-h-ro...",
+        "content": "After the Hamas slaughter of Jews and the looming Israeli invasion of Gaza ... 2020 Hospital Guide and Rankings \u00b7 Magazine \u00b7 Current Issue \u00b7 Past Issues \u00b7 From\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/geopolitics/comments/5mwfh7/an_interview_with_asad_durrani_the_exhead_of/",
+        "title": "An interview with Asad Durrani, the ex-head of Pakistan's ISI ...Reddit\u00a0\u00b7\u00a0r/geopolitics20+ comments  \u00b7  6 years ago",
+        "content": "... bombed the Indian embassy in Kabul 2008 in an all-too-obvious setup ... Gaza hospital was caused by Palestinian fighters. nytimes \u00b7 u/ykawai\u00a0...",
+        "size": [
+          1280,
+          719
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/israel-air-strike-hospital",
+        "title": "Israel Air Strike Hospital - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a israel-air-strike-h...",
+        "content": " \u00b7 ",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://washingtonmonthly.com/author/storer-h-rowley/",
+        "title": "Storer H. Rowley - Washington MonthlyWashington Monthlyhttps://washingtonmonthly.com \u203a author \u203a storer-h-ro...",
+        "content": "After the Hamas slaughter of Jews and the looming Israeli invasion of Gaza ... 2020 Hospital Guide and Rankings \u00b7 Magazine \u00b7 Current Issue \u00b7 Past Issues \u00b7 From\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/geopolitics/comments/5mwfh7/an_interview_with_asad_durrani_the_exhead_of/",
+        "title": "An interview with Asad Durrani, the ex-head of Pakistan's ISI ...Reddit\u00a0\u00b7\u00a0r/geopolitics20+ comments  \u00b7  6 years ago",
+        "content": "... bombed the Indian embassy in Kabul 2008 in an all-too-obvious setup ... Gaza hospital was caused by Palestinian fighters. nytimes \u00b7 u/ykawai\u00a0...",
+        "size": [
+          1280,
+          719
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/geopolitics/comments/5jv2nt/danger_close_fancy_bear_tracking_of_ukrainian/",
+        "title": "Fancy Bear Tracking of Ukrainian Field Artillery Units - RedditReddit\u00a0\u00b7\u00a0r/geopolitics4 comments  \u00b7  6 years ago",
+        "content": "How is it that israel can bomb two Syrian airports and it is not considered a declaration of war? ... Gaza hospital was caused by Palestinian\u00a0...",
+        "size": [
+          1280,
+          719
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtvq.com/",
+        "title": "ABC 36 NewsABC 36 Newshttps://www.wtvq.com",
+        "content": "",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtvq.com/tag/strike/",
+        "title": "Strike Archives - ABC 36 NewsABC 36 Newshttps://www.wtvq.com \u203a tag \u203a strike",
+        "content": "US presses Israel to allow aid into Gaza as strikes kill civilians seeking refuge \u00b7 Associated Press,. October 17, 2023. Auto Workers Strikes. Featured \u00b7 Ford\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dnaindia.com/topic/egypt",
+        "title": "Egypt - DNA IndiaDNA Indiahttps://www.dnaindia.com \u203a topic \u203a egypt",
+        "content": "Gaza violence: Bombings by Israel, Palestine militants leave 24\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://searchani.com/",
+        "title": "Search Anisearchani.comhttps://searchani.com",
+        "content": "... Gaza hospital were fired by terrorists. October 18, 2023 0. Letest News. Latest News \u00b7 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u0938\u092c\u0938\u0947 \u0936\u0915\u094d\u0924\u093f\u0936\u093e\u0932\u0940 \u092d\u0942\u0915\u0902\u092a. \u092a\u0930\u093f\u091a\u092f\u00a0...",
+        "size": [
+          480,
+          320
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qwer.ro/en/news/general?page=265",
+        "title": "General - QWER.ro - Your daily source of news and informationQWER.rohttps://qwer.ro \u203a news \u203a general",
+        "content": "Hundreds Killed in Israeli Airstrike on Gaza City Hospital, Health Ministry Says ... KHAN YOUNIS, Gaza Strip \u2014 The Gaza Health Ministry said an Israeli airstrike\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qwer.ro/en/posts?page=278",
+        "title": "Posts - QWER.ro - Your daily source of news and informationQWER.rohttps://qwer.ro \u203a posts",
+        "content": "Hundreds Killed in Israeli Airstrike on Gaza City Hospital, Health Ministry Says ... KHAN YOUNIS, Gaza Strip \u2014 The Gaza Health Ministry said an Israeli airstrike\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://warsanradio.com/author/warsan1/page/13/",
+        "title": "Warsan Radio | warsanradio baydhabo | Page 13Radio warsanhttp://warsanradio.com \u203a author \u203a warsan1 \u203a page",
+        "content": "... Gaza, waxaana lasoo wariyay dhimashada boqolaal qof oo ka kooban qaybaha ... Hospital, iyaga oo bayaan ay soo saareen ku sheegay inay cusbitaalka yaalleen\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.instagram.com/p/Cyinxmgrjh4/?next=%2Fdanawhite%2F&hl=es",
+        "title": "Gaza, Oct 2023. @apnews | InstagramInstagram\u00a0\u00b7\u00a0fatimashbair4.6K+ likes  \u00b7  1 month ago",
+        "content": "Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip, in the hospital in Khan Younis.",
+        "size": [
+          1440,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "af",
+        "link": "https://www.instagram.com/fatimashbair/?ref=uploadvr.com&hl=af",
+        "title": "Fatima Shbair (@fatimashbair) \u2022 Instagram-foto's en -video'sInstagram\u00a0\u00b7\u00a0fatimashbair75.1K+ followers",
+        "content": "303 plasings; 74,6 k volgers; 659 volg. Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip, in the.",
+        "size": [
+          1440,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.instagram.com/fatimashbair/?next=%2Fpoudrierdeugenie%2Ftagged%2F&hl=id",
+        "title": "Fatima Shbair (@fatimashbair) \u2022 Foto dan video InstagramInstagram\u00a0\u00b7\u00a0fatimashbair75.1K+ followers",
+        "content": "303 kiriman; 74,4 rb pengikut; 659 diikuti. Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip, in the.",
+        "size": [
+          1440,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qwer.ro/en/news/general?page=265",
+        "title": "General - QWER.ro - Your daily source of news and informationQWER.rohttps://qwer.ro \u203a news \u203a general",
+        "content": "Hundreds Killed in Israeli Airstrike on Gaza City Hospital, Health Ministry Says ... KHAN YOUNIS, Gaza Strip \u2014 The Gaza Health Ministry said an Israeli airstrike\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dnaindia.com/topic/Egypt?page=5",
+        "title": "Egypt - DNA IndiaDNA Indiahttps://www.dnaindia.com \u203a topic \u203a Egypt",
+        "content": "Gaza violence: Bombings by Israel, Palestine militants leave 24\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qwer.ro/en/posts?page=278",
+        "title": "Posts - QWER.ro - Your daily source of news and informationQWER.rohttps://qwer.ro \u203a posts",
+        "content": "Hundreds Killed in Israeli Airstrike on Gaza City Hospital, Health Ministry Says ... KHAN YOUNIS, Gaza Strip \u2014 The Gaza Health Ministry said an Israeli airstrike\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.instagram.com/p/Cyinxmgrjh4/?next=%2Fdanawhite%2F&hl=es",
+        "title": "Gaza, Oct 2023. @apnews | InstagramInstagram\u00a0\u00b7\u00a0fatimashbair4.6K+ likes  \u00b7  1 month ago",
+        "content": "Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip, in the hospital in Khan Younis.",
+        "size": [
+          1440,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "af",
+        "link": "https://www.instagram.com/fatimashbair/?ref=uploadvr.com&hl=af",
+        "title": "Fatima Shbair (@fatimashbair) \u2022 Instagram-foto's en -video'sInstagram\u00a0\u00b7\u00a0fatimashbair75.1K+ followers",
+        "content": "303 plasings; 74,6 k volgers; 659 volg. Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip, in the.",
+        "size": [
+          1440,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.instagram.com/fatimashbair/?next=%2Fpoudrierdeugenie%2Ftagged%2F&hl=id",
+        "title": "Fatima Shbair (@fatimashbair) \u2022 Foto dan video InstagramInstagram\u00a0\u00b7\u00a0fatimashbair75.1K+ followers",
+        "content": "303 kiriman; 74,4 rb pengikut; 659 diikuti. Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip, in the.",
+        "size": [
+          1440,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ps",
+        "link": "https://tolonews.com/pa/node/185597",
+        "title": "100s Killed in Israeli Airstrike on Gaza City Hospital - TOLOnewsTOLOnewshttps://tolonews.com \u203a node",
+        "content": "(AP) \u2014 The Gaza Health Ministry said an Israeli airstrike Tuesday hit a Gaza City hospital packed with wounded and other Palestinians seeking shelter,\u00a0...",
+        "size": [
+          1200,
+          804
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.youtube.com/watch?v=MM9FKlIQ7k8",
+        "title": "Israel Hamas War: \u0906\u091c \u092f\u0941\u0926\u094d\u0927 \u0935\u093f\u0930\u093e\u092e \u092f\u093e \u092d\u0940\u0937\u0923 \u0906\u0915\u094d\u0930\u092e\u0923 ? | R BharatYouTube\u00a0\u00b7\u00a0Republic Bharat44.7K+ views  \u00b7  3 weeks ago",
+        "content": "76K views \u00b7 2:18. Go to channel \u00b7 Israeli tanks enter Gaza's Shifa Hospital compound. Eyewitness News ABC7NY New 267 views \u00b7 6:29. Go to channel\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ur",
+        "link": "https://www.etvbharat.com/urdu/jammu-and-kashmir/gallery/news",
+        "title": "\u062e\u0628\u0631\u06cc\u06ba - ETV BharatETV Bharathttps://www.etvbharat.com \u203a news",
+        "content": "\u062e\u0628\u0631\u06cc\u06ba. human suffering in Gaza. \u063a\u0632\u06c1 \u0645\u06cc\u06ba \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u062c\u0627\u0631\u062d\u06cc\u062a \u06a9\u06cc \u062e\u0648\u0641\u0646\u0627\u06a9 \u062a\u0635\u0627\u0648\u06cc\u0631 \u00b7 Etv Bharat ... Israeli attacks in Gaza strip. \u06a9\u06cc\u0686\u0691 \u0645\u06cc\u06ba \u06a9\u06be\u06cc\u0644\u062a\u06cc \u0646\u0638\u0631 \u0622\u0626\u06cc\u06ba \u0634\u06c1\u0646\u0627\u0632 \u06af\u0644\u060c \u062f\u06cc\u06a9\u06be\u06cc\u06ba\u00a0...",
+        "size": [
+          448,
+          252
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ur",
+        "link": "https://www.etvbharat.com/urdu/jammu-and-kashmir/gallery/news",
+        "title": "\u062e\u0628\u0631\u06cc\u06ba - ETV BharatETV Bharathttps://www.etvbharat.com \u203a news",
+        "content": "\u062e\u0628\u0631\u06cc\u06ba. human suffering in Gaza. \u063a\u0632\u06c1 \u0645\u06cc\u06ba \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u062c\u0627\u0631\u062d\u06cc\u062a \u06a9\u06cc \u062e\u0648\u0641\u0646\u0627\u06a9 \u062a\u0635\u0627\u0648\u06cc\u0631 \u00b7 Etv Bharat ... Israeli attacks in Gaza strip. \u06a9\u06cc\u0686\u0691 \u0645\u06cc\u06ba \u06a9\u06be\u06cc\u0644\u062a\u06cc \u0646\u0638\u0631 \u0622\u0626\u06cc\u06ba \u0634\u06c1\u0646\u0627\u0632 \u06af\u0644\u060c \u062f\u06cc\u06a9\u06be\u06cc\u06ba\u00a0...",
+        "size": [
+          448,
+          252
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.sofokleousin.gr/mesanatoliko-anakoxi-apo-tis-7-to-proi-tis-paraskeyis-stis-1600-i",
+        "title": "\u039c\u03b5\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc: \u0391\u03bd\u03b1\u03ba\u03c9\u03c7\u03ae \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 7 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae\u03c2Sofokleousin.grhttps://www.sofokleousin.gr \u203a mesa...",
+        "content": " \u00b7 ",
+        "size": [
+          740,
+          493
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.koutipandoras.gr/article/kat-eikona-kai-kath-omoiosin/",
+        "title": "\u00ab\u039a\u03b1\u03c4' \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03ba\u03b1\u03b8' \u03bf\u03bc\u03bf\u03af\u03c9\u03c3\u03b9\u03bd...\u00bb | \u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2\u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2https://www.koutipandoras.gr \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          710,
+          430
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.koutipandoras.gr/article/kasselakis-black-einai-i-kathimerinotita-pou-echei-ftiaxei-o-k-mitsotakis-gia-olous/",
+        "title": "\u039a\u03b1\u03c3\u03c3\u03b5\u03bb\u03ac\u03ba\u03b7\u03c2: \u00abBlack \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03c7\u03b5\u03b9 \u03c6\u03c4\u03b9\u03ac\u03be\u03b5\u03b9 \u03bf ...\u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2https://www.koutipandoras.gr \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          710,
+          430
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.koutipandoras.gr/article/sti-mavri-trypa-tis-gazas/",
+        "title": "\u03a3\u03c4\u03b7 \u03bc\u03b1\u03cd\u03c1\u03b7 \u03c4\u03c1\u03cd\u03c0\u03b1 \u03c4\u03b7\u03c2 \u0393\u03ac\u03b6\u03b1\u03c2 - \u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2\u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2https://www.koutipandoras.gr \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          1192,
+          722
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.sofokleousin.gr/mesanatoliko-anakoxi-apo-tis-7-to-proi-tis-paraskeyis-stis-1600-i",
+        "title": "\u039c\u03b5\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc: \u0391\u03bd\u03b1\u03ba\u03c9\u03c7\u03ae \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 7 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae\u03c2Sofokleousin.grhttps://www.sofokleousin.gr \u203a mesa...",
+        "content": " \u00b7 ",
+        "size": [
+          740,
+          493
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.koutipandoras.gr/article/kat-eikona-kai-kath-omoiosin/",
+        "title": "\u00ab\u039a\u03b1\u03c4' \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03ba\u03b1\u03b8' \u03bf\u03bc\u03bf\u03af\u03c9\u03c3\u03b9\u03bd...\u00bb | \u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2\u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2https://www.koutipandoras.gr \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          710,
+          430
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.koutipandoras.gr/article/kasselakis-black-einai-i-kathimerinotita-pou-echei-ftiaxei-o-k-mitsotakis-gia-olous/",
+        "title": "\u039a\u03b1\u03c3\u03c3\u03b5\u03bb\u03ac\u03ba\u03b7\u03c2: \u00abBlack \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03c7\u03b5\u03b9 \u03c6\u03c4\u03b9\u03ac\u03be\u03b5\u03b9 \u03bf ...\u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2https://www.koutipandoras.gr \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          710,
+          430
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.koutipandoras.gr/article/sti-mavri-trypa-tis-gazas/",
+        "title": "\u03a3\u03c4\u03b7 \u03bc\u03b1\u03cd\u03c1\u03b7 \u03c4\u03c1\u03cd\u03c0\u03b1 \u03c4\u03b7\u03c2 \u0393\u03ac\u03b6\u03b1\u03c2 - \u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2\u03a4\u03bf \u039a\u03bf\u03c5\u03c4\u03af \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b4\u03ce\u03c1\u03b1\u03c2https://www.koutipandoras.gr \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          1192,
+          722
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elexpresivo.com/author/administrador/",
+        "title": "El ExpresivoEl Expresivohttps://elexpresivo.com \u203a author \u203a administrador",
+        "content": "Bombardeo israel\u00ed en un hospital de Gaza deja al menos 300 muertos. by El Expresivo \u00b7 17/10/2023 \u00b7 0. Un ataque a\u00e9reo israel\u00ed mat\u00f3 al menos a 300 personas en un\u00a0...",
+        "size": [
+          350,
+          250
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.5282235741615295
+      },
+      {
+        "class": "medina",
+        "ioclass": "outdoor",
+        "probability": 0.08211901783943176
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.06457032263278961
+      },
+      {
+        "class": "bazaar/outdoor",
+        "ioclass": "outdoor",
+        "probability": 0.053473737090826035
+      },
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.0496552400290966
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.8685771822929382
+      },
+      {
+        "class": "season/winter",
+        "score": 0.7821908593177795
+      },
+      {
+        "class": "ice",
+        "score": 0.7719413042068481
+      },
+      {
+        "class": "dirty",
+        "score": 0.7633228302001953
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.7469058036804199
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.7242536544799805
+      },
+      {
+        "class": "moist",
+        "score": 0.6736825704574585
+      },
+      {
+        "class": "rugged",
+        "score": 0.6066462993621826
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5941899418830872
+      },
+      {
+        "class": "weather/clouds",
+        "score": 0.5598428249359131
+      },
+      {
+        "class": "busy",
+        "score": 0.5121294260025024
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1435,
+        "pred_lat": 29.993715286254883,
+        "pred_long": 31.16461944580078
+      },
+      "middle": {
+        "pred_class": 2361,
+        "pred_lat": 30.055252075195312,
+        "pred_long": 31.23897933959961
+      },
+      "fine": {
+        "pred_class": 2701,
+        "pred_lat": 30.04587745666504,
+        "pred_long": 31.232879638671875
+      },
+      "hierarchy": {
+        "pred_class": 2701,
+        "pred_lat": 30.04587745666504,
+        "pred_long": 31.232879638671875
+      },
+      "country": {
+        "city": "Cairo",
+        "state": "Cairo",
+        "country": "Egypt"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 30.052723,
+    "longitude": 31.190199,
+    "generationtime_ms": 0.1609325408935547,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 25.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2015-11-19T00:00",
+        "2015-11-19T01:00",
+        "2015-11-19T02:00",
+        "2015-11-19T03:00",
+        "2015-11-19T04:00",
+        "2015-11-19T05:00",
+        "2015-11-19T06:00",
+        "2015-11-19T07:00",
+        "2015-11-19T08:00",
+        "2015-11-19T09:00",
+        "2015-11-19T10:00",
+        "2015-11-19T11:00",
+        "2015-11-19T12:00",
+        "2015-11-19T13:00",
+        "2015-11-19T14:00",
+        "2015-11-19T15:00",
+        "2015-11-19T16:00",
+        "2015-11-19T17:00",
+        "2015-11-19T18:00",
+        "2015-11-19T19:00",
+        "2015-11-19T20:00",
+        "2015-11-19T21:00",
+        "2015-11-19T22:00",
+        "2015-11-19T23:00",
+        "2015-11-20T00:00",
+        "2015-11-20T01:00",
+        "2015-11-20T02:00",
+        "2015-11-20T03:00",
+        "2015-11-20T04:00",
+        "2015-11-20T05:00",
+        "2015-11-20T06:00",
+        "2015-11-20T07:00",
+        "2015-11-20T08:00",
+        "2015-11-20T09:00",
+        "2015-11-20T10:00",
+        "2015-11-20T11:00",
+        "2015-11-20T12:00",
+        "2015-11-20T13:00",
+        "2015-11-20T14:00",
+        "2015-11-20T15:00",
+        "2015-11-20T16:00",
+        "2015-11-20T17:00",
+        "2015-11-20T18:00",
+        "2015-11-20T19:00",
+        "2015-11-20T20:00",
+        "2015-11-20T21:00",
+        "2015-11-20T22:00",
+        "2015-11-20T23:00"
+      ],
+      "apparent_temperature": [
+        16.8,
+        16.1,
+        16.0,
+        15.7,
+        15.3,
+        15.1,
+        17.1,
+        20.3,
+        21.8,
+        23.2,
+        23.9,
+        24.1,
+        23.9,
+        23.6,
+        23.0,
+        22.0,
+        20.3,
+        19.1,
+        18.1,
+        17.9,
+        17.4,
+        17.3,
+        16.8,
+        16.4,
+        15.9,
+        15.2,
+        14.6,
+        14.1,
+        13.7,
+        13.5,
+        15.7,
+        19.2,
+        20.6,
+        21.1,
+        21.5,
+        22.0,
+        22.2,
+        22.1,
+        21.8,
+        21.0,
+        19.7,
+        18.7,
+        17.9,
+        17.3,
+        16.8,
+        16.4,
+        16.0,
+        15.7
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

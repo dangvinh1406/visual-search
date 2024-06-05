@@ -1,0 +1,2976 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2023/01": {
+            "count": 51,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 51,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                51,
+                3,
+                0,
+                3,
+                5,
+                0,
+                2,
+                1,
+                2,
+                0,
+                2,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 190,
+            "percentage": 92.6829268292683
+          },
+          "Vietnamese": {
+            "count": 6,
+            "percentage": 2.926829268292683
+          },
+          "Finnish": {
+            "count": 2,
+            "percentage": 0.975609756097561
+          },
+          "French": {
+            "count": 2,
+            "percentage": 0.975609756097561
+          },
+          "Hindi": {
+            "count": 2,
+            "percentage": 0.975609756097561
+          },
+          "Greek, Modern (1453-)": {
+            "count": 1,
+            "percentage": 0.4878048780487805
+          },
+          "Spanish; Castilian": {
+            "count": 1,
+            "percentage": 0.4878048780487805
+          },
+          "Portuguese": {
+            "count": 1,
+            "percentage": 0.4878048780487805
+          }
+        },
+        "total": 205,
+        "plot": {
+          "labels": [
+            "English",
+            "Vietnamese",
+            "Finnish",
+            "French",
+            "others"
+          ],
+          "data": [
+            92,
+            2,
+            0,
+            0,
+            6
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/what-tanks-does-russia-use-in-ukraine",
+        "title": "What Tanks Does Russia Use In Ukraine - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a what-tanks-does-...",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine ... image ... Why the capture of a Russian T-90M tank matters More the full size What\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": "2023:11:17 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/jan/13/russia-ukraine-war-live-small-pockets-of-resistance-from-ukraine-in-soledar-says-moscow-installed-official?page=with:block-63c176458f085fda3e65e1ba",
+        "title": "Kyiv says battles ongoing in Soledar and denies Russians ...The Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a jan \u203a ru...",
+        "content": "... tanks for Kyiv. Germany has given Ukraine substantial military aid since Russia invaded, including howitzers, Gepard self-propelled anti\u00a0...",
+        "size": [
+          620,
+          372
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 136,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/jan/13/russia-ukraine-war-live-small-pockets-of-resistance-from-ukraine-in-soledar-says-moscow-installed-official?page=with:block-63c176458f085fda3e65e1ba",
+        "title": "Kyiv says battles ongoing in Soledar and denies Russians ...The Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a jan \u203a ru...",
+        "content": "... tanks for Kyiv. Germany has given Ukraine substantial military aid since Russia invaded, including howitzers, Gepard self-propelled anti\u00a0...",
+        "size": [
+          620,
+          372
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/jan/13/russia-ukraine-war-live-small-pockets-of-resistance-from-ukraine-in-soledar-says-moscow-installed-official?page=with:block-63c176788f085fda3e65e1c2",
+        "title": "Kyiv says battles ongoing in Soledar and denies Russians ...The Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a jan \u203a ru...",
+        "content": "... tanks for Kyiv. Germany has given Ukraine substantial military aid since Russia invaded, including howitzers, Gepard self-propelled anti\u00a0...",
+        "size": [
+          620,
+          372
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/jan/13/russia-ukraine-war-live-small-pockets-of-resistance-from-ukraine-in-soledar-says-moscow-installed-official?page=with:block-63c176788f085fda3e65e1c2",
+        "title": "Kyiv says battles ongoing in Soledar and denies Russians ...The Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a jan \u203a ru...",
+        "content": "... tanks for Kyiv. Germany has given Ukraine substantial military aid since Russia invaded, including howitzers, Gepard self-propelled anti\u00a0...",
+        "size": [
+          620,
+          372
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/jan/13/russia-ukraine-war-live-small-pockets-of-resistance-from-ukraine-in-soledar-says-moscow-installed-official",
+        "title": "Kyiv says battles ongoing in Soledar and denies Russians ...The Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a jan \u203a ru...",
+        "content": "... tanks for Kyiv. Germany has given Ukraine substantial military aid since Russia invaded, including howitzers, Gepard self-propelled anti\u00a0...",
+        "size": [
+          620,
+          372
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.straitstimes.com/world/europe/logistical-challenge-looms-for-ukraine-over-promised-tanks",
+        "title": "Logistical challenge looms for Ukraine over promised tanksThe Straits Timeshttps://www.straitstimes.com \u203a world \u203a europe \u203a logisti...",
+        "content": "PARIS - The imminent arrival in Ukraine of Western-made light tanks and armoured vehicles, as well as possibly heavy tanks, means Kyiv will need\u00a0...",
+        "size": [
+          860,
+          573
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-11634115/Rishi-Sunak-pledges-send-tank-squadron-Ukraine-major-spring-offensive.html",
+        "title": "President Zelensky thanks Rishi Sunak for squadron of ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-11634115",
+        "content": "Ukrainian President Volodymyr Zelensky sent his thanks to the UK after it confirmed it will provide Kyiv with Challenger 2 tanks.",
+        "size": [
+          634,
+          425
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/jan/13/russia-ukraine-war-live-small-pockets-of-resistance-from-ukraine-in-soledar-says-moscow-installed-official?page=with:block-63c17c7f8f08a62e1a2e3a6f",
+        "title": "Kyiv says battles ongoing in Soledar and denies Russians ...The Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a jan \u203a ru...",
+        "content": "... tanks for Kyiv. Germany has given Ukraine substantial military aid since Russia invaded, including howitzers, Gepard self-propelled anti\u00a0...",
+        "size": [
+          620,
+          372
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nocturneaixpuyricard.com/wp-readme.php?pg=dailymail_news/article-11634115/amp/Rishi-Sunak-pledges-send-tank-squadron-Ukraine-major-spring-offensive.html?ico=amp_articleInlineText",
+        "title": "President Zelensky thanks Rishi Sunak for squadron of ...nocturneaixpuyricard.comhttps://www.nocturneaixpuyricard.com \u203a wp-readme",
+        "content": "Ukrainian President Volodymyr Zelensky sent his thanks to the UK after it confirmed it will provide Kyiv with Challenger 2 tanks.",
+        "size": [
+          634,
+          425
+        ],
+        "date": "2023:01:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.straitstimes.com/world/europe/britain-indicates-it-will-send-battle-tanks-to-ukraine",
+        "title": "Britain to send 14 of its main battle tanks, more weaponry to ...The Straits Timeshttps://www.straitstimes.com \u203a world \u203a europe \u203a britai...",
+        "content": "The UK will also begin training Ukrainian forces to use the tanks and guns in the coming days. \u201cAs the people of Ukraine approach their second\u00a0...",
+        "size": [
+          860,
+          573
+        ],
+        "date": "2023:01:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tribuneindia.com/news/world/ukraines-soledar-town-captured-claims-russia-470234",
+        "title": "Ukraine's Soledar town captured, claims Russia - Tribune IndiaTribune Indiahttps://www.tribuneindia.com \u203a World",
+        "content": "... military setbacks. However, a spokesperson for Ukraine's eastern military command, Serhiy Cherevatyi, denied that the Russian forces had\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:01:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tribuneindia.com/news/world/ukraines-soledar-town-captured-claims-russia-470234",
+        "title": "Ukraine's Soledar town captured, claims Russia - Tribune IndiaTribune Indiahttps://www.tribuneindia.com \u203a World",
+        "content": "... military setbacks. However, a spokesperson for Ukraine's eastern military command, Serhiy Cherevatyi, denied that the Russian forces had\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:01:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.straitstimes.com/world/europe/britain-indicates-it-will-send-battle-tanks-to-ukraine",
+        "title": "Britain to send 14 of its main battle tanks, more weaponry to ...The Straits Timeshttps://www.straitstimes.com \u203a world \u203a europe \u203a britai...",
+        "content": "The UK will also begin training Ukrainian forces to use the tanks and guns in the coming days. \u201cAs the people of Ukraine approach their second\u00a0...",
+        "size": [
+          860,
+          573
+        ],
+        "date": "2023:01:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lapresse.ca/international/europe/2023-01-15/guerre-en-ukraine/le-chef-du-groupe-wagner-vante-ses-troupes.php",
+        "title": "Guerre en Ukraine | Le chef du groupe Wagner vante ses ...LaPresse.cahttps://www.lapresse.ca \u203a europe \u203a l...",
+        "content": "",
+        "size": [
+          357,
+          238
+        ],
+        "date": "2023:01:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nz.news.yahoo.com/video/canada-allies-sending-offensive-weapons-041524187.html",
+        "title": "Canada, allies sending offensive weapons to UkraineYahoo News New Zealandhttps://nz.news.yahoo.com \u203a video \u203a canada-allies-sen...",
+        "content": "Ukraine is getting advanced air defence systems from Canada and more armoured vehicles from other Western allies ahead of a widely\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.yahoo.com/canada-allies-sending-offensive-weapons-041524187.html",
+        "title": "Canada, allies sending offensive weapons to UkraineYahoo Newshttps://news.yahoo.com \u203a canada-allies-sending-offens...",
+        "content": "Ukraine is getting advanced air defence systems from Canada and more armoured vehicles from other Western allies ahead of a widely\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.news.yahoo.com/canada-allies-sending-offensive-weapons-041524187.html",
+        "title": "Canada, allies sending offensive weapons to UkraineYahoo News Canadahttps://ca.news.yahoo.com \u203a canada-allies-sending-off...",
+        "content": "Ukraine is getting advanced air defence systems from Canada and more armoured vehicles from other Western allies ahead of a widely\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dw.com/en/ukraine-updates-zelenskyy-calls-for-fast-tank-deliveries/a-64418292",
+        "title": "Ukraine updates: Zelenskyy calls for fast tank deliveries - DWDWhttps://www.dw.com \u203a ukraine-updates-zelenskyy-call...",
+        "content": "Volodymyr Zelenskyy has called on the West for speedier deliveries of heavy weapons to defeat Russia's invasion. Meanwhile, a former Wagner\u00a0...",
+        "size": [
+          767,
+          432
+        ],
+        "date": "2023:01:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/sciencetech/article-11648139/Doomsday-Clock-updated-week-determine-fate.html",
+        "title": "Doomsday Clock will be updated next week to determine our ...Daily Mailhttps://www.dailymail.co.uk \u203a article-11648139 \u203a Doo...",
+        "content": "... Ukrainian servicemen stand on their tanks in Bakhmut, Donetsk region on January 13. Nuclear war between the US and Russia 'would cause a\u00a0...",
+        "size": [
+          634,
+          425
+        ],
+        "date": "2023:01:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.almayadeen.net/news/politics/uk-denmark-sweden-pledge-more-weapons-to-kiev-ahead-of-donor",
+        "title": "UK, Denmark, Sweden pledge more weapons to Kiev ahead ...Al Mayadeen Englishhttps://english.almayadeen.net \u203a News \u203a Europe",
+        "content": "... military assistance to Ukraine. Read more: Germany: No Leopard tanks to Kiev unless US agrees to send its Abrams \u00b7 Russia \u00b7 Germany \u00b7 Denmark\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nationalreview.com/magazine/2023/02/06/right-and-wrong-on-ukraine/",
+        "title": "Right and Wrong on Ukraine - National ReviewNational Reviewhttps://www.nationalreview.com \u203a magazine \u203a 2023/02/06",
+        "content": "Why has the debate on the Ukraine\u2013Russia war become so fetid, especially on the political right? Why are members of Congress from the\u00a0...",
+        "size": [
+          987,
+          576
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ibtimes.com/ukraine-says-it-paying-lives-tank-debate-drags-3658858",
+        "title": "Ukraine Says It Is Paying In Lives As Tank Debate Drags OnInternational Business Timeshttps://www.ibtimes.com \u203a ukraine-says-it-paying-live...",
+        "content": "... Ukraine. A German government source said Berlin would lift its objections if Washington sends Abrams tanks. President Volodymyr Zelenskiy\u00a0...",
+        "size": [
+          736,
+          490
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ibtimes.com/ukraine-says-it-paying-lives-tank-debate-drags-3658858",
+        "title": "Ukraine Says It Is Paying In Lives As Tank Debate Drags OnInternational Business Timeshttps://www.ibtimes.com \u203a ukraine-says-it-paying-live...",
+        "content": "... Ukraine. A German government source said Berlin would lift its objections if Washington sends Abrams tanks. President Volodymyr Zelenskiy\u00a0...",
+        "size": [
+          736,
+          490
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nationalreview.com/magazine/2023/02/06/right-and-wrong-on-ukraine/",
+        "title": "Right and Wrong on Ukraine - National ReviewNational Reviewhttps://www.nationalreview.com \u203a magazine \u203a 2023/02/06",
+        "content": "Why has the debate on the Ukraine\u2013Russia war become so fetid, especially on the political right? Why are members of Congress from the\u00a0...",
+        "size": [
+          987,
+          576
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.usnews.com/news/world/articles/2023-01-19/ukraine-asks-west-to-hurry-up-with-supplies-of-tanks-air-defences",
+        "title": "Ukraine Says It Is Paying in Lives as Tank Debate Drags OnU.S. News & World Reporthttps://www.usnews.com \u203a News \u203a World News",
+        "content": "... Ukraine. A German government source said Berlin would lift its objections if Washington sends Abrams tanks. President Volodymyr Zelenskiy\u00a0...",
+        "size": [
+          970,
+          647
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reuters.com/world/europe/ukraine-asks-west-hurry-up-with-supplies-tanks-air-defences-2023-01-19/",
+        "title": "Ukraine says it is paying in lives as tank debate drags onReutershttps://www.reuters.com \u203a world \u203a europe \u203a ukraine-asks...",
+        "content": "... Ukraine. A German government source said Berlin would lift its objections if Washington sends Abrams tanks. Ukrainian servicemen stand n on\u00a0...",
+        "size": [
+          1080,
+          1080
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thepeninsulaqatar.com/article/19/01/2023/ukraine-asks-west-to-hurry-up-with-supplies-of-tanks-air-defences",
+        "title": "Ukraine asks West to hurry up with supplies of tanks, air ...The Peninsula Qatarhttps://thepeninsulaqatar.com \u203a article \u203a ukraine-asks-...",
+        "content": "KYIV: Ukraine urged Western allies on Thursday to hurry up and supply tanks and air defences to Kyiv, saying it was paying with Ukrainian\u00a0...",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://dantri.com.vn/the-gioi/ukraine-noi-phai-tra-gia-bang-mang-song-vi-phuong-tay-cham-chuyen-xe-tang-20230119211125796.htm",
+        "title": "Ukraine n\u00f3i \"ph\u1ea3i tr\u1ea3 gi\u00e1 b\u1eb1ng m\u1ea1ng s\u1ed1ng\" v\u00ec ph\u01b0\u01a1ng T\u00e2y ...B\u00e1o D\u00e2n tr\u00edhttps://dantri.com.vn \u203a ... \u203a Qu\u00e2n s\u1ef1",
+        "content": "B\u1ed9 tr\u01b0\u1edfng Qu\u1ed1c ph\u00f2ng Ukraine Oleksii Reznikov cho bi\u1ebft Kiev \u0111\u00e3 k\u00eau ... Ukraine xe t\u0103ng Abrams tr\u01b0\u1edbc. Trong khi \u0111\u00f3, Nga c\u1ea3nh b\u00e1o r\u1eb1ng c\u00e1c v\u0169\u00a0...",
+        "size": [
+          1020,
+          680
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ibtimes.com/russias-wagner-pmc-offers-3500-monthly-pay-recruits-required-delete-social-media-accounts-3659185",
+        "title": "Russia's Wagner PMC Offers $3,500 Monthly Pay, Recruits ...International Business Timeshttps://www.ibtimes.com \u203a World \u203a Vladimir putin",
+        "content": "Service members of pro-Russian troops inspect an AT4 anti-tank launcher of the Ukrainian armed forces during Ukraine-Russia conflict outside the\u00a0...",
+        "size": [
+          736,
+          490
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thepeninsulaqatar.com/article/20/01/2023/finland-to-send-heavy-artillery-to-ukraine",
+        "title": "Finland to send heavy artillery to Ukraine | The Peninsula QatarThe Peninsula Qatarhttps://thepeninsulaqatar.com \u203a article \u203a finland-to-sen...",
+        "content": "... Russia's attack on Ukraine, in Donetsk region, Ukraine January 13, 2023. ... Kyiv for months, along with armoured vehicles and anti-tank missiles.",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/sitemaps/article-new/22-01-2023.xml",
+        "title": "22-01-2023.xml - Al JazeeraAl Jazeerahttps://www.aljazeera.com \u203a sitemaps \u203a article-new",
+        "content": "... tanks-to-ukraine 2023-01-23T09:45:10Z Germany would not block Poland sending tanks to Ukraine: Minister 2023-01-23T09:45:10Z Al Jazeera\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.jagran.com/world/other-britain-put-pressure-on-germany-to-give-tanks-to-ukraine-russia-said-its-consequences-will-be-dire-23305698.html",
+        "title": "\u092f\u0942\u0915\u094d\u0930\u0947\u0928 \u0915\u094b \u091f\u0948\u0902\u0915 \u0926\u0947\u0928\u0947 \u0915\u094b \u092c\u094d\u0930\u093f\u091f\u0947\u0928 \u0928\u0947 \u091c\u0930\u094d\u092e\u0928\u0940 \u092a\u0930 \u0921\u093e\u0932\u093e \u0926\u092c\u093e\u0935, \u0930\u0942\u0938 \u0928\u0947 \u0915\u0939\u093e ...Jagranhttps://www.jagran.com \u203a ... \u203a other",
+        "content": "Russia- Ukraine War: \u092f\u0942\u0915\u094d\u0930\u0947\u0928 \u0915\u094b \u091f\u0948\u0902\u0915 \u0926\u0947\u0928\u0947 \u0915\u094b \u092c\u094d\u0930\u093f\u091f\u0947\u0928 \u0928\u0947 \u091c\u0930\u094d\u092e\u0928\u0940 \u092a\u0930 \u0921\u093e\u0932\u093e \u0926\u092c\u093e\u0935, \u0930\u0942\u0938 \u0928\u0947 \u0915\u0939\u093e- \u0907\u0938\u0915\u093e \u0905\u0902\u091c\u093e\u092e \u0939\u094b\u0917\u093e \u092d\u092f\u093e\u0935\u0939.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reuters.com/world/american-lawmakers-urge-us-ship-abrams-tanks-ukraine-2023-01-22/",
+        "title": "American lawmakers urge U.S. to ship Abrams tanks to UkraineReutershttps://www.reuters.com \u203a world \u203a american-lawmakers-...",
+        "content": "American lawmakers on Sunday pushed the U.S. government to export M1 Abrams main battle tanks to Ukraine, saying that even sending a\u00a0...",
+        "size": [
+          1348,
+          1685
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pbs.org/newshour/world/russia-official-warns-west-of-global-catastrophe-for-arming-ukraine",
+        "title": "Russia official warns West of 'global catastrophe' for arming ...PBShttps://www.pbs.org \u203a newshour \u203a world \u203a russia-offic...",
+        "content": "Ukraine's supporters pledged billions of dollars in military aid to Ukraine ... \u201cIf we announced we were giving an Abrams tank, just one, that\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theglobeandmail.com/world/article-russia-official-warns-west-of-retaliation-for-arming-ukraine/",
+        "title": "Germany won't block Poland giving Ukraine tanks, foreign ...The Globe and Mailhttps://www.theglobeandmail.com \u203a world \u203a article-ru...",
+        "content": "Germany's top diplomat said her country would not object if Poland decided to send some of its Leopards to Ukraine.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dw.com/en/france-and-germany-seek-to-get-relations-back-on-track-for-treaty-anniversary/a-64445526",
+        "title": "Franco-German relations under pressure on Elysee anniversaryDWhttps://www.dw.com \u203a france-and-germany-seek-to-ge...",
+        "content": "The latest diplomatic incident was in early January, when Macron single-handedly announced France would provide light tanks to Ukraine,\u00a0...",
+        "size": [
+          475,
+          267
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/news/2023/1/22/germany-would-not-block-poland-sending-tanks-to-ukraine",
+        "title": "Germany would not block Poland sending tanks to UkraineAl Jazeerahttps://www.aljazeera.com \u203a news \u203a germany-would-n...",
+        "content": "Germany would not block Poland sending tanks to Ukraine: Minister. Foreign minister Annalena Baerbock says Germany 'would not stand in the way'\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reuters.com/news/picture/american-lawmakers-urge-us-to-ship-abram-idUSKBN2U108X",
+        "title": "American lawmakers urge U.S. to ship Abrams tanks to UkraineReutershttps://www.reuters.com \u203a news \u203a picture",
+        "content": "FILE PHOTO: Ukrainian servicemen stand on their tanks near the frontline town of Bakhmut, amid Russia's attack on Ukraine, in Donetsk region\u00a0...",
+        "size": [
+          490,
+          326
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.usnews.com/news/world/articles/2023-01-22/american-lawmakers-urge-u-s-to-ship-abrams-tanks-to-ukraine",
+        "title": "American Lawmakers Urge U.S. to Ship Abrams Tanks to ...U.S. News & World Reporthttps://www.usnews.com \u203a News \u203a World News",
+        "content": "WASHINGTON (Reuters) - American lawmakers on Sunday pushed the U.S. government to export M1 Abrams main battle tanks to Ukraine, saying that\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": "2023:01:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-11666439/War-Russia-West-no-longer-hybrid-real-one-Sergei-Lavrov-warns.html",
+        "title": "Lavrov claims West stopped Ukraine peace negotiations and ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-11666439",
+        "content": "Leopard tanks are seen by defence experts as the most suitable heavy battle tanks to help Ukraine as Russia prepares for a new mobilisation.",
+        "size": [
+          636,
+          382
+        ],
+        "date": "2023:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nocturneaixpuyricard.com/wp-readme.php?pg=dailymail_news/article-11666439/War-Russia-West-no-longer-hybrid-real-one-Sergei-Lavrov-warns.html?ico=amp-comments-viewall",
+        "title": "Lavrov claims the West stopped Ukraine peace negotiations ...nocturneaixpuyricard.comhttps://www.nocturneaixpuyricard.com \u203a wp-readme",
+        "content": "Meanwhile, Poland's prime minister Mateusz Morawiecki said today his government would ask Germany for permission to send Leopard tanks to\u00a0...",
+        "size": [
+          636,
+          382
+        ],
+        "date": "2023:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.ouest-france.fr/monde/guerre-en-ukraine/guerre-en-ukraine-chars-leopard-zaporijjia-en-ligne-de-mire-le-point-sur-la-nuit-655dc533-fef2-4e53-8225-9e3c6dd4a0af",
+        "title": "Guerre en Ukraine. Chars Leopard, Zaporijjia en ligne de mire ...Ouest-Francehttps://www.ouest-france.fr \u203a monde",
+        "content": "Un soldat ukrainien devant un tank, pr\u00e8s du front de Bakhmut, le 13 janvier 2023. |\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nocturneaixpuyricard.com/wp-readme.php?pg=dailymail_news/article-11666439/War-Russia-West-no-longer-hybrid-real-one-Sergei-Lavrov-warns.html?ico=amp-comments-viewall",
+        "title": "Lavrov claims the West stopped Ukraine peace negotiations ...nocturneaixpuyricard.comhttps://www.nocturneaixpuyricard.com \u203a wp-readme",
+        "content": "Meanwhile, Poland's prime minister Mateusz Morawiecki said today his government would ask Germany for permission to send Leopard tanks to\u00a0...",
+        "size": [
+          636,
+          382
+        ],
+        "date": "2023:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pbs.org/newshour/show/january-25-2023-pbs-newshour-full-episode",
+        "title": "January 25, 2023 \u2013 PBS NewsHour full episodePBShttps://www.pbs.org \u203a newshour \u203a show \u203a january-25-...",
+        "content": "Wednesday on the NewsHour, the U.S. and Germany agree to send tanks to Ukraine in a major boost to the nation's war effort.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hamodia.com/2023/01/25/u-s-germany-poised-to-send-tanks-to-ukraine-answering-kyivs-pleas/",
+        "title": "U.S., Germany Poised to Send Tanks to Ukraine, Answering ...Hamodiahttps://hamodia.com \u203a Archives \u203a World",
+        "content": "While there was no official confirmation, the expected delivery of dozens of U.S. M1 Abrams tanks and at least one company of 14 German Leopards\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pbs.org/newshour/show/u-s-and-germany-sending-tanks-to-ukraine-for-fight-against-russian-invasion",
+        "title": "U.S. and Germany sending tanks to Ukraine for fight against ...PBShttps://www.pbs.org \u203a newshour \u203a show \u203a u-s-and-ger...",
+        "content": "The U.S. officially announced it will send American tanks to Ukraine as part of a coordinated effort with Germany, which will also send its\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pbs.org/newshour/politics/watch-live-pentagon-holds-news-conference-after-biden-announces-31-abrams-tanks-will-be-sent-to-ukraine",
+        "title": "U.S. and Germany send battle tanks to aid Ukraine against ...PBShttps://www.pbs.org \u203a newshour \u203a politics \u203a watch-liv...",
+        "content": "Pentagon press secretary Pat Ryder will hold a news conference on Wednesday following news that 31 Abrams tanks will be sent to Ukraine as\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.elpais.com/international/2023-01-26/ukraine-in-race-against-time-to-launch-spring-offensive-with-nato-supplied-tanks.html",
+        "title": "Ukraine in race against time to launch spring offensive with ...EL PA\u00cdS Englishhttps://english.elpais.com \u203a International",
+        "content": "Fouillet estimates that Ukraine can expect around 100 NATO tanks ahead of spring, above all the European Leopard 2, the American Abrams and the\u00a0...",
+        "size": [
+          414,
+          276
+        ],
+        "date": "2023:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://dantri.com.vn/the-gioi/cong-ty-nga-treo-thuong-cho-binh-si-pha-huy-xe-tang-phuong-tay-o-ukraine-20230130162811912.htm",
+        "title": "C\u00f4ng ty Nga treo th\u01b0\u1edfng cho binh s\u0129 ph\u00e1 h\u1ee7y xe t\u0103ng ph\u01b0\u01a1ng ...B\u00e1o D\u00e2n tr\u00edhttps://dantri.com.vn \u203a ... \u203a Qu\u00e2n s\u1ef1",
+        "content": "... Abrams c\u1ee7a M\u1ef9 tr\u00ean chi\u1ebfn tr\u01b0\u1eddng Ukraine. Theo \u0111\u00f3, binh s\u0129 \u0111\u1ea7u ti\u00ean l\u00e0m \u0111\u01b0\u1ee3c \u0111i\u1ec1u n\u00e0y s\u1ebd \u0111\u01b0\u1ee3c th\u01b0\u1edfng 5 tri\u1ec7u r\u00fap (kho\u1ea3ng 72.000 USD), nh\u1eefng\u00a0...",
+        "size": [
+          220,
+          147
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.firstpost.com/world/destroy-and-win-bounty-russian-company-offers-five-million-roubles-to-soldiers-who-wreck-western-made-tanks-in-ukraine-12069912.html",
+        "title": "Destroy and win bounty: Russian company offers five million ...Firstposthttps://www.firstpost.com \u203a World News",
+        "content": "... payments to Russian servicemen who 'capture or destroy' German-made Leopard 2 or US-made Abrams tanks.",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.usnews.com/news/world/articles/2023-01-30/russian-business-offers-cash-bounties-to-destroy-western-tanks-in-ukraine",
+        "title": "Russian Business Offers Cash Bounties to Destroy Western ...U.S. News & World Reporthttps://www.usnews.com \u203a News \u203a World News",
+        "content": "... Russian forces would wipe out any Western tanks shipped to Ukraine. ... Abrams tanks. The company said it will pay five million roubles to\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reuters.com/world/europe/russian-business-offers-cash-bounties-destroy-western-tanks-ukraine-2023-01-30/",
+        "title": "Russian business offers cash bounties to destroy Western ...Reutershttps://www.reuters.com \u203a world \u203a europe \u203a russian-busi...",
+        "content": "... Russian forces would wipe out any Western tanks shipped to Ukraine ... Abrams tanks. The company said it will pay five million roubles to\u00a0...",
+        "size": [
+          1348,
+          1685
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://tuoitre.vn/ukraine-sot-ruot-cho-vu-khi-20230131231014462.htm",
+        "title": "Ukraine s\u1ed1t ru\u1ed9t ch\u1edd v\u0169 kh\u00ed - B\u00e1o Tu\u1ed5i Tr\u1ebbTu\u1ed5i Tr\u1ebbhttps://tuoitre.vn \u203a Th\u1ebf gi\u1edbi",
+        "content": "T\u01b0\u01a1ng t\u1ef1, M\u1ef9 c\u0169ng h\u1ee9a giao 31 chi\u1ebfc M1 Abram. Nh\u01b0ng s\u1ed1 xe t\u0103ng c\u1ee7a ph\u01b0\u01a1ng T\u00e2y n\u1ebfu c\u00f3 t\u1edbi k\u1ecbp c\u0169ng kh\u00f3 gi\u00fap Kiev ch\u1ed1ng ch\u1ecdi tr\u01b0\u1edbc c\u00e1c cu\u1ed9c t\u1ea5n\u00a0...",
+        "size": [
+          480,
+          300
+        ],
+        "date": "2023:02:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thepeninsulaqatar.com/article/05/02/2023/heavy-fighting-in-north-of-bakhmut-wagner-chief",
+        "title": "Heavy fighting in north of Bakhmut: Wagner chiefThe Peninsula Qatarhttps://thepeninsulaqatar.com \u203a article \u203a heavy-fightin...",
+        "content": "Ukrainian servicemen stand on their tanks near the frontline town of ... Russia's attack on Ukraine, in Donetsk region, Ukraine January 13, 2023.",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:02:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://tuoitre.vn/nhan-xe-tang-xin-bo-truong-ukraine-choi-soc-hoi-ngay-duong-toi-matxcova-20230226172745637.htm",
+        "title": "Nh\u1eadn xe t\u0103ng x\u1ecbn, B\u1ed9 tr\u01b0\u1edfng Ukraine ch\u01a1i s\u1ed1c, h\u1ecfi ngay ...Tu\u1ed5i Tr\u1ebbhttps://tuoitre.vn \u203a Th\u1ebf gi\u1edbi",
+        "content": "Trong s\u1ed1 n\u00e0y c\u00f3 xe t\u0103ng Leopard 2, M1 Abrams v\u00e0 Challenger 2. 93 \u0111\u00e3 t\u1eb7ng 0 62 31. B\u00e0i vi\u1ebft hay? T\u1eb7ng sao cho Tu\u1ed5i Tr\u1ebb. T\u1eb7ng sao. Chuy\u1ec3n sao\u00a0...",
+        "size": [
+          480,
+          300
+        ],
+        "date": "2023:02:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.firstpost.com/world/secret-us-documents-on-ukraine-war-plan-spill-onto-internet-pentagon-launches-probe-12420792.html",
+        "title": "Secret US documents on Ukraine war plan spill onto internet ...Firstposthttps://www.firstpost.com \u203a World News",
+        "content": "",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:04:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thuvienpc.com/us-information-exposed-in-leak-of-classified-documents/",
+        "title": "US Information Exposed in Leak of Classified DocumentsThuvienpc.comhttps://thuvienpc.com \u203a Military",
+        "content": "A series of leaked classified documents mention US intelligence activities within the Russian military, as well as an assessment of Ukraine's\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": "2023:04:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://vnexpress.net/tuong-my-noi-ukraine-da-nhan-98-tang-thiet-giap-cam-ket-4598607.html",
+        "title": "T\u01b0\u1edbng M\u1ef9 n\u00f3i Ukraine \u0111\u00e3 nh\u1eadn 98% t\u0103ng thi\u1ebft gi\u00e1p cam k\u1ebftVnExpresshttps://vnexpress.net \u203a Th\u1ebf gi\u1edbi \u203a Qu\u00e2n s\u1ef1",
+        "content": "T\u01b0\u1edbng Cavoli c\u0169ng gi\u1ea3i th\u00edch c\u00e1ch c\u00e1c n\u01b0\u1edbc ph\u01b0\u01a1ng T\u00e2y ph\u1ed1i h\u1ee3p v\u1edbi Kiev nh\u1eb1m x\u00e1c \u0111\u1ecbnh nhu c\u1ea7u c\u1ee7a qu\u00e2n \u0111\u1ed9i Ukraine. ... M1 Abrams. Advertisement\u00a0...",
+        "size": [
+          280,
+          168
+        ],
+        "date": "2023:04:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://vnexpress.net/ukraine-ap-lenh-gioi-nghiem-o-thanh-pho-kherson-4600748.html",
+        "title": "Ukraine \u00e1p l\u1ec7nh gi\u1edbi nghi\u00eam \u1edf th\u00e0nh ph\u1ed1 Kherson - VnExpressVnExpresshttps://vnexpress.net \u203a ukraine-ap-lenh-gioi-nghiem-o-th...",
+        "content": "Chi\u1ebfn s\u1ef1 Nga - Ukraine \u00b7 L\u00fd do Ukraine ch\u01b0a cho xe t\u0103ng Abrams tham chi\u1ebfn 11 \u00b7 Ukraine n\u00eau ba chi\u1ebfn th\u1eafng c\u1ea7n \u0111\u1ea1t tr\u00ean tr\u01b0\u1eddng qu\u1ed1c t\u1ebf 0 \u00b7 Nga\u00a0...",
+        "size": [
+          280,
+          168
+        ],
+        "date": "2023:05:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thepeninsulaqatar.com/article/07/05/2023/wagner-says-russia-promises-enough-ammo-to-stay-in-bakhmut",
+        "title": "Wagner says Russia promises enough ammo to stay in BakhmutThe Peninsula Qatarhttps://thepeninsulaqatar.com \u203a article \u203a wagner-says-r...",
+        "content": "It comes as Russia has reported increasing drone strikes and sabotage, amid speculations of an expected spring counteroffensive from Ukraine. \"\u00a0...",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:05:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.presstv.ir/Detail/2023/05/16/703508/Washington-funding-security-aid-to-Kiev-could-dry-up-by-midsummer-reupping-not-easy-US-media",
+        "title": "US military aid to Kiev could end by midsummer, resupplying ...Press TVhttps://www.presstv.ir \u203a Detail \u203a 2023/05/16 \u203a Washin...",
+        "content": "The United States has problems providing funds for weapons and munitions to the Ukraine forces fighting against Russia, a US media publication\u00a0...",
+        "size": [
+          1000,
+          561
+        ],
+        "date": "2023:05:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.presstv.ir/Detail/2023/05/17/703612/Europe-Ukraine-European-Union-Borrell-war-Russia",
+        "title": "EU urges significant increase in military aid for UkrainePress TVhttps://www.presstv.ir \u203a Detail \u203a 2023/05/17 \u203a Europe...",
+        "content": "Already, as much as 4.6 billion euros ($4.9 billion) has been drawn from the fund to finance Ukraine's war machine, which has been facing off a\u00a0...",
+        "size": [
+          1000,
+          561
+        ],
+        "date": "2023:05:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.presstv.ir/Detail/2023/05/24/703999/US-weapons-manufacturers-price-gouging-warning-taxpeyers-Pentagon-Ukraine-war-Taiwan-increa",
+        "title": "'US taxpayers ripped off again as military sends all supplies to ...Press TVhttps://www.presstv.ir \u203a Detail \u203a 2023/05/24 \u203a US-wea...",
+        "content": "Assad went on to insist that US weapons manufacturers have jacked up their prices amid surging demands for armaments due to the war in Ukraine,\u00a0...",
+        "size": [
+          1000,
+          561
+        ],
+        "date": "2023:05:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://azlift.az/?q=war-in-ukraine-waiting-for-leopard-tanks-on-the-ff-drbEebT8",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontAzlifthttps://azlift.az \u203a just because i carry it well",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:07:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.voiceofeurope.com/the-european-union-to-lift-sanctions-from-former-ukrainian-prosecutor-viktor-pshonka-he-wins-case-in-the-european-court/",
+        "title": "The European Union to Lift Sanctions from Former Ukrainian ...Voice of Europehttps://www.voiceofeurope.com \u203a the-european-union...",
+        "content": "Former Ukrainian Prosecutor General, Viktor Pshonka, has won a court case resulting in the cancellation of European Union sanctions,\u00a0...",
+        "size": [
+          500,
+          500
+        ],
+        "date": "2023:07:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.voiceofeurope.com/bundeswehr-soldiers-are-refusing-military-service-bild/",
+        "title": "Bundeswehr soldiers are refusing military service - BILDVoice of Europehttps://www.voiceofeurope.com \u203a News \u203a Europe",
+        "content": "More and more Bundeswehr soldiers are refusing military service. As Bild reported, after the Russian invasion of Ukraine, the number of\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:08:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.brecorder.com/news/40261607/russian-forces-destroy-first-british-supplied-challenger-2-tank-in-ukraine-official-says",
+        "title": "Russian forces destroy first British-supplied Challenger 2 tank ...Business Recorderhttps://www.brecorder.com \u203a World \u203a Europe",
+        "content": "Ukraine in March thanked Britain for what it said were the \u201cfantastic machines\u201d after London sent Kyiv 14 of its Challenger 2 main battle tanks\u00a0...",
+        "size": [
+          1000,
+          600
+        ],
+        "date": "2023:09:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/russian-main-battle-tanks-in-ukraine",
+        "title": "Russian Main Battle Tanks In Ukraine - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a russian-main-batt...",
+        "content": "US Believes Russia Has Lost Almost 1,000 Tanks in Ukraine ... Biden Announces Abrams Tanks to be Delivered to Ukraine ... More the full size\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": "2023:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/what-tanks-does-russia-use-in-ukraine",
+        "title": "What Tanks Does Russia Use In Ukraine - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a what-tanks-does-...",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine ... image ... Why the capture of a Russian T-90M tank matters More the full size What\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": "2023:11:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/what-tanks-does-russia-use-in-ukraine",
+        "title": "What Tanks Does Russia Use In Ukraine - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a what-tanks-does-...",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine ... image ... Why the capture of a Russian T-90M tank matters More the full size What\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": "2023:11:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=leopard-2-nato-tanks-will-be-key-to-ukraine-cc-BeP98McY",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latest, 53 ...elevate.inhttps://www.elevate.in \u203a t-72 tank for sale usa",
+        "content": "Ukrainian forces captured another Russian T-80BVM tank. You may also like. How M1 Abrams Compare to Russia's T-72 Tanks.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bhcl.org.br/?u=why-tanks-are-still-warfare-workhorses-in-ukraine-bb-qldmrEsp",
+        "title": "Why Tanks Are Still Warfare Workhorses In Ukraine, 54% OFFbhcl.org.brhttps://bhcl.org.br \u203a ukraine tank top",
+        "content": "Why Tanks Are Still Warfare Workhorses in Ukraine, This racerback tank is soft with a loose, flowy fit and features a watercolor painting by Maria Ruban,\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://reject.awcfs.org/article/veiled-in-secrecy-tribulations-of-somalia-women-living-with-hiv-in-eastleigh/?e=war-in-ukraine-waiting-for-leopard-tanks-on-the-dd-PPGV2iy",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontAfrican Woman And Child Feature Servicehttps://reject.awcfs.org \u203a Home \u203a soldier force tank",
+        "content": "American lawmakers urge to ship Abrams tanks to Ukraine SWI.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=xsGnBc3M0Yg",
+        "title": "Canada, allies sending offensive weapons to Ukraine - YouTubeYouTube\u00a0\u00b7\u00a0CBC News: The National30.2K+ views  \u00b7  10 months ago",
+        "content": "The Insane Engineering of the M1 Abrams. Real Engineering ... Inside the Ukrainian tank brigades holding back a larger, more modern Russian force.",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://tudosobreeventos.com.br/?q=are-main-battle-tanks-like-the-us-army-s-mm-jmBMmzTO",
+        "title": "Are Main Battle Tanks Like The US Army's M1 Abrams Usually ...Tudo sobre Eventoshttps://tudosobreeventos.com.br \u203a ...",
+        "content": "Tank Production  [Factory]: Assembly USA Abrams Ukraine Russian tanks manufacturing process  . watch video bellow Platinum version upgraded with metal\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.robles.edu.gt/?m=why-top-officials-don-t-want-to-give-ukraine-pp-ynAJz6uA",
+        "title": "Why top officials don't want to give Ukraine tanksrobles.edu.gthttps://www.robles.edu.gt \u203a ...",
+        "content": "Foreign Policy: The Abrams is the right tank to operate in Ukraine Pledge Times ... US Begins Delivering the First Batch of M1A1 Abrams Tanks to Ukraine. Why top\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aic-prestigeinspirefoundation.in/?g=why-top-officials-don-t-want-to-give-ukraine-aa-gwjY74F7",
+        "title": "Why top officials don't want to give Ukraine tanksAIC-PRESTIGEhttps://www.aic-prestigeinspirefoundation.in \u203a ...",
+        "content": "US Begins Delivering the First Batch of M1A1 Abrams Tanks to Ukraine. Why top ... British Army\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.robles.edu.gt/3361455jaey-inchety/?m=leopard-2-nato-tanks-will-be-key-to-ukraine-pp-poz2nOS4",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latest, 52 ...robles.edu.gthttps://www.robles.edu.gt \u203a Home \u203a t 72 for sale uk",
+        "content": "The Abrams family of tanks has been America's premier main battle tank for over 30 years, and remains arguably one of the most formidable tanks in the.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/ukraine/comments/10bh8v1/ukraine_war_latest_britain_to_send_tanks_to_kyiv/",
+        "title": "Ukraine war - latest: Britain 'to send tanks to Kyiv for first time ...Reddit\u00a0\u00b7\u00a0r/ukraine180+ comments  \u00b7  10 months ago",
+        "content": "How about this headline: \"Russia to attack Ukraine in a move that could enrage Britain\". Yeah, we didn't get that one. The Russians don't give a\u00a0...",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://a1kahlonconstruction.ca/leopard-2-nato-tanks-will-be-key-to-ukraine-ii-7aMdPkcN",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latesta1kahlonconstruction.cahttps://a1kahlonconstruction.ca \u203a t 72 for sale uk",
+        "content": "The Abrams family of tanks has been America's premier main battle tank for over 30 years, and remains arguably one of the most formidable tanks in the.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.escapeauthority.com/author/escape-authority/war-in-ukraine-waiting-for-leopard-tanks-on-the-pp-P3oYdxU4",
+        "title": "War In Ukraine: Waiting For Leopard Tanks On The Kharkivescapeauthority.comhttps://www.escapeauthority.com \u203a escape-authority",
+        "content": "Forced To Leave Battlefield': Ukrainian Tank Commander Says Unable To Fight Russia With Tanks Twice His Age ... and Germany send battle tanks to aid Ukraine\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=how-russia-lost-an-epic-tank-battle-repeating-earlier-cc-g1rKkMfY",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 42 ...elevate.inhttps://www.elevate.in \u203a t 64 tank price",
+        "content": "M1 Abrams ... T\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.transplantecapilarbrasilia.com.br/tratamento/tecnicas-capilares/?q=how-russia-lost-an-epic-tank-battle-repeating-earlier-xx-8nB7GbCy",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 50 ...transplantecapilarbrasilia.com.brhttps://www.transplantecapilarbrasilia.com.br \u203a tecnica...",
+        "content": "Ukraine war: Is the tank doomed? BBC News. How Russia Lost an Epic Tank Battle ... American lawmakers urge to ship Abrams tanks to Ukraine Reuters. How Russia\u00a0...",
+        "size": [
+          1685,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://escapeauthority.com/simple-hair-cutting/war-in-ukraine-waiting-for-leopard-tanks-on-the-pp-k2adM7Tz",
+        "title": "War In Ukraine: Waiting For Leopard Tanks On The Kharkivescapeauthority.comhttps://escapeauthority.com \u203a simple-hair-cutting",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don. T-72s To The Rescue? Ukraine's 5th Tank Brigade Could Roll Into Battle Any Day. War\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.improvethenews.org/story/2023/day-at-least-one-killed-in-renewed-missile-attack-on-kyiv",
+        "title": "Day 337: At Least One Killed in Renewed Missile Attack on KyivImprove the Newshttps://www.improvethenews.org \u203a story \u203a day-at-least...",
+        "content": "Establishment split. CRITICAL. PRO. WATCH: Biden announces 31 Abrams tanks will be sent to Ukraine for fight against Russian invasion. USA. PBS NewsHourJan 19\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.apunca.org.ar/these-are-not-rental-cars-as-ukraine-pleads-for-pp-bYvrpgs8",
+        "title": "These Are Not Rental Cars': As Ukraine Pleads For Tanks,apunca.org.arhttps://www.apunca.org.ar \u203a these-are-not-rental-cars-...",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. These are not ... American lawmakers urge to ship Abrams tanks to Ukraine Reuters. These are\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.apunca.org.ar/these-are-not-rental-cars-as-ukraine-pleads-for-pp-bYvrpgs8",
+        "title": "These Are Not Rental Cars': As Ukraine Pleads For Tanks,apunca.org.arhttps://www.apunca.org.ar \u203a these-are-not-rental-cars-...",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. These are not ... American lawmakers urge to ship Abrams tanks to Ukraine Reuters. These are\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://saoi.org.ar/?m=russia-s-military-collapse-provided-a-lend-lease-for-tt-qgjpxVcA",
+        "title": "Russia's Military Collapse Provided a 'Lend-Lease' for UkraineSociedad Argentina de Oftalmolog\u00eda Infantilhttps://saoi.org.ar \u203a ukraine t 80 tanks",
+        "content": "Russia reportedly lost up to half its tank fleet in Ukraine. Russia's Military ... Putin's military power explained as Ukraine gets Leopard and Abrams boost.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://dicma.com.mx/content/us-tanks-vs-russian-tanks-k.html",
+        "title": "alij\u00e4\u00e4m\u00e4 Varasto taso us tanks vs russian tanks lauhdutin tulla ...dicma.com.mxhttp://dicma.com.mx \u203a content \u203a us-tanks-vs-russian-ta...",
+        "content": "US M1 Abrams vs. Ukraine's T-72 tanks: Here's how they compare. Modern\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://iiitl.ac.in/?k=leopard-2-nato-tanks-will-be-key-to-ukraine-cc-9pMAdOhX",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latest, 46 ...IIIT Lucknowhttps://iiitl.ac.in \u203a russian t 72 tank for sale",
+        "content": "Leopard 2: NATO tanks will be key to Ukraine's latest offensive International EL PA\u00cdS English, 1:35 URSS e R\u00fassia Depois da Segunda Guerra Mundial Carros de\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://aspaen.edu.co/yatay/aspaen-yatay/?w=how-russia-lost-an-epic-tank-battle-repeating-earlier-ee-088MYnId",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 52 ...Aspaenhttps://aspaen.edu.co \u203a Home \u203a tank fight",
+        "content": "Ukraine conflict: Why is Russia losing so many tanks? BBC News. How Russia Lost an\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://motorcyclelocksmith.com/?s=at-last-the-is-sending-army-tanks-to-ukraine-kk-mpqX91cW",
+        "title": "At Last, The Is Sending Army Tanks To Ukraine, 52% OFFmotorcyclelocksmith.comhttps://motorcyclelocksmith.com \u203a ...",
+        "content": "Ukraine crisis: T-72 tank shoots hole in Russian denial BBC News. Building ... American lawmakers urge to ship Abrams tanks to Ukraine Reuters.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://saoi.org.ar/?m=russia-s-military-collapse-provided-a-lend-lease-for-tt-qgjpxVcA",
+        "title": "Russia's Military Collapse Provided a 'Lend-Lease' for UkraineSociedad Argentina de Oftalmolog\u00eda Infantilhttps://saoi.org.ar \u203a ukraine t 80 tanks",
+        "content": "Russia reportedly lost up to half its tank fleet in Ukraine. Russia's Military ... Putin's military power explained as Ukraine gets Leopard and Abrams boost.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ceylonhestia.lk/?s=at-last-the-is-sending-army-tanks-to-ukraine-pp-nBNEVLIY",
+        "title": "At Last, the Is Sending Army Tanks to Ukraine - Ceylon HestiaCeylon Hestiahttps://ceylonhestia.lk \u203a large model tanks for sale",
+        "content": "At Last, the Is Sending Army Tanks to Ukraine, Bb Kids Rc Tank Heng Long Large Rc Tanks Sale ... American lawmakers urge to ship Abrams tanks to Ukraine Reuters.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://glconsultoriayproyectos.mx/war-in-ukraine-waiting-for-leopard-tanks-on-the-cc-3r54Llsm",
+        "title": "War In Ukraine: Waiting For Leopard Tanks On The Kharkivglconsultoriayproyectos.mxhttps://glconsultoriayproyectos.mx \u203a ...",
+        "content": "War In Ukraine: Waiting For Leopard Tanks On The Kharkiv Front: 'We Don't Have What We Need For The Counteroffensive' International EL PA\u00cdS English | How To\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://smp.insancendekiaska.org/?i=ukrainian-tank-crew-shares-the-experience-of-driving-a-oo-BM3rWio",
+        "title": "Ukrainian Tank Crew Shares The Experience Of Driving A, 48 ...SMP INSAN CENDEKIAhttps://smp.insancendekiaska.org \u203a t-80bvm bunny",
+        "content": "... tank in Donetsk Ukraine Russia conflict war 2022 analysis focus army defence military industry army. This is a replica of a tank that I made with a scale of\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://swipper.at/?e=war-in-ukraine-waiting-for-leopard-tanks-on-the-xx-RdvxRGfw",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontswipper.athttps://swipper.at \u203a bomba army",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://smileydentalbeverly.com/?m=war-in-ukraine-waiting-for-leopard-tanks-on-the-zz-Z2lQVpI4",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontsmileydentalbeverly.comhttps://smileydentalbeverly.com \u203a war",
+        "content": "Western tanks would 'burn' in Ukraine, says Russia- The New Indian Express ... Chaos of POV from Ukrainian tank during an offensive \u00bb Reaper Feed. 'War is merely\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://smp.insancendekiaska.org/?i=ukrainian-tank-crew-shares-the-experience-of-driving-a-oo-BM3rWio",
+        "title": "Ukrainian Tank Crew Shares The Experience Of Driving A, 48 ...SMP INSAN CENDEKIAhttps://smp.insancendekiaska.org \u203a t-80bvm bunny",
+        "content": "... tank in Donetsk Ukraine Russia conflict war 2022 analysis focus army defence military industry army. This is a replica of a tank that I made with a scale of\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.robles.edu.gt/?m=how-russia-lost-an-epic-tank-battle-repeating-earlier-pp-kPoX2yil",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 57 ...robles.edu.gthttps://www.robles.edu.gt \u203a ...",
+        "content": "Ukraine war: Is the tank doomed? BBC News. You may also like.",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.robles.edu.gt/?m=ukrainian-tank-crew-shares-the-experience-of-driving-a-pp-9PL5xei7",
+        "title": "Ukrainian Tank Crew Shares The Experience Of Driving A, 42 ...robles.edu.gthttps://www.robles.edu.gt \u203a t-80bvm model",
+        "content": "... tank in Donetsk Ukraine Russia conflict war 2022 analysis focus army defence military industry army ... Abrams Squad Fantastic job by Alex 1/72 conversion of\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=HEzxeXLGXcw",
+        "title": "Latest weapons in use by the Zelensky's Ukraine ... - YouTubeYouTube\u00a0\u00b7\u00a0WION5.3K+ views  \u00b7  7 months ago",
+        "content": "Ukrainian Military Arsenal Live: Have a look at military vehicles and equipment used by the Ukrainian Armed Forces since Russia launched its\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://dicma.com.mx/content/lolita-ukraine-k.html",
+        "title": "Arvio tehd\u00e4\u00e4n se heid\u00e4n lolita ukraine johto Hold Kosto - dicmadicma.com.mxhttp://dicma.com.mx \u203a content \u203a lolita-ukraine-k",
+        "content": "U.S. to begin training Ukrainian troops on Abrams tank | CP24.com\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.iiitl.ac.in/unwanted_semiconscious.shtml/?g=western-tanks-appear-headed-to-ukraine-breaking-another-taboo-pp-WARzLNS9",
+        "title": "Western Tanks Appear Headed To Ukraine, Breaking Another ...IIIT Lucknowhttps://www.iiitl.ac.in \u203a unwanted_semiconscious",
+        "content": "Tanks, But No Thanks! is set on the battlefield (grid board) where each player controls their own tank battalion firing at other battalions and trying.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.janux.nl/wp/geest-fles/?i=how-russia-lost-an-epic-tank-battle-repeating-earlier-vv-0QLX5fk",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 42 ...Jan Stegemanhttps://www.janux.nl \u203a Home \u203a real war tank",
+        "content": "Video Shows Russian Tank Obliterated in Ukrainian Strike. How Russia Lost an ... American lawmakers urge to ship Abrams tanks to Ukraine Reuters. You may also\u00a0...",
+        "size": [
+          1685,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://d.sharepublicidad.com.mx/?y=war-in-ukraine-waiting-for-leopard-tanks-on-the-ss-XWe7dzTq",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontsharepublicidad.com.mxhttps://d.sharepublicidad.com.mx \u203a soldier force tank",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.udipisupahar.com/about-us/?u=war-in-ukraine-waiting-for-leopard-tanks-on-the-jj-KRlB9Rh1",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontudipisupahar.comhttps://www.udipisupahar.com \u203a Home \u203a reuters dealing",
+        "content": "",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.initiativefinance.ng/m1-abrams-for-ukraine-k.html",
+        "title": "Tauschen Gliedma\u00dfen Sich leisten m1 abrams for ukraine ...Initiative finance Limitedhttps://www.initiativefinance.ng \u203a m1-abrams-for-ukrain...",
+        "content": "American lawmakers urge U.S. to ship Abrams tanks to Ukraine | Reuters \u00b7 US will send 31 Abrams tanks to Ukraine - Roll Call \u00b7 US to deliver M1 Abrams battle\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://seacrestpreparatory.com/?c=western-tanks-appear-headed-to-ukraine-breaking-another-taboo-oo-30e3EPFa",
+        "title": "Western Tanks Appear Headed To Ukraine, Breaking Another ...Seacrest Preparatoryhttp://seacrestpreparatory.com \u203a ...",
+        "content": "Western Tanks Appear Headed to Ukraine, Breaking Another Taboo The New York Times, Condition is Shipped with USPS Parcel Select.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.knr.com.hk/?a=us-army-talks-tanks-as-russia-s-hit-ukraine-ee-N1z9gRIe",
+        "title": "US Army Talks Tanks As Russia's Hit Ukraine, 48% OFFknr.com.hkhttps://www.knr.com.hk \u203a russian t-80 tanks",
+        "content": "How many Russian tanks has Ukraine captured and repurposed? The Jerusalem ... T-64 Tank: The Soviet Weapon Ukraine Has Turned Against Russia. You may also\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://int.insancendekiaska.org/?a=western-tanks-appear-headed-to-ukraine-breaking-another-taboo-jj-wYkGB9f2",
+        "title": "Western Tanks Appear Headed To Ukraine, Breaking Another ...insancendekiaska.orghttps://int.insancendekiaska.org \u203a ...",
+        "content": "Western Tanks Appear Headed to Ukraine, Breaking Another Taboo The New York Times, Amazing This Trench art piece from 1919.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://initiativefinance.ng/abrams-in-ukraine-k.html",
+        "title": "Berri Advent Nachdenklich abrams in ukraine Damit umgehen ...Initiative finance Limitedhttps://initiativefinance.ng \u203a abrams-in-ukraine-k",
+        "content": "U.S. Will Soon Start Training Ukrainian Troops on Abrams Tanks - The New York Times \u00b7 US considering sending dozens of Abrams tanks to Ukraine, officials say -\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.udipisupahar.com/?u=war-in-ukraine-waiting-for-leopard-tanks-on-the-jj-KRlB9Rh1",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontudipisupahar.comhttps://www.udipisupahar.com \u203a reuters dealing",
+        "content": "",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://designottoboni.com.br/leopard-2-nato-tanks-will-be-key-to-ukraine-dd-WGroL6hj",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latestdesignottoboni.com.brhttps://designottoboni.com.br \u203a ...",
+        "content": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latest Offensive International EL PA\u00cdS English | Russian T 72 Tank For Sale | designottoboni.com.br.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shinyboxes.com/s3008711896.html/?w=war-in-ukraine-waiting-for-leopard-tanks-on-the-jj-ZR4LdJIp",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontshinyboxes.comhttps://shinyboxes.com \u203a Home \u203a pro line tanks",
+        "content": "American lawmakers urge to ship Abrams tanks to Ukraine Reuters. This is a ... Ukraine war: Russia presents tractor as destroyed Leopard battle tank South China\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cursomennabarreto.com.br/?s=americans-roll-out-ukrainian-tanks-for-combined-resolve-exercise-aa-4Raa23Ig",
+        "title": "Americans Roll Out Ukrainian Tanks For Combined Resolve ...cursomennabarreto.com.brhttps://www.cursomennabarreto.com.br \u203a soldier 64",
+        "content": "Americans roll out Ukrainian tanks for Combined Resolve exercise Stars and Stripes, Military action packed pretend play set is made of Super strong,\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elunicornio.co/?q=these-are-not-rental-cars-as-ukraine-pleads-for-ee-vdnP2zC6",
+        "title": "These Are Not Rental Cars': As Ukraine Pleads For Tanks,, 55 ...El Unicorniohttps://www.elunicornio.co \u203a t72 ukraine",
+        "content": "These are not rental cars': As Ukraine pleads for tanks, the West holds back POLITICO, Plastic kit for building a T-72 M1 from Amusing Hobby in 1:35 Glue\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=use-us-for-combat-zone-tests-ukraine-minister-tells-cc-jpA9Gls1",
+        "title": "Use us for combat zone tests, Ukraine minister tells US war ...elevate.inhttps://www.elevate.in \u203a dn-t72",
+        "content": "Ukraine crisis: T-72 tank shoots hole in Russian denial BBC News. Use us for ... Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. \u3010\u51fa\u8377\u76ee\u5b89\u3011\uff1a1\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gnosisnz.com/file-anti-terrorist-operation-in-eastern-ukraine-war-ukraine-ii-RYND5MHP",
+        "title": "File:Anti-terrorist Operation In Eastern Ukraine (Wargnosisnz.comhttps://gnosisnz.com \u203a camo net army tm",
+        "content": "Tank Covered Camouflage Net Landfill Near Stock Photo 1135955279 Shutterstock ... The UK says sending Challenger tanks to Ukraine is a potential 'game changer\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://irancoal.org/?k=as-ukraine-waits-for-tanks-mechanics-learn-to-fix-tt-oZ5JzjSn",
+        "title": "As Ukraine waits for tanks, mechanics learn to fix Russian onesCRA-MShttps://irancoal.org \u203a ...",
+        "content": "As Ukraine waits for tanks, mechanics learn to fix Russian ones. American lawmakers urge to ship Abrams tanks to Ukraine Reuters. You may also like.",
+        "size": [
+          1080,
+          565
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://efn.edu.uy/?s=war-in-ukraine-waiting-for-leopard-tanks-on-the-zz-rvDy9Vip",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontEscuela Francesa de Negocioshttps://efn.edu.uy \u203a panzer front tanks",
+        "content": "and Germany send battle tanks to aid Ukraine against Russia PBS NewsHour. 3D ... Buy Tiger Tank (General Military) book online at best prices in India on Read\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://formacreative.co/?o=how-russia-lost-an-epic-tank-battle-repeating-earlier-cc-eooj9Euv",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 43 ...Forma Creative Productionhttps://formacreative.co \u203a tank fight",
+        "content": "Tank game to participate in the famous battle of Modern War! Win the battle and strengthen your own tank! Destroy enemies with friendly tanks! How Russia Lost\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gnosisnz.com/file-anti-terrorist-operation-in-eastern-ukraine-war-ukraine-ii-RYND5MHP",
+        "title": "File:Anti-terrorist Operation In Eastern Ukraine (Wargnosisnz.comhttps://gnosisnz.com \u203a camo net army tm",
+        "content": "Tank Covered Camouflage Net Landfill Near Stock Photo 1135955279 Shutterstock ... The UK says sending Challenger tanks to Ukraine is a potential 'game changer\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://efn.edu.uy/?s=war-in-ukraine-waiting-for-leopard-tanks-on-the-zz-rvDy9Vip",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontEscuela Francesa de Negocioshttps://efn.edu.uy \u203a panzer front tanks",
+        "content": "and Germany send battle tanks to aid Ukraine against Russia PBS NewsHour. 3D ... Buy Tiger Tank (General Military) book online at best prices in India on Read\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://formacreative.co/?o=how-russia-lost-an-epic-tank-battle-repeating-earlier-cc-eooj9Euv",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 43 ...Forma Creative Productionhttps://formacreative.co \u203a tank fight",
+        "content": "Tank game to participate in the famous battle of Modern War! Win the battle and strengthen your own tank! Destroy enemies with friendly tanks! How Russia Lost\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shuddh.co.in/Army-s-New-13-Million-Combat-Vehicle-That-s-Not-a-Tank-1820-183735",
+        "title": "The U.S. Army's New $13 Million Combat Vehicle That's 'Not a ...shuddh.co.inhttps://shuddh.co.in \u203a $13 million",
+        "content": "Iconic Abrams tank gets a high-tech upgrade - CNET. The U.S. Army's New $13 ... U.S. and Germany send battle tanks to aid Ukraine against Russia. The U.S.\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://christianlife.pk/more-in-military-aid-to-Ukraine-3424-133220",
+        "title": "U.S. sending $400 million more in military aid to Ukrainechristianlife.pkhttps://christianlife.pk \u203a more-in-military-aid-to-Ukrai...",
+        "content": "U.S. sending $400 million more in military aid to Ukraine | north bay battalion tank jersey - christianlife.pk.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.extremegrowthdna.com/?y=leopard-2-nato-tanks-will-be-key-to-ukraine-ii-D769zmFM",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latest, 51 ...extremegrowthdna.comhttps://www.extremegrowthdna.com \u203a ...",
+        "content": "Leopard 2: NATO tanks will be key to Ukraine's latest offensive International EL PA\u00cdS English, 1:35 URSS e R\u00fassia Depois da Segunda Guerra Mundial Carros de\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://flexaust.icvgroup.in/?i=russia-lost-over-half-of-its-t-72b-battle-ii-81lAjBS9",
+        "title": "Russia Lost Over Half Of Its T-72B Battle Tank Stock In One ...ICV Grouphttps://flexaust.icvgroup.in \u203a t72b3 tank",
+        "content": "Russian Main Battle Tank T-72B3 The Russian T-72B3 main battle tank is the latest ... Putin's military power explained as Ukraine gets Leopard and Abrams boost.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://electronicainfinita.com/?w=analysis-when-a-perfect-ukrainian-shot-on-a-russian-kk-ZWZvMZSz",
+        "title": "When A Perfect Ukrainian Shot On A Russian Tank Goes Wrongelectronicainfinita.comhttp://electronicainfinita.com \u203a 72b ideal",
+        "content": "Ukraine war: Hidden in the woods in Donbas, a military unit is stealing Russian tanks World News Sky News. IDEAL, Blue, Twist On Wire Connector.",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://immivoyage.com/ssia-s-Assault-on-Ukraine-and-the-International-Order-2487-77320",
+        "title": "Russia's Assault on Ukraine and the International Orderimmivoyage.comhttps://immivoyage.com \u203a ssia-s-Assault-on-Ukraine-a...",
+        "content": "Russia's Assault on Ukraine and the International Order | alexei kovalev ukraine - immivoyage.com.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://christianlife.pk/more-in-military-aid-to-Ukraine-3424-133220",
+        "title": "U.S. sending $400 million more in military aid to Ukrainechristianlife.pkhttps://christianlife.pk \u203a more-in-military-aid-to-Ukrai...",
+        "content": "U.S. sending $400 million more in military aid to Ukraine | north bay battalion tank jersey - christianlife.pk.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.extremegrowthdna.com/?y=leopard-2-nato-tanks-will-be-key-to-ukraine-ii-D769zmFM",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latest, 51 ...extremegrowthdna.comhttps://www.extremegrowthdna.com \u203a ...",
+        "content": "Leopard 2: NATO tanks will be key to Ukraine's latest offensive International EL PA\u00cdS English, 1:35 URSS e R\u00fassia Depois da Segunda Guerra Mundial Carros de\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://flexaust.icvgroup.in/?i=russia-lost-over-half-of-its-t-72b-battle-ii-81lAjBS9",
+        "title": "Russia Lost Over Half Of Its T-72B Battle Tank Stock In One ...ICV Grouphttps://flexaust.icvgroup.in \u203a t72b3 tank",
+        "content": "Russian Main Battle Tank T-72B3 The Russian T-72B3 main battle tank is the latest ... Putin's military power explained as Ukraine gets Leopard and Abrams boost.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://electronicainfinita.com/?w=analysis-when-a-perfect-ukrainian-shot-on-a-russian-kk-ZWZvMZSz",
+        "title": "When A Perfect Ukrainian Shot On A Russian Tank Goes Wrongelectronicainfinita.comhttp://electronicainfinita.com \u203a 72b ideal",
+        "content": "Ukraine war: Hidden in the woods in Donbas, a military unit is stealing Russian tanks World News Sky News. IDEAL, Blue, Twist On Wire Connector.",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://immivoyage.com/ssia-s-Assault-on-Ukraine-and-the-International-Order-2487-77320",
+        "title": "Russia's Assault on Ukraine and the International Orderimmivoyage.comhttps://immivoyage.com \u203a ssia-s-Assault-on-Ukraine-a...",
+        "content": "Russia's Assault on Ukraine and the International Order | alexei kovalev ukraine - immivoyage.com.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vuadens.ch/When-Michael-Jordan-Refused-to-Tank-3936-182541",
+        "title": "When Michael Jordan Refused to Tank - vuadens.chVuadenshttps://www.vuadens.ch \u203a When-Michael-Jordan-Refu...",
+        "content": "When Michael Jordan Refused to Tank | michael jordan len bias - vuadens ... Thursday briefing: Could a supply of European tanks turn the tide in Ukraine?, Ukraine.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://technocrete.co/index.php/en/technocrete-products/building-blocks-bricks/retaining-wall-blocks?i=as-ukraine-waits-for-tanks-mechanics-learn-to-fix-yy-VwKJvqfb",
+        "title": "As Ukraine waits for tanks, mechanics learn to fix Russian onestechnocrete.cohttps://technocrete.co \u203a Home \u203a the tank depot near me",
+        "content": "Russian tanks and military vehicles captured by Ukraine pose urgent repair challenge The Washington Post. The Water Worker 20 Horizontal Pressurized Well Tank\u00a0...",
+        "size": [
+          1080,
+          565
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.swipper.at/?a=war-in-ukraine-waiting-for-leopard-tanks-on-the-kk-Yp3ZKrFK",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontswipper.athttps://www.swipper.at \u203a bomba army",
+        "content": "and Germany send battle tanks to aid Ukraine against Russia PBS NewsHour ... Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. Skin Army\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.4starwindows.nl/attack-on-europe-documenting-russian-equipment-losses-during-the-dd-xy6mdDfW",
+        "title": "Attack On Europe: Documenting Russian Equipment Losses4starwindows.nlhttps://www.4starwindows.nl \u203a 1v15m-8",
+        "content": "Russia's Tanks in Ukraine are Old, Obsolete and Failing Yorktown Institute. Attack On Europe: Documenting Russian Equipment Losses During The Russian\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://seacrestpreparatory.com/?c=analysis-when-a-perfect-ukrainian-shot-on-a-russian-oo-1200EXTd",
+        "title": "When A Perfect Ukrainian Shot On A Russian Tank Goes WrongSeacrest Preparatoryhttp://seacrestpreparatory.com \u203a ...",
+        "content": "Analysis: When A Perfect Ukrainian Shot On A Russian Tank Goes Wrong, You've been asking and it's finally here! Our Men's Tank features our new 'Shoots'\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbcponline.net/?u=following-the-t-90a-the-russian-t-72-tank-jj-mYEl3BFJ",
+        "title": "Following The T-90A, The Russian T-72 Tank Is In The US ...CBCP Onlinehttps://www.cbcponline.net \u203a being 72",
+        "content": "Ukraine sends Russian tank to Maryland's Aberdeen Proving Ground. Following ... Russian Business Offers Cash Bounties to Destroy Western Tanks in Ukraine.",
+        "size": [
+          970,
+          647
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ena.laatech.net/?q=war-in-ukraine-waiting-for-leopard-tanks-on-the-tt-KvJepaUw",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontENA cihttps://ena.laatech.net \u203a Norway U-21",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. Hamlet Act and ... Can Germany's Leopard tanks put Ukraine on the front foot against Russia?",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elunicornio.co/alvaro-uribe-velez-el-imputado/?q=operational-tactical-group-east-about-260-enemy-troops-eliminated-ee-9qe0pztJ",
+        "title": "Operational-tactical Group East: About 260 Enemy Troops, 54 ...El Unicorniohttps://www.elunicornio.co \u203a Home \u203a fab-9000 ukraine",
+        "content": "Putin claims Russian forces halting Ukrainian counteroffensive Russia-Ukraine ... How Ukraine is capitalising on abandoned Russian tanks \u2014 Australia's leading\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cabinetharmachi.ma/?eallf2210061113017",
+        "title": "projektor p\u0159\u00e1telsk\u00fd Medi\u00e1n send to us or send us Takt miska ...cabinetharmachi.mahttps://www.cabinetharmachi.ma \u203a eallf2210061113017",
+        "content": "Germany, US agree to send battle tanks to Ukraine: Reports | Russia-Ukraine war News | Al Jazeera\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://johannesburg.fenns.co.za/?s=leopard-2-nato-tanks-will-be-key-to-ukraine-zz-X02qnGiz",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latest, 46 ...fenns.co.zahttps://johannesburg.fenns.co.za \u203a t80bvm tank",
+        "content": "Leopard 2: NATO tanks will be key to Ukraine's latest offensive International EL PA\u00cdS English, 1:35 USSR and Russia After Second World War Tanks Military\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fw.ind.br/these-are-not-rental-cars-as-ukraine-pleads-for-ii-PgK8yVCN",
+        "title": "These Are Not Rental Cars': As Ukraine Pleads For Tanks,fw.ind.brhttps://fw.ind.br \u203a t72 ukraine",
+        "content": "These Are Not Rental Cars': As Ukraine Pleads For Tanks, The West Holds Back POLITICO | T72 Ukraine | fw.ind.br.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://targoncavilla.com/russia-lost-over-half-of-its-t-72b-battle-gg-nMQPzJux",
+        "title": "Russia Lost Over Half Of Its T-72B Battle Tank Stock In Onetargoncavilla.comhttps://targoncavilla.com \u203a t72b1 tank",
+        "content": "Does Russia or Ukraine have better tanks? Partyard Military. Russia Lost Over ... Ukraine crisis: T-72 tank shoots hole in Russian denial r/worldnews. 1:72\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://raymichaels.com/?o=these-are-not-rental-cars-as-ukraine-pleads-for-bb-m6VJEosV",
+        "title": "These Are Not Rental Cars': As Ukraine Pleads For Tanks,, 50 ...raymichaels.comhttps://raymichaels.com \u203a army tank for sale florida",
+        "content": "American lawmakers urge to ship Abrams tanks to Ukraine Reuters. These are ... Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. These are not\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://believenation.com/?c=how-russia-lost-an-epic-tank-battle-repeating-earlier-ee-Kee2nXFb",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 40 ...Believe Nationhttps://believenation.com \u203a tank fight",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. Tank game to ... Russia vs\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://flexaust.icvgroup.in/?i=how-russia-lost-an-epic-tank-battle-repeating-earlier-ii-9zMZ3ruD",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 47 ...ICV Grouphttps://flexaust.icvgroup.in \u203a t-64 tank cost",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. How Russia ... Ukraine Army completely smash Russian T-72 tank with Javelin. How Russia Lost\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://join.go-cv.co.uk/gilati-ice-maker-error-codes/western-tanks-appear-headed-to-ukraine-breaking-another-taboo-yy-LVPln4Ix",
+        "title": "Western Tanks Appear Headed To Ukraine, Breaking AnotherGo CVhttps://join.go-cv.co.uk \u203a gilati-ice-maker-error-codes",
+        "content": "Western Tanks Appear Headed To Ukraine, Breaking Another Taboo The New York Times | Tanks But No Thanks Board Game | join.go-cv.co.uk.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pandetodos.com.gt/?u=how-russia-lost-an-epic-tank-battle-repeating-earlier-aa-eeeoJWFe",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 56 ...Pan de Todoshttps://www.pandetodos.com.gt \u203a ...",
+        "content": "Ukraine conflict: Why is Russia losing so many tanks? BBC News. How Russia ... Video Shows Russian Tank Hammered in Ukrainian Artillery Strike. How Russia Lost\u00a0...",
+        "size": [
+          1685,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://etgar-hr.clubweb.co.il/at-last-the-is-sending-army-tanks-to-ukraine-pp-15R2pgCm",
+        "title": "At Last, The Is Sending Army Tanks To UkraineClubVPShttps://etgar-hr.clubweb.co.il \u203a ...",
+        "content": "American lawmakers urge to ship Abrams tanks to Ukraine Reuters. At Last, the ... Ukraine crisis: T-72 tank shoots hole in Russian denial BBC News. At Last\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dobblestone.com/?g=attack-on-europe-documenting-russian-equipment-losses-during-the-aa-LE6jJjcw",
+        "title": "Attack On Europe: Documenting Russian Equipment Losses ...dobblestone.comhttps://dobblestone.com \u203a t-65 tank",
+        "content": "VatsRohit on X: \"#RussianUkrainianWar Tank in modern warfare & Indian Pictures of destroyed Russian T-series tanks in Ukraine have raised questions about\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hamburgvokal.de/?c=war-in-ukraine-waiting-for-leopard-tanks-on-the-ww-K57rpRHq",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv fronthamburgVOKALhttps://hamburgvokal.de \u203a Russia U-21",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://asianinvent.com/?w=russia-lost-over-half-of-its-t-72b-battle-2-pp-vdb9LGTg",
+        "title": "Russia Lost Over Half Of Its T-72B Battle Tank Stock In One ...asianinvent.comhttps://asianinvent.com \u203a ...",
+        "content": "Does Russia or Ukraine have better tanks? Army Technology. Russia Lost Over Half ... File:Tank T-80 Ukraine\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.niccolospirito.com/t-72-tank-spotted-at-gas-station-the-drive-oo-ZW2Z33Ur",
+        "title": "T-72 Tank Spotted At Gas Station The Drive - niccolospirito.comniccolospirito.comhttps://www.niccolospirito.com \u203a t-72r",
+        "content": "T-72 B3 Russian Main Battle Tank File format: Blend FBX OBJ Materials ... Russian Business Offers Cash Bounties to Destroy Western Tanks in Ukraine. T\u00a0...",
+        "size": [
+          970,
+          647
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.brecorder.com/trends/ukraine-war",
+        "title": "Trends - Ukraine war - Business RecorderBusiness Recorderhttps://www.brecorder.com \u203a trends \u203a ukraine-war",
+        "content": "Russian forces fighting in southern Ukraine have destroyed a British-supplied Challenger 2 tank for the first time,... Published 05 Sep, 2023 06:24pm. Ukraine's\u00a0...",
+        "size": [
+          500,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.brecorder.com/trends/ukraine-grain-deal",
+        "title": "Trends - Ukraine grain deal - Business RecorderBusiness Recorderhttps://www.brecorder.com \u203a trends \u203a ukraine-grain-d...",
+        "content": "Russian forces fighting in southern Ukraine have destroyed a British-supplied Challenger 2 tank for the first time,... Published 05 Sep, 2023 06:24pm.",
+        "size": [
+          500,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shuddh.co.in/When-Michael-Jordan-Refused-to-Tank-2800-139175",
+        "title": "When Michael Jordan Refused to Tank - shuddh.co.inshuddh.co.inhttps://shuddh.co.in \u203a michael jordan len bias",
+        "content": "When Michael Jordan Refused to Tank | michael jordan len bias - shuddh ... U.S. Expedites Crucial Tanks to Ukraine as Russia Claims Control of Bakhmut.",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://arcotmetatech.com/index.phpothe-tank-debate-255617.html",
+        "title": "The Tank Debate arcotmetatech.comarcotmetatech.comhttps://arcotmetatech.com \u203a Libri \u203a nuova collezione",
+        "content": "Russia's Invasion Spurs Debate on How Switzerland Can Help Ukraine ... The Tank Debate: Armour and the Anglo-American Military Tradition. The Tank Debate:\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://rathnamanasa.in/?q=war-in-ukraine-waiting-for-leopard-tanks-on-the-qq-DNVr7ESE",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontRathnamanasahttps://rathnamanasa.in \u203a Russian Five, The 2018",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mairie-berbezit.fr/?o=war-in-ukraine-waiting-for-leopard-tanks-on-the-mm-60O067hG",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontMairie de Berbezithttps://www.mairie-berbezit.fr \u203a ...",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. War in Ukraine ... and Germany send battle tanks to aid Ukraine against Russia PBS NewsHour.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shinyboxes.com/?w=war-in-ukraine-waiting-for-leopard-tanks-on-the-jj-ZR4LdJIp",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontshinyboxes.comhttps://shinyboxes.com \u203a pro line tanks",
+        "content": "American lawmakers urge to ship Abrams tanks to Ukraine Reuters. This is a ... Ukraine war: Russia presents tractor as destroyed Leopard battle tank South China\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gurugramluxuryfloors.com/?e=as-ukraine-waits-for-tanks-mechanics-learn-to-fix-xx-8byXMlCe",
+        "title": "As Ukraine waits for tanks, mechanics learn to fix Russian onesGreat Future Pakistanhttps://gurugramluxuryfloors.com \u203a ...",
+        "content": "Russian tanks and military vehicles captured by Ukraine pose urgent ... Russia must boost tank production as West arms Ukraine ex-president Medvedev Reuters.",
+        "size": [
+          1080,
+          565
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.grupobsg.com.br/children-s-tylenol-tablets-dosage/how-russia-lost-an-epic-tank-battle-repeating-earlier-oo-GG9kllhr",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earliergrupobsg.com.brhttps://www.grupobsg.com.br \u203a t-64 tank range",
+        "content": "Donated Tanks Headed to Ukraine Defense One. How Russia Lost an Epic Tank Battle, Repeating Earlier Mistakes The New York Times. Ukraine war: Is the tank doomed\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zoom.holyquranint.com/?i=at-last-the-is-sending-army-tanks-to-ukraine-gg-o5pjj3IV",
+        "title": "At Last, The Is Sending Army Tanks To Ukraine, 43% OFFholyquranint.comhttps://zoom.holyquranint.com \u203a t 90 tank for sale",
+        "content": "At Last, the Is Sending Army Tanks to Ukraine, Find many great new used options and get the best deals for 1:72 Russian Special Military Operation T90 T-90A\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://artsj.sabu.edu.ly/?s=war-in-ukraine-waiting-for-leopard-tanks-on-the-ww-qMN5GmFn",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front\u062c\u0627\u0645\u0639\u0629 \u0635\u0628\u0631\u0627\u062a\u0629https://artsj.sabu.edu.ly \u203a world of tanks eu",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. U\u017eijte si ... and Germany send battle tanks to aid Ukraine against Russia PBS NewsHour.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abmnewsint.com/page/297/?a=how-russia-lost-an-epic-tank-battle-repeating-earlier-pp-zpp06jsd",
+        "title": "How Russia Lost An Epic Tank Battle, Repeating Earlier, 41 ...abmnewsint.comhttps://abmnewsint.com \u203a Home \u203a tank fight",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. Tank game to ... How US Shells Crammed With Anti-Tank Mines Helped Ukraine Victory. How Russia\u00a0...",
+        "size": [
+          640,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/inthenews/comments/17n0qz2/americas_shoplifting_problem_explained_by_retail/",
+        "title": "America's shoplifting problem, explained by retail workers and ...Reddit\u00a0\u00b7\u00a0r/inthenews6 comments  \u00b7  3 weeks ago",
+        "content": "American lawmakers urge U.S. to ship Abrams tanks to Ukraine \u00b7 r/neoliberal - American lawmakers urge U.S. to ship Abrams tanks to Ukraine.",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.straitstimes.com/tags/defence-and-military?page=66",
+        "title": "Latest Defence and military | The Straits TimesThe Straits Timeshttps://www.straitstimes.com \u203a tags \u203a defence-and-mili...",
+        "content": "Britain to send 14 of its main battle tanks, more weaponry to Ukraine. Jan 14, 2023, 8:30 pm. Myanmar air strike kills five, including mother and toddler. Jan\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.straitstimes.com/tags/defence-and-military?amp%3B_x_tr_tl=es&amp%3B_x_tr_hl=es-419&amp%3B_x_tr_pto=sc&page=69",
+        "title": "Latest Defence and military | The Straits TimesThe Straits Timeshttps://www.straitstimes.com \u203a tags \u203a defence-and-mili...",
+        "content": "Britain to send 14 of its main battle tanks, more weaponry to Ukraine. Jan 14, 2023, 8:30 pm. Myanmar air strike kills five, including mother and toddler. Jan\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.alsholaco.com/?a=war-in-ukraine-waiting-for-leopard-tanks-on-the-cc-bAnV6zSo",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontalsholaco.comhttps://www.alsholaco.com \u203a ...",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. War in Ukraine ... and Germany send battle tanks to aid Ukraine against Russia PBS NewsHour.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://subbugroup.com/?u=war-in-ukraine-waiting-for-leopard-tanks-on-the-ll-mXMZE8iL",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontSubbu Grouphttps://subbugroup.com \u203a panzer front tanks",
+        "content": "... Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don. T-72s To The Rescue? Ukraine's 5th Tank Brigade Could Roll Into Battle Any Day. The Marder III\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://loktantrakaagaz.com/?e=war-in-ukraine-waiting-for-leopard-tanks-on-the-oo-rp7edVTW",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontloktantrakaagaz.comhttps://loktantrakaagaz.com \u203a ...",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.escogido.com/schreibblock-Germany-k.html",
+        "title": "izlaz penjati se maj\u010dinska schreibblock Germany Kora ...escogido.comhttps://www.escogido.com \u203a schreibblock-Germany-k",
+        "content": "... Germany would not block Poland sending tanks to Ukraine: Minister | Russia-Ukraine war News | Al Jazeera\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lubeckprofiles.com.br/mapa-de-perfis/?o=russia-ukraine-war-updates-for-2023-pp-k7qGJOfA",
+        "title": "Russia-Ukraine war updates for 2023 - Lubeck ProfilesLubeck Profileshttps://lubeckprofiles.com.br \u203a mapa-de-perfis",
+        "content": "Russia-Ukraine war updates for 2023. Russia official warns West of 'global catastrophe' for arming Ukraine PBS NewsHour. Royalty free 3D model Tank Challenger\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/sitemap.xml?yyyy=2023&mm=01&dd=22",
+        "title": "sitemap.xml - Al JazeeraAl Jazeerahttps://www.aljazeera.com \u203a sitemap",
+        "content": "... ukraine-war-list-of-key-events-day-333 2023-01-23T05:46:59+00:00 https://www ... tanks-to-ukraine 2023-01-23T09:45:10+00:00 https://www.aljazeera.com/wp\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zoom.holyquranint.com/?i=at-last-the-is-sending-army-tanks-to-ukraine-gg-o5pjj3IV",
+        "title": "At Last, The Is Sending Army Tanks To Ukraine, 43% OFFholyquranint.comhttps://zoom.holyquranint.com \u203a t 90 tank for sale",
+        "content": "At Last, the Is Sending Army Tanks to Ukraine, Find many great new used options and get the best deals for 1:72 Russian Special Military Operation T90 T-90A\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://artsj.sabu.edu.ly/?s=war-in-ukraine-waiting-for-leopard-tanks-on-the-ww-qMN5GmFn",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front\u062c\u0627\u0645\u0639\u0629 \u0635\u0628\u0631\u0627\u062a\u0629https://artsj.sabu.edu.ly \u203a world of tanks eu",
+        "content": "Battlefield Video Shows Ukrainian Tank Defeating Russian Tank. U\u017eijte si ... and Germany send battle tanks to aid Ukraine against Russia PBS NewsHour.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/is-germany-still-not-allowed-to-have-an-army",
+        "title": "Is Germany Still Not Allowed To Have An Army - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a is-germany...",
+        "content": "With war on its doorstep, Germany plans a major military ... Germany would not block Poland sending tanks to Ukraine: Minister. More \u00b7 Germany Plans $428M in\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hibinezo.com/featurl/?=All-Against-All-As-Walls-Close-in-2503-139118",
+        "title": "Putin Warns Against Fight of 'All Against All' As Walls Close inhibinezo.comhttps://www.hibinezo.com \u203a featurl",
+        "content": "Putin warns a Western military alliance with Ukraine could result. Putin ... Putin warns against interfering in Russia-Ukraine war. Putin Warns Against Fight\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mekteb.az/Against-Fight-of-All-Against-All-As-Walls-Close-in-509-116233",
+        "title": "Putin Warns Against Fight of 'All Against All' As Walls Close inmekteb.azhttps://mekteb.az \u203a Against-Fight-of-All-Against-All-A...",
+        "content": "Putin warns West of lightning retaliation for intervention in Ukraine. Putin Warns Against Fight of 'All Against All' As Walls Close in. Russia-Ukraine War\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://emsneustiftgasse.at/%E3%82%B7%E3%83%89%E3%83%90%E3%83%AC%E3%83%83%E3%83%88-%E3%82%AE%E3%82%BF%E3%83%BC-k.html",
+        "title": "Bohnen Implementieren Erbe schreibblock Germany ...emsneustiftgasse.athttps://emsneustiftgasse.at \u203a \u30b7\u30c9\u30d0\u30ec\u30c3\u30c8-\u30ae\u30bf\u30fc-k",
+        "content": "... Germany would not block Poland sending tanks to Ukraine: Minister | Russia-Ukraine war News | Al Jazeera\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/why-germany-does-not-have-army",
+        "title": "Why Germany Does Not Have Army Galleryundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a why-germa...",
+        "content": "France, Germany not Doing Enough to Support Ukraine, Says ... Germany U-turns over tanks, saying it will send Leopard 2s ... German Military Is Falling Behind,\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/is-germany-not-allowed-to-have-an-army",
+        "title": "Is Germany Not Allowed To Have An Army Articles - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a is-germany-not-al...",
+        "content": "... military campaign between Russia and Germany during World War II photograph. go. Germany would not block Poland sending tanks to Ukraine: Minister. Civil\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbc.ca/i/caffeine/syndicate/?mediaId=2161882179691",
+        "title": "CBC PlayerCBChttps://www.cbc.ca \u203a caffeine \u203a syndicate",
+        "content": "Canada, allies sending offensive weapons to Ukraine. 10 months ago; 1:42; Turn captions on. Turn captions off. Playback Details Playback Details\u00a0...",
+        "size": [
+          1919,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/ramstein-germany-weather-year-round",
+        "title": "Ramstein Germany Weather Year Round - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a ramstein-german...",
+        "content": "Ukraine says it is paying in lives as tank debate drags on ... News ... $40 Billion: U.S. sending Ukraine more military aid. Which U.S. cities' climate is\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "http://dicma.com.mx/us-tanks-vs-russian-tanks-k.html",
+        "title": "alij\u00e4\u00e4m\u00e4 Varasto taso us tanks vs russian tanks lauhdutin tulla ...dicma.com.mxhttp://dicma.com.mx \u203a us-tanks-vs-r...",
+        "content": "Ukraine's Tanks Could Be Better Than Russia's. It Might Not Matter. Abrams and\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cgisousse.tn/schreibblock-Germany-k.html",
+        "title": "Chrysantheme Grausamkeit Froh schreibblock Germany ...cgisousse.tnhttps://www.cgisousse.tn \u203a schreibblock-Germany-k",
+        "content": "Germany would not block Poland sending tanks to Ukraine: Minister | Russia-Ukraine war News | Al Jazeera \u00b7 Storms and heavy rain flood roads, block railway lines\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hibinezo.com/featurl/?=Russia-Ukraine-War-Latest-News-Analysis-Ukraine-s-Spring-6289-157036",
+        "title": "Russia-Ukraine War Latest News & Analysis: Ukraine's Springhibinezo.comhttps://www.hibinezo.com \u203a featurl",
+        "content": "Russia-Ukraine War Latest News & Analysis: Ukraine's Spring | alexei kovalev ww2 - hibinezo.com.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://christianlife.pk/Fight-of-All-Against-All-As-Walls-Close-in-4171-134026",
+        "title": "Putin Warns Against Fight of 'All Against All' As Walls Close inchristianlife.pkhttps://christianlife.pk \u203a Fight-of-All-Against-All-As-...",
+        "content": "Russia invades Ukraine \u2014 live updates from Suspilne. Putin Warns Against Fight of 'All Against All' As Walls Close in. Lukashenko says Putin promises he would\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.twenty4hrdesign.com/Against-Fight-of-All-Against-All-As-Walls-Close-in-1078-126815",
+        "title": "Putin Warns Against Fight of 'All Against All' As Walls Close intwenty4hrdesign.comhttps://www.twenty4hrdesign.com \u203a Against-Fight-of-...",
+        "content": "Russia-Ukraine updates: Belarus threatens to join war ... Russian President Vladimir Putin Warns West Of Military Action Over Unfriendly Steps On Ukraine Threats.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mfkinternational.com/All-Against-All-As-Walls-Close-in-3203-82288",
+        "title": "Putin Warns Against Fight of 'All Against All' As Walls Close inmfkinternational.comhttps://www.mfkinternational.com \u203a All-Against-All-A...",
+        "content": "Ukraine war latest: Putin heart attack rumour sparks Kremlin denial; US bombers 'approach Russian border' - Moscow scrambles jets, World News.",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cdn.meethk.com/spai/q_lossless+ret_img/http:/h10.homes/t-72bm-ucrania",
+        "title": "T 72Bm Ucrania - MeetHK.comMeetHK.comhttps://cdn.meethk.com \u203a spai \u203a http: \u203a h10.homes",
+        "content": "T 72Bm Ucrania. 23 de noviembre de 2023. Ukraine starts producing shells for Soviet-era tanks | Reuters Czech Republic Ships More Modernized T-72 Tanks to\u00a0...",
+        "size": [
+          1920,
+          1440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://emsneustiftgasse.at/%E3%82%B7%E3%83%89%E3%83%90%E3%83%AC%E3%83%83%E3%83%88-%E3%82%AE%E3%82%BF%E3%83%BC-k.html",
+        "title": "Bohnen Implementieren Erbe schreibblock Germany ...emsneustiftgasse.athttps://emsneustiftgasse.at \u203a \u30b7\u30c9\u30d0\u30ec\u30c3\u30c8-\u30ae\u30bf\u30fc-k",
+        "content": "... Germany would not block Poland sending tanks to Ukraine: Minister | Russia-Ukraine war News | Al Jazeera\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mekteb.az/Against-Fight-of-All-Against-All-As-Walls-Close-in-509-116233",
+        "title": "Putin Warns Against Fight of 'All Against All' As Walls Close inmekteb.azhttps://mekteb.az \u203a Against-Fight-of-All-Against-All-A...",
+        "content": "Putin warns West of lightning retaliation for intervention in Ukraine. Putin Warns Against Fight of 'All Against All' As Walls Close in. Russia-Ukraine War\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/why-germany-does-not-have-army",
+        "title": "Why Germany Does Not Have Army Galleryundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a why-germa...",
+        "content": "France, Germany not Doing Enough to Support Ukraine, Says ... Germany U-turns over tanks, saying it will send Leopard 2s ... German Military Is Falling Behind,\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/is-germany-not-allowed-to-have-an-army",
+        "title": "Is Germany Not Allowed To Have An Army Articles - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a is-germany-not-al...",
+        "content": "... military campaign between Russia and Germany during World War II photograph. go. Germany would not block Poland sending tanks to Ukraine: Minister. Civil\u00a0...",
+        "size": [
+          730,
+          410
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbc.ca/i/caffeine/syndicate/?mediaId=2161882179691",
+        "title": "CBC PlayerCBChttps://www.cbc.ca \u203a caffeine \u203a syndicate",
+        "content": "Canada, allies sending offensive weapons to Ukraine. 10 months ago; 1:42; Turn captions on. Turn captions off. Playback Details Playback Details\u00a0...",
+        "size": [
+          1919,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "http://dicma.com.mx/us-tanks-vs-russian-tanks-k.html",
+        "title": "alij\u00e4\u00e4m\u00e4 Varasto taso us tanks vs russian tanks lauhdutin tulla ...dicma.com.mxhttp://dicma.com.mx \u203a us-tanks-vs-r...",
+        "content": "Ukraine's Tanks Could Be Better Than Russia's. It Might Not Matter. Abrams and\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://brjc.co.uk/?c=war-in-ukraine-waiting-for-leopard-tanks-on-the-hh-3kNpBoHb",
+        "title": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv frontbrjc.co.ukhttps://brjc.co.uk \u203a ...",
+        "content": "War in Ukraine: Waiting for Leopard tanks on the Kharkiv front: 'We don't have what we need for the counteroffensive' International EL PA\u00cdS English,\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://zenaidebar.com.br/4117/7855-6089.htm/?e=leopard-2-nato-tanks-will-be-key-to-ukraine-ee-8N9mA2Hd",
+        "title": "Leopard 2: NATO Tanks Will Be Key To Ukraine's Latest, 59 ...zenaidebar.com.brhttps://zenaidebar.com.br \u203a ...",
+        "content": "Leopard 2: NATO tanks will be key to Ukraine's latest offensive International EL PA\u00cdS English, 1:35 URSS e R\u00fassia Depois da Segunda Guerra Mundial Carros de\u00a0...",
+        "size": [
+          2527,
+          1685
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://escapeauthority.com/hobart-lxe/russia-ukraine-war-update-%E0%A4%AA%E0%A5%81%E0%A4%A4%E0%A4%BF%E0%A4%A8-%E0%A4%B8%E0%A5%87-%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A4%9A%E0%A5%80%E0%A4%A4-%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%A4%E0%A5%87-pp-yAadyzta",
+        "title": "Russia Ukraine War Update: \u092a\u0941\u0924\u093f\u0928 \u0938\u0947 - escapeauthority.comescapeauthority.comhttps://escapeauthority.com \u203a russia-...",
+        "content": "Russian Soldiers Killed In Ukraine Russia Ukraine War News Russian Newspaper ... tanks to Ukraine. Reading books is a kind of Reading books is a good We bring\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://meuplugin.com.br/%CE%BC%CF%80%CE%B1%CF%84%CE%B1%CF%81%CE%B9%CE%B1-start-stop-russland-k.html",
+        "title": "\u05e1\u05e4\u05d9\u05e0\u05d4 \u05d8\u05e8\u05d5\u05e4\u05d4 \u05d0\u05e7\u05d3\u05d7 \u05dc\u05dc\u05db\u05ea \u03bc\u03c0\u03b1\u03c4\u03b1\u03c1\u03b9\u03b1 start stop russland \u05e8\u05d2\u05df ...meuplugin.com.brhttps://meuplugin.com.br \u203a \u03bc\u03c0\u03b1\u03c4\u03b1\u03c1\u03b9...",
+        "content": "US intelligence helping Ukraine kill Russian generals, report says | Ukraine | The Guardian \u00b7 Russia-Ukraine updates: Kyiv seeks Leopard tanks from Germany |\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.46410080790519714
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.1582401692867279
+      },
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.10896778851747513
+      },
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.039148349314928055
+      },
+      {
+        "class": "excavation",
+        "ioclass": "outdoor",
+        "probability": 0.02262931875884533
+      }
+    ],
+    "transients": [
+      {
+        "class": "season/winter",
+        "score": 0.9558694958686829
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.940804123878479
+      },
+      {
+        "class": "time/daylight",
+        "score": 0.9287725687026978
+      },
+      {
+        "class": "ice",
+        "score": 0.903578519821167
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.8728392124176025
+      },
+      {
+        "class": "moist",
+        "score": 0.7741067409515381
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.6768867373466492
+      },
+      {
+        "class": "dirty",
+        "score": 0.6011450886726379
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5875170826911926
+      },
+      {
+        "class": "rugged",
+        "score": 0.5801804065704346
+      },
+      {
+        "class": "bright",
+        "score": 0.5161505341529846
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1543,
+        "pred_lat": 57.36478805541992,
+        "pred_long": 24.68701171875
+      },
+      "middle": {
+        "pred_class": 3135,
+        "pred_lat": 50.44252014160156,
+        "pred_long": 30.518707275390625
+      },
+      "fine": {
+        "pred_class": 4803,
+        "pred_lat": 40.60923767089844,
+        "pred_long": -74.10064697265625
+      },
+      "hierarchy": {
+        "pred_class": 9657,
+        "pred_lat": 58.32105255126953,
+        "pred_long": 26.62857437133789
+      },
+      "country": {
+        "city": "New York",
+        "state": "New York",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 40.597538,
+    "longitude": -74.08771,
+    "generationtime_ms": 0.18405914306640625,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 60.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2023-01-13T00:00",
+        "2023-01-13T01:00",
+        "2023-01-13T02:00",
+        "2023-01-13T03:00",
+        "2023-01-13T04:00",
+        "2023-01-13T05:00",
+        "2023-01-13T06:00",
+        "2023-01-13T07:00",
+        "2023-01-13T08:00",
+        "2023-01-13T09:00",
+        "2023-01-13T10:00",
+        "2023-01-13T11:00",
+        "2023-01-13T12:00",
+        "2023-01-13T13:00",
+        "2023-01-13T14:00",
+        "2023-01-13T15:00",
+        "2023-01-13T16:00",
+        "2023-01-13T17:00",
+        "2023-01-13T18:00",
+        "2023-01-13T19:00",
+        "2023-01-13T20:00",
+        "2023-01-13T21:00",
+        "2023-01-13T22:00",
+        "2023-01-13T23:00",
+        "2023-01-14T00:00",
+        "2023-01-14T01:00",
+        "2023-01-14T02:00",
+        "2023-01-14T03:00",
+        "2023-01-14T04:00",
+        "2023-01-14T05:00",
+        "2023-01-14T06:00",
+        "2023-01-14T07:00",
+        "2023-01-14T08:00",
+        "2023-01-14T09:00",
+        "2023-01-14T10:00",
+        "2023-01-14T11:00",
+        "2023-01-14T12:00",
+        "2023-01-14T13:00",
+        "2023-01-14T14:00",
+        "2023-01-14T15:00",
+        "2023-01-14T16:00",
+        "2023-01-14T17:00",
+        "2023-01-14T18:00",
+        "2023-01-14T19:00",
+        "2023-01-14T20:00",
+        "2023-01-14T21:00",
+        "2023-01-14T22:00",
+        "2023-01-14T23:00"
+      ],
+      "apparent_temperature": [
+        5.1,
+        7.0,
+        7.9,
+        8.4,
+        7.7,
+        8.2,
+        7.9,
+        7.3,
+        7.6,
+        7.6,
+        7.5,
+        7.0,
+        7.2,
+        7.9,
+        8.2,
+        8.5,
+        8.5,
+        8.4,
+        8.7,
+        7.5,
+        3.0,
+        1.8,
+        0.0,
+        -1.1,
+        -1.5,
+        -2.0,
+        -2.6,
+        -3.2,
+        -3.5,
+        -3.7,
+        -3.6,
+        -4.0,
+        -4.3,
+        -4.9,
+        -5.1,
+        -5.4,
+        -5.6,
+        -5.3,
+        -4.9,
+        -5.1,
+        -5.8,
+        -6.0,
+        -5.7,
+        -5.7,
+        -5.7,
+        -5.7,
+        -6.1,
+        -6.3
+      ],
+      "precipitation": [
+        0.0,
+        11.8,
+        2.4,
+        0.8,
+        0.5,
+        0.0,
+        0.0,
+        0.2,
+        0.1,
+        0.3,
+        0.0,
+        0.0,
+        0.1,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.3,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        3,
+        65,
+        61,
+        53,
+        53,
+        2,
+        3,
+        51,
+        51,
+        51,
+        2,
+        3,
+        51,
+        51,
+        3,
+        3,
+        2,
+        51,
+        2,
+        3,
+        3,
+        3,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

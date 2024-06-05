@@ -1,0 +1,3549 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 147,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 147,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                147,
+                7,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 115,
+            "percentage": 49.56896551724138
+          },
+          "Portuguese": {
+            "count": 44,
+            "percentage": 18.96551724137931
+          },
+          "German": {
+            "count": 17,
+            "percentage": 7.327586206896552
+          },
+          "Spanish; Castilian": {
+            "count": 14,
+            "percentage": 6.0344827586206895
+          },
+          "Italian": {
+            "count": 9,
+            "percentage": 3.8793103448275863
+          },
+          "Indonesian": {
+            "count": 6,
+            "percentage": 2.586206896551724
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 6,
+            "percentage": 2.586206896551724
+          },
+          "Dutch; Flemish": {
+            "count": 5,
+            "percentage": 2.1551724137931036
+          },
+          "Arabic": {
+            "count": 4,
+            "percentage": 1.7241379310344827
+          },
+          "Swedish": {
+            "count": 4,
+            "percentage": 1.7241379310344827
+          },
+          "Tagalog": {
+            "count": 4,
+            "percentage": 1.7241379310344827
+          },
+          "Hindi": {
+            "count": 1,
+            "percentage": 0.43103448275862066
+          },
+          "unknown": {
+            "count": 1,
+            "percentage": 0.43103448275862066
+          },
+          "Korean": {
+            "count": 1,
+            "percentage": 0.43103448275862066
+          },
+          "Urdu": {
+            "count": 1,
+            "percentage": 0.43103448275862066
+          }
+        },
+        "total": 232,
+        "plot": {
+          "labels": [
+            "English",
+            "Portuguese",
+            "German",
+            "Spanish; Castilian",
+            "others"
+          ],
+          "data": [
+            49,
+            18,
+            7,
+            6,
+            20
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://www.globalresearch.ca/october-7-hamas-assault-israel/5840022",
+        "title": "The October 7 Hamas Assault on Israel. Scott RitterGlobal Researchhttps://www.globalresearch.ca \u203a october-7-hamas-assa...",
+        "content": "This scene was repeated in other Kibbutzes along the Gaza barrier system. The Israeli government treats the Kibbutz as being purely civilian,\u00a0...",
+        "size": [
+          734,
+          490
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://en.hespress.com/20239-central-american-parliament-welcomes-measures-taken-by-morocco-to-curb-covid-19.html",
+        "title": "Central American Parliament Welcomes Measures Taken by ...HESPRESS Englishhttps://en.hespress.com \u203a 20239-central-american-parli...",
+        "content": "Gaza death toll: 600 Israelis, 370 Palestinians dead since Saturday ... Lebanon's Hezbollah and Israel trade cross-border fire. Sunday 8\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2020:04:13 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 76,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://en.hespress.com/20239-central-american-parliament-welcomes-measures-taken-by-morocco-to-curb-covid-19.html",
+        "title": "Central American Parliament Welcomes Measures Taken by ...HESPRESS Englishhttps://en.hespress.com \u203a 20239-central-american-parli...",
+        "content": "Gaza death toll: 600 Israelis, 370 Palestinians dead since Saturday ... Lebanon's Hezbollah and Israel trade cross-border fire. Sunday 8\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2020:04:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.qatar-tribune.com/article/86950/world/israel-bombs-gaza-after-surprise-attack-by-hamas",
+        "title": "Israel bombs Gaza after surprise attack by HamasQatar Tribunehttps://www.qatar-tribune.com \u203a article \u203a world \u203a israe...",
+        "content": "This escalation in casualties comes in the wake of an audacious assault by the Palestinian group governing the Gaza Strip, marking the largest\u00a0...",
+        "size": [
+          1000,
+          666
+        ],
+        "date": "2023:08:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://totalnewsagency.com/2023/10/07/ataque-terrorista-do-hamas-expoe-vulnerabilidade-de-israel/",
+        "title": "Ataque terrorista do Hamas exp\u00f5e vulnerabilidade de IsraelTotalNews Agencyhttps://totalnewsagency.com \u203a ataqu...",
+        "content": "Nos referimos aqui, por exemplo, \u00e0 exist\u00eancia de ref\u00e9ns israelenses na Faixa de Gaza, como um dos resultados da invas\u00e3o terrestre ao Estado de\u00a0...",
+        "size": [
+          2400,
+          1600
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.style.yahoo.com/palestinian-fighters-captured-israeli-tank-113848739.html",
+        "title": "Palestinian fighters captured an Israeli tank and IDF soldiers ...Yahoo Lifestyle Canadahttps://ca.style.yahoo.com \u203a palestinian-fighters-captur...",
+        "content": "Unconfirmed reports claim that Hamas has captured Israeli soldiers and taken them to the Gaza Strip after taking over a tank.",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.news.yahoo.com/palestinian-fighters-captured-israeli-tank-113848739.html",
+        "title": "Palestinian fighters captured an Israeli tank and IDF soldiers ...Yahoo News Canadahttps://ca.news.yahoo.com \u203a palestinian-fighters-captu...",
+        "content": "Unconfirmed reports claim that Hamas has captured Israeli soldiers and taken them to the Gaza Strip after taking over a tank.",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kyivindependent.com/foreign-ministry-opens-operational-headquarters-to-help-ukrainians-in-israel-after-hamas-attack/",
+        "title": "Zelensky, world leaders condemn Hamas attack on IsraelThe Kyiv Independenthttps://kyivindependent.com \u203a foreign-ministry-opens...",
+        "content": "Palestinians take control of an Israeli tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on Oct.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://historica.fandom.com/wiki/Operation_Al-Aqsa_Flood",
+        "title": "Operation Al-Aqsa Flood | Historica Wiki - FandomFandomhttps://historica.fandom.com \u203a wiki \u203a Operation_Al-A...",
+        "content": "Deif called on \"Muslims everywhere to launch an attack\" as Palestinian militants opened fire on Israeli boats off the Gaza Strip and 1,000\u00a0...",
+        "size": [
+          1170,
+          780
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.businessinsider.in/international/news/palestinian-fighters-captured-an-israeli-tank-and-idf-soldiers-amid-unprecedented-wave-of-attacks-reports-say/articleshow/104242439.cms",
+        "title": "Palestinian fighters captured an Israeli tank and IDF soldiers ...Business Insider Indiahttps://www.businessinsider.in \u203a news \u203a articleshow",
+        "content": "... border fence with Israel from Khan Yunis in the southern Gaza Strip on October 7, 2023.Said Khatib/AFP via Getty Images. Palestinian fighters\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://historica.fandom.com/wiki/Operation_Iron_Swords",
+        "title": "Operation Iron Swords | Historica Wiki - FandomFandomhttps://historica.fandom.com \u203a wiki \u203a Operation_Iron_...",
+        "content": "... Gaza-Israel border on 20 October. The next day, the Rafah border crossing between Egypt and Gaza was finally opened, allowing 20 aid trucks\u00a0...",
+        "size": [
+          386,
+          259
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.hoydiariodelmagdalena.com.co/archivos/864826/las-impactantes-imagenes-que-ha-dejado-el-ataque-de-milicianos-palestinos-a-israel/",
+        "title": "Las claves para entender el conflicto y a los Ham\u00e1shoy diario del magdalenahttps://www.hoydiariodelmagdalena.com.co \u203a ...",
+        "content": "Como resultado de esta guerra, Israel ocup\u00f3 territorios palestinos, incluida Cisjordania, la Franja de Gaza y Jerusal\u00e9n Este. Esta ocupaci\u00f3n se\u00a0...",
+        "size": [
+          525,
+          350
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.leggo.it/esteri/news/israele_hamas_gaza_cosa_sta_succedendo_ultime_notizie-7679626.html",
+        "title": "Israele, oltre 700 morti. Almeno 413 palestinesi uccisi. Jet ...Leggo.ithttps://www.leggo.it \u203a Esteri \u203a News",
+        "content": "L'Idf ha condotto attacchi su circa 800 obiettivi a Gaza, riporta Times of Israel. 1 mese fa. Varsavia invia aerei militari per evacuare suoi\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pledgetimes.com/image-compilation-recent-images-show-destruction-in-israel-and-gaza/",
+        "title": "Recent images show destruction in Israel and Gaza- Pledge Timeshttps://pledgetimes.com \u203a World Europe",
+        "content": "",
+        "size": [
+          978,
+          652
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://acrenews.com.br/veja-fotos-do-confronto-entre-israel-e-milicianos-do-hamas/",
+        "title": "Veja fotos do confronto entre Israel e milicianos do HamasAcreNewshttps://acrenews.com.br \u203a veja-fotos...",
+        "content": "For\u00e7as israelenses est\u00e3o em alerta de guerra ap\u00f3s milhares de m\u00edsseis terem sido disparados a partir da faixa de Gaza.",
+        "size": [
+          631,
+          420
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.slobodenpecat.mk/en/hamas-gi-povika-site-palestinci-da-trgnat-vo-vojna-so-izrael/",
+        "title": "Hamas has called on all Palestinians to go to war with Israel\u0421\u043b\u043e\u0431\u043e\u0434\u0435\u043d \u043f\u0435\u0447\u0430\u0442https://www.slobodenpecat.mk \u203a hamas-gi-povika-site...",
+        "content": "- A large number of terrorists infiltrated into Israeli territory from the Gaza Strip - announced the Israeli military, without giving details.",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailysabah.com/world/mid-east/palestinian-groups-claim-capturing-israeli-troops-amid-tensions",
+        "title": "Palestinian groups claim capturing Israeli troops amid tensionsDaily Sabahhttps://www.dailysabah.com \u203a world \u203a mid-east \u203a pale...",
+        "content": "... Israeli tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on Oct. 7, 2023. (AFP Photo). by Anadolu\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.otempo.com.br/mundo/israel-x-hamas-imagens-mostram-momentos-dos-ataques-e-bombardeios-1.3249665",
+        "title": "Israel x Hamas: imagens mostram momentos dos ataques e ...O TEMPOhttps://www.otempo.com.br \u203a mundo",
+        "content": "T\u00f3picos relacionados. Israel x Hamas \u00b7 Israel Faixa de Gaza \u00b7 imagens guerra israel. VER COMENT\u00c1RIOS (0). Fa\u00e7a login para deixar seu coment\u00e1rio\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://ameliarueda.com/noticia/guerra-gaza-israel-ataque-sorpresa-hamas-noticias",
+        "title": "Al menos 400 muertos por enfrentamientos tras ataque ...Amelia Ruedahttps://ameliarueda.com \u203a noticia",
+        "content": "El movimiento islamista palestino Ham\u00e1s atac\u00f3 el s\u00e1bado Israel \"por aire, mar y tierra\" desde la Franja de Gaza y secuestr\u00f3 soldados y civiles,\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.otempo.com.br/mundo/israel-x-hamas-imagens-mostram-momentos-dos-ataques-e-bombardeios-1.3249665",
+        "title": "Israel x Hamas: imagens mostram momentos dos ataques e ...O TEMPOhttps://www.otempo.com.br \u203a mundo",
+        "content": "T\u00f3picos relacionados. Israel x Hamas \u00b7 Israel Faixa de Gaza \u00b7 imagens guerra israel. VER COMENT\u00c1RIOS (0). Fa\u00e7a login para deixar seu coment\u00e1rio\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.nius.de/Kommentar/terror-krieg-gegen-israel-was-wir-schon-jetzt-mit-gewissheit-sagen-koennen/c1bbb21b-6504-4878-8773-8d59b31aafbf",
+        "title": "Terror-Krieg gegen Israel: Was wir schon jetzt mit Gewissheit ...NiUS.dehttps://www.nius.de \u203a Kommentar",
+        "content": "Wir werden Zeugen einer unm\u00f6glichen Invasion. Das Terrorreich Gaza, Hochburg der Hamas, \u00fcberf\u00e4llt die milit\u00e4rische Supermacht Israel am Shabbat.",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.businessinsider.nl/palestinian-fighters-captured-an-israeli-tank-and-idf-soldiers-amid-unprecedented-wave-of-attacks-reports-say/",
+        "title": "Palestinian fighters captured an Israeli tank and IDF soldiers ...Business Insider Nederlandhttps://www.businessinsider.nl \u203a pal...",
+        "content": "... Israel from Khan Yunis in the southern Gaza Strip on October 7, 2023. Foto: Said Khatib/AFP via Getty Images. Palestinian fighters appear to\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.aljazeera.net/gallery/2023/10/7/%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D8%A8%D9%88%D9%82%D8%A9-%D8%B5%D8%AF%D9%85%D8%AA",
+        "title": "\"\u0637\u0648\u0641\u0627\u0646 \u0627\u0644\u0623\u0642\u0635\u0649\".. \u0639\u0645\u0644\u064a\u0629 \u063a\u064a\u0631 \u0645\u0633\u0628\u0648\u0642\u0629 \u0635\u062f\u0645\u062a \u0625\u0633\u0631\u0627\u0626\u064a\u0644 - \u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062aAl Jazeerahttps://www.aljazeera.net \u203a 2023/10",
+        "content": "Palestinians break into the Israeli side of Israel-Gaza border fence after gunmen infiltrated areas. \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0648\u0646 \u064a\u0642\u062a\u062d\u0645\u0648\u0646 \u0627\u0644\u062c\u0627\u0646\u0628 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0645\u0646\u00a0...",
+        "size": [
+          1170,
+          780
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://akhbarhayat.com/896951/%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D8%A8%D9%88%D9%82%D8%A9-%D8%B5%D8%AF%D9%85%D8%AA-%D8%A7%D9%84/",
+        "title": "\"\u0637\u0648\u0641\u0627\u0646 \u0627\u0644\u0623\u0642\u0635\u0649\".. \u0639\u0645\u0644\u064a\u0629 \u063a\u064a\u0631 \u0645\u0633\u0628\u0648\u0642\u0629 \u0635\u062f\u0645\u062a \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 (\u0635\u0648\u0631)\u0627\u062e\u0628\u0627\u0631 \u062d\u064a\u0627\u0629https://akhbarhayat.com \u203a \u0637\u0648\u0641\u0627\u0646-\u0627\u0644\u0623...",
+        "content": "Palestinians break into the Israeli side\u00a0...",
+        "size": [
+          780,
+          520
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://rpp.pe/mundo/medio-oriente/israel-y-gaza-entran-en-guerra-tras-la-ofensiva-sorpresa-de-hamas-fotos-noticia-1509450",
+        "title": "Israel y Gaza entran en guerra tras el ataque de Ham\u00e1s [FOTOS]Radio Programas del Per\u00fahttps://rpp.pe \u203a medio-oriente \u203a isra...",
+        "content": "El movimiento islamista palestino Ham\u00e1s atac\u00f3 el s\u00e1bado Israel \"por aire, mar y tierra\" desde la Franja de Gaza y secuestr\u00f3 soldados y\u00a0...",
+        "size": [
+          1450,
+          966
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elperiodico.com/es/fotos/internacional/guerra-israel-gaza-fotos-93047925",
+        "title": "Guerra entre Israel y Gaza | FOTOS - El Peri\u00f3dicoEl Peri\u00f3dicohttps://www.elperiodico.com \u203a Fotos \u203a Internacional",
+        "content": "Militantes palestinos disparan una andanada de cohetes desde la ciudad de Gaza hacia Israel. MAHMUD HAMS / AFP.",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://noticias.r7.com/internacional/israel-corta-energia-eletrica-de-gaza-em-represalia-a-multiplos-ataques-do-hamas-07102023",
+        "title": "Israel corta energia el\u00e9trica de Gaza em repres\u00e1lia a m\u00faltiplos ...R7.comhttps://noticias.r7.com \u203a internacional",
+        "content": "\"N\u00e3o ser\u00e1 como antes\", disse Katz em comunicado sobre a medida punitiva. Gaza depende de Israel para o fornecimento de eletricidade, bem como\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://akhbarhayat.com/896951/%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D8%A8%D9%88%D9%82%D8%A9-%D8%B5%D8%AF%D9%85%D8%AA-%D8%A7%D9%84/",
+        "title": "\"\u0637\u0648\u0641\u0627\u0646 \u0627\u0644\u0623\u0642\u0635\u0649\".. \u0639\u0645\u0644\u064a\u0629 \u063a\u064a\u0631 \u0645\u0633\u0628\u0648\u0642\u0629 \u0635\u062f\u0645\u062a \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 (\u0635\u0648\u0631)\u0627\u062e\u0628\u0627\u0631 \u062d\u064a\u0627\u0629https://akhbarhayat.com \u203a \u0637\u0648\u0641\u0627\u0646-\u0627\u0644\u0623...",
+        "content": "Palestinians break into the Israeli side\u00a0...",
+        "size": [
+          780,
+          520
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://ameliarueda.com/noticia/guerra-gaza-israel-ataque-sorpresa-hamas-noticias",
+        "title": "Al menos 400 muertos por enfrentamientos tras ataque ...Amelia Ruedahttps://ameliarueda.com \u203a noticia",
+        "content": "El movimiento islamista palestino Ham\u00e1s atac\u00f3 el s\u00e1bado Israel \"por aire, mar y tierra\" desde la Franja de Gaza y secuestr\u00f3 soldados y civiles,\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.otempo.com.br/mundo/israel-x-hamas-imagens-mostram-momentos-dos-ataques-e-bombardeios-1.3249665",
+        "title": "Israel x Hamas: imagens mostram momentos dos ataques e ...O TEMPOhttps://www.otempo.com.br \u203a mundo",
+        "content": "T\u00f3picos relacionados. Israel x Hamas \u00b7 Israel Faixa de Gaza \u00b7 imagens guerra israel. VER COMENT\u00c1RIOS (0). Fa\u00e7a login para deixar seu coment\u00e1rio\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://ameliarueda.com/noticia/guerra-gaza-israel-ataque-sorpresa-hamas-noticias",
+        "title": "Al menos 400 muertos por enfrentamientos tras ataque ...Amelia Ruedahttps://ameliarueda.com \u203a noticia",
+        "content": "El movimiento islamista palestino Ham\u00e1s atac\u00f3 el s\u00e1bado Israel \"por aire, mar y tierra\" desde la Franja de Gaza y secuestr\u00f3 soldados y civiles,\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.nius.de/Kommentar/terror-krieg-gegen-israel-was-wir-schon-jetzt-mit-gewissheit-sagen-koennen/c1bbb21b-6504-4878-8773-8d59b31aafbf",
+        "title": "Terror-Krieg gegen Israel: Was wir schon jetzt mit Gewissheit ...NiUS.dehttps://www.nius.de \u203a Kommentar",
+        "content": "Wir werden Zeugen einer unm\u00f6glichen Invasion. Das Terrorreich Gaza, Hochburg der Hamas, \u00fcberf\u00e4llt die milit\u00e4rische Supermacht Israel am Shabbat.",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.sports.yahoo.com/news/palestinian-fighters-captured-israeli-tank-113848739.html",
+        "title": "Palestinian fighters captured an Israeli tank and IDF soldiers ...Yahoohttps://ca.sports.yahoo.com \u203a news \u203a palestinian-fighte...",
+        "content": "Unconfirmed reports claim that Hamas has captured Israeli soldiers and taken them to the Gaza Strip after taking over a tank.",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.nius.de/Kommentar/terror-krieg-gegen-israel-was-wir-schon-jetzt-mit-gewissheit-sagen-koennen/c1bbb21b-6504-4878-8773-8d59b31aafbf",
+        "title": "Terror-Krieg gegen Israel: Was wir schon jetzt mit Gewissheit ...NiUS.dehttps://www.nius.de \u203a Kommentar",
+        "content": "Wir werden Zeugen einer unm\u00f6glichen Invasion. Das Terrorreich Gaza, Hochburg der Hamas, \u00fcberf\u00e4llt die milit\u00e4rische Supermacht Israel am Shabbat.",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/07/timeline-of-conflict-between-israel-and-palestinians-in-gaza/",
+        "title": "Timeline of conflict between Israel and Palestinians in GazaNew York Posthttps://nypost.com \u203a 2023/10/07 \u203a timeline-of-conflict-b...",
+        "content": "June 25, 2006 \u2013 Hamas militants capture Israeli army conscript Gilad Shalit in a cross-border raid from Gaza, prompting Israeli air strikes and\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/hamas-video-shows-israeli-soldier-being-dragged-through-street-gaza-attack",
+        "title": "Hamas Video Shows Israeli Soldier Being Dragged Out of ...themessenger.comhttps://themessenger.com \u203a news \u203a hamas-video-shows...",
+        "content": "... border fence with Israel from Khan Yunis in the southern Gaza Strip on October 7, 2023.SAID KHATIB/AFP via Getty Images. Israel Defense\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thearabweekly.com/hamas-launches-missiles-infiltrates-israel-unprecedented-escalation-likely-trigger-new-showdown",
+        "title": "Hamas launches missiles, infiltrates Israel in unprecedented ...The Arab Weeklyhttps://thearabweekly.com \u203a hamas-launches-missiles-i...",
+        "content": "The Hamas assault combined gunmen crossing the border with a heavy barrage of rockets from the Gaza Strip. The Israeli military put the\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.businessinsider.com/video-palestinian-fighters-appear-capture-an-israeli-tank-2023-10",
+        "title": "Palestinian fighters captured an Israeli tank and IDF soldiers ...Business Insiderhttps://www.businessinsider.com \u203a video-palestinian-fi...",
+        "content": "Unconfirmed reports claim that Hamas has captured Israeli soldiers and taken them to the Gaza Strip after taking over a tank.",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.movies.yahoo.com/palestinian-fighters-captured-israeli-tank-113848739.html",
+        "title": "Palestinian fighters captured an Israeli tank and IDF soldiers ...Yahoo Movies Canadahttps://ca.movies.yahoo.com \u203a palestinian-fighters-cap...",
+        "content": "Unconfirmed reports claim that Hamas has captured Israeli soldiers and taken them to the Gaza Strip after taking over a tank.",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nation.africa/kenya/news/world/israel-army-launches-air-strikes-on-gaza--4392790",
+        "title": "Israeli army launches retaliatory air strikes on Gaza | NationDaily Nationhttps://nation.africa \u203a Home \u203a News \u203a World",
+        "content": "Palestinians take control of an Israeli tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on\u00a0...",
+        "size": [
+          1620,
+          1080
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://acrenews.com.br/veja-fotos-do-confronto-entre-israel-e-milicianos-do-hamas-2/",
+        "title": "Veja fotos do confronto entre Israel e milicianos do HamasAcreNewshttps://acrenews.com.br \u203a veja-fotos...",
+        "content": "For\u00e7as israelenses est\u00e3o em alerta de guerra ap\u00f3s milhares de m\u00edsseis terem sido disparados a partir da faixa de Gaza.",
+        "size": [
+          631,
+          420
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.middleeasteye.net/news/hamas-attack-israel-what-we-know",
+        "title": "Palestinian attack on Israel: What we know | Middle East EyeMiddle East Eyehttps://www.middleeasteye.net \u203a news \u203a hamas-attack-i...",
+        "content": "Early on Saturday morning, Palestinians launched an assault on Israel from the Gaza Strip, including rocket attacks and fighters storming\u00a0...",
+        "size": [
+          2600,
+          1733
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/07/israelis-cry-for-help-as-hamas-militants-break-into-homes/",
+        "title": "Israelis cry for help as Hamas militants break into homesNew York Posthttps://nypost.com \u203a 2023/10/07 \u203a israelis-cry-for-help-a...",
+        "content": "Israel-Hamas war: How we got here. 2005: Israel unilaterally withdraws from the Gaza Strip more than three decades after winning the\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/liveblog-october-7-2023/",
+        "title": "Oct. 7: Hamas terrorists burst through border, slaughter ...The Times of Israelhttps://www.timesofisrael.com \u203a liveblog-october-7-20...",
+        "content": "The IDF's spokesperson in Arabic has issued a message to residents of the Gaza Strip to seek shelter amid an ongoing Israeli response to Hamas'\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kashmirobserver.net/2023/10/07/palestinian-fighters-cross-into-israel-take-soldiers-captive/",
+        "title": "F-16's Pummel Gaza After Palestinian Fighters Kill & Capture ...Kashmir Observerhttps://kashmirobserver.net \u203a NEWS \u203a TOP STORIES",
+        "content": "In retaliation Israeli Air Force bombarded densely populated Gaza Strip leaving at least 198 people dead and 1,610 wounded by the nightfall\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.washingtonpost.com/world/2023/10/07/israel-gaza-rocket-attack-hamas/?itid=pr_hybrid_experimentrandom_with_top_mostshared_2_na-ans_2",
+        "title": "Israeli troops still clearing houses, as strikes hit Gaza StripWashington Posthttps://www.washingtonpost.com \u203a world \u203a 2023/10/07",
+        "content": "Israel said it struck Hamas military infrastructure in Gaza ... Israeli fighter jets struck two multistory buildings in the Gaza Strip, the Israel\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://kumparan.com/kumparannews/israel-sebut-warga-sipil-dan-tentaranya-disandera-militan-palestina-21LBJ4p2BDU",
+        "title": "Israel Sebut Warga Sipil dan Tentaranya Disandera Militan ...kumparanhttps://kumparan.com \u203a kumparann...",
+        "content": "Konflik Hamas-Israel di Jalur Gaza kembali pecah pada Sabtu (7/10) kemarin. Warga Israel, termasuk para tentara dilaporkan disandera militan\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.poconeonline.com/veja-fotos-confronto-entre-israel-e-milicianos-hamas/",
+        "title": "Veja fotos do confronto entre Israel e milicianos do HamasPocon\u00e9 On-linehttps://www.poconeonline.com \u203a ve...",
+        "content": "For\u00e7as israelenses est\u00e3o em alerta de guerra ap\u00f3s milhares de m\u00edsseis terem sido disparados a partir da Faixa de Gaza.",
+        "size": [
+          631,
+          420
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://en.hespress.com/72359-wsj-iran-helped-hamas-plan-attack-on-israel-over-several-weeks.html",
+        "title": "WSJ: Iran helped Hamas plan attack on Israel 'over several ...HESPRESS Englishhttps://en.hespress.com \u203a 72359-wsj-iran-helped-hama...",
+        "content": "... Israel's borders since the October War of 1973. The officials stated ... Prolonged Israeli attacks on Gaza could lead Morocco to freeze\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://www.yna.co.kr/view/IPT20231008000001365",
+        "title": "\uc774\uc2a4\ub77c\uc5d8-\ud558\ub9c8\uc2a4 \uc804\uc7c1 \uc0ac\ub9dd\uc790 \ucd5c\uc18c 530\uba85\uc73c\ub85c \uae09\uc99d - \uc5f0\ud569\ub274\uc2a4\uc5f0\ud569\ub274\uc2a4https://www.yna.co.kr \u203a view \u203a IPT...",
+        "content": "Palestinian militants celebrate by an Israeli tank at the border fence of the Gaza Strip on Saturday, Oct. ... Israel into Gaza, in Shejaiya, Gaza\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rnz.co.nz/news/world/499709/israel-pounds-gaza-after-deadly-hamas-raid-as-conflict-threatens-to-spiral",
+        "title": "Israel pounds Gaza after deadly Hamas raid as conflict ... - RNZRNZhttps://www.rnz.co.nz \u203a news \u203a world \u203a israel-pounds-...",
+        "content": "The debris from Saturday's attack still lay around southern Israeli towns and border communities on Sunday morning and Israelis were reeling\u00a0...",
+        "size": [
+          1050,
+          656
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rnz.co.nz/news/world/499706/how-did-israeli-intelligence-fail-to-stop-major-attack-from-gaza",
+        "title": "How did Israeli intelligence fail to stop major attack from Gaza?RNZhttps://www.rnz.co.nz \u203a news \u203a world \u203a how-did-israel...",
+        "content": "Dozens of armed Palestinian gunmen were able to cross the heavily fortified border between Israel and the Gaza Strip, while thousands of rockets\u00a0...",
+        "size": [
+          1050,
+          656
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://noticias.r7.com/internacional/fotos/veja-fotos-do-confronto-entre-israel-e-milicianos-do-hamas-07102023",
+        "title": "Veja fotos do confronto entre Israel e milicianos do HamasR7.comhttps://noticias.r7.com \u203a Internacional",
+        "content": "For\u00e7as israelenses est\u00e3o em alerta de guerra ap\u00f3s milhares de m\u00edsseis terem sido disparados a partir da Faixa de Gaza.",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.brasildefato.com.br/2023/10/08/israel-nunca-esteve-tao-pressionada-e-encurralada-diz-especialista-em-historia-arabe",
+        "title": "'Israel nunca esteve t\u00e3o pressionado e encurralado', diz ...Brasil de Fatohttps://www.brasildefato.com.br \u203a is...",
+        "content": "... Gaza. \u00c9 importante lembrar que n\u00e3o \u00e9 s\u00f3 o Hamas, o Hezbollah em solidariedade tamb\u00e9m atacou Israel, h\u00e1 ref\u00e9ns levados para dentro da\u00a0...",
+        "size": [
+          500,
+          333
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://kumparan.com/kumparannews/israel-sebut-warga-sipil-dan-tentaranya-disandera-militan-palestina-21LBJ4p2BDU",
+        "title": "Israel Sebut Warga Sipil dan Tentaranya Disandera Militan ...kumparanhttps://kumparan.com \u203a kumparann...",
+        "content": "Konflik Hamas-Israel di Jalur Gaza kembali pecah pada Sabtu (7/10) kemarin. Warga Israel, termasuk para tentara dilaporkan disandera militan\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.otrombone.com.br/conflito-entre-israel-e-hamas-entra-no-2o-dia-com-novas-explosoes-mais-de-mil-pessoas-morreram/",
+        "title": "Conflito entre Israel e Hamas entra no 2\u00ba dia com novas ...O Trombonehttps://www.otrombone.com.br \u203a ...",
+        "content": "O balan\u00e7o mais recente das autoridades locais indica que ao menos 1.120 pessoas morreram, sendo 700 em Israel, 413 na Faixa de Gaza e 7 na\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.washingtonpost.com/world/2023/10/07/israel-gaza-rocket-attack-hamas/",
+        "title": "Israeli troops still clearing houses, as strikes hit Gaza StripWashington Posthttps://www.washingtonpost.com \u203a world \u203a 2023/10/07",
+        "content": "JERUSALEM \u2014 Israeli Prime Minister Benjamin Netanyahu declared Saturday that \u201cwe are at war\u201d after Hamas militants from Gaza launched an\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ur",
+        "link": "https://urdu.news18.com/photogallery/international/how-hamas-broke-israel-security-cordon-in-gaza-wage-war-against-tel-aviv-three-front-attack-from-land-air-and-water-sib-499170.html",
+        "title": "\u0632\u0645\u06cc\u0646\u060c \u06c1\u0648\u0627 \u0627\u0648\u0631 \u067e\u0627\u0646\u06cc \u0633\u06d2 \u06a9\u06cc\u0627 \u062a\u06cc\u0646 \u0637\u0631\u0641\u06c1 \u062d\u0645\u0644\u06d2\u060c \u062c\u0627\u0646\u0626\u06d2 \u062d\u0645\u0627\u0633 \u0646\u06d2 ...News18 Urduhttps://urdu.news18.com \u203a how-ha...",
+        "content": "Israel Hamas Conflict: \u062d\u0645\u0627\u0633 \u06a9\u06d2 \u062c\u0646\u06af\u062c\u0648\u0624\u06ba \u0627\u0648\u0631 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u0633\u06cc\u06a9\u06cc\u0648\u0631\u0679\u06cc \u0641\u0648\u0631\u0633\u0632 \u06a9\u06d2 \u062f\u0631\u0645\u06cc\u0627\u0646 \u06c1\u0641\u062a\u06d2 \u06a9\u06cc \u0631\u0627\u062a \u062a\u06a9 \u0644\u0691\u0627\u0626\u06cc \u062c\u0627\u0631\u06cc \u0631\u06c1\u06cc\u06d4 \u063a\u0632\u06c1 \u06a9\u06d2 \u062d\u06a9\u0627\u0645 \u0646\u06d2 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u06a9\u06d2 \u0633\u0627\u062a\u06be\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bostonglobe.com/2023/10/07/world/palestinian-militants-launch-dozens-rockets-into-israel-sirens-are-heard-across-country/",
+        "title": "Hamas attacks Israel; 'We are at war', Netanyahu saysThe Boston Globehttps://www.bostonglobe.com \u203a 2023/10/07 \u203a world \u203a pa...",
+        "content": "JERUSALEM \u2014 Hamas militants broke out of the blockaded Gaza Strip and rampaged through nearby Israeli communities, killing at least 250\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.businessinsider.com/why-is-hamas-attack-on-israel-like-911-in-america-2023-10",
+        "title": "Why Israelis Say the Hamas Attacks Are Their Country's '9/11 ...Business Insiderhttps://www.businessinsider.com \u203a News",
+        "content": "Compared to the 15 seconds she previously had while serving as a member of the Israeli armed forces in Sderot, a city close to the Gaza border,\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rnz.co.nz/news/world/499667/photo-essay-israel-declares-war-after-attack-by-hamas",
+        "title": "Photo essay: Israel declares war after attack by Hamas - RNZRNZhttps://www.rnz.co.nz \u203a news \u203a world \u203a photo-essay-is...",
+        "content": "Palestinians take control of an Israeli tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip. Photo\u00a0...",
+        "size": [
+          1050,
+          656
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.spamchronicles.com/breaking-news-israel-is-under-attack-israeli-tanks-heading-towards-the-gaza-strip-two-tourists-from-israel/",
+        "title": "Breaking News: Israel Is Under Attack. Israeli Tanks Heading ...spamchronicles.comhttps://www.spamchronicles.com \u203a Latest News",
+        "content": "Hamas' armed wing said its men are currently fighting the Israeli Defense Forces (IDF) in seven areas on the Gaza Strip-Israel border. These\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.spamchronicles.com/breaking-news-israel-is-under-attack-israeli-tanks-heading-towards-the-gaza-strip-two-tourists-from-israel/",
+        "title": "Breaking News: Israel Is Under Attack. Israeli Tanks Heading ...spamchronicles.comhttps://www.spamchronicles.com \u203a Latest News",
+        "content": "Hamas' armed wing said its men are currently fighting the Israeli Defense Forces (IDF) in seven areas on the Gaza Strip-Israel border. These\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://kumparan.com/kumparannews/israel-sebut-warga-sipil-dan-tentaranya-disandera-militan-palestina-21LBJ4p2BDU",
+        "title": "Israel Sebut Warga Sipil dan Tentaranya Disandera Militan ...kumparanhttps://kumparan.com \u203a kumparann...",
+        "content": "Konflik Hamas-Israel di Jalur Gaza kembali pecah pada Sabtu (7/10) kemarin. Warga Israel, termasuk para tentara dilaporkan disandera militan\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailysabah.com/world/mid-east/surprise-hamas-attack-on-israel-brings-back-memories-of-1973-war",
+        "title": "Surprise Hamas attack on Israel brings back memories of ...Daily Sabahhttps://www.dailysabah.com \u203a world \u203a mid-east \u203a surp...",
+        "content": "... Israel before fighters infiltrated towns surrounding the Gaza Strip. The operation brings to mind the 1973 October War. Hamas's Saturday\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://hindi.news18.com/photogallery/world/how-hamas-broke-israel-security-cordon-in-gaza-wage-war-against-tel-aviv-three-front-attack-from-land-air-and-water-7730945.html",
+        "title": "PHOTOS: \u091c\u092e\u0940\u0928-\u0939\u0935\u093e-\u092a\u093e\u0928\u0940 \u0938\u0947 \u0915\u093f\u092f\u093e \u0924\u0940\u0928\u0924\u0930\u092b\u093e \u0939\u092e\u0932\u093e, \u091c\u093e\u0928\u0947\u0902 \u0939\u092e\u093e\u0938 \u0928\u0947 ...News18 \u0939\u093f\u0902\u0926\u0940https://hindi.news18.com \u203a ... \u203a world",
+        "content": "... gaza wage war against tel aviv three front attack from land air and water ... Israel Hamas Conflict: \u0939\u092e\u093e\u0938 \u0915\u0947 \u0932\u0921\u093c\u093e\u0915\u094b\u0902 \u0914\u0930\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kyivindependent.com/netanyahu-holds-phone-call-with-top-leaders-over-war-in-israel/",
+        "title": "Zelensky, foreign leaders call Netanyahu over war, back ...The Kyiv Independenthttps://kyivindependent.com \u203a netanyahu-holds-phone...",
+        "content": "Two Ukrainian citizens have been killed in Israel after the extremist organization Hamas launched rocket and ground attacks from the Gaza Strip\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://pwmu.co/320999/10/08/palestina-kejutkan-israel-dengan-rudal-perang-berkobar-lagi/",
+        "title": "Palestina Kejutkan Israel dengan Rudal, Perang Berkobar LagiPWMU.COhttps://pwmu.co \u203a Agenda",
+        "content": "Palestina membuat kejutan dengan serangan rudal terhadap Israel dari Jalur Gaza, termasuk pejuang Palestina menyerbu komunitas Israel,\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.spamchronicles.com/breaking-news-israel-is-under-attack-israeli-tanks-heading-towards-the-gaza-strip-two-tourists-from-israel-2/",
+        "title": "Breaking News: Israel Is Under Attack. Israeli Tanks Heading ...spamchronicles.comhttps://www.spamchronicles.com \u203a Latest News",
+        "content": "Hamas' armed wing said its men are currently fighting the Israeli Defense Forces (IDF) in seven areas on the Gaza Strip-Israel border. These\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.panoramadoms.com.br/2023/10/08/guerra-na-faixa-de-gaza-brasileiros-relatam-apreensao-em-zona-de-conflito/",
+        "title": "GUERRA NA FAIXA DE GAZA: Brasileiros relatam apreens\u00e3o ...Panorama do MShttps://www.panoramadoms.com.br \u203a ...",
+        "content": "S\u00e3o estimados 14 mil brasileiros residentes em Israel e 6 mil na Palestina, \u201ca grande maioria dos quais fora da \u00e1rea afetada pelos ataques\u201d, diz\u00a0...",
+        "size": [
+          984,
+          656
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://inmagazine.ig.com.br/categoria/Noticias/Conflito-na-Faixa-de-Gaza-deixa-mais-de-1200-mortos",
+        "title": "Conflito na Faixa de Gaza deixa mais de 1200 mortosiNMAGAZINE/iGhttps://inmagazine.ig.com.br \u203a Conf...",
+        "content": "O conflito entre Israel e Palestina na Faixa de Gaza, iniciado no \u00faltimo s\u00e1bado (7) ap\u00f3s bombardeios do grupo extremista armado Hamas,\u00a0...",
+        "size": [
+          984,
+          656
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://g1.globo.com/mundo/noticia/2023/10/09/video-predio-inteiro-desaba-em-gaza-apos-contra-ataque-de-israel.ghtml",
+        "title": "V\u00cdDEO: pr\u00e9dio inteiro desaba em Gaza ap\u00f3s contra-ataque de ...G1https://g1.globo.com \u203a mundo \u203a noticia \u203a 2023/10/09",
+        "content": "Segundo a For\u00e7a A\u00e9rea de Israel, apartamentos do edif\u00edcio eram usados por integrantes do Hamas.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://g1.globo.com/mundo/noticia/2023/10/09/israel-hamas-conflito-faixa-de-gaza-terceiro-dia.ghtml",
+        "title": "Israel e Hamas: 3\u00ba dia de conflito come\u00e7a com 1,3 mil mortes ...G1https://g1.globo.com \u203a mundo \u203a noticia \u203a 2023/10/09 \u203a i...",
+        "content": "Ministro da Defesa de Israel disse que Faixa de Gaza vai pagar 'pre\u00e7o pesado', que mudar\u00e1 a realidade de gera\u00e7\u00f5es.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://g1.globo.com/mundo/noticia/2023/10/09/video-israel-bombardeia-alvos-na-faixa-de-gaza.ghtml",
+        "title": "V\u00cdDEO: Israel bombardeia milhares de alvos na Faixa de GazaG1https://g1.globo.com \u203a mundo \u203a noticia \u203a 2023/10/09",
+        "content": "For\u00e7as de Defesa de Israel afirmam que foram cerca de 2.400 ataques a Gaza somente nesta segunda-feira.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://egyptianstreets.com/2023/10/09/escalations-continue-between-israel-and-hamas-as-the-joint-death-toll-rises-to-1200/",
+        "title": "Escalations Continue Between Israel and Hamas as the Joint ...Egyptian Streetshttps://egyptianstreets.com \u203a 2023 \u203a October \u203a 9",
+        "content": "Israeli airstrikes have targeted two refugee camps in the Gaza Strip, with Al Jazeera reporting that \u201ctwo massive raids\u201d struck Jabalia and the\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breakingnews.ie/world/insight-how-israel-was-duped-as-hamas-planned-devastating-assault-1536770.html",
+        "title": "'They got us': How Israel was duped as Hamas planned ...BreakingNews.iehttps://www.breakingnews.ie \u203a world \u203a insight-how-isr...",
+        "content": "TOPSHOT-PALESTINIAN-ISRAEL-CONFLICT-GAZA. Palestinians take control of an Israeli tank after crossing the border fence with Israel. Photo\u00a0...",
+        "size": [
+          594,
+          396
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://g1.globo.com/mundo/noticia/2023/10/09/israel-controle-ao-redor-da-faixa-de-gaza.ghtml",
+        "title": "Israel diz ter retomado controle de territ\u00f3rios e anuncia ... - G1G1https://g1.globo.com \u203a mundo \u203a noticia \u203a 2023/10/09 \u203a i...",
+        "content": "H\u00e1 dois dias, o grupo terrorista Hamas lan\u00e7ou um ataque contra o territ\u00f3rio israelense. Foguetes foram lan\u00e7ados a partir da Faixa de Gaza.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://g1.globo.com/mundo/noticia/2023/10/09/video-israel-bombardeia-alvos-na-faixa-de-gaza.ghtml",
+        "title": "V\u00cdDEO: Israel bombardeia milhares de alvos na Faixa de GazaG1https://g1.globo.com \u203a mundo \u203a noticia \u203a 2023/10/09",
+        "content": "For\u00e7as de Defesa de Israel afirmam que foram cerca de 2.400 ataques a Gaza somente nesta segunda-feira.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://g1.globo.com/mundo/noticia/2023/10/09/israel-hamas-conflito-faixa-de-gaza-terceiro-dia.ghtml",
+        "title": "Israel e Hamas: 3\u00ba dia de conflito come\u00e7a com 1,3 mil mortes ...G1https://g1.globo.com \u203a mundo \u203a noticia \u203a 2023/10/09 \u203a i...",
+        "content": "Ministro da Defesa de Israel disse que Faixa de Gaza vai pagar 'pre\u00e7o pesado', que mudar\u00e1 a realidade de gera\u00e7\u00f5es.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/hamas-carried-out-years-long-campaign-to-fool-israel-before-attack-source-says/",
+        "title": "Hamas carried out years-long campaign to fool Israel before ...The Times of Israelhttps://www.timesofisrael.com \u203a hamas-carried-out-ye...",
+        "content": "... Israel while preparing for this massive operation,\u201d the source said. The border with Gaza had been relatively quiet in recent months. Hamas\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://fontepb.com/israel-diz-ter-retomado-controle-de-territorios-e-anuncia-bloqueio-a-gaza/",
+        "title": "Israel diz ter retomado controle de territ\u00f3rios e anuncia ...FontePBhttps://fontepb.com \u203a israel-diz-ter-r...",
+        "content": "Vale destacar que ainda h\u00e1 conflito em regi\u00f5es espec\u00edficas de Gaza. O Hamas informou que quatro prisioneiros israelenses e seus sequestradores\u00a0...",
+        "size": [
+          984,
+          656
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://blogdofinfa.com.br/2023/10/guerra-no-oriente-medio-israel-diz-que-retomou-areas-invadidas-pelo-hamas-e-anuncia-bloqueio-a-gaza.html",
+        "title": "Israel diz que retomou \u00e1reas invadidas pelo Hamas e anuncia ...Blog do Finfahttps://blogdofinfa.com.br \u203a 2023/10",
+        "content": "H\u00e1 dois dias, o grupo armado Hamas lan\u00e7ou um ataque contra o territ\u00f3rio israelense. Foguetes foram lan\u00e7ados a partir da Faixa de Gaza. g1\u00a0...",
+        "size": [
+          920,
+          614
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://fontepb.com/israel-diz-ter-retomado-controle-de-territorios-e-anuncia-bloqueio-a-gaza/",
+        "title": "Israel diz ter retomado controle de territ\u00f3rios e anuncia ...FontePBhttps://fontepb.com \u203a israel-diz-ter-r...",
+        "content": "Vale destacar que ainda h\u00e1 conflito em regi\u00f5es espec\u00edficas de Gaza. O Hamas informou que quatro prisioneiros israelenses e seus sequestradores\u00a0...",
+        "size": [
+          984,
+          656
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.jornalrs.com.br/noticia/2532/mundo/video-israel-bombardeia-milhares-de-alvos-na-faixa-de-gaza.html",
+        "title": "V\u00cdDEO: Israel bombardeia milhares de alvos na Faixa de Gazajornalrs.com.brhttps://www.jornalrs.com.br \u203a mundo",
+        "content": "Israel voltou a bombardear a Faixa de Gaza nesta segunda-feira (9). A ofensiva ocorre dois dias ap\u00f3s o  o grupo armado Hamas lan\u00e7ar um ataque\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://g1.globo.com/mundo/noticia/2023/10/09/video-predio-inteiro-desaba-em-gaza-apos-contra-ataque-de-israel.ghtml",
+        "title": "V\u00cdDEO: pr\u00e9dio inteiro desaba em Gaza ap\u00f3s contra-ataque de ...G1https://g1.globo.com \u203a mundo \u203a noticia \u203a 2023/10/09",
+        "content": "Segundo a For\u00e7a A\u00e9rea de Israel, apartamentos do edif\u00edcio eram usados por integrantes do Hamas.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.jornalrs.com.br/noticia/2532/mundo/video-israel-bombardeia-milhares-de-alvos-na-faixa-de-gaza.html",
+        "title": "V\u00cdDEO: Israel bombardeia milhares de alvos na Faixa de Gazajornalrs.com.brhttps://www.jornalrs.com.br \u203a mundo",
+        "content": "Israel voltou a bombardear a Faixa de Gaza nesta segunda-feira (9). A ofensiva ocorre dois dias ap\u00f3s o  o grupo armado Hamas lan\u00e7ar um ataque\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.outkick.com/harvard-students-statement-israel-hamas-blame/",
+        "title": "Harvard Students Blame Israel For Hamas Terrorist AttackOutKickhttps://www.outkick.com \u203a harvard-students-statement...",
+        "content": "For the last two decades, millions of Palestinians in Gaza have been forced to live in an open-air prison. Israeli officials promise to\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailystar.co.uk/news/world-news/hamas-issues-ominous-hostage-execution-31147288",
+        "title": "Hamas issues ominous hostage execution warning in fresh ...Daily Starhttps://www.dailystar.co.uk \u203a News \u203a World News",
+        "content": "... Israeli civilian hostage any time Israel targets Gaza without warning. ... border and attacking Israeli cities on Saturday (October 7). In a\u00a0...",
+        "size": [
+          615,
+          410
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.slobodenpecat.mk/en/hamas-gi-postigna-svoite-celi-otvoreni-sme-za-razgovori-za-mozhno-primirje-so-izrael/",
+        "title": "Hamas has achieved its goals: We are open to talks about a ...\u0421\u043b\u043e\u0431\u043e\u0434\u0435\u043d \u043f\u0435\u0447\u0430\u0442https://www.slobodenpecat.mk \u203a hamas-gi-postigna-sv...",
+        "content": "... Gaza, but there is also street fighting on the Israel-Gaza border. America has announced that it will send additional military aid to Israel\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.tageblatt.lu/headlines/erbitterter-kampf-gegen-hamas-angreifer/",
+        "title": "Naher Osten Erbitterter Kampf gegen Hamas-AngreiferTageblatthttps://www.tageblatt.lu \u203a headlines",
+        "content": "Netanjahu k\u00fcndigte nach dem Gro\u00dfangriff der Hamas Vergeltung an und forderte alle Pal\u00e4stinenser zum Verlassen der Stadt Gaza auf. Israel stellte\u00a0...",
+        "size": [
+          740,
+          493
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.businessinsider.de/politik/das-ist-israels-11-september-warum-israelis-sagen-dass-der-beispiellose-angriff-der-hamas-ihr-land-fuer-immer-veraendern-wird/",
+        "title": "Warum der Angriff der Hamas Israel f\u00fcr immer ver\u00e4ndern wirdbusinessinsider.dehttps://www.businessinsider.de \u203a das...",
+        "content": "Aber das Ausma\u00df dieser Angriffe \u2013 bei denen Hamas-Terroristen Geiseln in den Gaza-Streifen entf\u00fchrten und Offensiven zu Lande, zu Wasser und in\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.businessinsider.nl/this-is-israels-9-11-why-israelis-say-hamas-unprecedented-assault-will-change-their-country-forever/",
+        "title": "'This is Israel's 9/11': Why Israelis say Hamas' unprecedented ...Business Insider Nederlandhttps://www.businessinsider.nl \u203a Archief",
+        "content": "But the scale of these attacks \u2014 which saw Hamas fighters take hostages back over the Gaza border and mount offensives across the land, sea, and\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.musikexpress.de/kuenstler-liste-deutsche-acts-beim-universo-parallelo-in-israel-2375789/",
+        "title": "K\u00fcnstler-Liste: Deutsche Acts beim \u201eUniverso Parallelo\u201c in IsraelMusikexpresshttps://www.musikexpress.de \u203a kue...",
+        "content": "Die Ank\u00fcndigung f\u00fcr das Festival in der W\u00fcstenzone Israels unweit des Gaza-Streifens liest sich ebenso bunt wie emo-esoterisch. Eine\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://blogdofinfa.com.br/2023/10/guerra-no-oriente-medio-israel-diz-que-retomou-areas-invadidas-pelo-hamas-e-anuncia-bloqueio-a-gaza.html",
+        "title": "Israel diz que retomou \u00e1reas invadidas pelo Hamas e anuncia ...Blog do Finfahttps://blogdofinfa.com.br \u203a 2023/10",
+        "content": "H\u00e1 dois dias, o grupo armado Hamas lan\u00e7ou um ataque contra o territ\u00f3rio israelense. Foguetes foram lan\u00e7ados a partir da Faixa de Gaza. g1\u00a0...",
+        "size": [
+          920,
+          614
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.jornalrs.com.br/noticia/2532/mundo/video-israel-bombardeia-milhares-de-alvos-na-faixa-de-gaza.html",
+        "title": "V\u00cdDEO: Israel bombardeia milhares de alvos na Faixa de Gazajornalrs.com.brhttps://www.jornalrs.com.br \u203a mundo",
+        "content": "Israel voltou a bombardear a Faixa de Gaza nesta segunda-feira (9). A ofensiva ocorre dois dias ap\u00f3s o  o grupo armado Hamas lan\u00e7ar um ataque\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.agenciadanoticia.com.br/mato-grosso/noticia/124628/israel-diz-ter-retomado-controle-de-territorios-e-anuncia-bloqueio-a-gaza-sem-eletricidade-comida-e-combustivel",
+        "title": "Israel diz ter retomado controle de territ\u00f3rios e anuncia ...Ag\u00eancia da Not\u00edciahttps://www.agenciadanoticia.com.br \u203a ...",
+        "content": "Guerra no Oriente M\u00e9dio: Israel diz ter retomado controle de territ\u00f3rios e anuncia bloqueio a Gaza: 'sem eletricidade, comida e combust\u00edvel'. Da\u00a0...",
+        "size": [
+          920,
+          614
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://fontepb.com/israel-diz-ter-retomado-controle-de-territorios-e-anuncia-bloqueio-a-gaza/",
+        "title": "Israel diz ter retomado controle de territ\u00f3rios e anuncia ...FontePBhttps://fontepb.com \u203a israel-diz-ter-r...",
+        "content": "Vale destacar que ainda h\u00e1 conflito em regi\u00f5es espec\u00edficas de Gaza. O Hamas informou que quatro prisioneiros israelenses e seus sequestradores\u00a0...",
+        "size": [
+          984,
+          656
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailystar.co.uk/news/world-news/hamas-issues-ominous-hostage-execution-31147288",
+        "title": "Hamas issues ominous hostage execution warning in fresh ...Daily Starhttps://www.dailystar.co.uk \u203a News \u203a World News",
+        "content": "... Israeli civilian hostage any time Israel targets Gaza without warning. ... border and attacking Israeli cities on Saturday (October 7). In a\u00a0...",
+        "size": [
+          615,
+          410
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rnz.co.nz/news/world/499714/israeli-air-strikes-pound-gaza-as-death-toll-on-both-sides-climbs",
+        "title": "Israeli air strikes pound Gaza as death toll on both sides climbsRNZhttps://www.rnz.co.nz \u203a news \u203a world \u203a israeli-air-strik...",
+        "content": "The debris from Saturday's attack still lay around southern Israeli towns and border communities on Sunday morning and Israelis were reeling\u00a0...",
+        "size": [
+          1050,
+          656
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kyivindependent.com/wsj-irans-involvement-in-planning-an-attack-on-israel-spanned-several-weeks/",
+        "title": "WSJ: Iran's involvement in planning attack on Israel spanned ...The Kyiv Independenthttps://kyivindependent.com \u203a wsj-irans-involvement-i...",
+        "content": "Palestinians take control of an Israeli tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on Oct.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://blogdofinfa.com.br/2023/10/guerra-no-oriente-medio-israel-diz-que-retomou-areas-invadidas-pelo-hamas-e-anuncia-bloqueio-a-gaza.html",
+        "title": "Israel diz que retomou \u00e1reas invadidas pelo Hamas e anuncia ...Blog do Finfahttps://blogdofinfa.com.br \u203a 2023/10",
+        "content": "H\u00e1 dois dias, o grupo armado Hamas lan\u00e7ou um ataque contra o territ\u00f3rio israelense. Foguetes foram lan\u00e7ados a partir da Faixa de Gaza. g1\u00a0...",
+        "size": [
+          920,
+          614
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tl",
+        "link": "https://net25.com/news/38-pinoy-sa-israel-humiling-ng-repatriation-dfa",
+        "title": "38 PINOY SA ISRAEL HUMILING NG REPATRIATION \u2013DFANET25https://net25.com \u203a news \u203a 38-pino...",
+        "content": "... Gaza bagama't kumplikado ang proseso dahil sa sitwasyon ngayon. Ayon kay DFA spokesperson Ma. Teresita Daza, iniulat ng Embahada ng\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://defenceforumindia.com/threads/israel-hamas-gaza-conflict-oct-2023.83980/page-168",
+        "title": "Israel - Hamas Gaza Conflict Oct-2023 - Indian Defence ForumIndian Defence Forumhttps://defenceforumindia.com \u203a threads \u203a page-168",
+        "content": "",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tl",
+        "link": "https://net25.com/news/wembanyama-shines-for-spurs-in-pre-season-debut",
+        "title": "WEMBANYAMA SHINES FOR SPURS IN PRE-SEASON DEBUTNET25https://net25.com \u203a news \u203a wemban...",
+        "content": "DOMINICAN REPUBLIC PARTLY REOPENS HAITI BORDER \u00b7 HOLD DEPARTURE ORDER ... TECH FIRMS\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.france24.com/en/live-news/20231010-snipers-drones-bulldozers-gaza-border-guards-recount-hamas-attack",
+        "title": "Snipers, drones, bulldozers: Gaza border guards recount ...France 24https://www.france24.com \u203a France 24 \u203a Live news",
+        "content": "The massive attack at dawn Saturday came under cover of a rocket barrage aimed at Israel and involved sniper fire, explosives dropped from\u00a0...",
+        "size": [
+          2480,
+          1653
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://net25.com/news/russia-bids-for-un-rights-body-in-test-of-wartime-support",
+        "title": "RUSSIA BIDS FOR UN RIGHTS BODY IN TEST OF WARTIME ...NET25https://net25.com \u203a news \u203a russia-bids-for-un-rights-b...",
+        "content": "ISRAEL POUNDS GAZA AFTER HAMAS THREATENS HOSTAGES \u00b7 S. KOREA, US ... ISRAEL ACCUSED OF KILLING 3 HEZBOLLAH MEMBERS IN BORDER ESCALATION \u00b7 ROBERT\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rfi.fr/en/international-news/20231010-snipers-drones-bulldozers-gaza-border-guards-recount-hamas-attack",
+        "title": "Snipers, drones, bulldozers: Gaza border guards recount ... - RFIRFIhttps://www.rfi.fr \u203a RFI \u203a Live news",
+        "content": "Israel long thought its hi-tech security barrier blockading the Gaza Strip was impenetrable, brimming with razor wire, cameras and sensors\u00a0...",
+        "size": [
+          2480,
+          1653
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/why-did-israel-think-a-border-fence-would-protect-it-from-an-army-of-terrorists/",
+        "title": "Why did Israel think a border fence would protect it from an ...The Times of Israelhttps://www.timesofisrael.com \u203a why-did-israel-think-...",
+        "content": "It built a new and improved fence on the Israel-Gaza border. It ... Gaza border \u00b7 Hamas \u00b7 Gaza Strip \u00b7 Facebook \u00b7 Twitter \u00b7 linkedin \u00b7 email\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.al-monitor.com/originals/2023/10/snipers-drones-bulldozers-gaza-border-guards-recount-hamas-attack",
+        "title": "Snipers, drones, bulldozers: Gaza border guards recount ...Al-Monitorhttps://www.al-monitor.com \u203a originals \u203a 2023/10 \u203a s...",
+        "content": "Israel long thought its hi-tech security barrier blockading the Gaza Strip was impenetrable, brimming with razor wire, cameras and sensors\u00a0...",
+        "size": [
+          870,
+          579
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tl",
+        "link": "https://net25.com/news/wembanyama-shines-for-spurs-in-pre-season-debut",
+        "title": "WEMBANYAMA SHINES FOR SPURS IN PRE-SEASON DEBUTNET25https://net25.com \u203a news \u203a wemban...",
+        "content": "DOMINICAN REPUBLIC PARTLY REOPENS HAITI BORDER \u00b7 HOLD DEPARTURE ORDER ... TECH FIRMS\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://avax.news/fact/Palestinians_Daily_Life_Part_2_10-10-2023.html",
+        "title": "Palestinians Daily Life, Part 2/2 - AvaxNewsAvaxNewshttps://avax.news \u203a fact \u203a Palestinians_Daily_Life_Part...",
+        "content": "A Palestinian rides with the body of an Israeli killed by Hamas militants in a kibbutz near the Gaza Strip fence in Gaza City, Saturday,\u00a0...",
+        "size": [
+          639,
+          426
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wjr.com/2023/10/10/whitmer-draws-backlash-over-vague-post-about-israel-palestine-war/",
+        "title": "Whitmer Draws Backlash Over 'Vague' Post About Israel ...WJR-AMhttps://www.wjr.com \u203a 2023/10/10 \u203a whitmer-draws-b...",
+        "content": "... Gaza Strip in the southern Israeli city of Ashkelon, on October 7, 2023. Palestinian militants have begun a \u201cwar\u201d against Israel, the\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tl",
+        "link": "https://net25.com/news/wembanyama-shines-for-spurs-in-pre-season-debut",
+        "title": "WEMBANYAMA SHINES FOR SPURS IN PRE-SEASON DEBUTNET25https://net25.com \u203a news \u203a wemban...",
+        "content": "DOMINICAN REPUBLIC PARTLY REOPENS HAITI BORDER \u00b7 HOLD DEPARTURE ORDER ... TECH FIRMS\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.washingtonpost.com/photography/interactive/2023/hamas-unleashes-attack-israel/",
+        "title": "In photos: Israel strikes Gaza Strip as Hamas continues ...Washington Posthttps://www.washingtonpost.com \u203a interactive \u203a hamas...",
+        "content": "Photography \u00b7 Hamas militants from the Gaza Strip carried out an unprecedented, multifront attack on Israel this weekend, firing thousands of\u00a0...",
+        "size": [
+          1800,
+          1200
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.digitaljournal.com/world/snipers-drones-bulldozers-gaza-border-guards-recount-hamas-attack/article",
+        "title": "Snipers, drones, bulldozers: Gaza border guards recount ...Digital Journalhttps://www.digitaljournal.com \u203a World",
+        "content": "The massive attack at dawn Saturday came under cover of a rocket barrage aimed at Israel and involved sniper fire.",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abntv.com.ng/news/hamas-we-have-full-control-of-gaza-border-israeli-military/",
+        "title": "Hamas: We Have Full Control Of Gaza Border \u2013 Israeli Militaryabntv.com.nghttps://abntv.com.ng \u203a WORLD",
+        "content": "Richard Hecht, a spokesman for the Israel Defence Forces (IDF), said no militant had entered from the Gaza Strip since Monday night but that\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.fundelt.com/excelencia-liderazgo-transformacion/10044-2/",
+        "title": "Paso a paso del atroz ataque terrorista de Hamas contra IsraelFUNDELThttps://www.fundelt.com \u203a excelenc...",
+        "content": "Conferencia a cargo del historiador Eduardo Pati\u00f1o Guerrero. Tensi\u00f3n mundial y alerta por combates en la Franja de Gaza.",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/years-of-subterfuge-high-tech-barrier-paralyzed-how-hamas-busted-israels-defenses/",
+        "title": "Years of subterfuge, high-tech barrier paralyzed: How Hamas ...The Times of Israelhttps://www.timesofisrael.com \u203a years-of-subterfuge-h...",
+        "content": "Israel long thought the high-tech security barrier dividing it from the Gaza Strip \u2014 bristling with razor wire, cameras and sensors,\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gistafri.com/2023/10/11/over-260000-people-displaced-in-gaza-says-un/",
+        "title": "Over 260,000 people displaced in Gaza, says UN - GistAfri.comGistAfri.comhttps://gistafri.com \u203a Latest Gist",
+        "content": "... border fence with Israel from Khan Yunis in the southern Gaza Strip on October 7, 2023. - Barrages of rockets were fired at Israel from the Gaza\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://punchng.com/over-260000-people-displaced-in-gaza-says-un/",
+        "title": "Over 260,000 people displaced in Gaza, says UNPunch Newspapershttps://punchng.com \u203a over-260000-people-displaced-...",
+        "content": "The United Nations has said over 260000 people have been forced to flee their homes in the Gaza Strip, as heavy Israeli bombardments from t.",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kyivindependent.com/is-russia-involved-in-hamas-terrorist-attacks-on-israel/",
+        "title": "Is Russia involved in Hamas terrorist attacks on Israel?The Kyiv Independenthttps://kyivindependent.com \u203a is-russia-involved-in-ha...",
+        "content": "Hamas and Gaza. Hamas is a radical Islamist militant group in control of the Gaza Strip \u2013 one of the two parts of Palestinian territories, along\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.theleader.lk/security/6169-israel-s-intelligence-failure-and-the-hamas-attack-an-in-depth-analysis",
+        "title": "Israel's Intelligence Failure and the Hamas Attack: An In-Depth ...Lanka Leader.lkhttps://english.theleader.lk \u203a security \u203a 6169-israel-s-in...",
+        "content": "Palestinians take control of an Israeli tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip. (Photo\u00a0...",
+        "size": [
+          1050,
+          656
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foggymedia.in/blog/Gliders%20Carrying%20Terrorists%20Cross%20Border%20into%20Northern%20Israel:%20Initial%20Reports/",
+        "title": "Gliders Carrying Terrorists Cross Border into Northern IsraelFoggymediahttps://foggymedia.in \u203a blog",
+        "content": "Israeli security forces have swiftly mobilized to address the situation. The Israel Defense Forces (IDF) and intelligence agencies are\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://radionigeria.gov.ng/2023/10/11/over-260000-people-displaced-in-gaza-un/",
+        "title": "Over 260,000 people displaced in Gaza - UN - FRCN HQFRCN HQhttps://radionigeria.gov.ng \u203a Blog",
+        "content": "The United Nations says over 260000 people have been forced to flee their homes in the Gaza Strip, as Israeli continue to hit the\u00a0...",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gistafri.com/2023/10/11/over-260000-people-displaced-in-gaza-says-un/",
+        "title": "Over 260,000 people displaced in Gaza, says UN - GistAfri.comGistAfri.comhttps://gistafri.com \u203a Latest Gist",
+        "content": "... border fence with Israel from Khan Yunis in the southern Gaza Strip on October 7, 2023. - Barrages of rockets were fired at Israel from the Gaza\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nigeriaworldtoday.com/nigeria-news/over-260000-people-displaced-in-gaza-says-un/",
+        "title": "Over 260,000 people displaced in Gaza, says UNnigeriaworldtoday.comhttps://nigeriaworldtoday.com \u203a Nigeria News",
+        "content": "The United Nations has said over 260,000 people have been forced to flee their homes in the Gaza Strip ... Previous Post: \u00ab Israel pounds Gaza as\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nigeriaworldtoday.com/nigeria-news/over-260000-people-displaced-in-gaza-says-un-2/",
+        "title": "Over 260,000 people displaced in Gaza, says UNnigeriaworldtoday.comhttps://nigeriaworldtoday.com \u203a Nigeria News",
+        "content": "The United Nations has said over 260,000 people have been forced to flee their homes in the Gaza Strip, as heavy Israeli bombardments from the\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://historica.fandom.com/wiki/October_2023_Israel-Syria_exchanges",
+        "title": "October 2023 Israel-Syria exchanges | Historica Wiki - FandomFandomhttps://historica.fandom.com \u203a wiki \u203a October_2023_I...",
+        "content": "... Israel's war on Hamas in the Gaza Strip. The clashes occurred as the United States warned other regional powers - including Iran, Syria, and\u00a0...",
+        "size": [
+          386,
+          259
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://agenciaajn.com/noticia/el-lider-de-hamas-afirmo-que-1-200-miembros-de-las-brigadas-al-qassam-entraron-en-israel-durante-el-ataque-del-sabado-223307",
+        "title": "El l\u00edder de Ham\u00e1s afirm\u00f3 que 1.200 miembros de las Brigadas ...- AJN Agencia de Noticiashttps://agenciaajn.com \u203a noticia \u203a el...",
+        "content": "Arouri destac\u00f3 que Ham\u00e1s fue capaz de tomar el cuartel general de la divisi\u00f3n de Gaza de las Fuerzas de Defensa de Israel (IDF) en menos de tres\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://kumparan.com/kumparannews/israel-takkan-pasok-air-and-makanan-ke-gaza-hingga-sandera-dibebaskan-21Mj5IODxGO",
+        "title": "Israel Takkan Pasok Air & Makanan ke Gaza hingga Sandera ...kumparanhttps://kumparan.com \u203a kumparann...",
+        "content": "Menteri Energi Israel, Israel Katz, bertekad tidak akan mengizinkan pasokan kebutuhan pokok dan bantuan kemanusiaan masuk ke Jalur Gaza\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hoodcommunist.org/2023/10/12/palestine-fights-back/",
+        "title": "Palestine fights back! - Hood CommunistHood Communisthttps://hoodcommunist.org \u203a 2023/10/12 \u203a palestine-fi...",
+        "content": "Israel declared war on Palestine in 1948 when over 750000 ... The over 2 million Palestinians living in Gaza effectively live in an open air\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hoodcommunist.org/2023/10/12/palestine-fights-back/",
+        "title": "Palestine fights back! - Hood CommunistHood Communisthttps://hoodcommunist.org \u203a 2023/10/12 \u203a palestine-fi...",
+        "content": "Israel declared war on Palestine in 1948 when over 750000 ... The over 2 million Palestinians living in Gaza effectively live in an open air\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailystar.co.uk/news/world-news/russian-wagner-groups-hands-all-31180956",
+        "title": "Russian Wagner group's hands are 'all over Hamas attack on ...Daily Starhttps://www.dailystar.co.uk \u203a News \u203a World News",
+        "content": "... Gaza and participated in the training of terrorists to prepare the absolutely barbaric attack on Israel from the Gaza strip.\u201d Promoted\u00a0...",
+        "size": [
+          615,
+          410
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://totalnewsagency.com/2023/10/14/entenda-como-foi-o-ataque-terrorista-do-hamas-em-israel-no-7-de-outubro/",
+        "title": "Entenda como foi o ataque terrorista do Hamas em Israel no 7 ...TotalNews Agencyhttps://totalnewsagency.com \u203a enten...",
+        "content": "A fronteira entre Israel e a Faixa de Gaza foi criada ap\u00f3s a Guerra \u00c1rabe-Israelense de 1948 e se manteve praticamente intacta desde ent\u00e3o.",
+        "size": [
+          2400,
+          1600
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ft.com/content/2f826acb-c1d2-4144-a9cc-73d008a727a3",
+        "title": "Hamas war tarnishes Netanyahu's image as Israel's defenderFinancial Timeshttps://www.ft.com \u203a ... \u203a Middle East & North Africa",
+        "content": "Palestinians take control of an Israeli tank after crossing the border fence with Israel ... An Israeli soldier operates in the Gaza Strip.",
+        "size": [
+          700,
+          467
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foggymedia.in/blog/Israeli%20Defense%20Turret%20Engages%20Hamas%20Terrorists%20in%20Gaza%20Border%20Attack/",
+        "title": "Israeli Defense Turret Engages Hamas Terrorists in Gaza ...Foggymediahttps://foggymedia.in \u203a blog",
+        "content": "The border between Israel and the Gaza Strip has been a hotbed of tensions and conflicts for years. Hamas, a Palestinian militant group, has\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://ziare.com/israel/israel-asalt-fasia-gaza-1830699",
+        "title": "Israelul preg\u0103te\u0219te marele asalt asupra F\u00e2\u0219iei Gaza. ''S\u0103-i ...Ziare.comhttps://ziare.com \u203a Israel",
+        "content": "#Israel, #asalt, #Israel Hamas Gaza , #Israel Fasia Gaza. Comentarii. Poza cristian_nicu. cristian_nicu. rank 1. sa vezi cum vor dansa\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://kumparan.com/kumparannews/ppi-dunia-desak-ri-lebih-proaktif-sikapi-konflik-israel-dan-palestina-21Npr0pQr4t",
+        "title": "PPI Dunia Desak RI Lebih Proaktif Sikapi Konflik Israel dan ...kumparanhttps://kumparan.com \u203a kumparann...",
+        "content": "... Israel serta pengepungan total yang dilakukan di Jalur Gaza. Menurut PPI ... Gaza yang terancam terisolasi karena kepungan tentara zionis Israel.",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.slobodenpecat.mk/en/izrael-ubi-komandant-na-hamas-vo-gaza-eliminiran-teroristot-koj-stoeshe-zad-strashniot-napad-na-kibucot/",
+        "title": "Israel killed a Hamas commander in Gaza: The terrorist who ...\u0421\u043b\u043e\u0431\u043e\u0434\u0435\u043d \u043f\u0435\u0447\u0430\u0442https://www.slobodenpecat.mk \u203a izrael-ubi-komandant...",
+        "content": "... Gaza Strip last night. The military said al-Qedra was behind the massacre of dozens of innocent Israelis when Hamas terrorists stormed the\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www1.folha.uol.com.br/mundo/2023/10/paises-sul-americanos-pedem-carona-da-fab-para-repatriar-cidadaos-em-israel.shtml",
+        "title": "Israel: Pa\u00edses sul-americanos pedem a Brasil carona da FABFolha de S.Paulohttps://www1.folha.uol.com.br \u203a pai...",
+        "content": "... Gaza. O governo de Israel negou nesta segunda-feira (16) ter firmado um cessar-fogo tempor\u00e1rio com o grupo terrorista Hamas para a retirada\u00a0...",
+        "size": [
+          320,
+          213
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gistafri.com/2023/10/16/israeli-hamas-pope-china-uk-demand-end-to-civilian-casualties/",
+        "title": "Israeli-Hamas: Pope, China, UK demand end to civilian ...GistAfri.comhttps://gistafri.com \u203a Latest Gist",
+        "content": "... Israel from Khan Yunis in the southern Gaza Strip on October 7, 2023. - Barrages of rockets were fired at Israel from the Gaza Strip at dawn\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedefensepost.com/2023/10/16/israel-expanding-armed-civilian-response/",
+        "title": "Israel Expanding Armed Civilian Response Groups to CitiesThe Defense Posthttps://www.thedefensepost.com \u203a Middle East",
+        "content": "Israeli border communities have for years maintained such units ... Airobotics Revamps Counter-Drone Solution for Israel's Gaza Offensive.",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gistafri.com/2023/10/16/israel-hamas-deny-reports-of-temporary-ceasefire/",
+        "title": "Israel, Hamas deny reports of temporary ceasefire - GistAfri.comGistAfri.comhttps://gistafri.com \u203a Latest Gist",
+        "content": "... border fence with Israel from Khan Yunis in the southern Gaza Strip on October 7, 2023. - Barrages of rockets were fired at Israel from the Gaza\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/hamas-terrorist-video-fatal-shooting-wounded-israeli-soldiers",
+        "title": "Hamas Video Captures Fatal Shooting of Wounded Israeli ...The Messengerhttps://themessenger.com \u203a news \u203a hamas-terrorist-vid...",
+        "content": "... Israel.\" The video emerged as the world waited Monday for a likely ground invasion of the Gaza Strip. Israel's extensive bombing campaign of\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www1.folha.uol.com.br/mercado/2023/10/como-as-criptomoedas-impulsionaram-ataque-do-hamas-a-israel.shtml",
+        "title": "Como criptomoedas impulsionaram ataque do Hamas a IsraelFolha de S.Paulohttps://www1.folha.uol.com.br \u203a co...",
+        "content": "H\u00e1 anos, o Iron Dome tem sido bastante eficaz em repelir ataques a\u00e9reos do Hamas \u2014grupo radical isl\u00e2mico que governa Gaza desde 2007 e \u00e9\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/israeli-soldier-plays-piano-terrorist-attack",
+        "title": "Intense Video Shows Israeli Soldier Playing National Anthem ...themessenger.comhttps://themessenger.com \u203a news \u203a israeli-soldier-plays...",
+        "content": "... Gaza Beach, Sing National Anthem in Newly Released Video \u00b7 Satellite ... Strip. Bellagio behind barriers at the Las Vegas Grand Prix \u00b7 Politics.",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www1.folha.uol.com.br/mundo/2023/10/veto-a-resolucao-brasileira-na-onu-expoe-hipocrisia-dos-eua-diz-ativista-palestino.shtml",
+        "title": "Israel: Veto dos EUA torna pa\u00eds hip\u00f3crita, diz palestino - MundoFolha de S.Paulohttps://www1.folha.uol.com.br \u203a vet...",
+        "content": "\"Os EUA querem garantir que o apoio humanit\u00e1rio a Gaza venha por meio de um alinhamento americano e israelense, n\u00e3o pela ONU.\" A avalia\u00e7\u00e3o \u00e9\u00a0...",
+        "size": [
+          320,
+          213
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mediapart.fr/en/journal/international/251023/moral-issue-behind-israel-palestine-conflict",
+        "title": "The moral issue behind the Israel-Palestine conflict | MediapartMediaparthttps://www.mediapart.fr \u203a journal \u203a international \u203a mora...",
+        "content": "... Israeli strike on Khan Younis in the Gaza Strip, October 14th 2023. ... Israel, close to the border with Gaza, October 14th 2023. \u00a9 Photo\u00a0...",
+        "size": [
+          684,
+          456
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://historica.fandom.com/wiki/2023_Israeli_invasion_of_the_Gaza_Strip",
+        "title": "2023 Israeli invasion of the Gaza Strip | Historica Wiki - FandomHistorica Wikihttps://historica.fandom.com \u203a wiki \u203a 2023_Israeli_in...",
+        "content": "The 2023 Israeli ground offensive in the Gaza Strip was a military offensive undertaken by the Israel Defense Forces against the Hamas-ruled\u00a0...",
+        "size": [
+          386,
+          259
+        ],
+        "date": "2023:10:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/video-shows-israeli-military-vehicle-drag-body-of-hamas-terrorist-through-dirt",
+        "title": "Video Shows Israeli Military Vehicle Drag Body of Hamas ...The Messengerhttps://themessenger.com \u203a news \u203a video-shows-israeli...",
+        "content": "On Wednesday, Israel said navy forces killed two Hamas militants after they \"exited through a tunnel shaft on the beach in the Gaza Strip\" and \"\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.mediapart.fr/es/journal/international/311023/israel-palestina-la-cuestion-moral",
+        "title": "Israel-Palestina: la cuesti\u00f3n moral - MediapartMediaparthttps://www.mediapart.fr \u203a journal",
+        "content": "... Gaza en Rehovot, Israel, el 13 de octubre de 2023. \u00a9 Foto Dor Kedmi / AP v\u00eda Sipa. \"Todos los seres humanos nacen libres e iguales en\u00a0...",
+        "size": [
+          684,
+          456
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://politics.stackexchange.com/questions/82369/how-easy-would-it-be-to-distinguish-between-hamas-fighters-and-non-combatants",
+        "title": "How easy would it be to distinguish between Hamas fighters ...Politics Stack Exchangehttps://politics.stackexchange.com \u203a questions \u203a how-e...",
+        "content": "The Gaza Strip is one concentrated area in the south-west where displaced Palestinians were pushed. It's surrounded by barbed wire, the coast is\u00a0...",
+        "size": [
+          1104,
+          738
+        ],
+        "date": "2023:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.israelhayom.com/2023/11/09/did-hamas-alert-foreign-outlets-before-oct-7-horrors-israelis-outraged-after-media-watchdogs-report/",
+        "title": "Did Hamas give foreign media heads-up? Outrage after report ...Israel Hayomhttps://www.israelhayom.com \u203a Media",
+        "content": "Video: Terrorists enter border towns near Gaza / Credit ... Israel and more than 45 minutes after Israel said gunmen had crossed the border.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:11:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.fundelt.com/excelencia-liderazgo-transformacion/las-leyes-de-la-guerra-son-limitadas-que-significa-eso-para-el-conflicto-israel-hamas/",
+        "title": "Las leyes de la guerra son limitadas. \u00bfQu\u00e9 significa eso para ...FUNDELThttps://www.fundelt.com \u203a las-leyes...",
+        "content": "Publicaron una declaraci\u00f3n en la que afirmaban que los \u201cataques militares indiscriminados de Israel contra la poblaci\u00f3n de Gaza\u201d equivalen a un\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:11:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.scottritterextra.com/p/the-october-7-hamas-assault-on-israel",
+        "title": "The October 7 Hamas Assault on Israel - Scott Ritter ExtraScott Ritter Extrahttps://www.scottritterextra.com \u203a the-october-7-hamas-a...",
+        "content": "This scene was repeated in other Kibbutzes along the Gaza barrier system. The Israeli government treats the Kibbutz as being purely civilian,\u00a0...",
+        "size": [
+          734,
+          490
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lebenshilfswerk-waren.de/extLink/http:/ar.inspiredpencil.com/pictures-2023/old-palestinian-fighters",
+        "title": "Old Palestinian Fighters - Lebenshilfswerk WarenLebenshilfswerk Warenhttps://www.lebenshilfswerk-waren.de \u203a pictures-2023",
+        "content": "Power out in Gaza as Israel tightens siege and bombs the Palestinian territory : NPR ... Gaza Strip. US Weapons from Afghanistan Ended Up in\u00a0...",
+        "size": [
+          2600,
+          1733
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lebenshilfswerk-waren.de/extLink/http:/ar.inspiredpencil.com/pictures-2023/old-palestinian-fighters",
+        "title": "Old Palestinian Fighters - Lebenshilfswerk WarenLebenshilfswerk Warenhttps://www.lebenshilfswerk-waren.de \u203a pictures-2023",
+        "content": "Power out in Gaza as Israel tightens siege and bombs the Palestinian territory : NPR ... Gaza Strip. US Weapons from Afghanistan Ended Up in\u00a0...",
+        "size": [
+          2600,
+          1733
+        ],
+        "date": "2023:11:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.globalresearch.ca/october-7-hamas-assault-israel/5840022",
+        "title": "The October 7 Hamas Assault on Israel. Scott RitterGlobal Researchhttps://www.globalresearch.ca \u203a october-7-hamas-assa...",
+        "content": "This scene was repeated in other Kibbutzes along the Gaza barrier system. The Israeli government treats the Kibbutz as being purely civilian,\u00a0...",
+        "size": [
+          734,
+          490
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/israel-palestine-border",
+        "title": "72924 Israel Palestine Border Stock Photos & High-Res PicturesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a israel-palestin...",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic Israel Palestine Border stock photos, royalty-free images, and pictures.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cufi.org/issues/page/6/?sm_guid=NDc2MzEzfDQxMjI5OTM0fC0xfGFtYW5kYS5oZXJuYW5kZXpAY3VmaS5vcmd8NDg2Mjc3MHx8MHwwfDE4NDIxMDcxMXwxMDQ0fDB8MHx8NDYzOTkxfDA1",
+        "title": "Key Issues | Christians United for IsraelChristians United for Israelhttps://cufi.org \u203a Issues",
+        "content": "Air-raid sirens blared across northern Israel on Friday as Hamas terrorists in the Gaza Strip fired a long-range rocket at the Galilee, the Israel Defense\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.ahram.org.eg/NewsContentMulti/509739/Multimedia.aspx",
+        "title": "Hamas launches unprecedented attack on Israel - MultimediaAhram Onlinehttps://english.ahram.org.eg \u203a NewsContentMulti \u203a M...",
+        "content": "Palestinians transport a captured Israeli civilian, center, from Kibbutz Kfar Azza into the Gaza Strip on Saturday, Oct. 7, 2023. The militant Hamas rulers\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ae/photos/khan-younis",
+        "title": "36,126 Khan Younis Photos & High Res Pictures - Getty ImagesGetty Imageshttps://www.gettyimages.ae \u203a photos \u203a khan-younis",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ie/photos/israel-tank",
+        "title": "8920 Israel Tank Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.ie \u203a photos \u203a israel-tank",
+        "content": "An Israeli tank drives toward the Israeli southern border with the Gaza Strip on October 9, 2023 near Sderot, Israel. On October 7, the Palestinian...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.uk/photos/merkava-tank",
+        "title": "1121 Merkava Tank Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.co.uk \u203a photos \u203a merkava-tank",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ie/photos/israeli-tank",
+        "title": "10030 Israeli Tank Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.ie \u203a photos \u203a israeli-tank",
+        "content": "Israeli soldiers on a tank move near Gaza border as Israeli ... Israeli Merkava battle tank units regroup near the border of Gaza, in the southern part of Israel,\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ca/photos/khan-younis",
+        "title": "39,954 Khan Younis Photos & High Res Pictures - Getty ImagesGetty Imageshttps://www.gettyimages.ca \u203a photos \u203a khan-younis",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.se/fotografier/khan-younis-southern-gaza-strip",
+        "title": "Khan Younis Southern Gaza Strip Bildbanksfoton och bilderGettyhttps://www.gettyimages.se \u203a fotografier \u203a khan-youni...",
+        "content": "View of buildings that were destroyed during Israeli air raids in the southern Gaza Strip on October 25, 2023 in Khan Yunis, Gaza. Heading into a.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/ulrichspeck/status/1711801057364349003",
+        "title": "Ulrich Speck on X: \"\"Why did Israel think a border fence would ...Twitter\u00a0\u00b7\u00a0ulrichspeck20+ likes  \u00b7  1 month ago",
+        "content": "\"Why did Israel think a border fence would protect it from an army of terrorists?\" Interesting read. timesofisrael.com. 5:49 PM \u00b7 Oct 10\u00a0...",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.bharatexpress.com/web-stories/what-is-happening-in-israel",
+        "title": "What is happening in Israel: Situation explained In 11 pointsBharat Express Hindihttps://english.bharatexpress.com \u203a Stories",
+        "content": "Israel declared war, as it blasted the Gaza Strip with bombs on Sunday in reaction for a sizable surprise offensive by Hamas. 000_1F23Z6-1-1024x640.",
+        "size": [
+          1050,
+          656
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foggymedia.in/blog/Israeli%20Defense%20Force%20Ready%20to%20Fight%20on%20Multiple%20Fronts/",
+        "title": "Israeli Defense Force Ready to Fight on Multiple FrontsFoggymediahttps://foggymedia.in \u203a blog",
+        "content": "Israeli Defense Turret Engages Hamas Terrorists in Gaza Border Attack. OSINTdefender. Oct. 15, 2023, 10:55 p.m. \u00b7 5 min read. BLACKPINK Shatters Spotify\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com.au/photos/khan-younis",
+        "title": "40,418 Khan Younis Photos & High Res Pictures - Getty ImagesGetty Imageshttps://www.gettyimages.com.au \u203a photos \u203a khan-younis",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.in/photos/khan-younis",
+        "title": "36,954 Khan Younis Photos & High Res Pictures - Getty ImagesGetty Imageshttps://www.gettyimages.in \u203a photos \u203a khan-younis",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://historica.fandom.com/wiki/Hamas",
+        "title": "Hamas | Historica WikiHistorica Wikihttps://historica.fandom.com \u203a wiki \u203a Hamas",
+        "content": "Hamas was headquartered in the Gaza Strip, and it was hostile to both Israel and the Palestine Liberation Organization. Starting in the First Intifada, Hamas\u00a0...",
+        "size": [
+          386,
+          259
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.israelhayom.com/category/media/",
+        "title": "Media - Israel HayomIsrael Hayomhttps://www.israelhayom.com \u203a Category",
+        "content": "Palestinian Authority & Gaza Strip \u00b7 Iran & The Gulf \u00b7 Startup Nation \u00b7 Science ... NYT cuts Gaza stringer loose for urging murder of Israelis. By ILH Staff.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.primebusiness.africa/gaza-israel-crisis-over-260000-displaced-un/",
+        "title": "Gaza- Israel Crisis: Over 260,000 Displaced- UNPrime Business Africahttps://www.primebusiness.africa \u203a gaza-israel-crisis-o...",
+        "content": "The United Nations (UN) has reported that over 260,000 people have been compelled to flee their homes in the beleaguered Gaza Strip, as relentless Israeli\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foggymedia.in/blog/Nora%20Fatehi%20Appears%20in%20Patiala%20House%20Court%20in%20Connection%20with%20Rs%20200%20Crore%20Money%20Laundering%20Case/",
+        "title": "Nora Fatehi Appears in Patiala House Court in Connection ...Foggymediahttps://foggymedia.in \u203a blog",
+        "content": "Israeli Defense Turret Engages Hamas Terrorists in Gaza Border Attack. OSINTdefender. Oct. 15, 2023, 10:55 p.m. \u00b7 5 min read. BLACKPINK Shatters Spotify\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cufi.org/issue/hamas-carried-out-years-long-campaign-to-fool-israel-before-attack-source-says/",
+        "title": "Hamas carried out years-long campaign to fool Israel before ...Christians United for Israelhttps://cufi.org \u203a issue \u203a hamas-carried-out-years-long...",
+        "content": "... Gaza \u00b7 In The News. Hamas carried out years-long campaign to fool Israel before attack, source says. Hamas conducted a years-long campaign to fool Israel into\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kerrisalls.solopreneur-blueprint.com/?s=palestinian-resistance-in-gaza-launches-unprecedented-surprise-attack-on-ee-JmO9ZKIN",
+        "title": "Palestinian Resistance In Gaza Launches Unprecedented, 48 ...solopreneur-blueprint.comhttps://www.kerrisalls.solopreneur-blueprint.com \u203a ...",
+        "content": "Palestinian resistance in Gaza launches unprecedented surprise attack on Israel \u2013 Mondoweiss, If you& 39ve ever lusted for a.",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.scottritterextra.com/",
+        "title": "Scott Ritter Extra | Jeff Norman | SubstackScott Ritter Extrahttps://www.scottritterextra.com",
+        "content": "So far, the Palestinian civilians of Gaza have lost 12,000 civilians killed in the effort led by Hamas to militarily defeat their Israeli occupiers. That price\u00a0...",
+        "size": [
+          734,
+          490
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/what-is-a-surprise-military-attack-called",
+        "title": "What Is A Surprise Military Attack Called Gallery - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a what-is-a-s...",
+        "content": "Hamas Attack Raises Questions Over an Israeli Intelligence ... Israel calls for siege of Gaza as it masses troops at border ... More \u00b7 Surprise and Shock in\u00a0...",
+        "size": [
+          2600,
+          1733
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/how-many-tanks-in-israel-army",
+        "title": "How Many Tanks In Israel Army Gallery - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a how-many-...",
+        "content": "In pictures: Israeli forces mass on Gaza border - October 13 ... US Army chooses Israeli system to protect the lives of tank ... A Reflexive Act of Military\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bizcreditandmediasolutions.com/?o=palestinian-resistance-in-gaza-launches-unprecedented-surprise-attack-on-gg-A9OeMPUk",
+        "title": "Palestinian resistance in Gaza launches unprecedented ... - BIZbizcreditandmediasolutions.comhttps://bizcreditandmediasolutions.com \u203a 07 attack",
+        "content": "Palestinian resistance in Gaza launches unprecedented surprise attack on Israel \u2013 Mondoweiss, The lipstick of your fantasies is finally Get ready to applaud\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://brandtree.pe/?y=israel-at-war-after-hamas-attack-on-simchat-torah-oo-RmPWNRSN",
+        "title": "Israel At War After Hamas Attack On Simchat Torah Chicago ...Brandtree Grouphttp://brandtree.pe \u203a as-23-2s",
+        "content": "Israel moves into Gaza on eve of peace talks. New ORIGINAL Caterpillar ... Grim prospects if Israel launches ground assault on Gaza Times of India. TOOLCRAFT\u00a0...",
+        "size": [
+          2600,
+          1733
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://pfmrs.org.uk/?m=analysis-why-did-hamas-attack-now-and-what-is-aa-ZODO5xtm",
+        "title": "Analysis: Why did Hamas attack now and what is next? Israel ...Pendle Forest Model Railway Societyhttp://pfmrs.org.uk \u203a ...",
+        "content": "Israel-Palestine conflict. How Israel-Hamas War Could Play Out From Here, Will Israel Mount Daring Rescue Operation To Free Hostages In Gaza? Analysis: Why\u00a0...",
+        "size": [
+          1050,
+          656
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bizcreditandmediasolutions.com/?o=palestinian-resistance-in-gaza-launches-unprecedented-surprise-attack-on-gg-A9OeMPUk",
+        "title": "Palestinian resistance in Gaza launches unprecedented ... - BIZbizcreditandmediasolutions.comhttps://bizcreditandmediasolutions.com \u203a 07 attack",
+        "content": "Palestinian resistance in Gaza launches unprecedented surprise attack on Israel \u2013 Mondoweiss, The lipstick of your fantasies is finally Get ready to applaud\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hoodcommunist.org/tag/zionism/",
+        "title": "zionism Archives - Hood CommunistHood Communisthttps://hoodcommunist.org \u203a tag \u203a zionism",
+        "content": "... israel, national liberation, palestine, Settler Left, Settler-Colonialism ... The over 2 million Palestinians living in Gaza effectively live in an open air\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.gettyimages.se/fotografier/gaza-tank",
+        "title": "5 613 bilder, fotografier och illustrationer med Gaza TankGettyhttps://www.gettyimages.se \u203a gaza-t...",
+        "content": "Bl\u00e4ddra bland 5 613 gaza tank foton och bilder eller g\u00f6r en ny s\u00f6kning f\u00f6r att utforska fler foton och bilder. Israeli Merkava battle tank units regroup\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.pt/fotos/khan-younis",
+        "title": "40.104 fotografias e imagens de Khan Younis - Getty ImagesGettyhttps://www.gettyimages.pt \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.at/fotos/gaza-strip-khan-yunes",
+        "title": "21.437 Gaza Strip Khan Yunes Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.at \u203a fotos",
+        "content": "Finden Sie Stock-Fotos zum Thema Gaza Strip Khan Yunes sowie redaktionelle Newsbilder von Getty Images. W\u00e4hlen Sie aus 21.437 erstklassigen Inhalten zum\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/khan-younis",
+        "title": "40.549 fotos de stock e banco de imagens de Khan YounisGetty Imageshttps://www.gettyimages.com.br \u203a k...",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/khan-younis",
+        "title": "40.751 foto e immagini di Khan Younis - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a khan-y...",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.be/fotos/khan-younis",
+        "title": "40.551 foto's en beelden met Khan Younis - Getty ImagesGetty Imageshttps://www.gettyimages.be \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.at/fotos/khan-younis",
+        "title": "38.518 Khan Younis Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.at \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/tank?page=18",
+        "title": "161.674 foto e immagini di Tank - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a tank",
+        "content": "... Israel continues to deploy soldiers, tanks and armored vehicles near the Gaza border in Sderot, Israel on October 24, 2023.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.ch/fotos/gaza-strip-khan-yunes",
+        "title": "21.894 Gaza Strip Khan Yunes Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.ch \u203a fotos",
+        "content": "Finden Sie Stock-Fotos zum Thema Gaza Strip Khan Yunes sowie redaktionelle Newsbilder von Getty Images. W\u00e4hlen Sie aus 21.894 erstklassigen Inhalten zum\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/fotos/khan-younis",
+        "title": "40.727 foto's en beelden met Khan Younis - Getty ImagesGetty Imageshttps://www.gettyimages.nl \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/israel-palestine-border",
+        "title": "69.547 fotos e im\u00e1genes de Israel Palestine BorderGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/fronteira-israel-gaza",
+        "title": "53.419 fotos de stock e banco de imagens de Fronteira Israel ...Getty Imageshttps://www.gettyimages.com.br \u203a f...",
+        "content": "Encontre fotos de stock e imagens editoriais de not\u00edcias de Fronteira Israel Gaza na Getty Images. Escolha entre 53.419 fotos premium de Fronteira Israel\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.gettyimages.se/fotografier/israel-gaza-border",
+        "title": "65 299 bilder, fotografier och illustrationer med Israel Gaza ...Gettyhttps://www.gettyimages.se \u203a israel-...",
+        "content": "Hitta Israel Gaza Border bildbanksfoto och redaktionellt nyhetsbildmaterial hos Getty Images. V\u00e4lj mellan 65 299 premium Israel Gaza Border av h\u00f6gsta\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/israel-palestine-border",
+        "title": "70.282 foto e immagini di Israel Palestine Border - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a israel-p...",
+        "content": "Sfoglia 70.282 israel palestine border fotografie e immagini disponibili, o avvia una nuova ricerca per trovare altre fotografie e immagini.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.gettyimages.se/fotografier/israel-palestine-border",
+        "title": "Bl\u00e4ddra bland 68 465 israel palestine border foton och bilder ...Gettyhttps://www.gettyimages.se \u203a israel-...",
+        "content": "Hitta Israel Palestine Border bildbanksfoto och redaktionellt nyhetsbildmaterial hos Getty Images. V\u00e4lj mellan 68 465 premium Israel Palestine Border av\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/an-israeli-merkava",
+        "title": "1.219 foto e immagini di An Israeli Merkava - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a an-isra...",
+        "content": "An Israeli army soldier sits in the back of a Merkava tank near the border with the Gaza Strip in southern Israel on October 9, 2023. Israel...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/khan-yunes",
+        "title": "33.244 fotos e im\u00e1genes de Khan Yunes - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/khan-younis",
+        "title": "40.426 fotos e im\u00e1genes de Khan Younis - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/khan-younis",
+        "title": "40.426 fotos e im\u00e1genes de Khan Younis - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.gettyimages.se/fotografier/gaza-tank",
+        "title": "5 613 bilder, fotografier och illustrationer med Gaza TankGettyhttps://www.gettyimages.se \u203a gaza-t...",
+        "content": "Bl\u00e4ddra bland 5 613 gaza tank foton och bilder eller g\u00f6r en ny s\u00f6kning f\u00f6r att utforska fler foton och bilder. Israeli Merkava battle tank units regroup\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.at/fotos/israeli-tanks",
+        "title": "15.003 Israeli Tanks Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.at \u203a fotos",
+        "content": "... Israeli tank as smoke rises near Israel-Gaza border in... Israel\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.pt/fotos/khan-younis",
+        "title": "40.104 fotografias e imagens de Khan Younis - Getty ImagesGettyhttps://www.gettyimages.pt \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.at/fotos/gaza-strip-khan-yunes",
+        "title": "21.437 Gaza Strip Khan Yunes Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.at \u203a fotos",
+        "content": "Finden Sie Stock-Fotos zum Thema Gaza Strip Khan Yunes sowie redaktionelle Newsbilder von Getty Images. W\u00e4hlen Sie aus 21.437 erstklassigen Inhalten zum\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/khan-younis",
+        "title": "40.549 fotos de stock e banco de imagens de Khan YounisGetty Imageshttps://www.gettyimages.com.br \u203a k...",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/khan-younis",
+        "title": "40.751 foto e immagini di Khan Younis - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a khan-y...",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.be/fotos/khan-younis",
+        "title": "40.551 foto's en beelden met Khan Younis - Getty ImagesGetty Imageshttps://www.gettyimages.be \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.at/fotos/khan-younis",
+        "title": "38.518 Khan Younis Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.at \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/tank?page=18",
+        "title": "161.674 foto e immagini di Tank - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a tank",
+        "content": "... Israel continues to deploy soldiers, tanks and armored vehicles near the Gaza border in Sderot, Israel on October 24, 2023.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.de/fotos/khan-younis",
+        "title": "34.324 Khan Younis Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.de \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://search.folha.uol.com.br/search?q=turquia&site=online",
+        "title": "Busca: turquia - Folha de S.PauloUOLhttps://search.folha.uol.com.br \u203a sea...",
+        "content": "A view shows the site of Israeli strikes on houses in the central Gaza Strip ... (FOCUS)LEBANON-ISRAEL-BORDER-TENSION. L\u00edder do Ir\u00e3 pede rea\u00e7\u00e3o contra Israel\u00a0...",
+        "size": [
+          320,
+          213
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/fotos/khan-younis",
+        "title": "40.727 foto's en beelden met Khan Younis - Getty ImagesGetty Imageshttps://www.gettyimages.nl \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.ch/fotos/khan-yunes",
+        "title": "30.375 Khan Yunes Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.ch \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.de/fotos/gaza-strip-khan-yunes",
+        "title": "22.041 Gaza Strip Khan Yunes Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.de \u203a fotos",
+        "content": "Finden Sie Stock-Fotos zum Thema Gaza Strip Khan Yunes sowie redaktionelle Newsbilder von Getty Images. W\u00e4hlen Sie aus 22.041 erstklassigen Inhalten zum\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.ch/fotos/khan-younis",
+        "title": "38.498 Khan Younis Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.ch \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.de/fotos/khan-younis",
+        "title": "34.324 Khan Younis Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.de \u203a fotos",
+        "content": "Palestinians take control of an Israeli Merkava battle tank after crossing the border fence with Israel from Khan Yunis in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://m.digisport.ro/galerie-foto/1/fotbal/fotbal-international/oficial-meciul-israel-elvetia-amanat-cum-arata-situatia-in-grupa-romaniei-2617795",
+        "title": "Meciul Israel - Elve\u021bia, am\u00e2nat! Cum arat\u0103 situa\u021bia \u00een grupa ...Digi Sporthttps://m.digisport.ro \u203a fotbal \u203a ofic...",
+        "content": "ISRAEL BORDER LEBANON CONFLICT Imaginile r\u0103zboiului din Israel \u0219i Gaza / Foto: Profimedia Israel-Gaza Conflict, Palestine - 07 Oct 2023 Rockets are fired\u00a0...",
+        "size": [
+          800,
+          532
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.digisport.ro/galerie-foto/1/special/a-fost-ucis-de-teroristi-la-petrecere-fost-fotbalist-important-mort-in-israel-foto-imaginile-razboiului-2617037",
+        "title": "GALERIE FOTO: \u201dA fost ucis de terori\u0219ti la ... - Digi SportDigi Sporthttps://www.digisport.ro \u203a special",
+        "content": "ISRAEL BORDER LEBANON CONFLICT Imaginile r\u0103zboiului din Israel \u0219i Gaza / Foto: Profimedia ... Israeli continue airstrikes in Gaza Imaginile r\u0103zboiului din Israel\u00a0...",
+        "size": [
+          800,
+          532
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.digisport.ro/galerie-foto/1/fotbal/fotbal-international/oficial-tara-care-va-gazdui-meciurile-palestinei-din-calificarile-pentru-cm-2026-vom-acoperi-toate-costurile-2627319",
+        "title": "\u021aara care va g\u0103zdui meciurile Palestinei din calific\u0103rile pentru ...Digi Sporthttps://www.digisport.ro \u203a fotbal",
+        "content": "ISRAEL BORDER LEBANON CONFLICT Imaginile r\u0103zboiului din Israel \u0219i Gaza / Foto: Profimedia ... Israeli continue airstrikes in Gaza Imaginile r\u0103zboiului din Israel\u00a0...",
+        "size": [
+          800,
+          532
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.digisport.ro/galerie-foto/1/fotbal/fotbal-international/oficial-out-clubul-israelian-a-luat-decizia-si-a-anuntat-uefa-sunt-lucruri-mai-importante-decat-fotbalul-2632735",
+        "title": "OUT! Clubul israelian a luat decizia \u0219i a anun\u021bat UEFA: \u201dSunt ...Digi Sporthttps://www.digisport.ro \u203a fotbal",
+        "content": "ISRAEL BORDER LEBANON CONFLICT Imaginile r\u0103zboiului din Israel \u0219i Gaza / Foto: Profimedia profimedia-0811718586 Israelul, bombardat / Foto: Profimedia\u00a0...",
+        "size": [
+          800,
+          532
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://pazevida.org.br/israel-diz-ter-retomado-controle-de-territorios-e-anuncia-bloqueio-a-gaza-sem-eletricidade-comida-e-combustivel/",
+        "title": "Israel diz ter retomado controle de territ\u00f3rios e anuncia ...Paz e Vidahttps://pazevida.org.br \u203a israel-diz-t...",
+        "content": "H\u00e1 dois dias, o grupo terrorista Hamas lan\u00e7ou um ataque contra o territ\u00f3rio israelense. Foguetes foram lan\u00e7ados a partir da Faixa de Gaza. Israel afirmou\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://pazevida.org.br/israel-diz-ter-retomado-controle-de-territorios-e-anuncia-bloqueio-a-gaza-sem-eletricidade-comida-e-combustivel/",
+        "title": "Israel diz ter retomado controle de territ\u00f3rios e anuncia ...Paz e Vidahttps://pazevida.org.br \u203a israel-diz-t...",
+        "content": "H\u00e1 dois dias, o grupo terrorista Hamas lan\u00e7ou um ataque contra o territ\u00f3rio israelense. Foguetes foram lan\u00e7ados a partir da Faixa de Gaza. Israel afirmou\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.digisport.ro/galerie-foto/1/special/karim-benzema-jignit-grosolan-in-5-limbi-diferite-dupa-mesajul-postat-in-legatura-cu-razboiul-din-israel-2628187",
+        "title": "Karim Benzema, jignit grosolan \u00een 5 limbi diferite dup\u0103 ...Digi Sporthttps://www.digisport.ro \u203a special",
+        "content": "ISRAEL BORDER LEBANON CONFLICT Imaginile r\u0103zboiului din Israel \u0219i Gaza / Foto: Profimedia Fighting between Palestinians and Israel in Gaza. Imaginile\u00a0...",
+        "size": [
+          800,
+          532
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://pazevida.org.br/israel-diz-ter-retomado-controle-de-territorios-e-anuncia-bloqueio-a-gaza-sem-eletricidade-comida-e-combustivel/",
+        "title": "Israel diz ter retomado controle de territ\u00f3rios e anuncia ...Paz e Vidahttps://pazevida.org.br \u203a israel-diz-t...",
+        "content": "H\u00e1 dois dias, o grupo terrorista Hamas lan\u00e7ou um ataque contra o territ\u00f3rio israelense. Foguetes foram lan\u00e7ados a partir da Faixa de Gaza. Israel afirmou\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilmattino.it/primopiano/esteri/israele_hamas_ultime_notizie_oggi_guerra_gaza_cosa_sta_succedendo-7679635.html",
+        "title": "Israele, oltre 700 morti. Almeno 413 palestinesi uccisi. Jet ...Il Mattinohttps://www.ilmattino.it \u203a ... \u203a Esteri",
+        "content": "L'Idf ha condotto attacchi su circa 800 obiettivi a Gaza, riporta Times of Israel. 1 mese fa. Varsavia invia aerei militari per evacuare suoi cittadini da\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://stories.cnnbrasil.com.br/internacional/guerra-de-israel-veja-perguntas-e-respostas-para-entender-o-conflito/",
+        "title": "Guerra de Israel: veja perguntas e respostas para entender o ...Stories CNN Brasilhttps://stories.cnnbrasil.com.br \u203a gu...",
+        "content": "image. Qual \u00e9 a import\u00e2ncia de Gaza? Administrado pelo Hamas, o territ\u00f3rio ao sul de Israel possui 2 milh\u00f5es de palestinos. foto/wikimediacommons. CNN.",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.ilgazzettino.it/esteri/israele_hamas_ultime_notizie_oggi_guerra_gaza_cosa_sta_succedendo-7679645.html",
+        "title": "Israele, oltre 700 morti. Almeno 413 palestinesi uccisi. Jet ...Il Gazzettinohttps://www.ilgazzettino.it \u203a esteri",
+        "content": "L'Idf ha condotto attacchi su circa 800 obiettivi a Gaza, riporta Times of Israel. 1 mese fa. Varsavia invia aerei militari per evacuare suoi cittadini da\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "iw",
+        "link": "https://www.makorrishon.co.il/opinion/698719/",
+        "title": "\u05d3\u05d5\u05d5\u05e7\u05d0 \u05e2\u05db\u05e9\u05d9\u05d5: \u05d7\u05d5\u05d1\u05d4 \u05dc\u05dc\u05de\u05d5\u05d3 \u05e2\u05e8\u05d1\u05d9\u05ea - \u05de\u05e7\u05d5\u05e8 \u05e8\u05d0\u05e9\u05d5\u05df\u05de\u05e7\u05d5\u05e8 \u05e8\u05d0\u05e9\u05d5\u05dfhttps://www.makorrishon.co.il \u203a opi...",
+        "content": " \u00b7 ",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://alaoual.com/",
+        "title": "\u0627\u0644\u0623\u0648\u0644: \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629\u0627\u0644\u0623\u0648\u0644https://alaoual.com",
+        "content": "\u0627\u0644\u0623\u0648\u0644 \u0645\u0648\u0642\u0639 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0645\u063a\u0631\u0628\u064a \u0634\u0627\u0645\u0644 \u064a\u062a\u062c\u062f\u062f \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u0627\u0644\u0633\u0627\u0639\u0629. \u064a\u0642\u062f\u0645 \u0627\u0644\u0645\u0648\u0642\u0639 \u0623\u062e\u0628\u0627\u0631\u0627 \u0645\u062a\u0646\u0648\u0639\u0629 \u0648\u064a\u0639\u062a\u0645\u062f \u0642\u0628\u0644 \u0646\u0634\u0631\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u062f\u0642\u0629 \u0648\u0627\u0644\u062a\u062d\u0631\u064a\u060c \u0641\u064a \u0627\u062d\u062a\u0631\u0627\u0645 \u062a\u0627\u0645 \u0644\u0623\u062e\u0644\u0627\u0642\u064a\u0627\u062a \u0645\u0647\u0646\u0629 \u0627\u0644\u0635\u062d\u0627\u0641\u0629 \u0643\u0645\u0627\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.4557294249534607
+      },
+      {
+        "class": "desert/vegetation",
+        "ioclass": "outdoor",
+        "probability": 0.4476121962070465
+      },
+      {
+        "class": "landing_deck",
+        "ioclass": "outdoor",
+        "probability": 0.015163999982178211
+      },
+      {
+        "class": "desert/sand",
+        "ioclass": "outdoor",
+        "probability": 0.008867984637618065
+      },
+      {
+        "class": "heliport",
+        "ioclass": "outdoor",
+        "probability": 0.007738545536994934
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 1.0239136219024658
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.8972842693328857
+      },
+      {
+        "class": "season/winter",
+        "score": 0.8206600546836853
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.7836204767227173
+      },
+      {
+        "class": "busy",
+        "score": 0.7823107242584229
+      },
+      {
+        "class": "ice",
+        "score": 0.7673078775405884
+      },
+      {
+        "class": "moist",
+        "score": 0.6802443265914917
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.6739716529846191
+      },
+      {
+        "class": "bright",
+        "score": 0.6500011086463928
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5677598714828491
+      },
+      {
+        "class": "time/midday",
+        "score": 0.5670484304428101
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1671,
+        "pred_lat": 25.195446014404297,
+        "pred_long": 60.473506927490234
+      },
+      "middle": {
+        "pred_class": 3017,
+        "pred_lat": 32.88656234741211,
+        "pred_long": -117.11125946044922
+      },
+      "fine": {
+        "pred_class": 3648,
+        "pred_lat": 32.88656234741211,
+        "pred_long": -117.11125946044922
+      },
+      "hierarchy": {
+        "pred_class": 3535,
+        "pred_lat": 34.389503479003906,
+        "pred_long": 69.0102310180664
+      },
+      "country": {
+        "city": "San Diego",
+        "state": "California",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 32.864674,
+    "longitude": -117.09914,
+    "generationtime_ms": 0.14197826385498047,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 155.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2020-04-13T00:00",
+        "2020-04-13T01:00",
+        "2020-04-13T02:00",
+        "2020-04-13T03:00",
+        "2020-04-13T04:00",
+        "2020-04-13T05:00",
+        "2020-04-13T06:00",
+        "2020-04-13T07:00",
+        "2020-04-13T08:00",
+        "2020-04-13T09:00",
+        "2020-04-13T10:00",
+        "2020-04-13T11:00",
+        "2020-04-13T12:00",
+        "2020-04-13T13:00",
+        "2020-04-13T14:00",
+        "2020-04-13T15:00",
+        "2020-04-13T16:00",
+        "2020-04-13T17:00",
+        "2020-04-13T18:00",
+        "2020-04-13T19:00",
+        "2020-04-13T20:00",
+        "2020-04-13T21:00",
+        "2020-04-13T22:00",
+        "2020-04-13T23:00",
+        "2020-04-14T00:00",
+        "2020-04-14T01:00",
+        "2020-04-14T02:00",
+        "2020-04-14T03:00",
+        "2020-04-14T04:00",
+        "2020-04-14T05:00",
+        "2020-04-14T06:00",
+        "2020-04-14T07:00",
+        "2020-04-14T08:00",
+        "2020-04-14T09:00",
+        "2020-04-14T10:00",
+        "2020-04-14T11:00",
+        "2020-04-14T12:00",
+        "2020-04-14T13:00",
+        "2020-04-14T14:00",
+        "2020-04-14T15:00",
+        "2020-04-14T16:00",
+        "2020-04-14T17:00",
+        "2020-04-14T18:00",
+        "2020-04-14T19:00",
+        "2020-04-14T20:00",
+        "2020-04-14T21:00",
+        "2020-04-14T22:00",
+        "2020-04-14T23:00"
+      ],
+      "apparent_temperature": [
+        12.3,
+        12.0,
+        12.0,
+        11.8,
+        11.8,
+        11.9,
+        11.7,
+        11.5,
+        11.5,
+        11.3,
+        11.4,
+        11.4,
+        11.7,
+        11.7,
+        11.8,
+        12.3,
+        12.3,
+        12.4,
+        13.3,
+        13.7,
+        14.3,
+        13.9,
+        13.4,
+        14.4,
+        14.2,
+        13.6,
+        12.5,
+        12.3,
+        12.1,
+        11.3,
+        10.7,
+        10.7,
+        10.7,
+        10.0,
+        9.8,
+        10.4,
+        11.8,
+        11.1,
+        11.1,
+        12.8,
+        14.4,
+        16.2,
+        18.0,
+        19.6,
+        20.2,
+        20.4,
+        20.0,
+        19.4
+      ],
+      "precipitation": [
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.2,
+        0.4,
+        0.3,
+        0.2,
+        0.2,
+        0.0,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.2,
+        0.4,
+        0.2,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        51,
+        2,
+        2,
+        3,
+        3,
+        3,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        3,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        3,
+        1,
+        3,
+        3,
+        51,
+        3,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

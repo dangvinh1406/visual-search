@@ -1,0 +1,570 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 5,
+            "abnormal": true
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 5,
+        "abnormal": true,
+        "plot": {
+          "labels": [
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Anomaly detected",
+              "backgroundColor": "#DD1B16",
+              "data": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                5,
+                null,
+                null
+              ]
+            },
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                5,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 5,
+            "percentage": 100.0
+          }
+        },
+        "total": 5,
+        "plot": {
+          "labels": [
+            "English"
+          ],
+          "data": [
+            100
+          ],
+          "color": [
+            "#41B883"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://asia.nikkei.com/Politics/Israel-Hamas-war/Turkey-s-Erdogan-calls-Hamas-a-liberation-group-blames-Israel",
+        "title": "Turkey's Erdogan calls Hamas a 'liberation group,' blames IsraelNikkei Asiahttps://asia.nikkei.com \u203a Politics \u203a Turkey-s-Erdogan-...",
+        "content": "ISTANBUL -- Turkey's President Recep Tayyip Erdogan called Hamas a \"liberation group\" and Israel a \"war criminal\" during a massive\u00a0...",
+        "size": [
+          1386,
+          780
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://asia.nikkei.com/Politics/Israel-Hamas-war/Israel-on-war-footing-Hamas-threatens-to-kill-captives",
+        "title": "Israel on war footing, Hamas threatens to kill captivesNikkei Asiahttps://asia.nikkei.com \u203a Politics \u203a Israel-on-war-footin...",
+        "content": "After hours of intense bombardment by Israeli jets, Hamas, the Islamist movement that controls Gaza, said it would execute an Israeli captive\u00a0...",
+        "size": [
+          1802,
+          1013
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 0,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://asia.nikkei.com/Politics/Israel-Hamas-war/Israel-on-war-footing-Hamas-threatens-to-kill-captives",
+        "title": "Israel on war footing, Hamas threatens to kill captivesNikkei Asiahttps://asia.nikkei.com \u203a Politics \u203a Israel-on-war-footin...",
+        "content": "After hours of intense bombardment by Israeli jets, Hamas, the Islamist movement that controls Gaza, said it would execute an Israeli captive\u00a0...",
+        "size": [
+          1802,
+          1013
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://asia.nikkei.com/Politics/Israel-Hamas-war/U.S.-should-support-both-Israel-and-Ukraine-Army-secretary",
+        "title": "U.S. should support both Israel and Ukraine: Army secretaryNikkei Asiahttps://asia.nikkei.com \u203a Politics \u203a Israel-Hamas-war",
+        "content": "U.S. should support both Israel and Ukraine: Army secretary \u00b7 Read Next \u00b7 Latest On Israel-Hamas war \u00b7 Sponsored Content\u00a0...",
+        "size": [
+          1386,
+          780
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbc.ca/news/business/armstrong-gaza-economy-israel-hamas-1.6991775",
+        "title": "Global economy braces for impact as Israel-Hamas war ... - CBCCBChttps://www.cbc.ca \u203a news \u203a business \u203a armstrong-gaz...",
+        "content": "The price of oil shot up and global markets fell in the wake of an unprecedented Hamas attack on Israeli civilians this weekend and\u00a0...",
+        "size": [
+          940,
+          529
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ndtv.com/world-news/israel-hamas-war-live-updates-israeli-drone-strikes-palestinians-during-west-bank-raid-says-military-4510954",
+        "title": "Israel-Hamas War Live Updates: Israeli Drone Strikes ... - NDTVNDTVhttps://www.ndtv.com \u203a World News",
+        "content": "Gaza's Hamas government said Wednesday that Israel's latest night-time air strikes on the besieged Palestinian territory killed at least 80\u00a0...",
+        "size": [
+          1200,
+          738
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://asia.nikkei.com/Politics/Israel-Hamas-war/Turkey-s-Erdogan-calls-Hamas-a-liberation-group-blames-Israel",
+        "title": "Turkey's Erdogan calls Hamas a 'liberation group,' blames IsraelNikkei Asiahttps://asia.nikkei.com \u203a Politics \u203a Turkey-s-Erdogan-...",
+        "content": "ISTANBUL -- Turkey's President Recep Tayyip Erdogan called Hamas a \"liberation group\" and Israel a \"war criminal\" during a massive\u00a0...",
+        "size": [
+          1386,
+          780
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "sky",
+        "ioclass": "outdoor",
+        "probability": 0.2908855378627777
+      },
+      {
+        "class": "industrial_area",
+        "ioclass": "outdoor",
+        "probability": 0.1799272745847702
+      },
+      {
+        "class": "harbor",
+        "ioclass": "outdoor",
+        "probability": 0.1225242167711258
+      },
+      {
+        "class": "volcano",
+        "ioclass": "outdoor",
+        "probability": 0.08334963768720627
+      },
+      {
+        "class": "skyscraper",
+        "ioclass": "outdoor",
+        "probability": 0.05396435409784317
+      }
+    ],
+    "transients": [
+      {
+        "class": "glowing",
+        "score": 0.75159752368927
+      },
+      {
+        "class": "beautiful",
+        "score": 0.7078759670257568
+      },
+      {
+        "class": "cluttered",
+        "score": 0.6924598217010498
+      },
+      {
+        "class": "moist",
+        "score": 0.6729722023010254
+      },
+      {
+        "class": "weather/clouds",
+        "score": 0.6432291269302368
+      },
+      {
+        "class": "colorful",
+        "score": 0.6293448209762573
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.5960181951522827
+      },
+      {
+        "class": "exciting",
+        "score": 0.5937967896461487
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.5781685709953308
+      },
+      {
+        "class": "ice",
+        "score": 0.5666496157646179
+      },
+      {
+        "class": "rugged",
+        "score": 0.5514209270477295
+      },
+      {
+        "class": "time/daylight",
+        "score": 0.5395843386650085
+      },
+      {
+        "class": "bright",
+        "score": 0.5350760221481323
+      },
+      {
+        "class": "season/winter",
+        "score": 0.533562958240509
+      },
+      {
+        "class": "dull",
+        "score": 0.5208218693733215
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1055,
+        "pred_lat": 24.73447608947754,
+        "pred_long": 91.14793395996094
+      },
+      "middle": {
+        "pred_class": 1285,
+        "pred_lat": 24.03541374206543,
+        "pred_long": 90.70641326904297
+      },
+      "fine": {
+        "pred_class": 2950,
+        "pred_lat": 43.354515075683594,
+        "pred_long": -8.410355567932129
+      },
+      "hierarchy": {
+        "pred_class": 8806,
+        "pred_lat": 23.705957412719727,
+        "pred_long": 90.39962768554688
+      },
+      "country": {
+        "city": "A Coru\u00f1a",
+        "state": "Galicia",
+        "country": "Spain"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 43.33919,
+    "longitude": -8.353302,
+    "generationtime_ms": 0.1341104507446289,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 45.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2023-10-10T00:00",
+        "2023-10-10T01:00",
+        "2023-10-10T02:00",
+        "2023-10-10T03:00",
+        "2023-10-10T04:00",
+        "2023-10-10T05:00",
+        "2023-10-10T06:00",
+        "2023-10-10T07:00",
+        "2023-10-10T08:00",
+        "2023-10-10T09:00",
+        "2023-10-10T10:00",
+        "2023-10-10T11:00",
+        "2023-10-10T12:00",
+        "2023-10-10T13:00",
+        "2023-10-10T14:00",
+        "2023-10-10T15:00",
+        "2023-10-10T16:00",
+        "2023-10-10T17:00",
+        "2023-10-10T18:00",
+        "2023-10-10T19:00",
+        "2023-10-10T20:00",
+        "2023-10-10T21:00",
+        "2023-10-10T22:00",
+        "2023-10-10T23:00",
+        "2023-10-11T00:00",
+        "2023-10-11T01:00",
+        "2023-10-11T02:00",
+        "2023-10-11T03:00",
+        "2023-10-11T04:00",
+        "2023-10-11T05:00",
+        "2023-10-11T06:00",
+        "2023-10-11T07:00",
+        "2023-10-11T08:00",
+        "2023-10-11T09:00",
+        "2023-10-11T10:00",
+        "2023-10-11T11:00",
+        "2023-10-11T12:00",
+        "2023-10-11T13:00",
+        "2023-10-11T14:00",
+        "2023-10-11T15:00",
+        "2023-10-11T16:00",
+        "2023-10-11T17:00",
+        "2023-10-11T18:00",
+        "2023-10-11T19:00",
+        "2023-10-11T20:00",
+        "2023-10-11T21:00",
+        "2023-10-11T22:00",
+        "2023-10-11T23:00"
+      ],
+      "apparent_temperature": [
+        17.3,
+        16.0,
+        15.0,
+        15.0,
+        15.0,
+        15.1,
+        15.1,
+        15.0,
+        17.8,
+        23.4,
+        28.3,
+        30.7,
+        26.8,
+        27.3,
+        27.4,
+        27.2,
+        26.7,
+        25.9,
+        25.3,
+        24.7,
+        22.0,
+        21.6,
+        20.5,
+        19.0,
+        17.8,
+        17.8,
+        17.4,
+        16.6,
+        16.1,
+        16.1,
+        16.3,
+        16.6,
+        19.5,
+        23.4,
+        26.5,
+        27.9,
+        28.0,
+        28.1,
+        28.0,
+        27.2,
+        26.2,
+        23.9,
+        22.5,
+        20.9,
+        19.7,
+        18.8,
+        18.5,
+        18.3
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        51,
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

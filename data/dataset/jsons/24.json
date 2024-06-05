@@ -1,0 +1,3125 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2009/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2009/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/03": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2012/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/01": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2013/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 38,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 11,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 38,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2009/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2010/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2011/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2012/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2013/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2014/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2015/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                38,
+                11,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 126,
+            "percentage": 93.33333333333333
+          },
+          "Spanish; Castilian": {
+            "count": 4,
+            "percentage": 2.962962962962963
+          },
+          "German": {
+            "count": 2,
+            "percentage": 1.4814814814814814
+          },
+          "Italian": {
+            "count": 1,
+            "percentage": 0.7407407407407407
+          },
+          "Japanese": {
+            "count": 1,
+            "percentage": 0.7407407407407407
+          },
+          "Dutch; Flemish": {
+            "count": 1,
+            "percentage": 0.7407407407407407
+          }
+        },
+        "total": 135,
+        "plot": {
+          "labels": [
+            "English",
+            "Spanish; Castilian",
+            "German",
+            "Italian",
+            "others"
+          ],
+          "data": [
+            93,
+            2,
+            1,
+            0,
+            4
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/IsraelHamasWar/new/?count=25&page=1&after=t3_17x5v2s",
+        "title": "Ongoing updates of the 2023 war against Hamas - RedditReddithttps://www.reddit.com \u203a IsraelHamasWar \u203a new",
+        "content": "Did Iran Just ABANDON Hamas? Israel Thwarts MAJOR Jerusalem ... [The Guardian] Israel drops leaflets warning people to flee southern Gaza towns.",
+        "size": "",
+        "date": "2023:11:16 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2009/02/24/will-mardi-gras-bring-a-tuesday-with-fat-gains.html",
+        "title": "Will Mardi Gras Bring a Tuesday with Fat Gains? - CNBCCNBChttps://www.cnbc.com \u203a 2009/02/24 \u203a will-mardi-gras-br...",
+        "content": "",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2009:02:24 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 75,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2009/02/24/will-mardi-gras-bring-a-tuesday-with-fat-gains.html",
+        "title": "Will Mardi Gras Bring a Tuesday with Fat Gains? - CNBCCNBChttps://www.cnbc.com \u203a 2009/02/24 \u203a will-mardi-gras-br...",
+        "content": "",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2009:02:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/id/46808294",
+        "title": "A Report From the Front Lines of Entrepreneurship - CNBCCNBChttps://www.cnbc.com \u203a ...",
+        "content": "",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2012:03:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2013/01/23/florida-mounts-a-hunt-for-creatures-that-maintain-a-very-low-profile.html",
+        "title": "Florida Mounts a Hunt for Creatures That Maintain a Very Low ...CNBChttps://www.cnbc.com \u203a 2013/01/23 \u203a florida-mounts-a-...",
+        "content": "State wildlife officials are so frustrated with the prolific and invasive Burmese pythons that on Jan. 12 they began a one-month hunt in South",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2013:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2013/01/23/florida-mounts-a-hunt-for-creatures-that-maintain-a-very-low-profile.html",
+        "title": "Florida Mounts a Hunt for Creatures That Maintain a Very Low ...CNBChttps://www.cnbc.com \u203a 2013/01/23 \u203a florida-mounts-a-...",
+        "content": "State wildlife officials are so frustrated with the prolific and invasive Burmese pythons that on Jan. 12 they began a one-month hunt in South",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2013:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2016/06/07/law-firm-salaries-jump-for-the-first-time-in-nearly-a-decade.html",
+        "title": "Law Firm Salaries Jump for the First Time in Nearly a DecadeCNBChttps://www.cnbc.com \u203a 2016/06/07 \u203a law-firm-salaries-j...",
+        "content": "",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2016:06:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.iiss.org/online-analysis/online-analysis//2018/09/trump-unrwa-aid-cut",
+        "title": "What does Trump's UNRWA aid cut mean for Palestinians and ...International Institute for Strategic Studieshttps://www.iiss.org \u203a online-analysis \u203a 2018/09 \u203a tru...",
+        "content": "Ultimately, the US wants eliminate the issue of refugee status from negotiations between Israel and the Palestinians. ... Gaza. But it has also\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2018:09:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.daddycow.com/videos/view/4155/red-day",
+        "title": "Red day | daddycow.comdaddycow.comhttps://www.daddycow.com \u203a videos \u203a view \u203a red-day",
+        "content": "... Gaza onslaught as Israel warns airstrikes are \u201cjust the beginning\u201d - BBC News. 0 likes. Bombs rain down on Gaza as Hamas and Israel war\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": "2021:09:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynews.com.au/world-news/meghan-markle-is-not-miss-nice/video/0ac80678815b491b3fc5a3b7d87b43ff",
+        "title": "Meghan Markle is 'not Miss Nice' | Sky News AustraliaSky News Australiahttps://www.skynews.com.au \u203a World-news",
+        "content": "Emmanuel Macron urges Israel to cease Gaza bombing campaign ... A NOTE ABOUT RELEVANT ADVERTISING: We collect information about the content (\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:01:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynews.com.au/world-news/meghan-markle-is-not-miss-nice/video/0ac80678815b491b3fc5a3b7d87b43ff",
+        "title": "Meghan Markle is 'not Miss Nice' | Sky News AustraliaSky News Australiahttps://www.skynews.com.au \u203a World-news",
+        "content": "Emmanuel Macron urges Israel to cease Gaza bombing campaign ... A NOTE ABOUT RELEVANT ADVERTISING: We collect information about the content (\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:01:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vocal.media/earth/what-s-in-the-air",
+        "title": "What's in the Air? | Earth - Vocal MediaVocalhttps://vocal.media \u203a earth \u203a what-s-in-the-air",
+        "content": "I am in Southern California and wild fires are part of our existence. ... Yet, even though Israel did not initiate this war, it stands firm in\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:06:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newindian.in/watch-this-is-the-moment-modi-tells-us-nri-indians-blinken/",
+        "title": "WATCH | This Is The Moment: Modi Tells US NRI Indians ...The New Indianhttps://www.newindian.in \u203a watch-this-is-the-moment-...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:06:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.fi/photos/october-9",
+        "title": "545992 October 9 Stock Photos, High-Res Pictures, and ImagesGetty Imageshttps://www.gettyimages.fi \u203a photos \u203a october-9",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.vanidades.com/noticias/5-acontecimientos-claves-para-entender-el-conflicto-de-israel-y-gaza-y-como-apoyar-a-la-poblacion",
+        "title": "5 acontecimientos claves para entender el conflicto de Israel y ...Vanidadeshttps://www.vanidades.com \u203a noticias",
+        "content": "En enfrentamiento entre Israel y Gaza ha sido una fuente de tensi\u00f3n social y violencia armada durante d\u00e9cadas, pero, para comprender mejor\u00a0...",
+        "size": [
+          1440,
+          810
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zimeye.net/2023/10/09/israel-launches-air-strikes-on-gaza/",
+        "title": "Israel Launches Air Strikes On Gaza - ZimEyeZimEyehttps://www.zimeye.net \u203a 2023/10/09 \u203a israel-launches...",
+        "content": "At least 100 people have died in Israel after Palestinian militant group, Hamas launched its biggest attack in years.",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zimeye.net/2023/10/09/israel-launches-air-strikes-on-gaza/",
+        "title": "Israel Launches Air Strikes On Gaza - ZimEyeZimEyehttps://www.zimeye.net \u203a 2023/10/09 \u203a israel-launches...",
+        "content": "At least 100 people have died in Israel after Palestinian militant group, Hamas launched its biggest attack in years.",
+        "size": [
+          350,
+          200
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2023/10/09/israel-hamas-live-updates.html",
+        "title": "Gaza and Israel-Hamas conflict updates, Oct. 9, 2023 - CNBCCNBChttps://www.cnbc.com \u203a 2023/10/09 \u203a israel-hamas-live-...",
+        "content": "An Israeli soldier arranges artillery shells on the border with Gaza in southern Israel on October 9, 2023. ... Several Israeli bombing campaigns\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://netblogpro.com/amp/2023/10/09/israel-hamas-live-updates.html",
+        "title": "Gaza and Israel-Hamas conflict updates, Oct. 9, 2023 - CNBCnetblogpro.comhttps://netblogpro.com \u203a amp \u203a 2023/10/09 \u203a israel-ha...",
+        "content": "Palestinians inspect a mosque destroyed in Israeli strikes in Khan Younis, in the southern Gaza Strip, October 8, 2023. Ibraheem Abu Mustafa |\u00a0...",
+        "size": [
+          1600,
+          900
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcboston.com/news/local/israel-attack-brandeis-professor-daughter-killed-grandson-saved/3155512/",
+        "title": "Brandeis professor's daughter dies saving son - NBC BostonNBC Bostonhttps://www.nbcboston.com \u203a news \u203a local \u203a israel-atta...",
+        "content": "... southern Israel. Pause. 9:18. Attacks in Israel spark complex response ... Iran's UN mission denies involvement in Hamas attacks; Gaza under '\u00a0...",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcsandiego.com/news/local/navy-strike-group-moved-near-israel-sends-strong-message-to-hamas-former-admiral/3323821/",
+        "title": "Navy strike group moved near Israel sends strong message to ...NBC 7 San Diegohttps://www.nbcsandiego.com \u203a news \u203a local \u203a navy-st...",
+        "content": "The U.S. Navy directed the U.S.S Gerald R. Ford Carrier Strike group to the eastern part of the Mediterranean Sea near Israel.",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcboston.com/news/local/gov-healey-to-speak-at-gathering-in-solidarity-with-israel-on-boston-common/3155315/",
+        "title": "Healey speaks at solidarity with Israel event on Boston CommonNBC Bostonhttps://www.nbcboston.com \u203a news \u203a local \u203a gov-heal...",
+        "content": "",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcboston.com/news/local/harvard-israel-palestinian-statement-controversy/3155744/",
+        "title": "Harvard pro-Palestine, anti-'Israeli regime' statement controversyNBC Bostonhttps://www.nbcboston.com \u203a news \u203a local \u203a harvard-i...",
+        "content": "\"Today's events did not occur in a vacuum. For the last two decades, millions of Palestinians in Gaza have been forced to live in an open-air\u00a0...",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcboston.com/news/local/as-violence-in-middle-east-escalates-local-police-step-up-patrol-around-jewish-institutions/3155202/",
+        "title": "As violence in Middle East escalates, local police step up ...NBC Bostonhttps://www.nbcboston.com \u203a news \u203a local \u203a as-violen...",
+        "content": "Israeli Prime Minister Benjamin Netanyahu mobilized reserve troops after declaring war. The country was pounding the Gaza Strip from the air,\u00a0...",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcdfw.com/news/local/texas-news/texas-gov-abbott-spends-4-million-dollars-to-secure-jewish-schools-synagogues-in-texas-blocks-state-purchase-of-goods-from-gaza-strip/3356063/",
+        "title": "Texas Gov. Abbott spends $4 million to secure Jewish schools ...NBC 5 Dallas-Fort Worthhttps://www.nbcdfw.com \u203a news \u203a local \u203a texas-news",
+        "content": "Israel's military ordered a complete siege on the Gaza Strip on Monday, halting deliveries of food, water, fuel and supplies to its 2.3\u00a0...",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.iiss.org/online-analysis/online-analysis/2023/10/iiss-experts-assess-the-hamas-israel-war-and-its-international-implications/",
+        "title": "IISS experts assess the Hamas\u2013Israel war and its international ...International Institute for Strategic Studieshttps://www.iiss.org \u203a online-analysis \u203a 2023/10 \u203a iiss-...",
+        "content": "... south Israel. The Israeli political establishment, military ... Israel at the expense of a sustainable stabilisation of the West Bank and Gaza.",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://paytolet.com/news/geopolitical-unrest-in-the-middle-east-assessing-the-impact-on-real-estate-markets-amid-the-hamas-israel-conflict",
+        "title": "Geopolitical Unrest in the Middle East: Assessing the Impact ...PaytoLethttps://paytolet.com \u203a news \u203a geopolitical-unrest-in-th...",
+        "content": "Bombs rain down on Gaza as Hamas and Israel war escalates. Investor Confidence: Geopolitical instability can deter foreign investors and even\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wstpost.com/how-israel-will-carry-out-the-siege-of-gaza-with-ground-assault-hours-away-expert-reveals-how-troops-will-be-faced-with-deadly-street-to-street-battles-at-the-risk-of-high-casualties-combined-with/",
+        "title": "How Israel will carry out the siege of Gaza - WSTPostWSTPosthttps://wstpost.com \u203a Lifestyle",
+        "content": "Israel is on the cusp of an armed military incursion into the Gaza Strip to battle Hamas militants who slaughtered hundreds of civilians\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://paytolet.com/news/geopolitical-unrest-in-the-middle-east-assessing-the-impact-on-real-estate-markets-amid-the-hamas-israel-conflict",
+        "title": "Geopolitical Unrest in the Middle East: Assessing the Impact ...PaytoLethttps://paytolet.com \u203a news \u203a geopolitical-unrest-in-th...",
+        "content": "Bombs rain down on Gaza as Hamas and Israel war escalates. Investor Confidence: Geopolitical instability can deter foreign investors and even\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vnexplorer.net/biden-announces-he-will-address-the-nation-on-israel-terror-attacks-at-1pm-on-tuesday-from-the-white-house-as-us-uk-france-germany-all-sign-declaration-of-support-for-jewish-state-s6018493.html",
+        "title": "Biden announces he will address the nation on Israel terror ...vnexplorer.nethttps://vnexplorer.net \u203a U.S. \u2705 (Verified)",
+        "content": "Biden's remarks are set for 1pm and come days after Hamas fighters invaded part of southern Israel killing at least 900 people, most of them\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://uspapernews.com/israelpalestinianconflict2023/",
+        "title": "Why Israeli-Palestinian Conflict? 2023 - Trending Newsuspapernews.comhttps://uspapernews.com \u203a israelpalestinianconflict2023",
+        "content": "Hamas fighters launched rockets into Israel and initiated attacks on southern Israeli cities and towns near the Gaza border. This led to\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynews.com.au/world-news/its-just-horrendous-australian-living-in-israel-reveals-the-mood-on-the-ground-as-hamas-brutal-incursion-continues/news-story/a9f3830394b1bd219dcffcd2555d529d",
+        "title": "'It's just horrendous': Australian living in Israel reveals the ...Sky News Australiahttps://www.skynews.com.au \u203a World-news",
+        "content": "Bombs rain down on Gaza as Hamas and Israel war escalates. You just ... BLM riots did not 'have to happen' if truth was told from the beginning.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynews.com.au/world-news/global-affairs/bombs-rain-down-on-gaza-as-hamas-and-israel-war-escalates/video/3ff3df2bb83686a5083e1f5d19654357",
+        "title": "Bombs rain down on Gaza as Hamas and Israel war escalatesSky News Australiahttps://www.skynews.com.au \u203a ... \u203a Global-affairs",
+        "content": "Airstrikes continued in the Gaza region on Monday as Israeli officials ordered a \u201ccomplete siege\u201d of the region following a surprise attack\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnewyork.com/news/local/nyc-woman-shelters-in-stairwell-survives-air-strikes-in-israel/4754197/",
+        "title": "NYC woman shelters in stairwell, survives air strikes in IsraelNBC New Yorkhttps://www.nbcnewyork.com \u203a news \u203a local \u203a nyc-w...",
+        "content": "\"The safest place in my apartment building is the stairwell from rockets and bombs. That's where we all go when we hear rockets and that's been\u00a0...",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/news/bombs-rain-down-on-gaza-as-hamas-and-israel-war-escalates/video/3ff3df2bb83686a5083e1f5d19654357",
+        "title": "Bombs rain down on Gaza as Hamas and Israel war escalatesThe Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"Video\"",
+        "content": "Airstrikes continued in the Gaza region on Monday as Israeli officials ordered a \u201ccomplete siege\u201d of the region following a surprise attack\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://beforeitsnews.com/war-and-conflict/2023/10/bombs-rain-down-on-gaza-as-the-hamas-and-israel-war-continues-to-escalate-video-2479897.html",
+        "title": "Bombs Rain Down on Gaza as the Hamas and Israel War ...Before It's Newshttps://beforeitsnews.com \u203a war-and-conflict \u203a 2023/10",
+        "content": "Airstrikes continued in the Gaza region on Monday, 9 October 2023, as Israeli officials ordered a \u201ccomplete siege\u201d of the region following a\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12617787/Israel-EU-International-law-Gaza.html",
+        "title": "Israel seeks 'a new reality' with terrorism eradicated as ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12617787",
+        "content": "A dove flies over the debris of houses destroyed in Israeli strikes, in Khan Younis in the southern Gaza Strip October 11, 2023. Smoke from\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.indiatimes.com/videocafe/news/israel-palestine-war-bollywood-actress-nushrratt-bharuccha-shares-israel-horror-617437.html",
+        "title": "Bollywood Actress Nushrratt Bharuccha Shares Israel HorrorIndiaTimeshttps://www.indiatimes.com \u203a Videos \u203a News",
+        "content": "Actor Nushrat Bharucha was caught in the midst of the Israel-Palestine conflict while attending the HAIFA Film Awards in Israel.",
+        "size": [
+          800,
+          420
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.indiatimes.com/entertainment/celebs/musician-girish-vishwa-and-actress-nushrratt-bharucha-recall-horrifying-experiences-in-israel-617343.html",
+        "title": "Musician Girish Vishwa And Actress Nushrratt Bharucha ...IndiaTimeshttps://www.indiatimes.com \u203a ... \u203a Celebscoop",
+        "content": "... Israel amid conflict with Palestine's Hamas. They shared the harrowing experience of waking up to a bomb blast at 6 am.",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zbcnews.co.zw/?p=15478",
+        "title": "Israeli air strikes rock Gaza for sixth day - ZBC NEWSZBC NEWShttps://www.zbcnews.co.zw \u203a ...",
+        "content": "THE death toll in the Middle East continues to rise, with Israeli airstrikes hitting targets in Gaza City as raging battles between Israel and\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://indiashippingnews.com/israel-hamas-war-impact-on-shipping-and-port-operations-potential-risks/",
+        "title": "Israel-Hamas war: Impact on shipping and port operations ...India Shipping Newshttps://indiashippingnews.com \u203a Maritime",
+        "content": "The conflict in Israel after attacks by Islamist group Hamas on towns close to Gaza ... On the other side, Israel's southern Port of Ashkelon has\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zeenews.india.com/video/world/first-phase-of-israels-ground-attack-on-gaza-begins-today-2674688.html",
+        "title": "First phase of Israels ground attack on Gaza begins todayZee Newshttps://zeenews.india.com \u203a Videos",
+        "content": "Israel Palestine War: Today is the seventh day of war between Israel and Hamas. Meanwhile, today Israel will launch ground attacks on Gaza,\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://newsbitsng.com/israeli-hamas-us-uk-india-evacuate-citizens-deaths-hit-2700/",
+        "title": "Israeli-Hamas: US, UK, India Evacuate Citizens, Deaths Hit 2700newsbitsng.comhttp://newsbitsng.com \u203a israeli-hamas-us-uk-india-eva...",
+        "content": "... southern Israel, Nepal's Ambassador to Israel Kanta Rizal ... Also, the Israeli army has bombarded the Gaza Strip with approximately 6,000 bombs\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zeenews.india.com/video/world/israeli-army-launches-airstrikes-on-750-locations-in-gaza-2674737.html",
+        "title": "Israeli Army launches airstrikes on 750 locations in GazaZee Newshttps://zeenews.india.com \u203a Videos",
+        "content": "Israel Aistrikes In Gaza: The war between Israel and Hamas continues for the 7th day. The Israeli army carried out airstrikes on 750 targets\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://newsbitsng.com/israeli-hamas-us-uk-india-evacuate-citizens-deaths-hit-2700/",
+        "title": "Israeli-Hamas: US, UK, India Evacuate Citizens, Deaths Hit 2700newsbitsng.comhttp://newsbitsng.com \u203a israeli-hamas-us-uk-india-eva...",
+        "content": "... southern Israel, Nepal's Ambassador to Israel Kanta Rizal ... Also, the Israeli army has bombarded the Gaza Strip with approximately 6,000 bombs\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.newstrack.com/world-news/the-manipuri-connection-to-israel-hamas-war-402368",
+        "title": "The Manipuri connection to Israel-Hamas warNewstrackhttps://english.newstrack.com \u203a World",
+        "content": "Under the policy, members of what Israel recognizes as 'lost Jewish tribes' were allowed to immigrate to Israel. ... Gaza more closely than the\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news24online.com/world/israel-air-force-jets-attack-hamas-operatives-destroy-military-posts/180305/",
+        "title": "Israel Air Force Jets Attack Hamas, Destroy Military Postsnews24online.comhttps://news24online.com \u203a world",
+        "content": "... Gaza should relocate to southern Gaza within 24 hours, The Times of Israel reported. The UN spokesperson's statement indicated that the IDF\u00a0...",
+        "size": [
+          720,
+          405
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/six-steps-to-disrupt-hamas-and-other-terrorist-groups-finances/",
+        "title": "Six steps to disrupt Hamas and other terrorist groups' financesAtlantic Councilhttps://www.atlanticcouncil.org \u203a blogs \u203a new-atlanticist",
+        "content": "... Israel and the Palestinian territories. Former Treasury Secretary ... Gaza Strip may have information to aid in returning US citizens. While\u00a0...",
+        "size": [
+          500,
+          350
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newindian.in/cynicism-about-legacy-media-undermines-israels-narrative/",
+        "title": "Cynicism about `legacy' media undermines Israel's narrativeUniversidade do Portohttps://www.newindian.in \u203a cynicism-about-legacy-me...",
+        "content": "capitals. For the moment, war clouds still hover most darkly over Lebanon, to the north of Israel, but an Israeli ground invasion of Gaza seems\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newindian.in/amid-manipur-violence-uneasy-calm-grips-border-village-phougakchao/",
+        "title": "Amid Manipur violence uneasy calm grips border village ...The New Indianhttps://www.newindian.in \u203a amid-manipur-violence-u...",
+        "content": "However, Churachandpur, located in South Manipur, remains the epicentre of ethnic violence. ... Guns, bombs to run away from,\u201d Sanatombi divulged.",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://charter97.org/en/news/2023/10/31/569766/",
+        "title": "IDF Eliminate High Ranking Militant Heading Attack Against ...\u0425\u0430\u0440\u0442\u0438\u044f'97https://charter97.org \u203a news \u203a 2023/10/31",
+        "content": "... Israel. In just the past 24 hours, the Israel Defence Forces struck 300 Hamas-linked targets in the Gaza Strip. The IDF Command added that\u00a0...",
+        "size": [
+          360,
+          230
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://biteproject.com/como-viven-el-conflicto-los-cristianos-en-gaza/",
+        "title": "Guerra en Medio Oriente: \u00bfc\u00f3mo viven el conflicto los ... - BITEBITE Projecthttps://biteproject.com \u203a como-vive...",
+        "content": "... Israel sobre Gaza: Lo que el pueblo palestino experimenta en Gaza no ... - Christian hospital bombed in Gaza - Open Doors. - After murder\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:11:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://epc.ae/details/brief/how-gaza-war-enhances-prospects-of-a-regional-coalition-of-losers-",
+        "title": "How Gaza War Enhances Prospects of a Regional 'Coalition ...Emirates Policy Centerhttps://epc.ae \u203a details \u203a brief \u203a how-gaza-war-enhanc...",
+        "content": "The Hamas-Israel conflict serves Iran's interests by blocking the Arab-Israeli normalization or postponing it for a more extended period. It\u00a0...",
+        "size": [
+          1380,
+          920
+        ],
+        "date": "2023:11:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://epc.ae/en/details/brief/how-gaza-war-enhances-prospects-of-a-regional-coalition-of-losers-",
+        "title": "How Gaza War Enhances Prospects of a Regional 'Coalition ...Emirates Policy Centerhttps://epc.ae \u203a details \u203a brief \u203a how-gaza-war-enhanc...",
+        "content": "The Hamas-Israel conflict serves Iran's interests by blocking the Arab-Israeli normalization or postponing it for a more extended period. It\u00a0...",
+        "size": [
+          1380,
+          920
+        ],
+        "date": "2023:11:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youthkiawaaz.com/2023/11/navigating-the-israel-palestine-quagmire/",
+        "title": "My Thoughts On The Israel \u2013 Palestine Conflict - Youth Ki AwaazYouth Ki Awaazhttps://www.youthkiawaaz.com \u203a Latest",
+        "content": "... Israel before 1948, well then there was no country called Pakistan, but it ... Gaza have done nothing wrong and seeing this bombing will only\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://atuncampos.com.ec/israel-hamas-war-list-of-key-events-day-israel-ee-rPNvw8H5",
+        "title": "Israel-Hamas War: List Of Key Events, Day Israel-Palestineatuncampos.com.echttps://atuncampos.com.ec \u203a 33rs 72",
+        "content": "Israel-Hamas war updates: Israeli bombing rocks Gaza through the night Israel-Palestine conflict News Al Jazeera ... South China Morning Post. Su\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:11:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ceylonhestia.lk/?s=israel-hamas-war-list-of-key-events-day-israel-pp-k1bj8PfK",
+        "title": "Israel-Hamas War: List Of Key Events, Day Israel-Palestine, 40 ...Ceylon Hestiahttps://ceylonhestia.lk \u203a 33rs 72",
+        "content": "Israel-Hamas war updates: Israeli bombing rocks Gaza through the night Israel-Palestine conflict News Al Jazeera ... South China Morning Post.",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:11:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ceylonhestia.lk/?s=israel-hamas-war-list-of-key-events-day-israel-pp-k1bj8PfK",
+        "title": "Israel-Hamas War: List Of Key Events, Day Israel-Palestine, 40 ...Ceylon Hestiahttps://ceylonhestia.lk \u203a 33rs 72",
+        "content": "Israel-Hamas war updates: Israeli bombing rocks Gaza through the night Israel-Palestine conflict News Al Jazeera ... South China Morning Post.",
+        "size": [
+          886,
+          486
+        ],
+        "date": "2023:11:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pratidintime.com/world/102-un-staff-members-in-gaza-killed-since-start-of-conflict",
+        "title": "102 UN Staff Members In Gaza Killed Since Start Of ConflictPratidin Timehttps://www.pratidintime.com \u203a World",
+        "content": "Since the conflict between Hamas and Israel began, at least 102 staff members of the United Nations have been killed in Gaza.",
+        "size": [
+          400,
+          250
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pratidintime.com/world/102-un-staff-members-in-gaza-killed-since-start-of-conflict",
+        "title": "102 UN Staff Members In Gaza Killed Since Start Of ConflictPratidin Timehttps://www.pratidintime.com \u203a World",
+        "content": "Since the conflict between Hamas and Israel began, at least 102 staff members of the United Nations have been killed in Gaza.",
+        "size": [
+          400,
+          250
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/How-many-Hamas-supporting-immigrants-are-there-in-the-US",
+        "title": "How many Hamas-supporting immigrants are there in the US?Quorahttps://www.quora.com \u203a How-many-Hamas-supporting-...",
+        "content": "... did to innocent, ordinary, civilians, was a sadistic ... The Hamas is a terrorist organization, operating mostly in Gaza and aiming at Israel.",
+        "size": [
+          602,
+          330
+        ],
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/IsraelHamasWar/new/?count=25&page=1&after=t3_17x5v2s",
+        "title": "Ongoing updates of the 2023 war against Hamas - RedditReddithttps://www.reddit.com \u203a IsraelHamasWar \u203a new",
+        "content": "Did Iran Just ABANDON Hamas? Israel Thwarts MAJOR Jerusalem ... [The Guardian] Israel drops leaflets warning people to flee southern Gaza towns.",
+        "size": "",
+        "date": "2023:11:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/gaza-bombing",
+        "title": "21582 Gaza Bombing Stock Photos & High-Res PicturesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a gaza-bombing",
+        "content": "Browse 21,582 gaza bombing photos and images available, or start a new search to explore more photos and images. ... Missile\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=kBf3jm8OKyo",
+        "title": "Bombs rain down on Gaza as Hamas and Israel war escalatesYouTube\u00a0\u00b7\u00a0Sky News Australia4.2M+ views  \u00b7  1 month ago",
+        "content": "Airstrikes continued in the Gaza region on Monday as Israeli officials ordered a \u201ccomplete siege\u201d of the region following a surprise attack\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=6rtRQbqqgrE",
+        "title": "Iranian general threatens 'another shockwave' if Israel ...YouTube\u00a0\u00b7\u00a0Sky News Australia61.6K+ views  \u00b7  1 month ago",
+        "content": "Iranian general threatens 'another shockwave' if Israel continues Gaza bombing. 61K views \u00b7 1 month ago ...more. Sky News Australia. 3.77M.",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=wym2ofNwIDc",
+        "title": "Gaza City Port battered by Israeli bombardment - YouTubeYouTube\u00a0\u00b7\u00a0Sky News Australia664.1K+ views  \u00b7  1 month ago",
+        "content": "The Gaza City port has been battered by an airstrike as Israel continues its bombardment. In the footage taken by journalist Mohamed el\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/gaza-blast",
+        "title": "5971 Gaza Blast Stock Photos, High-Res Pictures, and ImagesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a gaza-blast",
+        "content": "Browse 5,971 gaza blast photos and images available, or start a new search to explore more photos and images. Smoke plumes billow after an explosion during\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=yq6luVm0v9M",
+        "title": "Hamas threatens to 'broadcast' hostage executions ... - YouTubeYouTube\u00a0\u00b7\u00a0Sky News Australia1M+ views  \u00b7  1 month ago",
+        "content": "Hamas has warned it will begin broadcasting the execution of hostages if Israel targets \u201cinnocent civilians\" by continuing to bomb the Gaza\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.atlanticcouncil.org/region/lebanon/",
+        "title": "Lebanon - Atlantic CouncilAtlantic Councilhttps://www.atlanticcouncil.org \u203a Middle East",
+        "content": "While past flashpoints posed challenges for Israel's neighbors, they did not ... Gaza Strip into the Axis of Resistance's Southern Front against Israel. Iran\u00a0...",
+        "size": [
+          500,
+          350
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/maxspitalnick_israel-is-a-place-where-ive-called-home-activity-7117685471421337601-coMX?trk=public_profile_like_view",
+        "title": "Max Spitalnick on LinkedIn: Israel is a place where I've called ...LinkedInhttps://www.linkedin.com \u203a posts \u203a maxspitalnick_israel-...",
+        "content": "Launched along the borders of Gaza in southern Israel, the assault began ... Reports are increasingly emerging of the IDF using phosphorous bombs in Palestinian\u00a0...",
+        "size": [
+          800,
+          438
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.atlanticcouncil.org/region/israel/page/3/",
+        "title": "Israel - Page 3 of 96 - Atlantic CouncilAtlantic Councilhttps://www.atlanticcouncil.org \u203a Middle East",
+        "content": "As a strong ally in the Middle East, Israel's domestic politics and geopolitical role are of primary concern for the United States. The Israeli-Palestinian\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.atlanticcouncil.org/region/iran/page/2/",
+        "title": "Iran - Page 2 of 319 - Atlantic CouncilAtlantic Councilhttps://www.atlanticcouncil.org \u203a Middle East",
+        "content": "... Gaza Strip into the Axis of Resistance's Southern Front against Israel. Iran ... South America A New Persian Gulf? By Atlantic Council \u00b7 Climate Change\u00a0...",
+        "size": [
+          500,
+          350
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.firstonline.info/en/gaza-attacco-israeliano-senza-precedenti-mancano-acqua-luce-e-carburante-bombe-anche-sul-sud-del-libano/",
+        "title": "Gaza, \"unprecedented\" Israeli attack: lack of water, electricity ...firstonline.infohttps://www.firstonline.info \u203a Latest news",
+        "content": "Gaza, \"unprecedented\" Israeli attack: lack of water, electricity and fuel. Bombs also hit southern Lebanon. October 11, 2023, 16:58 am | di FIRSTonline\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.heraldsun.com.au/news/world",
+        "title": "Latest World News Headlines - Herald SunHerald Sunhttps://www.heraldsun.com.au \u203a News \u203a World",
+        "content": "Israel intensifies bombs before truce, hostage release. Israel says their ... Israel approves deal to free Gaza hostages. Israel says it will uphold a\u00a0...",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/development-reimagined_the-israel-gaza-conflict-has-garnered-responses-activity-7125451535110606848-BZjo",
+        "title": "Development Reimagined on LinkedIn: The Israel-Gaza ...LinkedInhttps://www.linkedin.com \u203a posts \u203a development-reimagi...",
+        "content": "The Israel-Gaza Conflict has garnered responses from around the globe. But what's Africa's stance? Our newly released infographic offers a deep dive into\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.akagerarhinolodge.com/?o=hamas-and-israel-at-war-what-we-know-on-7-dd-DmLOjzHv",
+        "title": "Hamas And Israel At War: What We Know On Day Two Israel ...Akagera Rhino Lodgehttps://www.akagerarhinolodge.com \u203a ...",
+        "content": "EXPLAINED What is the Israel-Palestine Conflict and How Did ... Israel pummels Gaza after Hamas's unprecedented attack Israel-Palestine conflict News Al Jazeera.",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.akagerarhinolodge.com/?o=surprise-hamas-attack-met-with-retaliatory-air-strikes-from-5-dd-DmLOjzHv",
+        "title": "Surprise Hamas Attack Met With Retaliatory Air Strikes From ...Akagera Rhino Lodgehttps://www.akagerarhinolodge.com \u203a ...",
+        "content": "EXPLAINED What is the Israel-Palestine Conflict and How Did ... Israel pummels Gaza after Hamas's unprecedented attack Israel-Palestine conflict News Al Jazeera.",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/editorial-images/news/event/aftermath-of-israeli-airstrikes-in-gaza-palestine/776046533",
+        "title": "Aftermath Of Israeli Airstrikes In Gaza, Palestine - Getty ImagesGetty Imageshttps://www.gettyimages.com \u203a news \u203a event \u203a afterm...",
+        "content": "GZA: Aftermath Of Israeli Airstrikes In Gaza, Palestine. 203 images. Browse 203 photos and images available, or start a new search to explore more photos\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://medium.com/@TCTBlog/israel-at-war-how-you-can-help-76c6e7ba76ef",
+        "title": "Israel At War: How You Can Help - MediumMedium\u00a0\u00b7\u00a0TCT Network1 month ago",
+        "content": "15 out of 24 border communities in southern Israel have been ... Israel has ordered a complete siege of the Gaza Strip. Deaths tolls\u00a0...",
+        "size": [
+          1400,
+          769
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/rani-samtani-4657702b_israelhamas-war-conflict-activity-7117327662662000640-snFv",
+        "title": "Rani Samtani - israelhamas #war #conflict #cna - LinkedInLinkedIn\u00a0\u00b7\u00a0Rani Samtani1 month ago",
+        "content": "... Israeli intelligence and defense establishments. Launched along the borders of Gaza in southern Israel, the assault began with an onslaught\u00a0...",
+        "size": [
+          800,
+          438
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/peternorden_october-10th-world-day-of-action-against-activity-7117355373728059392-9X8g?trk=public_profile_like_view",
+        "title": "Peter Norden AO on LinkedIn: OCTOBER 10TH WORLD DAY ...LinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "... Israeli intelligence and defense establishments. Launched along the borders of Gaza in southern Israel, the assault began with an onslaught of 5000-rocket\u00a0...",
+        "size": [
+          800,
+          438
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pratidintime.com/world/gaza-over-5000-children-killed-since-israels-offensive",
+        "title": "Gaza: Over 5,000 Children Killed Since Israel's OffensivePratidin Timehttps://www.pratidintime.com \u203a World",
+        "content": " \u00b7 ",
+        "size": [
+          400,
+          250
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://article.wn.com/view/2023/11/22/Live_updates_IsraelHamas_4day_truce_may_start_Thursday_Netan_bl2/",
+        "title": "Live updates | Israel-Hamas 4-day truce may start Thursday ...WN.comhttps://article.wn.com \u203a view \u203a 2023/11/22",
+        "content": " \u00b7 ",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://article.wn.com/view/2023/11/23/Israeli_official_says_talks_continuing_hostage_release_to_ta/",
+        "title": "Israeli official says talks continuing, hostage release to take ...WN.comhttps://article.wn.com \u203a view \u203a 2023/11/23 \u203a Israeli_o...",
+        "content": " \u00b7 ",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.weeklytimesnow.com.au/news/world",
+        "title": "World | Latest World News Headlines | The Weekly TimesThe Weekly Timeshttps://www.weeklytimesnow.com.au \u203a News \u203a World",
+        "content": "In this episode of UpFront, we look back at the history and context leading up to the current Israel-Gaza war. ... Israel intensifies bombs before truce, hostage\u00a0...",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.slfa.sa/?g=israel-palestine-escalation-updates-gaza-under-bombardment-israel-palestine-rr-xw5gZxuB",
+        "title": "Israel-Palestine Escalation Updates: Gaza Under ...slfa.sahttps://www.slfa.sa \u203a 57f-50h-3r",
+        "content": "Israel-Palestine escalation updates: Gaza under bombardment Israel-Palestine ... Israel bombs civilian houses without warning The Economic Times. Lista de T\u00ed.",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://threepfitness.com/?w=israel-palestine-escalation-updates-gaza-under-bombardment-israel-palestine-jj-vBBl7LcQ",
+        "title": "Israel-Palestine Escalation Updates: Gaza Under ...CrossFit Pace Patriot pridehttps://threepfitness.com \u203a ...",
+        "content": "... Gaza under bombardment Israel-Palestine conflict News Al Jazeera. EXPLAINED What is the Israel-Palestine Conflict and How Did it Originate News18. Israel\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.themercury.com.au/news/world",
+        "title": "Latest World News Headlines - The MercuryThe Mercuryhttps://www.themercury.com.au \u203a News \u203a World",
+        "content": "Israel intensifies bombs before truce, hostage release. Israel says their bombardment of Gaza ... South Korea's leader \u2013 to the delight of royal watchers. 61.",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.townsvillebulletin.com.au/news/world",
+        "title": "Latest World News Headlines - Townsville BulletinTownsville Bulletinhttps://www.townsvillebulletin.com.au \u203a News \u203a World",
+        "content": "Israel intensifies bombs before truce, hostage release. Israel says their ... Egypt says 200 trucks of aid will enter Gaza daily during the Israel-Hamas truce.",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Is-having-a-large-Hamas-supporting-immigrant-population-a-security-threat-to-European-nations",
+        "title": "Is having a large Hamas-supporting immigrant population a ...Quorahttps://www.quora.com \u203a Is-having-a-large-Hamas-supp...",
+        "content": "Which country did Israeli citizens take refuge in or leave their country when Hamas attacked yesterday, the USA, Europe, or other? Planes between Israel and the\u00a0...",
+        "size": [
+          602,
+          330
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailytelegraph.com.au/news/world",
+        "title": "World | Latest World News Headlines | Daily TelegraphThe Daily Telegraphhttps://www.dailytelegraph.com.au \u203a News \u203a World",
+        "content": "Israel intensifies bombs before truce, hostage release. Israel says their ... Israel approves deal to free Gaza hostages. Israel says it will uphold a\u00a0...",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cairnspost.com.au/news/world",
+        "title": "Latest World News Headlines | The Cairns PostThe Cairns Posthttps://www.cairnspost.com.au \u203a News \u203a World",
+        "content": "Israel intensifies bombs before truce, hostage release. Israel says their bombardment of Gaza ... South Korea's leader \u2013 to the delight of royal watchers. 61.",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://host.mehranservices.com/?g=israel-palestine-escalation-updates-gaza-under-bombardment-israel-palestine-uu-5LdkoduX",
+        "title": "Israel-Palestine Escalation Updates: Gaza Under ...mehranservices.comhttps://host.mehranservices.com \u203a ...",
+        "content": "... Gaza under bombardment Israel-Palestine conflict News Al Jazeera. EXPLAINED What is the Israel-Palestine Conflict and How Did it Originate News18. Israel\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pratidintime.com/national/india-sends-2nd-aid-package-for-palestinians-in-gaza",
+        "title": "India Sends 2nd Aid Package For Palestinians In GazaPratidin Timehttps://www.pratidintime.com \u203a National",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://constructorawanegal.com/?y=gaza-under-shelling-siege-as-palestinian-resistance-strikes-back-bb-q6PqYAuB",
+        "title": "Gaza Under Shelling, Siege As Palestinian Resistance, 57 ...constructorawanegal.comhttps://constructorawanegal.com \u203a siege under fire",
+        "content": "Gaza under shelling, siege as Palestinian resistance strikes back at Israel Dailynewsegypt, Please Note That The Following Individual Books As Per Original\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.iiss.org/",
+        "title": "The International Institute for Strategic StudiesInternational Institute for Strategic Studieshttps://www.iiss.org",
+        "content": "",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dailywestnorth.com/latest-news/israel-hamas-agree-to-temporary-suspension-of-hostilities/",
+        "title": "Israel Hamas agree to temporary suspension of hostilities ...DailyWestNorth.comhttps://dailywestnorth.com \u203a Latest News",
+        "content": " \u00b7 ",
+        "size": [
+          1032,
+          575
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/CityServeHQ/?locale=es_LA",
+        "title": "CityServe - FacebookFacebook\u00a0\u00b7\u00a0CityServe5.4K+ followers",
+        "content": "U.S. Coalition Races to Save 'Israel's Breadbasket' 3 Miles From Gaza ... Calvary Chapel South Maui. Thank you for all your help to,our Maui community and thank\u00a0...",
+        "size": [
+          498,
+          280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailytelegraph.com.au/news/world/reports-israel-used-heavy-armour-up-to-very-last-moment-before-ceasefire-michael-ware/video/ead52f29bc2ba47d02fa4ce8d569ebdd",
+        "title": "Reports Israel used heavy armour up to 'very last moment ...The Daily Telegraphhttps://www.dailytelegraph.com.au \u203a News \u203a World",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.no/photos/smoke?page=6&sort=newest",
+        "title": "340878 Smoke Stock Photos, High-Res Pictures, and ImagesGetty Imageshttps://www.gettyimages.no \u203a photos \u203a smoke",
+        "content": "Smoke rises over a buildings in Gaza City on October 9, 2023 during an Israeli air strike.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elementordemo-4.clinikadelexito.com/?k=israel-hamas-war-list-of-key-events-day-israel-jj-2GyQmBhq",
+        "title": "Israel-Hamas War: List Of Key Events, Day Israel-Palestine, 50 ...clinikadelexito.comhttps://elementordemo-4.clinikadelexito.com \u203a ...",
+        "content": "Israel-Hamas war updates: Israeli bombing rocks Gaza through the night Israel-Palestine conflict News Al Jazeera ... South China Morning Post. You may also like.",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.chirimbola.mx/?q=war-in-israel-the-new-york-times-mm-WyMvPrfZ",
+        "title": "War In Israel The New York Times, 43% OFF - ChirimbolaChirimbolahttps://www.chirimbola.mx \u203a driver natts mh3400",
+        "content": "Israel-Palestine history: The deep roots of the Israel-Gaza conflict Vox.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pratidintime.com/world/four-day-ceasefire-between-israel-and-hamas-begins-today-13-hostages-set-for-initial-release",
+        "title": "Four-Day Ceasefire Between Israel and Hamas Begins TodayPratidin Timehttps://www.pratidintime.com \u203a World",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ekadajman.ir/?m=israel-flattens-palestine-tower-amid-deadly-gaza-bombardment-news-tt-99yOLnFd",
+        "title": "Israel Flattens Palestine Tower Amid Deadly Gaza, 45% OFFekadajman.irhttps://ekadajman.ir \u203a wp-07",
+        "content": "Israel flattens Palestine Tower amid deadly Gaza bombardment News Al Jazeera, Heart Cancer Photograph by Cnri/science Photo Library.",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/CityServeHQ/",
+        "title": "CityServe - FacebookFacebook\u00a0\u00b7\u00a0CityServe5.4K+ followers",
+        "content": "... Israel's breadbasket\" \u2013 a vital agricultural region between Gaza and the ... Calvary Chapel South Maui. Thank you for all your help to,our Maui community and\u00a0...",
+        "size": [
+          498,
+          280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dodoconverter.com/search.php?search=BOMB",
+        "title": "Download BOMB mp3 free and mp4 - DodoConverterDodoConverterhttps://dodoconverter.com \u203a search",
+        "content": "Bombs rain down on Gaza as Hamas and Israel war escalates. Uploaded by: Sky News Australia \u00b7 Watch Video Download MP3 Download MP4. B.O.M.B - MC \u0426\u044d\u0440\u044d\u043d\u043f\u0438\u043b #\u041b!",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://neondavetiye.com/?i=israel-flattens-palestine-tower-amid-deadly-gaza-bombardment-news-ss-3zNyBDHb",
+        "title": "Israel Flattens Palestine Tower Amid Deadly Gaza, 57% OFFneondavetiye.comhttps://neondavetiye.com \u203a wp-07",
+        "content": "Israel flattens Palestine Tower amid deadly Gaza bombardment News Al Jazeera, Men's Messi 10 Inter Miami FC 2023/24 Home Futbol Sports Soccer Jersey Short\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/e2sham?lang=en",
+        "title": "Ehtesham Shahid (@e2sham) / XTwitter\u00a0\u00b7\u00a0e2sham660+ followers",
+        "content": "... Israel and #Hamas in #Gaza. These countries are considered \u201closers\u201d in the economic and political projects meant to bring together\u2026 Show more. Image.",
+        "size": [
+          1380,
+          920
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.couriermail.com.au/news/world",
+        "title": "Latest World News Headlines | The Courier MailCourier Mailhttps://www.couriermail.com.au \u203a News \u203a World",
+        "content": "Israel intensifies bombs before truce, hostage release. Israel says their bombardment of Gaza ... South Korea's leader \u2013 to the delight of royal watchers. 61.",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://neondavetiye.com/?i=israel-flattens-palestine-tower-amid-deadly-gaza-bombardment-news-ss-3zNyBDHb",
+        "title": "Israel Flattens Palestine Tower Amid Deadly Gaza, 57% OFFneondavetiye.comhttps://neondavetiye.com \u203a wp-07",
+        "content": "Israel flattens Palestine Tower amid deadly Gaza bombardment News Al Jazeera, Men's Messi 10 Inter Miami FC 2023/24 Home Futbol Sports Soccer Jersey Short\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/e2sham?lang=en",
+        "title": "Ehtesham Shahid (@e2sham) / XTwitter\u00a0\u00b7\u00a0e2sham660+ followers",
+        "content": "... Israel and #Hamas in #Gaza. These countries are considered \u201closers\u201d in the economic and political projects meant to bring together\u2026 Show more. Image.",
+        "size": [
+          1380,
+          920
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://medium.com/@deepakkumar837457/understanding-the-israel-palestine-conflict-a-complex-struggle-for-peace-71a00870c98f",
+        "title": "Understanding the Israel-Palestine Conflict: A Complex ...Medium\u00a0\u00b7\u00a0Deepak Kumar1 month ago",
+        "content": "Both Israelis and Palestinians claim a right to the land, particularly in the West Bank, Gaza Strip, and East Jerusalem. This has led to\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.couriermail.com.au/news/world",
+        "title": "Latest World News Headlines | The Courier MailCourier Mailhttps://www.couriermail.com.au \u203a News \u203a World",
+        "content": "Israel intensifies bombs before truce, hostage release. Israel says their bombardment of Gaza ... South Korea's leader \u2013 to the delight of royal watchers. 61.",
+        "size": [
+          960,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/ALevesques",
+        "title": "Antoine Levesques (@ALevesques) / XTwitter\u00a0\u00b7\u00a0ALevesques920+ followers",
+        "content": "Research Fellow for South & Central Asian Defence Strategy & Diplomacy @IISS_org; RT not endorsement; Views my own; #SouthAsia-#China in #IndoPacific\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mytexasdaily.com/news/national/shakira-in-the-dock-in-spanish-tax-fraud-case/article_c0a8a4d2-ebe2-52b6-85f7-10a893777894.html",
+        "title": "Shakira reaches deal to settle Spain tax fraud case | NationalMyTexasDaily.comhttps://www.mytexasdaily.com \u203a news \u203a national \u203a shakir...",
+        "content": "Shakira reaches deal to settle Spain tax fraud case | NationalMyTexasDaily.comhttps://www.mytexasdaily.com \u203a news \u203a national \u203a shakir...",
+        "size": "",
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gaangchil.com/hollywood/",
+        "title": "Hollywood - Gaangchilgaangchil.comhttps://gaangchil.com \u203a hollywood",
+        "content": "Mia Khalifa Fired for Supporting Palestine During Israel-Hamas War. 3 weeks ... Miscreants Intrude on Film Set, Misbehave with South Actress Shubha Poonja. 6\u00a0...",
+        "size": [
+          720,
+          475
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/shashj/status/1712117093926134086",
+        "title": "Shashank Joshi on X: \"John Raine: \"A tricky decision for both ...Twitter\u00a0\u00b7\u00a0shashj100+ likes  \u00b7  1 month ago",
+        "content": "",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zbcnews.co.zw/?cat=2&paged=49",
+        "title": "Featured \u2013 Page 49 - ZBC NEWSZBC NEWShttps://www.zbcnews.co.zw \u203a ...",
+        "content": "Featured \u00b7 Mighty Warriors bring cheer to Zimbabwean football fans \u00b7 Israeli air strikes rock Gaza for sixth day \u00b7 CCC legislators' double standards exposed.",
+        "size": [
+          741,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.instagram.com/goody.feed/",
+        "title": "Goody Feed (@goody.feed) \u2022 Instagram photos and videosInstagram\u00a0\u00b7\u00a0goody.feed13.9K+ followers",
+        "content": "",
+        "size": [
+          1080,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mamamia.com.au/four-women-murdered-domestic-violence/",
+        "title": "multiple women were murdered in one week. - MamamiaMamamiahttps://www.mamamia.com.au \u203a four-women-murdere...",
+        "content": "multiple women were murdered in one week. - MamamiaMamamiahttps://www.mamamia.com.au \u203a four-women-murdere...",
+        "size": "",
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.asorock.com/in-news/customs-records-n1-755bn-seizures-generates-n72-7mn/r13ik4eulp3.html?topicName=in-news&pageSize=12&returnUrl=%2Fin-news&pm=s",
+        "title": "Customs Records N1.755BN Seizures, Generates N72.7MNAsorock.comhttps://www.asorock.com \u203a in-news \u203a in-news",
+        "content": "Latest news videos and tweets \u00b7 \u2728 Just Now. Customs Records N1. \u00b7 \u2728 New. Bombs rain down on Gaza as Hamas and Israel war escalates \u00b7 \u2728 Just Now. [LIVE] KATSINA\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.couriermail.com.au/video",
+        "title": "News Videos - The Courier MailCourier Mailhttps://www.couriermail.com.au \u203a Video",
+        "content": "South Burnett Times \u00b7 Queensland Times \u00b7 Sunshine Coast Daily Digital \u00b7 Sunshine ... Egypt says 200 trucks of aid will enter Gaza daily during the Israel-Hamas\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gaangchil.com/entertainment/mia-khalifa-fired-for-supporting-palestine-during-israel-hamas-war/",
+        "title": "Mia Khalifa Fired for Supporting Palestine During Israel ...gaangchil.comhttps://gaangchil.com \u203a Entertainment",
+        "content": "South Film \u00b7 TV ... Around 1,600 people have been killed so far, including 900 from Israel and nearly 700 from Gaza, and thousands have been injured on both sides\u00a0...",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://indiashippingnews.com/tag/maersk/",
+        "title": "Maersk Archives - India Shipping NewsIndia Shipping Newshttps://indiashippingnews.com \u203a tag \u203a maersk",
+        "content": "The conflict in Israel after attacks by Islamist group Hamas on towns close to Gaza has caused great concerns in the global community, while the impact on\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://medium.com/@TCTBlog/the-gift-of-prayer-2cf85dace690",
+        "title": "The Gift of Prayer - MediumMedium\u00a0\u00b7\u00a0TCT Network2 weeks ago",
+        "content": "But did you know that God gives us the victory? When we pray, we ask ... Israel At War: How You Can Help. Israel at War \u00b7 3 min read\u00b7Oct 13.",
+        "size": [
+          1358,
+          746
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://medium.com/@TCTBlog/gifts-that-inspire-prayer-and-daily-devotionals-af1ab5911f42",
+        "title": "Gifts That Inspire: Prayer and Daily Devotionals | by TCT ...Medium\u00a0\u00b7\u00a0TCT Network1 week ago",
+        "content": "",
+        "size": [
+          1358,
+          746
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.asorock.com/in-news/customs-records-n1-755bn-seizures-generates-n72-7mn/r13ik4eulp3.html?topicName=in-news&pageSize=12&returnUrl=%2Fin-news&pm=s",
+        "title": "Customs Records N1.755BN Seizures, Generates N72.7MNAsorock.comhttps://www.asorock.com \u203a in-news \u203a in-news",
+        "content": "Latest news videos and tweets \u00b7 \u2728 Just Now. Customs Records N1. \u00b7 \u2728 New. Bombs rain down on Gaza as Hamas and Israel war escalates \u00b7 \u2728 Just Now. [LIVE] KATSINA\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gaangchil.com/entertainment/mia-khalifa-fired-for-supporting-palestine-during-israel-hamas-war/",
+        "title": "Mia Khalifa Fired for Supporting Palestine During Israel ...gaangchil.comhttps://gaangchil.com \u203a Entertainment",
+        "content": "South Film \u00b7 TV ... Around 1,600 people have been killed so far, including 900 from Israel and nearly 700 from Gaza, and thousands have been injured on both sides\u00a0...",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://janekagiri.org/index.php/260-Sean-Burke-Photos-High-Res-Pictures-Getty-Images-6838-138828",
+        "title": "1260 Sean Burke Photos & High Res Pictures - Getty Imagesjanekagiri.orghttps://janekagiri.org \u203a index.php \u203a 260-Sean-Burke-P...",
+        "content": "Gaza and Israel-Hamas conflict updates, Oct. 9, 2023. 1,260 Sean Burke Photos & High Res Pictures - Getty Images. The John Tavares Contract Encyclopedia\u00a0...",
+        "size": [
+          5500,
+          3667
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://indiashippingnews.com/tag/maersk/",
+        "title": "Maersk Archives - India Shipping NewsIndia Shipping Newshttps://indiashippingnews.com \u203a tag \u203a maersk",
+        "content": "The conflict in Israel after attacks by Islamist group Hamas on towns close to Gaza has caused great concerns in the global community, while the impact on\u00a0...",
+        "size": [
+          886,
+          486
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.gettyimages.co.jp/%E5%86%99%E7%9C%9F/israel-continues-bombing-of-gaza",
+        "title": "12888\u70b9\u306eIsrael Continues Bombing Of Gaza\u306e\u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8Getty Imageshttps://www.gettyimages.co.jp \u203a \u5199\u771f",
+        "content": "\u30b2\u30c3\u30c6\u30a3\u30a4\u30e1\u30fc\u30b8\u30ba\u3067\u3001Israel Continues Bombing Of Gaza\u306e\u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8\u3084\u30cb\u30e5\u30fc\u30b9\u5199\u771f\u3092\u898b\u3064\u3051\u307e\u3057\u3087\u3046\u3002\u30d7\u30ec\u30df\u30a2\u30e0\u306aIsrael Continues Bombing Of Gaza\u306e\u9ad8\u54c1\u8cea\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/october-bomb-blast",
+        "title": "18.550 fotos e im\u00e1genes de October Bomb Blast - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "October 2023, Palestinian Territories, Rafah: Hamas fires a large number of rockets towards Israel in the city of Rafah in the southern Gaza Strip....",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.ch/fotos/gaza-bombing",
+        "title": "20.558 Gaza Bombing Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.ch \u203a fotos",
+        "content": "Finden Sie Stock-Fotos zum Thema Gaza Bombing sowie redaktionelle Newsbilder von Getty Images. W\u00e4hlen Sie aus 20.558 erstklassigen Inhalten zum Thema Gaza\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gettyimages.de/fotos/gaza-bombing",
+        "title": "20.405 Gaza Bombing Bilder und Fotos - Getty ImagesGetty Imageshttps://www.gettyimages.de \u203a fotos",
+        "content": "Finden Sie Stock-Fotos zum Thema Gaza Bombing sowie redaktionelle Newsbilder von Getty Images. W\u00e4hlen Sie aus 20.405 erstklassigen Inhalten zum Thema Gaza\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/fotos/israel-israeli-blast",
+        "title": "8.419 foto's en beelden met Israel Israeli Blast - Getty ImagesGetty Imageshttps://www.gettyimages.nl \u203a fotos",
+        "content": "This picture taken early on April 7, 2023 shows explosions in Khan Yunis in the southern Gaza Strip during Israeli air strikes on the Palestinian...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/editorial-images/news/event/aftermath-of-israeli-airstrike-in-gaza-palestine/776046533",
+        "title": "Aftermath Of Israeli Airstrikes In Gaza, Palestine - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a event",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/editorial-images/news/event/aftermath-of-israeli-airstrike-in-gaza-palestine/776046533",
+        "title": "Aftermath Of Israeli Airstrikes In Gaza, Palestine - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a event",
+        "content": "GZA: Aftermath Of Israeli Airstrikes In Gaza, Palestine. 203 immagini. Sfoglia 203 fotografie e immagini disponibili, o avvia una nuova ricerca per trovare\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "volcano",
+        "ioclass": "outdoor",
+        "probability": 0.15236534178256989
+      },
+      {
+        "class": "industrial_area",
+        "ioclass": "outdoor",
+        "probability": 0.13092811405658722
+      },
+      {
+        "class": "oilrig",
+        "ioclass": "outdoor",
+        "probability": 0.10220997035503387
+      },
+      {
+        "class": "construction_site",
+        "ioclass": "outdoor",
+        "probability": 0.09665746986865997
+      },
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.09491142630577087
+      }
+    ],
+    "transients": [
+      {
+        "class": "busy",
+        "score": 0.6875710487365723
+      },
+      {
+        "class": "dark",
+        "score": 0.6280471682548523
+      },
+      {
+        "class": "weather/clouds",
+        "score": 0.6135132312774658
+      },
+      {
+        "class": "time/night",
+        "score": 0.5940001606941223
+      },
+      {
+        "class": "cluttered",
+        "score": 0.58841872215271
+      },
+      {
+        "class": "beautiful",
+        "score": 0.5842156410217285
+      },
+      {
+        "class": "moist",
+        "score": 0.5824923515319824
+      },
+      {
+        "class": "moment/dawn-dusk",
+        "score": 0.5555413365364075
+      },
+      {
+        "class": "glowing",
+        "score": 0.5348976254463196
+      },
+      {
+        "class": "colorful",
+        "score": 0.52638840675354
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 477,
+        "pred_lat": 38.40044403076172,
+        "pred_long": -0.39219939708709717
+      },
+      "middle": {
+        "pred_class": 1725,
+        "pred_lat": 41.99556350708008,
+        "pred_long": 2.866098403930664
+      },
+      "fine": {
+        "pred_class": 6713,
+        "pred_lat": 41.64760971069336,
+        "pred_long": 0.6574837565422058
+      },
+      "hierarchy": {
+        "pred_class": 7285,
+        "pred_lat": 38.34425735473633,
+        "pred_long": -0.4968222379684448
+      },
+      "country": {
+        "city": "Lleida",
+        "state": "Catalonia",
+        "country": "Spain"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 41.65202,
+    "longitude": 0.650289,
+    "generationtime_ms": 0.15795230865478516,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 157.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2009-02-24T00:00",
+        "2009-02-24T01:00",
+        "2009-02-24T02:00",
+        "2009-02-24T03:00",
+        "2009-02-24T04:00",
+        "2009-02-24T05:00",
+        "2009-02-24T06:00",
+        "2009-02-24T07:00",
+        "2009-02-24T08:00",
+        "2009-02-24T09:00",
+        "2009-02-24T10:00",
+        "2009-02-24T11:00",
+        "2009-02-24T12:00",
+        "2009-02-24T13:00",
+        "2009-02-24T14:00",
+        "2009-02-24T15:00",
+        "2009-02-24T16:00",
+        "2009-02-24T17:00",
+        "2009-02-24T18:00",
+        "2009-02-24T19:00",
+        "2009-02-24T20:00",
+        "2009-02-24T21:00",
+        "2009-02-24T22:00",
+        "2009-02-24T23:00",
+        "2009-02-25T00:00",
+        "2009-02-25T01:00",
+        "2009-02-25T02:00",
+        "2009-02-25T03:00",
+        "2009-02-25T04:00",
+        "2009-02-25T05:00",
+        "2009-02-25T06:00",
+        "2009-02-25T07:00",
+        "2009-02-25T08:00",
+        "2009-02-25T09:00",
+        "2009-02-25T10:00",
+        "2009-02-25T11:00",
+        "2009-02-25T12:00",
+        "2009-02-25T13:00",
+        "2009-02-25T14:00",
+        "2009-02-25T15:00",
+        "2009-02-25T16:00",
+        "2009-02-25T17:00",
+        "2009-02-25T18:00",
+        "2009-02-25T19:00",
+        "2009-02-25T20:00",
+        "2009-02-25T21:00",
+        "2009-02-25T22:00",
+        "2009-02-25T23:00"
+      ],
+      "apparent_temperature": [
+        1.2,
+        0.9,
+        0.4,
+        0.2,
+        0.5,
+        0.4,
+        0.9,
+        1.7,
+        2.8,
+        4.6,
+        6.8,
+        8.7,
+        10.8,
+        11.8,
+        12.6,
+        12.5,
+        12.4,
+        12.0,
+        10.3,
+        7.9,
+        4.5,
+        3.6,
+        2.9,
+        2.8,
+        2.7,
+        2.5,
+        2.7,
+        2.5,
+        2.4,
+        2.1,
+        1.6,
+        0.8,
+        2.8,
+        6.1,
+        8.7,
+        10.2,
+        11.6,
+        12.3,
+        12.4,
+        11.8,
+        10.6,
+        9.4,
+        7.8,
+        6.8,
+        5.9,
+        4.9,
+        4.1,
+        3.1
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

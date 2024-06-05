@@ -1,0 +1,933 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {},
+        "seasonal": false,
+        "max_count": 0,
+        "abnormal": false,
+        "plot": {
+          "labels": [],
+          "datasets": []
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 27,
+            "percentage": 43.54838709677419
+          },
+          "Persian": {
+            "count": 19,
+            "percentage": 30.64516129032258
+          },
+          "Chinese": {
+            "count": 5,
+            "percentage": 8.064516129032258
+          },
+          "Slovak": {
+            "count": 3,
+            "percentage": 4.838709677419355
+          },
+          "Portuguese": {
+            "count": 2,
+            "percentage": 3.225806451612903
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 2,
+            "percentage": 3.225806451612903
+          },
+          "Arabic": {
+            "count": 1,
+            "percentage": 1.6129032258064515
+          },
+          "Spanish; Castilian": {
+            "count": 1,
+            "percentage": 1.6129032258064515
+          },
+          "Croatian": {
+            "count": 1,
+            "percentage": 1.6129032258064515
+          },
+          "Russian": {
+            "count": 1,
+            "percentage": 1.6129032258064515
+          }
+        },
+        "total": 62,
+        "plot": {
+          "labels": [
+            "English",
+            "Persian",
+            "Chinese",
+            "Slovak",
+            "others"
+          ],
+          "data": [
+            43,
+            30,
+            8,
+            4,
+            15
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": null,
+      "oldest": null,
+      "unspecified_time": 62,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.tweaktown.com/news/70865/everything-you-need-to-know-about-the-horrific-tesla-autopilot-crash/index.html",
+        "title": "Everything you need to know about the horrific Tesla 'Autopilot ...TweakTownhttps://www.tweaktown.com \u203a news \u203a everything-you-...",
+        "content": " \u00b7 ",
+        "size": [
+          620,
+          381
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Is-crashing-into-a-Tesla-the-same-as-crashing-into-a-car-from-the-fifties",
+        "title": "Is crashing into a Tesla the same as crashing into a car from ...Quorahttps://www.quora.com \u203a Is-crashing-into-a-Tesla-the-sa...",
+        "content": " \u00b7 ",
+        "size": [
+          602,
+          372
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/",
+        "title": "Tesla staged 2016 self-driving demo, says senior Autopilot ...Ars Technicahttps://arstechnica.com \u203a cars \u203a 2023/01 \u203a tesla-staged...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://arstechnica.com/cars/2020/02/data-shows-tesla-owner-experienced-same-glitch-days-before-deadly-2018-crash/",
+        "title": "Data shows Tesla owner experienced repeated glitch days ...Ars Technicahttps://arstechnica.com \u203a cars \u203a 2020/02 \u203a data-shows-...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://castoreventi.com/tesla-fatal-crash-k.html",
+        "title": "blodige paraply Soloppgang tesla fatal crash bli imponert ...castoreventi.comhttps://castoreventi.com \u203a tesla-fatal-crash-k",
+        "content": "Tesla hit parked police car 'while using Autopilot' - BBC News \u00b7 Feds Investigating Yet Another Fatal Tesla Crash, Again | The Drive \u00b7 Family of victims killed in\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/How-safe-are-Teslas-in-a-crash-I-see-they-have-high-ratings-but-the-internet-has-lots-of-stories-of-them-breaking-in-half-in-accidents",
+        "title": "How safe are Teslas in a crash? I see they have high ratings ...Quorahttps://www.quora.com \u203a How-safe-are-Teslas-in-a-crash...",
+        "content": " \u00b7 ",
+        "size": [
+          602,
+          372
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tweaktown.com/news/70700/tesla-owner-who-died-in-horrific-car-crash-was-playing-mobile-games/index.html",
+        "title": "Tesla owner who died in horrific car crash was playing mobile ...TweakTownhttps://www.tweaktown.com \u203a news \u203a tesla-owner-wh...",
+        "content": " \u00b7 ",
+        "size": [
+          620,
+          382
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://forums.hardwarezone.com.sg/threads/if-tesla-crashed-at-tanjong-pagar.6467699/",
+        "title": "If Tesla crashed at Tanjong Pagar - HardwareZone ForumHardwareZone Forumhttps://forums.hardwarezone.com.sg \u203a threads \u203a if-tesla-c...",
+        "content": " \u00b7 ",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tweaktown.com/news/technology_in_vehicles/index43.html",
+        "title": "Electric Vehicles & Cars News - Page 43 - TweakTownTweakTownhttps://www.tweaktown.com \u203a news \u203a index43",
+        "content": "... crashed in March, 2018 had previously reported issues with Tesla's Autopilot system. Apple engineer who died in a car crash reported Tesla Autopilot issues.",
+        "size": [
+          620,
+          382
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tweaktown.com/index1962.html",
+        "title": "Latest Worldwide Tech News & Game Reviews (Page 1962)TweakTownhttps://www.tweaktown.com \u203a index1962",
+        "content": " \u00b7 ",
+        "size": [
+          620,
+          381
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.opalelongecote.fr/fatal-crash-xbox-k.html",
+        "title": "Plat \u00e9tain engagement fatal crash xbox Gazeux Ulysse fragileOpale Longe C\u00f4tehttps://www.opalelongecote.fr \u203a fatal-crash-xbox-k",
+        "content": "Amazon.com: Crash Team Racing - Nitro Fueled - Xbox One : Activision Inc: Everything Else \u00b7 Data shows Tesla owner experienced repeated glitch days before deadly\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fvde.org/?en=5.60.6085541.5.26.87.tesla+model+x+2010",
+        "title": "Tesla Model X 2010 Top Sellers - fvde.org 1700056414fvde.orghttps://fvde.org \u203a ...",
+        "content": "Tesla Model X - Wikipedia tesla model x 2010 Tesla Model X Crashed In China tesla model x 2010 Cars Gallery And Information: tesla model x tesla model x\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.abaroadrive.com/?shopping=tesla+model+x+2010_MTNfNF83ODA5MzdfMzkz",
+        "title": "Tesla Model X 2010 Clearance, SAVE 34% - abaroadrive.comabaroadrivehttps://www.abaroadrive.com \u203a ...",
+        "content": "Tesla Motors Model X, Tesla Model X saves family and pet , Used Tesla Model X for Sale Near Me.",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://rchiips.org/kdyo.aspx?cname=should+i+buy+a+car+that+has+been+in+an+accident&cid=91",
+        "title": "should i buy a car that has been in an accidentDistrict Level Household Surveyhttp://rchiips.org \u203a kdyo",
+        "content": "buying a car that's been in a crash; should i buy a car that has been in an ... Tesla owner experienced repeated glitch; should i buy a car that has been in\u00a0...",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mynali.ca/pattr.php?iid=281511611-2020+glitch+bat&cid=80",
+        "title": "2020 glitch bat Online Shopping - MynaliMynalihttps://mynali.ca \u203a pattr",
+        "content": "Tesla owner experienced repeated glitch; DeMarini CF Glitch -10 USSSA Baseball Bat. Size: Average Size, Women's shoes=EU:35=US:5, Women's shoes=EU:36=US:6\u00a0...",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mynali.ca/pattr.php?iid=281511599-2020+glitch+bat&cid=80",
+        "title": "2020 glitch bat Online Shopping - MynaliMynalihttps://mynali.ca \u203a pattr",
+        "content": "2021 DeMarini CF Glitch -10 (2 3/4; The 20 Throwbacks That Need to Happen; DeMarini CF Glitch -10 2-3/4\\; Tesla owner experienced repeated glitch; DeMarini CF\u00a0...",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dishagroup.in/jvdd.aspx?iid=464083416-should+i+buy+a+car+that+has+been+in+an+accident&cid=91",
+        "title": "should i buy a car that has been in an accidentDisha Computer Institutehttps://dishagroup.in \u203a jvdd",
+        "content": "Why has Tiger Woods' car crash put; Used Car Has Been in an Accident; Cat C ... Tesla owner experienced repeated glitch; Buying used cars: 5 signs a car has\u00a0...",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://villacarrara.it/robos.asp?shop=tesla+model+x+2010&cid=4",
+        "title": "tesla model x 2010 > OFF-53% | - Villa Carraravillacarrara.ithttps://villacarrara.it \u203a robos",
+        "content": "2021 Tesla Model X Review | New Tesla; tesla model x 2010 Tesla Model X Crashed In China | Tesla; tesla model x 2010 Tesla Model S - Wikipedia; tesla model x\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cccpe.ca/taid.aspx?cname=2020+glitch+bat&cid=80",
+        "title": "2020 glitch bat for Sale,Up To OFF 78%CANADIAN COLLEGE FOR THE CERTIFICATION OF PROFESSIONAL ERGONOMISTShttps://www.cccpe.ca \u203a taid",
+        "content": "2020 glitch bat Tesla owner experienced repeated glitch; 2020 glitch bat DeMarini CF Glitch -10 USSSA Baseball Bat. If Darvish was compelled to respond to a\u00a0...",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=NFOdM83iXcg",
+        "title": "Priyanka Mongia \u0915\u0940 \u092e\u094c\u0924 \u0915\u0948\u0938\u0947 \u0939\u0941\u0908 - YouTubeYouTube\u00a0\u00b7\u00a0Karan Technical4,1K+ views  \u00b7  3 years ago",
+        "content": "",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktt2.com/describe-rappers-as-cars-103801/2",
+        "title": "describe rappers as cars - ktt2ktt2https://ktt2.com \u203a describe-rappers-as-cars-103801",
+        "content": "",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.pilchuckfoundation.org/tesla-car-crash",
+        "title": "publika Mo\u017ee se izra\u010dunati Ku\u0107ni ljubimci tesla car crashpilchuckfoundation.orghttps://www.pilchuckfoundation.org \u203a ...",
+        "content": "Rasplod Lo\u0161e pla\u0107anje Tesla in spotlight again in China as Model 3 crashes after high-speed driving - CnEVPost. jezero zalijepiti preru\u0161avanje Federal\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://franquia.toutsie.com.br/jick.php?iid=281511609-2020+glitch+bat&cid=80",
+        "title": "2020 glitch bat Online Shopping - Franquia ToutsieToutsiehttps://franquia.toutsie.com.br \u203a jick",
+        "content": "DeMarini CF Glitch -10 2-3/4\\; Tesla owner experienced repeated glitch; DeMarini CF Glitch -10 USSSA Baseball Bat. Size: Average Size, Women's shoes=EU:35=US:5\u00a0...",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://misolc.com/?h=0db27c1&iid=6_23462319_15_0",
+        "title": "Creta car new model, UP TO 61% OFF generous dealmisolc.comhttps://misolc.com \u203a ...",
+        "content": "crashed model cars Data shows Tesla owner experienced repeated glitch days before crashed model cars Close up of toy cars crash Stock Photo Alamy crashed\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.stilolinea.it/robos.asp?shop=2010+tesla+model+x&cid=4",
+        "title": "2010 tesla model x > OFF-70% | - StilolineaStilolineahttps://www.stilolinea.it \u203a robos",
+        "content": "2010 tesla model x Tesla Model X Crashed In China | Tesla; 2010 tesla model x Tesla Model X 100D (2017-2019) prijs en\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://auditoria.bmtrada.es/robo.asp?cname=2010+tesla+model+x&cid=4",
+        "title": "2010 tesla model x > OFF-67% |BMC Assurancehttp://auditoria.bmtrada.es \u203a robo",
+        "content": "Tesla Model X Crashed In China | Tesla; 2010 tesla model x Tesla Model X 100D (2017-2019) prijs en; 2010 tesla model x Tesla Model X 100D Long Range prijzen\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://kkram.in/sitemap.asp?shop=2010+tesla+model+x&cid=4&iid=18008160",
+        "title": "2010 tesla model x - kkramkkram.inhttp://kkram.in \u203a sitemap",
+        "content": "Electric cars; Tesla Model X - Wikipedia; Seat Alhambra 2010-present vs. Tesla; Tesla: Model S 'May Experience; Used Tesla Model X for Sale in Los; Tesla Model\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://auditoria.bmtrada.es/robo.asp?cname=tesla+model+x+2010&cid=4",
+        "title": "tesla model x 2010 > OFF-53% |BMC Assurancehttp://auditoria.bmtrada.es \u203a robo",
+        "content": "2021 Tesla Model X Review | New Tesla; tesla model x 2010 Tesla Model X Crashed In China | Tesla; tesla model x 2010 Tesla Model S - Wikipedia; tesla model x\u00a0...",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://svetapple.sk/zo-sveta/97289/",
+        "title": "Tesla je vy\u0161etrovan\u00e1 kv\u00f4li autopilotovi. Jej elektromobily ...Svetapple.skhttps://svetapple.sk \u203a zo-sveta",
+        "content": " \u00b7 ",
+        "size": [
+          1920,
+          1187
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://blog.csdn.net/programmerjob/article/details/128739631",
+        "title": "\u7279\u65af\u62c9\u81ea\u52a8\u9a7e\u9a76\u5b9e\u4e3a\u5f25\u5929\u5927\u8c0e\uff01\u603b\u76d1\u5b9e\u9524\u9020\u5047 - CSDN\u535a\u5ba2CSDN\u535a\u5ba2https://blog.csdn.net \u203a article \u203a details",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://blog.csdn.net/weixin_47196664/article/details/128810876",
+        "title": "\u7279\u65af\u62c9\u81ea\u52a8\u9a7e\u9a76\u5b9e\u4e3a\u5f25\u5929\u5927\u8c0e\uff01\u603b\u76d1\u5b9e\u9524\u9020\u5047\uff0c\u60ca\u5929\u5927\u74dc\uff01 \u8f6c\u8f7dCSDN\u535a\u5ba2https://blog.csdn.net \u203a article \u203a details",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.mundoconectado.com.br/carros/motorista-que-morreu-por-autopilot-da-tesla-sabia-da-falha-no-sistema/",
+        "title": "Motorista que morreu por Autopilot da Tesla sabia da falha no ...Mundo Conectadohttps://www.mundoconectado.com.br \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          620,
+          382
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.startitup.sk/ked-havaruje-tesla-horiace-baterie-zasypali-okolite-domy-a-podpalili-postel/",
+        "title": "Horiace bat\u00e9rie zasypali okolit\u00e9 domy a podp\u00e1lili poste\u013eStartitup.skhttps://www.startitup.sk \u203a ked-havar...",
+        "content": " \u00b7 ",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.newstand.ro/2023/01/18/videoclipul-tesla-pe-pilot-automat-a-fost-un-fake-dezvaluie-un-inginer-de-sistem/",
+        "title": "Videoclipul Tesla Model X, pe pilot automat, a fost un fals ...newstand.rohttps://www.newstand.ro \u203a videocli...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.startitup.sk/tag/tesla-model-s/",
+        "title": "Arch\u00edvy tesla model s - Startitup.skStartitup.skhttps://www.startitup.sk \u203a tag \u203a tesla...",
+        "content": "Ke\u010f havaruje Tesla: Horiace bat\u00e9rie zasypali okolit\u00e9 domy a podp\u00e1lili poste\u013e \u00b7 Model Tesla S sa stal tret\u00edm najr\u00fdchlej\u0161\u00edm autom sveta \u00b7 Tesla Model S letela 24\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.sohu.com/a/713497619_121687414",
+        "title": "\u82f9\u679c\u534e\u88d4\u5de5\u7a0b\u5e08\u5f00\u7279\u65af\u62c9\u9047\u96be\u8c01\u6709\u8d23\u4efb\uff1f\u76d1\u7ba1\u62a5\u544a\u516c\u5e03 - \u641c\u72d0Sohuhttps://www.sohu.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          700,
+          432
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.mundoconectado.com.br/carros/advogados-da-tesla-usam-deepfakes-como-desculpa-para-elon-musk-nao-comparecer-a-tribunal/",
+        "title": "Advogados da Tesla usam deepfakes como desculpa para ...Mundo Conectadohttps://www.mundoconectado.com.br \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          620,
+          382
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.aparat.com/v/qrWjk",
+        "title": "\u067e\u0627\u0631\u06a9 \u0645\u0645\u0646\u0648\u0639\u060c\u060c\u060c\u060c - \u0622\u067e\u0627\u0631\u0627\u062a\u0622\u067e\u0627\u0631\u0627\u062ahttps://www.aparat.com \u203a qrWjk",
+        "content": " \u00b7 ",
+        "size": [
+          300,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://autolatest.ro/stiri/conform-asiguratorilor-masinile-cu-cele-mai-multe-daune-din-parcul-auto-sunt-cele-de-la-tesla-hyundai-si-subaru/",
+        "title": "Conform asiguratorilor masinile cu cele mai multe daune din ...AutoLaTesthttps://autolatest.ro \u203a stiri \u203a conform...",
+        "content": " \u00b7 ",
+        "size": [
+          1473,
+          904
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.tala.ir/news/detail/145628/%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%A8%D9%87-%D9%82%D8%AA%D9%84-%D9%85%D8%AD%DA%A9%D9%88%D9%85-%D8%B4%D8%AF--%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1",
+        "title": "\u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u0642\u062a\u0644 \u0645\u062d\u06a9\u0648\u0645 \u0634\u062f! + \u0648\u06cc\u062f\u06cc\u0648 \u0648 \u062a\u0635\u0627\u0648\u06cc\u0631 - \u0637\u0644\u0627\u0633\u0627\u06cc\u062a \u0637\u0644\u0627https://www.tala.ir \u203a \u0627\u0642\u062a\u0635\u0627\u062f \u062c\u0647\u0627\u0646\u06cc",
+        "content": "\u0634\u06a9\u0627\u06cc\u062a \u0648 \u0634\u0647\u0627\u062f\u062a \u0639\u062c\u06cc\u0628 \u0648 \u0634\u0631\u0645 \u0622\u0648\u0631 \u0645\u0647\u0646\u062f\u0633 \u0633\u0627\u0628\u0642 \u062a\u0633\u0644\u0627\u060c \u0627\u062d\u062a\u0645\u0627\u0644\u0627 \u067e\u0627\u06cc \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0631\u0627 \u0628\u0647 \u06cc\u06a9 \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0635\u0627\u062f\u0641 \u0648 \u0642\u062a\u0644 \u0628\u0627\u0632 \u0645\u06cc\u200c\u06a9\u0646\u062f\u061b \u0686\u06cc\u0632\u06cc \u06a9\u0647 \u0645\u0631\u062f \u0645\u0631\u06cc\u062e\u06cc \u0646\u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0631\u0627\u062d\u062a\u06cc \u0627\u0632 \u0622\u0646 \u0642\u0633\u0631\u00a0...",
+        "size": [
+          620,
+          383
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://zhuanlan.zhihu.com/p/604322941",
+        "title": "\u7279\u65af\u62c9\u9a7e\u9a76\u5458\u5728\u9ad8\u901f\u4e0a\u7761\u7740\uff0c\u56f4\u7ed5\u81ea\u52a8\u9a7e\u9a76\u5b58\u5728\u5f88\u5927\u8bef\u89e3\u548c\u4e0d\u8d1f ...\u77e5\u4e4e\u4e13\u680fhttps://zhuanlan.zhihu.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          720,
+          444
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://fararu.com/fa/news/603396/%D9%BE%D8%A7%DB%8C-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%A8%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%88-%D9%82%D8%AA%D9%84-%D8%A8%D8%A7%D8%B2-%D8%B4%D8%AF",
+        "title": "\u067e\u0627\u06cc \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0635\u0627\u062f\u0641 \u0648 \u0642\u062a\u0644 \u0628\u0627\u0632 \u0634\u062f - \u0641\u0631\u0627\u0631\u0648\u0641\u0631\u0627\u0631\u0648https://fararu.com \u203a news \u203a \u067e\u0627\u06cc-\u0627\u06cc\u0644\u0627...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.khabaronline.ir/news/1722822/%D9%BE%D8%A7%DB%8C-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%A8%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%88-%D9%82%D8%AA%D9%84-%D8%A8%D8%A7%D8%B2-%D8%B4%D8%AF",
+        "title": "\u067e\u0627\u06cc \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0635\u0627\u062f\u0641 \u0648 \u0642\u062a\u0644 \u0628\u0627\u0632 \u0634\u062f - \u062e\u0628\u0631\u0622\u0646\u0644\u0627\u06cc\u0646\u062e\u0628\u0631\u0622\u0646\u0644\u0627\u06cc\u0646https://www.khabaronline.ir \u203a news",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.aparat.com/v/9tM07",
+        "title": "\u062f\u06cc\u0644\u06cc\u0646 \u062f\u06cc\u0644\u06cc\u0646 - \u062a\u0646\u0647\u0627 \u062f\u0631 \u067e\u0627\u0631\u06a9 - \u0622\u067e\u0627\u0631\u0627\u062a\u0622\u067e\u0627\u0631\u0627\u062ahttps://www.aparat.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          300,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.aparat.com/v/3ir0l",
+        "title": "\u0647\u06cc\u0648\u0645\u0646 \u067e\u0627\u0631\u06a9 \u0648 \u062f\u06a9\u062a\u0631 \u0644\u0646\u062f - \u0622\u067e\u0627\u0631\u0627\u062a\u0622\u067e\u0627\u0631\u0627\u062ahttps://www.aparat.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          300,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://redian.news/wxnews/230083",
+        "title": "\u7279\u65af\u62c9\u81ea\u52a8\u9a7e\u9a76\u5b9e\u4e3a\u5f25\u5929\u5927\u8c0e\uff01\u603b\u76d1\u5b9e\u9524\u9020\u5047 - Redian NewsRedian Newshttps://redian.news \u203a wxnews",
+        "content": "\u6700\u8fd1\uff0c\u4e00\u540d\u7279\u65af\u62c9\u9ad8\u7ea7\u5de5\u7a0b\u5e08\u7206\u6599\uff0c2016\u5e74\u7279\u65af\u62c9\u7528\u6765\u5927\u8086\u5ba3\u4f20\u7684Autopilot\u81ea\u52a8\u9a7e\u9a76\u6f14\u793a\u89c6\u9891\uff0c\u5b9e\u9645\u4e0a\u662f\u4f2a\u9020\u7684\uff1f \u89c6\u9891\u5730\u5740\uff1ahttps://www.tesla.com/videos/full-self-driving-\u00a0...",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://mail.fararu.com/fa/news/603396/%D9%BE%D8%A7%DB%8C-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%A8%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%88-%D9%82%D8%AA%D9%84-%D8%A8%D8%A7%D8%B2-%D8%B4%D8%AF",
+        "title": "\u067e\u0627\u06cc \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0635\u0627\u062f\u0641 \u0648 \u0642\u062a\u0644 \u0628\u0627\u0632 \u0634\u062f - \u0641\u0631\u0627\u0631\u0648\u0641\u0631\u0627\u0631\u0648https://mail.fararu.com \u203a news \u203a \u067e\u0627...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.aparat.com/v/3gbaN",
+        "title": "\u067e\u0627\u0631\u06a9 \u062c\u06cc\u0647\u0648\u0646 - \u0622\u067e\u0627\u0631\u0627\u062a\u0622\u067e\u0627\u0631\u0627\u062ahttps://www.aparat.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          300,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://vista.ir/n/kof2bof",
+        "title": "\u067e\u0627\u06cc \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0635\u0627\u062f\u0641 \u0648 \u0642\u062a\u0644 \u0628\u0627\u0632 \u0634\u062f\u0648\u06cc\u0633\u062a\u0627https://vista.ir \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://choq.fm/%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%B0%D9%8A-%D9%85%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%A2%D9%84%D9%8A-%D9%81%D9%8A-tesla/",
+        "title": "\u25b7 \u0639\u0631\u0641 \u0627\u0644\u0633\u0627\u0626\u0642 \u0627\u0644\u0630\u064a \u0645\u0627\u062a \u0645\u0646 \u0627\u0644\u0637\u064a\u0627\u0631 \u0627\u0644\u0622\u0644\u064a \u0641\u064a Tesla \u0628\u0641\u0634\u0644 \u0627\u0644\u0646\u0638\u0627\u0645choq.fmhttps://choq.fm \u203a \u0639\u0631\u0641-\u0627\u0644\u0633\u0627\u0626\u0642-\u0627\u0644\u0630\u064a-...",
+        "content": "\u0648\u0641\u0642\u064b\u0627 \u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u062c\u062f\u064a\u062f\u0629 \u0639\u0646 \u0627\u0644\u0642\u0636\u064a\u0629 \u060c \u0641\u0625\u0646 \u0627\u0644\u0637\u0631\u0627\u0632 X \u0645\u0646 Huang's Autopilot \u0623\u0635\u064a\u0628 ... \u0642\u0627\u0644\u062a \u0639\u0627\u0626\u0644\u0629 Huang \u0625\u0646\u0647 \u0623\u0628\u0644\u063a \u062a\u0633\u0644\u0627 \u0628\u0647\u0630\u0647 \u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0639\u0644\u0649 AutoPilot \u0648\u0632\u0627\u0631 \u062d\u062a\u0649 \u0648\u0631\u0634\u0629 \u0625\u0635\u0644\u0627\u062d Tesla.",
+        "size": [
+          620,
+          382
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://techrato.com/2023/01/24/possibility-elon-musk-being-sentenced-murder/",
+        "title": "\u0627\u062d\u062a\u0645\u0627\u0644 \u0645\u062d\u06a9\u0648\u0645\u06cc\u062a \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u0642\u062a\u0644 \u063a\u06cc\u0631\u0639\u0645\u062f\u061b \u0645\u062f\u06cc\u0631\u0639\u0627\u0645\u0644 \u062a\u0633\u0644\u0627 \u0648 ...\u062a\u06a9\u0631\u0627\u062a\u0648https://techrato.com \u203a 2023/01/24",
+        "content": " \u00b7 ",
+        "size": [
+          768,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://gadgetnews.net/730066/ilon-musk-is-face-a-new-lawsuite-for-tesla-autopilote-system/",
+        "title": "\u0634\u06a9\u0627\u06cc\u062a \u062c\u062f\u06cc\u062f \u0627\u0632 \u062a\u0633\u0644\u0627\u060c \u0634\u0627\u06cc\u062f \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0631\u0627 \u0628\u0647 \u0642\u062a\u0644 \u0645\u062d\u06a9\u0648\u0645 \u06a9\u0646\u062f + ...\u06af\u062c\u062a \u0646\u06cc\u0648\u0632https://gadgetnews.net \u203a ilon-musk-i...",
+        "content": " \u00b7 ",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://jahansanatnews.ir/326721-%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%B3%D8%A7%D8%A8%D9%82-%D8%AA%D8%B3%D9%84%D8%A7-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D9%85%DB%8C-%DA%A9/",
+        "title": "\u0645\u0647\u0646\u062f\u0633 \u0633\u0627\u0628\u0642 \u062a\u0633\u0644\u0627 \u0627\u0632 \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0634\u06a9\u0627\u06cc\u062a \u0645\u06cc \u06a9\u0646\u062f - \u062c\u0647\u0627\u0646 \u0635\u0646\u0639\u062a \u0646\u06cc\u0648\u0632\u062c\u0647\u0627\u0646 \u0635\u0646\u0639\u062a \u0646\u06cc\u0648\u0632https://jahansanatnews.ir \u203a 326721-\u0645...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://territoriomovil.net/actualidad/tesla-organizo-una-demostracion-de-conduccion-autonoma-en-2016-dice-un-ingeniero-senior-de-piloto-automatico/",
+        "title": "Tesla organiz\u00f3 una demostraci\u00f3n de conducci\u00f3n aut\u00f3noma ...territoriomovil.nethttps://territoriomovil.net \u203a actualidad",
+        "content": "Agrandar / El Model X de Walter Huang d\u00edas despu\u00e9s de su fatal accidente en un patio de remolque. El video de demostraci\u00f3n del piloto autom\u00e1tico de Tesla\u00a0...",
+        "size": [
+          800,
+          494
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "http://sahebkhabar.ir/news/58370722/%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%AA%D8%B3%D9%84%D8%A7-%D8%B4%D8%A7%DB%8C%D8%AF-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%82%D8%AA%D9%84-%D9%85%D8%AD%DA%A9%D9%88%D9%85-%DA%A9%D9%86%D8%AF-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+        "title": "\u0634\u06a9\u0627\u06cc\u062a \u062c\u062f\u06cc\u062f \u0627\u0632 \u062a\u0633\u0644\u0627\u060c \u0634\u0627\u06cc\u062f \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0631\u0627 \u0628\u0647 \u0642\u062a\u0644 \u0645\u062d\u06a9\u0648\u0645 \u06a9\u0646\u062f + ...\u0635\u0627\u062d\u0628\u200c\u062e\u0628\u0631http://sahebkhabar.ir \u203a news \u203a \u0634\u06a9\u0627...",
+        "content": " \u00b7 ",
+        "size": [
+          620,
+          383
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://fainaidea.com/technologii/transport/stali-izvestny-nekotorye-podrobnosti-ob-intsidente-s-tesla-model-s-2019-207508.html",
+        "title": "\u0421\u0442\u0430\u043b\u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043e\u0431 \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u0435 \u0441 ...FainaIdea.comhttps://fainaidea.com \u203a transport \u203a st...",
+        "content": " \u00b7 ",
+        "size": [
+          2032,
+          1256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://khabarjoo24.com/54005/news/world/%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%DA%AF%D8%B1%D9%81%D8%AA%D8%A7%D8%B1-%D8%B4%D8%AF/",
+        "title": "\u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0627\u0632 \u0647\u0645 \u06af\u0631\u0641\u062a\u0627\u0631 \u0634\u062f! - \u062e\u0628\u0631\u062c\u0648\u06f2\u06f4\u062e\u0628\u0631\u062c\u0648\u06f2\u06f4https://khabarjoo24.com \u203a world \u203a \u0627...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.ayandnews.com/%D8%A8%D8%AE%D8%B4-%D9%81%D9%86-%D8%A2%D9%88%D8%B1%DB%8C-43/94710-%D9%BE%D8%A7%DB%8C-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%A8%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%82%D8%AA%D9%84-%D8%A8%D8%A7%D8%B2-%D8%B4%D8%AF",
+        "title": "\u067e\u0627\u06cc \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0635\u0627\u062f\u0641 \u0648 \u0642\u062a\u0644 \u0628\u0627\u0632 \u0634\u062f\u0622\u06cc\u0646\u062f\u0646\u06cc\u0648\u0632https://www.ayandnews.com \u203a 9471...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.mamlekatonline.ir/%D8%A8%D8%AE%D8%B4-%D8%AC%D9%87%D8%A7%D9%86-21/104946-%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%A7%DB%8C%D9%86-%D8%A8%D8%A7%D8%B1-%D8%A8%D8%AE%D8%A7%D8%B7%D8%B1-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%82%D8%AA%D9%84",
+        "title": "\u0634\u06a9\u0627\u06cc\u062a \u0627\u0632 \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0627\u06cc\u0646 \u0628\u0627\u0631 \u0628\u062e\u0627\u0637\u0631 \u062a\u0635\u0627\u062f\u0641 \u0648 \u0642\u062a\u0644 - \u0645\u0645\u0644\u06a9\u062a \u0622\u0646\u0644\u0627\u06cc\u0646mamlekatonline.irhttps://www.mamlekatonline.ir \u203a 10...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.ghadirinews.ir/news/paper/page/?id=1401b1591",
+        "title": "\u067e\u0627\u06cc \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0635\u0627\u062f\u0641 \u0648 \u0642\u062a\u0644 \u0628\u0627\u0632 \u0634\u062f - \u0642\u062f\u06cc\u0631\u06cc \u0646\u06cc\u0648\u0632\u067e\u0627\u06cc\u06af\u0627\u0647 \u062e\u0628\u0631\u06cc \u0642\u062f\u06cc\u0631\u06cc \u0646\u06cc\u0648\u0632https://www.ghadirinews.ir \u203a page",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          615
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://fanoskhabari.ir/%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%AA%D8%B3%D9%84%D8%A7%D8%8C-%D8%B4%D8%A7%DB%8C%D8%AF-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%B1%D8%A7-%D8%A8/",
+        "title": "\u0634\u06a9\u0627\u06cc\u062a \u062c\u062f\u06cc\u062f \u0627\u0632 \u062a\u0633\u0644\u0627\u060c \u0634\u0627\u06cc\u062f \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0631\u0627 \u0628\u0647 \u0642\u062a\u0644 \u0645\u062d\u06a9\u0648\u0645 \u06a9\u0646\u062f + ...fanoskhabari.irhttps://fanoskhabari.ir \u203a ...",
+        "content": "\u0647\u0645\u06cc\u0646 \u0686\u0646\u062f \u0645\u0627\u0647 \u067e\u06cc\u0634\u060c \u0645\u062f\u06cc\u0631\u0639\u0627\u0645\u0644 \u062a\u0633\u0644\u0627 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u0636\u0639\u06cc\u0641 \u0628\u0648\u062f\u0646 \u0628\u062e\u0627\u0631\u06cc \u0645\u0627\u0634\u06cc\u0646 \u0628\u0631\u0642\u06cc \u0627\u0634 \u0628\u0647 \u062f\u0627\u062f\u06af\u0627\u0647 \u0631\u0641\u062a. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u062e\u0648\u062f\u0631\u0627\u0646 \u062a\u0633\u0644\u0627 \u0686\u0646\u062f\u06cc\u0646 \u067e\u0631\u0648\u0646\u062f\u0647 \u0642\u0636\u0627\u06cc\u06cc \u0639\u0644\u06cc\u0647 \u0627\u06cc\u0644\u0627\u0646 \u0645\u0627\u0633\u06a9 \u0628\u0647 \u0631\u0627\u0647 \u0627\u0646\u062f\u0627\u062e\u062a\u0647\u00a0...",
+        "size": [
+          620,
+          383
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.seevid.ir/fa/v/3ir0l",
+        "title": "\u0647\u06cc\u0648\u0645\u0646 \u067e\u0627\u0631\u06a9 \u0648 \u062f\u06a9\u062a\u0631 \u0644\u0646\u062f - \u0633\u06cc \u0648\u06cc\u062f\u0633\u06cc \u0648\u06cc\u062fhttps://www.seevid.ir \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          512,
+          288
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.9228945970535278
+      },
+      {
+        "class": "auto_factory",
+        "ioclass": "indoor",
+        "probability": 0.03151809796690941
+      },
+      {
+        "class": "repair_shop",
+        "ioclass": "indoor",
+        "probability": 0.02154533565044403
+      },
+      {
+        "class": "assembly_line",
+        "ioclass": "indoor",
+        "probability": 0.01149753201752901
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.005025673657655716
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9641513824462891
+      },
+      {
+        "class": "bright",
+        "score": 0.780376672744751
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.7475430369377136
+      },
+      {
+        "class": "busy",
+        "score": 0.6032110452651978
+      },
+      {
+        "class": "rugged",
+        "score": 0.5282559394836426
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.5242302417755127
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5127895474433899
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1980,
+        "pred_lat": 30.36405372619629,
+        "pred_long": -88.80308532714844
+      },
+      "middle": {
+        "pred_class": 4378,
+        "pred_lat": 30.600370407104492,
+        "pred_long": -89.32170867919922
+      },
+      "fine": {
+        "pred_class": 6037,
+        "pred_lat": 30.600370407104492,
+        "pred_long": -89.32170867919922
+      },
+      "hierarchy": {
+        "pred_class": 6037,
+        "pred_lat": 30.600370407104492,
+        "pred_long": -89.32170867919922
+      },
+      "country": {
+        "city": "",
+        "state": "Mississippi",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {},
+  "inference": {
+    "conflicts": []
+  }
+}

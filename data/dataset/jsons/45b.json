@@ -1,0 +1,343 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {},
+        "seasonal": false,
+        "max_count": 0,
+        "abnormal": false,
+        "plot": {
+          "labels": [],
+          "datasets": []
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 13,
+            "percentage": 81.25
+          },
+          "Chinese": {
+            "count": 2,
+            "percentage": 12.5
+          },
+          "Japanese": {
+            "count": 1,
+            "percentage": 6.25
+          }
+        },
+        "total": 16,
+        "plot": {
+          "labels": [
+            "English",
+            "Chinese",
+            "Japanese"
+          ],
+          "data": [
+            81,
+            12,
+            6
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": null,
+      "oldest": null,
+      "unspecified_time": 16,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://electrek.co/2023/05/22/tesla-drivers-again-claiming-cars-accelerate-by-themselves/",
+        "title": "Tesla drivers are again claiming cars accelerate by themselvesElectrekhttps://electrek.co \u203a 2023/05/22 \u203a tesla-drivers-again...",
+        "content": " \u00b7 ",
+        "size": [
+          1600,
+          816
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/news/tesla-model-3-totaled-after-suddenly-accelerating-into-bc-ferries-ramp-in-vancouver/",
+        "title": "Tesla Model 3 totaled after \"suddenly accelerating\" into BC ...driveteslacanada.cahttps://driveteslacanada.ca \u203a news \u203a tesla-model-3-tot...",
+        "content": " \u00b7 ",
+        "size": [
+          381,
+          263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tesmanian.com/blogs/tesmanian-blog/tesla-model-3-crashed-into-a-ferry-terminal-in-vancouver-due-to-the-fault-of-the-driver-said-pd",
+        "title": "Driver at Fault in Tesla Model 3 Ferry Terminal Crash in ...tesmanianhttps://www.tesmanian.com \u203a blogs \u203a tesmanian-blog",
+        "content": " \u00b7 ",
+        "size": [
+          1024,
+          753
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tesmanian.com/de/blogs/tesmanian-blog/tesla-model-3-crashed-into-a-ferry-terminal-in-vancouver-due-to-the-fault-of-the-driver-said-pd",
+        "title": "Driver at Fault in Tesla Model 3 Ferry Terminal Crash in ...tesmanianhttps://www.tesmanian.com \u203a blogs \u203a tesmanian-blog",
+        "content": "The West Vancouver Police Department determined that the Tesla Model 3 was fully functional and did not cause the accident. Driver error caused the crash\u00a0...",
+        "size": [
+          1024,
+          753
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bharatagritech.com/?q=breaking-nhtsa-petition-claims-tesla-sudden-unintended-acceleration-is-xx-yNENO8FJ",
+        "title": "NHTSA Petition Claims Tesla Sudden Unintended, 56% OFFBharat Agritechhttps://www.bharatagritech.com \u203a ...",
+        "content": "A Tesla accident in Linyi: The sudden acceleration of the video car caused damage to cars-Tesla tesla electric car Breaking Latest News. Breaking: NHTSA\u00a0...",
+        "size": [
+          1600,
+          816
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://portipoh.com.my/?m=breaking-nhtsa-petition-claims-tesla-sudden-unintended-acceleration-is-ss-0VqVbzT2",
+        "title": "NHTSA Petition Claims Tesla Sudden Unintended, 42% OFFAPKHuehttps://portipoh.com.my \u203a tesla story broken",
+        "content": "A Tesla accident in Linyi: The sudden acceleration of the video car caused damage to cars-Tesla tesla electric car Breaking Latest News.",
+        "size": [
+          1600,
+          816
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nsnews.com/local-news/andy-prest-these-were-the-most-clicked-north-shore-news-stories-of-2023-8048734",
+        "title": "These were the most-clicked North Shore News stories of 2023North Shore Newshttps://www.nsnews.com \u203a local-news \u203a andy-prest-the...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          689
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nsnews.com/highlights?page=6",
+        "title": "Highlights - North Shore NewsNorth Shore Newshttps://www.nsnews.com \u203a highlights",
+        "content": "",
+        "size": [
+          480,
+          320
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tesmanian.com/blogs/tesmanian-blog/you-gotta-own-tsla-in-your-portfolio-with-elon-re-focused-on-tesla-says-the-companys-big-investor",
+        "title": "\"You gotta own TSLA in your portfolio with Elon re-focused on ...tesmanianhttps://www.tesmanian.com \u203a blogs \u203a tesmanian-blog",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          883
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tesmanian.com/de/blogs/tesmanian-blog/you-gotta-own-tsla-in-your-portfolio-with-elon-re-focused-on-tesla-says-the-companys-big-investor",
+        "title": "\"You gotta own TSLA in your portfolio with Elon re-focused on ...tesmanianhttps://www.tesmanian.com \u203a blogs \u203a tesmanian-blog",
+        "content": "",
+        "size": [
+          1200,
+          883
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/news/uber-to-add-100-tesla-model-ys-to-ridesharing-fleet-in-japan/",
+        "title": "Uber to add 100 Tesla Model Ys to ridesharing fleet in Japandriveteslacanada.cahttps://driveteslacanada.ca \u203a news \u203a uber-to-add-100-t...",
+        "content": " \u00b7 ",
+        "size": [
+          381,
+          254
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/news/stellantis-halts-production-of-jeep-cherokee-at-illinois-plant-due-to-rising-ev-costs/",
+        "title": "Stellantis halts production of Jeep Cherokee at Illinois plant ...driveteslacanada.cahttps://driveteslacanada.ca \u203a news \u203a stellantis-halts-pro...",
+        "content": " \u00b7 ",
+        "size": [
+          381,
+          254
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/page/215/?__wpdm_view_count=46f4a1f04c&id=18779",
+        "title": "Your source for everything Tesla & EV - Drive Tesladriveteslacanada.cahttps://driveteslacanada.ca \u203a page",
+        "content": "",
+        "size": [
+          381,
+          263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.sohu.com/a/704139172_348109",
+        "title": "\u7279\u65af\u62c9\u201c\u5931\u63a7\u52a0\u901f\u201d\u518d\u88ab\u8c03\u67e5\uff0c\u771f\u76f8\u7ec8\u4e8e\u8981\u6765\u4e86\uff1f - \u641c\u72d0Sohuhttps://www.sohu.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          1268,
+          647
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.sohu.com/a/678097293_104421",
+        "title": "\u52a0\u62ff\u5927\u7279\u65af\u62c9\u5931\u63a7\u6848\u8c03\u67e5\u7ed3\u679c\u51fa\u7089\u7cfb\u64cd\u4f5c\u5931\u8bef\u975e\u673a\u68b0\u6545\u969c - \u641c\u72d0Sohuhttps://www.sohu.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          599,
+          362
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://lowcarb.style/tag/%E4%BA%8B%E6%95%85/",
+        "title": "\u4e8b\u6545 - LcS Tesla News & Blogslowcarb.stylehttps://lowcarb.style \u203a tag \u203a \u4e8b\u6545",
+        "content": "",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "auto_factory",
+        "ioclass": "indoor",
+        "probability": 0.1687227040529251
+      },
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.1445111334323883
+      },
+      {
+        "class": "repair_shop",
+        "ioclass": "indoor",
+        "probability": 0.13111910223960876
+      },
+      {
+        "class": "garage/indoor",
+        "ioclass": "indoor",
+        "probability": 0.0876258909702301
+      },
+      {
+        "class": "excavation",
+        "ioclass": "outdoor",
+        "probability": 0.07188708335161209
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.877633810043335
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.6580674648284912
+      },
+      {
+        "class": "bright",
+        "score": 0.6307169198989868
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5773680210113525
+      },
+      {
+        "class": "busy",
+        "score": 0.5597549676895142
+      },
+      {
+        "class": "dirty",
+        "score": 0.5036590099334717
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 896,
+        "pred_lat": 43.44744873046875,
+        "pred_long": -5.528079032897949
+      },
+      "middle": {
+        "pred_class": 1958,
+        "pred_lat": -33.040401458740234,
+        "pred_long": -71.62167358398438
+      },
+      "fine": {
+        "pred_class": 6269,
+        "pred_lat": 43.53558349609375,
+        "pred_long": -6.167530059814453
+      },
+      "hierarchy": {
+        "pred_class": 3884,
+        "pred_lat": 43.45766067504883,
+        "pred_long": -5.240291118621826
+      },
+      "country": {
+        "city": "Cudillero",
+        "state": "Asturias",
+        "country": "Spain"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {},
+  "inference": {
+    "conflicts": []
+  }
+}

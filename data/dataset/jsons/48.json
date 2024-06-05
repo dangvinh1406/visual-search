@@ -1,0 +1,3010 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2007/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2007/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2007/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2014/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 42,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 6,
+            "abnormal": false
+          },
+          "2024/01": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2024/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 42,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2007/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2008/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2009/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2010/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2011/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2012/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2013/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2014/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2015/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2024/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                42,
+                6,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 64,
+            "percentage": 60.37735849056604
+          },
+          "Russian": {
+            "count": 10,
+            "percentage": 9.433962264150944
+          },
+          "Arabic": {
+            "count": 6,
+            "percentage": 5.660377358490566
+          },
+          "Korean": {
+            "count": 6,
+            "percentage": 5.660377358490566
+          },
+          "Spanish; Castilian": {
+            "count": 5,
+            "percentage": 4.716981132075472
+          },
+          "Indonesian": {
+            "count": 5,
+            "percentage": 4.716981132075472
+          },
+          "French": {
+            "count": 4,
+            "percentage": 3.7735849056603774
+          },
+          "Azerbaijani": {
+            "count": 1,
+            "percentage": 0.9433962264150944
+          },
+          "Bengali": {
+            "count": 1,
+            "percentage": 0.9433962264150944
+          },
+          "Greek, Modern (1453-)": {
+            "count": 1,
+            "percentage": 0.9433962264150944
+          },
+          "Finnish": {
+            "count": 1,
+            "percentage": 0.9433962264150944
+          },
+          "Hungarian": {
+            "count": 1,
+            "percentage": 0.9433962264150944
+          },
+          "Ukrainian": {
+            "count": 1,
+            "percentage": 0.9433962264150944
+          }
+        },
+        "total": 106,
+        "plot": {
+          "labels": [
+            "English",
+            "Russian",
+            "Arabic",
+            "Korean",
+            "others"
+          ],
+          "data": [
+            60,
+            9,
+            5,
+            5,
+            21
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://people.com/grandma-dies-man-crashes-car-texas-apartment-suspected-medical-emergency-8549232",
+        "title": "Grandma Dies After Car Crashes into Her Texas Apartment ...Peoplehttps://people.com \u203a grandma-dies-man-crashes-car-te...",
+        "content": "... 15 Hospitalized After Ambulance Rolls Over While Responding to ... Tesla Crashes Into House\u00a0...",
+        "size": [
+          159,
+          106
+        ],
+        "date": "2024:01:24 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "id",
+        "link": "https://www.blackxperience.com/autonews/detail/callaway-c16-speedster-supercar",
+        "title": "Callaway C16 Speedster Supercar - blackxperience.comBlackxperiencehttps://www.blackxperience.com \u203a c...",
+        "content": "",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2007:08:04 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 46,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "id",
+        "link": "https://www.blackxperience.com/autonews/detail/callaway-c16-speedster-supercar",
+        "title": "Callaway C16 Speedster Supercar - blackxperience.comBlackxperiencehttps://www.blackxperience.com \u203a c...",
+        "content": "",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2007:08:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.autostadium.fi/index.php?threads/yleist%C3%A4-keskustelua-teslasta.581/page-358",
+        "title": "Yleist\u00e4 keskustelua Teslasta | Sivu 358 - AutoStadiumAutoStadiumhttps://www.autostadium.fi \u203a page-3...",
+        "content": "Minua ainakin Tesla kiinnostaa jo sen yleisyyden takia ja koska sen koeajo ei onnistu kuten muiden yleisten autojen kohdalla,\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2014:01:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://tutveseluha.mirtesen.ru/blog/43662255843/Vot-tak-vyiglyadit-chuchelo-myauchelo",
+        "title": "\u0412\u043e\u0442 \u0442\u0430\u043a \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u0447\u0443\u0447\u0435\u043b\u043e-\u043c\u044f\u0443\u0447\u0435\u043b\u043e - \u0422\u0423\u0422 \u0412\u0415\u0421\u0415\u041b\u041e :) - 15 \u0438\u044e\u043b\u044f\u041c\u0438\u0440\u0422\u0435\u0441\u0435\u043dhttps://tutveseluha.mirtesen.ru \u203a blog",
+        "content": "",
+        "size": [
+          1536,
+          1153
+        ],
+        "date": "2018:07:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.blackxperience.com/blackauto/autonews/dfsk-meriahkan-semarang-auto",
+        "title": "DFSK Meriahkan Semarang Auto Expo 2018 - BlackxperienceBlackxperiencehttps://www.blackxperience.com \u203a ...",
+        "content": "",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2018:12:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.blackxperience.com/blackauto/autonews/maserati-pun-tertarik-bikin-mobil-listrik",
+        "title": "Maserati Pun Tertarik Bikin Mobil Listrik - blackxperience.comBlackxperiencehttps://www.blackxperience.com \u203a ...",
+        "content": "",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2020:02:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.univision.com/local/san-francisco-kdtv/elon-musk-tesla-california-area-de-la-bahia-austin-texas-crisis-de-vivienda",
+        "title": "Crisis de vivienda obliga a Elon Musk a mudar las oficinas de ...Univisionhttps://www.univision.com \u203a local",
+        "content": "M\u00e1s sobre Tesla \u00b7 tesla casa san mateo.jpg. tesla casa san mateo 3.jpg \u00b7 UNIVISION 14 SAN FRANCISCO \u00b7 Veh\u00edculo el\u00e9ctrico de Tesla choca contra\u00a0...",
+        "size": [
+          1093,
+          615
+        ],
+        "date": "2021:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://patch.com/california/sanmateo/over-100k-attend-san-mateo-county-fair-organizers-deem-success",
+        "title": "Over 100K Attend San Mateo County Fair, Organizers Deem ...Patchhttps://patch.com \u203a california \u203a sanmateo",
+        "content": "The fair featured performances by the Commodores and Gloria Gaynor, along with activities and exhibits. \u00b7 Find out what's happening in San Mateo\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2022:07:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/spanish-government-orders-towns-to-let-women-go-topless-in-public-swimming-pools-in-accordance-with-equality-law",
+        "title": "Spanish Government Orders Towns to Let Women Go Topless ...The Messengerhttps://themessenger.com \u203a news \u203a spanish-governmen...",
+        "content": "... Tesla Flies '40 to 50 Feet in the Air' Over Swimming Pool, Crashes Into House \u00b7 Florida Man Cleared Under Stand Your Ground Law After Firing\u00a0...",
+        "size": [
+          2000,
+          1501
+        ],
+        "date": "2023:06:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://prostopollitik.mirtesen.ru/blog/43401271262/V-Armavire-odin-iz-ofitserov-reshil-proverit-kto-prinyos-otravle",
+        "title": "\u0412 \u0410\u0440\u043c\u0430\u0432\u0438\u0440\u0435 \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0444\u0438\u0446\u0435\u0440\u043e\u0432 \u0440\u0435\u0448\u0438\u043b \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u0442\u044c, \u043a\u0442\u043e ...\u041c\u0438\u0440\u0422\u0435\u0441\u0435\u043dhttps://prostopollitik.mirtesen.ru \u203a V...",
+        "content": "",
+        "size": [
+          1536,
+          1153
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.univision.com/local/san-francisco-kdtv/accidente-tesla-vehiculo-casa-danos-materiales-san-mateo-california-fotos",
+        "title": "Veh\u00edculo el\u00e9ctrico de Tesla choca contra una casa - UnivisionUnivisionhttps://www.univision.com \u203a local",
+        "content": "Un veh\u00edculo el\u00e9ctrico de Tesla colisiona contra una vivienda en San Mateo, California, causando da\u00f1os materiales importantes.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:11:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfgate.com/news/article/san-mateo-tesla-crash-pool-police-18502537.php",
+        "title": "Tesla hurtles over swimming pool, crashes into Bay Area homeSFGATEhttps://www.sfgate.com \u203a News",
+        "content": "Police were called to a San Mateo street after a woman driving a Tesla reportedly lost control of the car and crashed into a home.",
+        "size": [
+          2048,
+          1537
+        ],
+        "date": "2023:11:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.finance.yahoo.com/news/woman-tesla-flies-over-swimming-184523711.html",
+        "title": "Woman's Tesla Flies over Swimming Pool Before Crashing ...Yahoo Finance Canadahttps://ca.finance.yahoo.com \u203a news \u203a woman-tesla-fli...",
+        "content": "A Tesla crashed into home in San Mateo, California, police said. ... Surratt said the exact cause of the crash is still being investigated. \"The\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.carscoops.com/2023/11/out-of-control-tesla-flies-over-a-swimming-pool-crashing-into-a-house/",
+        "title": "Out Of Control Tesla Flies Over A Swimming Pool Before ...Carscoopshttps://www.carscoops.com \u203a news",
+        "content": "In a bizarre incident in San Mateo, California, a Tesla Model X ... crash inside the Tesla but were taken to the hospital for evaluation.",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/monkey-island-south-carolina-largest-free-roaming-rhesus-colonies-us",
+        "title": "This Island Is Home to the Largest Free-Roaming Rhesus ...The Messengerhttps://themessenger.com \u203a news \u203a monkey-island-sou...",
+        "content": "... Tesla Flies '40 to 50 Feet in the Air' Over Swimming Pool, Crashes ... Federal Express (FedEx) delivery truck completing deliveries\u00a0...",
+        "size": [
+          2000,
+          1501
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/11/20/news/tesla-flies-over-swimming-pool-crashes-into-bay-area-home/",
+        "title": "Tesla flies over swimming pool, crashes into California homeNew York Posthttps://nypost.com \u203a 2023/11/20 \u203a news \u203a tesla-flies-o...",
+        "content": "San Mateo police were called to a quiet residential area just after 7 a.m. Friday after a 70-year-old woman's Tesla Model X crashed into a home,\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/tesla-flies-40-to-50-feet-in-the-air-over-swimming-pool-crashes-into-house",
+        "title": "Tesla Flies '40 to 50 Feet in the Air' Over Swimming Pool ...The Messengerhttps://themessenger.com \u203a news \u203a tesla-flies-40-to-50...",
+        "content": "... crash.San Mateo Police Department. The driver of a Tesla Model X lost control of her car in a Bay Area neighborhood on Friday causing the\u00a0...",
+        "size": [
+          2000,
+          1501
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sg.finance.yahoo.com/news/woman-tesla-flies-over-swimming-184523711.html",
+        "title": "Woman's Tesla Flies over Swimming Pool Before Crashing ...Yahoo Finance Singaporehttps://sg.finance.yahoo.com \u203a news \u203a woman-tesla-fli...",
+        "content": "A Tesla crashed into home in San Mateo, California, police said. ... Surratt said the exact cause of the crash is still being investigated. \"The\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://sawahweb.com/news/%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%AA%D9%81%D9%82%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D9%8A%D8%B3%D9%84%D8%A7%D8%8C-%D9%88%D8%AA/",
+        "title": "\u0627\u0645\u0631\u0623\u0629 \u062a\u0641\u0642\u062f \u0627\u0644\u0633\u064a\u0637\u0631\u0629 \u0639\u0644\u0649 \u0633\u064a\u0627\u0631\u0629 \u062a\u064a\u0633\u0644\u0627\u060c \u0648\u062a\u0642\u0641\u0632 \u0641\u0648\u0642 \u0627\u0644\u0631\u0635\u064a\u0641 \u0648\u0641\u0648\u0642 ...\u0633\u0648\u0627\u062d \u0648\u064a\u0628https://sawahweb.com \u203a news",
+        "content": "\u0641\u0642\u062f\u062a \u0627\u0645\u0631\u0623\u0629 \u0627\u0644\u0633\u064a\u0637\u0631\u0629 \u0639\u0644\u0649 \u0633\u064a\u0627\u0631\u062a\u0647\u0627 Tesla Model X \u0642\u0628\u0644 \u0623\u0646 \u062a\u0635\u0637\u062f\u0645 \u0628\u0627\u0644\u0631\u0635\u064a\u0641 ... \u0642\u0627\u0644 \u0634\u0647\u0648\u062f \u0625\u0646\u0647\u0645 \u0631\u0623\u0648\u0627 \u0633\u064a\u0627\u0631\u0629 Tesla Model X \u0628\u0637\u064a\u0626\u0629 \u062d\u062a\u0649 \u062a\u062a\u0648\u0642\u0641 \u0642\u0628\u0644 \u0623\u0646 \u062a\u062a\u0633\u0627\u0631\u0639\u00a0...",
+        "size": [
+          634,
+          476
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breitbart.com/tech/2023/11/20/tesla-flies-pool-smashes-california-home/",
+        "title": "VIDEO: Tesla Flies over Pool and Smashes into California HomeBreitbarthttps://www.breitbart.com \u203a Tech \u203a 2023/11/20",
+        "content": "A Tesla car crashed into a woman's home in San Mateo, California, early Friday, leaving a gaping hole in its wake.",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://people.com/woman-crashes-tesla-into-california-home-8404825",
+        "title": "Woman's Tesla Flies Over Pool Before Crashing Into ... - PeoplePeoplehttps://people.com \u203a woman-crashes-tesla-into-californ...",
+        "content": "A Tesla crashed into home in San Mateo, California, police said. San Mateo Police Department/ Facebook. The driver and passenger of the car\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12771643/Woman-Tesla-swimming-pool-crash-Bay-Area-San-Mateo-California-police.html",
+        "title": "Woman loses control of Tesla, jumps a curb and OVER a ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12771643",
+        "content": "Dramatic photographs reveal that her EV flew over a front yard and a swimming pool before crashing into the homeowner's kitchen in San Mateo\u00a0...",
+        "size": [
+          634,
+          476
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://au.news.yahoo.com/woman-tesla-flies-over-swimming-184523711.html",
+        "title": "Woman's Tesla Flies over Swimming Pool Before Crashing ...Yahoohttps://au.news.yahoo.com \u203a woman-tesla-flies-over-s...",
+        "content": "The car flew over the pool for about 40 to 50 feet in the air before landing in the home's kitchen, according to a report. <p>San Mateo\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.yahoo.com/entertainment/woman-tesla-flies-over-swimming-184523711.html",
+        "title": "Woman's Tesla Flies over Swimming Pool Before Crashing ...Yahoohttps://www.yahoo.com \u203a entertainment \u203a woman-tesl...",
+        "content": "Woman's Tesla Flies over Swimming Pool Before Crashing into Calif. Home: 'Really Glad No One Got Hurt' ... <p>San Mateo Police Department/\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://patch.com/california/sanmateo/driver-tesla-crashes-san-mateo-home-police",
+        "title": "Driver In Tesla Crashes Into San Mateo Home: Police - PatchPatchhttps://patch.com \u203a california \u203a driver-tesla-crashes-sa...",
+        "content": "Driver In Tesla Crashes Into San Mateo Home: Police - San Mateo, CA - Photos show the car crashed almost entirely inside what appears to be\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:11:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://autofork.kr/accident/article/47150/?utm_source=msn&utm_medium=feed&utm_campaign=popular",
+        "title": "[\ud574\uc678] \ud14c\uc2ac\ub77c \uc218\uc601\uc7a5 \uc704\ub97c \ub0a0\uc544\uc11c \uc9d1\uc5d0 \ubc15\ud614\ub2e4(+\uc0ac\uc9c4) - \uc624\ud1a0\ud3ec\ud06c\uc624\ud1a0\ud3ec\ud06chttps://autofork.kr \u203a \uc0ac\uac74\uc0ac\uace0",
+        "content": "tesla \u00b7 \ub0a0\ub2e4 \u00b7 \ubaa8\ub378X \u00b7 \ubbf8\uad6d \u00b7 \uc0ac\uace0 \u00b7 \uc218\uc601\uc7a5 \uc0ac\uace0 \u00b7 \uc790\ub3d9\ucc28 \u00b7 \uc790\ub3d9\ucc28\ub274\uc2a4 \u00b7 \uce98\ub9ac\ud3ec\ub2c8\uc544 ... kr/accident/article/47150/. \uce74\ud14c\uace0\ub9ac \ubc14\ub85c\uac00\uae30. \uc624\ud1a0\ub274\uc2a4\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/us/california-tesla-driver-flies-over-pool-crashes-through-house-stops-kitchen-police-say",
+        "title": "California Tesla driver flies over pool, crashes through house ...Fox Newshttps://www.foxnews.com \u203a california-tesla-driver-flie...",
+        "content": "A California woman lost control of her Tesla, hurtled over a pool and into the side of a house in San Mateo \u2013 miraculously causing no\u00a0...",
+        "size": [
+          1024,
+          512
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dissenter.com/feed/5daf66772fea4d3ba000883b/item/655ccb0ecdc721ccacbb6549",
+        "title": "People-Powered News - Dissenter TrendsDissenter Trendshttps://dissenter.com \u203a feed \u203a item",
+        "content": "A California woman lost control of her Tesla, hurtled over a pool and into the side of a house in San Mateo \u2013 miraculously causing no injuries \u2013\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/2023/11/21/tesla-model-x-flies-over-a-pool-and-crashes-into-a-house/",
+        "title": "Tesla Model X flies over a swimming pool and crashes into a ...Autobloghttps://www.autoblog.com \u203a Official",
+        "content": "Jerami Surratt, a public information officer for the San Mateo Police Department, told website SFGate that the Model X's Autopilot system wasn't\u00a0...",
+        "size": [
+          480,
+          270
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://es.jalopnik.com/tesla-sirve-brevemente-como-avion-antes-de-estrellarse-1851038672",
+        "title": "Tesla sirve brevemente como avi\u00f3n antes de estrellarse ...Jalopnikhttps://es.jalopnik.com \u203a tesla-sirve-...",
+        "content": "... Tesla Model X azul que se estrell\u00f3 contra una casa de California. Foto: San Mateo Police Department. Por lo general, no esperas que suceda\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/news/2023/11/21/",
+        "title": "November 21, 2023 Car News and Reviews Archive - AutoblogAutobloghttps://www.autoblog.com \u203a news \u203a 2023/11/21",
+        "content": "Tesla Model X flies over a swimming pool and crashes into a house ... Here's the first Tesla Cybertruck crash on a public road. 95 comments\u00a0...",
+        "size": [
+          724,
+          406
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lipstickalley.com/threads/woman-loses-control-of-tesla-jumps-a-curb-and-over-a-swimming-pool-before-crashing-into-homes-kitchen-in-the-bay-area.5446955/",
+        "title": "Woman loses control of Tesla, jumps a curb and OVER a ...Lipstick Alleyhttps://www.lipstickalley.com \u203a ... \u203a News Alley",
+        "content": "San Mateo Police Department told DailyMail.com the driver was unfamiliar with the Tesla Model X and had not driven any vehicles in about a year.",
+        "size": [
+          634,
+          476
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jalopnik.com/tesla-briefly-serves-as-a-plane-before-crashing-into-ca-1851038485",
+        "title": "Tesla Briefly Serves As A Plane Before Crashing Into ...Jalopnikhttps://jalopnik.com \u203a tesla-briefly-serves-as-a-plane-b...",
+        "content": "... Tesla Model X that crashed into a California house. Photo: San Mateo Police Department. You don't usually expect much to happen at 7:00 a.m.\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ndtv.com/world-news/tesla-flies-over-swimming-pool-crashes-into-us-home-after-driver-70-loses-control-4592299",
+        "title": "Tesla Flies Over Swimming Pool, Crashes Into US Home After ...NDTVhttps://www.ndtv.com \u203a World News",
+        "content": "San Mateo police were called to the residential area after the 70-year-old woman driver's Tesla Model X crashed into the home. Miraculously\u00a0...",
+        "size": [
+          1230,
+          756
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mirror.co.uk/news/us-news/drivers-miracle-escape-after-tesla-31491807",
+        "title": "Driver's miracle escape after Tesla flies through wall and into ...Mirrorhttps://www.mirror.co.uk \u203a News \u203a US News \u203a Car crashes",
+        "content": "San Mateo Police say they are investigating the crash. The Mirror earlier this month told of another crash in California where two women\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/photos/tesla-model-x-crashes-into-a-house/",
+        "title": "Tesla Model X crashes into a house Photo Gallery - AutoblogAutobloghttps://www.autoblog.com \u203a Photos",
+        "content": "Tesla Model X crashes into a house; Image Credit: San Mateo Police Department.",
+        "size": [
+          660,
+          372
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://people.com/14-year-old-driver-killed-3-kids-seriously-injured-in-fatal-crash-8405636",
+        "title": "14-Year-Old Driver Killed, 3 Kids Seriously Injured in ... - PeoplePeoplehttps://people.com \u203a 14-year-old-driver-killed-3-kids-...",
+        "content": "... crash, NYSP said. Woman's Tesla Flies Over Swimming Pool Before ... Tesla Crashes Into House in San Mateo, CA. Woman's Tesla\u00a0...",
+        "size": [
+          159,
+          106
+        ],
+        "date": "2023:11:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://nevsedoma.com.ua/601095-neupravljaemaja-tesla-proletela-nad-bassejnom-i-vrezalas-v-dom-3-foto-1-video.html",
+        "title": "\u041d\u0435\u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u0430\u044f Tesla \u043f\u0440\u043e\u043b\u0435\u0442\u0435\u043b\u0430 \u043d\u0430\u0434 \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u043e\u043c \u0438 ...\u041d\u0435\u0432\u0441\u0435\u0434\u043e\u043c\u0430https://nevsedoma.com.ua \u203a 601095...",
+        "content": "\u041f\u043e\u043b\u0438\u0446\u0438\u044f \u0421\u0430\u043d-\u041c\u0430\u0442\u0435\u043e \u0438 \u043f\u043e\u0436\u0430\u0440\u043d\u044b\u0435 \u043f\u0440\u0438\u0431\u044b\u043b\u0438 \u0432 \u0442\u0438\u0445\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0438 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u0443\u0442\u0440\u0430 17 \u043d\u043e\u044f\u0431\u0440\u044f. 70-\u043b\u0435\u0442\u043d\u044f\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u0438\u0446\u0430 Tesla \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430\u00a0...",
+        "size": [
+          1000,
+          525
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://myfox28columbus.com/news/nation-world/70-year-old-in-tesla-loses-control-jumps-familys-pool-crashes-through-kitchen-shocking-images-san-mateo-cincinnati-house-pulverized-vast-destruction-dangerous-driving-electric-powered-vehicles-nightmarish-situation-insurance-none-injured-injuries-police",
+        "title": "70-year-old loses control of daughter's Tesla, jumps family's ...WTTEhttps://myfox28columbus.com \u203a news \u203a nation-world",
+        "content": "According to People Magazine, officers responded to the scene of a crash around 7 a.m. in San Mateo, California. The San Mateo Police\u00a0...",
+        "size": [
+          2048,
+          2732
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://nevsedoma.com.ua/en/601095-an-out-of-control-tesla-flew-over-the-pool-and-crashed-into-a-house-3-photos-1-video.html",
+        "title": "An out-of-control Tesla flew over the pool and crashed into a ...\u041d\u0435\u0432\u0441\u0435\u0434\u043e\u043c\u0430https://nevsedoma.com.ua \u203a 601095...",
+        "content": "San Mateo police and firefighters arrived in a quiet California neighborhood just after 8 a.m. on November 17th. The 70-year-old Tesla owner\u00a0...",
+        "size": [
+          1000,
+          525
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://nevsedoma.com.ua/601095-neupravljaemaja-tesla-proletela-nad-bassejnom-i-vrezalas-v-dom-3-foto-1-video.html",
+        "title": "\u041d\u0435\u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u0430\u044f Tesla \u043f\u0440\u043e\u043b\u0435\u0442\u0435\u043b\u0430 \u043d\u0430\u0434 \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u043e\u043c \u0438 ...\u041d\u0435\u0432\u0441\u0435\u0434\u043e\u043c\u0430https://nevsedoma.com.ua \u203a 601095...",
+        "content": "\u041f\u043e\u043b\u0438\u0446\u0438\u044f \u0421\u0430\u043d-\u041c\u0430\u0442\u0435\u043e \u0438 \u043f\u043e\u0436\u0430\u0440\u043d\u044b\u0435 \u043f\u0440\u0438\u0431\u044b\u043b\u0438 \u0432 \u0442\u0438\u0445\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0438 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u0443\u0442\u0440\u0430 17 \u043d\u043e\u044f\u0431\u0440\u044f. 70-\u043b\u0435\u0442\u043d\u044f\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u0438\u0446\u0430 Tesla \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430\u00a0...",
+        "size": [
+          1000,
+          525
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nbc24.com/news/nation-world/70-year-old-in-tesla-loses-control-jumps-familys-pool-crashes-through-kitchen-shocking-images-san-mateo-cincinnati-house-pulverized-vast-destruction-dangerous-driving-electric-powered-vehicles-nightmarish-situation-insurance-none-injured-injuries-police",
+        "title": "70-year-old loses control of daughter's Tesla, jumps family's ...WNWOhttps://nbc24.com \u203a news \u203a nation-world \u203a 70-year-ol...",
+        "content": "According to People Magazine, officers responded to the scene of a crash around 7 a.m. in San Mateo, California. The San Mateo Police\u00a0...",
+        "size": [
+          2048,
+          1422
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dayton247now.com/news/nation-world/70-year-old-in-tesla-loses-control-jumps-familys-pool-crashes-through-kitchen-shocking-images-san-mateo-cincinnati-house-pulverized-vast-destruction-dangerous-driving-electric-powered-vehicles-nightmarish-situation-insurance-none-injured-injuries-police",
+        "title": "70-year-old loses control of daughter's Tesla, jumps family's ...WKEFhttps://dayton247now.com \u203a news \u203a nation-world \u203a 7...",
+        "content": "According to People Magazine, officers responded to the scene of a crash around 7 a.m. in San Mateo, California. The San Mateo Police\u00a0...",
+        "size": [
+          2048,
+          2732
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://local12.com/news/nation-world/70-year-old-in-tesla-loses-control-jumps-familys-pool-crashes-through-kitchen-shocking-images-san-mateo-cincinnati-house-pulverized-vast-destruction-dangerous-driving-electric-powered-vehicles-nightmarish-situation-insurance-none-injured-injuries-police",
+        "title": "70-year-old loses control of daughter's Tesla, jumps family's ...WKRChttps://local12.com \u203a news \u203a nation-world \u203a 70-year-o...",
+        "content": "According to People Magazine, officers responded to the scene of a crash around 7 a.m. in San Mateo, California. The San Mateo Police\u00a0...",
+        "size": [
+          986,
+          555
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abc6onyourside.com/news/nation-world/70-year-old-in-tesla-loses-control-jumps-familys-pool-crashes-through-kitchen-shocking-images-san-mateo-cincinnati-house-pulverized-vast-destruction-dangerous-driving-electric-powered-vehicles-nightmarish-situation-insurance-none-injured-injuries-police",
+        "title": "70-year-old loses control of daughter's Tesla, jumps family's ...WSYXhttps://abc6onyourside.com \u203a news \u203a nation-world \u203a 7...",
+        "content": "According to People Magazine, officers responded to the scene of a crash around 7 a.m. in San Mateo, California. The San Mateo Police\u00a0...",
+        "size": [
+          2048,
+          1422
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insideevs.com/news/697386/tesla-model-x-flies-over-pool-crash-kitchen/",
+        "title": "Tesla Model X Flies '40 To 50 Feet Through The Air,' Lands In ...InsideEVshttps://insideevs.com \u203a Tesla \u203a Model X \u203a News",
+        "content": "A blue Tesla Model X channeled its inner bird of prey but kept its signature falcon doors closed as it hurtled through two parked cars\u00a0...",
+        "size": [
+          1920,
+          1440
+        ],
+        "date": "2023:11:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mirror.co.uk/all-about/car-crashes?pageNumber=7",
+        "title": "Car crashes - latest news updates - Mirror OnlineMirrorhttps://www.mirror.co.uk \u203a News",
+        "content": "A car crash happens when one vehicle collides with another vehicle. They are also known as traffic collisions and can involve pedestrians,\u00a0...",
+        "size": [
+          615,
+          345
+        ],
+        "date": "2023:11:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ebaumsworld.com/articles/california-tesla-driver-spreads-wings-flies-over-pool-and-crashes-into-house/87479615/",
+        "title": "California Tesla Driver Spreads Wings, Flies Over Pool and ...eBaum's Worldhttps://www.ebaumsworld.com \u203a articles \u203a california-t...",
+        "content": "A few weeks ago, Ferris Bueller star Alan Ruck captured headlines after his electric truck crashed into a pizza parlor (life moves pretty fast,\u00a0...",
+        "size": [
+          1200,
+          628
+        ],
+        "date": "2023:11:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://insideevs.fr/news/697495/tesla-modelx-atterrit-cuisine-15metres/",
+        "title": "Une Tesla Model X atterrit dans une cuisine apr\u00e8s un vol de ...InsideEVs Francehttps://insideevs.fr \u203a ... \u203a Actualit\u00e9s",
+        "content": "Cet accident s'est produit dans la ville de San Mateo, en Californie. Heureusement, aucune personne n'a \u00e9t\u00e9 bless\u00e9e. Tesla Model X crash in San\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:11:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insideevs.com/news/697846/judge-evidence-autopilot-defective-florida-case/",
+        "title": "Judge Finds Reasonable Evidence That Tesla, Musk Knew ...InsideEVshttps://insideevs.com \u203a Tesla \u203a News",
+        "content": "The court action is related to a 2019 crash north of Miami in which a Tesla Model 3 drove under the trailer of an 18-wheeler truck that had\u00a0...",
+        "size": [
+          445,
+          250
+        ],
+        "date": "2023:11:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.gocar.gr/news/feed/45042,70xronh_xaos_Tesla_Model_X_koyzina_.html",
+        "title": "70\u03c7\u03c1\u03bf\u03bd\u03b7 \u03c0\u03c1\u03bf\u03ba\u03ac\u03bb\u03b5\u03c3\u03b5 \u03c7\u03ac\u03bf\u03c2 \u03bc\u03b5 Tesla Model X - GoCarGoCarhttps://www.gocar.gr \u203a news \u203a feed",
+        "content": "\u0397 \u03b7\u03bb\u03b9\u03ba\u03b9\u03c9\u03bc\u03ad\u03bd\u03b7 \u03bf\u03b4\u03b7\u03b3\u03cc\u03c2 \u03c4\u03bf\u03c5 Tesla \u03ad\u03c7\u03b1\u03c3\u03b5 \u03c4\u03b5\u03bb\u03b5\u03af\u03c9\u03c2 \u03c4\u03bf\u03bd \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03c4\u03bf\u03c5 \u03b1\u03c5\u03c4\u03bf\u03ba\u03b9\u03bd\u03ae\u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b1\u03c6\u03bf\u03cd \u03b4\u03b9\u03ad\u03bb\u03c5\u03c3\u03b5 \u03c4\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1, \u03ba\u03b1\u03c1\u03c6\u03ce\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03c3\u03c0\u03af\u03c4\u03b9, \u03b1\u03c6\u03bf\u03cd \u03c0\u03ad\u03c1\u03b1\u03c3\u03b5 \u03ba\u03b1\u03b9 \u03b1\u03c0\u03cc\u00a0...",
+        "size": [
+          1024,
+          769
+        ],
+        "date": "2023:11:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://cbntvusa.net/%E0%A6%B8%E0%A7%81%E0%A6%87%E0%A6%AE%E0%A6%BF%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%89%E0%A6%A1/",
+        "title": "\u09b8\u09c1\u0987\u09ae\u09bf\u0982\u09aa\u09c1\u09b2\u09c7\u09b0 \u0993\u09aa\u09b0 \u09a6\u09bf\u09af\u09bc\u09c7 \u0989\u09a1\u09bc\u09c7 \u09ac\u09be\u09a1\u09bc\u09bf \u09ad\u09c7\u0999\u09c7 \u09a2\u09c1\u0995\u09b2 \u099f\u09c7\u09b8\u09b2\u09be \u0997\u09be\u09a1\u09bc\u09bfCBN TV USAhttps://cbntvusa.net \u203a \u09b8\u09c1\u0987\u09ae\u09bf\u0982\u09aa\u09c1...",
+        "content": "",
+        "size": [
+          720,
+          405
+        ],
+        "date": "2023:11:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://uk.motor1.com/news/699348/alfa-romeo-crashes-into-porsche-mercedes/",
+        "title": "Dealer technician destroys Alfa Romeo, Porsche, and ...Motor1.com UKhttps://uk.motor1.com \u203a News",
+        "content": "Jordan's Ferrari 812 Superfast crashed into a Kia \u00b7 tesla model x flies over pool crash Tesla Model X flies through the air, lands in kitchen.",
+        "size": [
+          445,
+          250
+        ],
+        "date": "2023:12:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insideevs.com/news/702055/tesla-highest-accident-rate-probably-not/",
+        "title": "Tesla Reportedly Has The Highest Accident Rate Of Any ...InsideEVshttps://insideevs.com \u203a Tesla \u203a News",
+        "content": "Tesla Model X crash in San Mateo, California (Source: San Mateo Police Department ... Get Fully Charged. Tesla drivers, not Tesla vehicles, top\u00a0...",
+        "size": [
+          1535,
+          1535
+        ],
+        "date": "2023:12:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.inkl.com/news/tesla-reportedly-has-the-highest-accident-rate-of-any-marque-except-it-probably-doesn-t",
+        "title": "Tesla Reportedly Has The Highest Accident Rate Of Any\u2026 - inklinklhttps://www.inkl.com \u203a news \u203a tesla-reportedly-has-th...",
+        "content": "Get Fully Charged. Tesla drivers, not Tesla vehicles, top the accident chart. A new study from LendingTree shows that Tesla drivers have the\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:12:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://m.autofork.kr/autonews/article/48632/",
+        "title": "\ud14c\uc2ac\ub77c, \ucda9\ub3cc\ub960 \ucd5c\uace0 \uae30\ub85d: \uc624\ud1a0\ud30c\uc77c\ub7ff \uc548\uc804 \ubb38\uc81c\ub85c \uc8fc\ubaa9\uc624\ud1a0\ud3ec\ud06chttps://m.autofork.kr \u203a \uc624\ud1a0\ub274\uc2a4",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:12:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://id.motor1.com/news/702159/tesla-tingkat-kecelakaan-tertinggi/",
+        "title": "Benarkah Tesla Dilaporkan Miliki Tingkat Kecelakaan Tertinggi?Motor1.comhttps://id.motor1.com \u203a Tesla \u203a Berita",
+        "content": "Data asuransi menunjukkan bahwa masalahnya ada pada pengemudi dan bukan pada mobilnya. Kecelakaan Tesla Model X di San Mateo, California (Sumber\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:12:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insideevs.com/news/702469/tesla-model-y-facelift-to-debut-2024-report/",
+        "title": "Redesigned Tesla Model Y On Track To Debut In Mid 2024InsideEVshttps://insideevs.com \u203a Tesla \u203a Model Y \u203a News",
+        "content": "Tesla's Chinese team, the same that was behind the Model 3 facelift, is apparently responsible for the update.",
+        "size": [
+          445,
+          250
+        ],
+        "date": "2023:12:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://people.com/mom-and-daughter-avoid-deadly-crash-and-offer-prayers-for-family-who-was-hit-instead-8423713",
+        "title": "Mom and Daughter Avoid Crash, Offer Prayers for Family Hit ...Peoplehttps://people.com \u203a mom-and-daughter-avoid-deadly...",
+        "content": "... Tesla Crashes Into House in San Mateo, CA. Woman's Tesla Flies Over Swimming Pool Before Crashing Into Calif. Home: 'Really\u00a0...",
+        "size": [
+          159,
+          106
+        ],
+        "date": "2024:01:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.blackxperience.com/blackauto/autonews/tesla-model-3-facelift-2024-resmi-mengaspal-di-amerika",
+        "title": "Tesla Model 3 Facelift 2024 Resmi Mengaspal di AmerikaBlackxperiencehttps://www.blackxperience.com \u203a t...",
+        "content": "",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2024:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://people.com/grandma-dies-man-crashes-car-texas-apartment-suspected-medical-emergency-8549232",
+        "title": "Grandma Dies After Car Crashes into Her Texas Apartment ...Peoplehttps://people.com \u203a grandma-dies-man-crashes-car-te...",
+        "content": "... 15 Hospitalized After Ambulance Rolls Over While Responding to ... Tesla Crashes Into House\u00a0...",
+        "size": [
+          159,
+          106
+        ],
+        "date": "2024:01:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://patch.com/california/sanmateo/police-fire",
+        "title": "San Mateo Crime & Safety News - PatchPatchhttps://patch.com \u203a california \u203a sanmateo \u203a police-fire",
+        "content": "San Mateo, CA crime, fire and public safety news and events, police & fire department updates.",
+        "size": [
+          1200,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://patch.com/california/sanmateo?page=2",
+        "title": "San Mateo News, Breaking News in San Mateo, CA - PatchPatchhttps://patch.com \u203a california \u203a sanmateo",
+        "content": "San Mateo Latest Headlines: San Mateo County Residents Among SMC Death Notices Jan. 29-Feb. 1; Accused Jewelry Thieves Arrested In San Mateo; Mirror Image\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=F-cqSQz4avM",
+        "title": "Study claiming Tesla drivers crash twice as often ... - YouTubeYouTube\u00a0\u00b7\u00a0The Electric Viking26.2K+ views  \u00b7  1 month ago",
+        "content": "Study claiming Tesla drivers crash twice as often as other brands is FAKE Get a 20% discount to Electrify Everything in Sydney from the 9th\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dayton247now.com/news/nation-world/gallery/70-year-old-in-tesla-loses-control-jumps-familys-pool-crashes-through-kitchen-shocking-images-san-mateo-cincinnati-house-pulverized-vast-destruction-dangerous-driving-electric-powered-vehicles-nightmarish-situation-insurance-none-injured-injuries-police?photo=2",
+        "title": "70-year-old loses control of daughter's Tesla, jumps ... - WKEFWKEFhttps://dayton247now.com \u203a nation-world \u203a gallery",
+        "content": "... Tesla, jumps family's pool, crashes. Caption. Close icon. 70-year-old loses control of daughter's Tesla, jumps family's pool, crashes into kitchen. (San Mateo\u00a0...",
+        "size": [
+          2048,
+          1422
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://myfox28columbus.com/news/nation-world/gallery/70-year-old-in-tesla-loses-control-jumps-familys-pool-crashes-through-kitchen-shocking-images-san-mateo-cincinnati-house-pulverized-vast-destruction-dangerous-driving-electric-powered-vehicles-nightmarish-situation-insurance-none-injured-injuries-police",
+        "title": "70-year-old loses control of daughter's Tesla, jumps ... - FOX 28WTTEhttps://myfox28columbus.com \u203a nation-world \u203a gallery",
+        "content": "... Tesla, jumps family's pool, crashes. Caption. Close icon. 70-year-old loses control of daughter's Tesla, jumps family's pool, crashes into kitchen. (San Mateo\u00a0...",
+        "size": [
+          2048,
+          1422
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breitbart.com/tag/home/",
+        "title": "Home Articles - BreitbartBreitbarthttps://www.breitbart.com \u203a tag",
+        "content": "A Tesla car crashed into a woman's home in San Mateo, California, early Friday \u00b7 'Intentional Act': Driver Crashes Car into Second Story of Home. A driver\u00a0...",
+        "size": [
+          420,
+          315
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breitbart.com/tag/tesla/",
+        "title": "Tesla Articles - BreitbartBreitbarthttps://www.breitbart.com \u203a tag \u203a tesla",
+        "content": "A Tesla car crashed into a woman's home in San Mateo, California, early Friday \u00b7 Elon Musk Backs Down on Threat to Sue Tesla Customers Who Sell Their Cybertruck.",
+        "size": [
+          420,
+          315
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/CityofSanMateoPolice/?locale=fa_IR",
+        "title": "San Mateo Police Department - FacebookFacebook\u00a0\u00b7\u00a0San Mateo Police Department19.9K+ followers",
+        "content": "San Mateo Police Department\u200e\u200f\u060c \u200f\u200eSan Mateo, California\u200e\u200f. \u200f\u200f\u06f1\u06f7\u066c\u06f7\u06f2\u06f5\u200f \u067e\u0633\u0646\u062f \u00b7 \u200f\u06f2\u066c\u06f2\u06f2\u06f8\u200f \u0646\u0641\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u06cc\u0646 \u0635\u0628\u062d\u062a \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u00b7 \u200f\u06f1\u066c\u06f0\u06f8\u06f2\u200f \u0646\u0641\u0631 \u0627\u06cc\u0646\u200c\u062c\u0627 \u0628\u0648\u062f\u0646\u062f\u200f. \u200f\u200eCOMMUNITY...",
+        "size": [
+          2048,
+          1537
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/CityofSanMateoPolice/?locale=hu_HU",
+        "title": "San Mateo Police Department | San Mateo CA - FacebookFacebook\u00a0\u00b7\u00a0San Mateo Police Department19.9K+ followers",
+        "content": "San Mateo Police Department, San Mateo, California. 17 718 ember kedveli \u00b7 2006 ember besz\u00e9l err\u0151l \u00b7 1083 ember j\u00e1rt m\u00e1r itt. COMMUNITY INFORMATION VENUE...",
+        "size": [
+          2048,
+          1537
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.facebook.com/CityofSanMateoPolice/posts/2396895093693860/",
+        "title": "Help Us to Prevent Auto... - San Mateo Police DepartmentFacebook\u00a0\u00b7\u00a0San Mateo Police Department30+ reactions  \u00b7  4 years ago",
+        "content": "Help Us to Prevent Auto Burglaries While the San Mateo Police Department continues to make arrests of auto burglars, we ask for active\u00a0...",
+        "size": [
+          2048,
+          1537
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breitbart.com/tag/car-crash/",
+        "title": "Car Crash Articles - BreitbartBreitbarthttps://www.breitbart.com \u203a tag \u203a car-crash",
+        "content": "A Tesla car crashed into a woman's home in San Mateo, California, early Friday \u00b7 VIDEO \u2013 'Our Worst Nightmare': Three Killed When Semi Truck Hits Bus Carrying\u00a0...",
+        "size": [
+          420,
+          315
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.carscoops.com/tag/tesla/page/52/",
+        "title": "Tesla | CarscoopsCarscoopshttps://www.carscoops.com \u203a tag \u203a tesla \u203a page",
+        "content": "... Tesla. Even with leasing fees, it's cheaper than the gas alone for her Camry. July 1, 2022 at 10:34. 24. Tesla Lays Off 200 Autopilot Workers, Closes San Mateo\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/category/auto/make/tesla",
+        "title": "Tesla - Fox NewsFox Newshttps://www.foxnews.com \u203a category \u203a auto \u203a make",
+        "content": "... San Mateo \u2013 miraculously causing no injuries \u2013 Friday morning. Show More. More on Tesla. Tesla Cyberquad for Kids ATV recalled after accident for safety\u00a0...",
+        "size": [
+          348,
+          196
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.carscoops.com/tag/tesla/page/187/",
+        "title": "Tesla | CarscoopsCarscoopshttps://www.carscoops.com \u203a tag \u203a tesla \u203a page",
+        "content": "Tesla Model X On The Goodwood Hill Climb Is A Sight To Behold \u00b7 Tesla Driver Dies After Fatal Crash In Autopilot Mode, Raises Questions On Autonomous Systems.",
+        "size": [
+          1024,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.carscoops.com/tag/tesla-model-x/page/17/",
+        "title": "Tesla Model X | CarscoopsCarscoopshttps://www.carscoops.com \u203a tag \u203a tesla-model-x \u203a page",
+        "content": "Get the latest news on Tesla Model X. From motoring stories and spy shots to first drives, special features, videos and photos, we've got you covered.",
+        "size": [
+          1024,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mobile.twitter.com/Jalopnik/status/1727014653677719630",
+        "title": "Jalopnik on X: \"Tesla Briefly Serves As A Plane Before ...X\u00a0\u00b7\u00a0Jalopnik10+ likes  \u00b7  2 months ago",
+        "content": "Tesla Briefly Serves As A Plane Before Crashing Into California House https://t.co/5fS2uQONl7.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/electric/news/pg-5/",
+        "title": "Electric News and Reviews - Autoblog (pg 5)Autobloghttps://www.autoblog.com \u203a Research \u203a Electric",
+        "content": "Tesla Model X flies over a swimming pool and crashes into a house. Tesla doesn't build flying cars yet. Ronan Glon. Nov 21, 2023 Official. Ford resumes building\u00a0...",
+        "size": [
+          724,
+          406
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://intelligentrelations.com/journalist/iulian-dnistran/",
+        "title": "Iulian Dnistran - Journalist Profile - Intelligent RelationsIntelligent Relationshttps://intelligentrelations.com \u203a journalist \u203a iulian-dni...",
+        "content": "Except It Probably Doesn't \u00b7 Tesla Reportedly Has The Highest Accident Rate Of Any Marque. Except It Probably Doesn'. By: Iulian Dnistran.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ebaumsworld.com/index.php?page=54",
+        "title": "Funny Pictures, Funny Videos | eBaum's WorldeBaum's Worldhttps://www.ebaumsworld.com \u203a ...",
+        "content": "California Tesla ... Crashes It Off the Back of a Tow \u00b7 Woman in Jeep Refuses to Be\u00a0...",
+        "size": [
+          1200,
+          628
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ebaumsworld.com/fantasy/index.php?page=61",
+        "title": "Funny Pictures, Funny Videos | eBaum's WorldeBaum's Worldhttps://www.ebaumsworld.com \u203a fantasy",
+        "content": "... California Tesla Driver Spreads Wings, Flies Over Pool and Crashes Into House. Featured 11\u00a0...",
+        "size": [
+          1200,
+          628
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ebaumsworld.com/w/index.php?page=58",
+        "title": "Funny Pictures, Funny Videos | eBaum's WorldeBaum's Worldhttps://www.ebaumsworld.com \u203a ...",
+        "content": "... California Tesla Driver Spreads Wings, Flies Over Pool and Crashes Into House. Featured 11\u00a0...",
+        "size": [
+          1200,
+          628
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://intelligentrelations.com/journalist/michael-ruiz/",
+        "title": "Michael Ruiz - Journalist Profile - Intelligent RelationsIntelligent Relationshttps://intelligentrelations.com \u203a journalist \u203a michael-r...",
+        "content": "California Tesla driver flies over pool, crashes through house and stops in kitchen, police ... New trend of 'crash and grab' and 'ram raid' burglaries costing\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dine-stay.com/?o=freckled-girl-by-craig-elliott-oo-dD6QB7TW",
+        "title": "Freckled Girl by Craig Elliottdine-stay.comhttps://www.dine-stay.com \u203a Craig Elliott",
+        "content": "",
+        "size": [
+          159,
+          106
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autospyders.com/newssearch/?page=3231",
+        "title": "Latest News, Breaking News, News Headlines, Live NewsAutoSpydershttps://www.autospyders.com \u203a newssearch",
+        "content": "",
+        "size": [
+          1200,
+          738
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.dzairsport.net/modello-tesla/",
+        "title": "Modello Tesla - Dzair SportDzair Sporthttps://www.dzairsport.net \u203a modell...",
+        "content": "... San Mateo, indica che la causa dell'incidente non \u00e8 stata ancora determinata, ma le prime osservazioni dalla scena dell'incidente indicano che l'auto ha\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.univision.com/carros/marcas-de-carro/tesla",
+        "title": "Tesla | UnivisionUnivisionhttps://www.univision.com \u203a carros",
+        "content": "tesla casa san mateo.jpg. tesla casa san mateo 3.jpg. tesla casa san mateo 2.jpg \u00b7 UNIVISION 14 SAN FRANCISCO \u00b7 Veh\u00edculo el\u00e9ctrico de Tesla choca contra una\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.univision.com/temas/tesla",
+        "title": "\u00daltimas noticias, videos y fotos de Tesla - UnivisionUnivisionhttps://www.univision.com \u203a temas",
+        "content": "Un autom\u00f3vil el\u00e9ctrico de Tesla se sali\u00f3 de la carretera y choc\u00f3 contra una casa en San Mateo, California, causando da\u00f1os materiales significativos.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://klaxonnew.ru/tesla-model-x-pereletela-bassejn-95794/",
+        "title": "\u0412 \u0421\u0428\u0410 Tesla Model X \u043f\u0435\u0440\u0435\u043b\u0435\u0442\u0435\u043b\u0430 \u0431\u0430\u0441\u0441\u0435\u0439\u043d \u0438 \u0432\u0440\u0435\u0437\u0430\u043b\u0430\u0441\u044c \u0432 \u0434\u043e\u043cklaxonnew.ruhttps://klaxonnew.ru \u203a tesla-model-...",
+        "content": "Tesla Model X \u043f\u0435\u0440\u0435\u043b\u0435\u0442\u0435\u043b\u0430 \u0431\u0430\u0441\u0441\u0435\u0439\u043d. 8:10 24-11-2023. \u041f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0430\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 Tesla Model X \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u043b\u0430 ... \u0424\u043e\u0442\u043e San Mateo PD. \u041c\u0435\u0442\u043a\u0438 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 Tesla. \u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f: \u042f.",
+        "size": [
+          1536,
+          1153
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "az",
+        "link": "https://son-xeberler.az/tesla-model-x-40-50-fut-havada-ucdu-bay-area-m%C9%99tb%C9%99xin%C9%99-endi/",
+        "title": "Tesla Model X '40-50 Fut Havada U\u00e7du', Bay Area M\u0259tb\u0259xin\u0259 ...son-xeberler.azhttps://son-xeberler.az \u203a tesla-model...",
+        "content": "Mavi Tesla Model X, daxili y\u0131rt\u0131c\u0131 qu\u015funu kanalizasiya etdi, lakin ke\u00e7\u0259n h\u0259ft\u0259nin sonunda \u00fczg\u00fc\u00e7\u00fcl\u00fck hovuzunun \u00fcz\u0259rind\u0259n u\u00e7araq San Mateo, Kaliforniyadak\u0131.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://tenyek.hu/cikkek/egy-tesla-rontott-egy-csaladi-haz-konyhajaba-miutan-atrepult-a-medence-folott-fotok",
+        "title": "Egy Tesla rontott egy csal\u00e1di h\u00e1z konyh\u00e1j\u00e1ba, miut\u00e1n \u00e1trep\u00fclt ...T\u00e9nyekhttps://tenyek.hu \u203a cikkek \u203a egy-tes...",
+        "content": "Egy Tesla rontott egy csal\u00e1di h\u00e1z konyh\u00e1j\u00e1ba, miut\u00e1n \u00e1trep\u00fclt ...T\u00e9nyekhttps://tenyek.hu \u203a cikkek \u203a egy-tes...",
+        "size": "",
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.autojournal.fr/marques-auto/audi/videos",
+        "title": "Vid\u00e9os - Auto JournalAuto Journalhttps://www.autojournal.fr \u203a videos",
+        "content": "... Tesla Model X percute maison picsine. Insolites ... BYD Seal EURO NCAP Crash test. Nouveaut\u00e9 \u00b7 BYD Seal et Dolphin\u00a0...",
+        "size": [
+          1024,
+          769
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.autojournal.fr/marques-auto/harley-davidson/videos/page/6",
+        "title": "Vid\u00e9os Page 6 - Auto JournalAuto Journalhttps://www.autojournal.fr \u203a videos",
+        "content": "... Tesla Model X percute maison picsine. Insolites ... BYD Seal EURO NCAP Crash test. Nouveaut\u00e9 \u00b7 BYD Seal et Dolphin\u00a0...",
+        "size": [
+          1024,
+          769
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.autojournal.fr/actu/page/42",
+        "title": "Actualit\u00e9s Auto Journal : toute l'actu dans une rubriqueAuto Journalhttps://www.autojournal.fr \u203a page",
+        "content": "... accident avec un non-assur\u00e9 ? Hyundai Ioniq 5 ... Derni\u00e8res vid\u00e9os. Tesla Cybertruck tracte autre Tesla.",
+        "size": [
+          365,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://fishki.net/tag/tesla/",
+        "title": "Tesla \u2014 \u043d\u043e\u0432\u044b\u0435 \u043f\u0440\u0438\u043a\u043e\u043b\u044c\u043d\u044b\u0435 \u0444\u043e\u0442\u043e, \u0430\u043d\u0435\u043a\u0434\u043e\u0442\u044b, \u0432\u0438\u0434\u0435\u043e, \u043f\u043e\u0441\u0442\u044b ...Fishki.nethttps://fishki.net \u203a tag \u203a tesla",
+        "content": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u0438\u043b\u0435\u0440 \u0438 \u0442\u044e\u043d\u0435\u0440 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043a\u0430\u0440\u043e\u0432 Gruber Motors \u0432\u044b\u0441\u0442\u0430\u0432\u0438\u043b \u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0443 Tesla Roadster \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f, \u0432\u044b\u043f\u0443\u0449\u0435\u043d\u043d\u044b\u0439 \u0432 2010 \u0433\u043e\u0434\u0443. \u0421\u043f\u043e\u0440\u0442\u043a\u0430\u0440 \u043f\u0440\u043e\u0434\u0430\u0451\u0442\u0441\u044f \u0441\u00a0...",
+        "size": [
+          640,
+          336
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "uk",
+        "link": "https://nevsedoma.com.ua/uk/601095-nekerovana-tesla-proletila-nad-basejnom-i-vrizalasja-u-budinok-3-foto-1-video.html",
+        "title": "\u041d\u0435\u043a\u0435\u0440\u043e\u0432\u0430\u043d\u0430 Tesla \u043f\u0440\u043e\u043b\u0435\u0442\u0456\u043b\u0430 \u043d\u0430\u0434 \u0431\u0430\u0441\u0435\u0439\u043d\u043e\u043c \u0456 \u0432\u0440\u0456\u0437\u0430\u043b\u0430\u0441\u044f \u0443 ...\u041d\u0435\u0432\u0441\u0435\u0434\u043e\u043c\u0430https://nevsedoma.com.ua \u203a 601095...",
+        "content": "\u041f\u043e\u043b\u0456\u0446\u0456\u044f \u0421\u0430\u043d-\u041c\u0430\u0442\u0435\u043e \u0442\u0430 \u043f\u043e\u0436\u0435\u0436\u043d\u0438\u043a\u0438 \u043f\u0440\u0438\u0431\u0443\u043b\u0438 \u0434\u043e \u0442\u0438\u0445\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u041a\u0430\u043b\u0456\u0444\u043e\u0440\u043d\u0456\u0457 \u043d\u0430 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0432\u043e\u0441\u044c\u043c\u043e\u0457 \u0440\u0430\u043d\u043a\u0443 17 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0430. 70-\u0440\u0456\u0447\u043d\u0430 \u0432\u043b\u0430\u0441\u043d\u0438\u0446\u044f Tesla \u0432\u0442\u0440\u0430\u0442\u0438\u043b\u0430 \u043a\u0435\u0440\u0443\u0432\u0430\u043d\u043d\u044f,\u00a0...",
+        "size": [
+          1000,
+          525
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.almuraba.net/american-cars/tesla/page/3",
+        "title": "\u062a\u064a\u0633\u0644\u0627 - \u0627\u0644\u0645\u0631\u0628\u0639 \u0646\u062a\u0627\u0644\u0645\u0631\u0628\u0639 \u0646\u062ahttps://www.almuraba.net \u203a page",
+        "content": "\u062a\u064a\u0633\u0644\u0627 \u0647\u064a \u0634\u0631\u0643\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0645\u062a\u062e\u0635\u0635\u0629 \u0641\u064a \u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0648\u0646\u0638\u064a\u0641\u0629 \u0627\u0644\u0637\u0627\u0642\u0629\u060c \u0645\u0642\u0631\u0647\u0627 \u0623\u0648\u0633\u062a\u0646 \u0641\u064a \u0648\u0644\u0627\u064a\u0629 \u062a\u0643\u0633\u0627\u0633. \u0642\u062f \u062a\u0623\u0633\u0633\u062a \u0641\u064a 2003 \u0639\u0644\u0649 \u064a\u062f \u0645\u0627\u0631\u062a\u0646 \u0625\u0628\u0631\u0647\u0627\u0631\u062f \u0648\u0645\u0627\u0631\u0643 \u062a\u0627\u0631\u0628\u064a\u0646\u064a\u0646\u062c\u060c\u00a0...",
+        "size": [
+          295,
+          166
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.almuraba.net/news_view_311603.html",
+        "title": "\"\u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648\" \u062a\u064a\u0633\u0644\u0627 \u0645\u0648\u062f\u064a\u0644 X \u062a\u0646\u0642\u0633\u0645 \u0625\u0644\u0649 \u0646\u0635\u0641\u064a\u0646 \u0628\u0639\u062f \u0627\u0635\u0637\u062f\u0627\u0645 ...\u0627\u0644\u0645\u0631\u0628\u0639 \u0646\u062ahttps://www.almuraba.net \u203a news_vi...",
+        "content": "Cop Block. 96.1K subscribers. Tesla Model X ripped & split in half with no injuries after crash with Greg Ferreira's Nissan GT-R. Cop Block. Search. Info.",
+        "size": [
+          295,
+          166
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.almuraba.net/news_view_582223.html",
+        "title": "\u062a\u064a\u0633\u0644\u0627 \u0645\u0648\u062f\u064a\u0644 X \u062a\u0637\u064a\u0631 \u0644\u0645\u0633\u0627\u0641\u0629 \u062a\u0635\u0644 \u0625\u0644\u0649 15 \u0645\u062a\u0631\u0627\u064b \u0642\u0628\u0644 \u0627\u0644\u0627\u0635\u0637\u062f\u0627\u0645 ...\u0627\u0644\u0645\u0631\u0628\u0639 \u0646\u062ahttps://www.almuraba.net \u203a news_vi...",
+        "content": "\u0627\u0644\u0645\u0631\u0628\u0639 \u0646\u062a \u2013 \u0641\u064a \u0625\u062d\u062f\u0649 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0647\u0627\u062f\u0626\u0629 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0628\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0642\u0627\u0645\u062a \u0633\u064a\u0627\u0631\u0629 \u062a\u064a\u0633\u0644\u0627 \u0645\u0648\u062f\u064a\u0644 X \u0632\u0631\u0642\u0627\u0621 \u0628\u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0644\u0645\u0633\u0627\u0641\u0629 \u062a\u0642\u062f\u0631 \u0628\u062d\u0648\u0627\u0644\u064a 12-15 \u0645\u062a\u0631\u0627\u064b \u0641\u064a \u0627\u0644\u0647\u0648\u0627\u0621 \u0642\u0628\u0644.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.almuraba.net/news_view_39074.html",
+        "title": "\"\u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648\" \u062c\u0648 \u0628\u0631\u0648 \u062a\u0644\u062a\u0642\u0637 \u0642\u0641\u0632\u0629 \u0631\u0627\u0644\u064a \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0641\u0631\u0646\u0633\u064a \u062c\u064a\u0631\u0644\u0627\u0646 ...\u0627\u0644\u0645\u0631\u0628\u0639 \u0646\u062ahttps://www.almuraba.net \u203a news_vi...",
+        "content": "\u0627\u0644\u0645\u0631\u0628\u0639 \u0646\u062a \u2013 \u0641\u064a \u0648\u0642\u062a \u0633\u0627\u0628\u0642 \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0639\u0627\u0645\u060c \u0646\u062c\u0627 \u0633\u0627\u0626\u0642 \u0631\u0627\u0644\u064a \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0641\u0631\u0646\u0633\u064a \u0627\u0644\u0634\u0647\u064a\u0631 \u062c\u064a\u0631\u0644\u0627\u0646 \u0634\u064a\u0634\u064a\u0631\u064a \u0645\u0646 \u0627\u0644\u0645\u0648\u062a \u0627\u0644\u0645\u062d\u062a\u0645 \u0628\u0627\u0639\u062c\u0648\u0628\u0629 \u0627\u062b\u0646\u0627\u0621 \u0645\u062d\u0627\u0648\u0644\u062a\u0647 \u062a\u062d\u0637\u064a\u0645 \u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0642\u064a\u0627\u0633\u064a \u0641\u064a \u0627\u0644\u0642\u0641\u0632\u00a0...",
+        "size": [
+          295,
+          166
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://fishki.net/selandadmin/244/",
+        "title": "\u0441\u0442\u0440.244 - Fishki.netFishki.nethttps://fishki.net \u203a selandadmin",
+        "content": "\u041f\u043e\u043b\u0438\u0446\u0438\u044f \u0421\u0430\u043d-\u041c\u0430\u0442\u0435\u043e \u0438 \u043f\u043e\u0436\u0430\u0440\u043d\u044b\u0435 \u043f\u0440\u0438\u0431\u044b\u043b\u0438 \u0432 \u0442\u0438\u0445\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0438 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u0443\u0442\u0440\u0430 17 \u043d\u043e\u044f\u0431\u0440\u044f. 70-\u043b\u0435\u0442\u043d\u044f\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u0438\u0446\u0430 Tesla \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e\u00a0...",
+        "size": [
+          640,
+          336
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://fishki.net/384/",
+        "title": "\u0421\u0430\u0439\u0442 \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f - \u0441\u0442\u0440.384 - Fishki.netFishki.nethttps://fishki.net \u203a ...",
+        "content": "\u041f\u043e\u043b\u0438\u0446\u0438\u044f \u0421\u0430\u043d-\u041c\u0430\u0442\u0435\u043e \u0438 \u043f\u043e\u0436\u0430\u0440\u043d\u044b\u0435 \u043f\u0440\u0438\u0431\u044b\u043b\u0438 \u0432 \u0442\u0438\u0445\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0438 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u0443\u0442\u0440\u0430 17 \u043d\u043e\u044f\u0431\u0440\u044f. 70-\u043b\u0435\u0442\u043d\u044f\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u0438\u0446\u0430 Tesla \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e\u00a0...",
+        "size": [
+          640,
+          336
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://view.nate.com/auto/view/130505/",
+        "title": "\u201c\ud604\ub300 \uc790\uc728\uc8fc\ud589 \uba48\ucd94\ub098?!\u201d \u7f8e\uc571\ud2f0\ube0c, \uc790\uc728\uc8fc\ud589 \ud569\uc791\uc0ac \ud22c\uc790 \uc911\ub2e8\ub124\uc774\ud2b8\ubdf0https://view.nate.com \u203a auto \u203a view",
+        "content": " \u00b7 ",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://fishki.net/period-all/246/",
+        "title": "\u0441\u0442\u0440.246 - \u0424\u0438\u0448\u043a\u0438.\u043d\u0435\u0442Fishki.nethttps://fishki.net \u203a period-all",
+        "content": "\u041f\u043e\u043b\u0438\u0446\u0438\u044f \u0421\u0430\u043d-\u041c\u0430\u0442\u0435\u043e \u0438 \u043f\u043e\u0436\u0430\u0440\u043d\u044b\u0435 \u043f\u0440\u0438\u0431\u044b\u043b\u0438 \u0432 \u0442\u0438\u0445\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0438 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u0443\u0442\u0440\u0430 17 \u043d\u043e\u044f\u0431\u0440\u044f. 70-\u043b\u0435\u0442\u043d\u044f\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u0438\u0446\u0430 Tesla \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e\u00a0...",
+        "size": [
+          640,
+          336
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://view.mk.co.kr/car-tech/article/54387/",
+        "title": "\u201c\ud604\ub300 \uc790\uc728\uc8fc\ud589 \uba48\ucd94\ub098?!\u201d \u7f8e\uc571\ud2f0\ube0c, \uc790\uc728\uc8fc\ud589 \ud569\uc791\uc0ac \ud22c\uc790 \uc911\ub2e8\ub9e4\uc77c\uacbd\uc81chttps://view.mk.co.kr \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://autofork.kr/autonews/article/51975/",
+        "title": "\"\ud604\ub300 \uc790\uc728\uc8fc\ud589 \uba48\ucd94\ub098?!\" \u7f8e\uc571\ud2f0\ube0c, \uc790\uc728\uc8fc\ud589 \ud569\uc791\uc0ac \ud22c\uc790 \uc911\ub2e8\uc624\ud1a0\ud3ec\ud06chttps://autofork.kr \u203a \uc624\ud1a0\ub274\uc2a4",
+        "content": " \u00b7 ",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://issue.dcinside.com/651240/",
+        "title": "\u201c\ud604\ub300 \uc790\uc728\uc8fc\ud589 \uba48\ucd94\ub098?!\u201d \u7f8e\uc571\ud2f0\ube0c, \uc790\uc728\uc8fc\ud589 \ud569\uc791\uc0ac \ud22c\uc790 \uc911\ub2e8\ub514\uc2dc \uc774\uc288https://issue.dcinside.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.371415376663208
+      },
+      {
+        "class": "driveway",
+        "ioclass": "outdoor",
+        "probability": 0.11262284964323044
+      },
+      {
+        "class": "shed",
+        "ioclass": "outdoor",
+        "probability": 0.06196850910782814
+      },
+      {
+        "class": "repair_shop",
+        "ioclass": "indoor",
+        "probability": 0.05188356712460518
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.05136275291442871
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9569947123527527
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.7838714122772217
+      },
+      {
+        "class": "bright",
+        "score": 0.6720854043960571
+      },
+      {
+        "class": "dry",
+        "score": 0.5774879455566406
+      },
+      {
+        "class": "temperature/warm",
+        "score": 0.5204046368598938
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 2058,
+        "pred_lat": 29.943857192993164,
+        "pred_long": -90.09756469726562
+      },
+      "middle": {
+        "pred_class": 3996,
+        "pred_lat": 29.94989585876465,
+        "pred_long": -90.08689880371094
+      },
+      "fine": {
+        "pred_class": 4803,
+        "pred_lat": 40.60923767089844,
+        "pred_long": -74.10064697265625
+      },
+      "hierarchy": {
+        "pred_class": 4803,
+        "pred_lat": 40.60923767089844,
+        "pred_long": -74.10064697265625
+      },
+      "country": {
+        "city": "New York",
+        "state": "New York",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 40.597538,
+    "longitude": -74.08771,
+    "generationtime_ms": 0.1239776611328125,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 60.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2007-08-04T00:00",
+        "2007-08-04T01:00",
+        "2007-08-04T02:00",
+        "2007-08-04T03:00",
+        "2007-08-04T04:00",
+        "2007-08-04T05:00",
+        "2007-08-04T06:00",
+        "2007-08-04T07:00",
+        "2007-08-04T08:00",
+        "2007-08-04T09:00",
+        "2007-08-04T10:00",
+        "2007-08-04T11:00",
+        "2007-08-04T12:00",
+        "2007-08-04T13:00",
+        "2007-08-04T14:00",
+        "2007-08-04T15:00",
+        "2007-08-04T16:00",
+        "2007-08-04T17:00",
+        "2007-08-04T18:00",
+        "2007-08-04T19:00",
+        "2007-08-04T20:00",
+        "2007-08-04T21:00",
+        "2007-08-04T22:00",
+        "2007-08-04T23:00",
+        "2007-08-05T00:00",
+        "2007-08-05T01:00",
+        "2007-08-05T02:00",
+        "2007-08-05T03:00",
+        "2007-08-05T04:00",
+        "2007-08-05T05:00",
+        "2007-08-05T06:00",
+        "2007-08-05T07:00",
+        "2007-08-05T08:00",
+        "2007-08-05T09:00",
+        "2007-08-05T10:00",
+        "2007-08-05T11:00",
+        "2007-08-05T12:00",
+        "2007-08-05T13:00",
+        "2007-08-05T14:00",
+        "2007-08-05T15:00",
+        "2007-08-05T16:00",
+        "2007-08-05T17:00",
+        "2007-08-05T18:00",
+        "2007-08-05T19:00",
+        "2007-08-05T20:00",
+        "2007-08-05T21:00",
+        "2007-08-05T22:00",
+        "2007-08-05T23:00"
+      ],
+      "apparent_temperature": [
+        31.5,
+        30.5,
+        29.8,
+        29.7,
+        29.0,
+        28.4,
+        28.0,
+        27.4,
+        27.1,
+        26.8,
+        26.5,
+        27.1,
+        28.8,
+        30.7,
+        32.1,
+        34.2,
+        36.1,
+        37.4,
+        38.0,
+        36.2,
+        36.4,
+        35.4,
+        33.8,
+        33.2,
+        33.1,
+        32.3,
+        31.6,
+        29.0,
+        27.2,
+        25.0,
+        23.5,
+        22.2,
+        21.8,
+        21.5,
+        20.9,
+        21.0,
+        21.7,
+        23.0,
+        24.6,
+        26.9,
+        29.0,
+        30.3,
+        30.7,
+        29.5,
+        28.8,
+        27.1,
+        26.5,
+        25.3
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

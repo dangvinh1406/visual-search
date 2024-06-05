@@ -1,0 +1,1090 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 5,
+            "abnormal": true
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 5,
+            "abnormal": true
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 2,
+            "abnormal": true
+          },
+          "2023/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 5,
+        "abnormal": true,
+        "plot": {
+          "labels": [
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Anomaly detected",
+              "backgroundColor": "#DD1B16",
+              "data": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                5,
+                null,
+                5,
+                null,
+                null,
+                2,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                5,
+                0,
+                5,
+                0,
+                0,
+                2,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 31,
+            "percentage": 77.5
+          },
+          "Chinese": {
+            "count": 3,
+            "percentage": 7.5
+          },
+          "Hungarian": {
+            "count": 2,
+            "percentage": 5.0
+          },
+          "Serbian": {
+            "count": 2,
+            "percentage": 5.0
+          },
+          "Czech": {
+            "count": 1,
+            "percentage": 2.5
+          },
+          "Croatian": {
+            "count": 1,
+            "percentage": 2.5
+          }
+        },
+        "total": 40,
+        "plot": {
+          "labels": [
+            "English",
+            "Chinese",
+            "Hungarian",
+            "Serbian",
+            "others"
+          ],
+          "data": [
+            77,
+            7,
+            5,
+            5,
+            6
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "hr",
+        "link": "https://www.quaysidepenang.com/satara_no%C5%BE/primal-how-to-kill-soldiers-with-mask",
+        "title": "luk maloprodaja Baviti se sportom primal how to kill soldiers ...quaysidepenang.comhttps://www.quaysidepenang.com \u203a ...",
+        "content": "juha Temelj Ambiciozan Bakhmut claims more casualties as Kyiv ... svjetlucanje Fonetika Pionir War Games: The Psychology of Combat eBook\u00a0...",
+        "size": [
+          380,
+          253
+        ],
+        "date": "2023:09:17 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://news.knowledia.com/US/en/articles/in-bakhmut-a-food-stand-stays-open-despite-the-war-4b3d61ce4eac93e06dd6bacd3fd37d46b0bcfbda",
+        "title": "In Bakhmut, a Food Stand Stays Open Despite the WarKnowledia Newshttps://news.knowledia.com \u203a articles",
+        "content": "Despite all the shelling, and with no electricity, one snack shop is still serving the soldiers and citizens who have stayed in Bakhmut,\u00a0...",
+        "size": [
+          380,
+          253
+        ],
+        "date": "2022:12:22 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 26,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://news.knowledia.com/US/en/articles/in-bakhmut-a-food-stand-stays-open-despite-the-war-4b3d61ce4eac93e06dd6bacd3fd37d46b0bcfbda",
+        "title": "In Bakhmut, a Food Stand Stays Open Despite the WarKnowledia Newshttps://news.knowledia.com \u203a articles",
+        "content": "Despite all the shelling, and with no electricity, one snack shop is still serving the soldiers and citizens who have stayed in Bakhmut,\u00a0...",
+        "size": [
+          380,
+          253
+        ],
+        "date": "2022:12:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.csmonitor.com/World/Europe/2023/0310/Bakhmut-battle-lays-bare-high-stakes-for-both-sides-in-Ukraine-war",
+        "title": "Bakhmut battle lays bare high stakes for both sides in Ukraine ...The Christian Science Monitorhttps://www.csmonitor.com \u203a World \u203a Europe \u203a Bakhmu...",
+        "content": "Thousands of Ukrainian and Russian soldiers have died in 10 months of fighting for Bakhmut. Kyiv sees the battle as key to homeland defense.",
+        "size": [
+          380,
+          253
+        ],
+        "date": "2023:03:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.allsides.com/news/2023-03-13-0901/world-bakhmut-battle-lays-bare-high-stakes-both-sides-ukraine-war",
+        "title": "Bakhmut battle lays bare high stakes for both sides in Ukraine ...AllSideshttps://www.allsides.com \u203a news \u203a world-bakhmut-batt...",
+        "content": "Whether Russia or Ukraine wins the battle for Bakhmut, heavy casualties mean it will be a Pyrrhic victory. Russians are fighting for a\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:03:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zerohedge.com/geopolitical/ukrainian-official-we-dont-have-resources-counteroffensive",
+        "title": "Ukrainian Official: 'We Don't Have The Resources For ...Zero Hedgehttps://www.zerohedge.com \u203a geopolitical \u203a ukrainian...",
+        "content": "Ukraine is taking heavy losses in its battle defending Bakhmut, but it's keeping a tight lid on its casualty numbers. A German official said\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:03:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://newmitbbs.com/viewtopic.php?t=146562",
+        "title": "\u5b8c\u4e86\uff0c\u4e4c\u514b\u5170\u5b98\u5458\uff1a\u201c\u6211\u4eec\u6ca1\u6709\u53cd\u653b\u7684\u8d44\u6e90\u201d - \u65b0\u672a\u540d\u7a7a\u95f4\u65b0\u672a\u540d\u7a7a\u95f4https://newmitbbs.com \u203a viewtopic",
+        "content": "",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:03:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://reformy.cz/na-protiofenzivu-nemame-zdroje-rika-ukrajinsky-cinitel/",
+        "title": "Na protiofenzivu nem\u00e1me zdroje, \u0159\u00edk\u00e1 ukrajinsk\u00fd \u010dinitelReformy.czhttps://reformy.cz \u203a na-protiofenziv...",
+        "content": "V Bachmutu zjevn\u011b ob\u011b strany \u010dekaj\u00ed na tu druhou, zat\u00edmco ob\u011bti rostou\u2026 Ukraine's former army chief says 'Bakhmut has played its role' in\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:03:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zerohedge.com/geopolitical/wagner-chief-says-american-killed-fighting-bakhmut",
+        "title": "Wagner Chief Says American Killed Fighting In BakhmutZero Hedgehttps://www.zerohedge.com \u203a geopolitical \u203a wagner-c...",
+        "content": "... war and most likely a worthy [death], right?\u201d Prigozhin says in the video. The video presents the man as having died while returning fire\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:05:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zerohedge.com/geopolitical/wagner-chief-says-american-killed-fighting-bakhmut?ref=biztoc.com",
+        "title": "Wagner Chief Says American Killed Fighting In BakhmutZero Hedgehttps://www.zerohedge.com \u203a geopolitical \u203a wagner-c...",
+        "content": "... war and most likely a worthy [death], right?\u201d Prigozhin says in the video. The video presents the man as having died while returning fire\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:05:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://www.intermagazin.rs/ovo-je-cena-koju-su-platili-ukrajinci-evo-koliko-je-pogiulo-a-koliki-je-ranjeno-ukrajinskih-vojnika-u-bahmutu/?lang=cir",
+        "title": "\u041e\u0412\u041e \u0408\u0415 \u0426\u0415\u041d\u0410 \u041a\u041e\u0408\u0423 \u0421\u0423 \u041f\u041b\u0410\u0422\u0418\u041b\u0418 \u0423\u041a\u0420\u0410\u0408\u0418\u041d\u0426\u0418: \u0415\u0432\u043e \u043a\u043e\u043b\u0438\u043a\u043e ...intermagazinhttps://www.intermagazin.rs \u203a ovo-j...",
+        "content": "",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:05:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://www.intermagazin.rs/ovo-je-cena-koju-su-platili-ukrajinci-evo-koliko-je-pogiulo-a-koliki-je-ranjeno-ukrajinskih-vojnika-u-bahmutu/",
+        "title": "OVO JE CENA KOJU SU PLATILI UKRAJINCI - intermagazinintermagazinhttps://www.intermagazin.rs \u203a ovo-j...",
+        "content": "",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:05:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://naijnaira.com/russian-mercenary-group-founder-warns-of-possible-revolution/",
+        "title": "Russian Mercenary Group Founder Warns of Possible ...NaijNairahttps://naijnaira.com \u203a World News",
+        "content": "... war seriously. Prigozhin, who serves President Vladimir Putin, said that Russia was in danger of turmoil and that Ukraine was preparing a\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:05:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://info.51.ca/articles/1238783",
+        "title": "\u6ca1\u4e86\u666e\u91cc\u6208\u4efb\u7684\u74e6\u683c\u7eb3\uff0c\u4f1a\u5982\u4f55\u5f71\u54cd\u6218\u573a\uff1f - \u52a0\u62ff\u5927\u65b0\u95fb\u65e0\u5fe7\u8d44\u8bafhttps://info.51.ca \u203a articles",
+        "content": "",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:08:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.guancha.cn/XiYaZhou/2023_08_27_706503.shtml",
+        "title": "\u4e00\u5468\u519b\u8bc4\uff1a\u6ca1\u4e86\u666e\u91cc\u6208\u4efb\u7684\u74e6\u683c\u7eb3\uff0c\u4f1a\u5982\u4f55\u5f71\u54cd\u6218\u573a\uff1f - \u89c2\u5bdf\u8005\u89c2\u5bdf\u8005https://www.guancha.cn \u203a XiYaZhou",
+        "content": "",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:08:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.quaysidepenang.com/satara_no%C5%BE/primal-how-to-kill-soldiers-with-mask",
+        "title": "luk maloprodaja Baviti se sportom primal how to kill soldiers ...quaysidepenang.comhttps://www.quaysidepenang.com \u203a ...",
+        "content": "juha Temelj Ambiciozan Bakhmut claims more casualties as Kyiv ... svjetlucanje Fonetika Pionir War Games: The Psychology of Combat eBook\u00a0...",
+        "size": [
+          380,
+          253
+        ],
+        "date": "2023:09:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://infcapital.vn/?g=bakhmut-claims-more-casualties-as-kyiv-moscow-fight-for-1-zz-An0wwOUa",
+        "title": "Bakhmut claims more casualties as Kyiv, Moscow fight for ...infcapital.vnhttps://infcapital.vn \u203a predator camo ukraine",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic town. War in Ukraine: 'In Donbas, our soldiers are fighting with one round of ammunition\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cowaythaiservice.com/why-is-bakhmut-so-important-k.html",
+        "title": "Clancy in termini di Elettrico why is bakhmut so important ...cowaythaiservice.comhttps://cowaythaiservice.com \u203a why-is-bakhmut-so-im...",
+        "content": "Ukraine war: The battle of Bakhmut is not about seizing vital ground - it is about maximising enemy casualties | World News | Sky News\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://saoi.org.ar/?m=the-ukraine-war-and-the-search-for-common-ground-tt-qaoPeYhA",
+        "title": "The Ukraine War And The Search For Common GroundSociedad Argentina de Oftalmolog\u00eda Infantilhttps://saoi.org.ar \u203a predator camo ukraine",
+        "content": "War in Ukraine: 'In Donbas, our soldiers are fighting with one round of ... Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic town. Get\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://janekagiri.org/index.php/Official-Who-Switched-Sides-to-Back-Russia-Assassinated-Report-1012-124289",
+        "title": "Ukrainian Official Who Switched Sides to Back Russia ...janekagiri.orghttps://janekagiri.org \u203a index.php \u203a Official-Who-Swit...",
+        "content": "Ukraine Will Make 'No Deals' To Cede Territory to End War With Russia, Says Ambassador - USNI News ... Explainer: Bakhmut: Why Russia and Ukraine are battling so\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://maison2retour.com/grief-for-my-old-camouflage-post-7507-65749",
+        "title": "I am going to get grief for my old camouflage postmaison2retour.comhttps://maison2retour.com \u203a grief-for-my-old-camoufl...",
+        "content": "Product Description. I am going to get grief for my old camouflage post. Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic. I am going to get\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ativokids.pt/?u=the-ukraine-war-and-the-search-for-common-ground-nn-MEm3PJhM",
+        "title": "The Ukraine War And The Search For Common Groundativokids.pthttps://www.ativokids.pt \u203a predator camo ukraine",
+        "content": "War in Ukraine: 'In Donbas, our soldiers are fighting with one round of ... Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic town. The\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.angelicadalpizzolneuro.com.br/get-grief-for-my-old-camouflage-post-1155-140558",
+        "title": "I am going to get grief for my old camouflage postangelicadalpizzolneuro.com.brhttps://www.angelicadalpizzolneuro.com.br \u203a get-grief...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic town. I am ... Blindsided by the Taliban: A Journalist's Story of War, Trauma, Love, and\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=xE5bCz5xmvU",
+        "title": "Iran-Palestine war | UN: Need about 100 trucks/day ... - YouTubeYouTube\u00a0\u00b7\u00a0WION5.6K+ views  \u00b7  1 month ago",
+        "content": "",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://johannesburg.fenns.co.za/?s=the-ukraine-war-and-the-search-for-common-ground-zz-VpJWXqFp",
+        "title": "The Ukraine War And The Search For Common Groundfenns.co.zahttps://johannesburg.fenns.co.za \u203a ...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic town. Get ... War in Ukraine: 'In Donbas, our soldiers are fighting with one round of\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://savagepetrov.com/Official-Who-Switched-Sides-to-Back-Russia-Assassinated-4949-111717",
+        "title": "Ukrainian Official Who Switched Sides to Back Russia ... - Savasavagepetrov.comhttps://savagepetrov.com \u203a Official-Who-Switched-Sid...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic. Ukrainian ... 9 big questions about Russia's war in Ukraine, answered - Vox. Ukrainian\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=45act-hwvqQ",
+        "title": "Move deliberately hidden from public | World News | WIONYouTube\u00a0\u00b7\u00a0WION12.9K+ views  \u00b7  1 month ago",
+        "content": "The war in Ukraine there's no let up in the intensity there as well Ukraine is reporting small gains in both the east and south.",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://savagepetrov.com/Official-Who-Switched-Sides-to-Back-Russia-Assassinated-Report-3500-120328",
+        "title": "Ukrainian Official Who Switched Sides to Back Russia ... - Savasavagepetrov.comhttps://savagepetrov.com \u203a Official-Who-Switched-Sid...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic town ... Russia's War in Ukraine: Identity, History, and Conflict. Ukrainian Official Who\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/meaning-of-fierce-battle",
+        "title": "Meaning Of Fierce Battle - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a meaning-of-fierce-...",
+        "content": "Ukraine: Battle for Bakhmut turns into a 'meat grinder' for ... More the full size Meaning Of Fierce Battle image. Russian troops push to capture the\u00a0...",
+        "size": [
+          380,
+          253
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=tV4M1YP3RhM",
+        "title": "Taliban welcomes Russia's stance to remove it from list of ...YouTube\u00a0\u00b7\u00a0WION13.4K+ views  \u00b7  2 years ago",
+        "content": "Comments164 \u00b7 Israel-Palestine war: Palestinian security forces clash with protestors in Ramallah | WION \u00b7 Watch video of violent confrontation\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hotcore.info/babki/moscow-city-russia.html",
+        "title": "Moscow City Russiahotcore.infohttps://hotcore.info \u203a babki \u203a moscow-city-russia",
+        "content": "Russian mercenary warns of battle in Bakhmut - Campaign Cambodia\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://maison2retour.com/I-am-going-to-get-grief-for-my-old-camouflage-post-3236-87866",
+        "title": "I am going to get grief for my old camouflage postmaison2retour.comhttps://maison2retour.com \u203a I-am-going-to-get-grief-f...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic town. I am going to get grief for my old camouflage post. Texas Guard members pay tribute to\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=EfhqOn-c_rk",
+        "title": "First public meeting of 'five eyes' intelligence chips | World NewsYouTube\u00a0\u00b7\u00a0WION2K+ views  \u00b7  1 month ago",
+        "content": "WION\u2022180K views \u00b7 32:53 \u00b7 Go to channel. Israel at War Day 41 | Impact of the War Felt Throughout the Middle East. CBN News New 516K views \u00b7 9:\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/most-important-holiday-in-ukraine",
+        "title": "Most Important Holiday In Ukraine Guide 2023 - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a most-important-hol...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for ... Why May 9 Is Important ... Ukraine war: Kyiv rejects Putin's Russian Orthodox Christmas ... 10\u00a0...",
+        "size": [
+          380,
+          253
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://castromarina.info/get-off-my-back-the-casualties",
+        "title": "Get Off My Back The Casualties - Castro Marinacastromarina.infohttps://castromarina.info \u203a get-off-my-back-the-casualties",
+        "content": "Bakhmut claims ... Casualties\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://eoidev3.co.il/index.php/Miles-bridges-gap-between-families-service-members-4611-169417",
+        "title": "Smiles Over Miles bridges gap between families, service ...eoidev3.co.ilhttps://eoidev3.co.il \u203a index.php \u203a Miles-bridges-gap-...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic. MORE. Smiles Over Miles bridges gap between families, service members. Charlotte Hornets\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/naselenkoa?lang=en",
+        "title": "Oleksandr Naselenko (@naselenkoa) / XTwitter\u00a0\u00b7\u00a0naselenkoa50+ followers",
+        "content": "",
+        "size": [
+          380,
+          253
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/stakes-are-too-high-meaning",
+        "title": "Stakes Are Too High Meaning Gallery - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a stakes-are-t...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for ... More \u00b7 10 High Stakes Assessment Terms Students Need to Know. Bakhmut claims more casualties as\u00a0...",
+        "size": [
+          380,
+          253
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gogohd.org/Uniform-Combat-Uniform-Amunition-for-Soldiers-People-s-526-199677",
+        "title": "Combat Uniform & Amunition for Soldiers - People's Project.comgogohd.orghttps://www.gogohd.org \u203a Uniform-Combat-Uniform-...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic. Related products. Shopping. HUGO - Cargo tracksuit bottoms in cotton with camouflage print.",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.choicebusinesssolutions.net/?30022203tihrcegggetigmsye.htm",
+        "title": "apprentice Goneryl Maryanne Jones honey have you seen my ...CHOICE BUSINESS SOLUTIONShttps://www.choicebusinesssolutions.net \u203a ...",
+        "content": "Bakhmut claims more casualties as Kyiv, Moscow fight for symbolic\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://soakegypt.org/soldier-shot-his-mate%27s-fat-k.html",
+        "title": "Integr\u00e1l Mozdony idegen\u00edts\u00fck soldier shot his mate's fat ...soakegypt.orghttps://soakegypt.org \u203a soldier-shot-...",
+        "content": "What happens, if conscription is reinstated in a defensive war, but you are too fat to serve? -\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://www.youngstowncycleandspeed.com/soldier-shot-his-mate%27s-fat-k.html",
+        "title": "c\u00edmke Imperializmus nagyon soldier shot his mate's fat kalap ...youngstowncycleandspeed.comhttps://www.youngstowncycleandspeed.com \u203a ...",
+        "content": "... What happens, if conscription is reinstated in a defensive war, but you are too fat to serve? - Quora\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.6715005040168762
+      },
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.17728103697299957
+      },
+      {
+        "class": "corral",
+        "ioclass": "outdoor",
+        "probability": 0.021408509463071823
+      },
+      {
+        "class": "archaelogical_excavation",
+        "ioclass": "indoor",
+        "probability": 0.012997801415622234
+      },
+      {
+        "class": "village",
+        "ioclass": "outdoor",
+        "probability": 0.00975547544658184
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.8153077363967896
+      },
+      {
+        "class": "moist",
+        "score": 0.6486711502075195
+      },
+      {
+        "class": "season/winter",
+        "score": 0.6116896867752075
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.5586023926734924
+      },
+      {
+        "class": "ice",
+        "score": 0.5462886095046997
+      },
+      {
+        "class": "dirty",
+        "score": 0.5445533990859985
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.5415968298912048
+      },
+      {
+        "class": "rugged",
+        "score": 0.5278929471969604
+      },
+      {
+        "class": "weather/clouds",
+        "score": 0.5237935781478882
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5070058107376099
+      },
+      {
+        "class": "bright",
+        "score": 0.500724732875824
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 3205,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "middle": {
+        "pred_class": 6833,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "fine": {
+        "pred_class": 11854,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "hierarchy": {
+        "pred_class": 11854,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "country": {
+        "city": "",
+        "state": "Missouri",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 39.40246,
+    "longitude": -94.22653,
+    "generationtime_ms": 0.18107891082763672,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 326.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2022-12-22T00:00",
+        "2022-12-22T01:00",
+        "2022-12-22T02:00",
+        "2022-12-22T03:00",
+        "2022-12-22T04:00",
+        "2022-12-22T05:00",
+        "2022-12-22T06:00",
+        "2022-12-22T07:00",
+        "2022-12-22T08:00",
+        "2022-12-22T09:00",
+        "2022-12-22T10:00",
+        "2022-12-22T11:00",
+        "2022-12-22T12:00",
+        "2022-12-22T13:00",
+        "2022-12-22T14:00",
+        "2022-12-22T15:00",
+        "2022-12-22T16:00",
+        "2022-12-22T17:00",
+        "2022-12-22T18:00",
+        "2022-12-22T19:00",
+        "2022-12-22T20:00",
+        "2022-12-22T21:00",
+        "2022-12-22T22:00",
+        "2022-12-22T23:00",
+        "2022-12-23T00:00",
+        "2022-12-23T01:00",
+        "2022-12-23T02:00",
+        "2022-12-23T03:00",
+        "2022-12-23T04:00",
+        "2022-12-23T05:00",
+        "2022-12-23T06:00",
+        "2022-12-23T07:00",
+        "2022-12-23T08:00",
+        "2022-12-23T09:00",
+        "2022-12-23T10:00",
+        "2022-12-23T11:00",
+        "2022-12-23T12:00",
+        "2022-12-23T13:00",
+        "2022-12-23T14:00",
+        "2022-12-23T15:00",
+        "2022-12-23T16:00",
+        "2022-12-23T17:00",
+        "2022-12-23T18:00",
+        "2022-12-23T19:00",
+        "2022-12-23T20:00",
+        "2022-12-23T21:00",
+        "2022-12-23T22:00",
+        "2022-12-23T23:00"
+      ],
+      "apparent_temperature": [
+        -5.8,
+        -5.6,
+        -5.3,
+        -5.2,
+        -5.0,
+        -4.8,
+        -6.4,
+        -13.2,
+        -17.2,
+        -18.8,
+        -20.5,
+        -22.0,
+        -24.1,
+        -25.5,
+        -26.4,
+        -27.4,
+        -27.7,
+        -28.6,
+        -28.7,
+        -28.9,
+        -28.9,
+        -28.7,
+        -28.3,
+        -28.6,
+        -29.7,
+        -29.2,
+        -29.6,
+        -29.4,
+        -28.5,
+        -28.8,
+        -28.5,
+        -28.7,
+        -28.5,
+        -28.7,
+        -28.5,
+        -28.9,
+        -29.5,
+        -29.2,
+        -28.7,
+        -28.7,
+        -27.6,
+        -26.2,
+        -24.9,
+        -24.1,
+        -23.4,
+        -22.8,
+        -22.5,
+        -21.9
+      ],
+      "precipitation": [
+        0.6,
+        0.0,
+        0.0,
+        0.1,
+        0.1,
+        0.0,
+        0.1,
+        0.2,
+        0.2,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.6,
+        1.1,
+        0.6,
+        0.2,
+        0.1,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        73,
+        3,
+        3,
+        71,
+        71,
+        3,
+        71,
+        71,
+        71,
+        71,
+        71,
+        71,
+        71,
+        73,
+        73,
+        73,
+        71,
+        71,
+        71,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        1,
+        3,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        0,
+        2,
+        2,
+        2,
+        1,
+        3,
+        2,
+        2,
+        0,
+        1,
+        2,
+        2,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

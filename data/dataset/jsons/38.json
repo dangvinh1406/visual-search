@@ -1,0 +1,3631 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 106,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 10,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 8,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 76,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 106,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                106,
+                10,
+                8,
+                1,
+                1,
+                76,
+                3,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 247,
+            "percentage": 99.19678714859438
+          },
+          "Spanish; Castilian": {
+            "count": 1,
+            "percentage": 0.40160642570281124
+          },
+          "Hindi": {
+            "count": 1,
+            "percentage": 0.40160642570281124
+          }
+        },
+        "total": 249,
+        "plot": {
+          "labels": [
+            "English",
+            "Spanish; Castilian",
+            "Hindi"
+          ],
+          "data": [
+            99,
+            0,
+            0
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://www.linkedin.com/pulse/first-responder-blindspot-roger-c-lanctot?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news",
+        "title": "The First Responder Blindspot - LinkedInLinkedInhttps://www.linkedin.com \u203a pulse \u203a first-responder-blind...",
+        "content": "The real focal point, though, is Tesla's quixotic pursuit of that \u201cfull self-driving.\u201d The Tesla touts logically link Tesla's ... NYC's Truck of\u00a0...",
+        "size": [
+          679,
+          384
+        ],
+        "date": "2023:08:29 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://assonina.it/2021/04/02/linee-guida-per-comunicare-con-i-bambini-/?c=tesla-autopilot-disengages-shortly-before-impact-engineering-failures-disasters-jj-L7KyxOuW",
+        "title": "Tesla Autopilot Disengages Shortly Before Impact, 56% OFFassonina.ithttps://assonina.it \u203a Home \u203a sae air 1168/3",
+        "content": "Tesla that hit fire truck in deadly I-680 crash in Walnut Creek was on autopilot, company says r/teslamotors. Tesla. Telsa accounts for\u00a0...",
+        "size": [
+          140,
+          78
+        ],
+        "date": "2021:04:02 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 42,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://assonina.it/2021/04/02/linee-guida-per-comunicare-con-i-bambini-/?c=tesla-autopilot-disengages-shortly-before-impact-engineering-failures-disasters-jj-L7KyxOuW",
+        "title": "Tesla Autopilot Disengages Shortly Before Impact, 56% OFFassonina.ithttps://assonina.it \u203a Home \u203a sae air 1168/3",
+        "content": "Tesla that hit fire truck in deadly I-680 crash in Walnut Creek was on autopilot, company says r/teslamotors. Tesla. Telsa accounts for\u00a0...",
+        "size": [
+          140,
+          78
+        ],
+        "date": "2021:04:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/topic/Tesla/",
+        "title": "Tesla - ClickOnDetroitClickOnDetroithttps://www.clickondetroit.com \u203a topic \u203a Tesla",
+        "content": "Tesla driver killed after plowing into firetruck on freeway \u00b7 Fire officials in Northern California say a Tesla driver was killed and a\u00a0...",
+        "size": [
+          400,
+          257
+        ],
+        "date": "2022:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wjtv.com/news/national/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WJTVWJTVhttps://www.wjtv.com \u203a news \u203a national \u203a ap-tesla-dri...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mywabashvalley.com/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WTWOMyWabashValley.comhttps://www.mywabashvalley.com \u203a ap-business \u203a ap-t...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wjtv.com/news/national/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WJTVWJTVhttps://www.wjtv.com \u203a news \u203a national \u203a ap-tesla-dri...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox4kc.com/news/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayfox4kc.comhttps://fox4kc.com \u203a technology \u203a ap-technology \u203a ap...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox21news.com/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayFOX21 News Coloradohttps://www.fox21news.com \u203a ap-technology \u203a ap-tesl...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wkrg.com/national/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WKRGWKRGhttps://www.wkrg.com \u203a national \u203a ap-tesla-driver-kill...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kutv.com/news/nation-world/tesla-driver-killed-after-plowing-into-firetruck-on-freeway",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KUTVKUTVhttps://kutv.com \u203a news \u203a nation-world \u203a tesla-driver-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayClick2Houstonhttps://www.click2houston.com \u203a business \u203a 2023/02/19",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.jamaicaobserver.com/latest-news/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayJamaica Observerhttps://www.jamaicaobserver.com \u203a latest-news \u203a tesla-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          1600,
+          1027
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cenlanow.com/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | WNTZWNTZhttps://www.cenlanow.com \u203a ap-technology \u203a ap-tesla...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news10.com/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayNEWS10 ABChttps://www.news10.com \u203a business \u203a ap-business \u203a ap...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wivb.com/science/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WIVBNews 4 Buffalohttps://www.wivb.com \u203a science \u203a ap-tesla-driver-kille...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.myhighplains.com/news/tech-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | KAMRMyHighPlains.comhttps://www.myhighplains.com \u203a news \u203a tech-news \u203a a...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kxan.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KXANKXAN Austinhttps://www.kxan.com \u203a news \u203a business \u203a ap-business",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          900,
+          577
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ktalnews.com/news/tech-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KTALKTALnews.comhttps://www.ktalnews.com \u203a news \u203a tech-news \u203a ap-tes...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mywabashvalley.com/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WTWOMyWabashValley.comhttps://www.mywabashvalley.com \u203a ap-business \u203a ap-t...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox40.com/news/national/ap-us-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | FOX40FOX40https://fox40.com \u203a news \u203a national \u203a ap-us-news \u203a ap...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wnct.com/news/business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WNCTWNCThttps://www.wnct.com \u203a news \u203a business \u203a ap-tesla-dri...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.abc4.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayABC4 Utahhttps://www.abc4.com \u203a news \u203a business \u203a ap-business",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thehill.com/homenews/ap/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayThe Hillhttps://thehill.com \u203a homenews \u203a ap-technology \u203a ap-t...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wfxrtv.com/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WFXRWFXRtvhttps://www.wfxrtv.com \u203a technology \u203a ap-technology",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kget.com/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayKGET.comhttps://www.kget.com \u203a technology \u203a ap-technology",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sandiegouniontribune.com/news/california/story/2023-02-18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway",
+        "title": "Tesla driver killed after plowing into firetruck on freewaySan Diego Union-Tribunehttps://www.sandiegouniontribune.com \u203a california \u203a story",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mywabashvalley.com/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WTWOMyWabashValley.comhttps://www.mywabashvalley.com \u203a ap-business \u203a ap-t...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayKRON4https://www.kron4.com \u203a news \u203a business \u203a ap-business",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kdvr.com/news/money/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KDVRKDVRhttps://kdvr.com \u203a news \u203a money \u203a ap-tesla-driver-kill...",
+        "content": "... the car plowed into a fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thehill.com/homenews/ap/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayThe Hillhttps://thehill.com \u203a homenews \u203a ap-technology \u203a ap-t...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kark.com/news/business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KARKKARKhttps://www.kark.com \u203a news \u203a business \u203a ap-tesla-dri...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          640,
+          410
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fourstateshomepage.com/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayFourStatesHomepage.comhttps://www.fourstateshomepage.com \u203a ap-technology",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.westernslopenow.com/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWesternSlopeNow.comhttps://www.westernslopenow.com \u203a ap-technology",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayNews4JAXhttps://www.news4jax.com \u203a business \u203a 2023/02/19",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWKMGhttps://www.clickorlando.com \u203a business \u203a 2023/02/19",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dcnewsnow.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayDC News Nowhttps://www.dcnewsnow.com \u203a business \u203a ap-business",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.upmatters.com/news/ap-us-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | WJMNUPMatters.comhttps://www.upmatters.com \u203a news \u203a ap-us-news \u203a ap-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.khon2.com/news/national/ap-us-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayKHON2https://www.khon2.com \u203a news \u203a national \u203a ap-us-news",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.marinij.com/2023/02/18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Bay Area: Tesla driver killed after plowing into firetruck on ...Marin Independent Journalhttps://www.marinij.com \u203a 2023/02/18 \u203a tesla-driver-k...",
+        "content": "A Tesla driver was killed and a passenger was critically injured Saturday when the car plowed into a fire truck that was parked on a Bay\u00a0...",
+        "size": [
+          545,
+          349
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/local/car-crash-richmond-apartment-complex/3160999/",
+        "title": "Car Crashes Into Richmond Apartment ComplexNBC Bay Areahttps://www.nbcbayarea.com \u203a news \u203a local \u203a car-cras...",
+        "content": "1 Dead After Tesla Slams Into Fire Truck on I-680 in Walnut Creek \u00b7 Livermore Feb 18. Man Shot Near Tesla Distribution Center in Livermore. This\u00a0...",
+        "size": [
+          960,
+          540
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wwlp.com/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WWLPWWLPhttps://www.wwlp.com \u203a business \u203a ap-business \u203a ap-t...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nwahomepage.com/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KNWAKNWA FOX24https://www.nwahomepage.com \u203a ap-technology \u203a ap-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wtaj.com/news/national-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WTAJWTAJhttps://www.wtaj.com \u203a news \u203a national-news \u203a ap-tesla-...",
+        "content": "The fatal accident occurred around 4 a.m., and it took several hours to clear the freeway. The firetruck had to be towed away. Get daily updates\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wate.com/technology/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WATEWATE 6 On Your Sidehttps://www.wate.com \u203a technology \u203a ap-technology",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.latimes.com/california/story/2023-02-18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway",
+        "title": "Tesla driver dies after plowing into firetruck on freewayLos Angeles Timeshttps://www.latimes.com \u203a california \u203a story \u203a tesla-drive...",
+        "content": "A Tesla driver was killed and a passenger was critically injured Saturday when the car plowed into a firetruck that was parked on a Northern\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wdtn.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWDTNhttps://www.wdtn.com \u203a news \u203a business \u203a ap-business",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abcnews.go.com/US/nhtsa-investigating-fatal-crash-tesla-plowed-parked-firetruck/story?id=97718656",
+        "title": "NHTSA investigating fatal crash where Tesla plowed into ...ABC Newshttps://abcnews.go.com \u203a story",
+        "content": "A 2014 Tesla Model S crashed into a parked firetruck on Interstate 680 near Walnut Creek shortly before 4 a.m. local time on Feb. 18,\u00a0...",
+        "size": [
+          3072,
+          2032
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.usnews.com/news/business/articles/2023-02-18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway",
+        "title": "Tesla Driver Killed After Plowing Into Firetruck on FreewayU.S. News & World Reporthttps://www.usnews.com \u203a News \u203a Technology News",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said.",
+        "size": [
+          640,
+          420
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.8newsnow.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | KLAS8NewsNow.comhttps://www.8newsnow.com \u203a business \u203a ap-business",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.yourerie.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayyourerie.comhttps://www.yourerie.com \u203a news \u203a business \u203a ap-business",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.myhighplains.com/news/tech-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | KAMRMyHighPlains.comhttps://www.myhighplains.com \u203a news \u203a tech-news \u203a a...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/local/car-crash-richmond-apartment-complex/3160999/",
+        "title": "Car Crashes Into Richmond Apartment ComplexNBC Bay Areahttps://www.nbcbayarea.com \u203a news \u203a local \u203a car-cras...",
+        "content": "1 Dead After Tesla Slams Into Fire Truck on I-680 in Walnut Creek \u00b7 Livermore Feb 18. Man Shot Near Tesla Distribution Center in Livermore. This\u00a0...",
+        "size": [
+          960,
+          540
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ktalnews.com/news/tech-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KTALKTALnews.comhttps://www.ktalnews.com \u203a news \u203a tech-news \u203a ap-tes...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/bay-area/one-dead-in-tesla-vs-fire-truck-crash-on-i-680/",
+        "title": "One dead in Tesla vs fire truck crash on I-680 - KRON4KRON4https://www.kron4.com \u203a news \u203a bay-area \u203a one-dead...",
+        "content": "WALNUT CREEK, Calif. (KRON) -- One person died after a Tesla slammed into a fire truck on Interstate 680 according to the Contra Costa\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.khon2.com/news/national/ap-us-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayKHON2https://www.khon2.com \u203a news \u203a national \u203a ap-us-news",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/news/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWKMGhttps://www.clickorlando.com \u203a news \u203a 2023/02/19",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/local/tesla-fire-truck-crash-i-680-east-bay/3160984/",
+        "title": "1 Dead After Tesla Slams Into Fire Truck on I-680 in Walnut ...NBC Bay Areahttps://www.nbcbayarea.com \u203a news \u203a local \u203a tesla-fir...",
+        "content": "A Tesla driver was killed and a passenger was critically injured Saturday when the car plowed into a fire truck that was parked on an East\u00a0...",
+        "size": [
+          218,
+          123
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wivb.com/science/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WIVBNews 4 Buffalohttps://www.wivb.com \u203a science \u203a ap-tesla-driver-kille...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.informnny.com/news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | WWTIInformNNY.comhttps://www.informnny.com \u203a news \u203a ap-tesla-driver-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.huffpost.com/entry/tesla-model-s-plows-into-fire-truck-driver-dead_n_63f19992e4b0616708dbe5b5",
+        "title": "Tesla Driver Killed After Plowing Into Fire Truck Parked On ...HuffPosthttps://www.huffpost.com \u203a entry",
+        "content": "WALNUT CREEK, Calif. (AP) \u2014 A Tesla driver was killed and a passenger was critically injured Saturday when the car plowed into a fire truck that\u00a0...",
+        "size": [
+          1200,
+          629
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sandiegouniontribune.com/news/california/story/2023-02-18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway",
+        "title": "Tesla driver killed after plowing into firetruck on freewaySan Diego Union-Tribunehttps://www.sandiegouniontribune.com \u203a california \u203a story",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktla.com/news/nationworld/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KTLAKTLAhttps://ktla.com \u203a news \u203a nationworld \u203a ap-tesla-driver...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/local/1-dead-after-tesla-slams-into-fire-truck-on-i-680-in-walnut-creek-officials/3161100/",
+        "title": "1 Dead After Tesla Slams Into Fire Truck on I-680 in Walnut ...NBC Bay Areahttps://www.nbcbayarea.com \u203a news \u203a local \u203a 1-dead-aft...",
+        "content": "One person is dead in the wake of a crash in which a Tesla hit a fire truck on northbound Interstate 680 near the Treat Boulevard offramp in\u00a0...",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.koin.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KOIN 6KOINhttps://www.koin.com \u203a news \u203a business \u203a ap-business",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wearegreenbay.com/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WFRVWFRV Local 5https://www.wearegreenbay.com \u203a ap-business \u203a ap-te...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tristatehomepage.com/u-s-news/ap-u-s-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewaytristatehomepage.comhttps://www.tristatehomepage.com \u203a ap-u-s-news \u203a ap-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.everythinglubbock.com/news/technology-tuesday/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KLBKKLBKhttps://www.everythinglubbock.com \u203a ap-technology",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pix11.com/news/national-news/ap-national/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | PIX11PIX11https://pix11.com \u203a news \u203a national-news \u203a ap-national",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contracosta.news/2023/02/18/1-dead-after-tesla-slams-into-fire-truck-on-i-680-in-walnut-creek/",
+        "title": "1 Dead After Tesla Slams into Fire Truck on I-680 in Walnut ...Contra Costa Newshttps://contracosta.news \u203a 2023/02/18 \u203a 1-dead-after-t...",
+        "content": "Per CHP, they say on February 18 at around 3:34am, CHP Contra Costa and Contra Costa County Fire were on the scene of a traffic crash on\u00a0...",
+        "size": [
+          300,
+          214
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox44news.com/news/national-world-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | KWKTKWKT - FOX 44https://www.fox44news.com \u203a national-world-news",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          1280,
+          821
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.binghamtonhomepage.com/news/national/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | WIVTWIVT - NewsChannel 34https://www.binghamtonhomepage.com \u203a news \u203a national",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.yahoo.com/tesla-driver-killed-plowing-firetruck-004049150.html",
+        "title": "Tesla driver killed after plowing into firetruck on freewayYahoo Newshttps://news.yahoo.com \u203a tesla-driver-killed-plowing-f...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          640,
+          411
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.everythinglubbock.com/news/technology-tuesday/ap-technology/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KLBKKLBKhttps://www.everythinglubbock.com \u203a ap-technology",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tristatehomepage.com/u-s-news/ap-u-s-news/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewaytristatehomepage.comhttps://www.tristatehomepage.com \u203a ap-u-s-news \u203a ap-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wreg.com/news/business/ap-business/ap-tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWREG.comhttps://wreg.com \u203a news \u203a business \u203a ap-business \u203a ap-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://notisia365.com/tesla-driver-killed-after-plowing-into-fire-truck-parked-on-california-freeway/",
+        "title": "Tesla Driver Killed After Plowing Into Fire Truck Parked On ...Notisia 365https://notisia365.com \u203a tesla-driver-killed-after-plowi...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://notisia365.com/tesla-driver-killed-after-plowing-into-fire-truck-parked-on-california-freeway/",
+        "title": "Tesla Driver Killed After Plowing Into Fire Truck Parked On ...Notisia 365https://notisia365.com \u203a tesla-driver-killed-after-plowi...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thenationalherald.com/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla Driver Killed after Plowing into Firetruck on FreewayThe National Heraldhttps://www.thenationalherald.com \u203a Blog",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayClickOnDetroithttps://www.clickondetroit.com \u203a business \u203a 2023/02/19",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://notisia365.com/tesla-driver-killed-after-plowing-into-fire-truck-parked-on-california-freeway/",
+        "title": "Tesla Driver Killed After Plowing Into Fire Truck Parked On ...Notisia 365https://notisia365.com \u203a tesla-driver-killed-after-plowi...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWSLShttps://www.wsls.com \u203a business \u203a 2023/02/19 \u203a tesla-...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWSLShttps://www.wsls.com \u203a business \u203a 2023/02/19 \u203a tesla-...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayClickOnDetroithttps://www.clickondetroit.com \u203a business \u203a 2023/02/19",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WPLGWPLGhttps://www.local10.com \u203a business \u203a 2023/02/19 \u203a te...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://businessinsider.mx/tesla-driver-killed-others-injured-hitting-fire-truck-california-freeway-2023-2/",
+        "title": "Tesla driver killed, passenger injured after crashing into ...Business Insider M\u00e9xicohttps://businessinsider.mx \u203a RSS International",
+        "content": "One person was killed and others were injured after a Tesla Model S crashed into a stationary fire truck on a California freeway early Saturday\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theepochtimes.com/audio/us/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-5068613",
+        "title": "Tesla Driver Killed When Plowing Into Firetruck on FreewayThe Epoch Timeshttps://www.theepochtimes.com \u203a audio \u203a tesla-driver-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. ... 0:000:00. 1.",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.9news.com.au/world/tesla-crash-model-s-driver-dead-after-plowing-into-fire-truck-on-california-freeway/31fc3075-4476-403f-8c5f-f13dcc019f08",
+        "title": "Tesla driver dead after plowing into fire truck on California ...9News.com.auhttps://www.9news.com.au \u203a World",
+        "content": "Tesla driver is dead and a passenger has been left critically injured after the car plowed into a fire truck was parked on a Northern\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://finance.yahoo.com/news/tesla-driver-killed-car-plows-145144214.html",
+        "title": "Tesla driver killed after car plows into fire truck shielding crew ...Yahoo Financehttps://finance.yahoo.com \u203a news \u203a tesla-driver-killed-...",
+        "content": "The fatal accident occurred around 4 a.m., and it took several hours to clear the freeway. The firetruck had to be towed away. The Model S was\u00a0...",
+        "size": [
+          640,
+          411
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://krcrtv.com/news/local/tesla-driver-killed-after-crashing-into-firetruck-on-freeway",
+        "title": "Tesla driver killed after crashing into firetruck on freeway - KRCRKRCR-TVhttps://krcrtv.com \u203a news \u203a local \u203a tesla-driver-killed-a...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          1920,
+          821
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pressdemocrat.com/article/news/tesla-driver-killed-after-plowing-into-firetruck-on-bay-area-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on Bay Area ...The Press Democrathttps://www.pressdemocrat.com \u203a News \u203a Bay Area",
+        "content": "The fatal accident occurred around 4 a.m., and it took several hours to clear the freeway. The firetruck had to be towed away. The Model S was\u00a0...",
+        "size": [
+          1199,
+          770
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox8.com/news/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayFOX 8 Newshttps://fox8.com \u203a news \u203a tesla-driver-killed-after-plo...",
+        "content": "... the car plowed into a fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials",
+        "size": [
+          1024,
+          657
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.independent.co.uk/news/world/americas/tesla-crash-california-firetruck-death-b2285325.html",
+        "title": "Tesla driver killed after plowing into firetruck at crash scene on ...The Independenthttps://www.independent.co.uk \u203a World \u203a Americas",
+        "content": "Fire officials in Northern California say a Tesla driver was killed and a passenger was critically injured when the car plowed into a\u00a0...",
+        "size": [
+          1200,
+          770
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fortune.com/2023/02/19/tesla-driver-killed-plows-into-fire-truck-following-recall-over-autonomous-full-self-driving-potential-danger/",
+        "title": "Tesla driver killed after car plows into fire truck shielding crew ...Fortunehttps://fortune.com \u203a 2023/02/19 \u203a tesla-driver-killed-pl...",
+        "content": "A Tesla driver was killed and a passenger was critically injured Saturday when the car plowed into a fire truck that was parked on a\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/tesla-driver-dies-after-fire-truck-crash-in-california/98063352",
+        "title": "Tesla driver dies after fire truck crash in California - ET AutoET Autohttps://auto.economictimes.indiatimes.com \u203a news \u203a te...",
+        "content": "Tesla driver dies after fire truck crash in California. U.S. regulators are investigating Tesla vehicles with the Autopilot driver assistance\u00a0...",
+        "size": [
+          1200,
+          765
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/us/tesla-driver-killed-barreling-ladder-truck-blocking-accident-scene-california-freeway",
+        "title": "Tesla driver killed after barreling into ladder truck blocking ...Fox Newshttps://www.foxnews.com \u203a tesla-driver-killed-barrelin...",
+        "content": "The driver of a Tesla Model S was killed after the car plowed into a fire truck that was parked on a California highway to shield first\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/technology/comments/115yk9s/tesla_driver_killed_after_plowing_into_firetruck/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - RedditReddit\u00a0\u00b7\u00a0r/technology2.9K+ comments  \u00b7  9 months ago",
+        "content": "More results from www.reddit.com",
+        "size": [
+          640,
+          410
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.elpais.com/usa/2023-02-19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway.html",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | U.S.EL PA\u00cdS Englishhttps://english.elpais.com \u203a U.S.",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          1200,
+          770
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oregonlive.com/nation/2023/02/tesla-driver-dies-after-striking-parked-fire-truck-in-california.html",
+        "title": "Tesla driver dies after striking parked fire truck in CaliforniaOregonLive.comhttps://www.oregonlive.com \u203a nation \u203a 2023/02 \u203a tesla-d...",
+        "content": "The fatal accident occurred around 4 a.m., and it took several hours to clear the freeway. The firetruck had to be towed away. The Model S was\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbsaustin.com/news/nation-world/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-02-19-2023-210241847",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | KEYEKEYEhttps://cbsaustin.com \u203a news \u203a nation-world \u203a tesla-dri...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          995,
+          331
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kwtx.com/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KWTXKWTXhttps://www.kwtx.com \u203a 2023/02/19 \u203a tesla-driver-killed...",
+        "content": "... fire truck that was\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kmph.com/news/local/tesla-driver-killed-after-crashing-into-firetruck-on-freeway",
+        "title": "Tesla driver killed after crashing into firetruck on freeway | KMPHKMPHhttps://kmph.com \u203a news \u203a local \u203a tesla-driver-killed-a...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          1920,
+          821
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bostonherald.com/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayBoston Heraldhttps://www.bostonherald.com \u203a 2023/02/19 \u203a tesla-dr...",
+        "content": "... the car plowed into a fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials",
+        "size": [
+          640,
+          410
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsj.com/articles/tesla-crashes-into-firetruck-in-fatal-accident-2af6bc60",
+        "title": "Tesla Crashes Into Firetruck in Fatal Accident - WSJWall Street Journalhttps://www.wsj.com \u203a articles",
+        "content": "",
+        "size": [
+          700,
+          450
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/chinas-byd-to-take-on-tesla-in-luxury-ev-market/98082518",
+        "title": "China's BYD to take on Tesla in luxury EV market - ET AutoET Autohttps://auto.economictimes.indiatimes.com \u203a news \u203a ch...",
+        "content": "Tesla driver dies after fire truck crash in California.",
+        "size": [
+          700,
+          446
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://satrucker.co.za/tanker-trucker-found-tied-up-in-his-truck-in-durban-all-the-diesel-gone/",
+        "title": "Tanker trucker found tied up in his truck in Durban, all the ...satrucker.co.zahttps://satrucker.co.za \u203a News \u203a Crime and Courts",
+        "content": "... truck on N2, all the diesel gone. Up next. Tesla Crashes into Fire Truck Killing Driver. Published\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.detroitnews.com/story/business/autos/2023/02/20/tesla-fatal-crash-with-fire-truck-draws-us-regulator-inquiry/69923435007/",
+        "title": "Tesla fatal crash with fire truck draws US regulator inquiryDetroit Newshttps://www.detroitnews.com \u203a story \u203a autos \u203a 2023/02/20",
+        "content": "Tesla fatal crash with fire truck draws US regulator inquiry ... The US National Highway Traffic Safety Administration asked Tesla Inc. for more\u00a0...",
+        "size": [
+          1024,
+          657
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/tesla-crash-california-nhtsa-seek-more-information/",
+        "title": "Tesla crash in California prompts NHTSA to seek more ...Teslaratihttps://www.teslarati.com \u203a News",
+        "content": "A crash involving a Tesla that collided with a firetruck on Saturday in California has prompted the National Highway Traffic Safety\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnews.com/news/us-news/tesla-driver-killed-plowing-firetruck-northern-california-freeway-rcna71436",
+        "title": "Tesla driver killed after plowing into firetruck on Northern ...NBC Newshttps://www.nbcnews.com \u203a news \u203a us-news \u203a tesla-dri...",
+        "content": "WALNUT CREEK, Calif. \u2014 A Tesla driver was killed and a passenger was critically injured Saturday when the car plowed into a fire truck that\u00a0...",
+        "size": [
+          1240,
+          827
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://satrucker.co.za/tesla-crashes-into-fire-truck-killing-driver/",
+        "title": "Tesla Crashes into Fire Truck Killing Driver - SA Truckersatrucker.co.zahttps://satrucker.co.za \u203a tesla-crashes-into-fire-truck-ki...",
+        "content": "A Tesla driver has been killed after crashing into a parked fire truck in California. The fatal crash involving two vehicles, the Tesla and\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": "2023:02:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theepochtimes.com/us/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-5068613",
+        "title": "Tesla Driver Killed When Plowing Into Firetruck on FreewayThe Epoch Timeshttps://www.theepochtimes.com \u203a tesla-driver-killed-af...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. Four\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:03:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autonews.com/regulation-safety/fatal-tesla-crash-last-month-calif-probed-nhtsa",
+        "title": "Fatal Tesla crash last month in Calif. probed by NHTSAAutomotive Newshttps://www.autonews.com \u203a Regulation & Safety",
+        "content": "The fire department said a Tesla struck one of its fire trucks and the Tesla driver was pronounced dead at the scene.",
+        "size": [
+          1200,
+          773
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2023/03/08/fatal-tesla-collision-with-fire-truck-under-federal-investigation.html",
+        "title": "Fatal Tesla collision with firetruck under federal investigationCNBChttps://www.cnbc.com \u203a 2023/03/08 \u203a fatal-tesla-collisio...",
+        "content": "The driver of the Tesla died, a passenger was critically injured and four firefighters who were inside the firetruck were taken to a hospital\u00a0...",
+        "size": [
+          929,
+          523
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/feds-suspect-tesla-using-automated-system-in-firetruck-crash/",
+        "title": "Feds suspect Tesla using automated system in firetruck crashKRON4https://www.kron4.com \u203a news \u203a feds-suspect-tesla-usi...",
+        "content": "DETROIT (AP) \u2014 U.S. investigators suspect that a Tesla was operating on an automated driving system when it crashed into a firetruck in\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autonews.com/regulation-safety/fatal-tesla-crash-last-month-calif-probed-nhtsa",
+        "title": "Fatal Tesla crash last month in Calif. probed by NHTSAAutomotive Newshttps://www.autonews.com \u203a Regulation & Safety",
+        "content": "The fire department said a Tesla struck one of its fire trucks and the Tesla driver was pronounced dead at the scene.",
+        "size": [
+          1200,
+          773
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.businessinsider.com/tesla-driver-killed-others-injured-hitting-fire-truck-california-freeway-2023-2",
+        "title": "Feds Investigate Deadly Tesla Crash Over Possible ...Business Insiderhttps://www.businessinsider.com \u203a News",
+        "content": "A Tesla hit a fire truck that was parked and blocking lanes on a California freeway last month. The driver was killed, one passenger was\u00a0...",
+        "size": [
+          700,
+          449
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/us/feds-suspect-tesla-that-hit-firetruck-fatal-california-crash-autopilot",
+        "title": "Feds suspect Tesla that hit firetruck in fatal California crash ...Fox Newshttps://www.foxnews.com \u203a feds-suspect-tesla-that-hit-...",
+        "content": "A Tesla was operating on an automated driving system when it crashed into a firetruck in California last month, killing the driver and\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-11836529/Tesla-autopilot-crashed-firetruck-killing-driver-investigation-finds.html",
+        "title": "Tesla was on autopilot when it crashed into firetruck, killing ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-11836529",
+        "content": "U.S. investigators suspect the Tesla that crashed into a firetruck in Northern California on February 18, killing the driver and critically\u00a0...",
+        "size": [
+          1908,
+          1146
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/local/east-bay/tesla-crash-automated-driving-system/3174530/",
+        "title": "Feds Suspect Tesla Using Automated System in Firetruck CrashNBC Bay Areahttps://www.nbcbayarea.com \u203a news \u203a local \u203a east-bay",
+        "content": "Feds Suspect Tesla Using Automated System in Firetruck Crash ... An error occurred. ... Opacity. Reset Done. NBC Universal, Inc. One person is dead\u00a0...",
+        "size": [
+          1200,
+          672
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/2023/03/09/business/tesla-fatal-crash-probe/index.html",
+        "title": "Federal safety regulator probing fatal Tesla crash - CNNCNN.comhttps://www.cnn.com \u203a 2023/03/09 \u203a business \u203a tesla-fat...",
+        "content": "... accident involving a Tesla and a Contra Costa County fire truck on February 18. The Tesla driver was killed and a passenger was critically\u00a0...",
+        "size": [
+          2000,
+          1284
+        ],
+        "date": "2023:03:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917",
+        "title": "Tesla Confirms Automated Driving Systems Engaged in Fatal ...Jalopnikhttps://jalopnik.com \u203a tesla-confirm-automated-drivin...",
+        "content": "We previously reported that a 2014 Tesla Model S crashed into the back of a firetruck in the early morning hours of February 18, 2023 on I-680\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/bay-area/tesla-in-i-680-fire-truck-crash-was-operating-on-driver-assist-crash-data-shows/",
+        "title": "Tesla in I-680 fire truck crash was operating on driver assist ...KRON4https://www.kron4.com \u203a news \u203a bay-area \u203a tesla-in-i-...",
+        "content": "A deadly collision between a Tesla and a firetruck on an East Bay freeway in February happened while the Tesla was operating on autopilot,\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/tesla-crash-in-fire-truck",
+        "title": "tesla crash in fire truck\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "tesla crash in fire truck \u00b7 68.6M views \u00b7 Discover videos related to tesla crash in fire truck on TikTok.",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.msn.com/en-us/autos/other/tesla-in-i-680-fire-truck-crash-was-operating-on-driver-assist-crash-data-shows/ar-AA1a1qHc",
+        "title": "Tesla in I-680 fire truck crash was operating on driver assist ...MSNhttps://www.msn.com \u203a en-us \u203a autos \u203a other \u203a tesla-in...",
+        "content": "A deadly collision between a Tesla and a firetruck on an East Bay freeway in February happened while the Tesla was operating on autopilot,\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.drive.com.au/news/tesla-autopilot-fsd-investigated-fatal-crash/",
+        "title": "Tesla's semi-autonomous technology back in the spotlight ...drive.com.auhttps://www.drive.com.au \u203a News",
+        "content": "... crash involving Tesla's semi-autonomous driving ... The fire truck was reportedly blocking lanes on the highway following an earlier crash.",
+        "size": [
+          448,
+          252
+        ],
+        "date": "2023:04:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.carexpert.com.au/car-news/california-jury-finds-against-plaintiff-in-tesla-autopilot-case",
+        "title": "California jury finds against plaintiff in Tesla Autopilot caseCarExperthttps://www.carexpert.com.au \u203a Car News \u203a Tesla",
+        "content": "The agency confirmed it's investigating the 17th fatal crash involving Autopilot, after a Model S collided with a parked fire truck in Contra\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": "2023:04:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.carexpert.com.au/car-news/california-jury-finds-against-plaintiff-in-tesla-autopilot-case",
+        "title": "California jury finds against plaintiff in Tesla Autopilot caseCarExperthttps://www.carexpert.com.au \u203a Car News \u203a Tesla",
+        "content": "The agency confirmed it's investigating the 17th fatal crash involving Autopilot, after a Model S collided with a parked fire truck in Contra\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": "2023:04:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.drive.com.au/news/tesla-autopilot-cleared-of-fault-in-us-crash/",
+        "title": "Tesla's semi-autonomous driving tech cleared of fault in US ...drive.com.auhttps://www.drive.com.au \u203a News",
+        "content": "A US court has found Tesla's semi-autonomous driving system \u2013 marketed as Autopilot \u2013 was not at fault in a 2019 crash.",
+        "size": [
+          448,
+          252
+        ],
+        "date": "2023:04:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sentinelcolorado.com/0trending/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewaySentinel Coloradohttps://sentinelcolorado.com \u203a Nation & World \u203a Nation",
+        "content": "... Tesla and Contra Costa County fire truck early ... truck parked on a Northern California freeway to shield a crew clearing another accident.",
+        "size": [
+          1024,
+          657
+        ],
+        "date": "2023:05:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.drive.com.au/news/tesla-to-licence-autopilot-full-self-driving/",
+        "title": "Tesla could allow rivals to adopt its semi-autonomous driving ...drive.com.auhttps://www.drive.com.au \u203a News",
+        "content": "An increase in reported fatal crashes involving Tesla's semi-autonomous driving technology coincided with the electric-car giant replacing\u00a0...",
+        "size": [
+          448,
+          252
+        ],
+        "date": "2023:06:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sacramentoinjuryattorneysblog.com/investigators-probe-deadly-tesla-crash-in-south-lake-tahoe/",
+        "title": "Investigators Probe Deadly Tesla Crash in South Lake Tahoesacramentoinjuryattorneysblog.comhttps://www.sacramentoinjuryattorneysblog.com \u203a inv...",
+        "content": "... Tesla vehicles and the use of Autopilot. These investigations focused on crashes into parked fire trucks and police vehicles. Potential\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:07:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://komonews.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles | KOMOKOMOhttps://komonews.com \u203a news \u203a spotlight-on-america \u203a r...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kpic.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KPICKPIChttps://kpic.com \u203a news \u203a spotlight-on-america \u203a respo...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          648,
+          365
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foxillinois.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing ... - Fox IllinoisWRSPhttps://foxillinois.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://turnto10.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WJARWJARhttps://turnto10.com \u203a news \u203a spotlight-on-america \u203a r...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kval.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KVALKVALhttps://kval.com \u203a news \u203a nation-world \u203a responders-a...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbs4local.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KDBCKDBChttps://cbs4local.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://newschannel20.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WICSWICShttps://newschannel20.com \u203a spotlight-on-america \u203a re...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kfoxtv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KFOXKFOX-TVhttps://kfoxtv.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wgme.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WGMEWGMEhttps://wgme.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abcnews4.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WCIVWCIVhttps://abcnews4.com \u203a news \u203a nation-world \u203a respon...",
+        "content": "... Tesla failed to stop for their fire truck at another crash scene on the freeway. It's unnerving for them to be involved in a near miss that\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktxs.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KTXSKTXShttps://ktxs.com \u203a news \u203a spotlight-on-america \u203a respo...",
+        "content": "... Tesla failed to stop for their fire truck at another crash scene on the freeway. It's unnerving for them to be involved in a near miss that\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cnycentral.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles | WSTMWSTMhttps://cnycentral.com \u203a news \u203a nation-world \u203a responde...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbsaustin.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehiclesKEYEhttps://cbsaustin.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://khqa.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KHQAKHQAhttps://khqa.com \u203a news \u203a spotlight-on-america \u203a resp...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abc3340.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehiclesWBMAhttps://abc3340.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://krcrtv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KRCRKRCR-TVhttps://krcrtv.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox23maine.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ...fox23maine.comhttps://fox23maine.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kmph.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KMPHKMPHhttps://kmph.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wchstv.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WCHSWCHS-TVhttps://wchstv.com \u203a news \u203a nation-world \u203a responder...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wsbt.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WSBTWSBThttps://wsbt.com \u203a news \u203a nation-world \u203a responders-a...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kutv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KUTVKUTVhttps://kutv.com \u203a news \u203a spotlight-on-america \u203a respon...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news4sanantonio.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WOAIWOAIhttps://news4sanantonio.com \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wlos.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WLOSWLOShttps://wlos.com \u203a news \u203a spotlight-on-america \u203a resp...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mynbc15.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WPMIWPMIhttps://mynbc15.com \u203a news \u203a nation-world \u203a responder...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox11online.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WLUKWLUKhttps://fox11online.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://weartv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ...WEAR-TVhttps://weartv.com \u203a news \u203a spotlight-on-america \u203a respo...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news3lv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles - KSNVKSNVhttps://news3lv.com \u203a news \u203a spotlight-on-america \u203a resp...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://newschannel9.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ...WTVChttps://newschannel9.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kutv.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KUTVKUTVhttps://kutv.com \u203a news \u203a nation-world \u203a responders-a...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox4beaumont.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ...KBTVhttps://fox4beaumont.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wwmt.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WWMTWWMThttps://wwmt.com \u203a news \u203a spotlight-on-america \u203a respo...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wcti12.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WCTIWCTIhttps://wcti12.com \u203a news \u203a nation-world \u203a responders-at...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wchstv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles?photo=1",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles - WCHSWCHS-TVhttps://wchstv.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox17.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WZTVWZTVhttps://fox17.com \u203a news \u203a nation-world \u203a responders-at...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wwmt.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WWMTWWMThttps://wwmt.com \u203a news \u203a spotlight-on-america \u203a respo...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wcti12.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WCTIWCTIhttps://wcti12.com \u203a news \u203a nation-world \u203a responders-at...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wchstv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles?photo=1",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles - WCHSWCHS-TVhttps://wchstv.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox17.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WZTVWZTVhttps://fox17.com \u203a news \u203a nation-world \u203a responders-at...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wchstv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WCHSWCHS-TVhttps://wchstv.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foxreno.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing ... - FOX RenoKRXIhttps://foxreno.com \u203a news \u203a spotlight-on-america \u203a r...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mynbc15.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WPMIWPMIhttps://mynbc15.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wtov9.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WTOVWTOVhttps://wtov9.com \u203a news \u203a nation-world \u203a responders-at...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://local21news.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - CBS 21local21news.comhttps://local21news.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbs6albany.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WRGBWRGBhttps://cbs6albany.com \u203a news \u203a nation-world \u203a respo...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox11online.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WLUKWLUKhttps://fox11online.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://myfox28columbus.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ...WTTEhttps://myfox28columbus.com \u203a spotlight-on-america \u203a r...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wcyb.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WCYBWCYBhttps://wcyb.com \u203a news \u203a spotlight-on-america \u203a respon...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox56.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles - Fox 56fox56.comhttps://fox56.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla failed to stop for their fire truck at another crash scene on the freeway. It's unnerving for them to be involved in a near miss that\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wjactv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WJACWJAC-TVhttps://wjactv.com \u203a news \u203a spotlight-on-america \u203a respo...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mynbc15.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WPMIWPMIhttps://mynbc15.com \u203a news \u203a nation-world \u203a responder...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kutv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KUTVKUTVhttps://kutv.com \u203a news \u203a spotlight-on-america \u203a respon...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://okcfox.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles - KOKHKOKHhttps://okcfox.com \u203a news \u203a spotlight-on-america \u203a re...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news4sanantonio.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WOAIWOAIhttps://news4sanantonio.com \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wlos.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WLOSWLOShttps://wlos.com \u203a news \u203a spotlight-on-america \u203a resp...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbsaustin.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles?photo=1",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles | KEYEKEYEhttps://cbsaustin.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktvo.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KTVOKTVOhttps://ktvo.com \u203a news \u203a spotlight-on-america \u203a resp...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news4sanantonio.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WOAIWOAIhttps://news4sanantonio.com \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wlos.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WLOSWLOShttps://wlos.com \u203a news \u203a spotlight-on-america \u203a resp...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abc6onyourside.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WSYXWSYXhttps://abc6onyourside.com \u203a spotlight-on-america \u203a r...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://upnorthlive.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles | WPBNWPBNhttps://upnorthlive.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla failed to stop for their fire truck at another crash scene on the freeway. It's unnerving for them to be involved in a near miss that\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wpde.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles - WPDEWPDEhttps://wpde.com \u203a news \u203a spotlight-on-america \u203a respon...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://katv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles - KATVKATVhttps://katv.com \u203a news \u203a spotlight-on-america \u203a respond...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbs2iowa.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KGANKGANhttps://cbs2iowa.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cnycentral.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles | WSTMWSTMhttps://cnycentral.com \u203a news \u203a spotlight-on-america \u203a re...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foxbaltimore.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles | WBFFWBFFhttps://foxbaltimore.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police) ... fire truck at another crash scene on the freeway. It's unnerving for\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cnycentral.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles | WSTMWSTMhttps://cnycentral.com \u203a news \u203a spotlight-on-america \u203a re...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://krcgtv.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KRCGKRCGhttps://krcgtv.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://okcfox.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KOKHKOKHhttps://okcfox.com \u203a news \u203a nation-world \u203a responder...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foxnebraska.com/news/nation-world/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KFXLKFXLhttps://foxnebraska.com \u203a news \u203a nation-world \u203a respon...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wcti12.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WCTIWCTIhttps://wcti12.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kcby.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - KCBYKCBYhttps://kcby.com \u203a news \u203a spotlight-on-america \u203a resp...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://newschannel9.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ...WTVChttps://newschannel9.com \u203a news \u203a spotlight-on-america",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mynbc15.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WPMIWPMIhttps://mynbc15.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla crash in Lansing, Michigan (Courtesy: Michigan State Police). NHTSA Investigation ... fire truck at another crash scene on the freeway. It's\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox56.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Teslas in 'Autopilot' crashing into emergency vehicles - Fox 56fox56.comhttps://fox56.com \u203a news \u203a spotlight-on-america \u203a res...",
+        "content": "... Tesla failed to stop for their fire truck at another crash scene on the freeway. It's unnerving for them to be involved in a near miss that\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nbcmontana.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ...NBC Montanahttps://nbcmontana.com \u203a news \u203a spotlight-on-america",
+        "content": "... fire truck at another crash scene on the freeway. It's unnerving for ... In the crashes involving emergency vehicles, Tesla drivers admitted\u00a0...",
+        "size": [
+          1015,
+          571
+        ],
+        "date": "2023:07:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedetroitbureau.com/2023/08/tesla-ev-range-claims-lead-to-possible-class-action-lawsuit-in-california/",
+        "title": "Tesla EV Range Claims Lead to Possible Class Action ...The Detroit Bureauhttps://www.thedetroitbureau.com \u203a news \u203a Automakers",
+        "content": "Optimism is costing the company millions. Tesla Model S crash California Feb 2023 It's becomong common practice for federal investigators to\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": "2023:08:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12442209/tesla-crash-federal-investigation-NHTSA.html",
+        "title": "US regulators have probed 42 Tesla crashes suspected of ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12442209",
+        "content": "... Tesla running beneath a heavy truck. A Tesla Model S slammed into the rear of a stopped fire truck in Walnut Creek. +9. View gallery.",
+        "size": [
+          634,
+          407
+        ],
+        "date": "2023:08:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/pulse/first-responder-blindspot-roger-c-lanctot?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news",
+        "title": "The First Responder Blindspot - LinkedInLinkedInhttps://www.linkedin.com \u203a pulse \u203a first-responder-blind...",
+        "content": "The real focal point, though, is Tesla's quixotic pursuit of that \u201cfull self-driving.\u201d The Tesla touts logically link Tesla's ... NYC's Truck of\u00a0...",
+        "size": [
+          679,
+          384
+        ],
+        "date": "2023:08:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=LTk7P6gFxQg",
+        "title": "Feds suspect Tesla using autopilot in deadly CA firetruck crashYouTube\u00a0\u00b7\u00a0ABC7 News Bay Area4.7K+ views  \u00b7  8 months ago",
+        "content": "U.S. investigators suspect that a Tesla was operating on an automated driving system when it crashed into a firetruck in California last\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=Q1ZL1nc0YwI",
+        "title": "Driver identified in deadly Tesla crash - YouTubeYouTube\u00a0\u00b7\u00a0KTVU FOX 2 San Francisco6.1K+ views  \u00b7  9 months ago",
+        "content": "The driver of a Tesla who died after crashing into a firetruck on I-680 has been identified as Genesis Mendoza Martinez of Pittsburg.",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox28savannah.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ...WTGShttps://fox28savannah.com \u203a news \u203a spotlight-on-america",
+        "content": " \u00b7 ",
+        "size": [
+          1015,
+          571
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/nbcbayarea/status/1633517935447937024",
+        "title": "NBC Bay Area on X: \"#BREAKING: A Tesla that crashed into a ...Twitter\u00a0\u00b7\u00a0nbcbayarea420+ likes  \u00b7  8 months ago",
+        "content": "BREAKING: A Tesla that crashed into a fire truck on I-680 in Walnut Creek last month, killing the driver and critically injuring a passenger\u00a0...",
+        "size": [
+          1200,
+          672
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://midmichigannow.com/news/spotlight-on-america/responders-at-risk-nhtsa-probes-driver-assistance-systems-after-a-series-of-crashes-involving-teslas-and-emergency-vehicles",
+        "title": "Mystery Accidents: Teslas in 'Autopilot' crashing into ... - WEYIWEYIhttps://midmichigannow.com \u203a spotlight-on-america \u203a re...",
+        "content": " \u00b7 ",
+        "size": [
+          1015,
+          571
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://finance.yahoo.com/video/tesla-may-self-driving-mode-180400543.html",
+        "title": "Tesla may have been in self-driving mode in fatal crash with ...Yahoo Financehttps://finance.yahoo.com \u203a video \u203a tesla-may-self-dri...",
+        "content": "Tesla may have been in self-driving mode in fatal crash with California fire truck: investigators. KRON San Francisco. March 9, 2023. The driver of the\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=zEhQoWw7qG0",
+        "title": "Deadly crashes involving Teslas kill 5 over the weekend | WNTYouTube\u00a0\u00b7\u00a0ABC News9.9K+ views  \u00b7  9 months ago",
+        "content": "",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.robles.edu.gt/?m=person-dies-when-tesla-hits-fire-truck-on-i-pp-6wM2YycN",
+        "title": "Person Dies When Tesla Hits Fire Truck On I-680,, 49% OFFrobles.edu.gthttps://www.robles.edu.gt \u203a 680h-4",
+        "content": "Tesla Fatal California Crash With Fire Truck Draws US Regulator Inquiry (TSLA) Bloomberg ... Tesla Autopilot crash: 2014 Model S crashed into firetruck on I-405.",
+        "size": [
+          140,
+          78
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/defaultusert/status/1633614764030009344",
+        "title": "Ocelot on X: \"@Tesla How it's actually going:\" / XTwitter\u00a0\u00b7\u00a0defaultusert40+ likes  \u00b7  8 months ago",
+        "content": "#BREAKING: A Tesla that crashed into a fire truck on I-680 in Walnut Creek last month, killing the driver and critically injuring a\u00a0...",
+        "size": [
+          1200,
+          672
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/pulse/what-were-reading-wednesday-nelsonniehausllc-7054543759618756608",
+        "title": "What We're Reading Wednesday - LinkedInLinkedIn\u00a0\u00b7\u00a0Nelson Law LLC7 months ago",
+        "content": "... crash earlier this year involving a Tesla Model S and a first responder vehicle ... The firetruck was heavily damaged, and the Tesla, whose\u00a0...",
+        "size": [
+          802,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/topic/Tesla/",
+        "title": "Tesla - Click2HoustonClick2Houstonhttps://www.click2houston.com \u203a topic \u203a Tesla",
+        "content": "Fire officials in Northern California say a Tesla driver was killed and a passenger ... Driver in strange Tesla crash apparently moved to rear seat \u00b7 National\u00a0...",
+        "size": [
+          400,
+          257
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elunicornio.co/?q=maruti-celerio-diesel-official-review-team-bhp-ee-wwr826Sx",
+        "title": "Maruti Celerio Diesel Official Review Team-BHP, 41% OFFEl Unicorniohttps://www.elunicornio.co \u203a e08a engine",
+        "content": "Tesla fatal crash with fire truck draws US regulator inquiry.",
+        "size": [
+          1024,
+          657
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/topic/California_Highway_Patrol/",
+        "title": "california highway patrol - KSATKSAThttps://www.ksat.com \u203a topic \u203a California_Highway_P...",
+        "content": "Fire officials in Northern California say a Tesla driver was killed and a ... Authorities say a semi-truck crashed into an SUV carrying multiple people on a\u00a0...",
+        "size": [
+          700,
+          449
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/category/tesla-model-s/page/2/",
+        "title": "Tesla Model S News, Tips, Reviews, Rumors - TeslaratiTeslaratihttps://www.teslarati.com \u203a tesla-model-s \u203a page",
+        "content": "Tesla crash in California prompts NHTSA to seek more information. A crash involving a Tesla that collided with a firetruck on Saturday in California has\u00a0...",
+        "size": [
+          300,
+          225
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.modernghana.com/videonews/abc/1/317261/",
+        "title": "Deadly crashes involving Teslas kill 5 over the weekendModern Ghanahttps://www.modernghana.com \u203a videonews \u203a abc",
+        "content": "Deadly crashes involving Teslas kill 5 over the weekend. ABC ALJazeera. BBC CitiTV. CNN DW France24 NBC Net2TV. Others RT TV3 UTV DelayTV KofiTV MagrahebTV",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fortune.com/tag/autonomous-systems/",
+        "title": "autonomous systems | FortuneFortunehttps://fortune.com \u203a tag \u203a autonomous-systems",
+        "content": "Tesla driver killed after car plows into fire truck shielding crew working on another accident. BYThe Associated Press. February 19, 2023. Mayflower Autonomous\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/tesla-crash-fire-death",
+        "title": "tesla crash fire death\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "tesla crash fire death. 367.3K views. Discover videos related to tesla crash ... The Tesla smashed into a fire truck in Walnut Creek, killing the driver of\u00a0...",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/topic/California_Highway_Patrol/",
+        "title": "california highway patrol - WPLGWPLGhttps://www.local10.com \u203a topic \u203a California_Highwa...",
+        "content": "Tesla driver killed after plowing into firetruck on freeway \u00b7 Fire officials in Northern California say a Tesla driver was killed and a passenger was\u00a0...",
+        "size": [
+          700,
+          449
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/topic/California_Highway_Patrol/",
+        "title": "California_Highway_Patrol - ClickOnDetroitClickOnDetroithttps://www.clickondetroit.com \u203a topic \u203a California_H...",
+        "content": "Tesla driver killed after plowing into firetruck on freeway \u00b7 Fire officials in Northern California say a Tesla driver was killed and a passenger was\u00a0...",
+        "size": [
+          700,
+          449
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.elpais.com/news/elon-reeve-musk/5/",
+        "title": "Elon Musk in EL PA\u00cdS English | P\u00e1g. 6EL PA\u00cdS Englishhttps://english.elpais.com \u203a News \u203a Elon Reeve-musk",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene TESLA \u00b7 Tesla driver killed after plowing into firetruck on\u00a0...",
+        "size": [
+          414,
+          311
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/?amp=1&s=tsa",
+        "title": "You searched for tsa - TESLARATITeslaratihttps://www.teslarati.com \u203a ...",
+        "content": "NHTSA's Tesla Autopilot \u201cElon ... A crash involving a Tesla that collided with a firetruck on Saturday in California has prompted the National Highway Traffic\u2026",
+        "size": [
+          300,
+          225
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/what-is-another-name-for-a-fire-engine",
+        "title": "What Is Another Name For A Fire Engine Guide 2023L Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a what-is-another-...",
+        "content": "image. Colorado Springs Fire Chief concerned about using 1990s fire ... Feds seeking information from Tesla on crash into fire truck .",
+        "size": [
+          640,
+          411
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=nFn2-eB9EgY",
+        "title": "Tesla Car Accident at china due to over speed. - YouTubeYouTube\u00a0\u00b7\u00a0Rising Production10+ views  \u00b7  9 months ago",
+        "content": "Tesla Electric Car Accident at China due to over speed. one got dead and another got seriously injured.",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://braqwacilive.com/king-promise-features-chance-the-rapper-omah-lay-vic-mensah-bisa-kdei-others-on-5-star-album?h=5cc1ba3&iid=01_215262927_9_7",
+        "title": "Car accidents in the news - Olika 25 Modeller - Bra Qwaci LiveBraqwacilive.Comhttps://braqwacilive.com \u203a king-promise-features-chan...",
+        "content": "... crash on Coors Bypass near Cottonwood Mall, Tesla Crashes Into Firetruck in Fatal Accident WSJ, Broad Street crash leaves 2 injured in North Philadelphia\u00a0...",
+        "size": [
+          860,
+          552
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/gotcaraccident/",
+        "title": "Law Offices Of Thai Nguyen, PC - Personal Injury LawyerFacebook\u00a0\u00b7\u00a0Law Offices Of Thai Nguyen, PC - Personal Injury Lawyer1.5K+ followers",
+        "content": "#BREAKING: A Tesla that crashed into a fire truck on I-680 in Walnut Creek last month, killing the driver and critically injuring a passenger, was",
+        "size": [
+          1200,
+          672
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fortune.com/tag/autonomous-systems/",
+        "title": "autonomous systems | FortuneFortunehttps://fortune.com \u203a tag \u203a autonomous-systems",
+        "content": "Tesla driver killed after car plows into fire truck shielding crew working on another accident. BYThe Associated Press. February 19, 2023. Mayflower Autonomous\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/car-crashes-into-a-fire-truck-in-la",
+        "title": "car crashes into a fire truck in la\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "1. #Tesla #tesla #telsatok Car accident firetruck and Tesla collision #Firetruck #firetruckresponding #firetrucksoftiktok \u00b7 globalfirefighters. 1379. Fire Truck\u00a0...",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/topic/Tesla/",
+        "title": "Tesla - Click OrlandoWKMGhttps://www.clickorlando.com \u203a topic \u203a Tesla",
+        "content": "A meeting in Groveland on Wednesday evening came after a crash on May 26 when Groveland Police said the driver a Tesla crashed into a home and sparked a fire.",
+        "size": [
+          400,
+          257
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/topic/Tesla/",
+        "title": "Tesla - KSATKSAThttps://www.ksat.com \u203a topic \u203a Tesla",
+        "content": "Tesla driver killed after plowing into firetruck on freeway \u00b7 Fire officials in Northern California say a Tesla driver was killed and a passenger was\u00a0...",
+        "size": [
+          400,
+          257
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/topic/Tesla/",
+        "title": "Tesla - News4JAXNews4JAXhttps://www.news4jax.com \u203a topic \u203a Tesla",
+        "content": "Fire officials in Northern California say a Tesla driver was killed and a passenger was critically injured when the car plowed into a firetruck that was parked\u00a0...",
+        "size": [
+          400,
+          257
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/defaultusert/status/1633614764030009344",
+        "title": "Ocelot on X: \"@Tesla How it's actually going:\" / XTwitter\u00a0\u00b7\u00a0defaultusert40+ likes  \u00b7  8 months ago",
+        "content": "#BREAKING: A Tesla that crashed into a fire truck on I-680 in Walnut Creek last month, killing the driver and critically injuring a\u00a0...",
+        "size": [
+          1200,
+          672
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/topic/Tesla/",
+        "title": "Tesla - News4JAXNews4JAXhttps://www.news4jax.com \u203a topic \u203a Tesla",
+        "content": "Fire officials in Northern California say a Tesla driver was killed and a passenger was critically injured when the car plowed into a firetruck that was parked\u00a0...",
+        "size": [
+          400,
+          257
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/defaultusert/status/1633614764030009344",
+        "title": "Ocelot on X: \"@Tesla How it's actually going:\" / XTwitter\u00a0\u00b7\u00a0defaultusert40+ likes  \u00b7  8 months ago",
+        "content": "#BREAKING: A Tesla that crashed into a fire truck on I-680 in Walnut Creek last month, killing the driver and critically injuring a\u00a0...",
+        "size": [
+          1200,
+          672
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/topic/Tesla/",
+        "title": "Tesla - WPLGWPLGhttps://www.local10.com \u203a topic \u203a Tesla",
+        "content": "Tesla catches fire at dealership in Fort Lauderdale \u00b7 Fort Lauderdale ... Driver in strange Tesla crash apparently moved to rear seat \u00b7 National Transportation\u00a0...",
+        "size": [
+          400,
+          257
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/pulse/what-were-reading-wednesday-nelsonniehausllc-7054543759618756608",
+        "title": "What We're Reading Wednesday - LinkedInLinkedIn\u00a0\u00b7\u00a0Nelson Law LLC7 months ago",
+        "content": "... crash earlier this year involving a Tesla Model S and a first responder vehicle ... The firetruck was heavily damaged, and the Tesla, whose\u00a0...",
+        "size": [
+          802,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/topic/Tesla/",
+        "title": "Tesla - Click2HoustonClick2Houstonhttps://www.click2houston.com \u203a topic \u203a Tesla",
+        "content": "Fire officials in Northern California say a Tesla driver was killed and a passenger ... Driver in strange Tesla crash apparently moved to rear seat \u00b7 National\u00a0...",
+        "size": [
+          400,
+          257
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elunicornio.co/?q=maruti-celerio-diesel-official-review-team-bhp-ee-wwr826Sx",
+        "title": "Maruti Celerio Diesel Official Review Team-BHP, 41% OFFEl Unicorniohttps://www.elunicornio.co \u203a e08a engine",
+        "content": "Tesla fatal crash with fire truck draws US regulator inquiry.",
+        "size": [
+          1024,
+          657
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/topic/California_Highway_Patrol/",
+        "title": "california highway patrol - KSATKSAThttps://www.ksat.com \u203a topic \u203a California_Highway_P...",
+        "content": "Fire officials in Northern California say a Tesla driver was killed and a ... Authorities say a semi-truck crashed into an SUV carrying multiple people on a\u00a0...",
+        "size": [
+          700,
+          449
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/topic/Tesla/",
+        "title": "Tesla - Click2HoustonClick2Houstonhttps://www.click2houston.com \u203a topic \u203a Tesla",
+        "content": "Fire officials in Northern California say a Tesla driver was killed and a passenger ... Driver in strange Tesla crash apparently moved to rear seat \u00b7 National\u00a0...",
+        "size": [
+          400,
+          257
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.youtube.com/watch?time_continue=103&v=O_gVHZW28BY",
+        "title": "Tesla slams through wall of Anytime Fitness gym in Pasco ...YouTube\u00a0\u00b7\u00a0ABC Action News75.1K+ views",
+        "content": "Comments52 \u00b7 Viral video shows Tesla flying through Echo Park neighborhood \u00b7 Watch: Tesla In Autopilot Crashes Into North Carolina Police Vehicle \u00b7 Tesla crashes\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.telemundo33.com/tag/tesla/",
+        "title": "T\u00f3pico: Tesla - Telemundo SacramentoTelemundo Sacramentohttps://www.telemundo33.com \u203a tag",
+        "content": "Tesla \u00b7 Aparente pelea entre conductores de Teslas en una estaci\u00f3n de recarga termina en muerte \u00b7 Autoridades de EEUU investigan nuevo posible defecto en uno de\u00a0...",
+        "size": [
+          850,
+          478
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.amarujala.com/photo-gallery/automobiles/elon-musk-knew-about-tesla-s-autopilot-system-defect-claims-us-judge-2023-11-25",
+        "title": "Elon Musk:\u090f\u0932\u0928 \u092e\u0938\u094d\u0915 \u0928\u0947 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0915\u0947 \u092c\u093e\u0935\u091c\u0942\u0926 \u091f\u0947\u0938\u094d\u0932\u093e \u0915\u0940 \u0911\u091f\u094b\u092a\u093e\u092f\u0932\u091f ...Amar Ujalahttps://www.amarujala.com \u203a elon-...",
+        "content": " \u00b7 ",
+        "size": [
+          414,
+          233
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.33401644229888916
+      },
+      {
+        "class": "fire_station",
+        "ioclass": "outdoor",
+        "probability": 0.31590402126312256
+      },
+      {
+        "class": "street",
+        "ioclass": "outdoor",
+        "probability": 0.04298979043960571
+      },
+      {
+        "class": "construction_site",
+        "ioclass": "outdoor",
+        "probability": 0.039242200553417206
+      },
+      {
+        "class": "driveway",
+        "ioclass": "outdoor",
+        "probability": 0.032857779413461685
+      }
+    ],
+    "transients": [
+      {
+        "class": "glowing",
+        "score": 1.1191127300262451
+      },
+      {
+        "class": "time/night",
+        "score": 1.1031115055084229
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.9978057146072388
+      },
+      {
+        "class": "dark",
+        "score": 0.944282054901123
+      },
+      {
+        "class": "moist",
+        "score": 0.9311399459838867
+      },
+      {
+        "class": "season/winter",
+        "score": 0.9297536015510559
+      },
+      {
+        "class": "ice",
+        "score": 0.8884927034378052
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.8100408315658569
+      },
+      {
+        "class": "dirty",
+        "score": 0.7143584489822388
+      },
+      {
+        "class": "cluttered",
+        "score": 0.6256203651428223
+      },
+      {
+        "class": "dull",
+        "score": 0.6181109547615051
+      },
+      {
+        "class": "exciting",
+        "score": 0.5858389139175415
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1311,
+        "pred_lat": 60.20539855957031,
+        "pred_long": 24.970598220825195
+      },
+      "middle": {
+        "pred_class": 2809,
+        "pred_lat": 50.00029373168945,
+        "pred_long": 8.2550687789917
+      },
+      "fine": {
+        "pred_class": 3979,
+        "pred_lat": 60.15766906738281,
+        "pred_long": 24.9400577545166
+      },
+      "hierarchy": {
+        "pred_class": 3342,
+        "pred_lat": 50.0001106262207,
+        "pred_long": 8.27892017364502
+      },
+      "country": {
+        "city": "Helsinki",
+        "state": "",
+        "country": "Finland"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 60.140594,
+    "longitude": 24.965036,
+    "generationtime_ms": 0.17011165618896484,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 12.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2021-04-02T00:00",
+        "2021-04-02T01:00",
+        "2021-04-02T02:00",
+        "2021-04-02T03:00",
+        "2021-04-02T04:00",
+        "2021-04-02T05:00",
+        "2021-04-02T06:00",
+        "2021-04-02T07:00",
+        "2021-04-02T08:00",
+        "2021-04-02T09:00",
+        "2021-04-02T10:00",
+        "2021-04-02T11:00",
+        "2021-04-02T12:00",
+        "2021-04-02T13:00",
+        "2021-04-02T14:00",
+        "2021-04-02T15:00",
+        "2021-04-02T16:00",
+        "2021-04-02T17:00",
+        "2021-04-02T18:00",
+        "2021-04-02T19:00",
+        "2021-04-02T20:00",
+        "2021-04-02T21:00",
+        "2021-04-02T22:00",
+        "2021-04-02T23:00",
+        "2021-04-03T00:00",
+        "2021-04-03T01:00",
+        "2021-04-03T02:00",
+        "2021-04-03T03:00",
+        "2021-04-03T04:00",
+        "2021-04-03T05:00",
+        "2021-04-03T06:00",
+        "2021-04-03T07:00",
+        "2021-04-03T08:00",
+        "2021-04-03T09:00",
+        "2021-04-03T10:00",
+        "2021-04-03T11:00",
+        "2021-04-03T12:00",
+        "2021-04-03T13:00",
+        "2021-04-03T14:00",
+        "2021-04-03T15:00",
+        "2021-04-03T16:00",
+        "2021-04-03T17:00",
+        "2021-04-03T18:00",
+        "2021-04-03T19:00",
+        "2021-04-03T20:00",
+        "2021-04-03T21:00",
+        "2021-04-03T22:00",
+        "2021-04-03T23:00"
+      ],
+      "apparent_temperature": [
+        -3.6,
+        -3.4,
+        -3.6,
+        -3.8,
+        -3.8,
+        -3.7,
+        -3.2,
+        -2.4,
+        -1.8,
+        -1.5,
+        -0.6,
+        -0.3,
+        -0.4,
+        -0.5,
+        -0.9,
+        -0.8,
+        -0.9,
+        -1.6,
+        -2.5,
+        -3.0,
+        -3.2,
+        -3.5,
+        -3.9,
+        -4.3,
+        -4.0,
+        -4.4,
+        -4.9,
+        -5.2,
+        -5.3,
+        -5.1,
+        -4.5,
+        -3.6,
+        -2.7,
+        -1.7,
+        -0.8,
+        -0.6,
+        -0.2,
+        -0.5,
+        -0.4,
+        -0.4,
+        -0.9,
+        -1.7,
+        -2.6,
+        -3.2,
+        -3.4,
+        -4.2,
+        -4.6,
+        -4.9
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        71,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        51,
+        51,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

@@ -1,0 +1,1331 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2024/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 4,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2024/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 43,
+            "percentage": 95.55555555555556
+          },
+          "Arabic": {
+            "count": 1,
+            "percentage": 2.2222222222222223
+          },
+          "Vietnamese": {
+            "count": 1,
+            "percentage": 2.2222222222222223
+          }
+        },
+        "total": 45,
+        "plot": {
+          "labels": [
+            "English",
+            "Arabic",
+            "Vietnamese"
+          ],
+          "data": [
+            95,
+            2,
+            2
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://www.credent-capital.com/?w=this-tesla-model-y-dummy-crash-shows-exactly-why-aa-0PzWenu1",
+        "title": "This Tesla Model Y Dummy Crash Shows Exactly Why LIDAR ...credent-capital.comhttps://www.credent-capital.com \u203a ...",
+        "content": "This Tesla Model Y Dummy Crash Shows Exactly Why LIDAR Matters, Model available for download in OBJ Visit CGTrader and browse more than\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": "2024:01:20 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/model-y/performance-tesla-model-3-goes-up-against-performance-model-y-in-a-series-of-tests-video/",
+        "title": "Performance Tesla Model 3 goes up against ... - Drive Tesladriveteslacanada.cahttps://driveteslacanada.ca \u203a model-y \u203a performance-te...",
+        "content": "A Tesla Model Y was involved in a serious accident this morning in Detroit that saw the electric SUV become wedged underneath a semi truck.",
+        "size": [
+          381,
+          254
+        ],
+        "date": "2020:06:29 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 34,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/model-y/performance-tesla-model-3-goes-up-against-performance-model-y-in-a-series-of-tests-video/",
+        "title": "Performance Tesla Model 3 goes up against ... - Drive Tesladriveteslacanada.cahttps://driveteslacanada.ca \u203a model-y \u203a performance-te...",
+        "content": "A Tesla Model Y was involved in a serious accident this morning in Detroit that saw the electric SUV become wedged underneath a semi truck.",
+        "size": [
+          381,
+          254
+        ],
+        "date": "2020:06:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/model-y/tesla-model-y-driver-and-passenger-survive-extreme-collision-with-semi/",
+        "title": "Tesla Model Y driver and passenger survive extreme collision ...driveteslacanada.cahttps://driveteslacanada.ca \u203a model-y \u203a tesla-model-y-...",
+        "content": "A Tesla Model Y was involved in a serious accident this morning in Detroit that saw the electric SUV become wedged underneath a semi truck.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": "2021:03:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.firstxw.com/view/282304.html",
+        "title": "Tesla Model y drill bottom semi trailer! Crew survived by \"roof ...firstxw.comhttps://www.firstxw.com \u203a view",
+        "content": "... accident occurred in Detroit, USA, in which two drivers and passengers were seriously injured and Tesla Model y was seriously damaged. It is\u00a0...",
+        "size": [
+          770,
+          488
+        ],
+        "date": "2021:03:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/model-y/nhtsa-announces-investigation-after-tesla-model-y-crashes-into-semi/",
+        "title": "NHTSA announces investigation after Tesla Model Y crashes ...driveteslacanada.cahttps://driveteslacanada.ca \u203a model-y \u203a nhtsa-announc...",
+        "content": "The NHTSA has announced it is launching an investigation into a crash last week involving a Tesla Model Y and semi truck in Detroit.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": "2021:03:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/tesla-model-y-detroit-crash-not-autopilot-says-police/",
+        "title": "Tesla Model Y crash in Detroit likely caused by reckless ...Teslaratihttps://www.teslarati.com \u203a News",
+        "content": "A violent Tesla crash that ended with a Model Y being wedged underneath a tractor trailer likely involved reckless driving and not the\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2021:03:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pinterest.co.uk/pin/insane-this-tesla-crash-could-be-avoided-only-if--781163497868748967/",
+        "title": "INSANE!!! This Tesla Crash Could Be Avoided Only If...pinterest.co.ukhttps://www.pinterest.co.uk \u203a Explore",
+        "content": "This Tesla Crash Could Be Avoided Only If... INSANE!!! This Tesla Crash Could ... tesla model 3 Fails goes wrong 2019 Tesla Model 3 Safety Rating\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2021:05:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pinterest.com/amp/pin/781163497868748967/",
+        "title": "INSANE!!! This Tesla Crash Could Be Avoided Only If...Pinteresthttps://www.pinterest.com \u203a Explore",
+        "content": "May 31, 2021 - Insane!!! This Tesla Crash Could Be Avoided Only If...WATCH NEXT Mindblowing!!! Tesla Officially 5X Dominating the\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2021:05:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/What-are-the-Tesla-Model-Ys-safety-features",
+        "title": "What are the Tesla Model Y's safety features? - QuoraQuorahttps://www.quora.com \u203a What-are-the-Tesla-Model-Ys-...",
+        "content": "First, the Tesla Model 3 has a 5-star rating in all crash tests. In ... Originally Answered: What are the additional features of Tesla model y\u00a0...",
+        "size": [
+          602,
+          452
+        ],
+        "date": "2022:05:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://techstory.in/explosive-dashcam-footage-reveals-weaknesses-in-teslas-autopilot-system/",
+        "title": "Explosive Dashcam Footage Reveals Weaknesses in Tesla's ...TechStoryhttps://techstory.in \u203a Business",
+        "content": "... crash data, revealing critical shortcomings in Tesla's Autopilot system. ... NHTSA announces investigation after Tesla Model Y crashes into semi .",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": "2023:08:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.robotec.com.uy/siden.asp?iid=165949758&cid=149",
+        "title": "model y roof box > OFF-62% - Robotecrobotec.com.uyhttps://www.robotec.com.uy \u203a siden",
+        "content": "X-Rack Tesla Model X cargo carrier; tesla model y bike rack Online Shopping; Tesla Model Y With Roof Rack Attached; Tesla Model y drill bottom\u00a0...",
+        "size": [
+          770,
+          488
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.credent-capital.com/?w=this-tesla-model-y-dummy-crash-shows-exactly-why-aa-0PzWenu1",
+        "title": "This Tesla Model Y Dummy Crash Shows Exactly Why LIDAR ...credent-capital.comhttps://www.credent-capital.com \u203a ...",
+        "content": "This Tesla Model Y Dummy Crash Shows Exactly Why LIDAR Matters, Model available for download in OBJ Visit CGTrader and browse more than\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": "2024:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/tesla-model-y-detroit-crash-not-autopilot-says-police/tesla-model-y-crash-detroit/",
+        "title": "tesla-model-y-crash-detroit - TESLARATITeslaratihttps://www.teslarati.com \u203a tesla-model-y-crash-detroit",
+        "content": "tesla-model-y-crash-detroit \u00b7 Share \u00b7 Tweet \u00b7 Share.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.acafeina.com/?s=this-tesla-model-y-dummy-crash-shows-exactly-why-qq-dxK8JKhE",
+        "title": "This Tesla Model Y Dummy Crash Shows Exactly Why LIDAR ...acafeina.comhttps://www.acafeina.com \u203a car dummy model",
+        "content": "This Tesla Model Y Dummy Crash Shows Exactly Why LIDAR Matters, Generic Car Body In White 3D Model Buy and download 3d models in 3ds, max, fbx, c4d, lwo,\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.flerodiesel.it/?k=top-20-biggest-tesla-crashes-of-2022-qq-l5lbW2cm",
+        "title": "TOP 20 BIGGEST TESLA CRASHES OF 2022, 51% OFFflerodiesel.ithttps://www.flerodiesel.it \u203a crashed tesla",
+        "content": "INSANE TESLA MODEL CRASH VIDEO TESLACAM STORIES 103. TOP 20 BIGGEST ... Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pestan.hu/?m=tesla-model-y-receives-top-safety-pick-rating-with-ii-zlOovgUY",
+        "title": "Tesla Model Y Receives Top Safety Pick Rating With Nearly ...pestan.huhttps://pestan.hu \u203a tesla model y safety rating iihs",
+        "content": "Tesla model is a low quality, photo real model with good detail to any of your rendering With low poly No The model has a. Tesla Model Y Receives Top Safety\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gpl.com.sg/kfyo.php?cname=tesla+model+y+drawing&cid=81",
+        "title": "tesla model y drawing for Sale,Up To OFF63%GPL Remittancehttps://www.gpl.com.sg \u203a kfyo",
+        "content": "How to draw 2021 Tesla Model Y; tesla model y drawing Tesla Model Y crash in Detroit likely; tesla model y drawing Tesla Model Y vector drawing | 2012\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://richtig.cl/?w=top-20-biggest-tesla-crashes-of-2022-ll-aRGm3yUK",
+        "title": "top 20 biggest tesla crashes of 2022 - Richtigrichtig.clhttps://richtig.cl \u203a crashed tesla",
+        "content": "Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police ... INSANE TESLA MODEL CRASH VIDEO TESLACAM STORIES 103. TOP 20 BIGGEST\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mbrothers.com.au/pulmocutaneous1c-tyr6bp6j2.htm/?g=this-tesla-model-y-dummy-crash-shows-exactly-why-vv-G061GzIR",
+        "title": "This Tesla Model Y Dummy Crash Shows Exactly Why LIDAR ...mbrothers.com.auhttps://mbrothers.com.au \u203a Home \u203a car dummy model",
+        "content": "This Tesla Model Y Dummy Crash Shows Exactly Why LIDAR Matters, Find many great new used options and get the best deals for 1/64 Scale Rolls-Royce Ghost\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contratacion.fundovidaips.com/?m=top-20-biggest-tesla-crashes-of-2022-yy-1o0EznU0",
+        "title": "TOP 20 BIGGEST TESLA CRASHES OF 2022, 53% OFFFundovidahttps://contratacion.fundovidaips.com \u203a ...",
+        "content": "TOP 20 BIGGEST TESLA CRASHES OF 2022. Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police. TOP 20 BIGGEST TESLA CRASHES OF\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.flerodiesel.it/?k=video-of-tesla-model-crashing-into-a-truck-on-qq-DqPK6Yir",
+        "title": "Video Of Tesla Model Crashing Into A Truck On Autopilot, 51 ...flerodiesel.ithttps://www.flerodiesel.it \u203a crashed tesla",
+        "content": "Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police ... Tesla Crash Victim Was 99% to Blame for His Death in Model S, Jury\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.flerodiesel.it/?k=tesla-crashes-into-south-sacramento-home-qq-VaG5rqcW",
+        "title": "Tesla Crashes Into South Sacramento Home, 55% OFFflerodiesel.ithttps://www.flerodiesel.it \u203a crashed tesla",
+        "content": "Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police. Tesla crashes into south Sacramento home. Regulators Open Probes Into\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reclamosyquejas.cps.com.pe/?k=tesla-model-y-receives-top-safety-pick+-rating-with-hh-wwNOejsn",
+        "title": "Tesla Model Y Receives Top Safety Pick Rating With Nearly ...CLINICA PERUANO SUIZAhttps://www.reclamosyquejas.cps.com.pe \u203a ...",
+        "content": "Tesla Model Y Receives Top Safety Pick Rating With Nearly Perfect Score, Door Lock Buckle Covers For Tesla Model Y Door Latch Holder Protectors Car\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alpha.i20fever.com/tesla-crashes-into-south-sacramento-home-ee-KLABQmiY",
+        "title": "Tesla Crashes Into South Sacramento Homei20feverhttps://alpha.i20fever.com \u203a crashed tesla",
+        "content": "Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police. Tesla crashes into south Sacramento home. Tesla owner shares insights\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://kkram.in/sitemap.asp?shop=autopilot+tesla+model+y&cid=4&iid=13410131",
+        "title": "autopilot tesla model y - kkramkkram.inhttp://kkram.in \u203a sitemap",
+        "content": "autopilot tesla model y Online Discount Shop for Electronics, Apparel, Toys, Books, Games, Computers, Shoes, Jewelry, Watches, Baby Products,\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mehrdarou.com/Stars.aspx?iid=647037945-tesla+model+y+drawing&cid=146",
+        "title": "tesla model y drawing Hot Sale - OFF 66%\u0645\u0647\u0631\u062f\u0627\u0631\u0648https://www.mehrdarou.com \u203a Stars",
+        "content": "Tesla Model-Y Rear Fender \\u0026 Doors Kit; 650 Tesla Model Stock Illustrations; Right Side Kit | TESLA MODEL Y 2022; Tesla Model Y crash in Detroit likely\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mehrdarou.com/Stars.aspx?iid=647037946-tesla+model+y+drawing&cid=146",
+        "title": "tesla model y drawing Hot Sale - OFF 71%\u0645\u0647\u0631\u062f\u0627\u0631\u0648https://www.mehrdarou.com \u203a Stars",
+        "content": "Tesla Model Y Range \\u0026 Battery; Tesla Model Y crash in Detroit likely; Tesla Model Y White with interior by; Tesla Model Y 2022 3D model - Vehicles; Tesla\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reclamosyquejas.cps.com.pe/?k=watch-tesla-s-autopilot-powered-safety-features-stop-for-hh-jbNYqWs1",
+        "title": "Watch Tesla's Autopilot-powered Safety Features Stop For, 56 ...CLINICA PERUANO SUIZAhttps://www.reclamosyquejas.cps.com.pe \u203a ...",
+        "content": "... Tesla Model 2021 Model Y Brake Closing Soft Close Anti Pinch at Aliexpress for. ... Tesla Model Y crash in Detroit likely caused by reckless driving, not\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fiizon.com/?k=tesla-model-y-receives-top-safety-pick+-rating-with-gg-bDMg46SZ",
+        "title": "Tesla Model Y Receives Top Safety Pick Rating With Nearly ...fiizon.comhttps://fiizon.com \u203a tesla model y door",
+        "content": "Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police. Tailor-Made For Your Tesla: The Tesla door lock cover is custom\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pulsepublications.org/flying.asp?cid=81&keywords=tesla+model+y+drawing",
+        "title": "tesla model y drawing Cheap Sell - OFF 67%Pulsepublicationshttps://www.pulsepublications.org \u203a 81",
+        "content": "How to draw 2021 Tesla Model Y; Tesla Model Y crash in Detroit likely; Tesla\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://t.mitso.by/?s=tesla-model-y-crossover-actually-looks-really-good-in-5-vv-wvE6kESq",
+        "title": "Tesla Model Y Crossover Actually Looks Really Good In Red ...cart\u00e3o BEMhttps://t.mitso.by \u203a model y air suspension cost",
+        "content": "Tesla Model Y Crossover actually looks really good in red (photos) MSPoweruser, Model available for download in Autodesk FBX Visit CGTrader and browse more\u00a0...",
+        "size": [
+          602,
+          452
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://t.mitso.by/?s=tesla-model-y-crossover-actually-looks-really-good-in-5-vv-wvE6kESq",
+        "title": "Tesla Model Y Crossover Actually Looks Really Good In Red ...cart\u00e3o BEMhttps://t.mitso.by \u203a model y air suspension cost",
+        "content": "Tesla Model Y Crossover actually looks really good in red (photos) MSPoweruser, Model available for download in Autodesk FBX Visit CGTrader and browse more\u00a0...",
+        "size": [
+          602,
+          452
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://russian.lt/?q=top-20-biggest-tesla-crashes-of-2022-dd-DZK96OsL",
+        "title": "TOP 20 BIGGEST TESLA CRASHES OF 2022, 42% OFFrussian.lthttps://russian.lt \u203a crashed tesla",
+        "content": "Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police ... INSANE TESLA MODEL CRASH VIDEO TESLACAM STORIES 103. TOP 20 BIGGEST\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://russian.lt/?q=tesla-crashes-into-south-sacramento-home-dd-mJOZdzFD",
+        "title": "Tesla Crashes Into South Sacramento Home, 41% OFFrussian.lthttps://russian.lt \u203a crashed tesla",
+        "content": "INSANE TESLA MODEL CRASH VIDEO TESLACAM STORIES 103. Tesla crashes ... Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alex-doors.ru/interior-compare/?e=how-much-does-it-cost-to-own-a-2020-zz-Bq81e8Fq",
+        "title": "How Much Does It Cost To Own A 2020 Tesla Model Y After ...Alex Doorshttps://alex-doors.ru \u203a ... \u203a model y air suspension cost",
+        "content": "How Much Does It Cost to Own a 2020 Tesla Model Y After 30K Miles? Edmunds, It's The compact and midsize sedan market is rapidly changing and Tesla has\u00a0...",
+        "size": [
+          602,
+          452
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.whiteelys.com/?h=b2e02ef&iid=6_23453895_6_0",
+        "title": "Car models with most reckless driving, Save 68% large retailWHITE ELYShttps://www.whiteelys.com \u203a ...",
+        "content": "... tesla-model-y-crash-detroit.jpeg; http://www ... car models with most reckless driving Tesla Model Y crash in Detroit likely caused by reckless driving\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hardleygrey.com/?o=what-are-the-tesla-model-y-s-safety-features-0-pp-557E9kiO",
+        "title": "What are the Tesla Model Y's safety features? QuoraHardley Grey Grouphttps://hardleygrey.com \u203a ...",
+        "content": "Lift your Tesla Model Y the right way with this dirt and snow offroad coilover suspension Amazing ground clearance and fully adjustable with.",
+        "size": [
+          602,
+          452
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hk.linkedin.com/posts/guidopalazzo-_realitydistortionfield-activity-7048275598099509249-KFVD",
+        "title": "Guido Palazzo on LinkedIn: #realitydistortionfield | 64 commentsLinkedIn\u00a0\u00b7\u00a0Guido Palazzo110+ reactions  \u00b7  10 months ago",
+        "content": "... tesla-model-s-fire-california-b2272399.html \u00b7 Like \u00b7 Reply. 1 Reaction. Gordon RAY. Lecturer In Management, Technology, Strategy (MTS)\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://techinnovation.ncs.org.ng/?y=richard-tessler-phone-number-address-age-contact-info-public-uu-RpjM7yia",
+        "title": "Richard Tessler Phone Number, Address, Age, Contact Info ...Nigeria Computer Societyhttps://techinnovation.ncs.org.ng \u203a ...",
+        "content": "MODEL: Tesla We will do everything we can to work things out! At no circumstances we are responsible for any labor costs, programming, and other.",
+        "size": [
+          602,
+          452
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/troymeekhof?lang=en",
+        "title": "Troy Meekhof (@TroyMeekhof) / XX\u00a0\u00b7\u00a0TroyMeekhof300+ followers",
+        "content": "Square profile picture \u00b7 Tesla \u00b7 @Tesla. \u00b7. Jan 8, 2021. Model Y Standard Range is now available to order for $41,990 - 244 mile range (EPA est.) - Rear-\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zw.linkedin.com/posts/guidopalazzo-_realitydistortionfield-activity-7048275598099509249-KFVD",
+        "title": "Guido Palazzo on LinkedIn: #realitydistortionfield | 64 commentsLinkedIn\u00a0\u00b7\u00a0Guido Palazzo110+ reactions  \u00b7  10 months ago",
+        "content": "Tesla is the company of the Musskiah ! With a Tesla, i am in direct contact with Mars and the future ! It is...it's so... it can't be just a\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ni.linkedin.com/posts/rafaelderteanobidegaray_the-rise-and-fall-of-many-of-the-disruptive-activity-7048478919775182848-bxye",
+        "title": "Rafael Derteano Bidegaray en LinkedIn: the rise and fall of ...LinkedIn\u00a0\u00b7\u00a0Rafael Derteano Bidegaray10 months ago",
+        "content": "What will happen if investors understand that Tesla is just a car producing company? ... Las Burbujas y las Bolas de Nieve. Rafael Derteano\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://substack.com/@bradmunchen",
+        "title": "Motorhead | SubstackSubstack\u00a0\u00b7\u00a0Motorhead1K+ followers",
+        "content": "Tesla Q4 2023 Preview: Nobody Cares--Show Me the Guidance. Beware of a relief ... A Peek at the Tesla Files (Part 1): FSD Chips Removed; Model X Powertrain Flaw\u00a0...",
+        "size": [
+          400,
+          264
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://plantas-medicinales.tv/aitor+crash",
+        "title": "Aitor crash plantas-medicinales.tv Fappening Photosplantas-medicinales.tvhttps://plantas-medicinales.tv \u203a aitor+crash",
+        "content": "Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police. Haussler takes Stage Two - Eurosport. Former Middlesbrough manager\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://twitter.com/teslarati/status/1372186662269284365?lang=ar-x-fm",
+        "title": "X \\ TESLARATI \u0639\u0644\u0649 X: \"Tesla Model Y crash in Detroit likely ...X\u00a0\u00b7\u00a0Teslarati610+ likes  \u00b7  2 years ago",
+        "content": "Tesla Model Y crash in Detroit likely caused by reckless driving, not Autopilot: police\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://vietnamnet.vn/tesla-model-y-tag5364081751532536477.html",
+        "title": "tesla model Y - VietNamNetB\u00e1o VietNamNethttps://vietnamnet.vn \u203a tesla-model-y-tag536408175153...",
+        "content": "M\u1ef9 - Chi\u1ebfc xe Tesla Model Y b\u1ea5t ng\u1edd quay \u0111\u1ea7u v\u00e0 lao th\u1eb3ng v\u00e0o nh\u00e0 d\u00e2n trong t\u00ecnh tr\u1ea1ng b\u1ecb m\u1ea5t ki\u1ec3m so\u00e1t khi\u1ebfn 3 ng\u01b0\u1eddi b\u1ecb th\u01b0\u01a1ng v\u00e0 g\u00e2y h\u01b0 h\u1ea1i cho c\u00e1c ph\u01b0\u01a1ng\u00a0...",
+        "size": [
+          360,
+          240
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "auto_showroom",
+        "ioclass": "indoor",
+        "probability": 0.37125134468078613
+      },
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.11399604380130768
+      },
+      {
+        "class": "auto_factory",
+        "ioclass": "indoor",
+        "probability": 0.09888528287410736
+      },
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.09136885404586792
+      },
+      {
+        "class": "repair_shop",
+        "ioclass": "indoor",
+        "probability": 0.046844933182001114
+      }
+    ],
+    "transients": [
+      {
+        "class": "dirty",
+        "score": 0.7474868893623352
+      },
+      {
+        "class": "time/night",
+        "score": 0.6636147499084473
+      },
+      {
+        "class": "glowing",
+        "score": 0.6559256911277771
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.6377925872802734
+      },
+      {
+        "class": "moist",
+        "score": 0.61704421043396
+      },
+      {
+        "class": "cluttered",
+        "score": 0.6117935180664062
+      },
+      {
+        "class": "busy",
+        "score": 0.5649168491363525
+      },
+      {
+        "class": "exciting",
+        "score": 0.5623043775558472
+      },
+      {
+        "class": "ice",
+        "score": 0.5456396341323853
+      },
+      {
+        "class": "season/winter",
+        "score": 0.5420624017715454
+      },
+      {
+        "class": "dark",
+        "score": 0.5384716391563416
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.5221956968307495
+      },
+      {
+        "class": "boring",
+        "score": 0.5091211795806885
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 402,
+        "pred_lat": 47.54102325439453,
+        "pred_long": -122.34675598144531
+      },
+      "middle": {
+        "pred_class": 4439,
+        "pred_lat": 37.8013801574707,
+        "pred_long": -122.39812469482422
+      },
+      "fine": {
+        "pred_class": 6157,
+        "pred_lat": 37.8013801574707,
+        "pred_long": -122.39812469482422
+      },
+      "hierarchy": {
+        "pred_class": 6157,
+        "pred_lat": 37.8013801574707,
+        "pred_long": -122.39812469482422
+      },
+      "country": {
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 37.785587,
+    "longitude": -122.40964,
+    "generationtime_ms": 0.08189678192138672,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 0.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2020-06-29T00:00",
+        "2020-06-29T01:00",
+        "2020-06-29T02:00",
+        "2020-06-29T03:00",
+        "2020-06-29T04:00",
+        "2020-06-29T05:00",
+        "2020-06-29T06:00",
+        "2020-06-29T07:00",
+        "2020-06-29T08:00",
+        "2020-06-29T09:00",
+        "2020-06-29T10:00",
+        "2020-06-29T11:00",
+        "2020-06-29T12:00",
+        "2020-06-29T13:00",
+        "2020-06-29T14:00",
+        "2020-06-29T15:00",
+        "2020-06-29T16:00",
+        "2020-06-29T17:00",
+        "2020-06-29T18:00",
+        "2020-06-29T19:00",
+        "2020-06-29T20:00",
+        "2020-06-29T21:00",
+        "2020-06-29T22:00",
+        "2020-06-29T23:00",
+        "2020-06-30T00:00",
+        "2020-06-30T01:00",
+        "2020-06-30T02:00",
+        "2020-06-30T03:00",
+        "2020-06-30T04:00",
+        "2020-06-30T05:00",
+        "2020-06-30T06:00",
+        "2020-06-30T07:00",
+        "2020-06-30T08:00",
+        "2020-06-30T09:00",
+        "2020-06-30T10:00",
+        "2020-06-30T11:00",
+        "2020-06-30T12:00",
+        "2020-06-30T13:00",
+        "2020-06-30T14:00",
+        "2020-06-30T15:00",
+        "2020-06-30T16:00",
+        "2020-06-30T17:00",
+        "2020-06-30T18:00",
+        "2020-06-30T19:00",
+        "2020-06-30T20:00",
+        "2020-06-30T21:00",
+        "2020-06-30T22:00",
+        "2020-06-30T23:00"
+      ],
+      "apparent_temperature": [
+        12.8,
+        13.4,
+        12.2,
+        12.6,
+        12.3,
+        11.7,
+        12.2,
+        13.2,
+        13.6,
+        13.6,
+        13.1,
+        12.4,
+        11.7,
+        11.1,
+        11.7,
+        12.4,
+        13.2,
+        13.4,
+        14.0,
+        15.1,
+        15.3,
+        15.1,
+        14.8,
+        14.6,
+        13.6,
+        12.1,
+        11.7,
+        11.9,
+        12.1,
+        12.3,
+        12.7,
+        12.9,
+        13.2,
+        13.1,
+        12.5,
+        12.5,
+        12.3,
+        11.8,
+        12.7,
+        14.2,
+        15.3,
+        15.9,
+        16.7,
+        17.1,
+        17.1,
+        16.0,
+        14.5,
+        13.4
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

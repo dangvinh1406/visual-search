@@ -1,0 +1,1478 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 9,
+            "abnormal": true
+          },
+          "2023/01": {
+            "count": 17,
+            "abnormal": true
+          },
+          "2023/02": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 17,
+        "abnormal": true,
+        "plot": {
+          "labels": [
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Anomaly detected",
+              "backgroundColor": "#DD1B16",
+              "data": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                9,
+                17,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                17,
+                4,
+                7,
+                3,
+                2,
+                1,
+                0,
+                0,
+                2,
+                0,
+                2,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "Spanish; Castilian": {
+            "count": 43,
+            "percentage": 58.9041095890411
+          },
+          "English": {
+            "count": 22,
+            "percentage": 30.136986301369863
+          },
+          "Dutch; Flemish": {
+            "count": 5,
+            "percentage": 6.8493150684931505
+          },
+          "Vietnamese": {
+            "count": 2,
+            "percentage": 2.73972602739726
+          },
+          "German": {
+            "count": 1,
+            "percentage": 1.36986301369863
+          }
+        },
+        "total": 73,
+        "plot": {
+          "labels": [
+            "Spanish; Castilian",
+            "English",
+            "Dutch; Flemish",
+            "Vietnamese",
+            "German"
+          ],
+          "data": [
+            58,
+            30,
+            6,
+            2,
+            1
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "es",
+        "link": "https://cdn.meethk.com/spai/q_lossless+ret_img/http:/e10.homes/soldados-del-ejercito-jah-ep.html",
+        "title": "Soldados Del Ejercito Jah Ep - MeetHK.comMeetHK.comhttps://cdn.meethk.com \u203a e10.homes",
+        "content": "Crisis migratoria | Contingente militar llega para resguardar fronteras con Chile y\u2026 Heridos 7 militares en Le\u00f3n tras volcar un veh\u00edculo\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:16 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "nl",
+        "link": "https://nos.nl/l/2456310",
+        "title": "Weer demonstrant ge\u00ebxecuteerd in Iran - NOSNOShttps://nos.nl \u203a ...",
+        "content": "",
+        "size": [
+          2160,
+          2880
+        ],
+        "date": "2022:12:13 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 26,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "nl",
+        "link": "https://nos.nl/l/2456310",
+        "title": "Weer demonstrant ge\u00ebxecuteerd in Iran - NOSNOShttps://nos.nl \u203a ...",
+        "content": "",
+        "size": [
+          2160,
+          2880
+        ],
+        "date": "2022:12:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://nos.nl/l/2456249",
+        "title": "D66 en SP in debat over arbeidsmigratie \u2022 Executies in IranNOShttps://nos.nl \u203a ...",
+        "content": "",
+        "size": [
+          2160,
+          2880
+        ],
+        "date": "2022:12:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://nos.nl/l/2456312",
+        "title": "D66 en SP in debat over arbeidsmigratie - NOSNOShttps://nos.nl \u203a ...",
+        "content": "",
+        "size": [
+          2160,
+          2880
+        ],
+        "date": "2022:12:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gulftime.ae/wp-content/uploads/2022/12/13-12-2022.pdf",
+        "title": "Dubai's GDP grows 4.6% to aeD307.5b in 9 months of '22The Gulf Time Newspaperhttps://gulftime.ae \u203a uploads \u203a 2022/12",
+        "content": "Russia's war in Ukraine. After hitting a peak of 9.1% in. June, consumer inflation is ex- pected to have slowed to 7.3% in November from 7.7\u00a0...",
+        "size": [
+          1564,
+          1176
+        ],
+        "date": "2022:12:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://nos.nl/l/2456308",
+        "title": "'Vrede in Oekra\u00efne slaagt alleen met westerse ... - NOSNOShttps://nos.nl \u203a ...",
+        "content": "",
+        "size": [
+          2160,
+          2880
+        ],
+        "date": "2022:12:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.larazon.es/internacional/europa/20221215/kahf42axrvadtdwfiptwqkg6dy.html",
+        "title": "Ucrania teme que Rusia intente lanzar una ofensiva a gran ...La Raz\u00f3nhttps://www.larazon.es \u203a ... \u203a Europa",
+        "content": "La declaraci\u00f3n de Kuleba encaja con la evaluaci\u00f3n a largo plazo del Instituto for the Study of War (ISW), el think tank estadounidense sin\u00a0...",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2022:12:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.deia.eus/mundo/2022/12/25/putin-acusa-ucrania-negociar-final-6315756.html",
+        "title": "Putin acusa a Ucrania de no querer negociar el final de ... - DeiaDeiahttps://www.deia.eus \u203a 2022/12/25",
+        "content": "",
+        "size": [
+          880,
+          495
+        ],
+        "date": "2022:12:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdegipuzkoa.eus/mundo/2022/12/25/putin-acusa-ucrania-negociar-final-6315757.html",
+        "title": "Putin acusa a Ucrania de no querer negociar el final de la ...Noticias de Gipuzkoahttps://www.noticiasdegipuzkoa.eus \u203a ...",
+        "content": "",
+        "size": [
+          880,
+          495
+        ],
+        "date": "2022:12:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cope.es/programas/herrera-en-cope/noticias/felix-arteaga-advierte-cope-como-sera-guerra-ucrania-2023-empieza-ser-una-guerra-desgaste-20221226_2467830",
+        "title": "F\u00e9lix Arteaga advierte en COPE c\u00f3mo ser\u00e1 la guerra en ...COPEhttps://www.cope.es \u203a noticias \u203a feli...",
+        "content": "... crisis energ\u00e9tica. Ya llevamos, de hecho, 306 d\u00edas de guerra, desde que en febrero comenzase la invasi\u00f3n rusa en territorio ucraniano, y eso\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2022:12:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.telecinco.es/noticias/internacional/20230101/ucrania-espera-gran-ofensiva-rusia-guerra-larga-2023-escenarios-fronteras_18_08352430.html",
+        "title": "A la espera de la gran ofensiva rusa: la guerra de Ucrania se ...Telecincohttps://www.telecinco.es \u203a noticias",
+        "content": "01/01/2023 05:00h. Funeral ceremony in Bucha for a Ukrainian soldier killed in fighting in Donetsk region. Entierro de un soldado ucraniano\u00a0...",
+        "size": [
+          480,
+          270
+        ],
+        "date": "2023:01:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://theobjective.com/internacional/2023-01-02/rusia-muerte-soldados-nochevieja/",
+        "title": "Rusia confirma la muerte de 63 de sus soldados en un ataque ...The Objectivehttps://theobjective.com \u203a rusia-mue...",
+        "content": "",
+        "size": [
+          650,
+          365
+        ],
+        "date": "2023:01:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://theobjective.com/internacional/2023-01-02/eeuu-egipto-sarcofago-verde/",
+        "title": "Estados Unidos devuelve a Egipto el 'Sarc\u00f3fago Verde ...The Objectivehttps://theobjective.com \u203a eeuu-egip...",
+        "content": "",
+        "size": [
+          650,
+          365
+        ],
+        "date": "2023:01:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://theobjective.com/internacional/2023-01-02/ejecucion-transexual-estados-unidos/",
+        "title": "Este martes ser\u00e1 ejecutada por primera vez una transexual en ...The Objectivehttps://theobjective.com \u203a ejecucion...",
+        "content": "",
+        "size": [
+          650,
+          365
+        ],
+        "date": "2023:01:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdealava.eus/mundo/2023/01/04/moviles-soldados-rusos-revelaron-posicion-6330469.html",
+        "title": "Los m\u00f3viles de los soldados rusos revelaron su posici\u00f3n en el ...Diario de Noticias de \u00c1lavahttps://www.noticiasdealava.eus \u203a m...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.ondavasca.com/los-moviles-de-los-soldados-rusos-revelaron-su-posicion-en-el-ataque-ucraniano-al-cuartel-de-makiivka/",
+        "title": "Los m\u00f3viles de los soldados rusos revelaron su posici\u00f3n en el ...Onda Vascahttps://www.ondavasca.com \u203a los-m...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdenavarra.com/mundo/2023/01/04/moviles-soldados-rusos-revelaron-posicion-6330468.html",
+        "title": "Los m\u00f3viles de los soldados rusos revelaron su posici\u00f3n en el ...Diario de Noticiashttps://www.noticiasdenavarra.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.larazon.es/internacional/europa/20230106/hhu3ecumqbfrdfoyzjm7iqxz6u.html",
+        "title": "En Bajmut no hay rastro de la \u201ctregua navide\u00f1a\u201d de PutinLa Raz\u00f3nhttps://www.larazon.es \u203a ... \u203a Europa",
+        "content": "",
+        "size": [
+          480,
+          270
+        ],
+        "date": "2023:01:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cotilleando.com/threads/rusia-ataca-a-ucrania.151686/page-2563",
+        "title": "Rusia ataca a Ucrania | Page 2563 | Cotilleando | Desde 2004Cotilleandohttps://www.cotilleando.com \u203a threads",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:01:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.ondavasca.com/las-15-principales-crisis-humanitarias-que-marcaran-2023/",
+        "title": "Las 15 principales crisis humanitarias que marcar\u00e1n 2023Onda Vascahttps://www.ondavasca.com \u203a las-1...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdenavarra.com/mundo/2023/01/07/15-principales-crisis-humanitarias-marcaran-6336267.html",
+        "title": "Las 15 principales crisis humanitarias que marcar\u00e1n 2023Diario de Noticiashttps://www.noticiasdenavarra.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdegipuzkoa.eus/mundo/2023/01/07/15-principales-crisis-humanitarias-marcaran-6336269.html",
+        "title": "Las 15 principales crisis humanitarias que marcar\u00e1n 2023Noticias de Gipuzkoahttps://www.noticiasdegipuzkoa.eus \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldiario.es/internacional/ucranianos-rusos-cierran-tregua-navidena-ataques-artilleria_1_9849408.html",
+        "title": "Mosc\u00fa asegura haber matado a m\u00e1s de 600 soldados ...elDiario.eshttps://www.eldiario.es \u203a internacional",
+        "content": "... Crisis Ucrania; /; Ucrania; /; Rusia. He visto un error \u26a0\ufe0f. \u00danete a la conversaci\u00f3n 13. Lo m\u00e1s le\u00eddo por los socios. Pablo Bustinduy, Alberto\u00a0...",
+        "size": [
+          880,
+          495
+        ],
+        "date": "2023:01:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://spectator.clingendael.org/nl/publicatie/van-911-naar-242-een-reflectie-op-oorlog",
+        "title": "Van 9/11 naar 24/2: een reflectie op oorlogClingendael Spectatorhttps://spectator.clingendael.org \u203a v...",
+        "content": "In 2001, twee maanden na de aanslagen van 9/11, waarschuwde hoogleraar Frans Osinga voor de gevolgen van een Amerikaanse war on terror.",
+        "size": [
+          5661,
+          3774
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.merkur.de/politik/ukraine-krieg-news-bachmut-russland-donbass-kampf-bedeutung-wichtig-strategie-92022511.html",
+        "title": "Schlacht um Bachmut: Welche Rolle die Stadt im Ukraine ...M\u00fcnchner Merkurhttps://www.merkur.de \u203a Politik",
+        "content": "... war und in der N\u00e4he der Frontlinie von 2014 lag\u201c, hei\u00dft es in einem Expertenbeitrag des ZDF. In jenem Jahr sei die Stadt bereits wochenlang\u00a0...",
+        "size": [
+          1100,
+          619
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.larazon.es/internacional/europa/20230115/svclyjk4ljcurgui2bhrttyby4.html",
+        "title": "\u201cSi alg\u00fan mercenario Wagner no sigue una orden o intenta ...La Raz\u00f3nhttps://www.larazon.es \u203a ... \u203a Europa",
+        "content": "",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:01:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.20minutos.es/noticia/5094147/0/alemania-mantiene-bloqueo-leopard-ucrania-tiempo-guerra-rusia/",
+        "title": "Alemania mantiene el bloqueo de los Leopard y a Ucrania se ...20Minutoshttps://www.20minutos.es \u203a noticia",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.deia.eus/mundo/2023/02/19/kiev-afirma-rusia-dispone-comenzar-6464012.html",
+        "title": "Kiev afirma que Rusia se dispone a comenzar maniobras ...Deiahttps://www.deia.eus \u203a 2023/02/19",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdegipuzkoa.eus/mundo/2023/02/19/kiev-afirma-rusia-dispone-comenzar-6464013.html",
+        "title": "Kiev afirma que Rusia se dispone a comenzar maniobras ...Noticias de Gipuzkoahttps://www.noticiasdegipuzkoa.eus \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.ondavasca.com/kiev-afirma-que-rusia-se-dispone-a-comenzar-maniobras-nucleares-a-gran-escala/",
+        "title": "Kiev afirma que Rusia se dispone a comenzar maniobras ...Onda Vascahttps://www.ondavasca.com \u203a kiev-...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdenavarra.com/mundo/2023/02/19/kiev-afirma-rusia-dispone-comenzar-6464011.html",
+        "title": "Kiev afirma que Rusia se dispone a comenzar maniobras ...Diario de Noticiashttps://www.noticiasdenavarra.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rand.org/pubs/commentary/2023/03/what-does-russias-war-on-ukraine-mean-for-the-international.html",
+        "title": "What Does Russia's War on Ukraine Mean for the ...RAND Corporationhttps://www.rand.org \u203a Research & Commentary \u203a Blog",
+        "content": "Russia's war on Ukraine has shown the danger of Russian revanchism and the risk of living next door to a power that embraces war as a\u00a0...",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": "2023:03:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cmmedia.es/noticias/mundo/guerra-ucrania-rusia-soldados-ucranianos-bajmut-quejan-les-protejen.html",
+        "title": "Guerra Ucrania - Rusia | Los soldados ucranianos en Bajmut ...Castilla-La Mancha Mediahttps://www.cmmedia.es \u203a mundo",
+        "content": "",
+        "size": [
+          724,
+          407
+        ],
+        "date": "2023:03:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.europapress.es/internacional/noticia-detenido-bielorrusia-padre-nina-rusa-realizo-dibujos-contra-guerra-ucrania-20230330103725.html",
+        "title": "Detenido en Bielorrusia el padre de la ni\u00f1a rusa que realiz\u00f3 ...Europa Presshttps://www.europapress.es \u203a noticia...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:03:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.news360.es/uk/2023/03/30/father-of-russian-girl-who-drew-anti-war-cartoons-in-ukraine-arrested-in-belarus/",
+        "title": "Father of Russian girl who drew anti-war cartoons in Ukraine ...news360.eshttps://www.news360.es \u203a 2023/03/30",
+        "content": "File \u2013 Ukrainian soldiers in a file image during the Russian invasion of Ukraine. \u2013 CELESTINO ARCE / ZUMA PRESS / CONTACTOPHOTO.",
+        "size": [
+          1000,
+          667
+        ],
+        "date": "2023:03:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.news360.es/ireland/2023/03/30/belarus-arrest-russian-father-over-daughters-controversial-anti-war-ukraine-illustrations/",
+        "title": "Belarus arrest Russian father over daughter's controversial ...news360.eshttps://www.news360.es \u203a 2023/03/30",
+        "content": "... war Ukraine illustrations ... Navegaci\u00f3n de entradas. Entrada anterior. Russian girl's father detained in Belarus for her anti-Ukraine war\u00a0...",
+        "size": [
+          1000,
+          667
+        ],
+        "date": "2023:03:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news360.es/india/2023/03/30/belarus-russian-girls-father-detained-in-belarus-for-her-anti-ukraine-war-drawings/",
+        "title": "Russian girl's father detained in Belarus for her anti-Ukraine ...news360.eshttps://news360.es \u203a india \u203a 2023/03/30 \u203a belarus-russ...",
+        "content": "... war in Ukraine, was arrested Thursday in Minsk, the capital of Belarus, after escaping house arrest imposed against him. His lawyer, Dimitri\u00a0...",
+        "size": [
+          1000,
+          667
+        ],
+        "date": "2023:03:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.dailymur.com/detenido-en-bielorrusia-el-padre-de-la-nina-rusa-que-realizo-dibujos-contra-la-guerra-de-ucrania/",
+        "title": "Detenido en Bielorrusia el padre de la ni\u00f1a rusa que realiz\u00f3 ...DailyMurhttps://www.dailymur.com \u203a deteni...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:03:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://vietnamnet.vn/nga-day-lui-cuoc-tan-cong-lon-cua-ukraine-ban-ha-mig-29-va-mi-8-o-donetsk-2127537.html",
+        "title": "Nga \u0111\u1ea9y l\u00f9i cu\u1ed9c t\u1ea5n c\u00f4ng l\u1edbn c\u1ee7a Ukraine, b\u1eafn h\u1ea1 MiG-29 v\u00e0 ...B\u00e1o VietNamNethttps://vietnamnet.vn \u203a Th\u1ebf gi\u1edbi",
+        "content": "",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:04:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://vietnamnet.vn/nga-tap-kich-dien-rong-o-donbass-em-gai-nha-lanh-dao-trieu-tien-len-an-ukraine-2127477.html",
+        "title": "Nga t\u1eadp k\u00edch nhi\u1ec1u \u1edf Donbass, em g\u00e1i \u00f4ng Kim Jong Un l\u00ean ...B\u00e1o VietNamNethttps://vietnamnet.vn \u203a Th\u1ebf gi\u1edbi",
+        "content": "Nga tuy\u00ean b\u1ed1 khi\u1ebfn Ukraine t\u1ed5n th\u1ea5t nhi\u1ec1u binh l\u1ef1c t\u1ea1i Donbass. Em g\u00e1i \u00f4ng Kim Jong Un l\u00ean \u00e1n ch\u00ednh quy\u1ec1n T\u1ed5ng th\u1ed1ng Zelensky.",
+        "size": [
+          868,
+          455
+        ],
+        "date": "2023:04:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elcomercio.com/actualidad/mundo/bielorrusia-extradicion-rusia-padre-nina-dibujos-guerra.html",
+        "title": "Bielorrusia extradita a Rusia al padre de la ni\u00f1a que dibuja ...El Comerciohttps://www.elcomercio.com \u203a mundo",
+        "content": "",
+        "size": [
+          700,
+          391
+        ],
+        "date": "2023:04:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news360.es/ireland/",
+        "title": "Ireland - News360news360.eshttps://news360.es \u203a ireland",
+        "content": "Sudan conflict allows politician facing war crime ... Belarus arrest Russian father over daughter's controversial anti-war Ukraine illustrations.",
+        "size": [
+          1000,
+          667
+        ],
+        "date": "2023:05:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldcrunch.com/focus/ukraine-hero-cities",
+        "title": "Bucha To Bakhmut, Mariupol To Maryinka - World CrunchWorldcrunchhttps://worldcrunch.com \u203a focus \u203a ukraine-hero-cities",
+        "content": "The world has come to know Ukraine's geography through decisive battles and unspeakable war crimes in places like Mariupol, Bucha and now\u00a0...",
+        "size": [
+          2000,
+          1500
+        ],
+        "date": "2023:05:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.vozpopuli.com/opinion/unabomber-cartero-terror.html",
+        "title": "Unabomber, el cartero del terror - Vozp\u00f3puliVozp\u00f3pulihttps://www.vozpopuli.com \u203a opinion",
+        "content": "",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2023:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ucrania-pedira-13054-millones-euros-estados-unidos-2024-financiar-esfuerzo-guerra-20230911134548.html",
+        "title": "Ucrania pedir\u00e1 hasta 13.054 millones de euros a Estados ...Europa Presshttps://www.europapress.es \u203a noticia...",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:09:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.infobae.com/america/mundo/2023/09/15/ucrania-libero-una-localidad-clave-en-la-batalla-por-bakhmut-tras-intensos-combates-con-las-tropas-rusas/",
+        "title": "Ucrania liber\u00f3 una localidad clave en la batalla por Bakhmut ...Infobaehttps://www.infobae.com \u203a america \u203a mundo \u203a 2023/09/15",
+        "content": "",
+        "size": [
+          420,
+          945
+        ],
+        "date": "2023:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.ngcounselling.co.uk/http/esa.animalia-life.club/ni%C3%B1os-soldados-de-al-shabaab",
+        "title": "Ni\u00f1os Soldados De Al Shabaabngcounselling.co.ukhttps://www.ngcounselling.co.uk \u203a ...",
+        "content": "Los ni\u00f1os soldado proliferan en Somalia en plena crisis ... Somalia: 5,000 Child Soldiers Involved in Al-Shabab Conflict, Says U.N. Official\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://cdn.meethk.com/spai/q_lossless+ret_img/http:/e10.homes/soldados-del-ejercito-jah-ep.html",
+        "title": "Soldados Del Ejercito Jah Ep - MeetHK.comMeetHK.comhttps://cdn.meethk.com \u203a e10.homes",
+        "content": "Crisis migratoria | Contingente militar llega para resguardar fronteras con Chile y\u2026 Heridos 7 militares en Le\u00f3n tras volcar un veh\u00edculo\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rand.org/about/people/c/courtney_william.html",
+        "title": "William Courtney - Profile - RAND CorporationRAND Corporationhttps://www.rand.org \u203a About \u203a Policy Experts \u203a C",
+        "content": "Ukraine Crisis Is a Geopolitical Game Changer. Russia's aggression abroad and repression at home have altered the basic assumptions of earlier Western policy.",
+        "size": [
+          375,
+          280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rand.org/pubs/commentary/2023.20.html",
+        "title": "Blog posts from 2023 - RAND CorporationRAND Corporationhttps://www.rand.org \u203a Research & Commentary \u203a Blog",
+        "content": "Whatever may happen in Ukraine or in Russia, things will never be the same. A Russian failure in Ukraine could lead to escalation and a world-changing wider war\u00a0...",
+        "size": [
+          375,
+          280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://saoi.org.ar/?m=in-pictures-one-year-of-war-in-ukraine-tt-QpLNrYTp",
+        "title": "In pictures: One year of war in UkraineSociedad Argentina de Oftalmolog\u00eda Infantilhttps://saoi.org.ar \u203a war gore",
+        "content": "Experience the violent horror of the ancient world battlefield with Total War: ROME II Blood Gore. In pictures: One year of war in Ukraine.",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.volume-demenagement.fr/quelques-astuces-pour-bien-preparer-vos-cartons/?w=russia-invades-ukraine-nova-scotia-wakes-to-a-new-gg-0JVxG1hE",
+        "title": "Russia Invades Ukraine: Nova Scotia Wakes To A New War In ...Maciej jehttps://www.volume-demenagement.fr \u203a quelques-astu...",
+        "content": "Russia invades Ukraine: Nova Scotia wakes to a new war in Europe SaltWire, on Roller w/ Backboard by KappaSize: 46.",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://saoi.org.ar/?m=in-pictures-one-year-of-war-in-ukraine-tt-QpLNrYTp",
+        "title": "In pictures: One year of war in UkraineSociedad Argentina de Oftalmolog\u00eda Infantilhttps://saoi.org.ar \u203a war gore",
+        "content": "Experience the violent horror of the ancient world battlefield with Total War: ROME II Blood Gore. In pictures: One year of war in Ukraine.",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://exercitesportes.com.br/bares-Russia-s-decline-for-the-world-to-see-5917-81004",
+        "title": "Invasion of Ukraine bares Russia's decline for the world to seeExercit Esporteshttps://exercitesportes.com.br \u203a bares-Russia-s-decline-...",
+        "content": "Ukraine latest updates: Ukraine urges China to condemn Russia, Russia- Ukraine war News ... War in Ukraine: Public opinion in the first year of the conflict.",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vardhamangroup.org/?c=russia-ukraine-updates-putin-says-war-was-unleashed-on-ff-ebO4nyuB",
+        "title": "Russia-Ukraine Updates: Putin Says War Was 'unleashed' On ...vardhamangroup.orghttps://vardhamangroup.org \u203a ...",
+        "content": "Russia-Ukraine updates: Putin says war was 'unleashed' on Russia ABC News, [KURT, MARK] on *FREE* shipping on qualifying INVASION OF UKRAINE: The hidden\u00a0...",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://janekagiri.org/index.php/Does-This-Mean-The-Russian-Machine-Breaks-4963-128169",
+        "title": "Does This Mean The Russian Machine Breaks? - janekagiri.orgjanekagiri.orghttps://janekagiri.org \u203a index.php \u203a Does-This-Mean-...",
+        "content": "Russia's tanks in Ukraine have a 'jack-in-the-box' design flaw. And the West has known about it since the Gulf war. Does This Mean The Russian Machine\u00a0...",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldcrunch.com/tag/maryinka",
+        "title": "Maryinka - WorldcrunchWorldcrunchhttps://worldcrunch.com \u203a tag \u203a maryinka",
+        "content": "The world has come to know Ukraine's geography through decisive battles and unspeakable war crimes in places like Mariupol, Bucha and now Bakhmut. We zoom in on\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldcrunch.com/tag/geography",
+        "title": "Geography - WorldcrunchWorldcrunchhttps://worldcrunch.com \u203a tag \u203a geography",
+        "content": "The world has come to know Ukraine's geography through decisive battles and unspeakable war crimes in places like Mariupol, Bucha and now Bakhmut.",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mfkinternational.com/Fight-Vladimir-Putin-Without-Starting-World-War-III-249-70206",
+        "title": "How U.S. Special Forces Can Fight Vladimir Putin Without ...mfkinternational.comhttps://www.mfkinternational.com \u203a Fight-Vladimir-Puti...",
+        "content": "Should Ukraine take the war into Russia? - The Japan Times. How U.S. Special Forces ... Putin calls Ukraine conflict a 'war' for first known time in. Related\u00a0...",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldcrunch.com/tag/bucha-massacre",
+        "title": "Bucha Massacre - WorldcrunchWorldcrunchhttps://worldcrunch.com \u203a tag \u203a bucha-massacre",
+        "content": "The world has come to know Ukraine's geography through decisive battles and unspeakable war crimes in places like Mariupol, Bucha and now Bakhmut.",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hibinezo.com/featurl/?=How-U-S-Special-Forces-Can-Fight-Vladimir-Putin-Without-1185-144910",
+        "title": "How U.S. Special Forces Can Fight Vladimir Putin Without ...hibinezo.comhttps://www.hibinezo.com \u203a featurl",
+        "content": "What Does Russia's War on Ukraine Mean for the International Order. How U.S. ... Putin just escalated his war in Ukraine. Here's your expert guide. How U.S.\u00a0...",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/what-does-ukraine-war-mean-for-us",
+        "title": "What Does Ukraine War Mean For Us - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a what-does-ukrain...",
+        "content": "What does the Ukraine crisis mean for the US? - Economist ... photograph. Where does your country stand on the Russia-Ukraine war ... photograph.",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/did-ukraine-fight-russia-in-ww2",
+        "title": "Did Ukraine Fight Russia In Ww2 Gallery - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a did-ukraine...",
+        "content": "The 20th-Century History Behind Russia's Invasion of Ukraine ... Russia-Ukraine war drives the Army to consider possible ... More.",
+        "size": [
+          1609,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pueblerino.info/dial-international-from-us-to-ukraine",
+        "title": "Dial International From Us To Ukraine - Pu Eble Rinopueblerino.infohttps://pueblerino.info \u203a dial-international-from-us-to-...",
+        "content": "What is Russia's Theory of Victory in Ukraine? - Modern War ... Buy Ukraine Virtual Phone Number in Minutes.",
+        "size": [
+          375,
+          280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/what-is-military-geography-mean",
+        "title": "What Is Military Geography Mean - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a what-is-military-...",
+        "content": " \u00b7 ",
+        "size": [
+          2000,
+          1500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.auburnhtf.org/?c=rusia-ucrania-putin-emprende-una-peligrosa-cruzada-internacional-el-kk-mVEwx4ug",
+        "title": "Rusia Ucrania: Putin Emprende Una Peligrosa Cruzada, 42 ...Auburn Hunger Task Forcehttps://www.auburnhtf.org \u203a ...",
+        "content": "",
+        "size": [
+          1838,
+          1032
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://theobjective.com/internacional/2023-01-03/cumbre-ue-ucrania-kiev/",
+        "title": "La cumbre UE-Ucrania se celebrar\u00e1 el 3 de febrero en Kiev y ...The Objectivehttps://theobjective.com \u203a cumbre-u...",
+        "content": "... Volodimir Zelenski. | Ukraine Presidency (Zuma Press ). THE OBJECTIVE \u00b7 @TheObjective_es. Publicado: 03/01/2023 \u2022 08:49. Compartir; Facebook \u00b7 Twitter\u00a0...",
+        "size": [
+          650,
+          365
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.vozpopuli.com/redaccion/oscar-sainz-de-la-maza",
+        "title": "\u00d3scar Sainz de la Maza. Todos sus art\u00edculos en Vozp\u00f3puliVozp\u00f3pulihttps://www.vozpopuli.com \u203a oscar-...",
+        "content": "... crisis de Taiw\u00e1n? Ayman al-Zawahiri, l\u00edder de Al Qaeda hasta su abatimiento por EEUU en 2022. La doble muerte del yihadista Al-Zawahiri \u00b7 Segunda jornada de la\u00a0...",
+        "size": [
+          1838,
+          1032
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.vozpopuli.com/redaccion/bjimenez/page/11",
+        "title": "Beatriz Jim\u00e9nez N\u00e1cher. Todos sus art\u00edculos en Vozp\u00f3puliVozp\u00f3pulihttps://www.vozpopuli.com \u203a page",
+        "content": "",
+        "size": [
+          1838,
+          1032
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdegipuzkoa.eus/tags/guerra-ucrania/pagina-5/",
+        "title": "Guerra Ucrania - Noticias de GipuzkoaNoticias de Gipuzkoahttps://www.noticiasdegipuzkoa.eus \u203a ...",
+        "content": "",
+        "size": [
+          880,
+          495
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.vozpopuli.com/tag/zelenski/page/3",
+        "title": "Zelenski: \u00daltimas noticias en Vozp\u00f3puliVozp\u00f3pulihttps://www.vozpopuli.com \u203a page",
+        "content": "",
+        "size": [
+          1838,
+          1032
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.diariopanorama.com/tags/2827/conflicto-rusiaucrania",
+        "title": "Conflicto Rusia-Ucrania - Diario PanoramaDiario Panoramahttps://www.diariopanorama.com \u203a ...",
+        "content": "",
+        "size": [
+          371,
+          214
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elcomercio.com/page/51/?s=fiscalia%2F211",
+        "title": "B\u00fasqueda por fiscalia/211 - P\u00e1gina 51 de 2894 - El ComercioEl Comerciohttps://www.elcomercio.com \u203a page",
+        "content": "",
+        "size": [
+          1200,
+          670
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://valentinerepair.com/?q=rusia-ucrania-putin-emprende-una-peligrosa-cruzada-internacional-el-yy-x0jov3UB",
+        "title": "Rusia Ucrania: Putin Emprende Una Peligrosa Cruzada, 45 ...valentinerepair.comhttps://valentinerepair.com \u203a ...",
+        "content": "",
+        "size": [
+          1838,
+          1032
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.47396233677864075
+      },
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.14194320142269135
+      },
+      {
+        "class": "loading_dock",
+        "ioclass": "outdoor",
+        "probability": 0.05127367749810219
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.03633018210530281
+      },
+      {
+        "class": "construction_site",
+        "ioclass": "outdoor",
+        "probability": 0.035178132355213165
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.8305445909500122
+      },
+      {
+        "class": "moist",
+        "score": 0.7234179973602295
+      },
+      {
+        "class": "rugged",
+        "score": 0.6897206902503967
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.6749310493469238
+      },
+      {
+        "class": "season/winter",
+        "score": 0.655105710029602
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.6322978734970093
+      },
+      {
+        "class": "ice",
+        "score": 0.6161795854568481
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5455247759819031
+      },
+      {
+        "class": "dirty",
+        "score": 0.5235247611999512
+      },
+      {
+        "class": "bright",
+        "score": 0.5222917199134827
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1195,
+        "pred_lat": 36.89305114746094,
+        "pred_long": 73.59337615966797
+      },
+      "middle": {
+        "pred_class": 2936,
+        "pred_lat": 34.42156982421875,
+        "pred_long": 70.3173599243164
+      },
+      "fine": {
+        "pred_class": 4343,
+        "pred_lat": 31.521060943603516,
+        "pred_long": -9.757411003112793
+      },
+      "hierarchy": {
+        "pred_class": 3535,
+        "pred_lat": 34.389503479003906,
+        "pred_long": 69.0102310180664
+      },
+      "country": {
+        "city": "Essaouira",
+        "state": "",
+        "country": "Morocco"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 31.528997,
+    "longitude": -9.688995,
+    "generationtime_ms": 0.16200542449951172,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 5.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2022-12-13T00:00",
+        "2022-12-13T01:00",
+        "2022-12-13T02:00",
+        "2022-12-13T03:00",
+        "2022-12-13T04:00",
+        "2022-12-13T05:00",
+        "2022-12-13T06:00",
+        "2022-12-13T07:00",
+        "2022-12-13T08:00",
+        "2022-12-13T09:00",
+        "2022-12-13T10:00",
+        "2022-12-13T11:00",
+        "2022-12-13T12:00",
+        "2022-12-13T13:00",
+        "2022-12-13T14:00",
+        "2022-12-13T15:00",
+        "2022-12-13T16:00",
+        "2022-12-13T17:00",
+        "2022-12-13T18:00",
+        "2022-12-13T19:00",
+        "2022-12-13T20:00",
+        "2022-12-13T21:00",
+        "2022-12-13T22:00",
+        "2022-12-13T23:00",
+        "2022-12-14T00:00",
+        "2022-12-14T01:00",
+        "2022-12-14T02:00",
+        "2022-12-14T03:00",
+        "2022-12-14T04:00",
+        "2022-12-14T05:00",
+        "2022-12-14T06:00",
+        "2022-12-14T07:00",
+        "2022-12-14T08:00",
+        "2022-12-14T09:00",
+        "2022-12-14T10:00",
+        "2022-12-14T11:00",
+        "2022-12-14T12:00",
+        "2022-12-14T13:00",
+        "2022-12-14T14:00",
+        "2022-12-14T15:00",
+        "2022-12-14T16:00",
+        "2022-12-14T17:00",
+        "2022-12-14T18:00",
+        "2022-12-14T19:00",
+        "2022-12-14T20:00",
+        "2022-12-14T21:00",
+        "2022-12-14T22:00",
+        "2022-12-14T23:00"
+      ],
+      "apparent_temperature": [
+        17.3,
+        17.3,
+        17.5,
+        17.6,
+        17.0,
+        17.1,
+        16.6,
+        16.3,
+        17.1,
+        19.2,
+        20.9,
+        22.1,
+        24.2,
+        24.1,
+        23.6,
+        23.1,
+        22.7,
+        21.6,
+        20.4,
+        19.8,
+        19.6,
+        19.4,
+        19.3,
+        19.1,
+        19.3,
+        18.9,
+        18.7,
+        18.6,
+        18.3,
+        18.1,
+        18.1,
+        18.0,
+        18.0,
+        19.2,
+        20.8,
+        21.1,
+        21.1,
+        20.4,
+        19.0,
+        16.3,
+        16.4,
+        16.7,
+        17.2,
+        18.7,
+        17.9,
+        17.4,
+        16.6,
+        16.5
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        10.4,
+        9.3,
+        3.6,
+        1.5,
+        0.1,
+        0.4,
+        0.1,
+        0.3,
+        0.1
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        51,
+        65,
+        65,
+        63,
+        61,
+        51,
+        51,
+        51,
+        51,
+        51
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

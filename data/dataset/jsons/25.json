@@ -1,0 +1,2861 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 101,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 8,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 101,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                1,
+                1,
+                101,
+                8,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 84,
+            "percentage": 51.21951219512195
+          },
+          "Spanish; Castilian": {
+            "count": 38,
+            "percentage": 23.170731707317074
+          },
+          "French": {
+            "count": 17,
+            "percentage": 10.365853658536585
+          },
+          "Dutch; Flemish": {
+            "count": 6,
+            "percentage": 3.658536585365854
+          },
+          "Catalan; Valencian": {
+            "count": 5,
+            "percentage": 3.048780487804878
+          },
+          "Finnish": {
+            "count": 3,
+            "percentage": 1.829268292682927
+          },
+          "Chinese": {
+            "count": 3,
+            "percentage": 1.829268292682927
+          },
+          "Portuguese": {
+            "count": 2,
+            "percentage": 1.2195121951219512
+          },
+          "Turkish": {
+            "count": 2,
+            "percentage": 1.2195121951219512
+          },
+          "Belarusian": {
+            "count": 1,
+            "percentage": 0.6097560975609756
+          },
+          "Danish": {
+            "count": 1,
+            "percentage": 0.6097560975609756
+          },
+          "German": {
+            "count": 1,
+            "percentage": 0.6097560975609756
+          },
+          "Persian": {
+            "count": 1,
+            "percentage": 0.6097560975609756
+          }
+        },
+        "total": 164,
+        "plot": {
+          "labels": [
+            "English",
+            "Spanish; Castilian",
+            "French",
+            "Dutch; Flemish",
+            "others"
+          ],
+          "data": [
+            51,
+            23,
+            10,
+            3,
+            13
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "es",
+        "link": "https://elcomercio.pe/mundo/oriente-medio/guerra-israel-hamas-en-gaza-estado-judio-investiga-denuncias-de-agresiones-sexuales-cometidas-por-el-movimiento-islamico-el-7-de-octubre-david-katz-palestina-yaakov-shabtai-cpi-ultimas-noticia/",
+        "title": "Israel investiga denuncias de agresiones sexuales cometidas ...El Comerciohttps://elcomercio.pe \u203a oriente-medio",
+        "content": "",
+        "size": [
+          1200,
+          1200
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "nl",
+        "link": "https://www.telegraaf.nl/video/1869093/dit-zijn-de-zeldzame-dino-pootafdrukken",
+        "title": "Dit zijn de zeldzame dino-pootafdrukken | Video | Telegraaf.nlTelegraafhttps://www.telegraaf.nl \u203a video \u203a d...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2018:04:03 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 47,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "nl",
+        "link": "https://www.telegraaf.nl/video/1869093/dit-zijn-de-zeldzame-dino-pootafdrukken",
+        "title": "Dit zijn de zeldzame dino-pootafdrukken | Video | Telegraaf.nlTelegraafhttps://www.telegraaf.nl \u203a video \u203a d...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2018:04:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.telegraaf.nl/video/1869093/dit-zijn-de-zeldzame-dino-pootafdrukken",
+        "title": "Dit zijn de zeldzame dino-pootafdrukken | Video | Telegraaf.nlTelegraafhttps://www.telegraaf.nl \u203a video \u203a d...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2018:04:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/What-if-Israel-decided-to-invade-Gaza-and-execute-the-Hamas-officials",
+        "title": "What if Israel decided to invade Gaza and execute the Hamas ...Quorahttps://www.quora.com \u203a What-if-Israel-decided-to-inva...",
+        "content": "If Hamas starts executing any of the kidnapped victims, should Israel ... women from Israel & paraded her body naked & no body stopped them. The\u00a0...",
+        "size": [
+          602,
+          387
+        ],
+        "date": "2020:06:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Why-does-Israel-kill-innocent-civilians-children-and-women-in-Gaza",
+        "title": "Why does Israel kill innocent civilians, children, and women in ...Quorahttps://www.quora.com \u203a Why-does-Israel-kill-innocent-...",
+        "content": "40,000 civilians were killed, and 17,000 \u201cdisappeared\u201d; likely captured, tortured, and executed in Assad's secret jails. The total death\u00a0...",
+        "size": [
+          589,
+          362
+        ],
+        "date": "2021:05:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.microheadline.com/info/yvqt28apvmmc2m8il6j6xgamgt4iz9ks?v=5f3e82fb186c20f1e60cafc5fd75560b",
+        "title": "\u4fe1\u5fc3\u5341\u8db3\uff01\u6cfd\u8fde\u65af\u57fa\u53d1\u89c6\u9891\u6c47\u62a5\u603b\u7ed3\u6b27\u6d32\u884c\u6210\u679cMicroHeadlinehttps://m.microheadline.com \u203a info",
+        "content": "",
+        "size": [
+          700,
+          438
+        ],
+        "date": "2023:05:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.telegraaf.nl/video/1418924473/een-vliegende-taxi-of-je-herinneringen-opslaan-in-de-cloud-het-is-dichterbij-dan-je-denkt",
+        "title": "Een vliegende taxi of je herinneringen opslaan in de cloudTelegraafhttps://www.telegraaf.nl \u203a video \u203a e...",
+        "content": "Een vliegende taxi of je herinneringen opslaan in de cloud: het is dichterbij dan je denkt \u00b7 Isra\u00ebl slaat hard toe in Gazastrook \u00b7 'Koeman tekent\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:06:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.microheadline.com/info/f57g8uee6uz8zkgfamp13wtu9pe4isei?v=1569babaf14eb6ad84e4279912952200",
+        "title": "\u9996\u4e2a\u201c\u5168\u56fd\u751f\u6001\u65e5\u201d\u6765\u4e86\uff0c\u4e3a\u4f55\u662f8\u670815\u65e5\uff1f - MicroHeadlineMicroHeadlinehttps://m.microheadline.com \u203a info",
+        "content": "",
+        "size": [
+          700,
+          437
+        ],
+        "date": "2023:08:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sotwe.com/trends/Israel?date=20231001-12",
+        "title": "Israel - Twitter Trending Hashtags, Users, Topics, and TweetsSotwehttps://www.sotwe.com \u203a trends \u203a Israel",
+        "content": "... girl in the world. She has miraculously survived Israel ruthless ... kidnapped on October 7th. #BringThemBackNow. EllaTravelsLove's tweet\u00a0...",
+        "size": [
+          1064,
+          709
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://goodwordnews.com/taylor-swift-will-be-joined-by-travis-kelce-on-the-international-leg-of-her-eras-tour-report/",
+        "title": "Taylor Swift will be joined by Travis Kelce on the international ...Good Word Newshttps://goodwordnews.com \u203a News",
+        "content": "palestinian militants kidnap israeli woman \u00b7 New Gaza War Against Israel Highlights False \u201cConcept\u201d. October 7, 2023. GettyImages 1697757747\u00a0...",
+        "size": [
+          390,
+          220
+        ],
+        "date": "2023:10:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elperiodico.com/es/fotos/internacional/guerra-israel-gaza-fotos-93047925",
+        "title": "Guerra entre Israel y Gaza | FOTOS - El Peri\u00f3dicoEl Peri\u00f3dicohttps://www.elperiodico.com \u203a Fotos \u203a Internacional",
+        "content": "Agentes de la polic\u00eda de Israel junto a v\u00edctimas muertas a mano de militantes palestinos en Sderot, Israel. ... Woman Cambalache Iberpisos.",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elperiodico.com/es/fotos/internacional/guerra-israel-gaza-fotos-93047925",
+        "title": "Guerra entre Israel y Gaza | FOTOS - El Peri\u00f3dicoEl Peri\u00f3dicohttps://www.elperiodico.com \u203a Fotos \u203a Internacional",
+        "content": "Agentes de la polic\u00eda de Israel junto a v\u00edctimas muertas a mano de militantes palestinos en Sderot, Israel. ... Woman Cambalache Iberpisos.",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elcomercio.pe/mundo/hamas-tras-ataque-a-israel-confirmamos-el-secuestro-de-decenas-de-personas-entre-ellos-oficiales-y-soldados-guerra-en-israel-gaza-ultimas-noticia/",
+        "title": "Hamas tras ataque a Israel: Confirmamos el secuestro de ...El Comerciohttps://elcomercio.pe \u203a mundo \u203a ha...",
+        "content": "",
+        "size": [
+          1200,
+          1200
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.dn.pt/internacional/israel-nao-tem-apenas-o-direito---mas-o-dever---de-defender-os-seus-cidadaos-e-a-sua-seguranca--17128649.html",
+        "title": "\u2033Israel n\u00e3o tem apenas o direito - mas o dever - de defender ...Di\u00e1rio de Not\u00edciashttps://www.dn.pt \u203a internacional \u203a israel-nao-tem-ape...",
+        "content": "",
+        "size": [
+          1400,
+          933
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eluniversal.com.mx/mundo/guerra-entre-israel-y-hamas-confirman-que-hay-rehenes-y-prisioneros/",
+        "title": "Guerra entre Israel y Hamas: confirman que hay \"rehenes y ...El Universalhttps://www.eluniversal.com.mx \u203a g...",
+        "content": "Hamas ha tomado \u201crehenes y prisioneros de guerra\u201d, dijo el portavoz de las Fuerzas de Defensa de Israel, general de brigada Daniel Hagari.",
+        "size": [
+          980,
+          528
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www-nocache.tvanouvelles.ca/2023/10/07/israel-et-gaza-en-guerre-il-reconnait-sa-femme-et-ses-filles-enlevees-dans-une-video-virale",
+        "title": "Isra\u00ebl et Gaza en guerre: Il reconna\u00eet sa femme et ses filles ...TVA Nouvelleshttps://www-nocache.tvanouvelles.ca \u203a ...",
+        "content": "... Isra\u00ebl et Gaza en guerre: Il reconn... Isra\u00ebl et Gaza en guerre: Il ... wife, mother-in-law, and his 2 children\u2014toddlers\u2014being abducted by\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/philippines/tensions-rise-as-hamas-attacks-israel-filipino-migrant-workers-on-high-alert/",
+        "title": "Hamas Attacks Israel: Concerns for Filipino Migrant WorkersBNN Breakinghttps://bnn.network \u203a BNN Newsroom",
+        "content": "The surprise attack by Hamas on Israel has heightened tensions, prompted international reactions, and raised concerns for Filipinos in\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/israel/hamas-kidnappings-spark-international-outrage-amidst-israeli-palestinian-conflict/",
+        "title": "Kidnappings by Hamas Amidst Israeli-Palestinian ConflictBNN Breakinghttps://bnn.network \u203a ... \u203a Israel \u203a Palestine",
+        "content": "The Hamas militant group, according to Israeli sources, has kidnapped several Israelis, including soldiers, during a recent attack. This has\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.naiz.eus/eu/info/noticia/20231007/el-ejercito-israeli-declara-el-estado-de-guerra-tras-el-lanzamiento-masivo-de-cohetes-desde-gaza",
+        "title": "Israel declara el estado de guerra tras una ola de ataques de ...naiz:https://www.naiz.eus \u203a info \u203a noticia",
+        "content": "Israel ha declarado el estado de guerra tras el lanzamiento de miles de cohetes desde Gaza y la infiltraci\u00f3n de milicianos palestinos en 50\u00a0...",
+        "size": [
+          936,
+          624
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www-nocache.tvanouvelles.ca/2023/10/07/israel-et-gaza-en-guerre-il-reconnait-sa-femme-et-ses-filles-enlevees-dans-une-video-virale",
+        "title": "Isra\u00ebl et Gaza en guerre: Il reconna\u00eet sa femme et ses filles ...TVA Nouvelleshttps://www-nocache.tvanouvelles.ca \u203a ...",
+        "content": "... Isra\u00ebl et Gaza en guerre: Il reconn... Isra\u00ebl et Gaza en guerre: Il ... wife, mother-in-law, and his 2 children\u2014toddlers\u2014being abducted by\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://jornadaonline.com/internacional/las-fotos-y-videos-del-brutal-ataque-de-terrositas-de-hamas-en-el-sur-de-israel-202310710340",
+        "title": "Las fotos y videos del brutal ataque de terrositas de Hamas en ...jornadaonline.comhttps://jornadaonline.com \u203a las-foto...",
+        "content": "Israel. Ataque en Ashkelon, Israel, originado desde la Franja de Gaza. Israel declar\u00f3 el estado de guerra el pasado s\u00e1bado en respuesta a una\u00a0...",
+        "size": [
+          807,
+          538
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ca",
+        "link": "https://www.elperiodico.cat/ca/fotos/internacional/guerra-entre-israel-y-gaza-93047925",
+        "title": "Guerra entre Israel y Gaza - elPeriodico.catelPeriodico.cathttps://www.elperiodico.cat \u203a Fotos \u203a Internacional",
+        "content": "Mira les millors fotos de Guerra entre Israel y Gaza seleccionades per l'equip d'edici\u00f3 d'imatges d'EL PERI\u00d3DICO.",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dnyuz.com/2023/10/07/new-gaza-war-on-israel-highlights-a-false-conception/",
+        "title": "New Gaza War on Israel Highlights a False 'Conception' - DNyuzDNyuzhttps://dnyuz.com \u203a News",
+        "content": "... arrested in murder investigation \u00b7 November 14, 2023 \u00b7 3 People Killed and 15 ... woman found guilty of killing friend with eye drops \u00b7 November\u00a0...",
+        "size": [
+          2500,
+          1667
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://jornadaonline.com/internacional/las-fotos-del-brutal-ataque-de-terroristas-de-hamas-en-el-sur-de-israel-202310710340",
+        "title": "Las fotos del brutal ataque de terroristas de Hamas en el sur ...jornadaonline.comhttps://jornadaonline.com \u203a las-foto...",
+        "content": "Los enfrentamientos armados y los ataques con cohetes han dejado un saldo de 22 fallecidos en Israel y 545 personas hospitalizadas, mientras que\u00a0...",
+        "size": [
+          807,
+          538
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.la-croix.com/Israel-Gaza-nouveau-guerre-offensive-surprise-Hamas-2023-10-07-1301285903",
+        "title": "Isra\u00ebl et Gaza en guerre apr\u00e8s une offensive surprise du HamasLa Croixhttps://www.la-croix.com \u203a Israel-G...",
+        "content": "De la fum\u00e9e du c\u00f4t\u00e9 isra\u00e9lien de la fronti\u00e8re avec Gaza apr\u00e8s des tirs de roquettes depuis la bande de Gaza vers Isra\u00ebl, le 7 octobre 2023\u00a0...",
+        "size": [
+          729,
+          486
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.tvanouvelles.ca/2023/10/07/tensions-israel-gaza-moscou-appelle-a-un-cessez-le-feu-immediat",
+        "title": "Tensions Isra\u00ebl-Gaza: Moscou appelle \u00e0 un \u00abcessez-le-feu ...TVA Nouvelleshttps://www.tvanouvelles.ca \u203a tensio...",
+        "content": "Tensions Isra\u00ebl-Gaza: Moscou appelle \u00e0 un \u00abcessez-le-feu imm\u00e9diat\u00bb ... La Russie a appel\u00e9 samedi les Isra\u00e9liens et les Palestiniens \u00e0 un \u00abcessez-\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/lees-hier-het-liveblog-over-de-aanval-op-israel-van-zaterdag-7-oktober-terug~bc78205a/",
+        "title": "Lees hier het liveblog over de aanval op Isra\u00ebl van zaterdag 7 ...de Volkskranthttps://www.volkskrant.nl \u203a nieuws-...",
+        "content": "Vanuit de Gazastrook zijn vandaag ongeveer 3.500 raketten op Isra\u00ebl afgevuurd. Zeker tientallen Palestijnse militanten staken de grens over\u00a0...",
+        "size": [
+          980,
+          653
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.courrier-picard.fr/id455533/article/2023-10-07/israel-et-gaza-en-guerre-apres-une-offensive-surprise-du-hamas",
+        "title": "Isra\u00ebl et Gaza en guerre apr\u00e8s une offensive surprise du HamasLa une - Courrier picardhttps://www.courrier-picard.fr \u203a isra...",
+        "content": "... Israel. Des journalistes de l'AFP ont vu des Palestiniens arm\u00e9s r\u00e9unis autour d'un tank isra\u00e9lien en feu et d'autres conduisant un Humvee\u00a0...",
+        "size": [
+          856,
+          482
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lanouvellerepublique.fr/france-monde/israel-et-gaza-de-nouveau-en-guerre-apres-une-offensive-surprise-du-hamas",
+        "title": "Isra\u00ebl et Gaza en guerre apr\u00e8s une offensive surprise du Hamaslanouvellerepublique.frhttps://www.lanouvellerepublique.fr \u203a ...",
+        "content": "De la fum\u00e9e du c\u00f4t\u00e9 isra\u00e9lien de la fronti\u00e8re avec Gaza apr\u00e8s des tirs de roquettes depuis la bande de Gaza vers Isra\u00ebl, le 7 octobre 2023",
+        "size": [
+          647,
+          431
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "http://www.kamonline.com.ar/articulo/israel-declara-estado-de-guerra-en-vivo-ultimas-noticias-tras-los-ataques-de-hamas-en-gaza.php",
+        "title": "Israel declara estado de guerra, en vivo: \u00faltimas noticias tras ...kamonline.com.arhttp://www.kamonline.com.ar \u203a isra...",
+        "content": "... Israel y la Franja de Gaza. Hamas Al-Qassam have released footage of captured Israeli soldiers from their infiltration earlier today. pic\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "http://www.kamonline.com.ar/articulo/israel-declara-estado-de-guerra-en-vivo-ultimas-noticias-tras-los-ataques-de-hamas-en-gaza.php",
+        "title": "Israel declara estado de guerra, en vivo: \u00faltimas noticias tras ...kamonline.com.arhttp://www.kamonline.com.ar \u203a isra...",
+        "content": "... Israel y la Franja de Gaza. Hamas Al-Qassam have released footage of captured Israeli soldiers from their infiltration earlier today. pic\u00a0...",
+        "size": [
+          5000,
+          3333
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "da",
+        "link": "https://www.berlingske.dk/internationalt/i-2014-blev-tre-maend-bortfoert-det-udloeste-en-maanedlang-krig-nu",
+        "title": "I 2014 blev tre m\u00e6nd bortf\u00f8rt. Det udl\u00f8ste en m\u00e5nedlang krig ...Berlingskehttps://www.berlingske.dk \u203a internationalt \u203a i-2014-blev-...",
+        "content": "Nu kan op mod 57 israelere v\u00e6re trukket med ind i Gaza. Konflikten mellem Hamas og Israel er igen brudt ud i lys luge. Det er krig, det her. Det\u00a0...",
+        "size": [
+          1230,
+          692
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lexpress.fr/monde/israel-et-gaza-de-nouveau-en-guerre-apres-une-offensive-surprise-du-hamas-SHSXHEVNQZBTXFCCQ2TKFBMW6Q/",
+        "title": "Isra\u00ebl et Gaza en guerre apr\u00e8s une offensive surprise du HamasL'Expresshttps://www.lexpress.fr \u203a monde",
+        "content": "Sd\u00e9rot (Isra\u00ebl) - Isra\u00ebl et la bande de Gaza sont en guerre et les morts ... Israel. J'ai vu beaucoup de corps, de terroristes et de civils\u00a0...",
+        "size": [
+          883,
+          589
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.courrier-picard.fr/id455571/article/2023-10-07/israel-et-gaza-en-guerre-apres-une-offensive-surprise-du-hamas",
+        "title": "Isra\u00ebl et Gaza en guerre apr\u00e8s une offensive surprise du HamasLa une - Courrier picardhttps://www.courrier-picard.fr \u203a isra...",
+        "content": "L'arm\u00e9e isra\u00e9lienne a compt\u00e9 plus de 3.000 tirs de roquettes sur Isra\u00ebl. Beaucoup ont \u00e9t\u00e9 intercept\u00e9es par la d\u00e9fense antia\u00e9rienne. Le conflit a\u00a0...",
+        "size": [
+          856,
+          482
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.journaldequebec.com/2023/10/07/israel-et-gaza-en-guerre-il-reconnait-sa-femme-et-ses-filles-enlevees-dans-une-video-virale",
+        "title": "Isra\u00ebl et Gaza en guerre: Il reconna\u00eet sa femme et ses filles ...Le Journal de Qu\u00e9bechttps://www.journaldequebec.com \u203a ...",
+        "content": "Isra\u00ebl et Gaza en guerre: Il reconna\u00eet sa femme et ses filles enlev\u00e9es ... wife, mother-in-law, and his 2 children\u2014toddlers\u2014being abducted by\u00a0...",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://goodwordnews.com/new-gaza-war-against-israel-highlights-false-concept/",
+        "title": "New Gaza War Against Israel Highlights False \u201cConcept\u201dGood Word Newshttps://goodwordnews.com \u203a News",
+        "content": "Palestinian activists surround a truck apparently carrying a captured Israeli woman in Khan Yunis in the southern Gaza Strip on October 7.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsweek.com/new-gaza-war-israel-highlights-false-conception-opinion-1832890",
+        "title": "New Gaza War on Israel Highlights a False 'Conception'Newsweekhttps://www.newsweek.com \u203a ... \u203a Israel at War",
+        "content": "Palestinian militants surround a truck reportedly carrying a captured Israeli woman, in Khan Yunis in the southern Gaza Strip, on Oct. 7\u00a0...",
+        "size": [
+          1600,
+          1200
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breitbart.com/middle-east/2023/10/07/palestinian-terrorists-kidnap-kill-israeli-women-and-children/",
+        "title": "Palestinian Terrorists Kidnap, Kill Israeli Women and ChildrenBreitbarthttps://www.breitbart.com \u203a Middle East \u203a 2023/10/07",
+        "content": "... Israel and dragging at least 50, including women and children, to Gaza. ... Palestinian militants transport a reportedly captured Israeli woman\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/What-was-the-significance-of-the-Hamas-attack-on-Israel-near-the-Gaza-border",
+        "title": "What was the significance of the Hamas attack on Israel near ...Quorahttps://www.quora.com \u203a What-was-the-significance-of-t...",
+        "content": "If someone broke into your house and killed your parents, beheaded your wife, gang raped and kidnapped your daughter and burned your house to\u00a0...",
+        "size": [
+          602,
+          387
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thetimes.co.uk/article/latest-news-israel-attack-gaza-hamas-rocket-s3cjzfrpm",
+        "title": "Hundreds dead on both sides as Netanyahu says Israel is at warThe Timeshttps://www.thetimes.co.uk \u203a article",
+        "content": "Palestinians surround a truck said to be carrying a captured\u00a0...",
+        "size": [
+          618,
+          412
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://marketfud.com/palestinian-terrorists-kidnap-kill-israeli-women-and-children/",
+        "title": "Palestinian Terrorists Kidnap, Kill Israeli Women and Childrenmarketfud.comhttps://marketfud.com \u203a palestinian-terrorists-kidnap-k...",
+        "content": "Palestinian militants transport a reportedly captured Israeli woman by motorcycle, in Khan Yunis in the southern Gaza Strip, on October 7, 2023.",
+        "size": [
+          640,
+          335
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldtimetodays.com/new-gaza-war-against-israel-highlights-a-false-imagination/",
+        "title": "New Gaza War Against Israel Highlights a False \u201cImagination\u201dWorldtimetodayshttps://worldtimetodays.com \u203a News",
+        "content": "Palestinian militants surround a truck allegedly carrying a captured Israeli woman in Khan Yunis in the southern Gaza Strip on October 7.",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://goadnews.com/new-gaza-war-against-israel-highlights-false-concept/",
+        "title": "New Gaza War Against Israel Highlights False \u201cConcept\u201dGoad Newshttps://goadnews.com \u203a News \u203a USA news",
+        "content": "TEL AVIV, Israel _ Israelis ... Palestinian activists surround a truck apparently carrying a captured Israeli woman in Khan Yunis in the southern\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dnyuz.com/2023/10/07/palestinian-terrorists-kidnap-kill-israeli-women-and-children/",
+        "title": "Palestinian Terrorists Kidnap, Kill Israeli Women and ChildrenDNyuzhttps://dnyuz.com \u203a News",
+        "content": "The sight of women \u2014 and children \u2014 being abducted, killed, and abused will not soon be forgotten by Israelis \u2014 and will likely fuel public\u00a0...",
+        "size": [
+          640,
+          335
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://24newsrecorder.com/world/312458?amp",
+        "title": "Where are the hostages that Hamas took to Gaza and what ...24 News Recorderhttp://24newsrecorder.com \u203a world \u203a amp",
+        "content": "Another Israeli parent told CNN that He suspects that his wife and daughters may have been kidnapped while visiting Nir Oz.. He said he\u00a0...",
+        "size": [
+          980,
+          528
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://goadnews.com/palestinian-terrorists-kidnap-and-kill-israeli-women-and-children/",
+        "title": "Palestinian terrorists kidnap and kill Israeli women and childrenGoad Newshttps://goadnews.com \u203a News \u203a USA news",
+        "content": "Palestinian terrorists captured dozens of Israeli civilian hostages on Saturday, holding some in Israel and dragging at least 50,\u00a0...",
+        "size": [
+          640,
+          335
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.telegraph.co.uk/world-news/2023/10/07/israeli-civilian-military-hostages-gaza/",
+        "title": "Dozens of Israeli civilian and military hostages taken to GazaThe Telegraphhttps://www.telegraph.co.uk \u203a world-news \u203a 2023/10/07",
+        "content": "Dozens of Israeli hostages including elderly women and soldiers taken to Gaza. Captures limit IDF's ability to respond to the Hamas attack and\u00a0...",
+        "size": [
+          2500,
+          1563
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elperuano.pe/noticia/224941-hamas-amenaza-matar-a-rehenes-en-respuesta-a-bombardeos-israelies-contra-gaza",
+        "title": "Ham\u00e1s amenaza matar a rehenes en respuesta ... - El PeruanoEl Peruanohttps://www.elperuano.pe \u203a noticia",
+        "content": "... s\u00e1bado en el primer d\u00eda de su in\u00e9dita ofensiva contra Israel, si el Estado jud\u00edo mantiene sus bombardeos contra la Franja de Gaza.",
+        "size": [
+          760,
+          507
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.france24.com/en/live-news/20231008-israel-battles-hamas-as-pm-warns-of-long-and-difficult-war",
+        "title": "Israel, Gaza reel as death toll soars above 1,100 in war with ...France 24https://www.france24.com \u203a France 24 \u203a Live news",
+        "content": "",
+        "size": [
+          2480,
+          1653
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.assahifa.com/english/middle-east/dozens-of-israeli-civilians-soldiers-being-held-hostage-by-hamas-israeli-army/",
+        "title": "Dozens of Israeli civilians, soldiers being held hostage by ...\u0627\u0644\u0635\u062d\u064a\u0641\u0629https://www.assahifa.com \u203a english \u203a middle-east \u203a do...",
+        "content": "It said it fired rockets and captured many Israelis. Ad. In turn, the Israeli army initiated Operation Swords of Iron against Hamas in the\u00a0...",
+        "size": [
+          720,
+          445
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.naiz.eus/eu/info/noticia/20231008/israel-bombardea-gaza-con-intensidad-y-sigue-librando-combates-contra-las-milicias-palestinas",
+        "title": "Israel contin\u00faa bombardeando Gaza por la noche y la AP pide ...naiz:https://www.naiz.eus \u203a info \u203a noticia",
+        "content": "Israel ha continuado bombardeando Gaza la noche del domingo al lunes y las primeras informaciones hablan de decenas de v\u00edctimas m\u00e1s q...",
+        "size": [
+          936,
+          624
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.naiz.eus/en/info/noticia/20231008/israel-bombardea-gaza-con-intensidad-y-sigue-librando-combates-contra-las-milicias-palestinas",
+        "title": "Israel contin\u00faa bombardeando Gaza por la noche y la AP pide ...naiz:https://www.naiz.eus \u203a info \u203a noticia",
+        "content": "Israel ha continuado bombardeando Gaza la noche del domingo al lunes y las primeras informaciones hablan de decenas de v\u00edctimas m\u00e1s q...",
+        "size": [
+          936,
+          624
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.globovision.com/internacional/12262/israel-pide-a-egipto-que-interceda-para-que-hamas-entregue-los-secuestrados",
+        "title": "Israel pide a Egipto que interceda para que Ham\u00e1s entregue ...Globovisionhttps://www.globovision.com \u203a isra...",
+        "content": "Israel pidi\u00f3 a Egipto, principal mediador entre Palestina y el Estado jud\u00edo, que interceda y ayude para negociar la liberaci\u00f3n de los\u00a0...",
+        "size": [
+          900,
+          506
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://noticiassin.com/israel-pide-a-egipto-que-interceda-para-que-hamas-entregue-los-secuestrados-1514164/",
+        "title": "Israel pide a Egipto que interceda para que Ham\u00e1s entregue ...Noticias SINhttps://noticiassin.com \u203a israel-pide-...",
+        "content": "EL CAIRO.- Israel ha pedido a Egipto, principal mediador entre Palestina y el Estado jud\u00edo, que interceda y ayude para negociar la\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.tvn-2.com/mundo/medio-oriente/alemanes-norteamericanos-secuestrados-hamas_1_2083553.html",
+        "title": "Ataque Israel: Varios alemanes y norteamericanos entre los ...TVN Noticiashttps://www.tvn-2.com \u203a mundo \u203a a...",
+        "content": "",
+        "size": [
+          1600,
+          900
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://goodwordnews.com/palestinian-terrorists-kidnap-and-kill-israeli-women-and-children/",
+        "title": "Palestinian terrorists kidnap and kill Israeli women and childrenGood Word Newshttps://goodwordnews.com \u203a News",
+        "content": "Palestinian terrorists captured dozens of Israeli civilian hostages on Saturday, holding some in Israel and dragging at least 50,\u00a0...",
+        "size": [
+          640,
+          335
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.naiz.eus/eu/info/noticia/20231008/israel-bombardea-gaza-con-intensidad-y-sigue-librando-combates-contra-las-milicias-palestinas",
+        "title": "Israel contin\u00faa bombardeando Gaza por la noche y la AP pide ...naiz:https://www.naiz.eus \u203a info \u203a noticia",
+        "content": "Israel ha continuado bombardeando Gaza la noche del domingo al lunes y las primeras informaciones hablan de decenas de v\u00edctimas m\u00e1s q...",
+        "size": [
+          936,
+          624
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rfi.fr/en/international-news/20231008-israel-battles-hamas-as-pm-warns-of-long-and-difficult-war",
+        "title": "Israel, Gaza reel as death toll soars above 1,100 in war ... - RFIRFIhttps://www.rfi.fr \u203a RFI \u203a Live news",
+        "content": "",
+        "size": [
+          2480,
+          1653
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/09/white-house-slammed-for-hosting-bbq-with-live-band-as-war-rages-in-israel/?jw_start=%7Bseek_to_second_number%7D",
+        "title": "White House slammed for hosting BBQ with live band as war ...New York Posthttps://nypost.com \u203a 2023/10/09 \u203a white-house-slamm...",
+        "content": "... captured Israeli woman, in 4. Graphic content / Palestinian militants ... israel \u00b7 Israel war 2023 \u00b7 joe biden \u00b7 palestine \u00b7 white house \u00b7 10/9/23.",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.diarioconvos.com/2023/10/09/los-rehenes-tomados-por-hamas-estarian-por-todo-gaza-y-se-complica-el-rescate-de-israel/",
+        "title": "Los rehenes tomados por Hamas estar\u00edan por todo Gaza y se ...Diario Con Voshttps://www.diarioconvos.com \u203a los...",
+        "content": "Israel enfrenta un problema en su estrategia para rescatar a los rehenes que Hamas tiene secuestrados en Gaza.",
+        "size": [
+          828,
+          548
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://facundoquiroga.com/guerra-en-israel-hay-amenazas-de-atacar-a-judios-en-otros-paises-advierten/",
+        "title": "Guerra en Israel: \"Hay amenazas de atacar a jud\u00edos en otros ...Radio Facundo Quirogahttps://facundoquiroga.com \u203a guerr...",
+        "content": "",
+        "size": [
+          218,
+          150
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.sudouest.fr/international/moyen-orient/israel/israel-en-guerre-la-bande-de-gaza-assiegee-le-hamas-menace-d-executer-les-otages-17005179.php",
+        "title": "Isra\u00ebl en guerre : la bande de Gaza assi\u00e9g\u00e9e, le Hamas ...Sud Ouesthttps://www.sudouest.fr \u203a ... \u203a Isra\u00ebl",
+        "content": "Isra\u00ebl a coup\u00e9 l'\u00e9lectricit\u00e9, le gaz et l'eau dans la bande de Gaza. Et mis le si\u00e8ge. Le Hamas promet d'ex\u00e9cuter des otages \u00e0 chaque raid\u00a0...",
+        "size": [
+          220,
+          110
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.habarizacomores.com/2023/10/guerre-israel-palestine-plus-de-700.html",
+        "title": "Guerre Isra\u00ebl - Palestine : Plus de 700 morts c\u00f4t\u00e9 isra\u00e9lien et ...HabarizaComores.comhttps://www.habarizacomores.com \u203a ...",
+        "content": "Isra\u00ebl et la bande de Gaza sont de nouveau en guerre apr\u00e8s le d\u00e9clenchement d'une offensive militaire surprise du Hamas, samedi.",
+        "size": [
+          600,
+          315
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.sudouest.fr/politique/attaques-contre-israel-pour-sauver-les-otages-il-va-falloir-negocier-avec-le-hamas-17003691.php",
+        "title": "Attaques contre Isra\u00ebl : \u00ab Pour sauver les otages, il va falloir ...Sud Ouesthttps://www.sudouest.fr \u203a politique",
+        "content": "Et surtout une n\u00e9gociation peut-elle s'engager entre Isra\u00ebl et les terroristes ? Ce lundi, le Hamas a lanc\u00e9 un avertissement et annonc\u00e9 qu\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://nuevolaredo.tv/hamas-amenaza-con-ejecutar-publicamente-a-rehenes-cada-vez-que-israel-lance-un-ataque-en-su-contra/",
+        "title": "Hamas amenaza con ejecutar p\u00fablicamente a rehenes cada ...nuevolaredo.tvhttps://nuevolaredo.tv \u203a hamas-ame...",
+        "content": "GAZA.- El grupo islamista Hamas amenaz\u00f3 este lunes con ejecutar \u201cp\u00fablicamente\u201d a los rehenes israel\u00edes civiles cada vez que Israel bombardee\u00a0...",
+        "size": [
+          1100,
+          666
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://en.ittefaq.com.bd/6443/israel-gaza-reel-as-death-toll-soars-above-1-100",
+        "title": "Israel, Gaza reel as death toll soars above 1,100 in war with ...The Daily Ittefaqhttps://en.ittefaq.com.bd \u203a World",
+        "content": "Shock and dismay gripped Israel after at least 100 citizens were captured ... woman's children, aged nine months and three years. \"That's the\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.sudouest.fr/politique/attaques-contre-israel-pour-sauver-les-otages-il-va-falloir-negocier-avec-le-hamas-17003691.php",
+        "title": "Attaques contre Isra\u00ebl : \u00ab Pour sauver les otages, il va falloir ...Sud Ouesthttps://www.sudouest.fr \u203a politique",
+        "content": "Et surtout une n\u00e9gociation peut-elle s'engager entre Isra\u00ebl et les terroristes ? Ce lundi, le Hamas a lanc\u00e9 un avertissement et annonc\u00e9 qu\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.ovb-heimatzeitungen.de/politik/2023/10/08/israel-stellt-sich-auf-einen-langen-krieg-ein.ovb",
+        "title": "Israel stellt sich auf einen \u201elangen Krieg\u201c einOVB Heimatzeitungen |https://www.ovb-heimatzeitungen.de \u203a ...",
+        "content": "",
+        "size": [
+          500,
+          323
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://theinformant.co.nz/near-gaza-families-of-israeli-hostages-between-despair-and-anger-liberation/",
+        "title": "Near Gaza, families of Israeli hostages between despair and ...theinformant.co.nzhttps://theinformant.co.nz \u203a World",
+        "content": "... woman wants to make clear. DJs, are part of this Israeli subculture popular in all social circles, a kind of Israeli version of Burning Man\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.microheadline.com/info/d6wxtdidct62cakt0g0vpc51xgxewdt1?v=afea6cc7a3ca50a9cd266572603e6a90",
+        "title": "\u4eac\u4e1c\u526f\u603b\u88c1\uff0c\u5df2\u5728\u51c6\u5907\u540e\u4e8b\uff08\u7ec4\u56fe\uff09MicroHeadlinehttps://m.microheadline.com \u203a info",
+        "content": "",
+        "size": [
+          700,
+          438
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://unbiased.co.ke/israel-and-gaza-grapple-with-escalating-conflict-death-toll-surpasses-1100-in-hamas-war/",
+        "title": "Israel and Gaza Grapple with Escalating Conflict, Death Toll ...Unbiased News Kenyahttps://unbiased.co.ke \u203a Global",
+        "content": "Israeli forces launched efforts to reclaim the Gaza Strip's desert region and evacuate civilians from the conflict-ridden border area.",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.sudouest.fr/international/moyen-orient/israel/attaque-du-hamas-je-n-ai-pas-reflechi-une-seconde-en-israel-l-union-nationale-derriere-l-armee-17005708.php",
+        "title": "Attaque du Hamas : \u00ab Je n'ai pas r\u00e9fl\u00e9chi une seconde \u00bb\u2026Sud Ouesthttps://www.sudouest.fr \u203a ... \u203a Isra\u00ebl",
+        "content": "Attaque du Hamas : \u00ab Je n'ai pas r\u00e9fl\u00e9chi une seconde \u00bb\u2026 En Isra\u00ebl, \u00ab l'union nationale \u00bb derri\u00e8re l'arm\u00e9e \u00b7 D\u00e9fendre son pays. C\u00f4t\u00e9 palestinien,\u00a0...",
+        "size": [
+          220,
+          110
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/09/white-house-slammed-for-hosting-bbq-with-live-band-as-war-rages-in-israel/",
+        "title": "White House slammed for hosting BBQ with live band as war ...New York Posthttps://nypost.com \u203a 2023/10/09 \u203a white-house-slamm...",
+        "content": "... captured Israeli woman, in 4. Graphic content / Palestinian militants surround a truck reportedly carrying a captured Israeli woman, in Khan\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.hs.fi/ulkomaat/art-2000009909264.html",
+        "title": "Festivaaleilla juhlineet juoksivat pakoon Hamasin taistelijoitaHelsingin Sanomathttps://www.hs.fi \u203a ulkomaat \u203a art-2...",
+        "content": "... artikkeliin liittyvi\u00e4 aiheita. Gaza Seuraa. Festivaalit Seuraa. Israel Seuraa. Kulttuuri Seuraa. Musiikki Seuraa. Palestiina Seuraa. Terrorismi",
+        "size": [
+          468,
+          312
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://peru21.pe/mundo/hamas-amenaza-con-ejecutar-rehenes-civiles-israelies-si-continuan-con-los-bombardeos-mundo-israel-hamas-ejecucion-civiles-palestina-noticia/",
+        "title": "Ham\u00e1s amenaza con ejecutar rehenes civiles israel\u00edes si ...Peru21https://peru21.pe \u203a mundo \u203a hamas-...",
+        "content": "Israel bombardea Gaza intensamente. Israel ha bombardeando intensamente todo el enclave durante todo el d\u00eda, incluyendo instalaciones militares\u00a0...",
+        "size": [
+          580,
+          330
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bssnews.net/news-flash/151611",
+        "title": "Israel, Gaza reel as death toll soars above 1,100 in war with ...Bangladesh Sangbad Sangsthahttps://www.bssnews.net \u203a news-flash",
+        "content": "Shock and dismay gripped Israel after at least 100 citizens were captured ... woman's children, aged nine months and three years. \"That's the\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rundschau-online.de/politik/mutter-von-shani-louk-berichtet-von-letztem-gespraech-mit-ihrer-tochter-blutbad-bei-festival-661479",
+        "title": "Mutter von Shani Louk berichtet von letztem Gespr\u00e4chRundschau Onlinehttps://www.rundschau-online.de \u203a Politik",
+        "content": "Die 22-j\u00e4hrige Deutsche Shani Louk ist bei einem Festival in Israel entf\u00fchrt worden. Hamas-K\u00e4mpfer richteten ein Blutbad an.",
+        "size": [
+          340,
+          227
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news.com.au/breaking-news/israel-battles-hamas-as-pm-warns-of-long-and-difficult-war/news-story/442a067a4cf962dd1c02b29fe8bbf84f",
+        "title": "Israel, Gaza reel as death toll soars above 1100 in war with ...News.com.auhttps://www.news.com.au \u203a Breaking-news",
+        "content": "... captured Israeli woman, in Khan Yunis in the southern Gaza Strip, on October 7, 2023. Israel relentlessly pounded the Gaza Strip early Monday\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.sudouest.fr/international/moyen-orient/israel/attaque-contre-israel-que-sait-on-sur-eitan-un-jeune-francais-de-12-ans-probable-otage-du-hamas-17007032.php",
+        "title": "Attaque contre Isra\u00ebl : que sait-on sur Eitan, un jeune Fran\u00e7ais ...Sud Ouesthttps://www.sudouest.fr \u203a ... \u203a Isra\u00ebl",
+        "content": "14 Fran\u00e7ais sont toujours port\u00e9s disparus en Isra\u00ebl apr\u00e8s l'attaque du Hamas samedi. Parmi eux, Eitan, un petit gar\u00e7on de 12 ans.",
+        "size": [
+          220,
+          110
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eluniversal.com.mx/mundo/peru-confirma-muerte-de-uno-de-sus-ciudadanos-en-los-ataques-de-hamas-en-israel/",
+        "title": "Per\u00fa confirma muerte de uno de sus ciudadanos en los ...El Universalhttps://www.eluniversal.com.mx \u203a p...",
+        "content": "Per\u00fa confirma muerte de uno de sus ciudadanos en los ataques de Hamas en Israel. Era un reservista de las Fuerzas Armadas israel\u00edes y muri\u00f3 en\u00a0...",
+        "size": [
+          980,
+          528
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.rtlnieuws.nl/nieuws/buitenland/artikel/5412381/israel-staat-voor-dilemma-bombarderen-gijzelaars-redden-gaza",
+        "title": "Duivels dilemma Isra\u00ebl: bombarderen of gijzelaars reddenRTL Nieuwshttps://www.rtlnieuws.nl \u203a artikel \u203a i...",
+        "content": "Zeker 150 Isra\u00ebli\u00ebrs zijn ontvoerd door Hamasstrijders sinds de inval in Isra\u00ebl. Zij zijn naar de Gazastrook gebracht en worden daar\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.sudouest.fr/international/moyen-orient/israel/attaque-contre-israel-que-sait-on-sur-eitan-un-jeune-francais-de-12-ans-probable-otage-du-hamas-17007032.php",
+        "title": "Attaque contre Isra\u00ebl : que sait-on sur Eitan, un jeune Fran\u00e7ais ...Sud Ouesthttps://www.sudouest.fr \u203a ... \u203a Isra\u00ebl",
+        "content": "14 Fran\u00e7ais sont toujours port\u00e9s disparus en Isra\u00ebl apr\u00e8s l'attaque du Hamas samedi. Parmi eux, Eitan, un petit gar\u00e7on de 12 ans.",
+        "size": [
+          220,
+          110
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.telegraaf.nl/video/562347088/zo-wil-israel-de-ruggengraat-van-hamas-breken",
+        "title": "Zo wil Isra\u00ebl de ruggengraat van Hamas breken - TelegraafTelegraafhttps://www.telegraaf.nl \u203a video \u203a z...",
+        "content": "Isra\u00ebl is in de strijd tegen Hamas bezig met de grootste mobilisatie ooit. Volgens Isra\u00eblische media zijn 300.000 reservisten opgeroepen na\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://radiomaximadigital.com/?p=11570",
+        "title": "Combates en Israel y Gaza: el conflicto en fotosRadio M\u00e1xima Digitalhttps://radiomaximadigital.com \u203a ...",
+        "content": "Una mujer palestina herida llora mientras sostiene el cuerpo de su hija en el Hospital al-Shifa de la ciudad de Gaza. A woman in a hospital bed\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://diario-digital.com/2023/10/11/que-se-sabe-de-los-civiles-y-soldados-secuestrados-por-hamas/",
+        "title": "\u00bfQu\u00e9 se sabe de los civiles y soldados secuestrados por ...Diario-Digital.comhttps://diario-digital.com \u203a que-se-s...",
+        "content": "A medida que se intensifica la guerra entre Israel y Gaza, tambi\u00e9n crece la preocupaci\u00f3n por las casi 150 personas, entre civiles y soldados\u00a0...",
+        "size": [
+          780,
+          470
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.radiofarda.com/a/32633225.html",
+        "title": "\u062f\u0631\u062e\u0648\u0627\u0633\u062a \u06cc\u06a9 \u062e\u0648\u0627\u0646\u0646\u062f\u0647\u0654 \u062c\u0648\u0627\u0646 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u0628\u0631\u0627\u06cc \u0646\u06af\u0647\u062f\u0627\u0631\u06cc \u0627\u0633\u067e\u0631\u0645 \u0647\u0645\u0633\u0631\u0634 ...Radio Fardahttps://www.radiofarda.com \u203a ...",
+        "content": "An Israeli woman hears that her husband is dead live on Sky News. pic.twitter.com/f08nH9l63F. \u2014 We Stand With Israel (@SussexFriends) October\u00a0...",
+        "size": [
+          408,
+          230
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.revistasinrecreo.com/politica/combates-en-israel-y-gaza-el-conflicto-en-fotos/",
+        "title": "Combates en Israel y Gaza: el conflicto en fotosRevista Sin Recreohttps://www.revistasinrecreo.com \u203a ...",
+        "content": "Una mujer palestina herida llora mientras sostiene el cuerpo de su hija en el Hospital al-Shifa de la ciudad de Gaza. A woman in a hospital bed\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://radiomaximadigital.com/?p=11570",
+        "title": "Combates en Israel y Gaza: el conflicto en fotosRadio M\u00e1xima Digitalhttps://radiomaximadigital.com \u203a ...",
+        "content": "Una mujer palestina herida llora mientras sostiene el cuerpo de su hija en el Hospital al-Shifa de la ciudad de Gaza. A woman in a hospital bed\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ustimetoday.com/us-confirms-egypt-warned-israel-days-before-hamas-attack/",
+        "title": "US confirms Egypt warned Israel days before Hamas attackUSTimeTodayhttps://ustimetoday.com \u203a News",
+        "content": "Hamas terrorists surround a truck supposedly transporting a captured Israeli woman. AFP via Getty Images. \u201cI am sure there are many streams\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldnewsera.com/news/us-news/us-confirms-egypt-warned-israel-three-days-before-hamas-attack/",
+        "title": "US Confirms Egypt Warned Israel 'three Days' Before Hamas ...WorldNewsErahttps://worldnewsera.com \u203a News \u203a U.S. News",
+        "content": "Rep. \u00b7 Hamas terrorists surround a truck reportedly carrying a captured Israeli woman. \u00b7 Israel's Iron Dome anti-missile system intercepts rockets\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://goodwordnews.com/us-confirms-egypt-warned-israel-days-before-hamas-attack/",
+        "title": "US confirms Egypt warned Israel days before Hamas attackGood Word Newshttps://goodwordnews.com \u203a News",
+        "content": "Hamas terrorists surround a truck believed to be transporting a captured Israeli woman. AFP via Getty Images. An exiled leader has since said\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/12/us-confirms-egypt-warned-israel-days-before-hamas-attack/",
+        "title": "US confirms Egypt warned Israel days before Hamas attackNew York Posthttps://nypost.com \u203a 2023/10/12 \u203a us-confirms-egypt-...",
+        "content": "... captured Israeli woman. AFP via Getty Images. Advertisement. \u201cFor Israel, this is like their 9/11,\u201d McCaul added. \u201cI mean, it really is. It's\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.msn.com/en-us/news/world/us-confirms-egypt-warned-israel-three-days-before-hamas-attack/ar-AA1i6jZx",
+        "title": "US confirms Egypt warned Israel 'three days' before Hamas ...MSNhttps://www.msn.com \u203a en-us \u203a news \u203a world \u203a us-con...",
+        "content": "... Israel and the US \u201cmissed it.\u201d \u201cWe know ... Hamas terrorists surround a truck reportedly carrying a captured Israeli woman.AFP via Getty Images.",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://goodwordnews.com/us-confirms-egypt-warned-israel-days-before-hamas-attack/",
+        "title": "US confirms Egypt warned Israel days before Hamas attackGood Word Newshttps://goodwordnews.com \u203a News",
+        "content": "Hamas terrorists surround a truck believed to be transporting a captured Israeli woman. AFP via Getty Images. An exiled leader has since said\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tndeer.com/threads/egypt-warned-israel-3-days-before.442843/",
+        "title": "Egypt Warned Israel 3 days before? - TN Deertndeer.comhttps://www.tndeer.com \u203a ... \u203a TnDeer General Forum",
+        "content": "https://nypost.com/2023/10/12/us-confirms-egypt-warned-israel-days-before-hamas-attack/",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.improvethenews.org/story/2023/french-police-fire-water-cannon-teargas-at-banned-propalestinian-protests",
+        "title": "French Police Fire Water Cannon, Teargas at Banned Pro ...Improve the Newshttps://www.improvethenews.org \u203a story \u203a french-poli...",
+        "content": "Palestinian fighters captured an Israeli tank and IDF ... Israel/Palestine: Militants enter Israel from Gaza after woman killed in rocket barrage.",
+        "size": [
+          2500,
+          1667
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elcomercio.pe/mundo/oriente-medio/israel-vs-hamas-en-gaza-como-seria-una-ofensiva-terrestre-de-israel-en-la-franja-de-gaza-un-territorio-hacinado-y-lleno-de-tuneles-de-los-islamistas-benjamin-netanyahu-noticia/",
+        "title": "Israel vs Hamas en Gaza | C\u00f3mo ser\u00eda una ofensiva terrestre ...El Comerciohttps://elcomercio.pe \u203a oriente-medio",
+        "content": "Israel anunci\u00f3 que ya complet\u00f3 el \u201csitio total\u201d de Gaza y ahora se estar\u00eda preparando para su ofensiva terrestre. El ministro de Defensa,\u00a0...",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "be",
+        "link": "https://belsat.eu/news/13-10-2023-izrailskaya-armiya-zaklikala-zhyharou-goradu-gaza-evakuyavatstsa-na-pounach-anklavu-tsyagam-24-gadzinau/",
+        "title": "\u0406\u0437\u0440\u0430\u0456\u043b\u044c\u0441\u043a\u0430\u044f \u0430\u0440\u043c\u0456\u044f \u0437\u0430\u043a\u043b\u0456\u043a\u0430\u043b\u0430 \u0436\u044b\u0445\u0430\u0440\u043e\u045e \u0433\u043e\u0440\u0430\u0434\u0443 \u0413\u0430\u0437\u0430 ... - Belsat.euBelsat.euhttps://belsat.eu \u203a News",
+        "content": "\u2014 Israel Defense Forces (@IDF) October 13, 2023. \u041d\u0430 \u0442\u0430\u043a\u0456 \u0437\u0430\u0433\u0430\u0434, \u0448\u0442\u043e \u0437\u0430\u043a\u0440\u0430\u043d\u0430\u0435 \u0431\u043e\u043b\u044c\u0448 \u0437\u0430 \u043c\u0456\u043b\u044c\u0451\u043d \u0436\u044b\u0445\u0430\u0440\u043e\u045e \u0413\u0430\u0437\u044b, \u0440\u044d\u0437\u043a\u0430 \u0430\u0434\u0440\u044d\u0430\u0433\u0430\u0432\u0430\u043b\u0430 \u0410\u0410\u041d. \u041f\u0430\u0432\u043e\u0434\u043b\u0435\u00a0...",
+        "size": [
+          570,
+          270
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.improvethenews.org/story/2023/netanyahu-addresses-nation-on-shabbat",
+        "title": "Netanyahu Addresses Nation on ShabbatImprove the Newshttps://www.improvethenews.org \u203a story \u203a netanyahu-ad...",
+        "content": "Antony Blinken embraces tearful 24-year-old Israeli woman who ... Republican Cory Mills Rescues 32 Americans Trapped In Israel, WH Silent On\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/inquirer/israel-must-destroy-hamas-despite-the-cost/news-story/0697b6adb1a5ca2629ea359e256f7456",
+        "title": "Israel must destroy Hamas despite the cost, writes Greg ...The Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/inquirer/israel-must-destroy-hamas-despite-the-cost/news-story/0697b6adb1a5ca2629ea359e256f7456",
+        "title": "Israel must destroy Hamas despite the cost, writes Greg ...The Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "http://www.radiofmq.com/detalle.php?articulo=Israel%20eleva%20a%20199%20la%20cantidad%20de%20rehenes&tipo=5&documento=109946&sistema=fmq",
+        "title": "Israel eleva a 199 la cantidad de rehenes - Radio FMQRadio FMQhttp://www.radiofmq.com \u203a detalle",
+        "content": "",
+        "size": [
+          650,
+          350
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "http://www.radiofmq.com/detalle.php?articulo=Israel%20eleva%20a%20199%20la%20cantidad%20de%20rehenes&tipo=5&documento=109946&sistema=fmq",
+        "title": "Israel eleva a 199 la cantidad de rehenes - Radio FMQRadio FMQhttp://www.radiofmq.com \u203a detalle",
+        "content": "",
+        "size": [
+          650,
+          350
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://rosariolaciudad.com.ar/israel-reporta-que-la-mayoria-de-los-rehenes-en-manos-de-hamas-estan-vivos/",
+        "title": "Israel reporta que la mayor\u00eda de los rehenes \"est\u00e1n vivos\"RosariolaCiudadhttps://rosariolaciudad.com.ar \u203a isra...",
+        "content": "",
+        "size": [
+          750,
+          450
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nationaldailyng.com/hamas-gunmen-were-high-on-drugs-during-terrorist-attacks-on-israel/",
+        "title": "Hamas gunmen were 'high on drugs' during terrorist attacks ...National Daily Newspaperhttps://nationaldailyng.com \u203a Sample Page",
+        "content": "Sanwo-Olu, Wife meet Queen Camilla at Commonwealth ... captured by Israeli forces during the Oct 7 cross-border raid, Israel's Channel 12 reported\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/23/news/idf-shares-harrowing-videos-photos-of-hamas-attack/",
+        "title": "IDF shares harrowing videos, photos of Hamas attackNew York Posthttps://nypost.com \u203a 2023/10/23 \u203a news \u203a idf-shares-h...",
+        "content": "Another video shows a captured member of Hamas admitting that the ... After releasing two Americans last week, Hamas released two Israeli women\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.telegraph.co.uk/world-news/2023/10/25/israel-palestine-conflict-pictures-gaza-hamas-violence/",
+        "title": "Israel-Hamas war in pictures: A 'bloody day' in Gaza as Israeli ...The Telegraphhttps://www.telegraph.co.uk \u203a world-news \u203a 2023/10/25",
+        "content": "... woman clings onto a young girl after Israeli airstrikes hit the Ridwan neighborhood of Gaza ... captured Israeli woman. Image: 19 of 30. Source\u00a0...",
+        "size": [
+          2500,
+          1563
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://facundoquiroga.com/son-21-los-argentinos-que-fueron-tomados-como-rehenes-por-hamas/",
+        "title": "Son 21 los argentinos que fueron tomados como rehenes por ...Radio Facundo Quirogahttps://facundoquiroga.com \u203a son-2...",
+        "content": "Luego de que el Gobierno nacional intercediera en el conflicto entre Israel y el grupo terrorista palestino Hamas por los ciudadanos que se\u00a0...",
+        "size": [
+          1008,
+          635
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elcomercio.pe/mundo/oriente-medio/shani-louk-hamas-israel-confirma-la-muerte-de-la-joven-alemana-que-fue-secuestrada-y-llevada-a-gaza-por-la-milicia-palestina-benjamin-netanyahu-noticia/",
+        "title": "Israel confirma la muerte de Shani Louk, la joven alemana ...El Comerciohttps://elcomercio.pe \u203a oriente-medio",
+        "content": "",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/nation/politics/israeli-embassy-shows-journalists-hamas-atrocities/news-story/184f17ceb5b5fdfe9247fa6e1183aa1d",
+        "title": "Israel-Gaza war: Israeli Embassy shows journalists Hamas ...The Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "Palestinian militants surround a truck reportedly carrying a captured Israeli woman, in Khan Yunis in the souther Gaza Strip, on October 7. By\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ar.inspiredpencil.com/pictures-2023/israeli-women-soldiers-strip.html",
+        "title": "Israeli Women Soldiers Stripinspiredpencil.comhttps://ar.inspiredpencil.com \u203a pictures-2023 \u203a israeli-...",
+        "content": "Shocking Video from Gaza Strip: Hamas releases footage of abducted Israeli IDF female soldiers | ... In Israel, Woman Naked On A Car, Assaulted By\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ricochet.com/1510585/einsatzgruppenhamasisraeldresden/",
+        "title": "Einsatzgruppen=Hamas, Israel=Dresden | RicochetRicochet | Conservative Conversation and Communityhttps://ricochet.com \u203a General",
+        "content": "Would it be proportionate for Israeli troops to rape Palestinian women? To target babies for murder? Mutilate and burn bodies? Capture civilians\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://planoinformativo.com/960705/afirma-que-no-hay-una-propuesta-real-de-hamas-sobre-rehenes-/",
+        "title": "Afirma que no hay una propuesta real de Ham\u00e1s sobre rehenesplanoinformativo.comhttps://planoinformativo.com \u203a afir...",
+        "content": "El presidente de Israel, Isaac Herzog, ha asegurado este jueves que a pesar de lo que se ha estado publicando en varios medios de\u00a0...",
+        "size": [
+          992,
+          595
+        ],
+        "date": "2023:11:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.cumhuriyet.com.tr/dunya/hamas-israilin-gazzeye-saldirilarinda-rehin-israil-askeri-oldu-2139555",
+        "title": "Hamas: '\u0130srail'in Gazze'ye sald\u0131r\u0131lar\u0131nda rehin \u0130srail askeri \u00f6ld\u00fc'Cumhuriyet Gazetesihttps://www.cumhuriyet.com.tr \u203a ha...",
+        "content": "",
+        "size": [
+          760,
+          450
+        ],
+        "date": "2023:11:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.cumhuriyet.com.tr/turkiye/kurukahveci-mehmet-efendiden-israil-askeri-iddiasina-iliskin-aciklama-2139733",
+        "title": "Kurukahveci Mehmet Efendi'den '\u0130srail askeri' iddias\u0131na ili\u015fkin ...Cumhuriyet Gazetesihttps://www.cumhuriyet.com.tr \u203a ku...",
+        "content": "",
+        "size": [
+          760,
+          450
+        ],
+        "date": "2023:11:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elcomercio.pe/mundo/oriente-medio/guerra-israel-hamas-en-gaza-estado-judio-investiga-denuncias-de-agresiones-sexuales-cometidas-por-el-movimiento-islamico-el-7-de-octubre-david-katz-palestina-yaakov-shabtai-cpi-ultimas-noticia/",
+        "title": "Israel investiga denuncias de agresiones sexuales cometidas ...El Comerciohttps://elcomercio.pe \u203a oriente-medio",
+        "content": "",
+        "size": [
+          1200,
+          1200
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://24newsrecorder.com/world/324947",
+        "title": "Israel investigates allegations of sexual assaults committed by ...24 News Recorderhttps://24newsrecorder.com \u203a world",
+        "content": "Israeli police announced Tuesday that they are investigating rape, mutilation and other allegations of sexual violence against women\u00a0...",
+        "size": [
+          980,
+          528
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elcomercio.pe/mundo/oriente-medio/guerra-israel-hamas-en-gaza-estado-judio-investiga-denuncias-de-agresiones-sexuales-cometidas-por-el-movimiento-islamico-el-7-de-octubre-david-katz-palestina-yaakov-shabtai-cpi-ultimas-noticia/",
+        "title": "Israel investiga denuncias de agresiones sexuales cometidas ...El Comerciohttps://elcomercio.pe \u203a oriente-medio",
+        "content": "",
+        "size": [
+          1200,
+          1200
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/rachelmendelovich_events-eventsindustry-eventplanning-activity-7089610954614669312-zNox",
+        "title": "Rachel Mendelovich on LinkedIn: #events #eventsindustry ...LinkedInhttps://www.linkedin.com \u203a posts \u203a rachelmendelovich_e...",
+        "content": "Terrorist attack on Israeli civilians. Hundreds of civil casualties. Children, women and elderly abducted. considering Israel tiny size, these numbers are huge.",
+        "size": [
+          800,
+          525
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/captured-israeli-soldier-in-gaza",
+        "title": "3883 Captured Israeli Soldier In Gaza Stock Photos, High-Res ...Getty Imageshttps://www.gettyimages.com \u203a photos \u203a captured-isra...",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic Captured Israeli Soldier In Gaza stock photos, royalty-free images, and pictures.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ca/photos/captured-israeli-soldier-in-gaza",
+        "title": "3880 Captured Israeli Soldier In Gaza Stock Photos, High-Res ...Getty Imageshttps://www.gettyimages.ca \u203a photos \u203a captured-israeli...",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic Captured Israeli Soldier In Gaza stock photos, royalty-free images, and pictures.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/eranrubens_coming-back-from-rsna-i-am-so-proud-to-activity-6342431616731873280-QbVi?trk=public_profile",
+        "title": "Eran Rubens' Post - LinkedInLinkedIn\u00a0\u00b7\u00a0Eran Rubens5 years ago",
+        "content": "... captured Israeli woman into the Gaza Strip. #standwithisrael. No alternative text description for this image. 41 \u00b7 Like Comment. Share.",
+        "size": [
+          800,
+          525
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/eranrubens_philips-proud-philips-activity-6868929248799797248-aLZi?trk=public_profile_like_view",
+        "title": "Eran Rubens - philips #proud #philips #healthcare - LinkedInLinkedInhttps://www.linkedin.com \u203a posts \u203a eranrubens_philips-p...",
+        "content": "More than 3,000 missiles rained down on Israel, resulting in over 1,800 Israeli citizens sustaining injuries. ... captured Israeli woman into the Gaza Strip. #\u00a0...",
+        "size": [
+          800,
+          525
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/moshemilman_my-sisters-body-was-lying-in-the-forest-activity-7119838387703877632-fKs6",
+        "title": "Moshe Milman on LinkedIn: 'My sister's body was lying in the ...LinkedInhttps://www.linkedin.com \u203a posts \u203a moshemilman_my-si...",
+        "content": "... captured Israeli woman into the Gaza Strip. There are many more images and videos that are truly distressing, so I've chosen not to share them here. Several\u00a0...",
+        "size": [
+          800,
+          525
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alexanderfarah.medium.com/israel-and-palestine-where-are-we-at-52aac59b4d40",
+        "title": "Israel and Palestine: where are we at? | by Alexander FarahMedium\u00a0\u00b7\u00a0Alexander Farah1 month ago",
+        "content": "The world's largest open-air prison \u2014 2.2m inhabitants trapped, with no hope of anything better. ... woman and parade her naked body on a truck\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/palestine-women",
+        "title": "52890 Palestine Women Stock Photos & High-Res PicturesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a palestine-wo...",
+        "content": "... Palestinian militants transport a reportedly captured Israeli woman by motorcycle, in Khan Yunis\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/palestinian-woman",
+        "title": "48463 Palestinian Woman Stock Photos & High-Res PicturesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a palestinian-w...",
+        "content": "... Palestinian militants transport a reportedly captured Israeli woman by motorcycle, in Khan Yunis\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsweek.com/topic/israel-at-war?page=22",
+        "title": "Israel at War - NewsweekNewsweekhttps://www.newsweek.com \u203a topic \u203a israel-at-war",
+        "content": "\"We are hoping for positive news,\" Shani Louk's cousin said after graphic footage emerged online showing the woman lying face-down on the back of a truck. By\u00a0...",
+        "size": [
+          466,
+          311
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/OutOfTheLoop/comments/178fz03/why_are_people_talking_about_palestine_when/",
+        "title": "Why are people talking about Palestine when ... - RedditReddit\u00a0\u00b7\u00a0r/OutOfTheLoop190+ comments  \u00b7  1 month ago",
+        "content": "The Palestinians in Gaza have elected Hamas. Hamas invaded the south of Israel with the intent of killing women and children, and/or abducting\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/hamasdeadlyattack/comments/17qwa6c/hamas_terrorists_document_the_kidanpped_of_a/",
+        "title": "Hamas terrorists document the kidanpped of a young German ...Reddit\u00a0\u00b7\u00a0r/hamasdeadlyattack9 comments  \u00b7  2 weeks ago",
+        "content": "Hamas terrorists document the kidanpped of a young German-Israeli lady name Shani Luk. ... women) were kidnapped to Gaza. The war was forced on\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/IsraelWarVideoReport/comments/17qwu1e/hamas_terrorists_document_the_kidanpped_of_a/",
+        "title": "Hamas terrorists document the kidanpped of a young German ...Reddit\u00a0\u00b7\u00a0r/IsraelWarVideoReport4 comments  \u00b7  2 weeks ago",
+        "content": "Hamas terrorists document the kidanpped of a young German-Israeli lady name Shani Luk. In the footage you can see Shani woonded in the back of\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/IsraelPalestine/comments/176wrft/my_stance_on_the_israel_vs_palestinehamas_conflict/",
+        "title": "My stance on the Israel vs palestine/hamas conflict - RedditReddit\u00a0\u00b7\u00a0r/IsraelPalestine4 comments  \u00b7  1 month ago",
+        "content": "... israel government. Not sure if Egypt would be interesting in governing the ... New footage shows Hamas executing two Israeli women at point blank.",
+        "size": [
+          1024,
+          682
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.help-il-hostage.com/",
+        "title": "Free israeli hostageshelp-il-hostage.comhttps://www.help-il-hostage.com",
+        "content": "... Daily israeli news. A sad Reality in Israeli news. Abducted by hamas. A young woman abducted by hamas forces already in Gaza getting spitted and hit.",
+        "size": [
+          512,
+          527
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsweek.com/newsfeed?page=9&page___=",
+        "title": "Result Page 9 for News Feed - NewsweekNewsweekhttps://www.newsweek.com \u203a newsfeed",
+        "content": "\"These Hamas attacks are a disgrace and Israel has every right to defend itself with overwhelming force,\" the former president wrote on Saturday. Putin ally's\u00a0...",
+        "size": [
+          466,
+          311
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/israel/hamas-abductions-ignite-iron-swords-israel-strikes-back-amid-rising-tensions/",
+        "title": "Hamas Abductions Ignite 'Iron Swords': Israel Strikes Back ...BNN Breakinghttps://bnn.network \u203a ... \u203a Conflict & Defence \u203a Israel",
+        "content": "However, reports suggest that the militants are using the captured civilians as human shields, complicating the rescue operations and raising the stakes in this\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/israel/hamas-abductions-ignite-iron-swords-israel-strikes-back-amid-rising-tensions/",
+        "title": "Hamas Abductions Ignite 'Iron Swords': Israel Strikes Back ...BNN Breakinghttps://bnn.network \u203a ... \u203a Conflict & Defence \u203a Israel",
+        "content": "However, reports suggest that the militants are using the captured civilians as human shields, complicating the rescue operations and raising the stakes in this\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kenyan-post.com/2023/11/qatar-announces-hostages-for-ceasefire-deal-between-israel-and-hamas/",
+        "title": "Qatar announces hostages for ceasefire deal between Israel ...kenyan-post.comhttps://kenyan-post.com \u203a World",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/israel/escalating-conflict-in-israel-and-gaza-strip-unmasking-the-humanitarian-crisis/",
+        "title": "Israel-Gaza Conflict: Rising Tensions and Humanitarian CrisisBNN Breakinghttps://bnn.network \u203a ... \u203a Israel \u203a Palestine",
+        "content": "Among the victims is Shani Louk, a woman who was seen being forced into a van by armed militants. ... Israel Captures Gaza Terrorists: Unmasking Hamas's Terror\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/nypost/status/1712461424948122036",
+        "title": "New York Post on X: \"US confirms Egypt warned Israel 'three ...Twitter\u00a0\u00b7\u00a0nypost850+ likes  \u00b7  1 month ago",
+        "content": "US confirms Egypt warned Israel 'three days' before Hamas attack https://t.co/QtyCzbsssi.",
+        "size": [
+          1024,
+          682
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elunicornio.co/?q=bbq-sand-bar-canna-bali-rimba-events-ee-6geNYJco",
+        "title": "Bbq Sand Bar Canna Bali Rimba Events - El UnicornioEl Unicorniohttps://www.elunicornio.co \u203a sunday bbq",
+        "content": "President Biden and First Lady hold BBQ at White House for active-duty military families ... White House slammed for hosting BBQ with live band as war rages in\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.nestia.com/detail_share/11710823?media_type=1",
+        "title": "White House slammed for hosting BBQ with live band as war ...Nestiahttps://news.nestia.com \u203a detail_share",
+        "content": "4 Graphic content / Palestinian militants surround a truck reportedly carrying a captured Israeli woman, in Khan Yunis in the souther Gaza Strip, on Oct. 7\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/nypost/status/1712755326645141675",
+        "title": "New York Post on X: \"US confirms Egypt warned Israel 'three ...Twitter\u00a0\u00b7\u00a0nypost220+ likes",
+        "content": "US confirms Egypt warned Israel 'three days' before Hamas attack https://trib.al/XDoaomI. Image. 9:01 AM \u00b7 Oct 13, 2023. \u00b7. 48.4K. Views.",
+        "size": [
+          1024,
+          682
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/eliran_haliva?lang=en",
+        "title": "eliran haliva (@eliran_haliva) / XTwitter\u00a0\u00b7\u00a0eliran_haliva50+ followers",
+        "content": "... Israel and Hamas. ... to Gaza would align you with the BIGGEST terrorists that killed & massacred & raped & kidnapped innocent Israeli Babies, Children, Women and\u00a0...",
+        "size": [
+          1064,
+          709
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bssnews.net/all-news/national-budget-2022-2023/?pg=75",
+        "title": "Bangladesh Sangbad Sangstha (BSS)Bangladesh Sangbad Sangsthahttps://www.bssnews.net \u203a national-budget-2022-2023",
+        "content": "Israel, Gaza reel as death toll soars above 1,100 in war with Hamas. 09 Oct ... Woman jailed for life for killing stepson in Munshiganj \u00b7 Drive against\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sotwe.com/jewishvoice?lang=en",
+        "title": "The Jewish Voice @JewishVoice - Twitter Profile | SotweSotwehttps://www.sotwe.com \u203a jewishvoice",
+        "content": "Head of the Hamas Women's Movement on TV claims that after introducing Gazan children to Jihad from Infancy, all Palestinian girls want to sacrifice themselves\u00a0...",
+        "size": [
+          1064,
+          709
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sotwe.com/Hamasis_ISIS",
+        "title": "Hamasis = ISIS @Hamasis_ISIS - Twitter Profile | SotweSotwehttps://www.sotwe.com \u203a Hamasis_ISIS",
+        "content": "... Israel to send money to his family until October 7 when Hamas-ISIS arrived, slaughtered all his workmates and kidnapped him. What has he ever done wrong? Do\u00a0...",
+        "size": [
+          1064,
+          709
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jimgeorge.substack.com/",
+        "title": "Admiral's Log | Adm Jim | SubstackSubstackhttps://jimgeorge.substack.com",
+        "content": "Whither the American Rule of Law after the Disgraceful Chauvin Show Trial? \u00b7 Kristallnacht: 85 Years Ago. \u00b7 Einsatzgruppen=Hamas=Israel=Dresden \u00b7 Madness:\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/povero-bergoglio-tutti-provano-a-tirarlo-per-la-tonaca-il-papa-dopo-l-udienza-generale-375359/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          547
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/quanto-vale-la-vita-di-un-ostaggio-nel-2011-per-liberare-il-soldato-israeliano-gilad-shalit-372515/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          547
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sotwe.com/IsaevZhan",
+        "title": "Adam Kadmon @IsaevZhan - Twitter Profile | SotweSotwehttps://www.sotwe.com \u203a IsaevZhan",
+        "content": "Israel Defense Forces @IDF. 2 days ago. Gaza City\u2014what you can't see from ... Caught on camera: a Palestinian woman whose family members were hit by IDF\u00a0...",
+        "size": [
+          1064,
+          709
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/hanno-preso-mio-padre-non-so-se-mia-madre-sia-ancora-viva-le-ultime-chiamate-degli-israeliani-369851/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          547
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/dopo-la-proposta-di-dialogo-con-i-talebani-moderati-i-cinquestelle-proporranno-la-trattativa-370046/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          547
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nationaldailyng.com/category/news1613067580/crime/page/3/",
+        "title": "Crime Archives - Page 3 of 994 - National Daily NewspaperNational Daily Newspaperhttps://nationaldailyng.com \u203a News",
+        "content": "Confessions of Hamas militants who kidnapped, killed Israeli civilians. Europa League\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/captured-israeli-soldier-in-gaza",
+        "title": "Procure 3.861 captured israeli soldier in gaza fotos e imagens ...Getty Imageshttps://www.gettyimages.com.br \u203a c...",
+        "content": "Encontre fotos de stock e imagens editoriais de not\u00edcias de Captured Israeli Soldier In Gaza na Getty Images. Escolha entre 3.861 fotos premium de Captured\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ca",
+        "link": "https://www.emporda.info/internacional/2023/10/07/guerra-israel-gaza-fotos-93063823.html",
+        "title": "Guerra entre Israel i Gaza - Empord\u00e0 - Emporda.infoEmporda.infohttps://www.emporda.info \u203a guerra-...",
+        "content": "Guerra entre Israel i Gaza. AP. Actualitzat: 07/10/2023 18:44 Veure galeria >. Guerra entre Israel i Gaza\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ca",
+        "link": "https://www.emporda.info/internacional/2023/10/07/guerra-israel-gaza-fotos-93063823.html",
+        "title": "Guerra entre Israel i Gaza - Empord\u00e0 - Emporda.infoEmporda.infohttps://www.emporda.info \u203a guerra-...",
+        "content": "Guerra entre Israel i Gaza. AP. Actualitzat: 07/10/2023 18:44 Veure galeria >. Guerra entre Israel i Gaza\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eluniversal.com.mx/tag/guerra-israel-hamas/17/",
+        "title": "guerra Israel-Hamas | El UniversalEl Universalhttps://www.eluniversal.com.mx \u203a tag",
+        "content": "guerra Israel-Hamas. Rusia proh\u00edbe vuelos nocturnos a Israel y no prev\u00e9 por ahora organizar repatriaciones. Mundo10/10/2023\u00a0...",
+        "size": [
+          470,
+          363
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ca",
+        "link": "https://www.diaridegirona.cat/espanya-internacional/2023/10/07/guerra-israel-gaza-fotos-93063825.html",
+        "title": "Guerra entre Israel i Gaza - Diari de GironaDiari de Gironahttps://www.diaridegirona.cat \u203a gue...",
+        "content": "Guerra entre Israel i Gaza. AP. Actualitzat: 07/10/2023 18:44 Veure galeria >. Guerra entre Israel i Gaza\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ca",
+        "link": "https://www.regio7.cat/arreu/internacional/2023/10/07/guerra-israel-gaza-fotos-93063824.html",
+        "title": "Guerra entre Israel i Gaza - Regi\u00f37regio7https://www.regio7.cat \u203a 2023/10/07",
+        "content": "Guerra entre Israel i Gaza. AP. Actualitzat: 07/10/2023 18:44 Veure galeria >. Guerra entre Israel i Gaza\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eluniversal.com.mx/tag/hamas/9/",
+        "title": "Ham\u00e1s | El UniversalEl Universalhttps://www.eluniversal.com.mx \u203a tag",
+        "content": "\u201cVivos o muertos\u201d: Israel usa tecnolog\u00eda de reconocimiento facial para ubicar a integrantes de Hamas. El vocero de las Fuerzas de Defensa de Israel dijo que\u00a0...",
+        "size": [
+          470,
+          363
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eluniversal.com.mx/tag/hamas/9/",
+        "title": "Ham\u00e1s | El UniversalEl Universalhttps://www.eluniversal.com.mx \u203a tag",
+        "content": "\u201cVivos o muertos\u201d: Israel usa tecnolog\u00eda de reconocimiento facial para ubicar a integrantes de Hamas. El vocero de las Fuerzas de Defensa de Israel dijo que\u00a0...",
+        "size": [
+          470,
+          363
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elnuevopais.net/2023/11/21/esperanza-de-paz-israel-y-hamas-firman-acuerdo-de-cese-al-fuego/",
+        "title": "Esperanza de Paz: Israel y Hamas Firman Acuerdo de Cese ...El Nuevo Pa\u00edshttps://elnuevopais.net \u203a Blog",
+        "content": " \u00b7 ",
+        "size": [
+          1024,
+          683
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.aamuposti.fi/aihe/israelin-ja-palestiinan-konflikti",
+        "title": "Israelin ja Palestiinan konflikti - AamupostiAamupostihttps://www.aamuposti.fi \u203a aihe \u203a is...",
+        "content": "YK:n turvallisuusneuvosto vaatii humanitaarisia taukoja Gazaan \u00b7 Israel sanoo aloittaneensa sotilaallisen operaation al-\u200bShifan sairaalassa Gazassa \u2013 AFP:\u00a0...",
+        "size": [
+          720,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.ksml.fi/aihe/israelin-ja-palestiinan-konflikti",
+        "title": "Israelin ja Palestiinan konflikti - KeskisuomalainenKeskisuomalainenhttps://www.ksml.fi \u203a aihe \u203a israelin...",
+        "content": "YK:n turvallisuusneuvosto vaatii humanitaarisia taukoja Gazaan \u00b7 Israel sanoo aloittaneensa sotilaallisen operaation al-\u200bShifan sairaalassa Gazassa \u2013 AFP:\u00a0...",
+        "size": [
+          720,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lessentiel.lu/story/guterres-832644009510",
+        "title": "Le Liban accuse Isra\u00ebl d'utiliser du phosphore blancL'essentielhttps://www.lessentiel.lu \u203a story \u203a g...",
+        "content": "Le gouvernement bolivien a annonc\u00e9 mardi rompre les liens diplomatiques avec Isra\u00ebl en raison de la guerre avec le Hamas dans la bande de Gaza. Le gouvernement\u00a0...",
+        "size": [
+          1200,
+          799
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "orchestra_pit",
+        "ioclass": "indoor",
+        "probability": 0.36945709586143494
+      },
+      {
+        "class": "television_studio",
+        "ioclass": "indoor",
+        "probability": 0.06564581394195557
+      },
+      {
+        "class": "physics_laboratory",
+        "ioclass": "indoor",
+        "probability": 0.06525367498397827
+      },
+      {
+        "class": "cockpit",
+        "ioclass": "indoor",
+        "probability": 0.04526732489466667
+      },
+      {
+        "class": "repair_shop",
+        "ioclass": "indoor",
+        "probability": 0.04143553599715233
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9463614821434021
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.7862318158149719
+      },
+      {
+        "class": "bright",
+        "score": 0.7461580038070679
+      },
+      {
+        "class": "busy",
+        "score": 0.6058491468429565
+      },
+      {
+        "class": "dry",
+        "score": 0.59284907579422
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5922824740409851
+      },
+      {
+        "class": "temperature/warm",
+        "score": 0.5725237131118774
+      },
+      {
+        "class": "season/summer",
+        "score": 0.5163726210594177
+      },
+      {
+        "class": "rugged",
+        "score": 0.5161426067352295
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 466,
+        "pred_lat": 12.960104942321777,
+        "pred_long": 77.60025024414062
+      },
+      "middle": {
+        "pred_class": 827,
+        "pred_lat": -33.440452575683594,
+        "pred_long": -70.6544189453125
+      },
+      "fine": {
+        "pred_class": 9305,
+        "pred_lat": 32.242698669433594,
+        "pred_long": 35.314517974853516
+      },
+      "hierarchy": {
+        "pred_class": 9305,
+        "pred_lat": 32.242698669433594,
+        "pred_long": 35.314517974853516
+      },
+      "country": {
+        "city": "",
+        "state": "",
+        "country": "Palestinian Territories"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 32.231983,
+    "longitude": 35.193707,
+    "generationtime_ms": 0.21398067474365234,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 428.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2018-04-03T00:00",
+        "2018-04-03T01:00",
+        "2018-04-03T02:00",
+        "2018-04-03T03:00",
+        "2018-04-03T04:00",
+        "2018-04-03T05:00",
+        "2018-04-03T06:00",
+        "2018-04-03T07:00",
+        "2018-04-03T08:00",
+        "2018-04-03T09:00",
+        "2018-04-03T10:00",
+        "2018-04-03T11:00",
+        "2018-04-03T12:00",
+        "2018-04-03T13:00",
+        "2018-04-03T14:00",
+        "2018-04-03T15:00",
+        "2018-04-03T16:00",
+        "2018-04-03T17:00",
+        "2018-04-03T18:00",
+        "2018-04-03T19:00",
+        "2018-04-03T20:00",
+        "2018-04-03T21:00",
+        "2018-04-03T22:00",
+        "2018-04-03T23:00",
+        "2018-04-04T00:00",
+        "2018-04-04T01:00",
+        "2018-04-04T02:00",
+        "2018-04-04T03:00",
+        "2018-04-04T04:00",
+        "2018-04-04T05:00",
+        "2018-04-04T06:00",
+        "2018-04-04T07:00",
+        "2018-04-04T08:00",
+        "2018-04-04T09:00",
+        "2018-04-04T10:00",
+        "2018-04-04T11:00",
+        "2018-04-04T12:00",
+        "2018-04-04T13:00",
+        "2018-04-04T14:00",
+        "2018-04-04T15:00",
+        "2018-04-04T16:00",
+        "2018-04-04T17:00",
+        "2018-04-04T18:00",
+        "2018-04-04T19:00",
+        "2018-04-04T20:00",
+        "2018-04-04T21:00",
+        "2018-04-04T22:00",
+        "2018-04-04T23:00"
+      ],
+      "apparent_temperature": [
+        13.4,
+        13.3,
+        12.5,
+        12.6,
+        12.1,
+        14.0,
+        15.0,
+        15.8,
+        16.1,
+        18.2,
+        18.2,
+        18.3,
+        19.4,
+        17.7,
+        15.6,
+        14.6,
+        13.7,
+        12.8,
+        11.4,
+        12.8,
+        12.4,
+        11.9,
+        11.8,
+        9.6,
+        13.0,
+        12.4,
+        11.1,
+        10.8,
+        11.1,
+        13.8,
+        17.2,
+        19.6,
+        22.3,
+        23.9,
+        24.6,
+        24.8,
+        24.5,
+        23.9,
+        22.1,
+        20.2,
+        17.0,
+        15.6,
+        15.0,
+        15.1,
+        15.4,
+        15.0,
+        14.8,
+        14.6
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

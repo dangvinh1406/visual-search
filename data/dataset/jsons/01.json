@@ -1,0 +1,3880 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2008/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/04": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2008/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2008/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2009/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2010/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2011/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2012/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2013/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2015/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/01": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 109,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 109,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2008/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2009/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2010/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2011/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2012/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2013/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2014/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2015/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                1,
+                1,
+                1,
+                0,
+                109,
+                2,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 93,
+            "percentage": 50.0
+          },
+          "German": {
+            "count": 25,
+            "percentage": 13.440860215053764
+          },
+          "Portuguese": {
+            "count": 11,
+            "percentage": 5.913978494623656
+          },
+          "Spanish; Castilian": {
+            "count": 10,
+            "percentage": 5.376344086021505
+          },
+          "Bulgarian": {
+            "count": 9,
+            "percentage": 4.838709677419355
+          },
+          "Hindi": {
+            "count": 9,
+            "percentage": 4.838709677419355
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 7,
+            "percentage": 3.763440860215054
+          },
+          "Lithuanian": {
+            "count": 4,
+            "percentage": 2.150537634408602
+          },
+          "Albanian": {
+            "count": 3,
+            "percentage": 1.6129032258064515
+          },
+          "Vietnamese": {
+            "count": 3,
+            "percentage": 1.6129032258064515
+          },
+          "Chinese": {
+            "count": 2,
+            "percentage": 1.075268817204301
+          },
+          "Swahili": {
+            "count": 2,
+            "percentage": 1.075268817204301
+          },
+          "Czech": {
+            "count": 2,
+            "percentage": 1.075268817204301
+          },
+          "Slovenian": {
+            "count": 1,
+            "percentage": 0.5376344086021505
+          },
+          "Dutch; Flemish": {
+            "count": 1,
+            "percentage": 0.5376344086021505
+          },
+          "Korean": {
+            "count": 1,
+            "percentage": 0.5376344086021505
+          },
+          "Polish": {
+            "count": 1,
+            "percentage": 0.5376344086021505
+          }
+        },
+        "total": 186,
+        "plot": {
+          "labels": [
+            "English",
+            "German",
+            "Portuguese",
+            "Spanish; Castilian",
+            "others"
+          ],
+          "data": [
+            50,
+            13,
+            5,
+            5,
+            27
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://www.usmessageboard.com/threads/pro-israel-rally-in-washington-dc.1072069/page-3",
+        "title": "Pro Israel Rally in Washington DC | Page 3 - US Message BoardUS Message Boardhttps://www.usmessageboard.com \u203a ... \u203a Politics",
+        "content": "Supporting Israeli military actions is not the same as opposing anti-semitism. Americans are just back to supporting the \"stupid wars\" again.",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/article1925132/Hamas-bietet-Israel-10-jaehrigen-Waffenstillstand-an.html",
+        "title": "Hamas bietet Israel 10-j\u00e4hrigen Waffenstillstand an - WELTWELThttps://www.welt.de \u203a Politik",
+        "content": "Die radikalislamische Hamas hat Israel unter bestimmten Bedingungen einen zehnj\u00e4hrigen Waffenstillstand angeboten. Dazu m\u00fcsse ein souver\u00e4ner\u00a0...",
+        "size": [
+          1024,
+          1001
+        ],
+        "date": "2008:04:21 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 59,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/article1925132/Hamas-bietet-Israel-10-jaehrigen-Waffenstillstand-an.html",
+        "title": "Hamas bietet Israel 10-j\u00e4hrigen Waffenstillstand an - WELTWELThttps://www.welt.de \u203a Politik",
+        "content": "Die radikalislamische Hamas hat Israel unter bestimmten Bedingungen einen zehnj\u00e4hrigen Waffenstillstand angeboten. Dazu m\u00fcsse ein souver\u00e4ner\u00a0...",
+        "size": [
+          1024,
+          1001
+        ],
+        "date": "2008:04:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/article1925132/Hamas-bietet-Israel-10-jaehrigen-Waffenstillstand-an.html",
+        "title": "Hamas bietet Israel 10-j\u00e4hrigen Waffenstillstand an - WELTWELThttps://www.welt.de \u203a Politik",
+        "content": "Die radikalislamische Hamas hat Israel unter bestimmten Bedingungen einen zehnj\u00e4hrigen Waffenstillstand angeboten. Dazu m\u00fcsse ein souver\u00e4ner\u00a0...",
+        "size": [
+          1024,
+          1001
+        ],
+        "date": "2008:04:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/article1925132/Hamas-bietet-Israel-10-jaehrigen-Waffenstillstand-an.html",
+        "title": "Hamas bietet Israel 10-j\u00e4hrigen Waffenstillstand an - WELTWELThttps://www.welt.de \u203a Politik",
+        "content": "Die radikalislamische Hamas hat Israel unter bestimmten Bedingungen einen zehnj\u00e4hrigen Waffenstillstand angeboten. Dazu m\u00fcsse ein souver\u00e4ner\u00a0...",
+        "size": [
+          1024,
+          1001
+        ],
+        "date": "2008:04:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Why-doesnt-Israel-use-Mossad-to-finish-off-Hamas",
+        "title": "Why doesn't Israel use Mossad to finish off Hamas? - QuoraQuorahttps://www.quora.com \u203a Why-doesnt-Israel-use-Mossad...",
+        "content": "",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2015:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.come-on.de/lennetal/werdohl/kulturforum-legt-jahresplanung-6068389.html",
+        "title": "Kulturforum legt Jahresplanung vor - Werdohl - Come OnCome Onhttps://www.come-on.de \u203a lennetal",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": "2016:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.come-on.de/lennetal/werdohl/kulturforum-legt-jahresplanung-6068389.html",
+        "title": "Kulturforum legt Jahresplanung vor - Werdohl - Come OnCome Onhttps://www.come-on.de \u203a lennetal",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": "2016:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/nation/politics/palaszczuk-uturn-on-adani-amid-rout-fear/news-story/b3633f306975f505f372211b050ec779",
+        "title": "Palaszczuk U-turn on Adani amid rout fear | The AustralianThe Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2019:05:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/nation/coronavirus-fair-work-slashes-redundancy-pay/news-story/eccccd9fbbd455b6030d58420e7ab381",
+        "title": "Coronavirus: Fair Work slashes redundancy pay | The AustralianThe Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2020:04:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://finanzbusiness.de/nachrichten/karriere/article12224078.ece",
+        "title": "Bisheriger VDP-Pr\u00e4sident bleibt im Amt - FinanzBusinessFinanzBusinesshttps://finanzbusiness.de \u203a karriere",
+        "content": "",
+        "size": [
+          1440,
+          1080
+        ],
+        "date": "2020:06:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.band.uol.com.br/noticias/datena-narra-gol-de-bolsonaro-durante-partida-beneficente-assista-16320038",
+        "title": "Datena narra gol de Bolsonaro durante partida beneficenteBandhttps://www.band.uol.com.br \u203a date...",
+        "content": "",
+        "size": [
+          700,
+          394
+        ],
+        "date": "2020:12:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/nation/census-2021-covid-restrictions-saw-25-million-working-from-home/news-story/566d3e257fab9f73ac7150f367a37d6a",
+        "title": "Census 2021: Covid restrictions saw 2.5 million working from ...The Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2022:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/deutschland/article245315650/Israel-Besondere-Verantwortung-fuer-das-juedische-Volk-Deutschen-gespalten.html",
+        "title": "Israel: Besondere Verantwortung f\u00fcr das j\u00fcdische Volk ... - WELTWELThttps://www.welt.de \u203a deutschland",
+        "content": "",
+        "size": [
+          1024,
+          1001
+        ],
+        "date": "2023:05:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://finanzbusiness.de/nachrichten/sparkassen/article15926070.ece",
+        "title": "NordLB startet mit negativem Vorsteuerergebnis ins Jahr 2023FinanzBusinesshttps://finanzbusiness.de \u203a sparkassen",
+        "content": "",
+        "size": [
+          1440,
+          1080
+        ],
+        "date": "2023:05:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://voz.us/alert-in-ukraine-destruction-of-dam-near-kherson-causes-major-flooding-in-the-region/?lang=en",
+        "title": "Alert in Ukraine: Destruction of dam near Kherson causes ...Voz Mediahttps://voz.us \u203a Home \u203a News",
+        "content": "",
+        "size": [
+          551,
+          431
+        ],
+        "date": "2023:06:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nocturneaixpuyricard.com/wp-readme.php?pg=dailymail_news/live/article-12269915/Meta-Threads-launch-LIVE-Mark-Zuckerberg-takes-Elon-Musks-Twitter-Instagram-linked-app.html?ico=amp-comments-addcomment",
+        "title": "Meta Threads LIVE: Millions download Instagram linked app ...nocturneaixpuyricard.comhttps://www.nocturneaixpuyricard.com \u203a wp-readme",
+        "content": "",
+        "size": [
+          636,
+          382
+        ],
+        "date": "2023:07:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://www.24chasa.bg/ozhivlenie/article/15104047",
+        "title": "\u0418\u0441\u043f\u0430\u043d\u0441\u043a\u0430\u0442\u0430 \u0444\u043b\u0430\u043c\u0435\u043d\u0433\u043e \u0441\u0435\u043d\u0437\u0430\u0446\u0438\u044f Mestiza \u0437\u0430 \u043f\u044a\u0440\u0432\u0438 \u043f\u044a\u0442 \u0432 ...24 Chasahttps://www.24chasa.bg \u203a \u0420\u0435\u043b\u0430\u043a\u0441",
+        "content": "",
+        "size": [
+          356,
+          200
+        ],
+        "date": "2023:08:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/How-could-Mossad-not-foresee-Hamas-secret-attack-plans",
+        "title": "How could Mossad not foresee Hamas secret attack plans?Quorahttps://www.quora.com \u203a How-could-Mossad-not-forese...",
+        "content": "By K P Paswan. Don't believe that MOSSAD failed to forsee the attack.This tiny Israel has survived against all odds.",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elrisala.com/babies-beheaded-40-children-shot-dead-in-a-single-settlement-and-families-burnt-alive-by-hamas-sam-greenhill-meets-survivors-of-the-death-squads-and-hears-their-stories-of-unimaginable-horror/",
+        "title": "Babies beheaded, 40 children shot dead in a single ... - ElrisalaElrisalahttps://www.elrisala.com \u203a News \u203a USA",
+        "content": "Babies beheaded, grandparents slain and families torn apart \u2013 the full horror of 'Israel's 9/11' was starting to emerge last night.",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsj.com/world/middle-east/israel-sought-to-contain-hamas-for-years-now-it-faces-a-potentially-costly-fight-to-eliminate-it-aee9f211",
+        "title": "Israel Sought to Contain Hamas for Years. Now It Faces a ...Wall Street Journalhttps://www.wsj.com \u203a world \u203a middle-east",
+        "content": "TEL AVIV\u2014For years, Israel's government pursued a policy of containment against Hamas, using a mix of economic incentives and military force\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.nestia.com/detail_share/11721397",
+        "title": "Babies beheaded, 40 children shot dead in a single ... - NestiaNestiahttps://news.nestia.com \u203a detail_share",
+        "content": "",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.nestia.com/detail_share/11721397",
+        "title": "Babies beheaded, 40 children shot dead in a single ... - NestiaNestiahttps://news.nestia.com \u203a detail_share",
+        "content": "",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldcrunch.com/world-affairs/israel-politics-hubris/unprepared-and-deluded-state",
+        "title": "The Real Lesson For Israel Is About Hubris \u2014 And TheWorldcrunchhttps://worldcrunch.com \u203a israel-politics-hubris \u203a unpr...",
+        "content": "But not only was there no talk of it, there was even an illusion that the Israeli-Palestinian conflict was dormant, if not on the verge of\u00a0...",
+        "size": [
+          210,
+          140
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldcrunch.com/world-affairs/israel-politics-hubris",
+        "title": "The Real Lesson For Israel Is About Hubris - WorldcrunchWorldcrunchhttps://worldcrunch.com \u203a world-affairs \u203a israel-politic...",
+        "content": "Blaming intelligence and military failure for the Oct. 7 assault diverts attention from Israel's real weakness \u2014 a distracted and divisive\u00a0...",
+        "size": [
+          210,
+          140
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://proyectopuente.com.mx/2023/10/10/hallan-40-bebes-asesinados-en-kfar-asa-israel-tras-ataques-de-hamas/",
+        "title": "Hallan 40 beb\u00e9s asesinados en Kfar Asa, Israel, tras ataques ...Proyecto Puentehttps://proyectopuente.com.mx \u203a ha...",
+        "content": "",
+        "size": [
+          990,
+          660
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.news.yahoo.com/%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%AD%E5%B1%A0%E6%9D%91200%E4%BA%BA%E6%85%98%E6%AD%BB-%E8%A8%98%E8%80%85%E7%9B%AE%E6%93%8A-40%E5%85%B7%E5%AC%B0%E5%85%92%E5%B1%8D%E9%AB%94%E5%9C%B0%E7%8D%84-%E6%9C%89%E4%BA%9B%E7%94%9A%E8%87%B3%E8%A2%AB%E6%96%AC%E9%A6%96-012000399.html",
+        "title": "\u4ee5\u8272\u5217\u906d\u5c60\u6751200\u4eba\u6158\u6b7b\uff01\u8a18\u8005\u76ee\u64ca\u300c40\u5177\u5b30\u5152\u5c4d\u9ad4\u5730\u7344\u300dYahoo\u5947\u6469\u65b0\u805ehttps://tw.news.yahoo.com \u203a \u4ee5\u8272\u5217...",
+        "content": "",
+        "size": [
+          640,
+          420
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2023/10/10/israel-hamas-gaza-live-updates.html",
+        "title": "Latest news on Gaza and Israel-Hamas conflict - CNBCCNBChttps://www.cnbc.com \u203a israel-hamas-gaza-live-updates",
+        "content": "",
+        "size": [
+          720,
+          405
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://spotmedia.ro/stiri/eveniment/bebelusi-decapitati-femei-arse-de-vii-barbati-si-batrani-macelariti-video",
+        "title": "Jurnali\u0219tii au g\u0103sit \u00een Israel bebelu\u0219i decapita\u021bi, femei arse ...Spotmedia.rohttps://spotmedia.ro \u203a Stiri",
+        "content": "",
+        "size": [
+          770,
+          540
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.deutschlandfunk.de/programm?drsearch:date=2023-10-11",
+        "title": "Programm - DeutschlandfunkDeutschlandfunkhttps://www.deutschlandfunk.de \u203a p...",
+        "content": "Schweigen in der Clubszene? Nach dem Anschlag auf Supernova-Festival in Israel Anastasia Tikhomirova im Gespr\u00e4ch mit Ina Plodroch \u201eDie\u00a0...",
+        "size": [
+          480,
+          270
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.faz.net/aktuell/politik/ausland/joe-biden-verurteilt-den-angriff-der-hamas-auf-israel-19235028.html",
+        "title": "Joe Biden verurteilt den Angriff der Hamas auf Israel - FAZ.NETFAZ.NEThttps://www.faz.net \u203a ... \u203a Ausland",
+        "content": "",
+        "size": [
+          185,
+          185
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.libertatea.ro/stiri/copii-macelariti-ce-au-descoperit-fortele-israeliene-in-kibuturile-atacate-de-hamas-in-40-de-ani-de-serviciu-nu-am-vazut-asa-ceva-4686946",
+        "title": "\u201eCopii M\u0103cel\u0103ri\u021bi\u201d. Ce Au Descoperit For\u021bele Israeliene \u00een ...Libertateahttps://www.libertatea.ro \u203a \u015etiri",
+        "content": "",
+        "size": [
+          870,
+          580
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.ovb-heimatzeitungen.de/blickpunkt/2023/10/10/israel-schlaegt-mit-aller-haerte-zurueck-hamas-droht-mit-neuen-angriffen.ovb",
+        "title": "Israel schl\u00e4gt mit aller H\u00e4rte zur\u00fcck, Hamas droht mit neuen ...OVB Heimatzeitungen |https://www.ovb-heimatzeitungen.de \u203a ...",
+        "content": "",
+        "size": [
+          500,
+          282
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.news.de/politik/857199078/olaf-scholz-und-emmanuel-macron-essen-fischbroetchen-in-hamburg-shitstorm-fuer-bundeskanzler-deutsche-geiseln-noch-in-israel/1/",
+        "title": "Olaf Scholz: Fischbr\u00f6tchen-Eklat! Mampf mit Macron st\u00f6\u00dft ...News.dehttps://www.news.de \u203a ... \u203a Politik",
+        "content": "",
+        "size": [
+          200,
+          110
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.libertatea.ro/stiri/copii-macelariti-ce-au-descoperit-fortele-israeliene-in-kibuturile-atacate-de-hamas-in-40-de-ani-de-serviciu-nu-am-vazut-asa-ceva-4686946",
+        "title": "\u201eCopii M\u0103cel\u0103ri\u021bi\u201d. Ce Au Descoperit For\u021bele Israeliene \u00een ...Libertateahttps://www.libertatea.ro \u203a \u015etiri",
+        "content": "",
+        "size": [
+          870,
+          580
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.ovb-heimatzeitungen.de/blickpunkt/2023/10/10/israel-schlaegt-mit-aller-haerte-zurueck-hamas-droht-mit-neuen-angriffen.ovb",
+        "title": "Israel schl\u00e4gt mit aller H\u00e4rte zur\u00fcck, Hamas droht mit neuen ...OVB Heimatzeitungen |https://www.ovb-heimatzeitungen.de \u203a ...",
+        "content": "",
+        "size": [
+          500,
+          282
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://news.6park.com/newspark/view.php?app=news&act=view&nid=630287",
+        "title": "\u542f\u52a8\u64a4\u4fa8!\u5df4\u4ee5\u51b2\u7a81\u7b2c\u4e94\u592912\u5c81\u6cd5\u56fd\u5c11\u5e74\u5931\u8e2a-6park.com\u7559\u56ed\u65b0\u95fb\u901f\u9012NEWShttps://news.6park.com \u203a view",
+        "content": "",
+        "size": [
+          630,
+          406
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.rundschau-online.de/ratgeber/nahostkonflikt-auf-social-media-so-schuetzen-eltern-ihre-kinder-662844",
+        "title": "Nahostkonflikt auf Social Media: So sch\u00fctzen Eltern ihre KinderRundschau Onlinehttps://www.rundschau-online.de \u203a ...",
+        "content": "",
+        "size": [
+          300,
+          300
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-tragedie-kibucu-kfar-aza-i-vojaci-se-museli-utesovat-po-tom-co-videli-238158",
+        "title": "Izrael | Fotky z masakru v kibucu Kfar Aza - Seznam Zpr\u00e1vySeznam Zpr\u00e1vyhttps://www.seznamzpravy.cz \u203a zah...",
+        "content": "",
+        "size": [
+          1200,
+          674
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.libertatea.ro/stiri/copii-macelariti-ce-au-descoperit-fortele-israeliene-in-kibuturile-atacate-de-hamas-in-40-de-ani-de-serviciu-nu-am-vazut-asa-ceva-4686946",
+        "title": "\u201eCopii M\u0103cel\u0103ri\u021bi\u201d. Ce Au Descoperit For\u021bele Israeliene \u00een ...Libertateahttps://www.libertatea.ro \u203a \u015etiri",
+        "content": "",
+        "size": [
+          870,
+          580
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.ovb-heimatzeitungen.de/blickpunkt/2023/10/10/israel-schlaegt-mit-aller-haerte-zurueck-hamas-droht-mit-neuen-angriffen.ovb",
+        "title": "Israel schl\u00e4gt mit aller H\u00e4rte zur\u00fcck, Hamas droht mit neuen ...OVB Heimatzeitungen |https://www.ovb-heimatzeitungen.de \u203a ...",
+        "content": "",
+        "size": [
+          500,
+          282
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://spotmedia.ro/tag/kfar-aza",
+        "title": "Kfar Aza - Stiri - spotmedia.roSpotmedia.rohttps://spotmedia.ro \u203a tag \u203a kfar-aza",
+        "content": "",
+        "size": [
+          275,
+          195
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-tragedie-kibucu-kfar-aza-i-vojaci-se-museli-utesovat-po-tom-co-videli-238158",
+        "title": "Izrael | Fotky z masakru v kibucu Kfar Aza - Seznam Zpr\u00e1vySeznam Zpr\u00e1vyhttps://www.seznamzpravy.cz \u203a zah...",
+        "content": "",
+        "size": [
+          1200,
+          674
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.news.de/politik/857199078/olaf-scholz-und-emmanuel-macron-essen-fischbroetchen-in-hamburg-shitstorm-fuer-bundeskanzler-deutsche-geiseln-noch-in-israel/1/",
+        "title": "Olaf Scholz: Fischbr\u00f6tchen-Eklat! Mampf mit Macron st\u00f6\u00dft ...News.dehttps://www.news.de \u203a ... \u203a Politik",
+        "content": "",
+        "size": [
+          200,
+          110
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "http://www.sbiztoday.kr/news/articleView.html?idxno=20630",
+        "title": "\uc774-\ud558\ub9c8\uc2a4 \ubd84\uc7c1\u2026\uc720\uac00\ub3d9\ud5a5, \uae08\uc735\uc2dc\uc7a5\uc5d0 '\ucd09\uac01' - \uc911\uc18c\uae30\uc5c5\ud22c\ub370\uc774\uc911\uc18c\uae30\uc5c5\ud22c\ub370\uc774http://www.sbiztoday.kr \u203a articleView",
+        "content": "",
+        "size": [
+          600,
+          388
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.news.de/politik/857197758/russischer-blogger-gibt-grossbritannien-schuld-an-israel-gaza-krieg-selbst-moderator-wladimir-solowjow-ist-geschockt/1/",
+        "title": "Russischer Blogger gibt Gro\u00dfbritannien Schuld an Israel-KriegNews.dehttps://www.news.de \u203a ... \u203a Politik",
+        "content": "Nach einem blutigen Gro\u00dfangriff der Hamas schl\u00e4gt Israel jetzt ebenfalls brutal zur\u00fcck, bombardiert Gaza massiv. Ein russischer Blogger\u00a0...",
+        "size": [
+          736,
+          414
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://istoe.com.br/hamas-matou-familias-inteiras-no-massacre-de-kfar-aza/",
+        "title": "Hamas matou fam\u00edlias inteiras no massacre de Kfar Aza - Isto\u00c9Isto\u00c9https://istoe.com.br \u203a hamas-matou-...",
+        "content": "",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.terra.com.br/noticias/hamas-matou-familias-inteiras-no-massacre-de-kfar-aza,6739384b3fd59a0f3e44b4c510a95a046jjtytrx.html",
+        "title": "Hamas matou fam\u00edlias inteiras no massacre de Kfar Aza - TerraTerrahttps://www.terra.com.br \u203a noticias",
+        "content": "",
+        "size": [
+          1200,
+          1200
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://istoedinheiro.com.br/hamas-matou-familias-inteiras-no-massacre-de-kfar-aza/",
+        "title": "Hamas matou fam\u00edlias inteiras no massacre de Kfar AzaISTO\u00c9 DINHEIROhttps://istoedinheiro.com.br \u203a hamas...",
+        "content": "",
+        "size": [
+          700,
+          394
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://revistaplaneta.com.br/hamas-matou-familias-inteiras-no-massacre-de-kfar-aza/",
+        "title": "Hamas matou fam\u00edlias inteiras no massacre de Kfar AzaRevista Planetahttps://revistaplaneta.com.br \u203a hama...",
+        "content": "",
+        "size": [
+          700,
+          394
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://revistaplaneta.com.br/hamas-matou-familias-inteiras-no-massacre-de-kfar-aza/",
+        "title": "Hamas matou fam\u00edlias inteiras no massacre de Kfar AzaRevista Planetahttps://revistaplaneta.com.br \u203a hama...",
+        "content": "",
+        "size": [
+          700,
+          394
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://spotmedia.ro/tag/beeri-israel-morti-raniti",
+        "title": "Beeri Israel mor\u021bi r\u0103ni\u021bi - Stiri - spotmedia.roSpotmedia.rohttps://spotmedia.ro \u203a tag \u203a beeri-isr...",
+        "content": "",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.deutschlandfunk.de/programm?drsearch:date=2023-10-11",
+        "title": "Programm - DeutschlandfunkDeutschlandfunkhttps://www.deutschlandfunk.de \u203a p...",
+        "content": "Schweigen in der Clubszene? Nach dem Anschlag auf Supernova-Festival in Israel Anastasia Tikhomirova im Gespr\u00e4ch mit Ina Plodroch \u201eDie\u00a0...",
+        "size": [
+          480,
+          270
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.pap.pl/aktualnosci/masakra-w-kibucu-kfar-aza-palestynscy-terrorysci-mordowali-cale-rodziny-z-malymi",
+        "title": "Masakra w kibucu Kfar Aza. Terrory\u015bci zamordowali oko\u0142o 70 ...Polska Agencja Prasowa SAhttps://www.pap.pl \u203a aktualnosci",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://guik.pe/2023/10/11/barbarie-hamas-decapita-a-padres-con-sus-bebes-en-kibutz-hay-cientos-de-cuerpos/",
+        "title": "BARBARIE: HAM\u00c1S DECAPITA A PADRES CON SUS BEB\u00c9S ...guik.pehttps://guik.pe \u203a 2023/10/11 \u203a barb...",
+        "content": "",
+        "size": [
+          990,
+          660
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://box2265.temp.domains/~newscen8/notigroup/mummy-help-me-the-heartbreaking-conversation-between-autistic-girl-12-and-her-mother-before-she-was-surrounded-and-kidnapped-by-hamas-terrorists/",
+        "title": "The heartbreaking conversation between autistic girl, 12, and ...temp.domainshttp://box2265.temp.domains \u203a ~newscen8 \u203a notigroup",
+        "content": "",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://soundhealthandlastingwealth.com/health/mummy-help-me-the-heartbreaking-conversation-between-autistic-girl-12-and-her-mother-before-she-was-surrounded-and-kidnapped-by-hamas-terrorists/",
+        "title": "'Mummy, help me': The heartbreaking conversation between ...Sound Health and Lasting Wealthhttps://soundhealthandlastingwealth.com \u203a Health",
+        "content": "",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elasemawelnas.com/2023/10/12/israel-palestine-news-live-gaza-power-plant-runs-out-of-fuel-as-hamas-rocket-hits-israeli-hospital/",
+        "title": "Israel Palestine news LIVE: Gaza power plant runs out of fuel ...elasemawelnas.comhttps://www.elasemawelnas.com \u203a Uncategorized",
+        "content": "Breaking: US President Joe Biden calls Hamas' attack on Israel 'the deadliest day for Jews since the Holocaust'. US President Joe Biden has\u00a0...",
+        "size": [
+          574,
+          383
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://soundhealthandlastingwealth.com/health/trained-animals-of-hamas-chilling-screenshot-shows-hamas-terrorists-arriving-to-kibbutz-where-they-killed-at-least-100-people-and-beheaded-women-children-babies-and-the-elderly/",
+        "title": "Chilling screenshot shows Hamas terrorists arriving to kibbutz ...Sound Health and Lasting Wealthhttps://soundhealthandlastingwealth.com \u203a Health",
+        "content": "A screenshot from a video has revealed the chilling moment Hamas butchers arrived in an Israeli village, where they murdered at least 100\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elasemawelnas.com/2023/10/12/israel-palestine-news-live-gaza-power-plant-runs-out-of-fuel-as-hamas-rocket-hits-israeli-hospital/",
+        "title": "Israel Palestine news LIVE: Gaza power plant runs out of fuel ...elasemawelnas.comhttps://www.elasemawelnas.com \u203a Uncategorized",
+        "content": "Breaking: US President Joe Biden calls Hamas' attack on Israel 'the deadliest day for Jews since the Holocaust'. US President Joe Biden has\u00a0...",
+        "size": [
+          574,
+          383
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dailyuknews.com/us-news/trained-animals-of-hamas-chilling-screenshot-shows-hamas-terrorists-arriving-to-kibbutz-where-they-killed-at-least-100-people-and-beheaded-women-children-babies-and-the-elderly/",
+        "title": "Chilling screenshot shows Hamas terrorists arriving to kibbutz ...dailyuknews.comhttps://dailyuknews.com \u203a US",
+        "content": "A screenshot from a video has revealed the chilling moment Hamas butchers arrived in an Israeli village, where they murdered at least 100\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.knowledia.com/GB/en/articles/how-hamas-terrorists-went-on-2-day-rampage-in-israeli-village-beheading-e1e4eb788ad923392cda30d4915b737e3f7eb730",
+        "title": "How Hamas terrorists went on 2-day rampage in Israeli village ...Knowledia Newshttps://news.knowledia.com \u203a articles",
+        "content": "A SLEEPY Israeli town was transformed into a hellish wasteland as brutal Hamas terrorists cruelly massacred at least 40 babies and kids.",
+        "size": [
+          636,
+          382
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://soundhealthandlastingwealth.com/health/trained-animals-of-hamas-chilling-screenshot-shows-hamas-terrorists-arriving-to-kibbutz-where-they-killed-at-least-100-people-and-beheaded-women-children-babies-and-the-elderly/",
+        "title": "Chilling screenshot shows Hamas terrorists arriving to kibbutz ...Sound Health and Lasting Wealthhttps://soundhealthandlastingwealth.com \u203a Health",
+        "content": "A screenshot from a video has revealed the chilling moment Hamas butchers arrived in an Israeli village, where they murdered at least 100\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hotcopper.co.nz/threads/israel-on-war-alert-operation-swords-of-iron-enacted.7622725/page-22",
+        "title": "Israel on War Alert - Operation Swords of Iron enacted, page-22hotcopper.co.nzhttps://hotcopper.co.nz \u203a threads \u203a page-22",
+        "content": "An Israeli woman has been hailed a hero after saving kibbutz Nir Am from Hamas as infiltrating forces began to invade the border village. Inbar\u00a0...",
+        "size": [
+          636,
+          382
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deal.town/daily-mail/why-an-australian-couple-are-furious-after-winning-a-42million-home-nightmare-P3SXP5UZE",
+        "title": "Why an Australian couple are furious after winning a $4.2 ...dealtownhttps://deal.town \u203a daily-mail",
+        "content": "... Jewish teenagers if they did not remove an Israeli flag from their car. READ MORE \u2192 \u00b7 Hamas terrorists 'beheaded babies during kibbutz\u00a0...",
+        "size": [
+          1908,
+          1146
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://box2265.temp.domains/~newscen8/notigroup/trained-animals-of-hamas-chilling-screenshot-shows-hamas-terrorists-arriving-to-kibbutz-where-they-killed-at-least-100-people-and-beheaded-women-children-babies-and-the-elderly/",
+        "title": "Chilling screenshot shows Hamas terrorists arriving to kibbutz ...temp.domainshttp://box2265.temp.domains \u203a ~newscen8 \u203a notigroup",
+        "content": "A screenshot from a video has revealed the chilling moment Hamas butchers arrived in an Israeli village, where they murdered at least 100\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deal.town/daily-mail/israeli-woman-inbar-lieberman-25-is-hailed-a-hero-for-saving-kibbutz-nir-am-from-invading-hamas-PKQWMM6ZE",
+        "title": "Israeli woman Inbar Lieberman, 25, is hailed a hero for saving ...dealtownhttps://deal.town \u203a daily-mail",
+        "content": "Israeli woman, Inbar Lieberman, 25, has been hailed a hero after saving kibbutz Nir Am from Hamas as infiltrating forces began to invade the\u00a0...",
+        "size": [
+          1908,
+          1146
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://uk3.topnews.media/2023/10/11/babies-beheaded-40-children-shot-dead-in-a-single-settlement-and-families-burnt-alive-by-hamas-sam-greenhill-meets-survivors-of-the-death-squads-and-hears-their-stories-of-unimaginable-horror/",
+        "title": "Babies beheaded, 40 children shot dead in a single ...TOPNews.MEDIAhttps://uk3.topnews.media \u203a 2023/10/11 \u203a babies-behe...",
+        "content": "Babies beheaded, grandparents slain and families torn apart \u2013 the full horror of 'Israel's 9/11' was starting to emerge last night.",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elasemawelnas.com/2023/10/11/babies-beheaded-40-children-shot-dead-in-a-single-settlement-and-families-burnt-alive-by-hamas-sam-greenhill-meets-survivors-of-the-death-squads-and-hears-their-stories-of-unimaginable-horror/",
+        "title": "Babies beheaded, 40 children shot dead in a single ... - CNelasemawelnas.comhttps://www.elasemawelnas.com \u203a Reports",
+        "content": "Babies beheaded, 40 children shot dead in a single settlement, and families burnt alive by Hamas... SAM GREENHILL meets survivors of the\u00a0...",
+        "size": [
+          154,
+          115
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themonthlymosquito.co.uk/2023/10/11/hamas-beheaded-babies-shot-40-children-and-burned-families-alive/",
+        "title": "Hamas Beheaded Babies, Shot 40 Children And Burned ...themonthlymosquito.co.ukhttps://themonthlymosquito.co.uk \u203a 2023/10/11 \u203a ham...",
+        "content": "Babies decapitated, grandparents slaughtered and families ripped apart, that was the full horror of 'Israel's 9/11 that has emerged.",
+        "size": [
+          633,
+          405
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dailyuknews.com/us-news/mummy-help-me-the-heartbreaking-conversation-between-autistic-girl-12-and-her-mother-before-she-was-surrounded-and-kidnapped-by-hamas-terrorists/",
+        "title": "'Mummy, help me': The heartbreaking conversation between ...dailyuknews.comhttps://dailyuknews.com \u203a US",
+        "content": "",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://soundhealthandlastingwealth.com/health/mummy-help-me-the-heartbreaking-conversation-between-autistic-girl-12-and-her-mother-before-she-was-surrounded-and-kidnapped-by-hamas-terrorists/",
+        "title": "'Mummy, help me': The heartbreaking conversation between ...Sound Health and Lasting Wealthhttps://soundhealthandlastingwealth.com \u203a Health",
+        "content": "",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://whatsnew2day.com/aoc-distances-herself-from-hateful-eight-squad-peers-condemning-anti-semitic-rallies-across-the-us-as-disturbing-footage-of-pro-hamas-mob-mocking-jewish-victims-surfaces/",
+        "title": "AOC Distances Herself From Hateful Eight Squad Peers ...WhatsNew2Dayhttps://whatsnew2day.com \u203a US",
+        "content": "",
+        "size": [
+          634,
+          429
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/live/article-12617867/Israel-Palestine-news-LIVE-IDF-Gaza-Hamas.html",
+        "title": "Israel Palestine news RECAP: US President Joe Biden calls ...Daily Mailhttps://www.dailymail.co.uk \u203a live \u203a article-12617867",
+        "content": "The Palestinian death toll since Saturday rose to more than 1,100, including 326 children, with thousands more wounded;; Israeli air strikes\u00a0...",
+        "size": [
+          574,
+          383
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12617613/Trained-animals-Hamas-Chilling-screenshot-shows-Hamas-terrorists-arriving-kibbutz-killed-100-people-beheaded-women-children-babies-elderly.html",
+        "title": "Chilling screenshot shows Hamas terrorists arriving to kibbutz ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12617613",
+        "content": "A screenshot from a video has revealed the chilling moment Hamas butchers arrived in an Israeli village, where they murdered at least 100\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elrisala.com/israel-palestine-news-live-gaza-power-plant-runs-out-of-fuel-as-hamas-rocket-hits-israeli-hospital/",
+        "title": "Israel Palestine news LIVE: Gaza power plant runs out of fuel ...Elrisalahttps://www.elrisala.com \u203a News \u203a USA",
+        "content": "",
+        "size": [
+          574,
+          383
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://box2265.temp.domains/~newscen8/notigroup/mummy-help-me-the-heartbreaking-conversation-between-autistic-girl-12-and-her-mother-before-she-was-surrounded-and-kidnapped-by-hamas-terrorists/",
+        "title": "The heartbreaking conversation between autistic girl, 12, and ...temp.domainshttp://box2265.temp.domains \u203a ~newscen8 \u203a notigroup",
+        "content": "",
+        "size": [
+          634,
+          423
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsj.com/livecoverage/israel-hamas-war-gaza/card/latest-casualty-figures-from-israel-and-gaza-dQNSenweikTeA7YPWzOP",
+        "title": "Latest Death Toll in Israel and Gaza - The Wall Street JournalWall Street Journalhttps://www.wsj.com \u203a israel-hamas-war-gaza \u203a card",
+        "content": "As the conflict between Hamas and Israel entered a fifth day on Wednesday, the number of dead continued to rise, topping 1000 on each side\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12616463/holocaust-Babies-beheaded-40-children-shot-dead-families-burnt-alive.html",
+        "title": "Babies beheaded, 40 children shot dead in a ... - Daily MailDaily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12616463",
+        "content": "Babies beheaded, 40 children shot dead in a single settlement, and families burnt alive by Hamas... SAM GREENHILL meets survivors of the death\u00a0...",
+        "size": [
+          636,
+          382
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12617209/AOC-FINALLY-breaks-ranks-woke-Squad-members-condemns-appalling-anti-Semitic-rallies-NYC.html",
+        "title": "AOC FINALLY breaks ranks with Hateful Eight Squad ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12617209",
+        "content": "",
+        "size": [
+          634,
+          429
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.2gb.com/babies-beheaded-horrific-reports-coming-out-of-israel/",
+        "title": "'Babies beheaded' - Horrific reports coming out of Israel - 2GB2GBhttps://www.2gb.com \u203a babies-beheaded-horrific-repo...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://orbitnews.site/israel-palestine-news-live-idf-continues-to-strike-gaza-with-air-strikes-as-troops-massed-on-the-border-prepare-to-execute-mission/",
+        "title": "Israel Palestine News LIVE: IDF Continues To Strike Gaza ...orbitnews.sitehttps://orbitnews.site \u203a USA News",
+        "content": "Hamas rocket hits Israeli hospital \u00b7 King Charles is 'appalled' at 'barbaric acts of terrorism' carried out by Hamas, palace says \u00b7 Israel-Hamas\u00a0...",
+        "size": [
+          574,
+          383
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/world/israel-at-war-hardened-soldiers-broke-down-and-cried-at-barbaric-massacre-of-harmless-babies/news-story/7f5797d5bfa9463b5a8aee71226003a5",
+        "title": "Israel war: Beheaded babies found at Kfar Aza kibbutz after ...The Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "When Israeli soldiers finally secured Kfar Aza, the small kibbutz closest to the Gaza perimeter fence, they had already witnessed atrocities and\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://newsnow.ro/articol/a-decapitat-sau-nu-hamas-copii-si-bebelusi-in-israel-ce-se-stie-despre-povestea-care-a-ingrozit-planeta",
+        "title": "A decapitat sau nu Hamas copii \u015fi bebelu\u015fi \u00een Israel? Ce se ...NewsNow.rohttps://newsnow.ro \u203a articol \u203a a-dec...",
+        "content": "R\u0103zboi Israel - Hamas. Purt\u0103torul de cuv\u00e2nt al Casei Albe a declarat c\u0103 oficialii americani nu au v\u0103zut imagini \u015fi nu confirm\u0103 atrocit\u0103\u021bile\u00a0...",
+        "size": [
+          1250,
+          833
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-12-23/h_798fdebb7242a817c12819f25795f7f6",
+        "title": "October 12, 2023 - Israel-Hamas war newsCNN.comhttps://www.cnn.com \u203a middleeast \u203a live-news \u203a israel-ne...",
+        "content": "The United States government will arrange charter flights starting Friday for American citizens seeking to leave Israel, according to\u00a0...",
+        "size": [
+          460,
+          307
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://www.dw.com/bg/netanahu-vseki-clen-na-hamas-e-hodes-mrtvec/a-67073800",
+        "title": "\u041d\u0435\u0442\u0430\u043d\u044f\u0445\u0443: \u0412\u0441\u0435\u043a\u0438 \u0447\u043b\u0435\u043d \u043d\u0430 \u0425\u0430\u043c\u0430\u0441 \u0435 \"\u0445\u043e\u0434\u0435\u0449 \u043c\u044a\u0440\u0442\u0432\u0435\u0446\" - DWDWhttps://www.dw.com \u203a netanahu-vse...",
+        "content": "",
+        "size": [
+          545,
+          307
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.opovo.com.br/noticias/mundo/2023/10/12/hamas-matou-familias-inteiras-no-massacre-de-kfar-aza.html",
+        "title": "Hamas matou fam\u00edlias inteiras no massacre de Kfar AzaO POVOhttps://www.opovo.com.br \u203a mundo",
+        "content": "",
+        "size": [
+          940,
+          411
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://www.dw.com/bg/netanahu-vseki-clen-na-hamas-e-hodes-mrtvec/a-67073800",
+        "title": "\u041d\u0435\u0442\u0430\u043d\u044f\u0445\u0443: \u0412\u0441\u0435\u043a\u0438 \u0447\u043b\u0435\u043d \u043d\u0430 \u0425\u0430\u043c\u0430\u0441 \u0435 \"\u0445\u043e\u0434\u0435\u0449 \u043c\u044a\u0440\u0442\u0432\u0435\u0446\" - DWDWhttps://www.dw.com \u203a netanahu-vse...",
+        "content": "",
+        "size": [
+          545,
+          307
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://forum.bodybuilding.nl/topics/live-news-topic.393332/page-261",
+        "title": "Live News Topic | Pagina 261 | Bodybuilding.nl ForumBodybuilding.nl Forumhttps://forum.bodybuilding.nl \u203a topics",
+        "content": "",
+        "size": [
+          1280,
+          640
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news.com.au/world/middle-east/biden-says-hes-seen-confirmed-pictures-of-terrorists-beheading-children/news-story/be3189e40a99cca57920709d6fe5f446",
+        "title": "Biden says he's seen 'confirmed pictures of terrorists ...News.com.auhttps://www.news.com.au \u203a World \u203a Middle-east",
+        "content": "US President Joe Biden says he has seen \u201cconfirmed pictures of terrorists beheading children\u201d in southern Israel during Saturday's bloody\u00a0...",
+        "size": [
+          1279,
+          720
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.news.de/politik/857200020/israel-krieg-news-netanjahu-jeder-hamas-terrorist-ist-ein-toter-mann-israels-praesident-droht-islamisten-bodenoffensive-im-gazastreifen/1/",
+        "title": "Benjamin Netanjahu: Rache nach Massaker? Israel-Pr\u00e4sident ...News.dehttps://www.news.de \u203a ... \u203a Politik",
+        "content": "",
+        "size": [
+          200,
+          110
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elinformadorchile.cl/2023/10/12/bebes-asesinados-y-quemados-por-hamas-publican-fotos-desde-oficina-de-benjamin-netanyahu/",
+        "title": "\"Beb\u00e9s asesinados y quemados\" por Ham\u00e1s : Publican fotos ...Informador Chilehttps://www.elinformadorchile.cl \u203a ...",
+        "content": "",
+        "size": [
+          773,
+          380
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://edition.cnn.com/middleeast/live-news/israel-news-hamas-war-10-12-23/h_d19cf51dd373bbdadb39cc94890784b7",
+        "title": "October 12, 2023 - Israel-Hamas war newsCNN.comhttps://edition.cnn.com \u203a middleeast \u203a live-news \u203a israel-...",
+        "content": "After Hamas attacked Israel on Saturday, Israel responded by ordering a \"complete seige,\" of Gaza, cutting off food, electricity, fuel and water\u00a0...",
+        "size": [
+          460,
+          307
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "lt",
+        "link": "https://www.delfi.lt/news/daily/world/hamas-ataka-izraelyje-izraelio-artilerija-gazos-ruoza-bombarduoja-kas-30-sekundziu.d?id=94770641",
+        "title": "\u201eHamas\u201c ataka Izraelyje. Izraelio artilerija Gazos Ruo\u017e\u0105 ... - DelfiDelfihttps://www.delfi.lt \u203a ... \u203a U\u017esienyje",
+        "content": "... Israelis Katzas sekmadien\u012f prane\u0161\u0117, kad piet\u0173 Gazoje v\u0117l buvo \u012fjungtas vandentiekis.Ta\u010diau elektros tiekimo sutrikimai kelia gr\u0117sm\u0119\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-12-23/h_4326bdad3ad54b740f850c5aca930d05",
+        "title": "October 12, 2023 - Israel-Hamas war news - CNNCNN.comhttps://www.cnn.com \u203a middleeast \u203a live-news \u203a israel-ne...",
+        "content": "Gaza's humanitarian crisis deepened Thursday with warnings people are at risk of starvation as Israel maintained a siege and bombarded\u00a0...",
+        "size": [
+          460,
+          307
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.dw.com/pt-br/israel-ataca-aeroportos-de-damasco-e-aleppo-na-s%C3%ADria/a-67083116",
+        "title": "Israel ataca aeroportos de Damasco e Aleppo, na S\u00edria - DWDWhttps://www.dw.com \u203a pt-br \u203a israel...",
+        "content": "Enquanto S\u00edria acusa Israel de \"desviar a aten\u00e7\u00e3o\" do conflito com o Hamas, embaixador israelense na Alemanha confirmou o bombardeio em pelo\u00a0...",
+        "size": [
+          129,
+          129
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://bbs.wenxuecity.com/currentevent/3185546.html",
+        "title": "Netanyahu releases photos of \"babies murdered and burned\"\u6587\u5b66\u57ce| \u8bba\u575b\u9891\u9053bbs.wenxuecity.comhttps://bbs.wenxuecity.com \u203a curren...",
+        "content": "Israeli forces extracting dead bodies of Israeli residents from a ... Prime Minister Benjamin Netanyahu's office Thursday released \u201chorrifying\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://saintsreport.com/threads/israel.497831/page-54",
+        "title": "Israel | Page 54 | New Orleans Saints - SaintsReport.comSaintsReport.comhttps://saintsreport.com \u203a ... \u203a Everything Else Board",
+        "content": "",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.deutschlandfunk.de/zahl-internationaler-todesopfer-steigt-102.html",
+        "title": "Nahost-Krieg - Zahl internationaler Todesopfer steigtDeutschlandfunkhttps://www.deutschlandfunk.de \u203a z...",
+        "content": "Nach dem Angriff der radikalislamischen Hamas auf Israel werden immer mehr internationale Todesopfer best\u00e4tigt.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.opovo.com.br/noticias/mundo/2023/10/12/hamas-matou-familias-inteiras-no-massacre-de-kfar-aza.html",
+        "title": "Hamas matou fam\u00edlias inteiras no massacre de Kfar AzaO POVOhttps://www.opovo.com.br \u203a mundo",
+        "content": "",
+        "size": [
+          940,
+          411
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.deutschlandfunk.de/zahl-internationaler-todesopfer-steigt-102.html",
+        "title": "Nahost-Krieg - Zahl internationaler Todesopfer steigtDeutschlandfunkhttps://www.deutschlandfunk.de \u203a z...",
+        "content": "Nach dem Angriff der radikalislamischen Hamas auf Israel werden immer mehr internationale Todesopfer best\u00e4tigt.",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://lahora.cl/internacional/2023/10/12/imagenes-fuertes-israel-publica-las-fotos-de-bebes-asesinados-para-demostrar-la-matanza-de-hamas/",
+        "title": "Israel public\u00f3 fotos de beb\u00e9s asesinados en matanza de Ham\u00e1slahora.clhttps://lahora.cl \u203a 2023/10/12 \u203a ima...",
+        "content": "Los registros corresponden a guaguas masacradas en el ataque del grupo terrorista contra una comunidad agr\u00edcola israel\u00ed y que Lahora decidi\u00f3 no\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%BE%9E%E9%81%8F%E5%88%B6%E5%93%88%E9%A6%AC%E6%96%AF%E8%BD%89%E5%90%91%E6%B8%85%E9%99%A4%E7%AD%96%E7%95%A5-%E6%88%96%E4%BB%98%E5%87%BA%E5%B7%A8%E5%A4%A7%E4%BB%A3%E5%83%B9-35a6cbbd",
+        "title": "\u4ee5\u8272\u5217\u5f9e\u904f\u5236\u54c8\u99ac\u65af\u8f49\u5411\u6e05\u9664\u7b56\u7565\uff0c\u6216\u4ed8\u51fa\u5de8\u5927\u4ee3\u50f9\u534e\u5c14\u8857\u65e5\u62a5\u4e2d\u6587\u7f51https://cn.wsj.com \u203a articles \u203a \u4ee5\u8272...",
+        "content": "",
+        "size": [
+          700,
+          466
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.phillyvoice.com/hamas-attacks-israel-public-response-palestine/",
+        "title": "Opinion: The only response to the Hamas attacks on Israel ...PhillyVoicehttps://www.phillyvoice.com \u203a hamas-attacks-israel-pu...",
+        "content": "After Hamas attacked Israel last weekend, some political and student groups in the Philadelphia region couched the carnage as the inevitable\u00a0...",
+        "size": [
+          696,
+          464
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.jansatta.com/videos/news-video/israel-palestine-conflict-will-it-take-about-56000-crore-to-turn-hamas-into-nothing-for-israel-government/3040463/",
+        "title": "Israel-Hamas War: \u0939\u092e\u093e\u0938 \u0915\u094b \u0916\u0924\u094d\u092e \u0915\u0930\u0928\u0947 \u0915\u093e \u091f\u093e\u0930\u0917\u0947\u091f,\u0916\u0930\u094d\u091a \u0939\u094b\u0902\u0917\u0947 ...Jansattahttps://www.jansatta.com \u203a videos",
+        "content": "",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://lahora.cl/internacional/2023/10/13/israel-ordena-evacuacion-en-24-horas-en-la-franja-de-gaza/",
+        "title": "Israel ordena evacuaci\u00f3n en 24 horas en la Franja de Gazalahora.clhttps://lahora.cl \u203a 2023/10/13 \u203a isra...",
+        "content": "",
+        "size": [
+          600,
+          300
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.jansatta.com/international/israel-hamas-war-50-thousand-pregnant-women-yearning-for-water-in-gaza-447-children-killed/3041508/",
+        "title": "\u0917\u093e\u091c\u093e \u092e\u0947\u0902 \u092a\u093e\u0928\u0940 \u0915\u094b \u0924\u0930\u0938 \u0930\u0939\u0940\u0902 50 \u0939\u091c\u093e\u0930 \u0917\u0930\u094d\u092d\u0935\u0924\u0940 \u092e\u0939\u093f\u0932\u093e\u090f\u0902, \u0905\u092c \u0924\u0915 \u092e\u093e\u0930\u0947 \u0917\u090f ...Jansattahttps://www.jansatta.com \u203a israel-ha...",
+        "content": "",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news247plus.com/news/35052/Hamas-terrorists-Pregnant-womans-stomach-torn-in-Israel-childs-body-pierced-with-knife",
+        "title": "Hamas terrorists: Pregnant woman's stomach torn in Israel ...News247Plushttps://www.news247plus.com \u203a News",
+        "content": "The body of a pregnant woman has been found in a town in Israel.. Read more at News247plus.",
+        "size": [
+          858,
+          480
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.jansatta.com/videos/news-video/israel-palestine-conflict-will-it-take-about-56000-crore-to-turn-hamas-into-nothing-for-israel-government/3040463/",
+        "title": "Israel-Hamas War: \u0939\u092e\u093e\u0938 \u0915\u094b \u0916\u0924\u094d\u092e \u0915\u0930\u0928\u0947 \u0915\u093e \u091f\u093e\u0930\u0917\u0947\u091f,\u0916\u0930\u094d\u091a \u0939\u094b\u0902\u0917\u0947 ...Jansattahttps://www.jansatta.com \u203a videos",
+        "content": "",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/ausland/article247978702/Israel-Netanjahu-zeigt-US-Aussenminister-Blinken-Fotos-von-ermordeten-Babys.html",
+        "title": "Israel: Netanjahu zeigt US-Au\u00dfenminister Blinken Fotos von ...WELThttps://www.welt.de \u203a ... \u203a Ausland",
+        "content": "",
+        "size": [
+          1024,
+          1001
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://lahora.cl/internacional/2023/10/13/israel-ordena-evacuacion-en-24-horas-en-la-franja-de-gaza/",
+        "title": "Israel ordena evacuaci\u00f3n en 24 horas en la Franja de Gazalahora.clhttps://lahora.cl \u203a 2023/10/13 \u203a isra...",
+        "content": "",
+        "size": [
+          600,
+          300
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news247plus.com/news/35052/Hamas-terrorists-Pregnant-womans-stomach-torn-in-Israel-childs-body-pierced-with-knife",
+        "title": "Hamas terrorists: Pregnant woman's stomach torn in Israel ...News247Plushttps://www.news247plus.com \u203a News",
+        "content": "The body of a pregnant woman has been found in a town in Israel.. Read more at News247plus.",
+        "size": [
+          858,
+          480
+        ],
+        "date": "2023:10:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "lt",
+        "link": "https://www.delfi.lt/news/daily/world/feiginas-apie-karo-izraelyje-scenarijus-ukrainai-bus-esminiu-pokyciu.d?id=94769421",
+        "title": "Feiginas \u2013 apie karo Izraelyje scenarijus: Ukrainai bus ... - DelfiDelfihttps://www.delfi.lt \u203a ... \u203a U\u017esienyje",
+        "content": "",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "lt",
+        "link": "https://www.delfi.lt/news/daily/world/feiginas-apie-karo-izraelyje-scenarijus-ukrainai-bus-esminiu-pokyciu.d?id=94769421",
+        "title": "Feiginas \u2013 apie karo Izraelyje scenarijus: Ukrainai bus ... - DelfiDelfihttps://www.delfi.lt \u203a ... \u203a U\u017esienyje",
+        "content": "",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.dw.com/pt-br/brasileiros-poder%C3%A3o-deixar-gaza-via-egito/a-67095976",
+        "title": "Brasileiros poder\u00e3o deixar Gaza via Egito \u2013 DW \u2013 14/10/2023DWhttps://www.dw.com \u203a pt-br \u203a brasil...",
+        "content": "",
+        "size": [
+          129,
+          129
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "lt",
+        "link": "https://www.delfi.lt/news/daily/world/feiginas-apie-karo-izraelyje-scenarijus-ukrainai-bus-esminiu-pokyciu.d?id=94769421",
+        "title": "Feiginas \u2013 apie karo Izraelyje scenarijus: Ukrainai bus ... - DelfiDelfihttps://www.delfi.lt \u203a ... \u203a U\u017esienyje",
+        "content": "",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sw",
+        "link": "https://parstoday.ir/sw/news/middle_east-i103566-mwandishi_wa_israel_wazayuni_1_815_wamengamizwa_na_hamas",
+        "title": "Wazayuni 1815 wamengamizwa na Hamas - Pars TodayPars Todayhttps://parstoday.ir \u203a news \u203a middle...",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sw",
+        "link": "https://parstoday.ir/sw/news/middle_east-i103566-mwandishi_wa_israel_wazayuni_1_815_wamengamizwa_na_hamas",
+        "title": "Wazayuni 1815 wamengamizwa na Hamas - Pars TodayPars Todayhttps://parstoday.ir \u203a news \u203a middle...",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://finanzbusiness.de/nachrichten/sparkassen/article16525789.ece",
+        "title": "Israelische Regierung bedankt sich bei Berliner Sparkasse f\u00fcr ...FinanzBusinesshttps://finanzbusiness.de \u203a sparkassen",
+        "content": "",
+        "size": [
+          1440,
+          1080
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldcrunch.com/u/valeriaberghinz",
+        "title": "Valeria Berghinz - WorldcrunchWorldcrunchhttps://worldcrunch.com \u203a valeriaberghinz",
+        "content": "",
+        "size": [
+          744,
+          496
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.aajtak.in/opinion-analysis-/story/israel-gaza-war-photos-telling-bloody-tale-of-death-and-agony-opnd1-1802799-2023-10-20",
+        "title": "\u0907\u091c\u0930\u093e\u092f\u0932-\u0917\u093e\u091c\u093e \u092f\u0941\u0926\u094d\u0927 \u0915\u0940 \u0924\u0938\u094d\u200d\u0935\u0940\u0930\u094b\u0902 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0926\u0947 \u0930\u0939\u0940 \u0939\u0948 \u0916\u0942\u0928 \u0914\u0930 \u0906\u0902\u0938\u0941\u0913\u0902 ...\u0906\u091c \u0924\u0915https://www.aajtak.in \u203a story \u203a israel...",
+        "content": "\u0914\u0930 \u0916\u0942\u0928 \u0915\u0940 \u0916\u0947\u0924\u0940 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u092f\u0941\u0926\u094d\u0927 \u0938\u0947 \u092e\u093e\u0915\u0942\u0932 \u092e\u094c\u0938\u092e \u0915\u094b\u0908 \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e. Israel-Gaza war photo-2. \u0932\u093e\u0936\u0947\u0902 \u0907\u091c\u0930\u093e\u092f\u0932\u0940-\u092b\u093f\u0932\u093f\u0938\u094d\u200d\u0924\u0940\u0928\u0940 \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948\u0902,\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.aajtak.in/opinion-analysis-/story/israel-gaza-war-photos-telling-bloody-tale-of-death-and-agony-opnd1-1802799-2023-10-20",
+        "title": "\u0907\u091c\u0930\u093e\u092f\u0932-\u0917\u093e\u091c\u093e \u092f\u0941\u0926\u094d\u0927 \u0915\u0940 \u0924\u0938\u094d\u200d\u0935\u0940\u0930\u094b\u0902 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0926\u0947 \u0930\u0939\u0940 \u0939\u0948 \u0916\u0942\u0928 \u0914\u0930 \u0906\u0902\u0938\u0941\u0913\u0902 ...\u0906\u091c \u0924\u0915https://www.aajtak.in \u203a story \u203a israel...",
+        "content": "\u0914\u0930 \u0916\u0942\u0928 \u0915\u0940 \u0916\u0947\u0924\u0940 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u092f\u0941\u0926\u094d\u0927 \u0938\u0947 \u092e\u093e\u0915\u0942\u0932 \u092e\u094c\u0938\u092e \u0915\u094b\u0908 \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e. Israel-Gaza war photo-2. \u0932\u093e\u0936\u0947\u0902 \u0907\u091c\u0930\u093e\u092f\u0932\u0940-\u092b\u093f\u0932\u093f\u0938\u094d\u200d\u0924\u0940\u0928\u0940 \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948\u0902,\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.aajtak.in/opinion-analysis-/story/israel-gaza-war-photos-telling-bloody-tale-of-death-and-agony-opnd1-1802799-2023-10-20",
+        "title": "\u0907\u091c\u0930\u093e\u092f\u0932-\u0917\u093e\u091c\u093e \u092f\u0941\u0926\u094d\u0927 \u0915\u0940 \u0924\u0938\u094d\u200d\u0935\u0940\u0930\u094b\u0902 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0926\u0947 \u0930\u0939\u0940 \u0939\u0948 \u0916\u0942\u0928 \u0914\u0930 \u0906\u0902\u0938\u0941\u0913\u0902 ...\u0906\u091c \u0924\u0915https://www.aajtak.in \u203a story \u203a israel...",
+        "content": "\u0914\u0930 \u0916\u0942\u0928 \u0915\u0940 \u0916\u0947\u0924\u0940 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u092f\u0941\u0926\u094d\u0927 \u0938\u0947 \u092e\u093e\u0915\u0942\u0932 \u092e\u094c\u0938\u092e \u0915\u094b\u0908 \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e. Israel-Gaza war photo-2. \u0932\u093e\u0936\u0947\u0902 \u0907\u091c\u0930\u093e\u092f\u0932\u0940-\u092b\u093f\u0932\u093f\u0938\u094d\u200d\u0924\u0940\u0928\u0940 \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948\u0902,\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://baotiengdan.com/2023/10/23/chien-tranh-trung-dong-hien-trang-y-nghia-dia-chinh-tri-va-anh-huong-quoc-te/",
+        "title": "Chi\u1ebfn tranh Trung \u0110\u00f4ng: Hi\u1ec7n tr\u1ea1ng, \u00fd ngh\u0129a \u0111\u1ecba ch\u00ednh tr\u1ecb v\u00e0 ...Ti\u1ebfng D\u00e2nhttps://baotiengdan.com \u203a 2023/10/23",
+        "content": "Nh\u01b0ng Th\u1ee7 t\u01b0\u1edbng Israel Benjamin Netanyahu ph\u1ea1m ph\u1ea3i sai l\u1ea7m nghi\u00eam tr\u1ecdng h\u01a1n khi thi\u1ebfu chu\u1ea9n b\u1ecb c\u00e1c bi\u1ec7n ph\u00e1p ph\u00f2ng th\u1ee7 c\u1ea7n thi\u1ebft, v\u00ec \u00f4ng tin\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://voz.us/meloni-promised-and-delivered-italy-creates-a-parliamentary-commission-of-inquiry-into-the-management-of-the-pandemic/?lang=en",
+        "title": "Italy creates a parliamentary commission of inquiry into the ...Voz Mediahttps://voz.us \u203a Home \u203a News",
+        "content": "",
+        "size": [
+          551,
+          431
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Israel-says-there-is-no-alternative-to-performing-costly-ground-attacks-now-How-about-killing-Hamas-terrorists-in-Munich-style-attacks",
+        "title": "Israel says there is no alternative to performing costly ground ...Quorahttps://www.quora.com \u203a Israel-says-there-is-no-alternati...",
+        "content": "Israel says there is no alternative to performing costly ground attacks now. How about killing Hamas terrorists in Munich-style attacks?",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://taichinhdoanhnghiep.net.vn/nguy-co-dong-usd-lao-doc-boi-suc-ep-tu-xung-dot-israel--hamas-d43490.html",
+        "title": "Nguy c\u01a1 \u0111\u1ed3ng USD lao d\u1ed1c b\u1edfi s\u1ee9c \u00e9p t\u1eeb xung \u0111\u1ed9t IsraelT\u1ea1p ch\u00ed T\u00e0i ch\u00ednh Doanh nghi\u1ec7phttps://taichinhdoanhnghiep.net.vn \u203a ...",
+        "content": "Xung \u0111\u1ed9t Israel - Hamas c\u00f3 th\u1ec3 l\u00e0m t\u0103ng nguy c\u01a1 s\u1ee5p \u0111\u1ed5 c\u1ee7a th\u1ecb tr\u01b0\u1eddng ch\u1ee9ng kho\u00e1n v\u00e0 b\u1ea5t \u0111\u1ed9ng s\u1ea3n \u1edf M\u1ef9, th\u00fac \u0111\u1ea9y \u0111\u1ed3ng USD lao d\u1ed1c.",
+        "size": [
+          680,
+          453
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://taichinhdoanhnghiep.net.vn/tham-hoa-kinh-te-kho-luong-khi-xung-dot-gaza-leo-thang-d43790.html",
+        "title": "Th\u1ea3m h\u1ecda kinh t\u1ebf kh\u00f3 l\u01b0\u1eddng khi xung \u0111\u1ed9t Gaza leo thangT\u1ea1p ch\u00ed T\u00e0i ch\u00ednh Doanh nghi\u1ec7phttps://taichinhdoanhnghiep.net.vn \u203a ...",
+        "content": "",
+        "size": [
+          250,
+          150
+        ],
+        "date": "2023:11:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.usmessageboard.com/threads/pro-israel-rally-in-washington-dc.1072069/page-3",
+        "title": "Pro Israel Rally in Washington DC | Page 3 - US Message BoardUS Message Boardhttps://www.usmessageboard.com \u203a ... \u203a Politics",
+        "content": "Supporting Israeli military actions is not the same as opposing anti-semitism. Americans are just back to supporting the \"stupid wars\" again.",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-12-23/index.html",
+        "title": "October 12, 2023 - Israel-Hamas war news - CNNCNN.comhttps://www.cnn.com \u203a middleeast \u203a live-news \u203a israel-ne...",
+        "content": "Gaza's humanitarian crisis deepened Thursday with warnings people are at risk of starvation as Israel maintained a siege and bombarded targets in response\u00a0...",
+        "size": [
+          460,
+          307
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=59eYOST_6uI",
+        "title": "Graham Condemns Iran Involvement in Hamas Terrorist ...YouTube\u00a0\u00b7\u00a0USSenLindseyGraham1.2K+ views  \u00b7  1 month ago",
+        "content": "Graham Condemns Iran Involvement in Hamas Terrorist Attacks on Israel. 1.2K views \u00b7 1 month ago ...more. USSenLindseyGraham.",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=il5FSSUpBdQ",
+        "title": "Graham Condemns Attacks On Israel - YouTubeYouTube\u00a0\u00b7\u00a0USSenLindseyGraham1.5K+ views  \u00b7  1 month ago",
+        "content": "",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=sFX8k2S2jYM",
+        "title": "The situation in Israel proves Iranian ransom funds ... - YouTubeYouTube\u00a0\u00b7\u00a0Senator Marco Rubio460+ views  \u00b7  1 month ago",
+        "content": "",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wcngg.com/Way-Don-C-Inspired-Shorts-Israel-494-179307",
+        "title": "Death Row Lakers Color Way Don C Inspired Shorts - IsraelWest Coast Nuthttps://www.wcngg.com \u203a just don lakers shorts",
+        "content": "Babies beheaded, 40 children shot dead in a single settlement, and families burnt alive by Hamas SAM GREENHILL meets survivors of the death squads and hears\u00a0...",
+        "size": [
+          634,
+          423
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=-fshN56Tmtw",
+        "title": "There is a Border Crisis. Where is the 'Border Czar'? - YouTubeYouTube\u00a0\u00b7\u00a0Senator Marco Rubio380+ views  \u00b7  2 years ago",
+        "content": "",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.instagram.com/gemmatognini_/?hl=en",
+        "title": "GemmaTognini (@gemmatognini_) \u2022 Instagram photos and ...Instagram\u00a0\u00b7\u00a0gemmatognini_4.2K+ followers",
+        "content": "",
+        "size": [
+          1289,
+          1289
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://au.linkedin.com/posts/the-australian_enter-the-australianvogels-literary-prize-activity-7029339183643058177-kEGP",
+        "title": "Enter The Australian/Vogel's literary prize - LinkedInLinkedInhttps://au.linkedin.com \u203a posts \u203a the-australian_enter-the-...",
+        "content": "",
+        "size": [
+          800,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wcngg.com/56-Photos-High-Res-Pictures-Getty-Images-2174-218153",
+        "title": "56 Photos & High Res Pictures - Getty Images - wcngg.comWest Coast Nuthttps://www.wcngg.com \u203a kyle lowry 2009",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Did-the-Hamas-terrorists-distinguish-between-civilians-and-soldiers-when-murdering-people-during-their-attacks-on-Israel",
+        "title": "Did the Hamas terrorists distinguish between civilians ... - QuoraQuorahttps://www.quora.com \u203a Did-the-Hamas-terrorists-distin...",
+        "content": "Did Hamas terriorists distinguish between civilians and soldiers when murdering people during their attacts on Israel? A very good question indeed.",
+        "size": [
+          602,
+          401
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://au.linkedin.com/posts/the-australian_enter-the-australianvogels-literary-prize-activity-7029339183643058177-kEGP",
+        "title": "Enter The Australian/Vogel's literary prize - LinkedInLinkedInhttps://au.linkedin.com \u203a posts \u203a the-australian_enter-the-...",
+        "content": "",
+        "size": [
+          800,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.phillyvoice.com/tags/palestine/",
+        "title": "Palestine | PhillyVoicePhillyVoicehttps://www.phillyvoice.com \u203a tags \u203a palestine",
+        "content": "",
+        "size": [
+          100,
+          100
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wcngg.com/56-Photos-High-Res-Pictures-Getty-Images-1303-150391",
+        "title": "56 Photos & High Res Pictures - Getty Images - wcngg.comWest Coast Nuthttps://www.wcngg.com \u203a 56-Photos-High-Res-Picture...",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ingles.cayetano.plus/israel-imposes-full-siege-on-gaza-as-death-toll-kk-OREAtP",
+        "title": "Israel Imposes Full Siege On Gaza As Death Toll Rises InCayetano Plushttps://ingles.cayetano.plus \u203a t-box f352",
+        "content": "Israeli soldiers clear bodies from kibbutz days after Hamas attack. NEW OUT OF BOX, 240VAC, 250VDC, ; At least 10 Nepalis killed in Hamas attack on Israel,\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://au.linkedin.com/in/stuart-baxter-7b268465",
+        "title": "Stuart Baxter - Land Acquisition and Development ManagerLinkedIn\u00a0\u00b7\u00a0Stuart Baxter310+ followers",
+        "content": "",
+        "size": [
+          800,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elementordemo-4.clinikadelexito.com/?k=israel-imposes-full-siege-on-gaza-as-death-toll-jj-Lbgosx",
+        "title": "Israel Imposes Full Siege On Gaza As Death Toll Rises In, 43 ...clinikadelexito.comhttps://elementordemo-4.clinikadelexito.com \u203a ...",
+        "content": "Israel Imposes Full Siege On Gaza As Death Toll Rises In Conflict With Hamas Zenger News, Please note: The lead time for this product is 15 working To keep\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ng.linkedin.com/posts/the-australian_university-genz-education-activity-7035118686734598144-4A8g",
+        "title": "The Australian on LinkedIn: #university #genz #education ...LinkedInhttps://ng.linkedin.com \u203a posts",
+        "content": "",
+        "size": [
+          800,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/video-il-momento-in-cui-un-gruppo-di-terroristi-di-hamas-lancia-una-granata-in-un-rifugio-antibomba-370318/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://link.curriculumnacional.cl/http:/cpictures.homes/israeli-special-forces-weapons",
+        "title": "Israeli Special Forces Weapons - Curriculum Nacionalcurriculumnacional.clhttp://link.curriculumnacional.cl \u203a cpictures.homes \u203a is...",
+        "content": "Israeli Special Forces Weapons. Nov. 12, 2023. Israel Orders Over 2,000 Tavor Rifles for Infantry Brigades IWI Tavor - Wikipedia Top 8 CRAZIEST Israeli\u00a0...",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/hanno-metodi-simili-all-isis-la-strage-nel-kibbutz-da-parte-di-hamas-bambini-decapitati-370188/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://radiozona.com.ar/56-Photos-High-Res-Pictures-Getty-Images-1793-131858",
+        "title": "56 Photos & High Res Pictures - Getty Images - Radio Zonaradiozona.com.arhttps://radiozona.com.ar \u203a 56-Photos-High-Res-Picture...",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elementordemo-4.clinikadelexito.com/?k=israel-imposes-full-siege-on-gaza-as-death-toll-jj-Lbgosx",
+        "title": "Israel Imposes Full Siege On Gaza As Death Toll Rises In, 43 ...clinikadelexito.comhttps://elementordemo-4.clinikadelexito.com \u203a ...",
+        "content": "Israel Imposes Full Siege On Gaza As Death Toll Rises In Conflict With Hamas Zenger News, Please note: The lead time for this product is 15 working To keep\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://zuma.press/srp.html?HEADLINE=Israel-Hamas+War+2023:+Israel+Under+Siege",
+        "title": "Israel-Hamas War 2023: Israel Under Siege - ZUMA Presszuma.presshttp://zuma.press \u203a srp",
+        "content": "SEARCH RESULTS FOR: Israel-Hamas War 2023: Israel Under Siege. newest photos first, oldest photos first. grid view, list view. go. results 1\u00a0...",
+        "size": [
+          590,
+          393
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://worldcrunch.com/tag/gulf-countries",
+        "title": "Gulf Countries - WorldcrunchWorldcrunchhttps://worldcrunch.com \u203a tag \u203a gulf-countries",
+        "content": "Blaming intelligence and military failure for the Oct. 7 assault diverts attention from Israel's real weakness \u2014 a distracted and divisive political\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.camping-bolter-ufer.de/uebernachten/extLink/http:/ladybird.beauty/israeli-special-forces-weapons.html",
+        "title": "Israeli Special Forces WeaponsCampingplatz Bolter Ufer C 15https://www.camping-bolter-ufer.de \u203a ladybird.beauty",
+        "content": "Israeli Special Forces Weapons. Nov. 16, 2023. Israel Defense Forces select new combat optic US market adapts compact, combat proven Israeli weapons\u00a0...",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zahnarzt-miethe.de/extLink//www.ladybird.beauty/israeli-special-forces-weapons",
+        "title": "Israeli Special Forces WeaponsZahnarztpraxis Dr. Miethehttps://www.zahnarzt-miethe.de \u203a www.ladybird.beauty",
+        "content": "Israeli Special Forces Weapons. Nov. 14, 2023. Israel Defense Forces select new combat optic US market adapts compact, combat proven Israeli weapons\u00a0...",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://evictionsdoneforyou.com/?e=with-yitzhak-rabin-gone-netanyahu-s-anti-arab-anti-zz-9WjNo4Up",
+        "title": "With Yitzhak Rabin Gone, Netanyahu's Anti-Arab, Anti-Peace ...evictionsdoneforyou.comhttps://evictionsdoneforyou.com \u203a yitzhak camo",
+        "content": "With Yitzhak Rabin Gone, Netanyahu's Anti-Arab, Anti-Peace Playbook How He's Controlled Israel For Three Decades Judith Lungen, This dress is the swiss\u00a0...",
+        "size": [
+          940,
+          625
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ajz-bielefeld.de/redirect.php/http:/ladybird.beauty/israeli-special-forces-weapons",
+        "title": "Israeli Special Forces Weapons - AJZ BIELEFELDAJZ BIELEFELDhttps://ajz-bielefeld.de \u203a http: \u203a ladybird.beauty \u203a israe...",
+        "content": "Israeli Special Forces Weapons. Oct. 30, 2023. Israel Defense Forces select new combat optic US market adapts compact, combat proven Israeli weapons\u00a0...",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://etgar-hr.clubweb.co.il/collinear/israel-hamas-war-at-least-25-us-citizens-killed-pp-aJWOQWI3",
+        "title": "Israel-Hamas War: At Least 25 US Citizens Killed, Vital AidClubVPShttps://etgar-hr.clubweb.co.il \u203a collinear \u203a israel-hamas-w...",
+        "content": "Israel-Hamas War: At Least 25 US Citizens Killed, Vital Aid Blocked Ahead Of Possible Ground Invasion | Israeli Military Backpack | etgar-hr.clubweb.co.il.",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/i-racconti-dei-volontari-che-hanno-recuperato-i-corpi-a-kfar-aza-c-era-una-donna-370345/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/video-il-momento-in-cui-un-gruppo-di-terroristi-di-hamas-lancia-una-granata-in-un-rifugio-antibomba-370318/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://patchtripper.com/56-Photos-High-Res-Pictures-Getty-Images-4966-119666",
+        "title": "56 Photos & High Res Pictures - Getty Images - patchtripper.comPatch Tripperhttps://patchtripper.com \u203a 56-Photos-High-Res-Picture...",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://industriasbanat.es/?s=israel-imposes-full-siege-on-gaza-as-death-toll-cc-kk9aiE",
+        "title": "Israel Imposes Full Siege On Gaza As Death Toll Rises In, 60 ...industrias banathttp://industriasbanat.es \u203a t-box f352",
+        "content": "Israeli soldiers collect the bodies of ... Smell of death is everywhere': Inside Israeli kibbutz attacked by Hamas Israel-Palestine conflict News Al Jazeera.",
+        "size": [
+          620,
+          413
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://link.curriculumnacional.cl/http:/cpictures.homes/israeli-special-forces-weapons",
+        "title": "Israeli Special Forces Weapons - Curriculum Nacionalcurriculumnacional.clhttp://link.curriculumnacional.cl \u203a cpictures.homes \u203a is...",
+        "content": "Israeli Special Forces Weapons. Nov. 12, 2023. Israel Orders Over 2,000 Tavor Rifles for Infantry Brigades IWI Tavor - Wikipedia Top 8 CRAZIEST Israeli\u00a0...",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.dagospia.com/hanno-metodi-simili-all-isis-la-strage-nel-kibbutz-da-parte-di-hamas-bambini-decapitati-370188/gallery",
+        "title": "- DagospiaDagospiahttps://m.dagospia.com \u203a gallery",
+        "content": "",
+        "size": [
+          800,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://radiozona.com.ar/56-Photos-High-Res-Pictures-Getty-Images-1793-131858",
+        "title": "56 Photos & High Res Pictures - Getty Images - Radio Zonaradiozona.com.arhttps://radiozona.com.ar \u203a 56-Photos-High-Res-Picture...",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://eoidev3.co.il/index.php/56-Photos-High-Res-Pictures-Getty-Images-2656-143104",
+        "title": "56 Photos & High Res Pictures - Getty Images - eoidev3.co.ileoidev3.co.ilhttps://eoidev3.co.il \u203a index.php \u203a 56-Photos-High-Re...",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pideia.in/56-Photos-High-Res-Pictures-Getty-Images-9397-98703",
+        "title": "56 Photos & High Res Pictures - Getty Images - pideia.inpideia.inhttps://www.pideia.in \u203a 56-Photos-High-Res-Pictures-...",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://yazcorp.id/sliderl/56-Photos-High-Res-Pictures-Getty-Images-2283-134401",
+        "title": "56 Photos & High Res Pictures - Getty Images - YAZCORP.idYAZCORP.idhttps://yazcorp.id \u203a Home \u203a gigi mamba jersey",
+        "content": "",
+        "size": [
+          4894,
+          3263
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://m.facebook.com/photo.php?fbid=732875948880749&set=a.656018353233176&type=3&locale=en_GB",
+        "title": "Log In - FacebookFacebookhttps://m.facebook.com \u203a photo",
+        "content": "",
+        "size": [
+          698,
+          922
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.instagram.com/gemmatognini_/?next=%2Fp%2FB9RDX2YJ3bi%2F&hl=hi",
+        "title": "GemmaTognini (@gemmatognini_) \u2022 Instagram \u092b\u093c\u094b\u091f\u094b \u0914\u0930 \u0935\u0940\u0921\u093f\u092f\u094bInstagram\u00a0\u00b7\u00a0gemmatognini_4.2K+ followers",
+        "content": "",
+        "size": [
+          1289,
+          1289
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.instagram.com/a1policy/?next=%2Fpilapilaa%2F&hl=es-la",
+        "title": "America First Policy Institute (@a1policy) - InstagramInstagram\u00a0\u00b7\u00a0a1policy35.5K+ followers",
+        "content": "",
+        "size": [
+          720,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.instagram.com/gemmatognini_/?next=%2Fmikarods%2Ftagged%2F&hl=es",
+        "title": "GemmaTognini (@gemmatognini_) \u2022 Fotos y videos de ...Instagram\u00a0\u00b7\u00a0gemmatognini_4.2K+ followers",
+        "content": "",
+        "size": [
+          1289,
+          1289
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://www.24chasa.bg/ozhivlenie/article/16326204",
+        "title": "\u041f\u043e\u0440\u0430\u0434\u0438 \u0433\u043e\u043b\u0435\u043c\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u0435\u0441 \u0410\u043d\u0434\u0440\u0435 \u0420\u0438\u0439\u043e \u043e\u0431\u044f\u0432\u044f\u0432\u0430 \u0432\u0442\u043e\u0440\u0438 ...24 Chasahttps://www.24chasa.bg \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          356,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.faz.net/aktuell/politik/thema/islamismus-p2",
+        "title": "Islamismus: Aktuelle News der FAZ zum ThemaFAZ.NEThttps://www.faz.net \u203a ... \u203a Islamismus",
+        "content": "",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://lahora.cl/temas/israel/",
+        "title": "Noticias de Israel | La Horalahora.clhttps://lahora.cl \u203a temas \u203a israel",
+        "content": "Israel \u00b7 Presidente Boric condena desde EE. \u00b7 \u00abY ahora adorado por organizaciones terroristas\u2026\u00bb: grupo islamista Ham\u00e1s felicita al Presidente Gabriel Boric \u00b7 Hubo\u00a0...",
+        "size": [
+          600,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.20minutos.es/fotos/actualidad/4/",
+        "title": "Fotos de Actualidad | 20minutos.es20Minutoshttps://www.20minutos.es \u203a fotos",
+        "content": "",
+        "size": [
+          640,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://jovempan.com.br/tag/faixa-de-Gaza/page/5",
+        "title": "Faixa de Gaza: \u00faltimas not\u00edcias na Jovem Pan | Page 5Jovem Panhttps://jovempan.com.br \u203a tag \u203a page",
+        "content": "Conselho de Seguran\u00e7a da ONU se re\u00fane nesta segunda para abordar guerra Israel-Hamas \u00b7 Jornal da Manh\u00e3 \u00b7 16/10/2023 11h18\u00a0...",
+        "size": [
+          425,
+          240
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.aajtak.in/author/dhirendra-rai",
+        "title": "\u0927\u0940\u0930\u0947\u0902\u0926\u094d\u0930 \u0930\u093e\u092f - Aaj Tak\u0906\u091c \u0924\u0915https://www.aajtak.in \u203a dhirendra-rai",
+        "content": "",
+        "size": [
+          218,
+          121
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://www.168chasa.bg/article/16314551",
+        "title": "\u0418\u0432\u0430 \u0421\u043e\u0444\u0438\u044f\u043d\u0441\u043a\u0430 \u043f\u0430\u0437\u0438 \u0432 \u0442\u0430\u0439\u043d\u0430 \u0446\u044f\u043b \u043c\u0435\u0441\u0435\u0446 \u0431\u0435\u0431\u0435\u0442\u043e \u0421\u0442\u0435\u0444\u0430\u043d \u0438 ...168 \u0427\u0430\u0441\u0430https://www.168chasa.bg \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          220,
+          132
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sl",
+        "link": "https://www.finance.si/tag/8066/surovine",
+        "title": "Pojem: surovine - FinanceFinancehttps://www.finance.si \u203a tag \u203a surov...",
+        "content": "",
+        "size": [
+          480,
+          271
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://www.168chasa.bg/article/16340088",
+        "title": "\u0414\u043e\u043a\u043e\u0433\u0430 \u0449\u0435 \u043f\u0440\u043e\u0434\u044a\u043b\u0436\u0430\u0432\u0430\u0442 \u0431\u0435\u0434\u0441\u0442\u0432\u0438\u044f\u0442\u0430 \u043d\u0430 \u043d\u0430\u0448\u0438\u044f \u0438\u0437\u0441\u0442\u0440\u0430\u0434\u0430\u043b ...168 \u0427\u0430\u0441\u0430https://www.168chasa.bg \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          220,
+          132
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://www.gazetatema.net/bota/ja-se-si-hamasi-po-perdor-kriptomonedhen-per-te-mbledhur-fonde-i410537",
+        "title": "Ja se si Hamasi po p\u00ebrdor kriptomonedh\u00ebn p\u00ebr t\u00eb mbledhurGazeta Temahttps://www.gazetatema.net \u203a bota",
+        "content": "",
+        "size": [
+          728,
+          412
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://www.gazetatema.net/bota/izraeli-hedh-fletepalosje-per-civilet-ne-gaza-strehohuni-ose-largohuni-i410495",
+        "title": "Izraeli hedh flet\u00ebpalosje p\u00ebr civil\u00ebt n\u00eb Gaza: StrehohuniGazeta Temahttps://www.gazetatema.net \u203a bota",
+        "content": "",
+        "size": [
+          728,
+          412
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://www.gazetatema.net/bota/izraeli-bombardon-aeroportet-e-damaskut-dhe-aleppos-i410512",
+        "title": "Izraeli bombardon aeroportet e Damaskut dhe Aleppos - BotaGazeta Temahttps://www.gazetatema.net \u203a bota",
+        "content": "",
+        "size": [
+          728,
+          412
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://www.24chasa.bg/ozhivlenie/article/16326204",
+        "title": "\u041f\u043e\u0440\u0430\u0434\u0438 \u0433\u043e\u043b\u0435\u043c\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u0435\u0441 \u0410\u043d\u0434\u0440\u0435 \u0420\u0438\u0439\u043e \u043e\u0431\u044f\u0432\u044f\u0432\u0430 \u0432\u0442\u043e\u0440\u0438 ...24 Chasahttps://www.24chasa.bg \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          356,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://www.24chasa.bg/sport/article/16333945",
+        "title": "\u0410\u0442\u0430\u043d\u0430\u0441 \u0423\u0437\u0443\u043d\u043e\u0432: \u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u0420\u0430\u0434\u0435\u0432\u0430 \u0438\u0433\u0440\u0430 \u0448\u0430\u0445 \u0441 \u0411\u043e\u0440\u0438\u0441\u043e\u0432 \u043a\u0430\u0442\u043e ...24 Chasahttps://www.24chasa.bg \u203a article",
+        "content": " \u00b7 ",
+        "size": [
+          356,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.healthy-useful.com/article/HAMAS-MASSAKER:",
+        "title": "HAMAS-MASSAKER:healthy-useful.comhttps://www.healthy-useful.com \u203a H...",
+        "content": "Hamas-Massaker in Israel: \u00bbIch sah, wie sie dar\u00fcber stritten, ob sie mich umbringen\u00ab | DER SPIEGEL. download \u062a\u062d\u0645\u064a\u0644 \u00b7 play \u062a\u0634\u063a\u064a\u0644. Hamas richtet Massaker in\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://ndt1.eu/tag/%D0%BF%D0%BE%D0%BB%D1%8F%D0%BA/",
+        "title": "\u041f\u043e\u043b\u044f\u043a \u0410\u0440\u0445\u0438\u0432\u0438 - ndt1.eundt1.euhttps://ndt1.eu \u203a tag \u203a \u043f\u043e\u043b\u044f\u043a",
+        "content": "",
+        "size": [
+          1000,
+          526
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.9938311576843262
+      },
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.004840946290642023
+      },
+      {
+        "class": "village",
+        "ioclass": "outdoor",
+        "probability": 0.00024865748127922416
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.00015397982497233897
+      },
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 9.921605669660494e-05
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9166198372840881
+      },
+      {
+        "class": "season/winter",
+        "score": 0.8068069815635681
+      },
+      {
+        "class": "moist",
+        "score": 0.7719813585281372
+      },
+      {
+        "class": "bright",
+        "score": 0.7481786012649536
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.7436954975128174
+      },
+      {
+        "class": "ice",
+        "score": 0.7268654108047485
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.6772429943084717
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.6431018114089966
+      },
+      {
+        "class": "weather/clouds",
+        "score": 0.6060078740119934
+      },
+      {
+        "class": "mysterious",
+        "score": 0.6059478521347046
+      },
+      {
+        "class": "rugged",
+        "score": 0.6003345251083374
+      },
+      {
+        "class": "time/midday",
+        "score": 0.5059496760368347
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 2234,
+        "pred_lat": -3.1598868370056152,
+        "pred_long": 37.8679313659668
+      },
+      "middle": {
+        "pred_class": 2936,
+        "pred_lat": 34.42156982421875,
+        "pred_long": 70.3173599243164
+      },
+      "fine": {
+        "pred_class": 3535,
+        "pred_lat": 34.389503479003906,
+        "pred_long": 69.0102310180664
+      },
+      "hierarchy": {
+        "pred_class": 4835,
+        "pred_lat": -3.191272497177124,
+        "pred_long": 37.69233322143555
+      },
+      "country": {
+        "city": "",
+        "state": "Kabul Province",
+        "country": "Afghanistan"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": "2023:10:12 16:25:47",
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 34.411247,
+    "longitude": 69.0566,
+    "generationtime_ms": 0.1659393310546875,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 2043.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2023-10-12T00:00",
+        "2023-10-12T01:00",
+        "2023-10-12T02:00",
+        "2023-10-12T03:00",
+        "2023-10-12T04:00",
+        "2023-10-12T05:00",
+        "2023-10-12T06:00",
+        "2023-10-12T07:00",
+        "2023-10-12T08:00",
+        "2023-10-12T09:00",
+        "2023-10-12T10:00",
+        "2023-10-12T11:00",
+        "2023-10-12T12:00",
+        "2023-10-12T13:00",
+        "2023-10-12T14:00",
+        "2023-10-12T15:00",
+        "2023-10-12T16:00",
+        "2023-10-12T17:00",
+        "2023-10-12T18:00",
+        "2023-10-12T19:00",
+        "2023-10-12T20:00",
+        "2023-10-12T21:00",
+        "2023-10-12T22:00",
+        "2023-10-12T23:00",
+        "2023-10-13T00:00",
+        "2023-10-13T01:00",
+        "2023-10-13T02:00",
+        "2023-10-13T03:00",
+        "2023-10-13T04:00",
+        "2023-10-13T05:00",
+        "2023-10-13T06:00",
+        "2023-10-13T07:00",
+        "2023-10-13T08:00",
+        "2023-10-13T09:00",
+        "2023-10-13T10:00",
+        "2023-10-13T11:00",
+        "2023-10-13T12:00",
+        "2023-10-13T13:00",
+        "2023-10-13T14:00",
+        "2023-10-13T15:00",
+        "2023-10-13T16:00",
+        "2023-10-13T17:00",
+        "2023-10-13T18:00",
+        "2023-10-13T19:00",
+        "2023-10-13T20:00",
+        "2023-10-13T21:00",
+        "2023-10-13T22:00",
+        "2023-10-13T23:00"
+      ],
+      "apparent_temperature": [
+        5.6,
+        6.0,
+        5.8,
+        8.9,
+        13.7,
+        16.0,
+        18.6,
+        20.9,
+        22.0,
+        22.1,
+        21.8,
+        20.9,
+        19.2,
+        17.6,
+        15.7,
+        14.3,
+        13.3,
+        12.5,
+        12.0,
+        11.5,
+        10.7,
+        9.7,
+        8.8,
+        8.1,
+        9.5,
+        7.3,
+        7.6,
+        10.5,
+        15.0,
+        16.4,
+        18.4,
+        19.8,
+        21.0,
+        22.2,
+        19.2,
+        15.0,
+        13.1,
+        15.2,
+        13.2,
+        13.0,
+        12.0,
+        10.8,
+        10.2,
+        9.6,
+        8.8,
+        8.7,
+        8.2,
+        7.8
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.4,
+        0.0,
+        0.3,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        51,
+        1,
+        51,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": [
+      {
+        "message": "Captured time from EXIF is after the first time the image appear on the internet"
+      },
+      {
+        "message": "Captured time from EXIF does not match with time in the day"
+      }
+    ]
+  }
+}

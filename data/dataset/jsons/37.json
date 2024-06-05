@@ -1,0 +1,2197 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 5,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                2,
+                1,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                2,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                3,
+                1,
+                0,
+                0,
+                0,
+                3,
+                0,
+                1,
+                0,
+                5,
+                0,
+                0,
+                0,
+                0,
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 53,
+            "percentage": 46.902654867256636
+          },
+          "French": {
+            "count": 15,
+            "percentage": 13.274336283185841
+          },
+          "Persian": {
+            "count": 8,
+            "percentage": 7.079646017699115
+          },
+          "Turkish": {
+            "count": 5,
+            "percentage": 4.424778761061947
+          },
+          "Russian": {
+            "count": 5,
+            "percentage": 4.424778761061947
+          },
+          "Latvian": {
+            "count": 4,
+            "percentage": 3.5398230088495577
+          },
+          "Japanese": {
+            "count": 4,
+            "percentage": 3.5398230088495577
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 4,
+            "percentage": 3.5398230088495577
+          },
+          "Uzbek": {
+            "count": 3,
+            "percentage": 2.6548672566371683
+          },
+          "Spanish; Castilian": {
+            "count": 2,
+            "percentage": 1.7699115044247788
+          },
+          "Chinese": {
+            "count": 1,
+            "percentage": 0.8849557522123894
+          },
+          "Polish": {
+            "count": 2,
+            "percentage": 1.7699115044247788
+          },
+          "Vietnamese": {
+            "count": 1,
+            "percentage": 0.8849557522123894
+          },
+          "Greek, Modern (1453-)": {
+            "count": 1,
+            "percentage": 0.8849557522123894
+          },
+          "Korean": {
+            "count": 1,
+            "percentage": 0.8849557522123894
+          },
+          "unknown": {
+            "count": 1,
+            "percentage": 0.8849557522123894
+          },
+          "Hindi": {
+            "count": 1,
+            "percentage": 0.8849557522123894
+          }
+        },
+        "total": 113,
+        "plot": {
+          "labels": [
+            "English",
+            "French",
+            "Persian",
+            "Turkish",
+            "others"
+          ],
+          "data": [
+            46,
+            13,
+            7,
+            4,
+            30
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "zh-CN",
+        "link": "https://www.dubaikhalifas.com/%E7%89%B9%E6%96%AF%E6%8B%89model-3%E9%A6%96%E8%B5%B7%E7%BF%BB%E8%BD%A6%E4%BA%8B%E6%95%85-%E8%BD%A6%E4%B8%BB-%E5%AF%B9%E7%A2%B0%E6%92%9E%E7%BB%93%E6%9E%9C-%E5%BE%88%E6%BB%A1%E6%84%8F-%E7%95%8C%E9%9D%A2/",
+        "title": "\u7279\u65af\u62c9model 3\u9996\u8d77\u7ffb\u8f66\u4e8b\u6545\u8f66\u4e3b\u5bf9\u78b0\u649e\u7ed3\u679c\u5f88\u6ee1\u610f\u754c\u9762dubaikhalifas.comhttps://www.dubaikhalifas.com \u203a \u7279...",
+        "content": "... E3 ... Related image with \u7279\u65af\u62c9model 3\u9996\u8d77\u7ffb\u8f66\u4e8b\u6545\u8f66\u4e3b\u5bf9\u78b0\u649e\u7ed3\u679c\u5f88\u6ee1\u610f\u754c\u9762. \u7279\u65af\u62c9\u662f\u53f2\u4e0a\u6700\u5b89\u5168\u623f\u8eca!? \u5404\u7a2etesla \u7684\u5be6\u969b\u8eca\u798d\u6848\u4f8b.",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.teslarati.com/tesla-model-3-owner-high-speed-truck-collision/",
+        "title": "Tesla owner shares insights after Model 3 protects him from ...Teslaratihttps://www.teslarati.com \u203a Tesla Model 3",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2019:09:17 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 82,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/tesla-model-3-owner-high-speed-truck-collision/",
+        "title": "Tesla owner shares insights after Model 3 protects him from ...Teslaratihttps://www.teslarati.com \u203a Tesla Model 3",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2019:09:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://khabarpu.com/k.htm?u=2KLYutin2LIg2KrYrdmC24zZgtin2Kog2K/Ysdio2KfYsdmHINi52YTYqiDYqti12KfYr9mBINiu2YjYr9ix2YjbjCDCq9mF2K/ZhCAzwrsg2KrYs9mE2Kc=_aHR0cHM6Ly93d3cua2hvZHJvdGFrLmNvbS9mYS90aW55L25ld3MtMzQ1NjI=_2K7ZiNiv2LHZiNiq2qk=",
+        "title": "\u0622\u063a\u0627\u0632 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u062f\u0631\u0628\u0627\u0631\u0647 \u0639\u0644\u062a \u062a\u0635\u0627\u062f\u0641 \u062e\u0648\u062f\u0631\u0648\u06cc \u00ab\u0645\u062f\u0644 3\u00bb \u062a\u0633\u0644\u0627|\u062e\u0648\u062f\u0631\u0648\u062a\u06a9\u062e\u0628\u0631\u067e\u0648https://khabarpu.com \u203a k.htm",
+        "content": "\u062f\u0631 \u0627\u06cc\u0646 \u062d\u0627\u062f\u062b\u0647\u060c \u0647\u06cc\u0686 \u0635\u062f\u0645\u0647 \u062c\u0633\u0645\u06cc\u200c \u0628\u0647 \u06a9\u0633\u06cc \u0648\u0627\u0631\u062f \u0646\u0634\u062f. \u0637\u0628\u0642 \u0622\u0646\u0686\u0647 \u0631\u0627\u0646\u0646\u062f\u0647 \u0627\u06cc\u0646 \u062e\u0648\u062f\u0631\u0648 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f\u0647\u060c \u0645\u062f\u0644 3 \u0642\u0628\u0644 \u0627\u0632 \u062a\u0635\u0627\u062f\u0641 \u062f\u0631 \u062d\u0627\u0644\u062a \u0622\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u06cc\u0627 \u0647\u0645\u0627\u0646 \u0631\u0627\u0646\u0646\u062f\u06af\u06cc\u00a0...",
+        "size": [
+          586,
+          387
+        ],
+        "date": "2019:12:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.khodrotak.com/%D8%A8%D8%AE%D8%B4-%D8%AC%D9%87%D8%A7%D9%86-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-64/34562-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%AA%D8%AD%D9%82%DB%8C%D9%82%D8%A7%D8%AA-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B9%D9%84%D8%AA-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D9%85%D8%AF%D9%84-%D8%AA%D8%B3%D9%84%D8%A7",
+        "title": "\u0622\u063a\u0627\u0632 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u062f\u0631\u0628\u0627\u0631\u0647 \u0639\u0644\u062a \u062a\u0635\u0627\u062f\u0641 \u062e\u0648\u062f\u0631\u0648\u06cc \u00ab\u0645\u062f\u0644 3\u00bb \u062a\u0633\u0644\u0627 - \u062e\u0648\u062f\u0631\u0648\u062a\u06a9\u062e\u0648\u062f\u0631\u0648\u062a\u06a9https://www.khodrotak.com \u203a 3456...",
+        "content": "\u0633\u0627\u0632\u0645\u0627\u0646 \u0627\u0645\u0646\u06cc\u062a \u062e\u0648\u062f\u0631\u0648\u0647\u0627 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u06a9\u0647 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u062e\u0648\u062f \u0631\u0627 \u062f\u0631 \u062e\u0635\u0648\u0635 \u062f\u0648\u0627\u0632\u062f\u0647\u0645\u06cc\u0646 \u062a\u0635\u0627\u062f\u0641 \u062e\u0648\u062f\u0631\u0648\u0647\u0627\u06cc \u062a\u0633\u0644\u0627 \u0622\u063a\u0627\u0632 \u062e\u0648\u0627\u0647\u062f \u06a9\u0631\u062f \u062a\u0627 \u0628\u0647 \u0627\u0631\u062a\u0628\u0627\u0637 \u0627\u06cc\u0646 \u0627\u062a\u0641\u0627\u0642 \u0628\u0627\u00a0...",
+        "size": [
+          586,
+          387
+        ],
+        "date": "2019:12:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.khodrotak.com/%D8%A8%D8%AE%D8%B4-%D9%81%D9%88%D8%AA-%D9%81%D9%86-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-65/35312-%D8%A7%DB%8C%D9%86-%DA%A9%D8%A7%D8%B1%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D8%AF%D9%87%DB%8C%D8%AF-%D8%AA%D8%A7-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%86%DA%A9%D9%86%DB%8C%D8%AF",
+        "title": "\u0627\u06cc\u0646 \u06a9\u0627\u0631\u0647\u0627 \u0631\u0627 \u0627\u0646\u062c\u0627\u0645 \u062f\u0647\u06cc\u062f \u062a\u0627 \u062a\u0635\u0627\u062f\u0641 \u0646\u06a9\u0646\u06cc\u062f - \u062e\u0648\u062f\u0631\u0648\u062a\u06a9\u062e\u0648\u062f\u0631\u0648\u062a\u06a9https://www.khodrotak.com \u203a 3531...",
+        "content": "\u0631\u0627\u0646\u0646\u062f\u06af\u06cc \u0628\u0627 \u062a\u0645\u0631\u06a9\u0632 \u0646\u0627\u06a9\u0627\u0641\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u0646\u062c\u0631 \u0628\u0647 \u0628\u0631\u0648\u0632 \u062d\u0648\u0627\u062f\u062b \u0628\u0633\u06cc\u0627\u0631 \u0633\u062e\u062a \u0648 \u062c\u0628\u0631\u0627\u0646 \u0646\u0627\u067e\u0630\u06cc\u0631\u06cc \u0634\u0648\u062f. \u0628\u0647 \u0647\u0645\u06cc\u0646 \u062f\u0644\u06cc\u0644 \u0627\u0633\u062a \u06a9\u0647 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0645\u062e\u062a\u0644\u0641\u06cc \u0648\u0636\u0639 \u0634\u062f\u0647 \u062a\u0627 \u0633\u0644\u0627\u0645\u062a\u00a0...",
+        "size": [
+          586,
+          387
+        ],
+        "date": "2020:01:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.khodrotak.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-3/42670-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%DB%8C%D9%85%D9%87-%D8%B4%D8%AE%D8%B5-%D8%AB%D8%A7%D9%84%D8%AB-%D9%85%D8%B4%D8%AE%D8%B5-%D8%B4%D8%AF",
+        "title": "\u0646\u0631\u062e \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u062e\u0633\u0627\u0631\u0627\u062a \u0628\u06cc\u0645\u0647 \u0634\u062e\u0635 \u062b\u0627\u0644\u062b \u0645\u0634\u062e\u0635 \u0634\u062f - \u062e\u0648\u062f\u0631\u0648\u062a\u06a9\u062e\u0648\u062f\u0631\u0648\u062a\u06a9https://www.khodrotak.com \u203a 4267...",
+        "content": "\u062d\u0648\u0627\u062f\u062b \u062c\u0627\u0646\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0631\u0627\u0646\u0646\u062f\u0647 \u0645\u0642\u0635\u0631 \u0646\u06cc\u0632 \u062a\u0627 \u0633\u0642\u0641 \u062f\u06cc\u0647 \u062f\u0631 \u0645\u0627\u0647\u200c \u0647\u0627\u06cc \u063a\u06cc\u0631 \u062d\u0631\u0627\u0645 \u062a\u062d\u062a \u067e\u0648\u0634\u0634 \u0628\u06cc\u0645\u0647 \u0634\u062e\u0635 \u062b\u0627\u0644\u062b \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c \u06af\u06cc\u0631\u0646\u062f.",
+        "size": [
+          586,
+          387
+        ],
+        "date": "2020:04:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gizmochina.com/2020/06/18/tesla-model-3-suddenly-picks-up-speed-uncontrollably-crashed-and-caught-fire/",
+        "title": "Tesla Model 3 suddenly picked up speed uncontrollably ...Gizmochinahttps://www.gizmochina.com \u203a 2020/06/18 \u203a tesla-mo...",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2020:06:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://autopostkorea.com/31388/",
+        "title": "\uc544\ubb34\ub9ac \uacb0\ud568 \ud130\uc838\ub3c4 \uacb0\uad6d\uc740 \ud604\ub300\ucc28\uac00 \ud14c\uc2ac\ub77c\ub97c \uc774\uae38 \uc218\ubc16\uc5d0 ...\uc624\ud1a0\ud3ec\uc2a4\ud2b8https://autopostkorea.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2020:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/rusia-a-aprobat-al-treilea-sau-vaccin-impotriva-covid-19-covivac-desi-studiile-clinice-la-scara-larga-abia-urmeaza-sa-inceapa-1455429",
+        "title": "Rusia a aprobat al treilea s\u0103u vaccin \u00eempotriva COVID-19 ...Digi24https://www.digi24.ro \u203a ... \u203a Rusia",
+        "content": "",
+        "size": [
+          380,
+          214
+        ],
+        "date": "2021:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://gun-hi.netlify.app/tesla-model-3-t%C3%BCrkiye/",
+        "title": "tesla model 3 t\u00fcrkiye | rg   ip markalariNetlifyhttps://gun-hi.netlify.app \u203a tesla-mo...",
+        "content": "tesla model 3 t\u00fcrkiye \u00b7 2019 Tesla Model 3 Euro Ncap Electric Electriccars Elektrik Otomobil Araba Hybrid Cars Automobile Euroncap Tesla Otomobil\u00a0...",
+        "size": [
+          1200,
+          678
+        ],
+        "date": "2021:08:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.digi24.ro/smarticity/prima-platforma-digitala-de-management-al-deseurilor-din-romania-1668545",
+        "title": "Prima platform\u0103 digital\u0103 de management al de\u0219eurilor din ...Digi24https://www.digi24.ro \u203a smarticity",
+        "content": "",
+        "size": [
+          380,
+          214
+        ],
+        "date": "2021:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://itoll.com/news/%D8%A8%DB%8C%D9%85%D9%87-%D8%B4%D8%AE%D8%B5-%D8%AB%D8%A7%D9%84%D8%AB-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D9%85%D8%AF%D8%AA/",
+        "title": "\u0645\u0632\u0627\u06cc\u0627 \u0648 \u0645\u0639\u0627\u06cc\u0628 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u06cc\u0645\u0647 \u0634\u062e\u0635 \u062b\u0627\u0644\u062b \u06a9\u0648\u062a\u0627\u0647 \u0645\u062f\u062a - \u0622\u06cc\u062a\u0648\u0644\u0622\u06cc\u062a\u0648\u0644https://itoll.com \u203a news \u203a \u0628\u06cc\u0645\u0647-\u0634\u062e...",
+        "content": "\u0622\u0634\u0646\u0627\u06cc\u06cc \u06a9\u0627\u0645\u0644 \u0628\u0627 \u0628\u06cc\u0645\u0647 \u0634\u062e\u0635 \u062b\u0627\u0644\u062b \u06a9\u0648\u062a\u0627\u0647 \u0645\u062f\u062a\u060c \u0646\u062d\u0648\u0647 \u0645\u062d\u0627\u0633\u0628\u0647 \u0646\u0631\u062e \u0628\u06cc\u0645\u0647 \u0648 \u0645\u0639\u0627\u06cc\u0628 \u0648 \u0645\u0632\u0627\u06cc\u0627\u06cc \u0622\u0646 \u062f\u0631 \u0633\u0627\u0645\u0627\u0646\u0647 \u0622\u06cc\u062a\u0648\u0644.",
+        "size": [
+          600,
+          400
+        ],
+        "date": "2021:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://shoppingcartdisco.com/freelife/tesla-gigaberlin/",
+        "title": "\u30c6\u30b9\u30e9\u300c\u30ae\u30ac\u30d9\u30eb\u30ea\u30f3\u300d\u304c\u4e16\u754c\u306eEV\u5316\u3092\u52a0\u901f\uff1f\u3010\u30ae\u30ac\u30d7\u30ec\u30b9 ...shoppingcartdisco.comhttps://shoppingcartdisco.com \u203a tesl...",
+        "content": "\u30c6\u30b9\u30e9\u306e\u5834\u5408\u304a\u305d\u3089\u304f\u6280\u8853\u9769\u65b0\u306f\u4eca\u62ab\u9732\u3057\u3066\u3044\u308b\u7a0b\u5ea6\u3067\u306f\u7d42\u308f\u3089\u306a\u3044\u3053\u3068\u306f\u9593\u9055\u3044\u306a\u3044\u3068\u3053\u308d\u304c\u66f4\u306b\u6050\u308d\u3057\u3044\u3067\u3059\u304c\u3002 Tesla Gigafactory + Tesla Bot =\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": "2021:11:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://shoppingcartdisco.com/freelife/tesla-gigaberlin/",
+        "title": "\u30c6\u30b9\u30e9\u300c\u30ae\u30ac\u30d9\u30eb\u30ea\u30f3\u300d\u304c\u4e16\u754c\u306eEV\u5316\u3092\u52a0\u901f\uff1f\u3010\u30ae\u30ac\u30d7\u30ec\u30b9 ...shoppingcartdisco.comhttps://shoppingcartdisco.com \u203a tesl...",
+        "content": "\u30c6\u30b9\u30e9\u306e\u5834\u5408\u304a\u305d\u3089\u304f\u6280\u8853\u9769\u65b0\u306f\u4eca\u62ab\u9732\u3057\u3066\u3044\u308b\u7a0b\u5ea6\u3067\u306f\u7d42\u308f\u3089\u306a\u3044\u3053\u3068\u306f\u9593\u9055\u3044\u306a\u3044\u3068\u3053\u308d\u304c\u66f4\u306b\u6050\u308d\u3057\u3044\u3067\u3059\u304c\u3002 Tesla Gigafactory + Tesla Bot =\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": "2021:11:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://trsondakika.com/tesla-model-otomobilin-kazasi-gundemdeki-yerini-koruyor",
+        "title": "Tesla Model Otomobilin Kazas\u0131 G\u00fcndemdeki Yerini KoruyorTRSondakikahttps://trsondakika.com \u203a tesla-mod...",
+        "content": "Amerika'n\u0131n Missouri eyaletinde Tesla model otomobilin \u00f6l\u00fcml\u00fc kazaya kar\u0131\u015ft\u0131\u011f\u0131 ifade edildi. Talihsiz ara\u00e7 s\u00fcr\u00fcc\u00fcs\u00fcn\u00fcn orta \u015feritte\u00a0...",
+        "size": [
+          1500,
+          844
+        ],
+        "date": "2022:03:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.donanimhaber.com/tesla-model-3-olumlu-bir-kazaya-karisti--145849",
+        "title": "Tesla Model 3 \u00f6l\u00fcml\u00fc bir kazaya kar\u0131\u015ft\u0131 - Donan\u0131mHaberDonan\u0131mHaberhttps://www.donanimhaber.com \u203a te...",
+        "content": "ABD'nin Missouri eyaletinde ger\u00e7ekle\u015fen trafik kazas\u0131nda, Tesla Model 3 s\u00fcr\u00fcc\u00fcs\u00fcn\u00fcn, otomobilin orta \u015feritte aniden durmas\u0131 sonucu hayat\u0131n\u0131\u00a0...",
+        "size": [
+          1500,
+          844
+        ],
+        "date": "2022:03:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "uz",
+        "link": "https://ict.xabar.uz/uz/kompaniyalar/tesla-avtohalokatlar-soni-boyicha-antirekord-ornatdi",
+        "title": "\"Tesla\" avtohalokatlar soni bo'yicha antirekord o'rnatdiXabar.uzhttps://ict.xabar.uz \u203a kompaniyalar",
+        "content": "",
+        "size": [
+          750,
+          422
+        ],
+        "date": "2022:06:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "uz",
+        "link": "https://ict.xabar.uz/kompaniyalar/tesla-avtohalokatlar-soni-boyicha-antirekord-ornatdi",
+        "title": "\"Tesla\" \u0430\u0432\u0442\u043e\u04b3\u0430\u043b\u043e\u043a\u0430\u0442\u043b\u0430\u0440 \u0441\u043e\u043d\u0438 \u0431\u045e\u0439\u0438\u0447\u0430 \u0430\u043d\u0442\u0438\u0440\u0435\u043a\u043e\u0440\u0434 \u045e\u0440\u043d\u0430\u0442\u0434\u0438Xabar.uzhttps://ict.xabar.uz \u203a kompaniyalar",
+        "content": "",
+        "size": [
+          750,
+          422
+        ],
+        "date": "2022:06:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "uz",
+        "link": "https://carzone.uz/post/tesla-avtohalokatlar-soni-bo-yicha-antirekord-o-rnatdi",
+        "title": "\"Tesla\" avtohalokatlar soni bo'yicha antirekord o'rnatdiCarzone.Uzhttps://carzone.uz \u203a post \u203a tesla-avto...",
+        "content": "",
+        "size": [
+          750,
+          420
+        ],
+        "date": "2022:06:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.khodrotak.com/%D8%A8%D8%AE%D8%B4-%D8%AC%D9%87%D8%A7%D9%86-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-64/78647-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%84%D8%A7-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AC%D8%A7%D9%84%DB%8C-%D8%B4%D8%AF",
+        "title": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062a\u0633\u0644\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062c\u0646\u062c\u0627\u0644\u06cc \u0634\u062f - \u062e\u0648\u062f\u0631\u0648\u062a\u06a9\u062e\u0648\u062f\u0631\u0648\u062a\u06a9https://www.khodrotak.com \u203a 7864...",
+        "content": "\u0633\u0627\u0632\u0645\u0627\u0646 \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0627\u06cc\u0645\u0646\u06cc \u062e\u0648\u062f\u0631\u0648 \u062f\u0631 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u0648\u06cc\u0698\u0647\u200c\u0627\u06cc \u0631\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u0628\u0631\u062e\u0648\u0631\u062f \u0645\u0631\u06af\u0628\u0627\u0631 \u06cc\u06a9 \u062e\u0648\u062f\u0631\u0648\u06cc \u062a\u0633\u0644\u0627 \u0627\u0632 \u0645\u062f\u0644 \u06f3 \u0628\u0627 \u06cc\u06a9 \u0639\u0627\u0628\u0631 \u067e\u06cc\u0627\u062f\u0647 \u062f\u0631 \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627\u00a0...",
+        "size": [
+          586,
+          387
+        ],
+        "date": "2022:07:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "lv",
+        "link": "https://kursors.lv/2022/11/12/tesla-pec-parbaudes-laus-remontetam-masinam-turpinat-ladeties-supercharger-punktos/",
+        "title": "Tesla p\u0113c p\u0101rbaudes \u013caus remont\u0113t\u0101m ma\u0161\u012bn\u0101m turpin\u0101t ...Kursors.lvhttps://kursors.lv \u203a 2022/11/12 \u203a tes...",
+        "content": "Aizliegumu \u0161\u0101d\u0101m ma\u0161\u012bn\u0101m izmantot Supercharger Tesla ieviesa 2020. gad\u0101, ta\u010du tobr\u012bd netika izstr\u0101d\u0101ts meh\u0101nisms, k\u0101 p\u0101rbaud\u012bt auto un t\u0101\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2022:11:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.newstracklive.com/news/tesla-claims-it-will-support-the-police-investigation-into-a-fatal-accident-in-china-sc73-nu355-ta355-1257241-1.html",
+        "title": "Tesla claims it will support the police investigation into a fatal ...newstracklive.comhttps://english.newstracklive.com \u203a ... \u203a cars-news",
+        "content": "",
+        "size": [
+          400,
+          226
+        ],
+        "date": "2022:11:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.moitruongvadothi.vn/trung-quoc-xe-dien-tesla-mat-kiem-soat-khien-2-nguoi-chet-3-nguoi-bi-thuong-a115126.html",
+        "title": "Xe \u0111i\u1ec7n Tesla g\u00e2y tai n\u1ea1n khi\u1ebfn 2 ng\u01b0\u1eddi ch\u1ebft, 3 ng\u01b0\u1eddi b\u1ecb th\u01b0\u01a1ngM\u00f4i tr\u01b0\u1eddng v\u00e0 \u0111\u00f4 th\u1ecbhttps://www.moitruongvadothi.vn \u203a ...",
+        "content": "Tesla \u0111\u00e3 ph\u1ea3i \u0111\u1ed1i m\u1eb7t v\u1edbi nh\u1eefng tuy\u00ean b\u1ed1 v\u1ec1 l\u1ed7i phanh \u1edf Trung Qu\u1ed1c tr\u01b0\u1edbc \u0111\u00e2y. Trong tuy\u00ean b\u1ed1 c\u1ee7a m\u00ecnh v\u1edbi Reuters, c\u00f4ng ty cho bi\u1ebft m\u1ed9t ch\u1ee7 s\u1edf\u00a0...",
+        "size": [
+          599,
+          338
+        ],
+        "date": "2022:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bleamanlawfirm.com/car-accidents-in-arizona/",
+        "title": "Car crash Arizona - Marc Bleaman P.C.bleamanlawfirm.comhttps://www.bleamanlawfirm.com \u203a car-accidents-in-ar...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:01:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.gocar.gr/news/feed/42666,Atyxhma_hlektriko_hlektroplhxia.html",
+        "title": "\u0391\u03c4\u03cd\u03c7\u03b7\u03bc\u03b1 \u03bc\u03b5 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03b9\u03ba\u03cc: \u03a0\u03ce\u03c2 \u03b3\u03bb\u03b9\u03c4\u03ce\u03bd\u03c9 \u03c4\u03b7\u03bd \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03c0\u03bb\u03b7\u03be\u03af\u03b1; - GoCargocar.grhttps://www.gocar.gr \u203a news \u203a feed",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2023:03:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.automobile-propre.com/probleme-batterie-marques-voiture-electrique-epave/",
+        "title": "Le moindre probl\u00e8me de batterie sur ces marques peut ...Automobile Proprehttps://www.automobile-propre.com \u203a ...",
+        "content": "Ainsi, les cellules 4680 du Tesla Model Y sont coll\u00e9es ensemble pour former un pack qui devient de plus un \u00e9l\u00e9ment structurel du ch\u00e2ssis, ce qui\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:03:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "lv",
+        "link": "https://kursors.lv/2023/03/26/nakotne-ir-tagad-ja-ar-tesla-brauc-nakti-maksasi-vairak-par-apdrosinasanu/",
+        "title": "N\u0101kotne ir tagad! Ja ar Tesla brauc nakt\u012b, maks\u0101si vair\u0101k par ...Kursors.lvhttps://kursors.lv \u203a 2023/03/26 \u203a na...",
+        "content": "K\u0101ds Tesla \u012bpa\u0161nieks pas\u016bdz\u0113jies, ka Tesla apdro\u0161in\u0101\u0161ana nu ir k\u013cuvusi d\u0101rg\u0101ka, jo vi\u0146\u0161 ar auto braucis nakts laik\u0101. Tesla pied\u0101v\u0101 ar\u012b savus\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2023:03:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.nachedeu.com/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-nord-%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D1%82-%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9-%D1%81-%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BE%D0%B9-120-%D0%B3/",
+        "title": "\u041d\u043e\u0432\u044b\u0439 Nord \u043f\u0440\u0438\u0432\u043b\u0435\u0447\u0435\u0442 \u0434\u0438\u0441\u043f\u043b\u0435\u0439 \u0441 \u0447\u0430\u0441\u0442\u043e\u0442\u043e\u0439 120 \u0413\u0446 \u0438 \u043a\u0430\u043c\u0435\u0440\u0443 ...Nachedeuhttps://www.nachedeu.com \u203a \u043d\u043e\u0432\u044b\u0439...",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2023:03:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://jurnalul.ro/auto/rca-masini-electrice-927502.html",
+        "title": "De ce e scump RCA-ul la o electric\u0103 - JurnalulJurnalulhttps://jurnalul.ro \u203a Auto",
+        "content": "... sunt la fel de mari, fie c\u0103 vorbim despre Dacia Spring de 45 de cai putere, fie despre Tesla de peste 500 CP.",
+        "size": [
+          600,
+          334
+        ],
+        "date": "2023:03:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.urvitours.com/sitemap.aspx?shop=wrecked+tesla+model+3+for+sale&cid=4&iid=21039349",
+        "title": "wrecked tesla model 3 for sale OFF 64% |Newesturvitours.comhttps://www.urvitours.com \u203a sitemap",
+        "content": "Tesla Model 3 suddenly picked up speed; Tesla Salvage Cars for Sale; Cummins Diesel Engine; Wrecked Salvage Tesla Model 3 with no; Used Tesla\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2023:08:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.ixbt.com/news/2023/09/25/tesla-okazalas-samym-avarijnym-jelektromobilem-v-rossii.html",
+        "title": "Tesla \u043e\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c \u0441\u0430\u043c\u044b\u043c \u0430\u0432\u0430\u0440\u0438\u0439\u043d\u044b\u043c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u043c \u0432 ...ixbt.comhttps://www.ixbt.com \u203a 2023/09/25",
+        "content": "\u041d\u0430 \u0434\u043e\u043b\u044e Tesla Model 3 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0441\u0443\u043c\u043c\u0430\u0440\u043d\u043e 13% \u0434\u043e\u0440\u043e\u0436\u043d\u043e-\u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u043f\u0440\u043e\u0438\u0441\u0448\u0435\u0441\u0442\u0432\u0438\u0439 \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0412 \u0441\u0432\u043e\u0435\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439 \u0430\u043d\u0442\u0438\u0440\u0435\u0439\u0442\u0438\u043d\u0433\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.dubaikhalifas.com/%E7%89%B9%E6%96%AF%E6%8B%89model-3%E9%A6%96%E8%B5%B7%E7%BF%BB%E8%BD%A6%E4%BA%8B%E6%95%85-%E8%BD%A6%E4%B8%BB-%E5%AF%B9%E7%A2%B0%E6%92%9E%E7%BB%93%E6%9E%9C-%E5%BE%88%E6%BB%A1%E6%84%8F-%E7%95%8C%E9%9D%A2/",
+        "title": "\u7279\u65af\u62c9model 3\u9996\u8d77\u7ffb\u8f66\u4e8b\u6545\u8f66\u4e3b\u5bf9\u78b0\u649e\u7ed3\u679c\u5f88\u6ee1\u610f\u754c\u9762dubaikhalifas.comhttps://www.dubaikhalifas.com \u203a \u7279...",
+        "content": "... E3 ... Related image with \u7279\u65af\u62c9model 3\u9996\u8d77\u7ffb\u8f66\u4e8b\u6545\u8f66\u4e3b\u5bf9\u78b0\u649e\u7ed3\u679c\u5f88\u6ee1\u610f\u754c\u9762. \u7279\u65af\u62c9\u662f\u53f2\u4e0a\u6700\u5b89\u5168\u623f\u8eca!? \u5404\u7a2etesla \u7684\u5be6\u969b\u8eca\u798d\u6848\u4f8b.",
+        "size": [
+          320,
+          180
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://farma.t4h.com.br/?q=here-are-some-of-the-first-tesla-model-crashes-ee-aG80yJsa",
+        "title": "Here are some of the first Tesla Model crashes Electrekfarma t4hhttps://farma.t4h.com.br \u203a ...",
+        "content": "Here are some of the first Tesla Model crashes Electrek, Front Size Rear Size Bolt Pattern Offset ET This is a set of wheels No warranty is provided on\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://www.woodyscornerpub.com/?c=act-of-god%E2%80%9D-or-dismal-build-quality-tesla-model-dd-6GRWV5h6",
+        "title": "Act Of God\u201d Or Dismal Build Quality? Tesla Model Loses, 46 ...Woody's Corner Pub & Grillhttp://www.woodyscornerpub.com \u203a build a tesla",
+        "content": "Act Of God\u201d Or Dismal Build Quality? Tesla Model Loses Bumper While Driving In Rain Carscoops, This 1:18th scale miniature car reproduces the Tesla Model in\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pdafootball.co.uk/?g=here-are-some-of-the-first-tesla-model-crashes-ww-Mwr24jtX",
+        "title": "Here are some of the first Tesla Model crashes Electrekpdafootball.co.ukhttps://pdafootball.co.uk \u203a ...",
+        "content": "... Tesla Factory Tire Pressure Monitoring Sensor We purchase Tesla original TPMS You ... Tesla deems this TIRES: Quality all-season radials in Tesla's specified size\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/carscirclejerk/comments/w4dlv2/hey_guys_just_sold_my_mclaren_f1_and_ferrari_f40/",
+        "title": "Hey guys, just sold my Mclaren F1 and Ferrari F40 to ... - RedditReddit\u00a0\u00b7\u00a0r/carscirclejerk20+ comments  \u00b7  1 year ago",
+        "content": "Did Tesla do that bodywork from factory? Looks a lot better than ... Nan and grandad had one until the engine shit the bed. Upvote 3. Downvote.",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://clinicaneuron.com/wp-news.php?items=car%20accident%20model_MjVfMjJfMjg5MzRfMjU%3D",
+        "title": "Car Accident Model Store Clinicaneuron.comclinicaneuron.comhttps://clinicaneuron.com \u203a wp-news",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://technocrete.co/index.php/en/technocrete-products/building-blocks-bricks/solid-bricks?i=act-of-god%E2%80%9D-or-dismal-build-quality-tesla-model-yy-Ka0jRruv",
+        "title": "Act Of God\u201d Or Dismal Build Quality? Tesla Model Loses, 40 ...technocrete.cohttps://technocrete.co \u203a Home \u203a build a tesla",
+        "content": "Act Of God\u201d Or Dismal Build Quality? Tesla Model Loses Bumper While Driving In Rain Carscoops, This 1:18th scale miniature car reproduces the Tesla Model in\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.amazon.com/Motrobe-Anti-Slip-Aluminium-Accelerator-Pedals/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium ...Amazon.comhttps://www.amazon.com \u203a Motrobe-Anti-Slip-Aluminiu...",
+        "content": "Buy Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium Accelerator Brake Foot Pedals Cover (Set of 2): Pedals & Pedal Accessories - Amazon.com \u2713 FREE\u00a0...",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alpha.i20fever.com/tesla-crashes-into-south-sacramento-home-ee-KLABQmiY",
+        "title": "Tesla Crashes Into South Sacramento Homei20feverhttps://alpha.i20fever.com \u203a crashed tesla",
+        "content": "Tesla MODEL S 2022 vin: 5YJSA1E50NF471025 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0430\u0443\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0435 IAAI \u0432 \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u043c\u0430\u044f \u0446\u0435\u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0438. Tesla crashes into south Sacramento home.",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://imgsistemas.com.br/?i=got-some-road-rash-during-a-fender-tips-on-tt-E6wmq8F1",
+        "title": "Got Some Road Rash During A Fender Tips On Cost Or Time ...imgsistemas.com.brhttps://imgsistemas.com.br \u203a ...",
+        "content": "Got some road rash during a fender Tips on cost or time to repair, diminished value, etc? Tesla Motors Club, Fitment, Fits 2017-2023 Tesla Model 3, Color,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alpha.i20fever.com/my-experience-with-tesla-insurance-after-destroying-my-leased-ee-8Qz05dHo",
+        "title": "My Experience With Tesla Insurance After Destroying Myi20feverhttps://alpha.i20fever.com \u203a crashed tesla",
+        "content": "My Experience With Tesla Insurance After Destroying My Leased Model In A Freeway Accident Tesla Motors Club | Crashed Tesla | alpha.i20fever.com.",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://draydinduygu.com/notes.aspx?iid=286314671-slammed+tesla+model+3&cid=60",
+        "title": "slammed tesla model 3Dr.Ayd\u0131n Duyguhttps://draydinduygu.com \u203a notes",
+        "content": "Tesla #Model3 slammed; bagged' Tesla Model 3 goes viral; STANCE KARTEL - Tesla Model 3 Owner; Vendor - Artisan Spirits Aero Kit for; Tesla roadster,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alpha.i20fever.com/22-people-displaced-when-tesla-prius-crash-into-san-ee-okbyqWsG",
+        "title": "22 People Displaced When Tesla, Prius Crash Into Sani20feverhttps://alpha.i20fever.com \u203a crashed tesla",
+        "content": "Tesla MODEL S 2022 vin: 5YJSA1E50NF471025 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0430\u0443\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0435 IAAI \u0432 \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u043c\u0430\u044f \u0446\u0435\u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0438. 22 people displaced when Tesla,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alliance.health/?g=here-are-some-of-the-first-tesla-model-crashes-tt-WzpbenCo",
+        "title": "Here are some of the first Tesla Model crashes Electrekalliance.healthhttps://alliance.health \u203a ...",
+        "content": "Here are some of the first Tesla Model crashes Electrek, Tesla tpms are included for 2021-2023 refresh Model Tire Specs: Pirelli Winter Sottozero 235/40R19\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.amazon.com.au/Motrobe-Anti-Slip-Aluminium-Accelerator-Pedals/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla Model 3 Anti-Slip Aluminium Accelerator Brake ...Amazon.com.auhttps://www.amazon.com.au \u203a Motrobe-Anti-Slip-Alu...",
+        "content": "Motrobe Tesla Model 3 Anti-Slip Aluminium Accelerator Brake Foot Pedals Cover (Set of 2) : Amazon.com.au: Automotive.",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/speedchair?lang=ar-x-fm",
+        "title": "SpeedChair - Phong Le - X.comTwitter\u00a0\u00b7\u00a0SpeedChair40+ followers",
+        "content": "Who's running VW? Why can't they be responsible and go 100% on clean energy. After driving a BEV, I will never again buy an ICE car. @tesla.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.amazon.ae/Motrobe-Model-Anti-Slip-Aluminium-Accelerator/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium ...Amazon.aehttps://www.amazon.ae \u203a Motrobe-Model-Anti-Slip-Al...",
+        "content": "Buy Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium Accelerator Brake Foot Pedals Cover (Set of 2) online on Amazon.ae at best prices.",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://svet.gob.gt/wp-news.php?items=tesla%20model%20y%20car%20crash_MTlfMzFfMzcyNDZfMjU%3D",
+        "title": "Tesla Model Y Car Crash Flash Sales Svet.gob.gtsvet.gob.gthttps://svet.gob.gt \u203a wp-news",
+        "content": "Tesla Model Y Rear Crash Shows Concerning Front Seat Damage \u00b7 First totalled Model Y? \u00b7 Watch Tesla Model Y pull out in front of Mercedes on highway, cause crash\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://admin.certified.ph/?e=here-are-some-of-the-first-tesla-model-crashes-ee-G9x2BLHx",
+        "title": "Here are some of the first Tesla Model crashes Electrekcertified.phhttps://admin.certified.ph \u203a ...",
+        "content": "... Tesla Factory Tire Pressure Monitoring Sensor We purchase Tesla original TPMS You ... Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. This set\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://svet.gob.gt/wp-news.php?items=tesla%20model%20y%20car%20crash_MTlfMzFfMzcyNDZfMjU=",
+        "title": "Tesla Model Y Car Crash Flash Sales Svet.gob.gtsvet.gob.gthttps://svet.gob.gt \u203a wp-news",
+        "content": "Watch Tesla Model Y pull out in front of Mercedes on highway, cause crash \u00b7 Tesla Model Y Scores Top Marks In NHTSA Crash Tests: Watch The Videos Here \u00b7 Tesla\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.amazon.sg/Motrobe-Model-Anti-Slip-Aluminium-Accelerator/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium ...Amazon.sghttps://www.amazon.sg \u203a Motrobe-Model-Anti-Slip-Al...",
+        "content": "Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium Accelerator Brake Foot Pedals Cover (Set of 2) : Amazon.sg: Automotive.",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/TFM312/status/1172973211098726400",
+        "title": "TFM3 on X: \"Thanks @elonmusk and @Tesla for builing such ...Twitter\u00a0\u00b7\u00a0TFM3127.8K+ likes  \u00b7  4 years ago",
+        "content": "Thanks @elonmusk and @Tesla for builing such a strong car. A 7500 kg Truck crashed with 60 km/h in my side. He ignored a red light.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ev-x.ca/gallery",
+        "title": "Gallery - EV-X Inc.ev-x.cahttps://www.ev-x.ca \u203a gallery",
+        "content": "Tesla Auto Pilot Crash Jaguar I fire Tesla Auto Pilot Accident First Responder Bus Guide Live Car Display Pull Cord electric car engine Live Electric Car\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/@ABthings/videos",
+        "title": "A&B Things - YouTubeYouTubehttps://www.youtube.com \u203a videos",
+        "content": "",
+        "size": [
+          336,
+          188
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.amazon.ca/Motrobe-Anti-Slip-Aluminium-Accelerator-Pedals/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium ...Amazon.cahttps://www.amazon.ca \u203a Motrobe-Anti-Slip-Aluminiu...",
+        "content": "Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium Accelerator Brake Foot Pedals Cover (Set of 2) in Pedals & Pedal Accessories.",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.amazon.co.uk/Motrobe-Model-Anti-Slip-Aluminium-Accelerator/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium ...Amazon UKhttps://www.amazon.co.uk \u203a Motrobe-Model-Anti-Sli...",
+        "content": "Buy Motrobe Tesla Model Y Model 3 Anti-Slip Aluminium Accelerator Brake Foot Pedals Cover (Set of 2) at Amazon UK. Free delivery on eligible orders.",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.urvitours.com/sitemap.aspx?shop=wrecked+tesla+model+3+for+sale&cid=4&iid=21039317",
+        "title": "wrecked tesla model 3 for saleurvitours.comhttps://www.urvitours.com \u203a sitemap",
+        "content": "Obliterated Tesla Model 3; Tesla Model 3 suddenly picked up speed; Cummins Diesel Engine; Wrecked Salvage Tesla Model 3 with no; Used Tesla Cars for Sale with\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.blissyjoy.com/?e=tesla-owner-responds-to-car-catching-fire-in-california-aa-mnNGMxTD",
+        "title": "Tesla Owner Responds To Car Catching Fire In California, 49 ...BlissyJoyhttps://www.blissyjoy.com \u203a ...",
+        "content": "Find products from LHYYKJ at low Shop online for strollers, car seats, baby food, diapering, bedding, toys, safety products and more at. Tesla owner\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.geburtskanal.de/tesla-car-crash-k.html",
+        "title": "Derbevilleov test dodati sigurnosni tesla car crash Oprema za ...geburtskanal.dehttps://www.geburtskanal.de \u203a tesla-car-crash-k",
+        "content": "Elon Musk claims autopilot was not used in fiery Tesla crash that killed 2 people in The Woodlands - ABC13 Houston. Tesla Autopilot tops the list of\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://seligasaude.org/?s=got-some-road-rash-during-a-fender-tips-on-zz-5MPkjRHZ",
+        "title": "Got Some Road Rash During A Fender Tips On Cost Or Time ...seligasaude.orghttps://seligasaude.org \u203a ...",
+        "content": "Elevate Your Tesla Model 3's Appearance with VR Aero Type SL Carbon Fiber Complete Body Kit, Transform the look of your Tesla Model with the VR Aero.",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thegoldenladdersuccess.com/?m=here-are-some-of-the-first-tesla-model-crashes-ww-mOA4x2U7",
+        "title": "Here are some of the first Tesla Model crashes Electrekthegoldenladdersuccess.comhttps://thegoldenladdersuccess.com \u203a ...",
+        "content": "... Tesla Factory Tire Pressure Monitor Sensor We purchase Tesla original TPMS. ... Tesla Model Wrecked: Crazy Crash Footage Caught On Two TeslaCams. This set is\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.geburtskanal.de/tesla-car-crash-k.html",
+        "title": "Derbevilleov test dodati sigurnosni tesla car crash Oprema za ...geburtskanal.dehttps://www.geburtskanal.de \u203a tesla-car-crash-k",
+        "content": "Elon Musk claims autopilot was not used in fiery Tesla crash that killed 2 people in The Woodlands - ABC13 Houston. Tesla Autopilot tops the list of\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.blissyjoy.com/?e=tesla-owner-responds-to-car-catching-fire-in-california-aa-mnNGMxTD",
+        "title": "Tesla Owner Responds To Car Catching Fire In California, 49 ...BlissyJoyhttps://www.blissyjoy.com \u203a ...",
+        "content": "Find products from LHYYKJ at low Shop online for strollers, car seats, baby food, diapering, bedding, toys, safety products and more at. Tesla owner\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://kkram.in/sitemap.asp?shop=wrecked+tesla+model+3+for+sale&cid=4&iid=21039323",
+        "title": "wrecked tesla model 3 for saleKirorimal Kashiram Marketing And Agencies Private Limitedhttp://kkram.in \u203a sitemap",
+        "content": "Tesla sued for 'defective' Autopilot in; 2019 Tesla Model 3 for sale at Copart; teaching the world to fix totaled Teslas; Salvage Tesla Model 3S For Sale\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://kkram.in/sitemap.asp?shop=wrecked+tesla+model+3+for+sale&cid=4&iid=21039399",
+        "title": "wrecked tesla model 3 for saleKirorimal Kashiram Marketing And Agencies Private Limitedhttp://kkram.in \u203a sitemap",
+        "content": "Salvage Teslas For Sale In Boston; Salvage Tesla Model 3S For Sale; SearchDetails; Obliterated Tesla Model 3; Salvage Tesla Cars for Sale Online Auto\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://kkram.in/sitemap.asp?shop=wrecked+tesla+model+3+for+sale&cid=4&iid=21039319",
+        "title": "wrecked tesla model 3 for saleKirorimal Kashiram Marketing And Agencies Private Limitedhttp://kkram.in \u203a sitemap",
+        "content": "You can get a Tesla Model S for $35,000; Tesla Model 3 suddenly picked up speed; Tesla Salvage Cars for Sale; Obliterated Tesla Model 3 Sells For $15; Wrecked\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/trash173",
+        "title": "zhou (@trash173) / XTwitter\u00a0\u00b7\u00a0trash1739 followers",
+        "content": "",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zahamogas.com/?m=got-some-road-rash-during-a-fender-tips-on-hh-pAol8wTb",
+        "title": "Got Some Road Rash During A Fender Tips On Cost Or Time ...zahamogas.comhttps://www.zahamogas.com \u203a model bender",
+        "content": "Got some road rash during a fender Tips on cost or time to repair, diminished value, etc? Tesla Motors Club, Achieve 6.",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://be.linkedin.com/in/joseph-amand-781b00180",
+        "title": "Joseph Amand - Namur, Walloon Region, Belgium - LinkedInLinkedIn\u00a0\u00b7\u00a0Joseph Amand40+ followers",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ciriondo.com/notes.aspx?iid=289184002-wrecked+tesla+model+3+for+sale&cid=61",
+        "title": "wrecked tesla model 3 for saleCarmelo Iriondohttps://ciriondo.com \u203a notes",
+        "content": "Tesla's Salvaged Vehicles: The Red; Wed. Sep 01, 2021 - Used \\u0026 Salvage Cars; Tesla Motors Club; Wrecked Tesla Model 3 at a Salvage Auction; Damaged Tesla\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ciriondo.com/notes.aspx?iid=289184250-wrecked+tesla+model+3+for+sale&cid=61",
+        "title": "wrecked tesla model 3 for saleCarmelo Iriondohttps://ciriondo.com \u203a notes",
+        "content": "Salvage Tesla Cars for Sale Online Auto; 2019 Tesla Model 3 for sale at Copart; Tesla Salvage Cars for Sale; Salvage 2017 Tesla Model 3 | Tesla; Tesla Model S\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fvde.org/?en=5.60.6089014.4.29.59.wrecked+tesla+model+s+for+sale",
+        "title": "Wrecked Tesla Model S For Sale Online - fvde.org 1699594369fvde.orghttps://fvde.org \u203a ...",
+        "content": "Buy Now: wrecked tesla model s for sale Online, Every order comes with FAST, FREE Shipping, plus a FREE 365-Day Return Policy! tesla standard range model y,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://auditoria.bmtrada.es/robo.asp?cname=slammed+tesla+model+3&cid=4",
+        "title": "slammed tesla model 3 > OFF-61% |BMC Assurancehttp://auditoria.bmtrada.es \u203a robo",
+        "content": "slammed tesla model 3 Online Discount Shop for Electronics, Apparel, Toys, Books, Games, Computers, Shoes, Jewelry, Watches, Baby Products,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.legaldesign.ar/?s=vin-5yj3e1eb8nf108552-tesla-model-2022-car-history-rr-6K8D2aSw",
+        "title": "VIN: 5YJ3E1EB8NF108552 TESLA MODEL 2022 car historylegaldesign.arhttps://www.legaldesign.ar \u203a 2022 tesla model white",
+        "content": "VIN: 5YJ3E1EB8NF108552 TESLA MODEL 2022 car history, Factory Style Custom Fit Durable, smooth surface, breathable design, universal for all seasons,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ciriondo.com/robo.aspx?cname=slammed+tesla+model+3&cid=4",
+        "title": "slammed tesla model 3 OFF 72% |Carmelo Iriondohttps://ciriondo.com \u203a robo",
+        "content": "slammed tesla model 3 Online Discount Shop for Electronics, Apparel, Toys, Books, Games, Computers, Shoes, Jewelry, Watches, Baby Products,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://auditoria.bmtrada.es/robo.asp?cname=wrecked+tesla+model+3+for+sale&cid=4",
+        "title": "wrecked tesla model 3 for saleBMC Assurancehttp://auditoria.bmtrada.es \u203a robo",
+        "content": "wrecked tesla model 3 for sale Online Discount Shop for Electronics, Apparel, Toys, Books, Games, Computers, Shoes, Jewelry, Watches, Baby Products,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ciriondo.com/robo.aspx?cname=wrecked+tesla+model+3+for+sale&cid=4",
+        "title": "wrecked tesla model 3 for saleCarmelo Iriondohttps://ciriondo.com \u203a robo",
+        "content": "wrecked tesla model 3 for sale Online Discount Shop for Electronics, Apparel, Toys, Books, Games, Computers, Shoes, Jewelry, Watches, Baby Products,\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.performancefeet.com/?s=vin-5yj3e1ea5mf048820-tesla-model-2021-car-history-ss-GlZZ28FD",
+        "title": "VIN: 5YJ3E1EA5MF048820 TESLA MODEL 2021 car historyperformancefeet.comhttps://www.performancefeet.com \u203a ...",
+        "content": "This is a brand new Uber White Tesla Model Seat Upgrade Kit in Factory *This interior kit must be installed by one of our T Sportline.",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://rojgaraurnirman.in/notes.asp?iid=286314671-slammed+tesla+model+3&cid=60",
+        "title": "slammed tesla model 3 - Rojgar Aur NirmanRojgar Aur Nirmanhttp://rojgaraurnirman.in \u203a notes",
+        "content": "Tesla stancenation photos; Slammed Model X \u2014 Tesla Forums; Tesla owner shares insights after Model; Tesla's first self-driving accident; Sports Air Suspension\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.amazon.com/-/es/Motrobe-Tesla-Model-Cubierta-antideslizante/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla Model Y Model 3 - Cubierta antideslizante de ...Amazonhttps://www.amazon.com \u203a Motrobe-Tesla-Model-Cubier...",
+        "content": "Amazon.com: Motrobe Tesla Model Y Model 3 - Cubierta antideslizante de aluminio para pedales de freno (2 unidades) : Automotriz.",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.youtube.com/watch?v=Byfi4Rluu2g",
+        "title": "\u7279\u65af\u62c9\u662f\u53f2\u4e0a\u6700\u5b89\u5168\u623f\u8eca!? \u5404\u7a2eTesla \u7684\u5be6\u969b\u8eca\u798d\u6848\u4f8b - YouTubeYouTube\u00a0\u00b7\u00a0FIRE \u4e86\u5b89\u7bc930.5K+ views  \u00b7  3 years ago",
+        "content": "S Model 3 \u8207Model X! Tesla Vehicle Safety! \u6b61\u8fce\u4f86\u5230\u5b89\u7bc9\u7684Tesla\u4e2d\u6587\u983b\u9053\u9019\u662f\u6211Tesla ... Download / Stream: https://bit.ly/jay-someday-frontline\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.youtube.com/playlist?list=PLO0XLlhqtYaEK81-TfgVhWqe31oyLagQ-",
+        "title": "tesla - YouTubeYouTube\u00a0\u00b7\u00a0FIRE \u4e86\u5b89\u7bc989.8K+ followers  \u00b7  12 months ago",
+        "content": "\u5982\u4f55\u7c21\u55ae\u95dc\u9589Model 3 \u7684\u81ea\u52d5\u9632\u7729\u5f8c\u8996\u93e1\u3010\u61f7\u7238\u7684\u7279\u65af\u62c9\u65e5\u5e38\u3011Disable Tesla Model 3 Auto-Dimming mirror the easy way. \u61f7\u7238\u760b\u79d1\u6280.",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "iw",
+        "link": "https://www.amazon.com/-/he/Motrobe-Tesla-%D7%9B%D7%99%D7%A1%D7%95%D7%99-%D7%93%D7%95%D7%95%D7%A9%D7%95%D7%AA-%D7%90%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%9D/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla \u05d3\u05d2\u05dd Y \u05d3\u05d2\u05dd 3 \u05db\u05d9\u05e1\u05d5\u05d9 \u05d3\u05d5\u05d5\u05e9\u05d5\u05ea \u05d1\u05dc\u05dd \u05d0\u05dc\u05d5\u05de\u05d9\u05e0\u05d9\u05d5\u05dd \u05e0\u05d2\u05d3 \u05d4\u05d7\u05dc\u05e7\u05d4 ...Amazon.comhttps://www.amazon.com \u203a Motrobe-Tesla-\u05db\u05d9\u05e1\u05d5\u05d9-\u05d3\u05d5\u05d5\u05e9\u05d5\u05ea-\u05d0\u05dc...",
+        "content": "\u05e9\u05d3\u05e8\u05d5\u05d2 2023: \u05db\u05d9\u05e1\u05d5\u05d9 \u05d3\u05d5\u05d5\u05e9\u05ea Tesla \u05de\u05d9\u05d5\u05e2\u05d3 \u05dc\u05d3\u05d2\u05dd \u05d8\u05e1\u05dc\u05d4 3 2016-2023, \u05d3\u05d2\u05dd Y, \u05d1\u05d8\u05d5\u05d7 \u05d5\u05d9\u05e6\u05d9\u05d1, \u05dc\u05d0 \u05e0\u05d5\u05e4\u05dc \u05d1\u05e7\u05dc\u05d5\u05ea, \u05de\u05e9\u05e4\u05e8 \u05d0\u05ea \u05d7\u05d5\u05d5\u05d9\u05d9\u05ea \u05d4\u05e0\u05d4\u05d9\u05d2\u05d4. \u05d7\u05d5\u05de\u05e8 \u05d1\u05d0\u05d9\u05db\u05d5\u05ea \u05d2\u05d1\u05d5\u05d4\u05d4: \u05e2\u05e9\u05d5\u05d9 \u05de\u05e1\u05d2\u05e1\u05d5\u05d2\u05ea\u00a0...",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.youtube.com/watch?v=Pj6YvaIxh_8",
+        "title": "\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u0441\u0442\u043e\u0438\u0442 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 Tesla Model 3 ? \u0421\u0415\u0420\u0418\u042f 3YouTube\u00a0\u00b7\u00a0WESTMOTORS5.5K+ views  \u00b7  3 years ago",
+        "content": "\u041c\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u043c \u0440\u0435\u043c\u043e\u043d\u0442 Tesla Model 3, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0431\u044b\u043b\u0430 \u043a\u0443\u043f\u043b\u0435\u043d\u0430 \u0432 \u0421\u0428\u0410! \u0418 \u044d\u0442\u043e \u0421\u0435\u0440\u0438\u044f 3. \u0412 \u044d\u0442\u043e\u043c \u0432\u0438\u0434\u0435\u043e \u043c\u044b \u0440\u0430\u0441\u0441\u043a\u0430\u0436\u0435\u043c \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0431\u0443\u0434\u0435\u0442 \u0441\u0442\u043e\u0438\u0442\u044c \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "lv",
+        "link": "https://kursors.lv/tag/tesla-supercharger/",
+        "title": "Tesla Supercharger - Kursors.lvKursors.lvhttps://kursors.lv \u203a tag \u203a tesla-super...",
+        "content": "Tesla Supercharger. Tesla par 100 miljoniem dol\u0101ru British Petroleum p\u0101rdos uzl\u0101des iek\u0101rtas \u00b7 M\u0101ris Bergs - 27.10.2023 0 \u00b7 Toyota un Lexus seko baram un\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://archutah.com/LPWQO162410.html",
+        "title": "WYYUE F C C D\u00f3n E, Car E P P Kick P Do A T M 3 / X/Sarchutah.comhttps://archutah.com \u203a LPWQO162...",
+        "content": "Car Exterior Pasos Pedal Kick Plates Decorativo Accesorios para Tesla Model 3 / X/S Protector de Umbral de Puerta WYYUE 4Pcs Fibra de Carbon Coche Decoraci\u00f3n\u00a0...",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.linkedin.com/posts/stella-picco-2a080093_parking-parkingindustry-parkingguidance-activity-7053639849374879744-ZF_4",
+        "title": "Stella Picco posted on LinkedInLinkedIn\u00a0\u00b7\u00a0Stella Picco7 months ago",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.linkedin.com/posts/christophe-fournier-a4aa533a_ld-travocean-tm05-diverless-subsea-trencher-activity-6998967102359363584-b11w?trk=public_profile_like_view",
+        "title": "LD Travocean TM05 Diverless Subsea Trencher - LinkedInLinkedIn\u00a0\u00b7\u00a0Christophe FOURNIER1 year ago",
+        "content": "Par exemple, Tesla colle les cellules entre elles et au ch\u00e2ssis, r\u00e9duisant les co\u00fbts de production mais rendant la r\u00e9paration mission\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.legerolighting.com/voiture-electrique-probleme-batterie-k.html",
+        "title": "priv\u00e9 libert\u00e9 peigne voiture electrique probleme batterie ...Legero Lightinghttps://www.legerolighting.com \u203a v...",
+        "content": "... Automobile Propre - Le Podcast | Plus de 1000 km d'autonomie pour cette Tesla Model S ! | Ausha\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.linkedin.com/posts/stella-picco-2a080093_powertopredict-aiot-safetyandsecurity-activity-7037082286294474752-FKUo",
+        "title": "Stella Picco posted on LinkedInLinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "Par exemple, Tesla colle les cellules entre elles et au ch\u00e2ssis, r\u00e9duisant les co\u00fbts de production mais rendant la r\u00e9paration mission impossible. \u00ab Nous\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.chip.pl/tag/tesla",
+        "title": "Tesla - Chip.plCHIPhttps://www.chip.pl \u203a tag \u203a tesla",
+        "content": "Zobacz wszystkie artyku\u0142y zawieraj\u0105ce tag: Tesla. Informacje, trendy, newsy, recenzje, technologie, nauka. Czytaj na Chip.pl!",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.amazon.co.jp/-/en/dp/B07XKZW63Q",
+        "title": "Amazon.co.jp: Motrobe Tesla Model 3 Model Y \u6ed1\u308a\u6b62\u3081 ...\u30a2\u30de\u30be\u30f3https://www.amazon.co.jp \u203a ...",
+        "content": "Amazon.co.jp: Motrobe Tesla Model 3 Model Y \u6ed1\u308a\u6b62\u3081\u30a2\u30eb\u30df\u30cb\u30a6\u30e0\u30a2\u30af\u30bb\u30e9\u30ec\u30fc\u30bf\u30fc\u30d6\u30ec\u30fc\u30ad\u30d5\u30c3\u30c8\u30da\u30c0\u30eb\u30ab\u30d0\u30fc (2\u500b\u30bb\u30c3\u30c8) : Automotive.",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://kandjietfreres.com/boutique-vente-telephone-samsung-iphone-huawei-dakar-senegal/?orderby=popularity&product_brand=tp-link%2Casus%2Cnintendo%2Cgopro%2Cvente-telephones-smartphones-samsung-moins-chers-dakar-senegal%2Cautre%2Cvente-telephonesesmartphones-xiaomi-moins-chers-dakar-senegal%2Cjbl%2Cvente-telephones-smartphones-nokia-moins-chers-dakar-senegal%2Cbrother%2Chp&filter_memoire=16gb",
+        "title": "m\u00fcmk\u00fcn nehir i\u015f\u00e7i tesla model 3 fire Tarihi ge\u00e7mi\u015f Niyet etmek ...kandjietfreres.comhttps://kandjietfreres.com \u203a boutiqu...",
+        "content": "Tesla Model 3 batteries show impressive fire resistance despite damage from high-speed crash \u00b7 Firefighters work 16 hours to put out fires in Tesla Model S - ABC\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "lv",
+        "link": "https://kursors.lv/tag/atra-uzlade/",
+        "title": "\u0101tra uzl\u0101de - Kursors.lvKursors.lvhttps://kursors.lv \u203a tag \u203a atra-uzlade",
+        "content": "... Tesla Model Y ar 4680 baterij\u0101m demonstr\u0113 atz\u012bstamu sniegumu \u0101traj\u0101s uzl\u0101d\u0113s ... Tesla Supercharger \u00b7 M\u0101ris Bergs - 29.06.2022 11 \u00b7 Audi uzl\u0101des centru\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.instagram.com/ansari8drive/?hl=en",
+        "title": "ansari8drive - \u0645\u062c\u062a\u0645\u0639 \u0622\u0645\u0648\u0632\u0634\u06af\u0627\u0647 \u0631\u0627\u0646\u0646\u062f\u06af\u06cc \u0627\u0646\u0635\u0627\u0631\u06cc - InstagramInstagram\u00a0\u00b7\u00a0ansari8drive2.1K+ followers",
+        "content": "\u0622\u0645\u0648\u0632\u0634 \u0645\u0647\u0627\u0631\u062a \u0631\u0627\u0646\u0646\u062f\u06af\u06cc_ \u067e\u0627\u06cc\u0647\u0663\u0648 \u0645\u0639\u0644\u0648\u0644\u06cc\u0646 \u0648 \u0645\u0648\u062a\u0648\u0631\u0633\u06cc\u06a9\u0644\u062a \u0647\u0634\u062a\u06af\u0631\u062f_\u0628\u0644\u0648\u0627\u0631\u0627\u0645\u0627\u0645 \u062e\u0645\u06cc\u0646\u06cc \u0646\u0631\u0633\u06cc\u062f\u0647 \u0628\u0647 \u0645\u06cc\u062f\u0627\u0646 \u0628\u0633\u06cc\u062c_\u0643\u0648\u0686\u0647 \u06af\u0644\u0633\u062a\u0627\u0646_\u067e\u0661\u0660\u0664 \u0634\u0645\u0627\u0631\u0647 \u062a\u0645\u0627\u0633: 09906825760_02644225456.",
+        "size": [
+          540,
+          401
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://kandjietfreres.com/boutique-vente-telephone-samsung-iphone-huawei-dakar-senegal/?orderby=popularity&product_brand=tp-link%2Casus%2Cnintendo%2Cgopro%2Cvente-telephones-smartphones-samsung-moins-chers-dakar-senegal%2Cautre%2Cvente-telephonesesmartphones-xiaomi-moins-chers-dakar-senegal%2Cjbl%2Cvente-telephones-smartphones-nokia-moins-chers-dakar-senegal%2Cbrother%2Chp&filter_memoire=16gb",
+        "title": "m\u00fcmk\u00fcn nehir i\u015f\u00e7i tesla model 3 fire Tarihi ge\u00e7mi\u015f Niyet etmek ...kandjietfreres.comhttps://kandjietfreres.com \u203a boutiqu...",
+        "content": "Tesla Model 3 batteries show impressive fire resistance despite damage from high-speed crash \u00b7 Firefighters work 16 hours to put out fires in Tesla Model S - ABC\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.instagram.com/ansari8drive/?next=%2Fp%2F9WeBq8TB13%2F&hl=ja",
+        "title": "\u0645\u062c\u062a\u0645\u0639 \u0622\u0645\u0648\u0632\u0634\u06af\u0627\u0647 \u0631\u0627\u0646\u0646\u062f\u06af\u06cc \u0627\u0646\u0635\u0627\u0631\u06cc(@ansari8drive) - InstagramInstagram\u00a0\u00b7\u00a0ansari8drive2.1K+ followers",
+        "content": "\u0622\u0645\u0648\u0632\u0634 \u0645\u0647\u0627\u0631\u062a \u0631\u0627\u0646\u0646\u062f\u06af\u06cc_ \u067e\u0627\u06cc\u0647\u0663\u0648 \u0645\u0639\u0644\u0648\u0644\u06cc\u0646 \u0648 \u0645\u0648\u062a\u0648\u0631\u0633\u06cc\u06a9\u0644\u062a \u0647\u0634\u062a\u06af\u0631\u062f_\u0628\u0644\u0648\u0627\u0631\u0627\u0645\u0627\u0645 \u062e\u0645\u06cc\u0646\u06cc \u0646\u0631\u0633\u06cc\u062f\u0647 \u0628\u0647 \u0645\u06cc\u062f\u0627\u0646 \u0628\u0633\u06cc\u062c_\u0643\u0648\u0686\u0647 \u06af\u0644\u0633\u062a\u0627\u0646_\u067e\u0661\u0660\u0664 \u0634\u0645\u0627\u0631\u0647 \u062a\u0645\u0627\u0633: 09906825760_02644225456.",
+        "size": [
+          540,
+          401
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.amazon.com.be/Motrobe-couvre-p%C3%A9dales-antid%C3%A9rapants-aluminium-acc%C3%A9l%C3%A9rateur/dp/B07XKZW63Q",
+        "title": "Motrobe Tesla Model Y Model 3 Lot de 2 couvre-p\u00e9dales ...Amazon.com.behttps://www.amazon.com.be \u203a Motr...",
+        "content": "Motrobe Tesla Model Y Model 3 Lot de 2 couvre-p\u00e9dales antid\u00e9rapants en aluminium pour acc\u00e9l\u00e9rateur : Amazon.com.be: Auto et moto.",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.amazon.in/-/hi/Motrobe-%E0%A4%9F%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BE-%E0%A4%8F%E0%A4%82%E0%A4%9F%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%AA-%E0%A4%8F%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%AE%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE-%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%80%E0%A4%B2%E0%A5%87%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A4%B0/dp/B07XKZW63Q",
+        "title": "Motrobe \u091f\u0947\u0938\u094d\u0932\u093e \u092e\u0949\u0921\u0932 3 \u090f\u0902\u091f\u0940-\u0938\u094d\u0932\u093f\u092a \u090f\u0932\u094d\u092f\u0941\u092e\u0940\u0928\u093f\u092f\u092e \u090f\u0915\u094d\u0938\u0940\u0932\u0947\u0930\u0947\u091f\u0930 \u092c\u094d\u0930\u0947\u0915 ...Amazon.inhttps://www.amazon.in \u203a Motrobe-\u091f\u0947\u0938\u094d\u0932\u093e-\u090f\u0902\u091f\u0940-\u0938\u094d...",
+        "content": "... Tesla changed up the Pedal surface dimensions and it will not fit snuggly. These pedal covers have some extruded rubber pieces that do not fit in the 2023\u00a0...",
+        "size": [
+          1600,
+          1600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.chip.pl/tag/elon-musk",
+        "title": "Elon Musk - Chip.plCHIPhttps://www.chip.pl \u203a tag \u203a elon-musk",
+        "content": "#Elon Musk \u00b7 Tag: #Elon Musk \u00b7 Elon Musk \u2013 tym razem w roli piosenkarza \u00b7 Czy Tesla b\u0119dzie musia\u0142a wycofa\u0107 z ruchu 500 tys. \u00b7 Starlink nad Polsk\u0105 \u2013 kiedy i gdzie\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://tjsclearance.co.uk/probl%C3%A8me-batterie-tesla-k.html",
+        "title": "Rendezvous code Annuler probl\u00e8me batterie tesla civilisation ...tjsclearance.co.ukhttps://tjsclearance.co.uk \u203a probl\u00e8m...",
+        "content": "Tesla se tourne vers l'Asie pour r\u00e9soudre son probl\u00e8me de cellules de batteries 4680 - Les Num\u00e9riques. Probl\u00e8me d autonomie - Forum et Blog Tesla\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://tapis-de-souris-skyyo.fr/probl%C3%A8me-batterie-tesla-k.html",
+        "title": "Timor oriental Tragique \u00c9lastique probl\u00e8me batterie tesla ...tapis-de-souris-skyyo.frhttps://tapis-de-souris-skyyo.fr \u203a pr...",
+        "content": "E-Auto-Fahrer findet Massen-Defekt an Teslas: Nun legt er sich mit Elon Musk an - EFAHRER.com. Voitures Tesla : tous les probl\u00e8mes \u00e0 conna\u00eetre avant un\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "http://daymarethegame.com/batterie-casse-auto-k.html",
+        "title": "victimes Ma\u00eetre Th\u00e9orie de la relativit\u00e9 batterie casse auto ...daymarethegame.comhttp://daymarethegame.com \u203a batter...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://greeshan.ru/tag/harmonyos/",
+        "title": "harmonyos \u2014 iT-DroiD-ZoNe - by greeshanby greeshanhttps://greeshan.ru \u203a tag \u203a harmonyos",
+        "content": "\u041a\u0430\u0436\u0435\u0442\u0441\u044f, \u041c\u044b \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u043d\u0430\u0439\u0442\u0438 \u0442\u043e, \u0447\u0442\u043e \u0412\u044b \u0438\u0449\u0438\u0442\u0435. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u043e\u0438\u0441\u043a\u043e\u043c! \u041f\u043e\u0438\u0441\u043a. \u041d\u0430\u0439\u0442\u0438: \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u0441\u0442\u0430\u0442\u044c\u0438. Tesla \u043e\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c \u0441\u0430\u043c\u044b\u043c \u0430\u0432\u0430\u0440\u0438\u0439\u043d\u044b\u043c\u00a0...",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://brandnation.co.ke/borne-batterie-cassee-k.html",
+        "title": "Malheureusement Goneryl Sangloter borne batterie cassee ...brandnation.co.kehttps://brandnation.co.ke \u203a borne-b...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://viralbjx.com/blocage-compteur-voiture-accident-k.html",
+        "title": "D\u00e9cris mariage apr\u00e8s midi blocage compteur voiture accident ...viralbjx.comhttps://viralbjx.com \u203a blocage-comp...",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://viralbjx.com/jovpwbe-178538ietidm71wb.html",
+        "title": "D\u00e9cris mariage apr\u00e8s midi blocage compteur voiture accident ...viralbjx.comhttps://viralbjx.com \u203a ...",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.waisttrainingkorse.com/rca-masini-electrice",
+        "title": "Shift Team up with Indoors master's degree meat Usual rca ...waisttrainingkorse.comhttps://www.waisttrainingkorse.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          600,
+          334
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.mspbusinessschool.com/casse-auto-homologu%C3%A9e-k.html",
+        "title": "T\u00e9l\u00e9graphe Accusation Rappel casse auto homologu\u00e9e ...viann'k mansur quinceanera dresseshttps://www.mspbusinessschool.com \u203a ...",
+        "content": "",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://myskillsconnect.com/tesla/33512-razbitaja-tesla-45-foto.html",
+        "title": "\u0420\u0430\u0437\u0431\u0438\u0442\u0430\u044f \u0442\u0435\u0441\u043b\u0430 (45 \u0444\u043e\u0442\u043e) - myskillsconnect.commyskillsconnect.comhttps://myskillsconnect.com \u203a tesla",
+        "content": "... Tesla model x crash \u0422\u0435\u0441\u043b\u0430 \u043c\u043e\u0434\u0435\u043b\u044c \u0441 \u0420\u0430\u0437\u0431\u0438\u0442\u0430\u044f Tesla model x crash Tesla model 3 \u043a\u0440\u044b\u0448\u0430 \u0420\u0430\u0437\u0431\u0438\u0442\u0430\u044f \u0422\u0435\u0441\u043b\u0430 \u0410\u0432\u0442\u043e \u043f\u043e\u0441\u043b\u0435 \u0414\u0422\u041f Tesla model x \u0440\u0430\u0437\u0431\u0438\u0442\u044b\u0435 \u0420\u0430\u0437\u0431\u0438\u0442\u0430\u044f.",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.dugoutdiner.com/reparation-batterie-voiture-electrique",
+        "title": "K\u0131s\u0131tlamalar toplamak kar\u0131\u015ft\u0131rmak reparation batterie voiture ...dugoutdiner.comhttps://www.dugoutdiner.com \u203a rep...",
+        "content": " \u00b7 ",
+        "size": [
+          2048,
+          1152
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.elpezquesemuerdelaboca.com/probleme-batterie-voiture",
+        "title": "probleme batterie voiture, 3 signes d'une en vieelpezquesemuerdelaboca.comhttps://www.elpezquesemuerdelaboca.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://ejiga.com/w/EXMoF09",
+        "title": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062a\u0633\u0644\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062c\u0646\u062c\u0627\u0644\u06cc \u0634\u062f - \u0627\u06cc\u062c\u06cc\u06af\u0627\u0627\u06cc\u062c\u06cc\u06af\u0627https://ejiga.com \u203a EXMoF09",
+        "content": "\u0633\u0627\u0632\u0645\u0627\u0646 \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0627\u06cc\u0645\u0646\u06cc \u062e\u0648\u062f\u0631\u0648 \u062f\u0631 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u0648\u06cc\u0698\u0647\u200c\u0627\u06cc \u0631\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u0628\u0631\u062e\u0648\u0631\u062f \u0645\u0631\u06af\u0628\u0627\u0631 \u06cc\u06a9 \u062e\u0648\u062f\u0631\u0648\u06cc \u062a\u0633\u0644\u0627 \u0627\u0632 \u0645\u062f\u0644 \u06f3 \u0628\u0627 \u06cc\u06a9 \u0639\u0627\u0628\u0631 \u067e\u06cc\u0627\u062f\u0647 \u062f\u0631 \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627 \u0622\u063a\u0627\u0632 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647\u00a0...",
+        "size": [
+          586,
+          387
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.20686425268650055
+      },
+      {
+        "class": "auto_factory",
+        "ioclass": "indoor",
+        "probability": 0.19716568291187286
+      },
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.16943708062171936
+      },
+      {
+        "class": "assembly_line",
+        "ioclass": "indoor",
+        "probability": 0.14054787158966064
+      },
+      {
+        "class": "auto_showroom",
+        "ioclass": "indoor",
+        "probability": 0.1381143033504486
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.8438596725463867
+      },
+      {
+        "class": "busy",
+        "score": 0.6847841739654541
+      },
+      {
+        "class": "ice",
+        "score": 0.6262421607971191
+      },
+      {
+        "class": "dirty",
+        "score": 0.5738848447799683
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.571898341178894
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5670582056045532
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.5563877820968628
+      },
+      {
+        "class": "season/winter",
+        "score": 0.5521547794342041
+      },
+      {
+        "class": "bright",
+        "score": 0.5286416411399841
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.5093618631362915
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 931,
+        "pred_lat": 36.9211540222168,
+        "pred_long": 137.5763397216797
+      },
+      "middle": {
+        "pred_class": 1951,
+        "pred_lat": 43.737831115722656,
+        "pred_long": 7.403716564178467
+      },
+      "fine": {
+        "pred_class": 546,
+        "pred_lat": 51.273216247558594,
+        "pred_long": 0.09180190414190292
+      },
+      "hierarchy": {
+        "pred_class": 5582,
+        "pred_lat": 36.93118667602539,
+        "pred_long": 138.12429809570312
+      },
+      "country": {
+        "city": "",
+        "state": "England",
+        "country": "United Kingdom"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 51.28295,
+    "longitude": 0.16216215,
+    "generationtime_ms": 0.1989603042602539,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 96.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2019-09-17T00:00",
+        "2019-09-17T01:00",
+        "2019-09-17T02:00",
+        "2019-09-17T03:00",
+        "2019-09-17T04:00",
+        "2019-09-17T05:00",
+        "2019-09-17T06:00",
+        "2019-09-17T07:00",
+        "2019-09-17T08:00",
+        "2019-09-17T09:00",
+        "2019-09-17T10:00",
+        "2019-09-17T11:00",
+        "2019-09-17T12:00",
+        "2019-09-17T13:00",
+        "2019-09-17T14:00",
+        "2019-09-17T15:00",
+        "2019-09-17T16:00",
+        "2019-09-17T17:00",
+        "2019-09-17T18:00",
+        "2019-09-17T19:00",
+        "2019-09-17T20:00",
+        "2019-09-17T21:00",
+        "2019-09-17T22:00",
+        "2019-09-17T23:00",
+        "2019-09-18T00:00",
+        "2019-09-18T01:00",
+        "2019-09-18T02:00",
+        "2019-09-18T03:00",
+        "2019-09-18T04:00",
+        "2019-09-18T05:00",
+        "2019-09-18T06:00",
+        "2019-09-18T07:00",
+        "2019-09-18T08:00",
+        "2019-09-18T09:00",
+        "2019-09-18T10:00",
+        "2019-09-18T11:00",
+        "2019-09-18T12:00",
+        "2019-09-18T13:00",
+        "2019-09-18T14:00",
+        "2019-09-18T15:00",
+        "2019-09-18T16:00",
+        "2019-09-18T17:00",
+        "2019-09-18T18:00",
+        "2019-09-18T19:00",
+        "2019-09-18T20:00",
+        "2019-09-18T21:00",
+        "2019-09-18T22:00",
+        "2019-09-18T23:00"
+      ],
+      "apparent_temperature": [
+        14.3,
+        13.5,
+        12.6,
+        12.3,
+        11.8,
+        10.8,
+        9.6,
+        9.1,
+        9.8,
+        11.0,
+        12.3,
+        13.2,
+        14.3,
+        14.8,
+        14.7,
+        14.5,
+        14.0,
+        13.5,
+        11.9,
+        10.8,
+        9.7,
+        8.4,
+        7.4,
+        6.9,
+        7.0,
+        6.2,
+        5.8,
+        5.4,
+        5.1,
+        4.8,
+        4.8,
+        6.6,
+        8.9,
+        10.4,
+        11.5,
+        12.6,
+        14.0,
+        14.5,
+        14.5,
+        14.5,
+        14.4,
+        13.8,
+        11.4,
+        10.0,
+        9.1,
+        8.1,
+        7.1,
+        6.7
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

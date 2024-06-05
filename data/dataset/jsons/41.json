@@ -1,0 +1,3153 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 107,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 12,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 14,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 107,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                107,
+                12,
+                14,
+                0,
+                0,
+                1,
+                4,
+                0,
+                2,
+                0,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 103,
+            "percentage": 53.36787564766839
+          },
+          "Arabic": {
+            "count": 18,
+            "percentage": 9.32642487046632
+          },
+          "Persian": {
+            "count": 11,
+            "percentage": 5.699481865284974
+          },
+          "Portuguese": {
+            "count": 8,
+            "percentage": 4.1450777202072535
+          },
+          "Korean": {
+            "count": 7,
+            "percentage": 3.626943005181347
+          },
+          "Chinese": {
+            "count": 4,
+            "percentage": 2.0725388601036268
+          },
+          "Japanese": {
+            "count": 6,
+            "percentage": 3.1088082901554404
+          },
+          "Croatian": {
+            "count": 4,
+            "percentage": 2.0725388601036268
+          },
+          "Hindi": {
+            "count": 4,
+            "percentage": 2.0725388601036268
+          },
+          "Polish": {
+            "count": 4,
+            "percentage": 2.0725388601036268
+          },
+          "Spanish; Castilian": {
+            "count": 4,
+            "percentage": 2.0725388601036268
+          },
+          "Italian": {
+            "count": 3,
+            "percentage": 1.5544041450777202
+          },
+          "German": {
+            "count": 3,
+            "percentage": 1.5544041450777202
+          },
+          "French": {
+            "count": 3,
+            "percentage": 1.5544041450777202
+          },
+          "Dutch; Flemish": {
+            "count": 2,
+            "percentage": 1.0362694300518134
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 1,
+            "percentage": 0.5181347150259067
+          },
+          "Russian": {
+            "count": 1,
+            "percentage": 0.5181347150259067
+          },
+          "Swedish": {
+            "count": 1,
+            "percentage": 0.5181347150259067
+          }
+        },
+        "total": 193,
+        "plot": {
+          "labels": [
+            "English",
+            "Arabic",
+            "Persian",
+            "Portuguese",
+            "others"
+          ],
+          "data": [
+            53,
+            9,
+            5,
+            4,
+            29
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "zh-CN",
+        "link": "https://m.cnbeta.com.tw/wap/view/1391997.htm",
+        "title": "\u52a0\u5dde\u966a\u5ba1\u56e2\u5373\u5c06\u5904\u7406\u7279\u65af\u62c9Autopilot\u81f4\u6b7b\u6848cnBeta.COMhttps://m.cnbeta.com.tw \u203a wap \u203a view",
+        "content": "",
+        "size": [
+          1390,
+          1042
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "de",
+        "link": "https://www.fireworld.at/2019/06/14/oesterreich-oebfv-bezieht-stellung-zur-geplanten-entgeltfortzahlung/",
+        "title": "\u00d6sterreich: \u00d6BFV bezieht Stellung zur geplanten ... - Fireworld.atFireworld.athttps://www.fireworld.at \u203a oesterreic...",
+        "content": "",
+        "size": [
+          367,
+          193
+        ],
+        "date": "2019:06:14 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 50,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "de",
+        "link": "https://www.fireworld.at/2019/06/14/oesterreich-oebfv-bezieht-stellung-zur-geplanten-entgeltfortzahlung/",
+        "title": "\u00d6sterreich: \u00d6BFV bezieht Stellung zur geplanten ... - Fireworld.atFireworld.athttps://www.fireworld.at \u203a oesterreic...",
+        "content": "",
+        "size": [
+          367,
+          193
+        ],
+        "date": "2019:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.fireworld.at/2020/08/22/d-schreiendes-kind-im-aufzug-%E2%86%92-7-000-euro-rechnung-fuer-die-feuerwehr-nach-liftoeffnung/",
+        "title": "D: Schreiendes Kind im Aufzug \u2192 7.000 Euro-Rechnung f\u00fcr ...Fireworld.athttps://www.fireworld.at \u203a 2020/.../...",
+        "content": "",
+        "size": [
+          367,
+          193
+        ],
+        "date": "2020:08:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://pplware.sapo.pt/motores/tesla-revelou-o-novo-model-s-e-os-interiores-conseguem-surpreender-todos/",
+        "title": "Tesla revelou novo Model S e os interiores conseguem ...Pplwarehttps://pplware.sapo.pt \u203a motores \u203a t...",
+        "content": "O Model S vai ser totalmente renovado e a Tesla j\u00e1 mostrou os novos interiores. Estes s\u00e3o disruptivos e v\u00e3o conseguir surpreender todos.",
+        "size": [
+          345,
+          194
+        ],
+        "date": "2021:01:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.amarujala.com/automobiles/keep-these-five-things-in-mind-while-driving-a-car-on-the-expressway-you-will-reach-your-destination-safely-2023-02-17",
+        "title": "Driving On Expressway:\u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938 \u0935\u0947 \u092a\u0930 \u0915\u093e\u0930 \u091a\u0932\u093e\u0924\u0947 \u0938\u092e\u092f \u0930\u0916\u0947\u0902 \u0907\u0928 ...Amar Ujalahttps://www.amarujala.com \u203a keep-t...",
+        "content": "... Tesla Cybertruck \u00b7 Cyber Security \u00b7 Pakistan Car Sales \u00b7 Odd-Even Rule ... Costa Rica, +385 / Croatia, +53 / Cuba, +599 / Curacao, +357 / Cyprus\u00a0...",
+        "size": [
+          360,
+          202
+        ],
+        "date": "2023:02:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWKMGhttps://www.clickorlando.com \u203a business \u203a 2023/02/19",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          400,
+          292
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news4jax.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayNews4JAXhttps://www.news4jax.com \u203a business \u203a 2023/02/19",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          400,
+          292
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://toronto.citynews.ca/2023/02/18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayCityNews Torontohttps://toronto.citynews.ca \u203a 2023/02/18 \u203a tesla-driver...",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          1024,
+          747
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://montreal.citynews.ca/2023/02/18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayCityNews Montrealhttps://montreal.citynews.ca \u203a 2023/02/18 \u203a tesla-drive...",
+        "content": "... California freeway to shield a crew clearing another accident, fire officials said. ... Contra Costa County Fire Protection District. The driver\u00a0...",
+        "size": [
+          1024,
+          747
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.delta-optimist.com/automotive/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-6579313",
+        "title": "Tesla driver killed after plowing into firetruck on freewayDelta Optimisthttps://www.delta-optimist.com \u203a automotive \u203a tesla-dr...",
+        "content": "... fire truck parked on a Northern California freeway to shield a crew clearing another accident. (Contra Costa County Fire Protection District via\u00a0...",
+        "size": [
+          1280,
+          934
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayClick2Houstonhttps://www.click2houston.com \u203a business \u203a 2023/02/19",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          400,
+          292
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rmoutlook.com/automotive/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-6579313",
+        "title": "Tesla driver killed after plowing into firetruck on freewayRocky Mountain Outlookhttps://www.rmoutlook.com \u203a automotive \u203a tesla-drive...",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          1280,
+          934
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nsnews.com/automotive/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-6579313",
+        "title": "Tesla driver killed after plowing into firetruck on freewayNorth Shore Newshttps://www.nsnews.com \u203a automotive \u203a tesla-driver-kille...",
+        "content": "... fire truck parked on a Northern California freeway to shield a crew clearing another accident. (Contra Costa County Fire Protection District via\u00a0...",
+        "size": [
+          1280,
+          934
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://apnews.com/article/technology-business-injuries-fires-59d22dced75ec1ce6929c9dfb094524c",
+        "title": "Tesla driver killed after plowing into firetruck on freewayAP Newshttps://apnews.com \u203a article",
+        "content": "WALNUT CREEK, Calif. (AP) \u2014 A Tesla driver was killed and a passenger was critically injured Saturday when the car plowed into a fire truck that\u00a0...",
+        "size": [
+          599,
+          437
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ksat.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KSATKSAThttps://www.ksat.com \u203a business \u203a 2023/02/19 \u203a tesla-...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          400,
+          292
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.princegeorgecitizen.com/automotive/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-6579313",
+        "title": "Tesla driver killed after plowing into firetruck on freewayPrince George Citizenhttps://www.princegeorgecitizen.com \u203a automotive \u203a t...",
+        "content": "... fire truck parked on a Northern California freeway to shield a crew clearing another accident. (Contra Costa County Fire Protection District via\u00a0...",
+        "size": [
+          1280,
+          934
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.richmond-news.com/automotive/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-6579313",
+        "title": "Tesla driver killed after plowing into firetruck on freewayRichmond Newshttps://www.richmond-news.com \u203a automotive \u203a tesla-...",
+        "content": "... fire truck parked on a Northern California freeway to shield a crew clearing another accident. (Contra Costa County Fire Protection District via\u00a0...",
+        "size": [
+          1280,
+          934
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.burnabynow.com/automotive/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-6579313",
+        "title": "Tesla driver killed after plowing into firetruck on freewayBurnaby Nowhttps://www.burnabynow.com \u203a automotive \u203a tesla-dri...",
+        "content": "... fire truck parked on a Northern California freeway to shield a crew clearing another accident. (Contra Costa County Fire Protection District via\u00a0...",
+        "size": [
+          1280,
+          934
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vinnews.com/2023/02/18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla Driver Killed After Plowing Into Firetruck On FreewayVINnewshttps://vinnews.com \u203a 2023/02/18 \u203a tesla-driver-killed...",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          3000,
+          2189
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2023/02/18/tesla-driver-killed-after-plowing-into-firetruck-on-freeway",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWinnipeg Free Presshttps://www.winnipegfreepress.com \u203a life \u203a 2023/02/18",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          1024,
+          747
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickorlando.com/gallery/news/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWKMGhttps://www.clickorlando.com \u203a news \u203a 2023/02/19",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          400,
+          292
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.inkl.com/news/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-0dfc3662-296a-448f-be7a-a87e7508b3ee",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - inklinklhttps://www.inkl.com \u203a news",
+        "content": "Firefighters work the scene of a fatal accident involving a Tesla and Contra Costa County fire truck (AP). Ms Dutter said the truck had its\u00a0...",
+        "size": [
+          3000,
+          2189
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.claycord.com/2023/02/18/driver-dies-on-i-680-after-hitting-firetruck-that-was-blocking-lanes-due-to-previous-collision-4-firefighters-also-injured/",
+        "title": "Driver Dies On I-680 After Hitting Firetruck That Was Blocking ...CLAYCORD.comhttps://www.claycord.com \u203a 2023/02/18 \u203a driver-dies-...",
+        "content": "A Contra Costa County Fire Engine was stopped at the rear of the ... At 3:54am, a Tesla Model S approaching the scene crashed into the rear of the\u00a0...",
+        "size": [
+          1079,
+          836
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timescolonist.com/automotive/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-6579313",
+        "title": "Tesla driver killed after plowing into firetruck on freewayTimes Colonisthttps://www.timescolonist.com \u203a automotive \u203a tesla-dri...",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          1280,
+          934
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.seattletimes.com/business/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayThe Seattle Timeshttps://www.seattletimes.com \u203a business \u203a tesla-driver-kill...",
+        "content": "... California freeway to shield a crew clearing another accident, fire officials said. ... Contra Costa County Fire Protection District. The driver\u00a0...",
+        "size": [
+          780,
+          569
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contracosta.news/2023/02/18/1-dead-after-tesla-slams-into-fire-truck-on-i-680-in-walnut-creek/",
+        "title": "1 Dead After Tesla Slams into Fire Truck on I-680 in Walnut ...Contra Costa Newshttps://contracosta.news \u203a 2023/02/18 \u203a 1-dead-after-t...",
+        "content": "Per CHP, they say on February 18 at around 3:34am, CHP Contra Costa and Contra Costa County Fire were on the scene of a traffic crash on\u00a0...",
+        "size": [
+          432,
+          288
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ktvu.com/news/1-person-dies-when-tesla-hits-fire-truck-on-i-680-4-firefighters-injured",
+        "title": "1 person dies when Tesla hits fire truck on I-680, 4 firefighters ...KTVUhttps://www.ktvu.com \u203a news \u203a 1-person-dies-when-tesla...",
+        "content": "1 person dies when Tesla hits fire truck on I-680, 4 firefighters injured ... WALNUT CREEK, Calif. - One person is dead in the wake of a crash in\u00a0...",
+        "size": [
+          932,
+          470
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.yahoo.com/tesla-driver-killed-plowing-firetruck-004049150.html",
+        "title": "Tesla driver killed after plowing into firetruck on freewayYahoo Newshttps://news.yahoo.com \u203a tesla-driver-killed-plowing-f...",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          640,
+          467
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/bay-area/one-dead-in-tesla-vs-fire-truck-crash-on-i-680/",
+        "title": "One dead in Tesla vs fire truck crash on I-680 - KRON4KRON4https://www.kron4.com \u203a news \u203a bay-area \u203a one-dead...",
+        "content": "WALNUT CREEK, Calif. (KRON) \u2014 One person died after a Tesla slammed into a fire truck on Interstate 680 according to the Contra Costa County\u00a0...",
+        "size": [
+          900,
+          675
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://finance.yahoo.com/news/tesla-driver-killed-plowing-firetruck-004049282.html",
+        "title": "Tesla driver killed after plowing into firetruck on freewayYahoo Financehttps://finance.yahoo.com \u203a news \u203a tesla-driver-killed-...",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          640,
+          467
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abcnews.go.com/US/nhtsa-investigating-fatal-crash-tesla-plowed-parked-firetruck/story?id=97718656",
+        "title": "NHTSA investigating fatal crash where Tesla plowed into ...ABC Newshttps://abcnews.go.com \u203a story",
+        "content": "A 2014 Tesla Model S crashed into a parked firetruck on Interstate 680 near Walnut Creek shortly before 4 a.m. local time on Feb. 18,\u00a0...",
+        "size": [
+          992,
+          616
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://disp.cc/b/Car/fP3T",
+        "title": "[\u65b0\u805e] \u7f8e\u6d88\u9632\u8eca\u516c\u8def\u6551\u707d\u906d\u7279\u65af\u62c9\u76f4\u649e\u99d5\u99db\u7576\u5834\u8eab\u4ea15\u50b7- Car\u677fDisp BBShttps://disp.cc \u203a Car",
+        "content": "\u4f9d\u64da\u5eb7\u7279\u62c9\u79d1\u65af\u5854\u90e1\u6d88\u9632\u55ae\u4f4d\uff08Contra Costa County Fire Protection District\uff09\u5728\u63a8\u7279\u591a\u5f35\u7167\u7247\u986f\u793a\uff0c\u88ab\u649e\u6d88\u9632\u8eca\u7ffb\u8f4990\u5ea6\u6a6b\u8eba\u5728\u5730\uff0c\u8087\u4e8b\u7684\u7279\u65af\u62c9\u524d\u534a\u90e8\u626d\u66f2\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.amarujala.com/automobiles/tesla-car-with-autopilot-technology-crashed-in-america-driver-died-in-accident-2023-02-19",
+        "title": "Tesla Accident:\u0911\u091f\u094b \u092a\u093e\u092f\u0932\u091f \u0924\u0915\u0928\u0940\u0915 \u0935\u093e\u0932\u0940 \u091f\u0947\u0938\u094d\u0932\u093e \u0915\u0940 \u0915\u093e\u0930 \u0938\u0947 \u092b\u093f\u0930 \u0939\u0941\u0906 ...Amar Ujalahttps://www.amarujala.com \u203a tesla-c...",
+        "content": "\u091f\u0947\u0938\u094d\u0932\u093e \u0938\u0947 \u0939\u093e\u0926\u0938\u093e. Tesla car with autopilot technology crashed in america, driver died in accident. 2 of 5.",
+        "size": [
+          750,
+          421
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbsaustin.com/news/nation-world/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-02-19-2023-210241847",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | KEYEKEYEhttps://cbsaustin.com \u203a news \u203a nation-world \u203a tesla-dri...",
+        "content": "... California freeway to shield a crew clearing another accident, fire officials said. ... Contra Costa County Fire Protection District. The driver\u00a0...",
+        "size": [
+          415,
+          303
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.snabusiness.com/article/1598632-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B3%D9%84%D8%A7-%D8%AA%D8%AA%D8%B9%D9%85%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D9%8A%D9%94%D8%9F",
+        "title": "\u062d\u0627\u062f\u062b \u062c\u062f\u064a\u062f \u0644\u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627.. \u0647\u0644 \u062a\u062a\u0639\u0645\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u061fSNA Businesshttps://www.snabusiness.com \u203a article",
+        "content": "\u0623\u0639\u0644\u0646\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u0637\u0641\u0627\u0621 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0623\u0646 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 \u0644\u0642\u064a \u062d\u062a\u0641\u0647 \u0641\u064a \u0633\u0627\u0639\u0629 \u0645\u0628\u0643\u0631\u0629 \u0645\u0646 \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0628\u062a \u0625\u062b\u0631 \u0627\u0635\u0637\u062f\u0627\u0645\u0647 \u0628\u0634\u0627\u062d\u0646\u0629 \u0625\u0637\u0641\u0627\u0621 \u0639\u0644\u0649 \u0637\u0631\u064a\u0642 \u0633\u0631\u064a\u0639 \u0628\u064a\u0646\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.amarujala.com/himachal-pradesh/sirmour/annual-activity-organised-in-silver-belas-school-nahna-nahan-news-c-19-1-65509-2023-02-19",
+        "title": "\u0938\u093f\u0930\u092e\u094c\u0930:\u0930\u0902\u0917\u093e\u0932\u0940 \u0914\u0930 \u0917\u0923\u093f\u0924 \u0913\u0932\u0902\u092a\u093f\u092f\u093e\u0921 \u092e\u0947\u0902 \u0935\u093f\u0928\u092f \u0938\u0926\u0928 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940Amar Ujalahttps://www.amarujala.com \u203a sirmour",
+        "content": "... Accident \u00b7 MP Elections 2023 \u00b7 \u0905\u0924\u0941\u0932 \u092e\u093e\u0939\u0947\u0936\u094d\u0935\u0930\u0940 ... Costa Rica,\u00a0...",
+        "size": [
+          140,
+          79
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theepochtimes.com/audio/us/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-5068613",
+        "title": "Tesla Driver Killed When Plowing Into Firetruck on FreewayThe Epoch Timeshttps://www.theepochtimes.com \u203a audio \u203a tesla-driver-...",
+        "content": "... fire truck that was parked on a Northern California freeway to shield a crew clearing another accident, fire officials said. ... 0:000:00. 1.",
+        "size": [
+          3000,
+          2189
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pledgetimes.com/a-new-tesla-car-accident-do-you-deliberately-target-emergency-vehicles/",
+        "title": "A new Tesla car accident.. Do you deliberately target ...- Pledge Timeshttps://pledgetimes.com \u203a World",
+        "content": "The Contra Costa County Fire Department said on Twitter that a ... Tags: America newscar Accidentsemergency carsTesla accidentsTesla cars\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://boainformacao.com.br/2023/02/motorista-da-tesla-morre-apos-bater-em-caminhao-de-bombeiros-em-meio-a-recall-em-massa/",
+        "title": "Motorista da Tesla morre ap\u00f3s bater em caminh\u00e3o de ...Boa Informa\u00e7\u00e3ohttps://boainformacao.com.br \u203a mot...",
+        "content": "O acidente aconteceu no s\u00e1bado em Walnut Creek, CA \u2013 onde as autoridades dizem que um Tesla Model S colidiu com um carro de bombeiros que estava\u00a0...",
+        "size": [
+          728,
+          546
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://m.al-sharq.com/article/19/02/2023/%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D8%A7%D8%A6%D9%82-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B3%D9%84%D8%A7-%D8%A5%D8%AB%D8%B1-%D8%A7%D8%B5%D8%B7%D8%AF%D8%A7%D9%85%D9%87%D8%A7-%D8%A8%D8%B4%D8%A7%D8%AD%D9%86%D8%A9-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D9%81%D9%8A-%D9%83%D8%A7%D9%84%D9%8A%D9%81%D9%88%D8%B1%D9%86%D9%8A%D8%A7",
+        "title": "\u0645\u0642\u062a\u0644 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 \u0625\u062b\u0631 \u0627\u0635\u0637\u062f\u0627\u0645\u0647\u0627 \u0628\u0634\u0627\u062d\u0646\u0629 \u0625\u0637\u0641\u0627\u0621 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627Al Sharqhttps://m.al-sharq.com \u203a article \u203a \u0645\u0642...",
+        "content": "Truck 1 was struck by a Tesla while blocking I-680 lanes from a previous accident. Driver pronounced dead on-scene; passenger was extricated\u00a0...",
+        "size": [
+          1200,
+          886
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.amarujala.com/automobiles/know-how-the-last-week-12-february-to-18-february-2023-was-for-the-automobile-world-2023-02-19",
+        "title": "\u0911\u091f\u094b\u092e\u094b\u092c\u093e\u0907\u0932 \u091c\u0917\u0924 \u0915\u0947 \u0932\u093f\u090f \u0915\u0948\u0938\u093e \u0930\u0939\u093e \u092b\u0930\u0935\u0930\u0940 2023 \u0915\u093e \u0926\u0942\u0938\u0930\u093e \u0939\u092b\u094d\u0924\u093e, \u091c\u093e\u0928\u0947\u0902 ...Amar Ujalahttps://www.amarujala.com \u203a know-...",
+        "content": "... Tesla Model Y \u00b7 Euro 7 \u00b7 Auto Union \u00b7 EV \u00b7 Emission \u00b7 Pay Vehicle Challan ... Costa Rica, +385 / Croatia, +53 / Cuba, +599 / Curacao, +357 /\u00a0...",
+        "size": [
+          360,
+          202
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.skynewsarabia.com/technology/1598632-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B3%D9%84%D8%A7-%D8%AA%D8%AA%D8%B9%D9%85%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D9%8A%D9%94%D8%9F",
+        "title": "\u062d\u0627\u062f\u062b \u062c\u062f\u064a\u062f \u0644\u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627.. \u0647\u0644 \u062a\u062a\u0639\u0645\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u061f\u0633\u0643\u0627\u064a \u0646\u064a\u0648\u0632 \u0639\u0631\u0628\u064a\u0629https://www.skynewsarabia.com \u203a technology",
+        "content": "\u0623\u0639\u0644\u0646\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u0637\u0641\u0627\u0621 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0623\u0646 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 \u0644\u0642\u064a \u062d\u062a\u0641\u0647 \u0641\u064a \u0633\u0627\u0639\u0629 \u0645\u0628\u0643\u0631\u0629 \u0645\u0646 \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0628\u062a \u0625\u062b\u0631 \u0627\u0635\u0637\u062f\u0627\u0645\u0647 \u0628\u0634\u0627\u062d\u0646\u0629 \u0625\u0637\u0641\u0627\u0621 \u0639\u0644\u0649 \u0637\u0631\u064a\u0642 \u0633\u0631\u064a\u0639 \u0628\u064a\u0646\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://atvnewsonline.com/world/207424/",
+        "title": "\u7279\u65af\u62c9\u81ea\u52a8\u9a7e\u9a76\u51fa\u95ee\u9898\uff1f \u7f8e\u53f8\u673a\u649e\u6d88\u9632\u8f66\u540e\u4e27\u547d - \u4e9a\u6d32\u7535\u89c6\u65b0\u95fb\u4e9a\u6d32\u7535\u89c6\u65b0\u95fbhttps://atvnewsonline.com \u203a \u56fd\u9645",
+        "content": "\u7f8e\u56fd\u5eb7\u7279\u62c9\u79d1\u65af\u5854\u53bf\uff08Contra Costa County\uff09\u5f53\u5730\u65f6\u95f4\u5468\u516d\uff082\u670818\u65e5\uff09\u51cc\u6668\u4e00\u8f86\u7279\u65af\u62c9\uff08Tesla\uff09\u649e\u4e0a\u505c\u5728\u5317\u52a0\u5dde\uff08Northern California\uff09\u9ad8\u901f\u516c\u8def\u4e0a\u7684\u6d88\u9632\u00a0...",
+        "size": [
+          1024,
+          747
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://krcrtv.com/news/local/tesla-driver-killed-after-crashing-into-firetruck-on-freeway",
+        "title": "Tesla driver killed after crashing into firetruck on freeway - KRCRKRCR-TVhttps://krcrtv.com \u203a news \u203a local \u203a tesla-driver-killed-a...",
+        "content": "The driver was declared dead at the scene, Dutter said. \u00b7 In this photo released by Contra Costa County Fire Protection District, firefighters\u00a0...",
+        "size": [
+          1440,
+          1920
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.notebookcheck.net/Another-highway-Tesla-wreck-into-a-parked-emergency-response-truck-results-in-fatality-as-firefighters-were-clearing-earlier-accident.696018.0.html",
+        "title": "Another highway Tesla wreck into a parked emergency ...Notebookcheckhttps://www.notebookcheck.net \u203a Another-highway-T...",
+        "content": "... Contra Costa County Fire Protection District who were clearing a previous incident there. The Model S then slammed into the ladder truck\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wstpost.com/killed-tesla-driver-slams-into-fire-truck-side-panel-on-california-freeway-363000-vehicles-recalled/",
+        "title": "Killed Tesla driver slams into fire truck side panel on California ...WSTPosthttps://wstpost.com \u203a Local",
+        "content": "The driver of a Tesla was killed after the car they were driving crashed into the side of a fire truck blocking a California freeway.",
+        "size": [
+          634,
+          463
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://msdernet.xyz/m/muta.php?no=2942255&d_no=349",
+        "title": "\u062d\u0627\u062f\u062b \u062c\u062f\u064a\u062f \u0644\u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627.. \u0647\u0644 \u062a\u062a\u0639\u0645\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u061f\u0645\u0635\u0627\u062f\u0631 \u0646\u062ahttps://msdernet.xyz \u203a muta",
+        "content": "\u0623\u0639\u0644\u0646\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u0637\u0641\u0627\u0621 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0623\u0646 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 \u0644\u0642\u064a \u062d\u062a\u0641\u0647 \u0641\u064a \u0633\u0627\u0639\u0629 \u0645\u0628\u0643\u0631\u0629 \u0645\u0646 \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0628\u062a \u0625\u062b\u0631 \u0627\u0635\u0637\u062f\u0627\u0645\u0647 \u0628\u0634\u0627\u062d\u0646\u0629 \u0625\u0637\u0641\u0627\u0621 \u0639\u0644\u0649 \u0637\u0631\u064a\u0642 \u0633\u0631\u064a\u0639 \u0628\u064a\u0646\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.ptt.cc/bbs/car/M.1676778863.A.463.html",
+        "title": "[\u65b0\u805e] \u7f8e\u6d88\u9632\u8eca\u516c\u8def\u6551\u707d\u906d\u7279\u65af\u62c9\u76f4\u649e\u99d5\u99db\u7576\u5834- \u770b\u677fcarptt.cchttps://www.ptt.cc \u203a bbs \u203a car \u203a M.1...",
+        "content": "\u4f9d\u64da\u5eb7\u7279\u62c9\u79d1\u65af\u5854\u90e1\u6d88\u9632\u55ae\u4f4d\uff08Contra Costa County Fire Protection District\uff09\u5728\u63a8\u7279\u591a\u5f35\u7167\u7247\u986f\u793a\uff0c\u88ab\u649e\u6d88\u9632\u8eca\u7ffb\u8f4990\u5ea6\u6a6b\u8eba\u5728\u5730\uff0c\u8087\u4e8b\u7684\u7279\u65af\u62c9\u524d\u534a\u90e8\u626d\u66f2\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://foxsanantonio.com/news/nation-world/gallery/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-02-19-2023-210241847?photo=2",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KABBKABBhttps://foxsanantonio.com \u203a nation-world \u203a gallery \u203a t...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          954,
+          696
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cbsaustin.com/news/nation-world/gallery/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-02-19-2023-210241847?photo=2",
+        "title": "Tesla driver killed after plowing into firetruck on freeway | KEYEKEYEhttps://cbsaustin.com \u203a news \u203a nation-world \u203a gallery",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          415,
+          303
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tmz.com/2023/02/19/tesla-driver-dies-killed-crash-firetruck-recall-self-driving/",
+        "title": "Tesla Driver Dies After Ramming Into Firetruck Amid Mass ...TMZhttps://www.tmz.com \u203a 2023/02/19 \u203a tesla-driver-dies-...",
+        "content": "The accident happened Saturday in Walnut Creek, CA -- where officials say a Tesla Model S plowed into a fire engine that was blocking off a\u00a0...",
+        "size": [
+          728,
+          546
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://m.sa24.co/show16040444.html",
+        "title": "\u062d\u0627\u062f\u062b \u062c\u062f\u064a\u062f \u0644\u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627.. \u0647\u0644 \u062a\u062a\u0639\u0645\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u061f\u0635\u062d\u0627\u0641\u0629 24 \u0646\u062ahttps://m.sa24.co \u203a show16040444",
+        "content": "\u0648\u0644\u0645 \u062a\u0631\u062f \u062a\u0633\u0644\u0627 \u0639\u0644\u0649 \u0627\u0644\u0641\u0648\u0631 \u0639\u0644\u0649 \u0637\u0644\u0628\u0627\u062a \u0644\u0644\u062a\u0639\u0644\u064a\u0642 \u0645\u0646 \u0631\u0648\u064a\u062a\u0631\u0632 \u062e\u0627\u0631\u062c \u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0639\u0645\u0644. \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u0649 \u0628\u0639\u062f \u062a\u0642\u064a\u064a\u0645 \u062d\u0627\u0644\u062a\u0647\u0645 \u0648\u0625\u0635\u0627\u0628\u062a\u0647\u0645 \u0628\u062c\u0631\u0648\u062d \u0637\u0641\u064a\u0641\u0629. \u0648\u0623\u0648\u0636\u062d\u062a \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0623\u0646 \u0627\u0644\u0634\u0627\u062d\u0646\u0629\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pressdemocrat.com/article/news/tesla-driver-killed-after-plowing-into-firetruck-on-bay-area-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on Bay Area ...The Press Democrathttps://www.pressdemocrat.com \u203a News \u203a Bay Area",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          1024,
+          747
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-11770025/Tesla-driver-killed-car-slams-firetruck-California-freeway-recall-363-000-vehicles.html",
+        "title": "Tesla driver killed car slams into side of firetruck on California ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-11770025",
+        "content": "A Tesla vehicle crashed into the back of a fire truck killing the driver ... Tracie Dutter, assistant chief of the Contra Costa County Fire\u00a0...",
+        "size": [
+          634,
+          463
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news4sanantonio.com/newsletter-daily/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-02-19-2023-210241847",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WOAIWOAIhttps://news4sanantonio.com \u203a newsletter-daily \u203a tesla-...",
+        "content": "... California freeway to shield a crew clearing another accident, fire officials said. ... Contra Costa County Fire Protection District. The driver\u00a0...",
+        "size": [
+          648,
+          363
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kmph.com/news/local/tesla-driver-killed-after-crashing-into-firetruck-on-freeway",
+        "title": "Tesla driver killed after crashing into firetruck on freeway | KMPHKMPHhttps://kmph.com \u203a news \u203a local \u203a tesla-driver-killed-a...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          1600,
+          1111
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://okcfox.com/news/nation-world/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-02-19-2023-210241847",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KOKHKOKHhttps://okcfox.com \u203a news \u203a nation-world \u203a tesla-drive...",
+        "content": "... California freeway to shield a crew clearing another accident, fire officials said. ... Contra Costa County Fire Protection District. The driver\u00a0...",
+        "size": [
+          1320,
+          740
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - WPLGWPLGhttps://www.local10.com \u203a business \u203a 2023/02/19 \u203a te...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          400,
+          292
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://arab.sahafahh.net/story/15601511/%D8%AD%D8%A7%D8%AF%D8%AB-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B3%D9%84%D8%A7-%D9%87%D9%84-%D8%AA%D8%AA%D8%B9%D9%85%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3",
+        "title": "\u062d\u0627\u062f\u062b \u062c\u062f\u064a\u062f \u0644\u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627.. \u0647\u0644 \u062a\u062a\u0639\u0645\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u061f\u0635\u062d\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0628https://arab.sahafahh.net \u203a story \u203a \u062d\u0627...",
+        "content": "\u0633\u0643\u0627\u064a \u0646\u064a\u0648\u0632 \u0639\u0631\u0628\u064a\u0629. \u0623\u0639\u0644\u0646\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u0637\u0641\u0627\u0621 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0623\u0646 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 \u0644\u0642\u064a \u062d\u062a\u0641\u0647 \u0641\u064a \u0633\u0627\u0639\u0629 \u0645\u0628\u0643\u0631\u0629 \u0645\u0646 \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0628\u062a \u0625\u062b\u0631 \u0627\u0635\u0637\u062f\u0627\u0645\u0647 \u0628\u0634\u0627\u062d\u0646\u0629 \u0625\u0637\u0641\u0627\u0621 \u0639\u0644\u0649 \u0637\u0631\u064a\u0642\u00a0...",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.9news.com.au/world/tesla-crash-model-s-driver-dead-after-plowing-into-fire-truck-on-california-freeway/31fc3075-4476-403f-8c5f-f13dcc019f08",
+        "title": "Tesla driver dead after plowing into fire truck on California ...9News.com.auhttps://www.9news.com.au \u203a World",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning. (Contra Costa County Fire Protection District) (AP).",
+        "size": [
+          500,
+          365
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayClickOnDetroithttps://www.clickondetroit.com \u203a business \u203a 2023/02/19",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          400,
+          292
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/4215739",
+        "title": "\u7f8e\u6d88\u9632\u8eca\u516c\u8def\u6551\u707d\u906d\u7279\u65af\u62c9\u76f4\u649e\u99d5\u99db\u7576\u5834\u8eab\u4ea15\u50b7- \u570b\u969b - \u81ea\u7531\u6642\u5831\u81ea\u7531\u6642\u5831https://news.ltn.com.tw \u203a world \u203a br...",
+        "content": "... \uff08Contra Costa County Fire Protection District\uff09\u5728\u63a8\u7279\u591a\u5f35\u7167\u7247\u986f\u793a\uff0c ... Truck 1 was struck by a Tesla while blocking I-680 lanes from a previous\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "http://www.qatarnewsapp.com/1/Article/2058/230093484",
+        "title": "\u0645\u0642\u062a\u0644 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 \u0625\u062b\u0631 \u0627\u0635\u0637\u062f\u0627\u0645\u0647\u0627 \u0628\u0634\u0627\u062d\u0646\u0629 \u0625\u0637\u0641\u0627\u0621 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627qatarnewsapp.comhttp://www.qatarnewsapp.com \u203a Art...",
+        "content": "Truck 1 was struck by a Tesla while blocking I-680 lanes from a previous accident. Driver pronounced dead on-scene; passenger was extricated\u00a0...",
+        "size": [
+          1200,
+          886
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/business/2023/02/19/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayWSLShttps://www.wsls.com \u203a business \u203a 2023/02/19 \u203a tesla-...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene of a fatal accident involving a Tesla\u00a0...",
+        "size": [
+          400,
+          292
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://elections.alwatannews.net/article/1052766/Life-Style/%D8%AD%D8%A7%D8%AF%D8%AB-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B3%D9%84%D8%A7-%D9%87%D9%84-%D8%AA%D8%AA%D8%B9%D9%85%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6",
+        "title": "\u062d\u0627\u062f\u062b \u062c\u062f\u064a\u062f \u0644\u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627.. \u0647\u0644 \u062a\u062a\u0639\u0645\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u061falwatannews.nethttps://elections.alwatannews.net \u203a \u062d...",
+        "content": "\u0633\u0643\u0627\u064a \u0646\u064a\u0648\u0632 \u0639\u0631\u0628\u064a\u0629 \u0623\u0639\u0644\u0646\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u0637\u0641\u0627\u0621 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0623\u0646 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 \u0644\u0642\u064a \u062d\u062a\u0641\u0647 \u0641\u064a \u0633\u0627\u0639\u0629 \u0645\u0628\u0643\u0631\u0629 \u0645\u0646 \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0628\u062a \u0625\u062b\u0631 \u0627\u0635\u0637\u062f\u0627\u0645\u0647 \u0628\u0634\u0627\u062d\u0646\u0629 \u0625\u0637\u0641\u0627\u0621 \u0639\u0644\u0649 \u0637\u0631\u064a\u0642\u00a0...",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abc7amarillo.com/news/nation-world/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-02-19-2023-210241847",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KVIIKVIIhttps://abc7amarillo.com \u203a news \u203a nation-world \u203a tesla...",
+        "content": "... California freeway to shield a crew clearing another accident, fire officials said. ... Contra Costa County Fire Protection District. The driver\u00a0...",
+        "size": [
+          648,
+          363
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fox8.com/news/tesla-driver-killed-after-plowing-into-firetruck-on-freeway/",
+        "title": "Tesla driver killed after plowing into firetruck on freewayFOX 8 Newshttps://fox8.com \u203a news \u203a tesla-driver-killed-after-plo...",
+        "content": "... accident involving a Tesla and Contra Costa County fire truck early Saturday morning, Feb. 18, 2023, in Contra Costa, Calif. Fire officials\u00a0...",
+        "size": [
+          900,
+          656
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.noticiasaominuto.com/mundo/2210487/eua-condutor-morre-depois-de-tesla-embater-contra-camiao-de-bombeiros",
+        "title": "EUA. Condutor morre depois de Tesla embater contra cami\u00e3o ...Not\u00edcias ao Minutohttps://www.noticiasaominuto.com \u203a ...",
+        "content": "Truck 1 was struck by a Tesla while blocking I-680 lanes from a previous accident. Driver pronounced dead on-scene; passenger was extricated\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktul.com/news/nation-world/tesla-driver-killed-after-plowing-into-firetruck-on-freeway-02-19-2023-210241847",
+        "title": "Tesla driver killed after plowing into firetruck on freeway - KTULKTULhttps://ktul.com \u203a news \u203a nation-world \u203a tesla-driver-k...",
+        "content": "... California freeway to shield a crew clearing another accident, fire officials said. ... Contra Costa County Fire Protection District. The driver\u00a0...",
+        "size": [
+          1320,
+          740
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/tesla-model-s-firetruck-accident-highway/",
+        "title": "Tesla Model S strikes firetruck, cause of accident undeterminedTeslaratihttps://www.teslarati.com \u203a News",
+        "content": "The cause of the accident is currently undetermined. A firetruck parked on Interstate 680, shielding a cleanup crew from another accident, was\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://alwatannews.net/Life-Style/article/1052766/%D8%AD%D8%A7%D8%AF%D8%AB-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B3%D9%84%D8%A7-%D9%87%D9%84-%D8%AA%D8%AA%D8%B9%D9%85%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6",
+        "title": "\u062d\u0627\u062f\u062b \u062c\u062f\u064a\u062f \u0644\u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627.. \u0647\u0644 \u062a\u062a\u0639\u0645\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u061falwatannews.nethttps://alwatannews.net \u203a article \u203a \u062d\u0627...",
+        "content": "\u0633\u0643\u0627\u064a \u0646\u064a\u0648\u0632 \u0639\u0631\u0628\u064a\u0629 \u0623\u0639\u0644\u0646\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u0637\u0641\u0627\u0621 \u0641\u064a \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0623\u0646 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 \u0644\u0642\u064a \u062d\u062a\u0641\u0647 \u0641\u064a \u0633\u0627\u0639\u0629 \u0645\u0628\u0643\u0631\u0629 \u0645\u0646 \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0628\u062a \u0625\u062b\u0631 \u0627\u0635\u0637\u062f\u0627\u0645\u0647 \u0628\u0634\u0627\u062d\u0646\u0629 \u0625\u0637\u0641\u0627\u0621 \u0639\u0644\u0649 \u0637\u0631\u064a\u0642\u00a0...",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.torquenews.com/1083/tesla-vehicles-continue-hit-parked-firetrucks-time-its-fatal",
+        "title": "Tesla Vehicles Continue to Hit Parked Firetrucks - Torque NewsTorque Newshttps://www.torquenews.com \u203a tesla-vehicles-continue...",
+        "content": "... crash. Contra Costa County Fire Captain Chris DeMeo said that the Tesla hit the firetruck while traveling at high speed. He described the\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.independent.co.uk/news/world/americas/tesla-crash-california-firetruck-death-b2285325.html",
+        "title": "Tesla driver killed after plowing into firetruck at crash scene on ...The Independenthttps://www.independent.co.uk \u203a World \u203a Americas",
+        "content": "Tesla driver killed after plowing into firetruck at crash scene on California ... accident involving a Tesla and Contra Costa County fire truck. (\u00a0...",
+        "size": [
+          3000,
+          2189
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.firehouse.com/safety-health/video/21296203/civilian-dead-after-tesla-slams-into-contra-costa-ladder-truck",
+        "title": "Civilian Dead After Tesla Slams into Contra Costa Ladder Truckfirehouse.comhttps://www.firehouse.com \u203a safety-health \u203a video \u203a ci...",
+        "content": "WALNUT CREEK \u2014 A driver died after crashing a Tesla sedan into the ... The Contra Costa County Fire Protection District confirmed the crash\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.notebookcheck.pl/Kolejna-autostrada-Tesla-wrak-do-zaparkowanego-samochodu-ratowniczego-powoduje-smierc-jak-strazacy-byli-usuwania-wczesniejszego-wypadku.696203.0.html",
+        "title": "Kolejna autostrada Tesla wrak do zaparkowanego ...Notebookcheck.plhttps://www.notebookcheck.pl \u203a Ko...",
+        "content": "... Contra Costa County Fire Protection District, kt\u00f3rzy usuwali tam poprzedni incydent. Model S uderzy\u0142 w w\u00f3z drabiniasty, kt\u00f3rego \u015bwiat\u0142a\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.notebookcheck.org/Otro-accidente-de-Tesla-en-la-autopista-contra-un-camion-de-emergencias-aparcado-se-salda-con-una-victima-mortal-cuando-los-bomberos-estaban-limpiando-el-accidente-anterior.696099.0.html",
+        "title": "Otro accidente de Tesla en la autopista contra un cami\u00f3n de ...Notebookcheck.orghttps://www.notebookcheck.org \u203a O...",
+        "content": "La NHTSA tendr\u00e1 que a\u00f1adir otro accidente mortal con un conductor de un Tesla Model S chocando contra un veh\u00edculo de emergencia estacionado\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://gigazine.net/news/20230220-tesla-driver-killed-plowing-firetruck/",
+        "title": "\u30c6\u30b9\u30e9\u8eca\u304c\u9ad8\u901f\u9053\u8def\u3067\u6d88\u9632\u8eca\u306b\u885d\u7a81\u3057\u3066\u904b\u8ee2\u624b\u304c\u6b7b\u4ea1\u3059\u308b\u4e8b\u6545 ...GIGAZINEhttps://gigazine.net \u203a news \u203a 20230...",
+        "content": "Tesla driver killed after plowing into firetruck on freeway | AP News https://apnews.com/article/technology-business-injuries-fires\u00a0...",
+        "size": [
+          1000,
+          730
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://news.livedoor.com/article/detail/23740468/",
+        "title": "\u30c6\u30b9\u30e9\u8eca\u304c\u9ad8\u901f\u9053\u8def\u3067\u6d88\u9632\u8eca\u306b\u885d\u7a81\u3057\u3066\u904b\u8ee2\u624b\u304c\u6b7b\u4ea1\u3059\u308b\u4e8b\u6545 ...\u30e9\u30a4\u30d6\u30c9\u30a2\u30cb\u30e5\u30fc\u30b9https://news.livedoor.com \u203a detail",
+        "content": "... Tesla driver killed after plowing into firetruck on freeway | AP News https://apnews.com/article/technology-business-injuries-fires\u00a0...",
+        "size": [
+          560,
+          409
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://noticiasdelmundo.news/31fc3075-4476-403f-8c5f-f13dcc019f08/",
+        "title": "Muere Conductor De Tesla Tras Embestir Cami\u00f3n De ...noticiasdelmundo.newshttps://noticiasdelmundo.news \u203a ...",
+        "content": "... contra Incendios del Condado de Contra Costa. El conductor fue declarado muerto en la escena, dijo Dutter. El autom\u00f3vil tuvo que ser abierto\u00a0...",
+        "size": [
+          3000,
+          2189
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.motorisumotori.it/tesla-model-s-colpisce-un-camion-dei-pompieri-sconosciute-le-cause/95479",
+        "title": "Tesla Model S colpisce un camion dei pompieriMotorisuMotori.ithttps://www.motorisumotori.it \u203a tesl...",
+        "content": "Tesla Model S impatta contro camion dei vigili del ... Tracie Dutter, assistente capo del distretto antincendio della contea di Contra Costa\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.notebookcheck-cn.com/696163.0.html",
+        "title": "\u53c8\u4e00\u9ad8\u901f\u8def\u7279\u65af\u62c9\u8f66\u7978\u649e\u4e0a\u505c\u5728\u8def\u8fb9\u7684\u5e94\u6025\u5361\u8f66\u5bfc\u81f4\u6b7b\u4ea1notebookcheck-cn.comhttps://www.notebookcheck-cn.com \u203a ...",
+        "content": "Truck 1 was struck by a Tesla while blocking I-680 lanes from a previous accident. Driver pronounced dead on-scene; passenger was extricated\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "http://www.autocast.co.kr/article/view/atc202302200003",
+        "title": "\ud14c\uc2ac\ub77c \ubaa8\ub378S, \ubbf8\uad6d\uc11c \uc18c\ubc29\ucc28\uc640 \ucda9\ub3cc...\uc624\ud1a0\ud30c\uc77c\ub7ff \uacb0\ud568 \uc870\uc0ac\uc624\ud1a0\uce90\uc2a4\ud2b8http://www.autocast.co.kr \u203a view",
+        "content": "",
+        "size": [
+          721,
+          537
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.notebookcheck.info/Outro-naufragio-da-estrada-Tesla-em-um-caminhao-estacionado-de-emergencia-resulta-em-fatalidade-pois-os-bombeiros-estavam-limpando-o-acidente-mais-cedo.696122.0.html",
+        "title": "Outro naufr\u00e1gio da estrada Tesla em um caminh\u00e3o ...Notebookcheck.infohttps://www.notebookcheck.info \u203a ...",
+        "content": "... contra Inc\u00eandios do Condado de Contra Costa que estavam limpando um incidente anterior ali. ... Truck 1 was struck by a Tesla while blocking I\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.notebookcheck.biz/Un-autre-accident-de-Tesla-sur-l-autoroute-qui-a-heurte-un-camion-d-intervention-d-urgence-en-stationnement-a-fait-un-mort-alors-que-les-pompiers-etaient-en-train-de-degager-l-accident-precedent.696086.0.html",
+        "title": "Un autre accident de Tesla sur l'autoroute, qui a heurt\u00e9 un ...Notebookcheck.frhttps://www.notebookcheck.biz \u203a U...",
+        "content": "... Contra Costa County Fire Protection District qui \u00e9taient en train de d\u00e9gager un incident pr\u00e9c\u00e9dent \u00e0 cet endroit. La Model S a alors percut\u00e9\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://vista.ir/n/ho04vei/%D8%B9%DA%A9%D8%B3-%7C-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%88%D8%AD%D8%B4%D8%AA%D9%86%D8%A7%DA%A9-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A2%D8%AA%D8%B4-%D9%86%D8%B4%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7",
+        "title": "\u0639\u06a9\u0633 | \u062a\u0635\u0627\u0648\u06cc\u0631\u06cc \u0627\u0632 \u062a\u0635\u0627\u062f\u0641 \u0648\u062d\u0634\u062a\u0646\u0627\u06a9 \u062e\u0648\u062f\u0631\u0648\u06cc \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f\u06cc \u0628\u0627 \u062e\u0648\u062f\u0631\u0648 ...\u0648\u06cc\u0633\u062a\u0627https://vista.ir \u203a ... \u203a \u0639\u06a9\u0633",
+        "content": "\u062e\u06cc\u0644\u06cc \u062c\u0627\u0644\u0628\u0647 \u062f\u0631 \u06a9\u0634\u0648\u0631\u06cc \u0632\u0646\u062f\u06af\u06cc \u0645\u06cc\u06a9\u0646\u06cc\u0645 \u06a9\u0647 \u0631\u0648\u0632\u0627\u0646\u0647 \u0686\u0646\u062f \u0635\u062f \u0646\u0641\u0631 \u0627\u0632 \u0645\u0631\u062f\u0645 \u0627\u06cc\u0631\u0627\u0646 \u062c\u0627\u0646\u0634\u0648\u0646\u0648 \u0628\u0647 \u062e\u0627\u0637\u0631 \u0628\u06cc \u06a9\u06cc\u0641\u06cc\u062a \u0628\u0648\u062f\u0646 \u062e\u0648\u062f\u0631\u0648\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0627\u0632 \u062f\u0633\u062a \u0645\u06cc\u062f\u0646 \u0648 \u0645\u0633\u0648\u0644\u06cc\u0646\u00a0...",
+        "size": [
+          634,
+          463
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.abplive.com/news/tesla-driver-killed-after-hitting-fire-truck-parked-on-california-freeway-1583298",
+        "title": "Tesla Driver Killed After Hitting Fire Truck Parked ... - ABP LIVEABP LIVEhttps://news.abplive.com \u203a News",
+        "content": "... Contra Costa County Fire Protection District. The driver was declared dead at the accident scene and the car has to be cut open to remove\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://finance.yahoo.com/news/fatal-crash-involving-tesla-ploughing-060614895.html",
+        "title": "Fatal crash involving Tesla ploughing into fire engine draws ...Yahoo Financehttps://finance.yahoo.com \u203a news \u203a fatal-crash-involvi...",
+        "content": "The four firefighters in the truck were treated for minor injuries, the Contra Costa County fire department said, sharing photos of the incident\u00a0...",
+        "size": [
+          640,
+          467
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gigazine.net/gsc_news/en/20230220-tesla-driver-killed-plowing-firetruck/",
+        "title": "An accident occurred in which a Tesla car collided with a fire ...GIGAZINEhttps://gigazine.net \u203a gsc_news \u203a 20230220-tesla-driv...",
+        "content": "... Tesla Model S crashed into a parked fire engine on Interstate 680 in Walnut Creek , Contra Costa County, California. . The fire engine was\u00a0...",
+        "size": [
+          1000,
+          730
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.hamshahrionline.ir/news/743117/%D8%B9%DA%A9%D8%B3-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%88%D8%AD%D8%B4%D8%AA%D9%86%D8%A7%DA%A9-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A2%D8%AA%D8%B4-%D9%86%D8%B4%D8%A7%D9%86-%D9%87%D8%A7",
+        "title": "\u0639\u06a9\u0633 | \u062a\u0635\u0627\u0648\u06cc\u0631\u06cc \u0627\u0632 \u062a\u0635\u0627\u062f\u0641 \u0648\u062d\u0634\u062a\u0646\u0627\u06a9 \u062e\u0648\u062f\u0631\u0648\u06cc \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f\u06cc \u0628\u0627 \u062e\u0648\u062f\u0631\u0648 ...\u0647\u0645\u0634\u0647\u0631\u06cc \u0622\u0646\u0644\u0627\u06cc\u0646https://www.hamshahrionline.ir \u203a \u0639...",
+        "content": "\u06cc\u06a9 \u062f\u0633\u062a\u06af\u0627\u0647 \u062e\u0648\u062f\u0631\u0648\u06cc \u062a\u0633\u0644\u0627 \u0628\u0627 \u0645\u0627\u0634\u06cc\u0646 \u0622\u062a\u0634 \u0646\u0634\u0627\u0646\u06cc \u062f\u0631 \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0631\u062e\u0648\u0631\u062f \u06a9\u0631\u062f \u0648 \u0631\u0627\u0646\u0646\u062f\u0647 \u062a\u0633\u0644\u0627 \u06a9\u0634\u062a\u0647 \u0634\u062f.",
+        "size": [
+          634,
+          463
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bostonherald.com/2023/02/20/feds-investigating-deadly-tesla-crash-into-fire-truck/",
+        "title": "Feds investigating deadly Tesla crash into fire truckBoston Heraldhttps://www.bostonherald.com \u203a 2023/02/20 \u203a feds-in...",
+        "content": "The agency reached out to the manufacturer after the incident in Contra Costa County during the Presidents' Day holiday weekend. The county fire\u00a0...",
+        "size": [
+          977,
+          713
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sports.yahoo.com/fatal-crash-involving-tesla-ploughing-060614440.html",
+        "title": "Fatal crash involving Tesla ploughing into fire engine draws ...Yahoo Sportshttps://sports.yahoo.com \u203a fatal-crash-involving-tesla-...",
+        "content": "The four firefighters in the truck were treated for minor injuries, the Contra Costa County fire department said, sharing photos of the incident\u00a0...",
+        "size": [
+          640,
+          467
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://techcrunch.com/2023/02/20/nhtsa-requests-info-after-tesla-crashes-into-fire-truck/",
+        "title": "NHTSA requests info after Tesla crashes into fire truckTechCrunchhttps://techcrunch.com \u203a 2023/02/20 \u203a nhtsa-requests-...",
+        "content": "Tesla crashes into a fire truck. Image Credits: Contra Costa County Fire Department. The National Highway Traffic Safety Administration (NHTSA)\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theepochtimes.com/us/us-regulator-seeks-more-information-on-tesla-crash-in-california-5071207",
+        "title": "US Regulator Seeks More Information on Tesla Crash in ...The Epoch Timeshttps://www.theepochtimes.com \u203a us-regulator-seeks-...",
+        "content": "... fire truck in California. The Contra Costa County fire department said in a tweet on Saturday that a Tesla car struck one of its fire trucks\u00a0...",
+        "size": [
+          3000,
+          2189
+        ],
+        "date": "2023:02:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.jutarnji.hr/autoklub/aktualno/vozac-tesle-preminuo-nakon-sudara-s-parkiranim-vatrogasnim-vozilom-autopilot-moguci-uzrok-15308291",
+        "title": "Voza\u010d Tesle preminuo nakon sudara s parkiranim ... - Jutarnji listJutarnji listhttps://www.jutarnji.hr \u203a aktualno",
+        "content": "Truck 1 was struck by a Tesla while blocking I-680 lanes from a previous accident. Driver pronounced dead on-scene; passenger was extricated\u00a0...",
+        "size": [
+          640,
+          640
+        ],
+        "date": "2023:02:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://www.joongang.co.kr/article/25142297",
+        "title": "\uc790\uafb8 \uc18c\ubc29\ucc28\u00b7\uad6c\uae09\ucc28 \ub4e4\uc774\ubc1b\ub294 \ud14c\uc2ac\ub77c \ubbf8\uc2a4\ud130\ub9ac\u2026\uc774\ubc88\uc5d4 \uc0ac\ub9dd\uc0ac\uace0\uc911\uc559\uc77c\ubcf4https://www.joongang.co.kr \u203a article",
+        "content": "",
+        "size": [
+          559,
+          408
+        ],
+        "date": "2023:02:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://bbs.kakaku.com/bbs/K0000868351/SortID=25152175/",
+        "title": "\u300e\u30d0\u30e9\u30d0\u30e9\u3058\u3083\u3093\u300f \u30c6\u30b9\u30e9 \u30e2\u30c7\u30eb3 \u306e\u30af\u30c1\u30b3\u30df\u63b2\u793a\u677fkakaku.comhttps://bbs.kakaku.com \u203a ... \u203a \u30af\u30c1\u30b3\u30df",
+        "content": "... crash-safety-test-euro-ncap/ \u00b7 https://blog.evsmart.net/tesla/model-3/2019-iihs-top-safety-pick/: \u66f8\u8fbc\u756a\u53f7\uff1a25152690 \u8fd4\u4fe1 \u30ca\u30a4\u30b9! 2\u70b9. \u30b9\u30ec\u4e3b\u00a0...",
+        "size": [
+          764,
+          1024
+        ],
+        "date": "2023:02:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.qctt.cn/news/1423460",
+        "title": "\u7f8e\u56fd\u4e00\u7279\u65af\u62c9\u649e\u4e0a\u6d88\u9632\u8f66\uff0c\u53f8\u673a\u5f53\u573a\u6b7b\u4ea15\u4eba\u53d7\u4f24 - \u6c7d\u8f66\u5934\u6761\u6c7d\u8f66\u5934\u6761https://m.qctt.cn \u203a news",
+        "content": "",
+        "size": [
+          838,
+          578
+        ],
+        "date": "2023:02:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://bbs.kakaku.com/bbs/-/SortID=25152175/",
+        "title": "\u300e\u30d0\u30e9\u30d0\u30e9\u3058\u3083\u3093\u300f \u30c6\u30b9\u30e9 \u30e2\u30c7\u30eb3 \u306e\u30af\u30c1\u30b3\u30df\u63b2\u793a\u677f\u4fa1\u683c.comhttps://bbs.kakaku.com \u203a bbs",
+        "content": "... crash-safety-test-euro-ncap/ \u00b7 https://blog.evsmart.net/tesla/model-3/2019-iihs-top-safety-pick/: \u66f8\u8fbc\u756a\u53f7\uff1a25152690 \u8fd4\u4fe1 \u30ca\u30a4\u30b9! 2\u70b9. \u30b9\u30ec\u4e3b\u00a0...",
+        "size": [
+          764,
+          1024
+        ],
+        "date": "2023:02:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://biz.crast.net/fatal-crash-in-which-tesla-collided-with-a-fire-engine-is-under-investigation/",
+        "title": "Fatal crash in which Tesla collided with a fire engine is under ...Crast.nethttps://biz.crast.net \u203a fatal-crash-in-which-tesla-collide...",
+        "content": "Sharing photos of the incident, the Contra Costa County Fire Department said four firefighters in the truck had minor injuries. Also read:\u00a0...",
+        "size": [
+          1200,
+          876
+        ],
+        "date": "2023:02:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aol.com/fatal-crash-involving-tesla-ploughing-060614363.html",
+        "title": "Fatal crash involving Tesla ploughing into fire engine draws ...AOL.comhttps://www.aol.com \u203a fatal-crash-involving-tesla-plou...",
+        "content": "The four firefighters in the truck were treated for minor injuries, the Contra Costa County fire department said, sharing photos of the incident\u00a0...",
+        "size": [
+          1200,
+          876
+        ],
+        "date": "2023:02:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://v.daum.net/v/4vly8WMT4G",
+        "title": "\uae34\uae09\ucd9c\ub3d9 \ucc28\ub7c9\ub9cc \ucf85! \uc18c\ubc29\ucc28. \uacbd\ucc30\ucc28 \uc778\uc2dd\ubabb\ud558\ub294 \ud14c\uc2ac\ub77c \uc624\ud1a0 ...Daumhttps://v.daum.net \u203a ...",
+        "content": "",
+        "size": [
+          559,
+          408
+        ],
+        "date": "2023:02:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://news.zum.com/articles/81441644",
+        "title": "\uc790\uafb8 \uc18c\ubc29\ucc28\u00b7\uad6c\uae09\ucc28 \ub4e4\uc774\ubc1b\ub294 \ud14c\uc2ac\ub77c \ubbf8\uc2a4\ud130\ub9ac\u2026\uc774\ubc88\uc5d4 \uc0ac\ub9dd\uc0ac\uace0ZUM \ub274\uc2a4https://news.zum.com \u203a articles",
+        "content": "",
+        "size": [
+          559,
+          408
+        ],
+        "date": "2023:02:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.fireworld.at/2023/02/22/usa-neuerlich-kracht-tesla-auf-autobahn-gegen-feuerwehrfahrzeug-tiller-ladder-%E2%86%92-ein-toter-vier-leichtverletzte-fw-leute/",
+        "title": "USA: Neuerlich kracht Tesla auf Autobahn gegen ...Fireworld.athttps://www.fireworld.at \u203a 2023/.../...",
+        "content": "... Contra Costa County Fire Protection District. Der Fahrer sei am Tatort f\u00fcr tot erkl\u00e4rt worden, sagte Dutter. Das Auto musste aufgeschnitten\u00a0...",
+        "size": [
+          366,
+          204
+        ],
+        "date": "2023:02:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cybertruckownersclub.com/forum/threads/why-do-teslas-keep-smashing-emergency-vehicles-warning-graphic-images-in-article.7615/page-5",
+        "title": "Why Do Teslas Keep Smashing Emergency Vehicles ...Cybertruckownersclub.comhttps://www.cybertruckownersclub.com \u203a page-5",
+        "content": "I imagine that deference is given to the longtime police chief or fire chief on what they think is effective and that common sense says adding\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:02:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=503945",
+        "title": "\uae34\uae09\ucd9c\ub3d9 \ucc28\ub7c9\ub9cc \ucf85! \uc18c\ubc29\ucc28. \uacbd\ucc30\ucc28 \uc778\uc2dd\ubabb\ud558\ub294 \ud14c\uc2ac\ub77c \uc624\ud1a0 ...M\ud22c\ub370\uc774https://www.autodaily.co.kr \u203a news",
+        "content": "",
+        "size": [
+          559,
+          408
+        ],
+        "date": "2023:02:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://akharinkhabar.ir/amp/cars/9510883/%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%84%D8%A7%D8%9B-%D8%A8%D8%A7%D8%B2%D9%87%D9%85-%D9%BE%D8%A7%DB%8C-%D8%AE%D8%B7%D8%A7%DB%8C-%D8%A7%D8%AA%D9%88%D9%BE%D8%A7%DB%8C%D9%84%D9%88%D8%AA-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+        "title": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u00ab\u062a\u0633\u0644\u0627\u00bb\u061b \u0628\u0627\u0632\u0647\u0645 \u067e\u0627\u06cc \u062e\u0637\u0627\u06cc \u0627\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u062f\u0631 \u0645\u06cc\u0627\u0646 \u0627\u0633\u062a\u061f\u0622\u062e\u0631\u06cc\u0646 \u062e\u0628\u0631https://akharinkhabar.ir \u203a amp \u203a cars",
+        "content": "\u062f\u06cc\u062c\u06cc\u0627\u062a\u0648/ \u0637\u0631\u0641\u062f\u0627\u0631\u0627\u0646 \u0648 \u0645\u062f\u0627\u0641\u0639\u0627\u0646 \u062a\u0633\u0644\u0627 \u062f\u0631\u062d\u0627\u0644 \u0627\u0639\u062a\u0631\u0627\u0636 \u0628\u0647 \u0641\u0631\u0627\u062e\u0648\u0627\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0631\u0627\u0646\u0646\u062f\u06af\u06cc \u062a\u0645\u0627\u0645 \u062e\u0648\u062f\u0631\u0627\u0646 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u06cc\u0627 \u0647\u0645\u0627\u0646 \u0627\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u062a\u0633\u0644\u0627 \u0628\u0648\u062f\u0646\u062f \u06a9\u0647 \u06cc\u06a9 \u062a\u0633\u0644\u0627 \u0645\u062f\u0644 S \u062f\u0631\u00a0...",
+        "size": [
+          910,
+          600
+        ],
+        "date": "2023:02:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.ayandnews.com/%D8%A8%D8%AE%D8%B4-%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-6/98920-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D9%84%D8%A7-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81%DB%8C-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1",
+        "title": "\u0645\u0627\u0634\u06cc\u0646 \u0647\u0627\u06cc \u062e\u0648\u062f\u0631\u0627\u0646 \u062a\u0633\u0644\u0627 \u0648 \u0628\u0627\u0632 \u0647\u0645 \u062a\u0635\u0627\u062f\u0641\u06cc \u0645\u0631\u06af\u0628\u0627\u0631\u0622\u06cc\u0646\u062f\u0646\u06cc\u0648\u0632https://www.ayandnews.com \u203a 9892...",
+        "content": "another-tesla-crashes-against-emergency-vehicle-kills-driver-. \u0628\u0627\u062a\u0648\u062c\u0647 \u0628\u0647 \u0627\u06cc\u0646\u06a9\u0647 \u062a\u0635\u0627\u062f\u0641 \u062f\u0631 \u0622\u062e\u0631 \u0647\u0641\u062a\u0647 \u0627\u062a\u0641\u0627\u0642 \u0627\u0641\u062a\u0627\u062f\u0647 \u0648 \u0633\u0631\u0646\u0634\u06cc\u0646\u06cc \u06a9\u0647 \u0632\u0646\u062f\u0647\u200c\u0645\u0627\u0646\u062f\u0647 \u0645\u0645\u06a9\u0646\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:02:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://akharinkhabar.ir/cars/9510883",
+        "title": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u00ab\u062a\u0633\u0644\u0627\u00bb\u061b \u0628\u0627\u0632\u0647\u0645 \u067e\u0627\u06cc \u062e\u0637\u0627\u06cc \u0627\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u062f\u0631 \u0645\u06cc\u0627\u0646 \u0627\u0633\u062a\u061f\u0622\u062e\u0631\u06cc\u0646 \u062e\u0628\u0631https://akharinkhabar.ir \u203a cars",
+        "content": "\u062f\u06cc\u062c\u06cc\u0627\u062a\u0648/ \u0637\u0631\u0641\u062f\u0627\u0631\u0627\u0646 \u0648 \u0645\u062f\u0627\u0641\u0639\u0627\u0646 \u062a\u0633\u0644\u0627 \u062f\u0631\u062d\u0627\u0644 \u0627\u0639\u062a\u0631\u0627\u0636 \u0628\u0647 \u0641\u0631\u0627\u062e\u0648\u0627\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0631\u0627\u0646\u0646\u062f\u06af\u06cc \u062a\u0645\u0627\u0645 \u062e\u0648\u062f\u0631\u0627\u0646 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u06cc\u0627 \u0647\u0645\u0627\u0646 \u0627\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u062a\u0633\u0644\u0627 \u0628\u0648\u062f\u0646\u062f \u06a9\u0647 \u06cc\u06a9 \u062a\u0633\u0644\u0627 \u0645\u062f\u0644 S \u062f\u0631\u00a0...",
+        "size": [
+          910,
+          600
+        ],
+        "date": "2023:02:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.eghtesad100.ir/%D8%A8%D8%AE%D8%B4-%D8%AF%D8%A7%D9%86%D8%B4-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-67/27852-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%84%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86-%D8%A2%D8%AA%D8%B4-%D9%86%D8%B4%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%D9%87%D9%85-%D9%BE%D8%A7%DB%8C-%D8%AE%D8%B7%D8%A7%DB%8C-%D8%A7%D8%AA%D9%88%D9%BE%D8%A7%DB%8C%D9%84%D9%88%D8%AA-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+        "title": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062a\u0633\u0644\u0627 \u0628\u0627 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634\u200c\u0646\u0634\u0627\u0646\u06cc\u061b \u0628\u0627\u0632\u0647\u0645 \u067e\u0627\u06cc \u062e\u0637\u0627\u06cc ...\u0627\u0642\u062a\u0635\u0627\u062f \u06f1\u06f0\u06f0https://www.eghtesad100.ir \u203a 27852...",
+        "content": "\u0627\u0642\u062a\u0635\u0627\u062f \u06f1\u06f0\u06f0 - \u06cc\u06a9 \u062f\u0633\u062a\u06af\u0627\u0647 \u062a\u0633\u0644\u0627 \u0645\u062f\u0644 S \u0627\u062e\u06cc\u0631\u0627\u064b \u0628\u0647 \u067e\u0634\u062a \u06cc\u06a9 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634\u200c\u0646\u0634\u0627\u0646\u06cc \u0628\u0631\u062e\u0648\u0631\u062f \u06a9\u0631\u062f. \u0631\u0627\u0646\u0646\u062f\u0647 \u062f\u0631 \u0635\u062d\u0646\u0647 \u062c\u0627\u0646 \u0628\u0627\u062e\u062a \u0648 \u0633\u0631\u0646\u0634\u06cc\u0646 \u062f\u06cc\u06af\u0631 \u0646\u06cc\u0632 \u0632\u062e\u0645\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a.",
+        "size": [
+          910,
+          600
+        ],
+        "date": "2023:02:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://news.mihanmarket.com/News/23891/%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%84%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86-%D8%A2%D8%AA%D8%B4-%D9%86%D8%B4%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%D9%87%D9%85-%D9%BE%D8%A7%DB%8C-%D8%AE%D8%B7%D8%A7%DB%8C-%D8%A7%D8%AA%D9%88%D9%BE%D8%A7%DB%8C%D9%84%D9%88%D8%AA-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+        "title": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062a\u0633\u0644\u0627 \u0628\u0627 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634\u200c\u0646\u0634\u0627\u0646\u06cc\u061b \u0628\u0627\u0632\u0647\u0645 \u067e\u0627\u06cc \u062e\u0637\u0627\u06cc ...\u0645\u06cc\u0647\u0646 \u0645\u0627\u0631\u06a9\u062ahttps://news.mihanmarket.com \u203a \u062a...",
+        "content": "\u06cc\u06a9 \u062f\u0633\u062a\u06af\u0627\u0647 \u062a\u0633\u0644\u0627 \u0645\u062f\u0644 S \u0627\u062e\u06cc\u0631\u0627\u064b \u0628\u0647 \u067e\u0634\u062a \u06cc\u06a9 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634\u200c\u0646\u0634\u0627\u0646\u06cc \u0628\u0631\u062e\u0648\u0631\u062f \u06a9\u0631\u062f. \u0631\u0627\u0646\u0646\u062f\u0647 \u062f\u0631 \u0635\u062d\u0646\u0647 \u062c\u0627\u0646 \u0628\u0627\u062e\u062a \u0648 \u0633\u0631\u0646\u0634\u06cc\u0646 \u062f\u06cc\u06af\u0631 \u0646\u06cc\u0632 \u0632\u062e\u0645\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a.",
+        "size": [
+          910,
+          600
+        ],
+        "date": "2023:02:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://digiato.com/article/2023/02/27/teslas-autopilot-caused-an-accident-again-this-time-an-accident-with-a-fire-truck",
+        "title": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062a\u0633\u0644\u0627 \u0628\u0627 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634\u200c\u0646\u0634\u0627\u0646\u06cc - \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648\u062f\u06cc\u062c\u06cc\u0627\u062a\u0648https://digiato.com \u203a ... \u203a \u0627\u062e\u0628\u0627\u0631 \u062e\u0648\u062f\u0631\u0648",
+        "content": "\u0627\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u062a\u0633\u0644\u0627 \u06af\u0648\u06cc\u0627 \u0628\u0627\u0632\u0647\u0645 \u062d\u0627\u062f\u062b\u0647\u200c\u0633\u0627\u0632 \u0634\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646\u200c\u0628\u0627\u0631 \u06cc\u06a9 \u062a\u0633\u0644\u0627 \u0645\u062f\u0644 S \u0627\u0632 \u0641\u0627\u0635\u0644\u0647 \u0628\u0633\u06cc\u0627\u0631 \u062f\u0648\u0631 \u0628\u0647 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634 \u0646\u0634\u0627\u0646\u06cc \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u06a9\u0648\u0628\u06cc\u062f\u0647 \u0627\u0633\u062a!",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:02:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autonews.com/mobility-report/aaa-says-drivers-becoming-more-afraid-automated-vehicles",
+        "title": "AAA says drivers becoming more afraid of automated vehiclesAutomotive Newshttps://www.autonews.com \u203a Mobility Report",
+        "content": "Tesla crash. Americans are becoming more afraid of automated ... Last month, a Tesla driver died after colliding with a fire truck in California.",
+        "size": [
+          900,
+          675
+        ],
+        "date": "2023:03:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autonews.com/mobility-report-newsletter/drivers-more-afraid-automated-vehicles-aaa-says",
+        "title": "Drivers more afraid of automated vehicles, AAA saysAutomotive Newshttps://www.autonews.com \u203a mobility-report-newsletter",
+        "content": "Tesla crash. Americans are becoming more afraid of automated vehicles, and many misunderstand the capabilities of driver-assist technology\u00a0...",
+        "size": [
+          900,
+          675
+        ],
+        "date": "2023:03:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/bay-area/nhtsa-probing-16-deadly-tesla-autopilot-highway-crashes/",
+        "title": "NHTSA probing 16 deadly Tesla highway crashes - KRON4KRON4https://www.kron4.com \u203a news \u203a bay-area \u203a nhtsa-pro...",
+        "content": "... fire engine on I-680 in Walnut Creek on February 18. A Contra Costa County Fire Protection District engine was being used as a traffic\u00a0...",
+        "size": [
+          1280,
+          960
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://soundhealthandlastingwealth.com/uncategorized/tesla-was-on-autopilot-when-it-crashed-into-firetruck-killing-driver-investigation-finds/",
+        "title": "Tesla was on autopilot when it crashed into firetruck, killing ...Sound Health and Lasting Wealthhttps://soundhealthandlastingwealth.com \u203a tesla-was-o...",
+        "content": "Emergency responders had to cut open the Tesla to remove the passenger following the deadly crash. Four Contra Costa County firefighters had\u00a0...",
+        "size": [
+          634,
+          467
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/us/feds-suspect-tesla-that-hit-firetruck-fatal-california-crash-autopilot",
+        "title": "Feds suspect Tesla that hit firetruck in fatal California crash ...Fox Newshttps://www.foxnews.com \u203a feds-suspect-tesla-that-hit-...",
+        "content": "A Tesla was operating on an automated driving system when it crashed into a firetruck in California last month, killing the driver and\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fox10phoenix.com/news/tesla-that-hit-fire-truck-in-fatal-i-680-crash-was-on-autopilot-report",
+        "title": "Feds suspect Tesla that hit fire truck in deadly I-680 crash was ...FOX 10 Phoenixhttps://www.fox10phoenix.com \u203a news \u203a tesla-that-hit-fir...",
+        "content": "18 crash on I-680 in Walnut Creek where emergency responders had to cut open the Tesla to remove the passenger. Four Contra Costa County\u00a0...",
+        "size": [
+          932,
+          470
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ktvu.com/news/tesla-that-hit-fire-truck-in-fatal-i-680-crash-was-on-autopilot-report",
+        "title": "Feds suspect Tesla that hit fire truck in deadly I-680 crash was ...KTVUhttps://www.ktvu.com \u203a news \u203a tesla-that-hit-fire-truck-i...",
+        "content": "18 crash on I-680 in Walnut Creek where emergency responders had to cut open the Tesla to remove the passenger. Four Contra Costa County\u00a0...",
+        "size": [
+          932,
+          470
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.univision.com/local/san-francisco-kdtv/investigan-accidente-tesla-conduccion-automatica-choque-mortal-camion-bomberos-contra-costa",
+        "title": "Federales investigan accidente mortal de un Tesla que choc\u00f3 ...Univisionhttps://www.univision.com \u203a local",
+        "content": "Durante el accidente, cuatro bomberos del condado de Contra Costa sufrieron heridas menores. Indagan choques de Tesla contra veh\u00edculos de\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-11836529/Tesla-autopilot-crashed-firetruck-killing-driver-investigation-finds.html",
+        "title": "Tesla was on autopilot when it crashed into firetruck, killing ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-11836529",
+        "content": "Emergency responders had to cut open the Tesla to remove the passenger following the fatal incident which left four Contra Costa County\u00a0...",
+        "size": [
+          634,
+          467
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jalopnik.com/tesla-autopilot-may-be-responsible-for-another-fatal-cr-1850204165",
+        "title": "Tesla Autopilot May Have Caused a Fatal Crash Into a FiretruckJalopnikhttps://jalopnik.com \u203a tesla-autopilot-may-be-responsi...",
+        "content": "The driver was declared dead at the scene. Four Contra Costa County firefighters sustained minor injuries in the crash. Advertisement.",
+        "size": [
+          645,
+          471
+        ],
+        "date": "2023:03:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thechenabtimes.com/2023/03/09/nhtsa-investigating-fatal-crash-where-tesla-plowed-into-parked-firetruck/",
+        "title": "NHTSA investigating fatal crash where Tesla plowed into ...The Chenab Timeshttps://thechenabtimes.com \u203a 2023/03/09 \u203a nhtsa-inve...",
+        "content": "The driver of a Tesla died in a crash on Feb. 18, 2023, Walnut Creek, California. Contra Costa County Fire Protection District. Advertisement.",
+        "size": [
+          992,
+          616
+        ],
+        "date": "2023:03:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.motorisumotori.it/tesla-autopilot-nhtsa-indaga-sullo-schianto-mortale-contro-un-camion-dei-pompieri/98705",
+        "title": "Tesla Autopilot: NHTSA indaga sullo schianto mortale contro ...MotorisuMotori.ithttps://www.motorisumotori.it \u203a tesl...",
+        "content": "... Tesla Model S e un camion dei pompieri in California. ... California Highway Patrol e dai vigili del fuoco della contea di Contra Costa.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:03:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.notebookcheck.pl/Model-2-w-cenie-22-000-USD-moze-wygladac-jak-mniejszy-Model-Y-poniewaz-Tesla-planuje-tempo-produkcji-na-poziomie-2-milionow-w-Giga-Mexico.705497.0.html",
+        "title": "Model 2 w cenie 22 000 USD mo\u017ce wygl\u0105da\u0107 jak mniejszy ...Notebookcheck.plhttps://www.notebookcheck.pl \u203a M...",
+        "content": "Model 2 w cenie 22 000 USD mo\u017ce wygl\u0105da\u0107 jak mniejszy Model Y, poniewa\u017c Tesla planuje tempo produkcji na poziomie 2 milion\u00f3w w Giga Mexico.",
+        "size": [
+          137,
+          110
+        ],
+        "date": "2023:04:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.notebookcheck.nl/Goedkoper-te-produceren-2024-Tesla-Model-3-Highland-verschijnt-in-een-spionagefoto-met-nieuwe-koplampen.707304.0.html",
+        "title": "Goedkoper te produceren 2024 Tesla Model 3 'Highland ...Notebookcheck.nlhttps://www.notebookcheck.nl \u203a Go...",
+        "content": "De geruchte \"Project Highland\" Tesla Model 3 mid-cycle refresh test mule is ontmaskerd, althans aan de voorkant.",
+        "size": [
+          137,
+          110
+        ],
+        "date": "2023:04:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.notebookcheck.nl/Tesla-bevestigt-dat-Model-S-op-Autopilot-stond-tijdens-dodelijk-ongeluk-met-brandweerwagen.708281.0.html",
+        "title": "Tesla bevestigt dat Model S op Autopilot stond tijdens dodelijk ...Notebookcheck.nlhttps://www.notebookcheck.nl \u203a Te...",
+        "content": "... crash. Het nighttim\u0435 incident resulteerde in de dood van de Model S ... In februari stond een ladderwagen van het Contra Costa County Fire\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917",
+        "title": "Tesla Confirms Automated Driving Systems Engaged in Fatal ...Jalopnikhttps://jalopnik.com \u203a tesla-confirm-automated-drivin...",
+        "content": "In this photo released by Contra Costa County Fire Protection District, firefighters work the scene. Photo: Contra Costa County Fire Protection\u00a0...",
+        "size": [
+          645,
+          471
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.notebookcheck.it/Tesla-conferma-che-la-Model-S-era-in-funzione-con-il-pilota-automatico-durante-l-incidente-mortale-con-il-camion-dei-pompieri.708206.0.html",
+        "title": "Tesla conferma che la Model S era in funzione con il pilota ...Notebookcheck.ithttps://www.notebookcheck.it \u203a Tes...",
+        "content": "A febbraio, un'autoscala del Contra Costa County Fire Protection District \u00e8 stata parcheggiata sulla corsia nord dell'autostrada secondo\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.notebookcheck.net/Tesla-confirms-Model-S-was-on-Autopilot-during-deadly-fire-truck-crash-incident.708059.0.html",
+        "title": "Tesla confirms Model S was on Autopilot during deadly fire ...Notebookcheckhttps://www.notebookcheck.net \u203a Tesla-confirms-Mod...",
+        "content": "Back in February, a Contra Costa County Fire Protection District ladder truck was parked on the northbound highway lanes according to all\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.notebookcheck.info/Tesla-confirma-que-o-Modelo-S-estava-no-piloto-automatico-durante-o-acidente-com-um-caminhao-de-bombeiros-mortal.708166.0.html",
+        "title": "Tesla confirma que o Modelo S estava no piloto autom\u00e1tico ...Notebookcheck.infohttps://www.notebookcheck.info \u203a ...",
+        "content": "Em fevereiro, um caminh\u00e3o escada do Distrito de Prote\u00e7\u00e3o contra inc\u00eandios do Condado de Contra Costa foi estacionado nas faixas da rodovia\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.notebookcheck.org/Tesla-confirma-que-el-Model-S-estaba-en-Autopilot-durante-el-incidente-mortal-del-camion-de-bomberos.708145.0.html",
+        "title": "Tesla confirma que el Model S estaba en Autopilot durante el ...Notebookcheck.orghttps://www.notebookcheck.org \u203a T...",
+        "content": "En febrero, un cami\u00f3n con escalera del Distrito de Protecci\u00f3n contra Incendios del Condado de Contra Costa estaba aparcado en los carriles\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.notebookcheck.pl/Tesla-potwierdza-ze-Model-S-byl-na-Autopilocie-podczas-smiertelnego-wypadku-z-udzialem-wozu-strazackiego.708321.0.html",
+        "title": "Tesla potwierdza, \u017ce Model S by\u0142 na Autopilocie podczas ...Notebookcheck.plhttps://www.notebookcheck.pl \u203a Te...",
+        "content": "W lutym ci\u0119\u017car\u00f3wka drabinowa Contra Costa County Fire Protection ... crashes-or-act-erratic-on-intersections-as-Tesla-issues-a-big-Model-3-Y\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://carup.se/tesla-i-dodskrasch-med-brandbil-kordes-med-autopilot/",
+        "title": "Tesla i d\u00f6dskrasch med brandbil \u2013 k\u00f6rdes med autopilotCarup.sehttps://carup.se \u203a tesla-i-dodskrasch-...",
+        "content": "Foto: Contra Costa County Fire Protection. Teslas autopilot \u00e4r trots namnet inte n\u00e5gon sj\u00e4lvk\u00f6rningsteknik. Den hj\u00e4lper f\u00f6raren att styra\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:04:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://pplware.sapo.pt/motores/tesla-model-s-estava-em-autopilot-durante-acidente-mortal-com-carro-de-bombeiros/",
+        "title": "Tesla Model S estava em Autopilot durante acidente mortal ...Pplwarehttps://pplware.sapo.pt \u203a motores \u203a t...",
+        "content": "Em fevereiro, por volta das 4 horas da manh\u00e3, um carro Model S da Tesla deslocava-se a grande velocidade no Condado de Contra Costa, na\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:04:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://ezpublish-france.fr/tesla-model-s-etait-sur-le-pilote-automatique-lors-de-laccident-mortel-dun-camion-de-pompiers/",
+        "title": "Tesla Model S \u00e9tait sur le pilote automatique lors de l'accident ...ezpublish-france.frhttps://ezpublish-france.fr \u203a tesla-m...",
+        "content": "\u2013 Con Fire PIO (@ContraCostaFire) 18 f\u00e9vrier 2023. Le camion de pompiers de la protection contre les incendies du comt\u00e9 de Contra Costa\u00a0...",
+        "size": [
+          720,
+          405
+        ],
+        "date": "2023:04:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.drive.com.au/news/tesla-autopilot-fsd-investigated-fatal-crash/",
+        "title": "Tesla's semi-autonomous technology back in the spotlight ...drive.com.auhttps://www.drive.com.au \u203a News",
+        "content": "Images via Contra Costa County Fire Protection District (Twitter). NHTSA's investigation of the fatal crash comes less than two years after\u00a0...",
+        "size": [
+          448,
+          252
+        ],
+        "date": "2023:04:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://www.notebookcheck.pl/Tesla-Cybertruck-vs-Ford-F-150-Lightning-apokaliptyczny-pickup-Tesli-musi-stawic-czola-ostrej-konkurencji-ze-strony-wolu-roboczego-Forda-w-wersji-EV.710896.0.html",
+        "title": "Tesla Cybertruck vs Ford F-150 Lightning - Notebookcheck.plNotebookcheck.plhttps://www.notebookcheck.pl \u203a Te...",
+        "content": "Kiedy Tesla og\u0142osi\u0142a CyberTruck te wszystkie lata temu, zapocz\u0105tkowa\u0142a rewolucj\u0119 elektrycznych pickup\u00f3w. Niestety, ameryka\u0144ski producent\u00a0...",
+        "size": [
+          137,
+          110
+        ],
+        "date": "2023:04:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.knowledia.com/CA/en/articles/parents-of-corona-man-killed-on-freeway-sue-uber-allege-driver-left-him-0ed67073c1a901873563b16f340f4bc349b215cb",
+        "title": "Parents of Corona man killed on freeway sue Uber, allege ...Knowledia Newshttps://news.knowledia.com \u203a articles",
+        "content": "Tesla driver killed after plowing into firetruck on freeway. 7 months ... Small plane crashes onto California freeway and bursts into flames. a\u00a0...",
+        "size": [
+          1024,
+          747
+        ],
+        "date": "2023:07:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12398363/Five-Texas-cops-suing-run-self-driving-Tesla.html",
+        "title": "Five Texas cops suing Tesla after self-driving Model X car hit ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12398363",
+        "content": "... Contra Costa County firefighters with minor injuries. The car plowed into the fire truck which had been parked on a Northern California\u00a0...",
+        "size": [
+          634,
+          469
+        ],
+        "date": "2023:08:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://lowcarb.style/2023/08/11/tesla-vehicles-autopilot-crashing-into-police/",
+        "title": "\u518d\u3073\u306e\u60aa\u5922\u3001\u81ea\u52d5\u904b\u8ee2\u4e2d\u306e\u30c6\u30b9\u30e9\u8eca\u304c\u8b66\u5bdf\u8eca\u4e21\u306b\u885d\u7a81\u3059\u308b\u885d\u6483 ...lowcarb.stylehttps://lowcarb.style \u203a 2023/08/11",
+        "content": "TESLA News. \u518d\u3073\u306e\u60aa\u5922\u3001\u81ea\u52d5\u904b\u8ee2\u4e2d\u306e\u30c6\u30b9\u30e9\u8eca\u304c\u8b66\u5bdf\u8eca\u4e21\u306b\u885d\u7a81\u3059\u308b\u885d\u6483\u6620\u50cf\u304c\u65b0\u305f\u306b\u516c\u958b. tesla\u00a0...",
+        "size": [
+          160,
+          90
+        ],
+        "date": "2023:08:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/2023/08/24/nhtsa-head-says-tesla-autopilot-investigation-outcome-could-be-announced-soon/",
+        "title": "NHTSA head says Tesla Autopilot investigation outcome ...Autobloghttps://www.autoblog.com \u203a News",
+        "content": "The agency is investigating the performance of Autopilot after identifying more than a dozen crashes in which Tesla vehicles struck stopped\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": "2023:08:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://autoghid.ro/legal/seful-nhtsa-spune-ca-rezultatul-investigatiei-privind-tesla-autopilot-ar-putea-fi-anuntat-in-curand/",
+        "title": "\u0218eful NHTSA spune c\u0103 rezultatul investiga\u021biei privind Tesla ...autoghid.rohttps://autoghid.ro \u203a Legal",
+        "content": "WASHINGTON \u2013 Administra\u021bia Na\u021bional\u0103 de Siguran\u021b\u0103 a Traficului pe Autostr\u0103zi (NHTSA) va rezolva ancheta sa de doi ani privind Tesla\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:08:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1391997.htm",
+        "title": "\u52a0\u5dde\u966a\u5ba1\u56e2\u5373\u5c06\u5904\u7406\u7279\u65af\u62c9Autopilot\u81f4\u6b7b\u6848 - cnBeta.COMcnBeta.COMhttps://www.cnbeta.com.tw \u203a tech",
+        "content": "",
+        "size": [
+          1390,
+          1042
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.cnbeta.com.tw/wap/view/1391997.htm",
+        "title": "\u52a0\u5dde\u966a\u5ba1\u56e2\u5373\u5c06\u5904\u7406\u7279\u65af\u62c9Autopilot\u81f4\u6b7b\u6848cnBeta.COMhttps://m.cnbeta.com.tw \u203a wap \u203a view",
+        "content": "",
+        "size": [
+          1390,
+          1042
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=jiKzoO3tuSw",
+        "title": "1 dead after Tesla slams into firetruck on I-680 in ... - YouTubeYouTube\u00a0\u00b7\u00a0ABC7 News Bay Area481.4K+ views  \u00b7  9 months ago",
+        "content": "Contra Costa County Fire Captain Chris DeMeo says his crew about to clear the scene of a non-injury accident on I-680 North in Walnut Creek\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=hZqHLfYYgTY",
+        "title": "Tesla may have been on autopilot in deadly crash ... - YouTubeYouTube\u00a0\u00b7\u00a0KRON 42.5K+ views  \u00b7  8 months ago",
+        "content": "Tesla may have been on autopilot in deadly crash involving emergency vehicle. 2.4K views \u00b7 8 months ago ...more\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contracosta.news/tag/contra-costa-county-fire/",
+        "title": "Contra Costa County Fire ArchivesContra Costa Newshttps://contracosta.news \u203a tag \u203a contra-costa-county-fire",
+        "content": "Vehicle Crash Ignites Vegetation Fire on Highway 4 Near Pittsburg. by CC News ... The California Highway Patrol says 1 dead and 5 injured after a Tesla\u00a0...",
+        "size": [
+          432,
+          288
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contracosta.news/tag/fire-truck-struck/",
+        "title": "Fire truck struck Archives - Contra Costa NewsContra Costa Newshttps://contracosta.news \u203a tag \u203a fire-truck-struck",
+        "content": "The California Highway Patrol says 1 dead and 5 injured after a Tesla slammed into a Contra Costa County Fire Truck on I-680 in Walnut Creek. Per CHP, they\u00a0...",
+        "size": [
+          432,
+          288
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.workzonebarriers.com/emergency-response-firetruck-collision-crash-facts.html",
+        "title": "Firetruck Accident Statistics | Work Zone Barriers GuideWork Zone Barriershttps://www.workzonebarriers.com \u203a emergency-respo...",
+        "content": "In 2019, an estimated 15350 fire department vehicles were involved in traffic accidents which resulted in 575 firefighter injuries and 3 fatalities.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://iiitl.ac.in/?k=person-dies-when-tesla-hits-fire-truck-on-i-cc-p9lWZNIp",
+        "title": "Person Dies When Tesla Hits Fire Truck On I-680,, 43% OFFIIIT Lucknowhttps://iiitl.ac.in \u203a 680h-4",
+        "content": "Tesla Fatal California Crash With Fire Truck Draws US Regulator Inquiry (TSLA) Bloomberg ... Tesla Autopilot crash: 2014 Model S crashed into firetruck on I-405.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://techcrunch.com/tag/tesla-autopilot/",
+        "title": "Tesla Autopilot - TechCrunchTechCrunchhttps://techcrunch.com \u203a tag \u203a tesla-autopilot",
+        "content": "... crashed into a fire truck in California, Bloomberg re... Tesla crashes into a fire truck. Transportation \u00b7 Tesla said to face criminal investigation by the\u00a0...",
+        "size": [
+          430,
+          230
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.robles.edu.gt/?m=person-dies-when-tesla-hits-fire-truck-on-i-pp-6wM2YycN",
+        "title": "Person Dies When Tesla Hits Fire Truck On I-680,, 49% OFFrobles.edu.gthttps://www.robles.edu.gt \u203a 680h-4",
+        "content": "Tesla Fatal California Crash With Fire Truck Draws US Regulator Inquiry (TSLA) Bloomberg ... Tesla Autopilot crash: 2014 Model S crashed into firetruck on I-405.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/category/news/page/130/",
+        "title": "Tesla News SourceTeslaratihttps://www.teslarati.com \u203a category \u203a news \u203a page",
+        "content": "... crash. Tesla China has pledged its ... A Tesla Model S struck a firetruck that was parked on a California interstate on Saturday in an accident that ended up...",
+        "size": [
+          450,
+          270
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rainacomputer.com/?o=tesla-told-federal-transportation-regulators-that-a-february-fatal-mm-E8ZErxhQ",
+        "title": "Tesla Told Federal Transportation Regulators That A, 53% OFFrainacomputer.comhttps://www.rainacomputer.com \u203a tenis tesla fav",
+        "content": "Tesla driver killed car slams into side of firetruck on California freeway recall 363,000 vehicles Daily Mail Online ... Tesla that hit fire truck in deadly crash\u00a0...",
+        "size": [
+          1200,
+          1200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=yokota-firefighters-conduct-bilateral-training-with-jasdf-pacific-air-cc-KBoj0bCJ",
+        "title": "Yokota Firefighters Conduct Bilateral Training With JASDF, 56 ...elevate.inhttps://www.elevate.in \u203a puttout japan",
+        "content": "Yokota firefighters conduct bilateral training with JASDF Pacific Air Forces Article Display. Tesla driver killed after plowing into firetruck on Bay Area\u00a0...",
+        "size": [
+          640,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.drive.com.au/showrooms/tesla/news/page/5/",
+        "title": "Tesla News - Page 5 of 41 - Drive.com.audrive.com.auhttps://www.drive.com.au \u203a Showrooms",
+        "content": "Research 2023 Tesla models with independent reviews, news and latest deals. Find new, demo and used Tesla cars for sale from local dealers in your region.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.drive.com.au/about-drive/our-journalists/jordan-mulach/page/17/",
+        "title": "Jordan Mulach Articles - Page 17 of 36 - Drivedrive.com.auhttps://www.drive.com.au \u203a our-journalists \u203a page",
+        "content": "Jordan Mulach Articles - Page 17 of 36. Tesla's semi-autonomous driving tech cleared of fault in US crash \u00b7 Queensland announces Australia's toughest\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/FireNewsNetwork/",
+        "title": "Fire News Network - FacebookFacebook\u00a0\u00b7\u00a0Fire News Network2.5K+ followers",
+        "content": "Tesla Driver Killed After Plowing Into Fire Truck on. CA Freeway http://ow.ly ... injures in pile up crash. WILLIAMSINDEPENDENT.COM. WILLIAMS FIRE HELPS RESCUE\u00a0...",
+        "size": [
+          1080,
+          566
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslarati.com/tag/tesla-model-s/page/3/",
+        "title": "Tesla Model S News - Page 3 of 61 - TESLARATITeslaratihttps://www.teslarati.com \u203a tag \u203a tesla-model-s \u203a page",
+        "content": "Tesla Model S strikes firetruck, cause of accident undetermined. A Tesla Model S struck a firetruck that was parked on a California interstate on Saturday in an\u00a0...",
+        "size": [
+          450,
+          270
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://techcrunch.com/page/426/?main_page=conditions",
+        "title": "Page 426 of 12234 | Startup and Technology NewsTechCrunchhttps://techcrunch.com \u203a page",
+        "content": "... Tesla crashes into fire truck. Feb 20, 2023 Rebecca Bellan. The National Highway Traffic Safety Administration (NHTSA) said Monday it has asked Tesla to\u00a0...",
+        "size": [
+          430,
+          230
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.drive.com.au/tag/tesla-autopilot/",
+        "title": "Latest tesla autopilot News & Reviews - Drive.com.audrive.com.auhttps://www.drive.com.au \u203a tag \u203a tesla-autopilot",
+        "content": "Tesla found not accountable for fatal 'Autopilot' crash in landmark case ... Is Tesla's Enhanced Autopilot worth getting? Caradvice | 6 Oct 2023. Is\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/tag/nhtsa/",
+        "title": "Nhtsa News and Information - AutoblogAutobloghttps://www.autoblog.com \u203a Tag",
+        "content": "NHTSA opens probe into fatal Tesla crash that killed three. A 2022 Tesla Model S slammed into construction equipment in Newport Beach, California. Autoblog\u00a0...",
+        "size": [
+          724,
+          406
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.globalvillagespace.com/tech/nhtsa-chief-tesla-autopilot-investigation-outcome-imminent-gvs/",
+        "title": "NHTSA Chief: Tesla Autopilot Investigation Outcome ImminentGlobal Village Spacehttps://www.globalvillagespace.com \u203a ... \u203a Tech",
+        "content": "The NHTSA launched an investigation into Tesla's Autopilot system after identifying multiple crashes involving Tesla vehicles colliding with stationary\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theepochtimes.com/tag/regulator",
+        "title": "regulator | The Epoch TimesThe Epoch Timeshttps://www.theepochtimes.com \u203a tag \u203a regulator",
+        "content": "... Tesla Crash in California. Feb 20, 2023. |. Reuters \u00b7 8 \u00b7 US Regulator Seeks More Information on Tesla Crash in California. Feb 20. |. 8 \u00b7 Companies. |.",
+        "size": [
+          3000,
+          2189
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/tesla/news/pg-2/",
+        "title": "Tesla News, Rumors, Photos and Opinion - Autoblog (pg 2)Autobloghttps://www.autoblog.com \u203a Research \u203a Tesla",
+        "content": "Get the latest news, spy shots, concepts and reveals along with high-res photos and videos of new Tesla vehicles.",
+        "size": [
+          724,
+          406
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autonews.com/automotive-news-table-contents-3-6-23",
+        "title": "Automotive News Table of Contents 3-6-23Automotive Newshttps://www.autonews.com \u203a automotive-news-table-cont...",
+        "content": "Grudging admiration for Tesla helps reinforce a stark realization at Toyota. For all its expertise in electrification going back to the... Page 3. VW\u00a0...",
+        "size": [
+          900,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://castromarina.info/fire-engine-number-ap",
+        "title": "Fire Engine Number Ap - Castro Marinacastromarina.infohttps://castromarina.info \u203a fire-engine-number-ap",
+        "content": "Man, woman killed ... Tesla driver\u00a0...",
+        "size": [
+          599,
+          437
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.grupobsg.com.br/yokota-firefighters-conduct-bilateral-training-with-jasdf-pacific-air-oo-0E5ANkcJ",
+        "title": "Yokota Firefighters Conduct Bilateral Training With JASDFgrupobsg.com.brhttps://www.grupobsg.com.br \u203a puttout japan",
+        "content": "Kiri, the Teeny Tiny Fire Truck, spreads holiday cheer KRON4. Yokota firefighters ... Tesla driver killed after plowing into firetruck on freeway. Yokota\u00a0...",
+        "size": [
+          640,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/hashtag/walnutcreek",
+        "title": "#walnutcreek - YouTubeYouTubehttps://www.youtube.com \u203a hashtag \u203a walnutcreek",
+        "content": "1 dead after Tesla slams into firetruck on I-680 in Walnut Creek, officials say ... The History of Walnut Creek, ( Contra Costa County ) California !!! U.S.\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/weekend-driving-jobs-bristol",
+        "title": "Weekend Driving Jobs Bristol Gallery - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a weekend-dr...",
+        "content": "Feds investigating deadly Tesla crash into fire truck. More. Feds investigating deadly Tesla crash into fire truck. More. page 1 \u00b7 page 2 \u00b7 page 3 \u00b7 page 4\u00a0...",
+        "size": [
+          1024,
+          747
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.sepakatlk.com.my/accident-moto-79-k.html",
+        "title": "guider D\u00e9teste inqui\u00e9ter accident moto 79 Journal fraternit\u00e9 ...sepakatlk.com.myhttps://www.sepakatlk.com.my \u203a ac...",
+        "content": "Another highway Tesla wreck into a parked emergency response truck results in fatality as firefighters were clearing earlier accident - NotebookCheck.net\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://www.youtube.com/watch?v=zKJ0g71I7Mk",
+        "title": "[\uc5ec\uc758\ub3c4\ud29c\ube0c] \u201c\uc6b4\uc804\ub300\uac00 \ube60\uc84c\uc5b4\uc694\u201d \ud14c\uc2ac\ub77c \ubab0\ub2e4 \ud669\ub2f9\ud55c \ubd09\ubcc0 ...YouTube\u00a0\u00b7\u00a0MTN \uba38\ub2c8\ud22c\ub370\uc774\ubc29\uc1a121K+ views  \u00b7  8 months ago",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://disp.cc/ptt/car/1ZyPrlHZ",
+        "title": "[\u65b0\u805e] \u7f8e\u6d88\u9632\u8eca\u516c\u8def\u6551\u707d\u906d\u7279\u65af\u62c9\u76f4\u649e\u99d5\u99db\u7576\u5834\u8eab\u4ea15\u50b7- car\u677fDisp BBShttps://disp.cc \u203a ptt \u203a car",
+        "content": "\u4f9d\u64da\u5eb7\u7279\u62c9\u79d1\u65af\u5854\u90e1\u6d88\u9632\u55ae\u4f4d\uff08Contra Costa County Fire Protection District\uff09\u5728\u63a8\u7279\u591a\u5f35\u7167\u7247\u986f\u793a\uff0c\u88ab\u649e\u6d88\u9632\u8eca\u7ffb\u8f4990\u5ea6\u6a6b\u8eba\u5728\u5730\uff0c\u8087\u4e8b\u7684\u7279\u65af\u62c9\u524d\u534a\u90e8\u626d\u66f2\u8b8a\u5f62\u3002\u300aabc\u300b\u00a0...",
+        "size": [
+          800,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://twitter.com/PandoraDoDoRa",
+        "title": "\u5927\u725b\u6bd4\u8f03\u61f6       (@PandoraDoDoRa) / XTwitter\u00a0\u00b7\u00a0PandoraDoDoRa190+ followers",
+        "content": "A Tesla driver is dead and a passenger has been left critically injured after ... fire truck on a freeway that was shielding a crew clearing another accident.",
+        "size": [
+          1200,
+          875
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.jutarnji.hr/tag/autopilot",
+        "title": "Jutarnji list - #autopilotJutarnji listhttps://www.jutarnji.hr \u203a tag \u203a auto...",
+        "content": "POGLEDAJTE VIDEO Kandidat za idiota godine: Vozio Teslu na autopilotu pa sletio u jezero 23.08.2023. \u00b7 TKO JE KRIV? \u00b7 U I\u0160\u010cEKIVANJU Tesla \u0107e uskoro predstaviti\u00a0...",
+        "size": [
+          640,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://turanpress.kz/avtonovosti?page=2",
+        "title": "\u0410\u0432\u0442\u043e\u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0430 \u0438 \u043c\u0438\u0440\u0430: \u0432\u0441\u0435 \u043e \u043f\u043e\u043a\u0443\u043f\u043a\u0435 \u0438 ...Turanpress.kzhttps://turanpress.kz \u203a avtonovosti",
+        "content": "\u200bTesla Model Y \u0441\u0442\u0430\u043b\u0430 \u0441\u0430\u043c\u043e\u0439 \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0435\u043c\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u044c\u044e \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f \u0432 \u043c\u0438\u0440\u0435 \u0432 \u043f\u0435\u0440\u0432\u043e\u043c \u043a\u0432\u0430\u0440\u0442\u0430\u043b\u0435 2023 \u0433\u043e\u0434\u0430, \u043e\u0431\u043e\u0433\u043d\u0430\u0432 Toyota RAV4 \u0438 Toyota Corolla, \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435\u00a0...",
+        "size": [
+          421,
+          256
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.jutarnji.hr/tag/full-self-driving",
+        "title": "Jutarnji list - #full self drivingJutarnji listhttps://www.jutarnji.hr \u203a tag \u203a full-s...",
+        "content": "smislili na\u010din Znanstvenici hakirali Teslu: Dodatnu opremu koju vlasnici pla\u0107aju u\u010dinili su besplatnom 04.08.2023. \u00b7 U I\u0160\u010cEKIVANJU Tesla \u0107e uskoro predstaviti\u00a0...",
+        "size": [
+          640,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.jutarnji.hr/tag/autopilot?format=feed&type=atom&start=0",
+        "title": "Jutarnji list - #autopilotJutarnji listhttps://www.jutarnji.hr \u203a tag \u203a autop...",
+        "content": "POGLEDAJTE VIDEO Kandidat za idiota godine: Vozio Teslu na autopilotu pa sletio u jezero 23.08.2023. \u00b7 TKO JE KRIV? \u00b7 U I\u0160\u010cEKIVANJU Tesla \u0107e uskoro predstaviti\u00a0...",
+        "size": [
+          640,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://lowcarb.style/tag/%E4%BA%8B%E6%95%85/",
+        "title": "\u4e8b\u6545 - LcS Tesla News & Blogslowcarb.stylehttps://lowcarb.style \u203a tag \u203a \u4e8b\u6545",
+        "content": "",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://m.al-sharq.com/tags/%D8%AA%D8%B3%D9%84%D8%A7/1",
+        "title": "\u062a\u0633\u0644\u0627 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0634\u0631\u0642Al Sharqhttps://m.al-sharq.com \u203a tags \u203a \u062a\u0633\u0644\u0627",
+        "content": "Truck 1 was struck by a Tesla while blocking I-680 lanes from a previous accident. Driver pronounced dead on-scene; passenger was extricated & transported\u00a0...",
+        "size": [
+          205,
+          172
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.tefuk.org/litix/u1384882.html",
+        "title": "Prompt mythology Piglet \u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 pot Gaseous larynxtefuk.orghttps://www.tefuk.org \u203a litix",
+        "content": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0645\u0646 \u062f\u0631\u064a\u0641\u0646 - \u0627\u0633\u0637\u0648\u0644 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0627\u0633\u0639\u0627\u0641 \u0627\u0644\u0635\u063a\u064a\u0631 - 3 \u0639\u0628\u0648\u0627\u062a: \u0627\u0634\u062a\u0631\u064a \u0627\u0648\u0646 \u0644\u0627\u064a\u0646 \u0628\u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u0633\u0639\u0627\u0631 \u0641\u064a \u0645\u0635\u0631 - \u0633\u0648\u0642.\u0643\u0648\u0645 \u0627\u0644\u0627\u0646 \u0627\u0635\u0628\u062d\u062a \u0627\u0645\u0627\u0632\u0648\u0646 \u0645\u0635\u0631\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://tefuk.org/yvsea/c1419210.html",
+        "title": "Prompt mythology Piglet \u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 pot Gaseous larynxtefuk.orghttps://tefuk.org \u203a yvsea",
+        "content": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0645\u0646 \u062f\u0631\u064a\u0641\u0646 - \u0627\u0633\u0637\u0648\u0644 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0627\u0633\u0639\u0627\u0641 \u0627\u0644\u0635\u063a\u064a\u0631 - 3 \u0639\u0628\u0648\u0627\u062a: \u0627\u0634\u062a\u0631\u064a \u0627\u0648\u0646 \u0644\u0627\u064a\u0646 \u0628\u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u0633\u0639\u0627\u0631 \u0641\u064a \u0645\u0635\u0631 - \u0633\u0648\u0642.\u0643\u0648\u0645 \u0627\u0644\u0627\u0646 \u0627\u0635\u0628\u062d\u062a \u0627\u0645\u0627\u0632\u0648\u0646 \u0645\u0635\u0631\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://tefuk.org/crwry/q345885.html",
+        "title": "Prompt mythology Piglet \u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 pot Gaseous larynxtefuk.orghttps://tefuk.org \u203a crwry",
+        "content": "\u0623\u0633\u0648\u0627\u0646 \u062a\u062a\u0633\u0644\u062d \u0636\u062f \u0627\u0644\u0623\u0648\u0628\u0626\u0629 \u0628\u0623\u062d\u062f\u062b \u0633\u064a\u0627\u0631\u0629 \u062a\u0639\u0642\u064a\u0645 \u0641\u0649 \u0645\u0635\u0631.. \u062a\u0643\u0644\u0641\u062a\u0647\u0627 5,5 \u0645\u0644\u064a\u0648\u0646 \u062c\u0646\u064a\u0647 \u0648\u062a\u062a\u0645\u0631\u0643\u0632 \u0628\u0627\u0644\u0645\u0637\u0627\u0631\u0627\u062a.. \u0645\u0631\u0643\u0628\u0629 \u0627\u0644\u0625\u0633\u0639\u0627\u0641 \u0645\u062c\u0647\u0632\u0629 \u0644\u0646\u0642\u0644 \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u0641\u064a\u0631\u0648\u0633\u064a\u0629.",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://tefuk.org/uedjk/v326700.html",
+        "title": "Prompt mythology Piglet \u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 pot Gaseous larynxtefuk.orghttps://tefuk.org \u203a uedjk",
+        "content": "\u062a\u0635\u0645\u064a\u0645 \u0645\u0646\u0638\u0648\u0631 \u0644\u0633\u064a\u0627\u0631\u0629 \u0625\u0633\u0639\u0627\u0641 \u0627\u0644\u0637\u0648\u0627\u0631\u0626, \u0633\u064a\u0627\u0631\u0629 \u0625\u0633\u0639\u0627\u0641 \u0641\u0646\u064a\u0629, \u063a\u0634\u0627\u0621 19, \u0641\u064a\u0631\u0648\u0633 \u0643\u0648\u0631\u0648\u0646\u0627 PNG \u0648\u0627\u0644\u0645\u062a\u062c\u0647\u0627\u062a \u0644\u0644\u062a\u062d\u0645\u064a\u0644 \u0645\u062c\u0627\u0646\u0627 \u00b7 \u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0645\u0637\u0627\u0641\u0626 \u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0625\u0646\u0642\u0627\u0630 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626, \u0633\u064a\u0627\u0631\u0629\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://castromarina.info/quanto-ganha-um-bombeiro-nos-eua",
+        "title": "Quanto Ganha Um Bombeiro Nos Eua - Castro Marinacastromarina.infohttps://castromarina.info \u203a quanto-g...",
+        "content": "EUA. Condutor morre depois de Tesla embater contra cami\u00e3o de ...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://lhongtortai.com/collection/quanto-ganha-bombeiro-eua",
+        "title": "Quanto Ganha Bombeiro Eua \u0a17\u0a3e\u0a08\u0a21 2023 - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection",
+        "content": "New York City Fire Department \u2013 Wikip\u00e9dia, a enciclop\u00e9dia livre \u0a39\u0a4b\u0a30 ... Condutor morre depois de Tesla embater contra cami\u00e3o de ... \u0a39\u0a4b\u0a30 \u0a2a\u0a42\u0a30\u0a3e\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://claudiojoaquim.com/sectr-2_1000076-wares9202.shtml",
+        "title": "shit so tent \u0627\u062d\u062a\u0631\u0627\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 Controversy leisure combineclaudiojoaquim.comhttps://claudiojoaquim.com \u203a sectr-...",
+        "content": "\u062d\u0627\u062f\u062b \u062c\u062f\u064a\u062f \u0644\u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627.. \u0647\u0644 \u062a\u062a\u0639\u0645\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u061f | \u0633\u0643\u0627\u064a \u0646\u064a\u0648\u0632 \u0639\u0631\u0628\u064a\u0629. StriveME - \u0633\u064a\u0627\u0631\u0627\u062a \u062a\u064a\u0633\u0644\u0627 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://elfiarbeidsrecht.nu/%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B3%D9%84%D8%A7-k.html",
+        "title": "Missing Complaint Expectation \u0627\u062d\u062a\u0631\u0627\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 code In ...elfiarbeidsrecht.nuhttps://elfiarbeidsrecht.nu \u203a \u0627\u062d\u062a\u0631\u0627\u0642-...",
+        "content": "\u0633\u0639\u0648\u062f\u064a \u0623\u0648\u062a\u0648 | \u0627\u062d\u062a\u0631\u0627\u0642 \u0633\u064a\u0627\u0631\u0629 \u062a\u0633\u0644\u0627 S \u0648\u0645\u0635\u0631\u0639 \u0634\u062e\u0635\u064a\u0646 \u0641\u064a \u0627\u0644\u062d\u0627\u062f\u062b \u0631\u0642\u0645 24 \u0648\u0645\u0627\u0633\u0643 \u064a\u062f\u0627\u0641\u0639. \u0632\u0648\u0631\u0648\u0627 \u0645\u0648\u0642\u0639\u0646\u0627 \u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a #saudi_auto #\u0633\u0639\u0648\u062f\u064a_\u0623\u0648\u062a\u0648\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.terrasses-saint-michel.com/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D9%87",
+        "title": "\u062f\u064a\u0646\u0627\u0645\u064a\u0643\u064a \u0627\u0644\u062a\u0634\u0627\u0648\u0631 \u0639\u0627\u0645\u0644\u0629 \u0646\u0638\u0627\u0641\u0629 \u062d\u0648\u0627\u062f\u062b \u0633\u064a\u0627\u0631\u0627\u062a \u062c\u062f\u064a\u062f\u0647terrasses-saint-michel.comhttps://www.terrasses-saint-michel.com \u203a ...",
+        "content": "\u0627\u0632\u062f\u062d\u0627\u0645\u060c \u0627\u0643\u062a\u0638\u0627\u0638\u060c \u0627\u062d\u062a\u0642\u0627\u0646 \u062c\u0646\u0627\u062d \u0627\u0644\u0645\u0627\u0634\u064a\u0629 \u0628\u0627\u0644\u0635\u0648\u0631 . . \u00b7 \u062d\u0637\u0627\u0645 \u0633\u0641\u064a\u0646\u0629 \u0628\u0627\u0647\u062a \u062d\u0643\u064a\u0645 \u062d\u0627\u062f\u062b \u0645\u0631\u0648\u0631 - \u0648\u064a\u0643\u064a\u0628\u064a\u062f\u064a\u0627 \u00b7 \u0645\u062e\u0637\u0626 \u0646\u0642\u062f\u064a \u062d\u0627\u0641\u0629 \u0633\u064a\u0627\u0631\u0627\u062a \u0645\u0635\u062f\u0648\u0645\u0647 , \u0635\u0648\u0631 \u062d\u0648\u0627\u062f\u062b \u0633\u064a\u0627\u0631\u0627\u062a - \u0627\u062d\u0644\u0649 \u0643\u0644\u0627\u0645 \u00b7 \u0645\u0646\u062a\u0635\u0641\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://levizjabashke.al/esgjfgj-4853tetid.htm",
+        "title": "prison Strong wind Slime \u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 peppermint Orange ...levizjabashke.alhttps://levizjabashke.al \u203a ...",
+        "content": "\u0630\u0647\u0628\u064a\u060c \u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0625\u0637\u0641\u0627\u0621\u060c \u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626\u060c \u0625\u0644\u0649 \u062f\u0627\u062e\u0644\u060c 3d\u060c \u0639\u0646\u060c \u0623\u062f\u0627\u0629 \u062a\u0639\u0631\u064a\u0641 \u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641\u0629\u060c \u0627\u0644\u062e\u0644\u0641\u064a\u0629 \u0628\u064a\u0636\u0627\u0621, \u0633\u064a\u0627\u0631\u0629 \u0625\u0637\u0641\u0627\u0621, \u0645\u062d\u0631\u0643 \u0646\u0627\u0631\u064a, \u0633\u064a\u0627\u0631\u0629 \u0645\u0637\u0627\u0641\u0626 \u0635\u0648\u0631\u0629 \u0627\u0644\u062e\u0644\u0641\u064a\u0629\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://cdn.meethk.com/spai/q_lossless+ret_img/http:/klublr.com/kor/%EC%86%8C%EB%B0%A9%EC%B0%A8-%EC%82%AC%EA%B3%A0",
+        "title": "\uc18c\ubc29\ucc28 \uc0ac\uace0 - MeetHK.comMeetHK.comhttps://cdn.meethk.com \u203a http: \u203a kor",
+        "content": "",
+        "size": [
+          559,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.ayandnews.com/tags/%D8%AA%D8%B3%D9%84%D8%A7/?page=2",
+        "title": "\u062a\u0633\u0644\u0627 | \u0635\u0641\u062d\u0647 2\u0622\u06cc\u0646\u062f\u0646\u06cc\u0648\u0632https://www.ayandnews.com \u203a tags",
+        "content": "\u062a\u0635\u0627\u0648\u06cc\u0631 | \u0633\u0627\u06cc\u0628\u0631\u062a\u0631\u0627\u06a9 \u062a\u0633\u0644\u0627 \u0686\u0647 \u0632\u0645\u0627\u0646\u06cc \u0628\u0647 \u0628\u0627\u0632\u0627\u0631 \u0645\u06cc\u200c\u0622\u06cc\u062f\u061f \u062a\u0633\u0644\u0627 \u0628\u0627 \u0642\u0637\u0639\u06cc\u062a \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u062e\u0648\u062f\u0631\u0648\u06cc \u0633\u0627\u06cc\u0628\u0631 \u062a\u0631\u0627\u06a9 \u0628\u062f\u0648\u0646 \u062a\u0648\u062c\u0647 \u0628\u0647 \u0627\u062a\u0641\u0627\u0642\u0627\u062a \u0627\u062d\u062a\u0645\u0627\u0644\u06cc \u067e\u06cc\u0634 \u0631\u0648\u060c \u0646\u0647\u0627\u06cc\u062a\u0627 \u062f\u0631 \u0633\u0627\u0644 \u06f2\u06f0\u06f2\u06f3 \u0628\u0647\u00a0...",
+        "size": [
+          910,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://gsxr.ir/%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%84%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86-%D8%A2%D8%AA%D8%B4%D9%86%D8%B4%D8%A7%D9%86%DB%8C/%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%84%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86-%D8%A2%D8%AA%D8%B4%D9%86%D8%B4%D8%A7%D9%86%DB%8C-2/",
+        "title": "\u0628\u0627\u0632\u0647\u0645 \u067e\u0627\u06cc \u062e\u0637\u0627\u06cc \u0627\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u062f\u0631 \u0645\u06cc\u0627\u0646 \u0627\u0633\u062a\u061f_63fc41beba94b.jpeggsxr.irhttps://gsxr.ir \u203a \u062a\u0635\u0627\u062f\u0641-\u0645\u0631\u06af\u0628\u0627\u0631-\u062a\u0633...",
+        "content": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062a\u0633\u0644\u0627 \u0628\u0627 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634\u200c\u0646\u0634\u0627\u0646\u06cc\u061b \u0628\u0627\u0632\u0647\u0645 \u067e\u0627\u06cc \u062e\u0637\u0627\u06cc \u0627\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u062f\u0631 \u0645\u06cc\u0627\u0646 \u0627\u0633\u062a\u061f_63fc41beba94b.jpeg.",
+        "size": [
+          910,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://gsxr.ir/%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%84%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86-%D8%A2%D8%AA%D8%B4%D9%86%D8%B4%D8%A7%D9%86%DB%8C/",
+        "title": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062a\u0633\u0644\u0627 \u0628\u0627 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634\u200c\u0646\u0634\u0627\u0646\u06cc\u061b \u0628\u0627\u0632\u0647\u0645 \u067e\u0627\u06cc \u062e\u0637\u0627\u06cc ...gsxr.irhttps://gsxr.ir \u203a \u062a\u0635\u0627\u062f\u0641-\u0645\u0631\u06af\u0628\u0627\u0631-\u062a...",
+        "content": "\u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062a\u0633\u0644\u0627 \u0628\u0627 \u06a9\u0627\u0645\u06cc\u0648\u0646 \u0622\u062a\u0634\u200c\u0646\u0634\u0627\u0646\u06cc\u061b \u0628\u0627\u0632\u0647\u0645 \u067e\u0627\u06cc \u062e\u0637\u0627\u06cc \u0627\u062a\u0648\u067e\u0627\u06cc\u0644\u0648\u062a \u062f\u0631 \u0645\u06cc\u0627\u0646 \u0627\u0633\u062a\u061f \u062d\u062a\u0645\u0627 \u0628\u062e\u0648\u0627\u0646\u06cc\u062f : \u0646\u0642\u0634 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062c\u0646\u06af\u200c\u0647\u0627\u06cc \u0622\u06cc\u0646\u062f\u0647.",
+        "size": [
+          910,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "toyshop",
+        "ioclass": "indoor",
+        "probability": 0.1201673373579979
+      },
+      {
+        "class": "fire_station",
+        "ioclass": "outdoor",
+        "probability": 0.10407762974500656
+      },
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.09086035192012787
+      },
+      {
+        "class": "raceway",
+        "ioclass": "outdoor",
+        "probability": 0.04986084997653961
+      },
+      {
+        "class": "science_museum",
+        "ioclass": "indoor",
+        "probability": 0.04872886836528778
+      }
+    ],
+    "transients": [
+      {
+        "class": "glowing",
+        "score": 0.7729111909866333
+      },
+      {
+        "class": "time/night",
+        "score": 0.6661147475242615
+      },
+      {
+        "class": "cluttered",
+        "score": 0.6351698637008667
+      },
+      {
+        "class": "moist",
+        "score": 0.5961931943893433
+      },
+      {
+        "class": "exciting",
+        "score": 0.5733014345169067
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.5663772821426392
+      },
+      {
+        "class": "bright",
+        "score": 0.5095127820968628
+      },
+      {
+        "class": "beautiful",
+        "score": 0.5057742595672607
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 86,
+        "pred_lat": 34.22507858276367,
+        "pred_long": -118.46871185302734
+      },
+      "middle": {
+        "pred_class": 3087,
+        "pred_lat": 33.178409576416016,
+        "pred_long": -117.32872009277344
+      },
+      "fine": {
+        "pred_class": 4979,
+        "pred_lat": 39.52250289916992,
+        "pred_long": -119.8239517211914
+      },
+      "hierarchy": {
+        "pred_class": 4023,
+        "pred_lat": 33.13712692260742,
+        "pred_long": -117.32347869873047
+      },
+      "country": {
+        "city": "Reno",
+        "state": "Nevada",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 39.543056,
+    "longitude": -119.79224,
+    "generationtime_ms": 0.16391277313232422,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 1378.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2019-06-14T00:00",
+        "2019-06-14T01:00",
+        "2019-06-14T02:00",
+        "2019-06-14T03:00",
+        "2019-06-14T04:00",
+        "2019-06-14T05:00",
+        "2019-06-14T06:00",
+        "2019-06-14T07:00",
+        "2019-06-14T08:00",
+        "2019-06-14T09:00",
+        "2019-06-14T10:00",
+        "2019-06-14T11:00",
+        "2019-06-14T12:00",
+        "2019-06-14T13:00",
+        "2019-06-14T14:00",
+        "2019-06-14T15:00",
+        "2019-06-14T16:00",
+        "2019-06-14T17:00",
+        "2019-06-14T18:00",
+        "2019-06-14T19:00",
+        "2019-06-14T20:00",
+        "2019-06-14T21:00",
+        "2019-06-14T22:00",
+        "2019-06-14T23:00",
+        "2019-06-15T00:00",
+        "2019-06-15T01:00",
+        "2019-06-15T02:00",
+        "2019-06-15T03:00",
+        "2019-06-15T04:00",
+        "2019-06-15T05:00",
+        "2019-06-15T06:00",
+        "2019-06-15T07:00",
+        "2019-06-15T08:00",
+        "2019-06-15T09:00",
+        "2019-06-15T10:00",
+        "2019-06-15T11:00",
+        "2019-06-15T12:00",
+        "2019-06-15T13:00",
+        "2019-06-15T14:00",
+        "2019-06-15T15:00",
+        "2019-06-15T16:00",
+        "2019-06-15T17:00",
+        "2019-06-15T18:00",
+        "2019-06-15T19:00",
+        "2019-06-15T20:00",
+        "2019-06-15T21:00",
+        "2019-06-15T22:00",
+        "2019-06-15T23:00"
+      ],
+      "apparent_temperature": [
+        25.4,
+        23.7,
+        23.1,
+        22.6,
+        21.7,
+        20.6,
+        19.1,
+        17.7,
+        16.2,
+        14.9,
+        14.4,
+        13.6,
+        13.5,
+        13.1,
+        15.7,
+        19.5,
+        21.0,
+        23.1,
+        25.4,
+        26.7,
+        28.2,
+        28.8,
+        28.5,
+        28.2,
+        26.6,
+        24.9,
+        24.2,
+        23.4,
+        22.1,
+        21.4,
+        20.1,
+        18.5,
+        17.1,
+        15.7,
+        14.7,
+        13.7,
+        13.0,
+        13.3,
+        16.0,
+        19.0,
+        20.9,
+        23.6,
+        25.7,
+        27.5,
+        28.9,
+        29.0,
+        28.9,
+        23.1
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

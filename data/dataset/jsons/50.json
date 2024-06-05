@@ -1,0 +1,3601 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 55,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2024/01": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2024/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2024/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 55,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2024/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                55,
+                7,
+                2,
+                1,
+                0,
+                0,
+                1,
+                2,
+                0,
+                1,
+                7,
+                7,
+                5,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 117,
+            "percentage": 51.31578947368421
+          },
+          "Portuguese": {
+            "count": 35,
+            "percentage": 15.350877192982455
+          },
+          "Chinese": {
+            "count": 1,
+            "percentage": 0.43859649122807015
+          },
+          "Vietnamese": {
+            "count": 7,
+            "percentage": 3.0701754385964914
+          },
+          "Arabic": {
+            "count": 6,
+            "percentage": 2.6315789473684212
+          },
+          "Spanish; Castilian": {
+            "count": 6,
+            "percentage": 2.6315789473684212
+          },
+          "Italian": {
+            "count": 6,
+            "percentage": 2.6315789473684212
+          },
+          "French": {
+            "count": 5,
+            "percentage": 2.192982456140351
+          },
+          "Finnish": {
+            "count": 5,
+            "percentage": 2.192982456140351
+          },
+          "Korean": {
+            "count": 4,
+            "percentage": 1.7543859649122806
+          },
+          "Danish": {
+            "count": 4,
+            "percentage": 1.7543859649122806
+          },
+          "Greek, Modern (1453-)": {
+            "count": 3,
+            "percentage": 1.3157894736842106
+          },
+          "Russian": {
+            "count": 3,
+            "percentage": 1.3157894736842106
+          },
+          "Hungarian": {
+            "count": 3,
+            "percentage": 1.3157894736842106
+          },
+          "German": {
+            "count": 3,
+            "percentage": 1.3157894736842106
+          },
+          "Dutch; Flemish": {
+            "count": 3,
+            "percentage": 1.3157894736842106
+          },
+          "Polish": {
+            "count": 2,
+            "percentage": 0.8771929824561403
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 2,
+            "percentage": 0.8771929824561403
+          },
+          "Czech": {
+            "count": 1,
+            "percentage": 0.43859649122807015
+          },
+          "Malay": {
+            "count": 1,
+            "percentage": 0.43859649122807015
+          },
+          "Japanese": {
+            "count": 1,
+            "percentage": 0.43859649122807015
+          },
+          "Croatian": {
+            "count": 1,
+            "percentage": 0.43859649122807015
+          },
+          "Afrikaans": {
+            "count": 1,
+            "percentage": 0.43859649122807015
+          }
+        },
+        "total": 228,
+        "plot": {
+          "labels": [
+            "English",
+            "Portuguese",
+            "Chinese",
+            "Vietnamese",
+            "others"
+          ],
+          "data": [
+            51,
+            15,
+            0,
+            3,
+            31
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "pt",
+        "link": "https://www.baran-store.ir/DRIFTCE-Review-1636930.html",
+        "title": "DRIFTCE Review, drift game - baran-store.irbaran-store.irhttps://www.baran-store.ir \u203a DRIFT...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. 27 janeiro 2024.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2024:01:27 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "fr",
+        "link": "https://www.tomsguide.fr/la-tesla-model-3-ecrase-la-porsche-taycan-4s-au-400-metres-depart-arrete/",
+        "title": "La Tesla Model 3 \u00e9crase la Porsche Taycan 4S au 400 m\u00e8tres ...Toms Guidehttps://www.tomsguide.fr \u203a ...",
+        "content": "Tesla impose les Model Y et ... Bay Bridge de San Francisco. Une Tesla s'arr\u00eate brusquement sur l'autoroute et provoque un gigantesque accident.",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2020:06:08 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 136,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "fr",
+        "link": "https://www.tomsguide.fr/la-tesla-model-3-ecrase-la-porsche-taycan-4s-au-400-metres-depart-arrete/",
+        "title": "La Tesla Model 3 \u00e9crase la Porsche Taycan 4S au 400 m\u00e8tres ...Toms Guidehttps://www.tomsguide.fr \u203a ...",
+        "content": "Tesla impose les Model Y et ... Bay Bridge de San Francisco. Une Tesla s'arr\u00eate brusquement sur l'autoroute et provoque un gigantesque accident.",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2020:06:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://it.quora.com/Cosa-faranno-le-persone-in-macchina-quando-lauto-guider%C3%A0-autonomamente-in-futuro",
+        "title": "Cosa faranno le persone in macchina quando l'auto guider\u00e0 ...Quorahttps://it.quora.com \u203a Cosa-faranno-le-persone-in-macchi...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on SF's Bay Bridge Hours After Elon Musk Announces \"Self-Driving\" Feature. Elon Musk has said\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2021:05:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.resetera.com/threads/elon-musk-tw%F0%9D%95%8Ftt%F0%9D%95%8Fr-dr%F0%9D%95%8Fm%F0%9D%95%8F-%F0%9D%95%8Ft-let%E2%80%99s-keep-it-here-parody-%F0%9F%94%B5-official-%EA%95%A4.649272/page-574",
+        "title": "Elon Musk TwXttXr DrXmX |XT| Let's keep it here. (Parody ...ResetErahttps://www.resetera.com \u203a Discussion \u203a EtcetEra Forum",
+        "content": "... Bay Bridge, resulting in an eight-vehicle crash. The crash injured ... Just hours before the crash, Tesla CEO Elon Musk had triumphantly announced\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2022:10:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.resetera.com/threads/elon-musk-tw%F0%9D%95%8Ftt%F0%9D%95%8Fr-dr%F0%9D%95%8Fm%F0%9D%95%8F-%F0%9D%95%8Ft-let%E2%80%99s-keep-it-here-parody-%F0%9F%94%B5-official-%EA%95%A4.649272/page-575",
+        "title": "Elon Musk TwXttXr DrXmX |XT| Let's keep it here. (Parody ...ResetErahttps://www.resetera.com \u203a Discussion \u203a EtcetEra Forum",
+        "content": "#28,703 \u00b7 Wraith said: tesla-crash-stroller-1.jpg. theintercept.com. Exclusive: Surveillance Footage of Tesla Crash on SF's Bay Bridge Hours\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2022:10:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.iltalehti.fi/autouutiset/a/0b2bd08d-5392-4ddd-946c-143168f273d6",
+        "title": "Tesla ajoi itsest\u00e4\u00e4n poliisia karkuun Saksassa - IltalehtiIltalehtihttps://www.iltalehti.fi \u203a autouutiset",
+        "content": "",
+        "size": [
+          200,
+          200
+        ],
+        "date": "2023:01:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vwvortex.com/threads/tesla-model-s-causes-8-car-pile-up-on-sf-bay-bridge-back-in-november.9523440/",
+        "title": "Tesla Model S causes 8-car pile-up on SF Bay Bridge back in ...VW Vortexhttps://www.vwvortex.com \u203a ... \u203a The Car Lounge",
+        "content": "But, it's pretty clear that the initial crash is caused by the Tesla when it changed into the left lane, cutting off a car that is travelling\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://carbuzz.com/news/watch-the-tesla-model-s-cause-that-8-car-thanksgiving-pileup",
+        "title": "Watch The Tesla Model S Cause That 8-Car Thanksgiving ...CarBuzzhttps://carbuzz.com \u203a News",
+        "content": "Following an eight-car pileup on San Fransisco's Bay Bridge on Thanksgiving, highway surveillance footage h ... The crash happened just hours\u00a0...",
+        "size": [
+          1600,
+          1066
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.motorbox.com/auto/video/video-twitter-incidente-tesla-model-s-con-guida-autonoma",
+        "title": "Video Twitter incidente Tesla Model S con guida autonomaMotorBoxhttps://www.motorbox.com \u203a auto",
+        "content": "I obtained surveillance footage of the self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that\u00a0...",
+        "size": [
+          380,
+          214
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://canadatoday.news/ca/exclusive-surveillance-video-of-tesla-crashing-on-sfs-bay-bridge-hours-after-elon-musk-announced-self-driving-feature-221559/",
+        "title": "EXCLUSIVE: Surveillance video of Tesla crashing on SF's Bay ...canadatoday.newshttps://canadatoday.news \u203a exclusive-surveillance-video-...",
+        "content": "The accident injured nine people, including a 2-year-old child, and blocked traffic on the bridge for over an hour. The video and new photos of\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://carbuzz.com/news/watch-the-tesla-model-s-cause-that-8-car-thanksgiving-pileup",
+        "title": "Watch The Tesla Model S Cause That 8-Car Thanksgiving ...CarBuzzhttps://carbuzz.com \u203a News",
+        "content": "Following an eight-car pileup on San Fransisco's Bay Bridge on Thanksgiving, highway surveillance footage h ... The crash happened just hours\u00a0...",
+        "size": [
+          1600,
+          1066
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.motorbox.com/auto/video/video-twitter-incidente-tesla-model-s-con-guida-autonoma",
+        "title": "Video Twitter incidente Tesla Model S con guida autonomaMotorBoxhttps://www.motorbox.com \u203a auto",
+        "content": "I obtained surveillance footage of the self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that\u00a0...",
+        "size": [
+          380,
+          214
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://teslamotorsclub.com/tmc/threads/tesla-tsla-the-investment-world-the-perpetual-investors-roundtable.139047/page-19656",
+        "title": "Tesla, TSLA & the Investment World: the Perpetual Investors ...Tesla Motors Clubhttps://teslamotorsclub.com \u203a tmc \u203a threads \u203a page-19656",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on SF's Bay Bridge Hours After Elon Musk Announces \"Self-Driving\" Feature ... TESLA, TESLA MOTORS,\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://smoney.vn/xe-tesla-tu-lai-gay-tai-nan-lien-hoan-o-my-post699185.html",
+        "title": "Xe Tesla t\u1ef1 l\u00e1i g\u00e2y tai n\u1ea1n li\u00ean ho\u00e0n \u1edf M\u1ef9 - Smoney.vnSmoney.vnhttps://smoney.vn \u203a xe-tesla-tu-lai-g...",
+        "content": "Theo The Intercept, \u0111o\u1ea1n phim gi\u00e1m s\u00e1t t\u1eeb c\u1ea7u San Francisco cho th\u1ea5y c\u1ea3nh t\u01b0\u1ee3ng tai n\u1ea1n nghi\u00eam tr\u1ecdng khi m\u1ed9t chi\u1ebfc Tesla Model S chuy\u1ec3n l\u00e0n r\u1ed3i\u00a0...",
+        "size": [
+          300,
+          150
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://canadatoday.news/ca/exclusive-surveillance-video-of-tesla-crashing-on-sfs-bay-bridge-hours-after-elon-musk-announced-self-driving-feature-221559/",
+        "title": "EXCLUSIVE: Surveillance video of Tesla crashing on SF's Bay ...canadatoday.newshttps://canadatoday.news \u203a exclusive-surveillance-video-...",
+        "content": "The accident injured nine people, including a 2-year-old child, and blocked traffic on the bridge for over an hour. The video and new photos of\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.royalsblue.com/a-self-driving-tesla-car-slammed-on-its-brakes-as-it-entered-a-tunnel-video/",
+        "title": "A self-driving Tesla car slammed on its brakes as it entered a ...Royals Bluehttps://www.royalsblue.com \u203a News feed",
+        "content": "Apparently the accident was not caused by careless driving, as the Tesla Model S braked violently without the driver being able to intervene to\u00a0...",
+        "size": [
+          750,
+          742
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://motoryzacja.interia.pl/wiadomosci/wypadki/news-karambol-w-tunelu-sprawca-twierdzi-ze-jego-tesla-zatrzymala-,nId,6527588",
+        "title": "Karambol w tunelu. Sprawca twierdzi, \u017ce jego Tesla ...Interia Motoryzacjahttps://motoryzacja.interia.pl \u203a news...",
+        "content": "Ameryka\u0144ski serwis informacyjny The Intercept opublikowa\u0142 nagranie z karambolu na Bay Bridge w San Francisco.",
+        "size": [
+          815,
+          497
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.avsite.gr/forum/threads/%CE%97%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%BF%CF%87%CE%AE%CE%BC%CE%B1%CF%84%CE%B1.153444/post-2964624",
+        "title": "Tesla (\u03b1\u03c0\u03bf 1/1/23) | Page 2 - AVsiteAVsitehttps://www.avsite.gr \u203a post-2964624",
+        "content": "124 subscribers. Self-driving Tesla abruptly stops on San Francisco Bay Bridge, resulting in 8 vehicle crash. The Viral Post. Search. Info.",
+        "size": [
+          790,
+          446
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.tecmundo.com.br/mobilidade-urbana-smart-cities/259088-autopilot-tesla-causa-acidente-envolvendo-8-carros-eua-veja.htm",
+        "title": "Autopilot da Tesla causa acidente envolvendo 8 carros nos EUATecMundohttps://www.tecmundo.com.br \u203a 25...",
+        "content": "O sistema de condu\u00e7\u00e3o aut\u00f4noma da Tesla fez o carro parar repentinamente na pista, segundo o motorista.",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.quotidianomotori.com/video/tesla-provoca-tamponamento-a-catena/",
+        "title": "Tesla si blocca e provoca un tamponamento a catenaQuotidiano Motorihttps://www.quotidianomotori.com \u203a ...",
+        "content": "Una Tesla Model S cambia corsia e poi frena fino a fermarsi all'interno del San Francisco Bay Bridge, provocando un tamponamento a catena con\u00a0...",
+        "size": [
+          300,
+          167
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.royalsblue.com/a-self-driving-tesla-car-slammed-on-its-brakes-as-it-entered-a-tunnel-video/",
+        "title": "A self-driving Tesla car slammed on its brakes as it entered a ...Royals Bluehttps://www.royalsblue.com \u203a News feed",
+        "content": "Apparently the accident was not caused by careless driving, as the Tesla Model S braked violently without the driver being able to intervene to\u00a0...",
+        "size": [
+          750,
+          742
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.gocar.gr/news/feed/42126,Tesla_frenarei_karampola_shragga.html",
+        "title": "Tesla \u03c6\u03c1\u03b5\u03bd\u03ac\u03c1\u03b5\u03b9 \u03bc\u03cc\u03bd\u03bf \u03c4\u03bf\u03c5, \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03ba\u03b1\u03c1\u03b1\u03bc\u03c0\u03cc\u03bb\u03b1! [video] - GoCarGoCarhttps://www.gocar.gr \u203a news \u203a feed",
+        "content": "I obtained surveillance footage of the self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that\u00a0...",
+        "size": [
+          1199,
+          729
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alwakeelnews.com/mobile/Section_7/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA-%D9%88%D8%BA%D8%B1%D8%A7%D8%A6%D8%A8/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%B4%D8%A7%D9%87%D8%AF-%D8%A3%D8%BA%D8%B1%D8%A8-%D9%85%D8%A7-%D9%81%D8%B9%D9%84%D8%AA%D9%87-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%88%D8%AA%D8%B3%D8%A8%D8%A8-%D9%81%D9%8A-%D8%AD%D8%A7%D8%AF%D8%AB-%D9%83%D8%A8%D9%8A%D8%B1_611405",
+        "title": "\u0623\u0645\u0631\u064a\u0643\u0627.. \u0634\u0627\u0647\u062f \u0623\u063a\u0631\u0628 \u0645\u0627 \u0641\u0639\u0644\u062a\u0647 \u0633\u064a\u0627\u0631\u0629 \u0630\u0627\u062a\u064a\u0629 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0648\u062a\u0633\u0628\u0628 \u0641\u064a \u062d\u0627\u062f\u062b ...\u0627\u0644\u0648\u0643\u064a\u0644 \u0627\u0644\u0627\u062e\u0628\u0627\u0631\u064ahttps://www.alwakeelnews.com \u203a \u0623\u0645\u0631...",
+        "content": "\u0627\u0644\u0648\u0643\u064a\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a - \u0646\u0634\u0631\u062a \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0641\u064a\u062f\u064a\u0648 \u064a\u0648\u0636\u062d \u0627\u0644\u062d\u0627\u062f\u062b \u0627\u0644\u0645\u0631\u0648\u0631\u064a \u0627\u0644\u0643\u0628\u064a\u0631 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0642\u0628\u0644 \u0623\u0633\u0628\u0648\u0639\u064a\u0646. \u0648\u0643\u0627\u0646\u062a \u0633\u064a\u0627\u0631\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0642\u062f \u062a\u0639\u0637\u0644\u062a \u0628\u0634\u0643\u0644 \u063a\u064a\u0631\u00a0...",
+        "size": [
+          460,
+          306
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lbc.co.uk/news/shocking-moment-self-driving-tesla-stops-abruptly-road/",
+        "title": "Watch shocking moment Self-driving Tesla stops abruptly on ...LBChttps://www.lbc.co.uk \u203a news \u203a shocking-moment-self...",
+        "content": "Shocking video footage has shown a Tesla Model S vehicle changing lanes and suddenly braking on the San Francisco Bay Bridge,\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.forbes.com/sites/bradtempleton/2023/01/11/an-8-car-pileup-started-by-a-tesla-in-autopilot-opens-up-many-complex-issues/",
+        "title": "An 8-Car Pileup Started By A Tesla In Autopilot Opens Up ...Forbeshttps://www.forbes.com \u203a bradtempleton \u203a 2023/01/11",
+        "content": "On Thanksgiving (Nov 24) an 8-car pileup occurred on the San Francisco to Oakland Bay Bridge. Nobody was seriously injured, but interest was\u00a0...",
+        "size": [
+          1600,
+          800
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://incar.tw/post/%E9%96%8B%E5%95%9Ffsd%E7%9A%84tesla-model-s-%E5%9C%A8%E5%BF%AB%E9%80%9F%E9%81%93%E8%B7%AF%E4%B8%8A%E8%87%AA%E5%8B%95%E9%9D%A0%E9%82%8A%E5%81%9C%E8%BB%8A%EF%BC%8C%E8%B7%9F%E5%9C%A8%E5%BE%8C%E6%96%B9",
+        "title": "\u958b\u555fFSD\u7684Tesla Model S \u5728\u5feb\u901f\u9053\u8def\u4e0a\u81ea\u52d5\u9760\u908a\u505c\u8eca - \u766e\u8eca\u5831\u766e\u8eca\u5831https://incar.tw \u203a post",
+        "content": "FSD(Full Self-Driving)\u5b8c\u5168\u81ea\u52d5\u99d5\u99db\u529f\u80fd\u662fTesla \u6700\u5f15\u4ee5\u70ba\u50b2\u7684\u529f\u80fd\uff0cElon Musk \u4e5f\u8868\u793aFSD\u5c31\u662fTesla ... Bay Bridge, resulting in 8 vehicle crash injuring\u00a0...",
+        "size": [
+          1082,
+          768
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://forum.quartertothree.com/t/elon-musk-goes-off-the-rails/155985?page=263",
+        "title": "Elon Musk goes Off the Rails - Politics and religionQuarter To Three Forumshttps://forum.quartertothree.com \u203a elon-musk-goes-of...",
+        "content": "Elon Musk has officially moved into the villain category. Sorry Tesla fans (I've generally been a big SpaceX fan, so I'm pretty sad \u2014 but\u00a0...",
+        "size": [
+          1000,
+          989
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lavanguardia.com/motor/actualidad/20230112/8678330/momento-tesla-model-3-conduccion-autonoma-provoca-accidente-trafico-multiple.html",
+        "title": "Momento en el que un Tesla en modo aut\u00f3nomo provoca un ...La Vanguardiahttps://www.lavanguardia.com \u203a mo...",
+        "content": "I obtained surveillance footage of the self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that\u00a0...",
+        "size": [
+          948,
+          465
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.frandroid.com/marques/tesla/1585488_les-tesla-sont-les-voitures-les-plus-sures-du-monde-malgre-ce-troublant-carambolage",
+        "title": "Tesla : ce troublant carambolage remet-il en cause le titre de ...Frandroidhttps://www.frandroid.com \u203a tesla",
+        "content": "Le probl\u00e8me, c'est qu'a priori, sur le lieu de l'accident (le Bay Bridge de San Francisco), il est impossible d'activer le FSD selon le compte\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lavanguardia.com/motor/actualidad/20230112/8678330/momento-tesla-model-3-conduccion-autonoma-provoca-accidente-trafico-multiple.html",
+        "title": "Momento en el que un Tesla en modo aut\u00f3nomo provoca un ...La Vanguardiahttps://www.lavanguardia.com \u203a mo...",
+        "content": "I obtained surveillance footage of the self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that\u00a0...",
+        "size": [
+          948,
+          465
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.tomsguide.fr/une-tesla-sarrete-brusquement-sur-lautoroute-et-provoque-un-gigantesque-accident/",
+        "title": "Une Tesla s'arr\u00eate brusquement sur l'autoroute et provoque ...Toms Guidehttps://www.tomsguide.fr \u203a une-tesl...",
+        "content": "... Bay Bridge de San Francisco. \u00a9 California Highway Patrol. Des images ... Tesla : cet accident spectaculaire d'une Model Y hors de contr\u00f4le\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://www.vezess.hu/vezetunk/2023/01/12/a-bemutatas-napjan-okozott-balesetet-a-tesla-rendszere/",
+        "title": "A bemutat\u00e1s napj\u00e1n okozott t\u00f6megbalesetet a Tesla rendszereVezesshttps://www.vezess.hu \u203a ... \u203a 12",
+        "content": "I obtained surveillance footage of the self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://elbashayer.com/3106322/%D8%AA%D8%B3%D8%A8%D8%A8%D8%AA-%D9%81%D9%8A-%D8%AD%D8%A7%D8%AF%D8%AB-%D9%83%D8%A8%D9%8A%D8%B1-%D8%A3%D8%BA%D8%B1%D8%A8-%D9%85%D8%A7-%D9%81%D8%B9%D9%84%D8%AA%D9%87-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9/",
+        "title": "\u062a\u0633\u0628\u0628\u062a \u0641\u064a \u062d\u0627\u062f\u062b \u0643\u0628\u064a\u0631.. \u0623\u063a\u0631\u0628 \u0645\u0627 \u0641\u0639\u0644\u062a\u0647 \u0633\u064a\u0627\u0631\u0629 \u0630\u0627\u062a\u064a\u0629 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0641\u064a ...\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0634\u0627\u064a\u0631https://elbashayer.com \u203a \u062a\u0633\u0628\u0628\u062a-...",
+        "content": "\u0646\u0634\u0631\u062a \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0641\u064a\u062f\u064a\u0648 \u064a\u0648\u0636\u062d \u0627\u0644\u062d\u0627\u062f\u062b \u0627\u0644\u0645\u0631\u0648\u0631\u064a \u0627\u0644\u0643\u0628\u064a\u0631 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0642\u0628\u0644 \u0623\u0633\u0628\u0648\u0639\u064a\u0646. \u0648\u0643\u0627\u0646\u062a \u0633\u064a\u0627\u0631\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0642\u062f \u062a\u0639\u0637\u0644\u062a \u0628\u0634\u0643\u0644 \u063a\u064a\u0631 \u0645\u062a\u0648\u0642\u0639\u060c \u062f\u0627\u062e\u0644 \u0646\u0641\u0642 \u201c\u0628\u0627\u064a\u201d\u00a0...",
+        "size": [
+          701,
+          466
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.torquenews.com/14335/tesla-slows-and-crash-ensues-sf-bay-bridge-was-fsd-fault",
+        "title": "Tesla Slows and Crash Ensues on S.F. Bay Bridge - Was FSD ...Torque Newshttps://www.torquenews.com \u203a tesla-slows-and-crash-e...",
+        "content": "We have a video of a Tesla Model S that came to a stop on the S.F. Bay Bridge, resulting in an eight-vehicle crash. Was Tesla FSD at fault?",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.mundoconectado.com.br/carros/carro-da-tesla-para-sozinho-e-causa-engavetamento-de-8-veiculos-na-california-veja-video/",
+        "title": "Carro da Tesla para sozinho e causa engavetamento de 8 ...Mundo Conectadohttps://www.mundoconectado.com.br \u203a ...",
+        "content": "O Autopilot, o sistema de dire\u00e7\u00e3o semiaut\u00f4noma da Tesla causou mais um acidente nos Estados Unidos da Am\u00e9rica. Desta vez, um Tesla Model S\u00a0...",
+        "size": [
+          1200,
+          545
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.motorbiscuit.com/watch-self-driving-tesla-causes-eight-car-pile-up-sf-bay-bridge/",
+        "title": "Self-Driving Tesla Causes an Eight-Car Pile Up On SF Bay ...MotorBiscuithttps://www.motorbiscuit.com \u203a watch-self-driving-tes...",
+        "content": "On Thanksgiving Day, everything was running smoothly on the San Francisco Bay Bridge. That changed rather quickly when a Tesla Model S\u00a0...",
+        "size": [
+          924,
+          801
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cleanfuture.co.in/2023/01/13/tesla-self-driving-injures-child/",
+        "title": "New Tesla Self-Driving Accident That Causes Eight-Vehicle ...cleanfuture.co.inhttps://www.cleanfuture.co.in \u203a 2023/01/13 \u203a tesla-self...",
+        "content": "New video has emerged of a Tesla self-driving car accident that caused a pileup on the San Francisco Bay Bridge \u2013 a catastrophic collision\u00a0...",
+        "size": [
+          650,
+          643
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.netzwelt.de/news/212570-video-kurz-freigabe-elon-musktesla-verursacht-massenkarambolage-tunnel.html",
+        "title": "Video: Kurz nach Freigabe von Elon Musk - Tesla verursacht ...Netzwelthttps://www.netzwelt.de \u203a ... \u203a Tesla",
+        "content": "Das Video einer \u00dcberwachungskamera zeigt, wie ein Tesla Model S abrupt beim Spurwechsel bremst. Das E-Auto verursacht einen folgenschweren\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.polestar-forum.com/threads/tesla-autopilot-and-phantom-braking.10214/",
+        "title": "Tesla Autopilot and phantom braking - Polestar ForumPolestar Forumhttps://www.polestar-forum.com \u203a ... \u203a The EV Lounge",
+        "content": "Here are the details of a major accident started by Tesla ... The road was a tunnel with a slight downwards curve, like the Bay Bridge Treasure\u00a0...",
+        "size": [
+          1600,
+          800
+        ],
+        "date": "2023:01:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://today.line.me/hk/v2/article/1D0lNXM",
+        "title": "\u81ea\u52d5\u99d5\u99db\u7cfb\u7d71\u51fa\u610f\u5916\u8cac\u4efb\u8ab0\u5c6c\u7f8e\u570b\u6307Tesla \u6d89\u53ca\u5927\u90e8\u5206\u6b7b\u4ea1\u8eca\u798dLINE TODAYhttps://today.line.me \u203a article",
+        "content": "\u5728\u53bb\u5e74\u611f\u6069\u7bc0\u7576\u5929\uff0c\u4e00\u8f1b\u6b63\u4f7f\u7528\u81ea\u52d5\u99d5\u99db\u7cfb\u7d71\u7684Tesla Model S \u5728\u4e09\u85e9\u5e02\u7a81\u7136\u5207\u7dda\u524e\u8eca\uff0c\u5c0e\u81f48 \u8eca\u9023\u74b0\u76f8\u649e\uff0c\u9020\u62109 \u4eba\u53d7\u50b7\u3002\u4e8b\u4ef6\u5f15...",
+        "size": [
+          580,
+          323
+        ],
+        "date": "2023:01:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://unwire.hk/2023/01/15/tesla-self-driving/life-tech/",
+        "title": "\u5f71\u7247\u986f\u793a\u7591Tesla \u81ea\u99d5\u96a7\u9053\u524e\u8eca\u60f9\u8eca\u798d\u5927\u773e\u95dc\u6ce8\u81ea\u52d5\u99d5\u99db\u7cfb\u7d71\u51fa ...unwire.hkhttps://unwire.hk \u203a life-tech",
+        "content": "\u5728\u53bb\u5e74\u611f\u6069\u7bc0\u7576\u5929\uff0c\u4e00\u8f1b\u6b63\u4f7f\u7528\u81ea\u52d5\u99d5\u99db\u7cfb\u7d71\u7684Tesla Model S \u5728\u4e09\u85e9\u5e02\u7a81\u7136\u5207\u7dda\u524e\u8eca\uff0c\u5c0e\u81f48 \u8eca\u9023\u74b0\u76f8\u649e\uff0c\u9020\u62109 \u4eba\u53d7\u50b7\u3002\u4e8b\u4ef6\u5f15\u8d77\u5927\u773e\u95dc\u6ce8\uff0c\u8cea\u7591Tesla\u00a0...",
+        "size": [
+          694,
+          386
+        ],
+        "date": "2023:01:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wapcar.my/news/watch-tesla-model-s-with-fsd-sees-ghost-brakes-abruptly-and-caused-8car-pileup-in-a-tunnel-61093",
+        "title": "Watch: Tesla Model S with FSD sees ghost, brakes abruptly ...WapCarhttps://www.wapcar.my \u203a news",
+        "content": "The incident happened on a tunnel in San Francisco Bay Bridge, left 9 people injured, including a 2-year old. The driver of the Tesla claims\u00a0...",
+        "size": [
+          800,
+          400
+        ],
+        "date": "2023:01:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://today.line.me/hk/v2/article/1D0lNXM",
+        "title": "\u81ea\u52d5\u99d5\u99db\u7cfb\u7d71\u51fa\u610f\u5916\u8cac\u4efb\u8ab0\u5c6c\u7f8e\u570b\u6307Tesla \u6d89\u53ca\u5927\u90e8\u5206\u6b7b\u4ea1\u8eca\u798dLINE TODAYhttps://today.line.me \u203a article",
+        "content": "\u5728\u53bb\u5e74\u611f\u6069\u7bc0\u7576\u5929\uff0c\u4e00\u8f1b\u6b63\u4f7f\u7528\u81ea\u52d5\u99d5\u99db\u7cfb\u7d71\u7684Tesla Model S \u5728\u4e09\u85e9\u5e02\u7a81\u7136\u5207\u7dda\u524e\u8eca\uff0c\u5c0e\u81f48 \u8eca\u9023\u74b0\u76f8\u649e\uff0c\u9020\u62109 \u4eba\u53d7\u50b7\u3002\u4e8b\u4ef6\u5f15...",
+        "size": [
+          580,
+          323
+        ],
+        "date": "2023:01:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wapcar.my/news/cny-drive-home-do-this-to-protect-yourself-from-becoming-a-victim-of-a-pileup-crash-61323",
+        "title": "CNY drive home: Do this to protect yourself from becoming a ...WapCarhttps://www.wapcar.my \u203a news \u203a cny-drive-home-do-t...",
+        "content": "CNY drive home: Do this to protect yourself from becoming a victim of a pile-up crash ... Also read: Watch: Tesla Model S with FSD sees ghost\u00a0...",
+        "size": [
+          800,
+          400
+        ],
+        "date": "2023:01:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gadgetany.com/news/according-to-a-government-inquiry-the-bay-bridge-pileup-did-certainly-involve-the-tesla-fsd/",
+        "title": "Tesla FSD Was Indeed Engaged During the Bay Bridge PileupGadgetAnyhttps://www.gadgetany.com \u203a News",
+        "content": "The NHTSA agency's special crash investigation results on the Thanksgiving Day pileup in San Francisco caused by a Model S have been made\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": "2023:01:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.go4it.ro/content/auto/potrivit-unui-fost-inginer-tesla-a-inscenat-unul-dintre-clipurile-de-promovare-a-tehnologiei-self-driving-19211741/",
+        "title": "Potrivit unui fost inginer, Tesla a \u00eenscenat unul dintre clipurile ...Go4IThttps://www.go4it.ro \u203a content \u203a auto",
+        "content": "",
+        "size": [
+          750,
+          742
+        ],
+        "date": "2023:01:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wapcar.my/news/cny-drive-home-do-this-to-protect-yourself-from-becoming-a-victim-of-a-pileup-crash-61323",
+        "title": "CNY drive home: Do this to protect yourself from becoming a ...WapCarhttps://www.wapcar.my \u203a news \u203a cny-drive-home-do-t...",
+        "content": "CNY drive home: Do this to protect yourself from becoming a victim of a pile-up crash ... Also read: Watch: Tesla Model S with FSD sees ghost\u00a0...",
+        "size": [
+          800,
+          400
+        ],
+        "date": "2023:01:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.go4it.ro/content/auto/potrivit-unui-fost-inginer-tesla-a-inscenat-unul-dintre-clipurile-de-promovare-a-tehnologiei-self-driving-19211741/",
+        "title": "Potrivit unui fost inginer, Tesla a \u00eenscenat unul dintre clipurile ...Go4IThttps://www.go4it.ro \u203a content \u203a auto",
+        "content": "",
+        "size": [
+          750,
+          742
+        ],
+        "date": "2023:01:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.iltalehti.fi/sahkoautot/a/16561db7-67f5-459d-97a1-03ce271004f0",
+        "title": "Itsest\u00e4\u00e4n jarruttanut Tesla sai aikaan ketjukolarin KaliforniassaIltalehtihttps://www.iltalehti.fi \u203a sahkoautot",
+        "content": "Itsest\u00e4\u00e4n ajanut Tesla teki haamujarrutuksen ja aiheutti ketjukolarin \u2013 katso video USA:sta. Viranomaiset ovat vahvistaneet, ett\u00e4 autopilotti\u00a0...",
+        "size": [
+          920,
+          558
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-psychogramm-eines-unternehmergenies-auf-selbstzerstoerungskurs-a-218580bf-c4bf-44f6-8b60-2e18290f8fba",
+        "title": "Elon Musk: Psychogramm eines Unternehmergenies auf ...Spiegelhttps://www.spiegel.de \u203a wirtschaft",
+        "content": "Kurz rei\u00dft der Tesla-Chef die Arme in die Luft und gr\u00fc\u00dft die jubelnden Fans im Hof seiner Gigafactory: Elon Superstar \u2013 so sieht er sich am\u00a0...",
+        "size": [
+          488,
+          494
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.iltalehti.fi/sahkoautot/a/16561db7-67f5-459d-97a1-03ce271004f0",
+        "title": "Itsest\u00e4\u00e4n jarruttanut Tesla sai aikaan ketjukolarin KaliforniassaIltalehtihttps://www.iltalehti.fi \u203a sahkoautot",
+        "content": "Itsest\u00e4\u00e4n ajanut Tesla teki haamujarrutuksen ja aiheutti ketjukolarin \u2013 katso video USA:sta. Viranomaiset ovat vahvistaneet, ett\u00e4 autopilotti\u00a0...",
+        "size": [
+          920,
+          558
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.golem.de/news/san-francisco-tesla-hatte-full-self-driving-bei-massenkarambolage-an-2301-171315.html",
+        "title": "Tesla hatte Full Self Driving bei Massenkarambolage anGolem.dehttps://www.golem.de \u203a news \u203a san-...",
+        "content": "Bei dem Unfall mit acht Fahrzeugen hatte der Verursacher im Tesla den Full Self Driving Modus aktiviert, wie die Beh\u00f6rden jetzt bekannt\u00a0...",
+        "size": [
+          832,
+          468
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lanacion.com.ar/estados-unidos/san-francisco-el-impactante-video-del-choque-multiple-que-causo-un-tesla-en-modo-autonomo-nid19012023/",
+        "title": "San Francisco: las im\u00e1genes del choque m\u00faltiple que caus\u00f3 ...La Naci\u00f3nhttps://www.lanacion.com.ar \u203a san-f...",
+        "content": "En el clip, captado por las c\u00e1maras de seguridad de la autopista San Francisco Bay Bridge, se observa c\u00f3mo el autom\u00f3vil Tesla Model S circula\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lanacion.com.ar/estados-unidos/san-francisco-el-impactante-video-del-choque-multiple-que-causo-un-tesla-en-modo-autonomo-nid19012023/",
+        "title": "San Francisco: las im\u00e1genes del choque m\u00faltiple que caus\u00f3 ...La Naci\u00f3nhttps://www.lanacion.com.ar \u203a san-f...",
+        "content": "En el clip, captado por las c\u00e1maras de seguridad de la autopista San Francisco Bay Bridge, se observa c\u00f3mo el autom\u00f3vil Tesla Model S circula\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ms",
+        "link": "https://www.wapcar.my/bm/video-tesla-model-s-dengan-fsd-ternampak-hantu-tibatiba-brek-secara-mengejut-menyebabkan-8-kereta-berlonggok-61297",
+        "title": "Video: Tesla Model S dengan FSD 'ternampak' hantu, tiba-tiba ...WapCarhttps://www.wapcar.my \u203a video-tesl...",
+        "content": "... Tesla sendiri mengatakan ia tidak. KTVU FOX 2 San Francisco. 240K subscribers. Tesla Model S changes lanes, brakes on Bay Bridge, causes pileup.",
+        "size": [
+          800,
+          400
+        ],
+        "date": "2023:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.corrieredellosport.it/news/motori/2023/01/25-102717705/la_guida_autonoma_della_tesla_non_funziona_l_incidente_e_tragico_video",
+        "title": "La guida autonoma della Tesla non funziona: l'incidente \u00e8 ...Corriere dello Sporthttps://www.corrieredellosport.it \u203a l...",
+        "content": "Negli USA, precisamente sulla I-80 del Bay Bridge di San Francisco - strada a scorrimento veloce -, una Model S ha provocato un maxi\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.intercept.com.br/2023/01/25/video-acidente-carro-tesla-apos-elon-musk-anunciar-piloto-automatico/",
+        "title": "V\u00eddeo mostra acidente com 'piloto autom\u00e1tico' da TeslaIntercept Brasilhttps://www.intercept.com.br \u203a vide...",
+        "content": "... Bay. O engavetamento de oito carros em 24 de novembro de 2022, na Bay Bridge em S\u00e3o Francisco. Photo: California Highway Patrol. \u00c0 medida que\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/RealTesla/comments/108egdy/exclusive_surveillance_footage_of_tesla_crash_on/",
+        "title": "Surveillance Footage of Tesla Crash on SF's Bay Bridge ...Reddit\u00a0\u00b7\u00a0r/RealTesla270+ comments  \u00b7  1 year ago",
+        "content": "More results from www.reddit.com",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://ameblo.jp/bank-jp/entry-12784698605.html",
+        "title": "\u30c6\u30b9\u30e9\u306e\u81ea\u52d5\u904b\u8ee2\u300cFull Self-Driving\u300d\u6a5f\u80fd\u306e\u7591\u5ff5\u3068\u4fe1\u983c\u6027 ...ameblo.jphttps://ameblo.jp \u203a bank-jp \u203a entry-...",
+        "content": "\u305d\u3057\u3066\u300cBay Bridge\u4e8b\u6545\u300d\u306e\u524d\u306b\u3001\u30a2\u30e1\u30ea\u30ab\u306e ... \u3010 Surveillance Video Shows Self-Driving Tesla Crash on Bay Bridge\uff08NewsClick\uff09 \u306e\u52d5\u753b\u306f\u3053\u3061\u3089 \u3011.",
+        "size": [
+          738,
+          415
+        ],
+        "date": "2023:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.iltalehti.fi/autouutiset/a/3454d8c4-d9f2-45cd-928b-8f42934285a9",
+        "title": "Tesla Cybertruck my\u00f6h\u00e4styy - IltalehtiIltalehtihttps://www.iltalehti.fi \u203a autouutiset",
+        "content": "Hinnanalennuksella Tesla sai Yhdysvalloissa perusmallin Model Y:n hinnan puristettua kriittisen 55 000 dollarin hinnan alle, mik\u00e4 oikeutti auton\u00a0...",
+        "size": [
+          200,
+          200
+        ],
+        "date": "2023:01:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://quto.ru/journal/news/audi-e-tron-otstrelil-akkumulyator-pri-avarii-02-02-2023.htm",
+        "title": "Audi e-tron \u00ab\u043e\u0442\u0441\u0442\u0440\u0435\u043b\u0438\u043b\u00bb \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u043f\u0440\u0438 \u0430\u0432\u0430\u0440\u0438\u0438 - Quto.ruQutohttps://quto.ru \u203a \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+        "content": "\u041d\u0430 \u0432\u0435\u0441 \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u0430 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0434\u043e \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438 \u0432\u0441\u0435\u0439 \u043c\u0430\u0441\u0441\u044b \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043a\u0430\u0440\u0430 \u2013 \u0440\u0435\u0447\u044c \u0438\u0434\u0451\u0442 \u043e \u0441\u043e\u0442\u043d\u044f\u0445 \u043a\u0438\u043b\u043e\u0433\u0440\u0430\u043c\u043c\u043e\u0432. \u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443, \u043d\u0430 Tesla Model 3 \u0431\u0430\u0442\u0430\u0440\u0435\u044f \u0432\u0435\u0441\u0438\u0442\u00a0...",
+        "size": [
+          238,
+          134
+        ],
+        "date": "2023:02:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://quto.ru/journal/news/audi-e-tron-otstrelil-akkumulyator-pri-avarii-02-02-2023.htm",
+        "title": "Audi e-tron \u00ab\u043e\u0442\u0441\u0442\u0440\u0435\u043b\u0438\u043b\u00bb \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u043f\u0440\u0438 \u0430\u0432\u0430\u0440\u0438\u0438 - Quto.ruQutohttps://quto.ru \u203a \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+        "content": "\u041d\u0430 \u0432\u0435\u0441 \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u0430 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0434\u043e \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438 \u0432\u0441\u0435\u0439 \u043c\u0430\u0441\u0441\u044b \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043a\u0430\u0440\u0430 \u2013 \u0440\u0435\u0447\u044c \u0438\u0434\u0451\u0442 \u043e \u0441\u043e\u0442\u043d\u044f\u0445 \u043a\u0438\u043b\u043e\u0433\u0440\u0430\u043c\u043c\u043e\u0432. \u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443, \u043d\u0430 Tesla Model 3 \u0431\u0430\u0442\u0430\u0440\u0435\u044f \u0432\u0435\u0441\u0438\u0442\u00a0...",
+        "size": [
+          238,
+          134
+        ],
+        "date": "2023:02:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://quto.ru/journal/news/audi-e-tron-otstrelil-akkumulyator-pri-avarii-02-02-2023.htm",
+        "title": "Audi e-tron \u00ab\u043e\u0442\u0441\u0442\u0440\u0435\u043b\u0438\u043b\u00bb \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u043f\u0440\u0438 \u0430\u0432\u0430\u0440\u0438\u0438 - Quto.ruQutohttps://quto.ru \u203a \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+        "content": "\u041d\u0430 \u0432\u0435\u0441 \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u0430 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0434\u043e \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438 \u0432\u0441\u0435\u0439 \u043c\u0430\u0441\u0441\u044b \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043a\u0430\u0440\u0430 \u2013 \u0440\u0435\u0447\u044c \u0438\u0434\u0451\u0442 \u043e \u0441\u043e\u0442\u043d\u044f\u0445 \u043a\u0438\u043b\u043e\u0433\u0440\u0430\u043c\u043c\u043e\u0432. \u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443, \u043d\u0430 Tesla Model 3 \u0431\u0430\u0442\u0430\u0440\u0435\u044f \u0432\u0435\u0441\u0438\u0442\u00a0...",
+        "size": [
+          238,
+          134
+        ],
+        "date": "2023:02:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://smoney.vn/nhieu-nguoi-giau-tai-my-bo-qua-xe-sang-uu-tien-mua-oto-binh-dan-post703142.html",
+        "title": "Nhi\u1ec1u ng\u01b0\u1eddi gi\u00e0u t\u1ea1i M\u1ef9 b\u1ecf qua xe sang, \u01b0u ti\u00ean mua \u00f4t\u00f4 b\u00ecnh ...Smoney.vnhttps://smoney.vn \u203a nhieu-nguoi-gi...",
+        "content": "",
+        "size": [
+          300,
+          150
+        ],
+        "date": "2023:02:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pl",
+        "link": "https://motoryzacja.interia.pl/wiadomosci/ciekawostki/news-spala-za-kierownica-jadacej-tesli-obudzila-ja-dopiero-policj,nId,6587191",
+        "title": "Spa\u0142a za kierownic\u0105 jad\u0105cej Tesli. Obudzi\u0142a j\u0105 dopiero policjaInteria Motoryzacjahttps://motoryzacja.interia.pl \u203a news...",
+        "content": "Para przez 15 minut mia\u0142a tr\u0105bieniem pr\u00f3bowa\u0107 zwr\u00f3ci\u0107 na siebie uwag\u0119 \"kieruj\u0105cej\" Tesl\u0105. Warto zwr\u00f3ci\u0107 uwag\u0119, \u017ce nie wiemy, jaki dystans Tesla\u00a0...",
+        "size": [
+          380,
+          317
+        ],
+        "date": "2023:02:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.forbes.com/sites/bradtempleton/2023/02/17/tesla-fsd-recall-threatens-serious-problem-for-teslas-approach-especially-on-exceding-the-speed-limit/",
+        "title": "Tesla FSD 'Recall' Threatens Serious Problem For ... - ForbesForbeshttps://www.forbes.com \u203a bradtempleton \u203a 2023/02/17",
+        "content": "... crash was caused when a Tesla in [+][-] Autopilot set to a high speed allegedly changed lanes in front of another car while braking\u00a0...",
+        "size": [
+          1600,
+          800
+        ],
+        "date": "2023:02:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.lavanguardia.com/motor/actualidad/20230217/8765004/problemas-sistema-conduccion-autonoma-autopilot-fsd-beta-tesla.html",
+        "title": "El sistema de conducci\u00f3n aut\u00f3noma Autopilot de Tesla vuelve ...La Vanguardiahttps://www.lavanguardia.com \u203a pr...",
+        "content": "",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:02:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://metro.co.uk/2023/03/09/tesla-is-being-investigated-over-steering-wheels-falling-off-mid-drive-18415049/",
+        "title": "Tesla is being investigated over steering wheels falling off mid ...Metrohttps://metro.co.uk \u203a News \u203a Tech",
+        "content": "The NHTSA is also investigating a fatal crash involving a Tesla Model S suspected of using an automated driving system when it crashed into a\u00a0...",
+        "size": [
+          480,
+          240
+        ],
+        "date": "2023:03:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://carbuzz.com/news/current-crash-test-dummies-dont-represent-female-drivers-properly",
+        "title": "Current Crash-Test Dummies Don't Represent Female Drivers ...CarBuzzhttps://carbuzz.com \u203a News",
+        "content": "Females and older occupants are just two groups that aren't fairly represented by modern crash dummies. Not only did far more people lose\u00a0...",
+        "size": [
+          140,
+          80
+        ],
+        "date": "2023:03:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://autopro.com.vn/cong-nghe-an-toan-tren-o-to-thua-khi-chua-xay-ra-tham-hoa-177230425101752518.chn",
+        "title": "C\u00f4ng ngh\u1ec7 an to\u00e0n tr\u00ean \u00f4 t\u00f4 - Th\u1eeba khi ch\u01b0a x\u1ea3y ra th\u1ea3m h\u1ecdaautopro.com.vnhttps://autopro.com.vn \u203a cong-nghe...",
+        "content": "... Tesla c\u00f3 Autopilot, Mercedes-Benz v\u1edbi Drive Pilot hay Volvo c\u00f3 Pilot Assist, th\u1eadm ch\u00ed, m\u1ed9t s\u1ed1 m\u1eabu xe nh\u01b0 XC60 c\u00f2n s\u1edf h\u1eefu s\u1ed1 l\u01b0\u1ee3ng t\u00fai kh\u00ed\u00a0...",
+        "size": [
+          900,
+          600
+        ],
+        "date": "2023:04:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://newautopost.co.kr/auto-newsroom/article/47518/",
+        "title": "\"\ubc8c\uae08\ub9cc 1,700\uc5b5\" \ubcbc\ub791 \ub05d \ubab0\ub9b0 \ud14c\uc2ac\ub77c \ucda9\uaca9 \uadfc\ud669, \uc624\ub108\ub4e4 \ub610 \ub09c\ub9ac\ub274\uc624\ud1a0\ud3ec\uc2a4\ud2b8https://newautopost.co.kr \u203a article",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dawnproject.com/can-we-trust-teslas-statistics-when-it-comes-to-the-safety-of-tesla-full-self-driving/",
+        "title": "Can we trust Tesla's statistics when it comes to the safety of ...The Dawn Projecthttps://dawnproject.com \u203a can-we-trust-teslas-statistics-...",
+        "content": "Elluswamy also admitted that when Tesla were filming the video, Autopilot crashed \u201cinto a fence in our parking lot.\u201d But Elon Musk had other\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:08:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldebate.com/motor/20230819/asi-funciona-frenada-fantasma-coche-electrico-mas-vendido-mundo_134646.html",
+        "title": "Frenada fantasma: el en\u00e9simo defecto de f\u00e1brica del coche ...El Debatehttps://www.eldebate.com \u203a motor",
+        "content": "El fabricante norteamericano Tesla est\u00e1 blindado frente a las cr\u00edticas y a las m\u00e1s que p\u00fablicas deficiencias de calidad. Parece que a Tesla\u00a0...",
+        "size": [
+          940,
+          353
+        ],
+        "date": "2023:08:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ar.inspiredpencil.com/pictures-2023/cartoon-parked-car-hit-ups",
+        "title": "Cartoon Parked Car Hit Ups - ar.inspiredpencil.cominspiredpencil.comhttps://ar.inspiredpencil.com \u203a pictures-2023 \u203a cartoon-p...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 Car Parking\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/",
+        "title": "Cruise Self-Driving Cars Struggled to Recognize ChildrenThe Intercepthttps://theintercept.com \u203a 2023/11/06 \u203a cruise-self-dri...",
+        "content": "Related. Exclusive: Surveillance Footage of Tesla Crash on SF's Bay Bridge Hours After Elon Musk Announces \u201cSelf-Driving\u201d Feature. The internal\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/",
+        "title": "Cruise Self-Driving Cars Struggled to Recognize ChildrenThe Intercepthttps://theintercept.com \u203a 2023/11/06 \u203a cruise-self-dri...",
+        "content": "Related. Exclusive: Surveillance Footage of Tesla Crash on SF's Bay Bridge Hours After Elon Musk Announces \u201cSelf-Driving\u201d Feature. The internal\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.sohu.com/a/735326496_121118978",
+        "title": "\u82f1\u56fd\u9f13\u52b1\u65e0\u4eba\u9a7e\u9a76\u6c7d\u8f66\u53d1\u5c55\uff0c\u51fa\u4e8b\u6545\u4e0d\u7528\u627f\u62c5\u8d23\u4efb - \u641c\u72d0Sohuhttps://www.sohu.com \u203a ...",
+        "content": "",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:11:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "da",
+        "link": "https://www.teslatip.dk/tag/tesla-autopilot/",
+        "title": "Tesla Autopilot Arkiv - TeslaTip.dk - Tips til din Teslateslatip.dkhttps://www.teslatip.dk \u203a tag \u203a tesla-...",
+        "content": "S\u00e6t din Collision Warning til Early (Dette vil informere din Tesla om at foran eller bagvedk\u00f8rende biler, skal opm\u00e6rkes hurtigst muligt. Hvilket\u00a0...",
+        "size": [
+          600,
+          340
+        ],
+        "date": "2023:11:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ict.smpmuh4yogya.sch.id/san-francisco-18-november-the-north-face-k.html",
+        "title": "Negoziare Deviazione Tuttavia san francisco 18 november the ...smpmuh4yogya.sch.idhttps://ict.smpmuh4yogya.sch.id \u203a san-francisco-18-n...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:11:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.richpinga.com/san-francisco-18-november-the-north-face-k.html",
+        "title": "margine bibliotecario temperare san francisco 18 november ...richpinga.comhttps://www.richpinga.com \u203a san-francisco-18-novem...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:11:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hotelcasarafaelita.com/san-francisco-18-november-the-north-face-k.html",
+        "title": "lungimiranza Facolt\u00e0 Ossidare san francisco 18 november the ...hotelcasarafaelita.comhttps://hotelcasarafaelita.com \u203a san-francisco-18-nove...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:11:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ar.inspiredpencil.com/pictures-2023/car-accidents",
+        "title": "Car Accidents - ar.inspiredpencil.comar.inspiredpencil.comhttps://ar.inspiredpencil.com \u203a pictures-2023 \u203a car-acc...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 Washington State\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2023:12:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fibs.to/Car-Pileup-After-Tesla-Stops-in-Highway-Tunnel-5762-101405.html",
+        "title": "Video Shows 8-Car Pileup After Tesla Stops in Highway Tunnelfibs.tohttps://www.fibs.to \u203a Car-Pileup-After-Tesla-Stops-in-...",
+        "content": "... crash on the Bay Bridge. Video Shows 8 ... Driver claims Tesla's self-driving software triggered Thanksgiving Bay Bridge crash - CBS San Francisco.",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2023:12:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://v.daum.net/v/4DdlKJdYlb?f=m",
+        "title": "\uc804 \ud14c\uc2ac\ub77c \uc9c1\uc6d0, \uc624\ud1a0\ud30c\uc77c\ub7ff \ubb38\uc81c\uc810 \uae5c\uc9dd \ud3ed\ub85c.. \ucc28\uc8fc\ub4e4 \uc77c\ub3d9 \ub2f9\ud669Daumhttps://v.daum.net \u203a ...",
+        "content": "",
+        "size": [
+          658,
+          438
+        ],
+        "date": "2023:12:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://v.daum.net/v/4DdlKJdYlb",
+        "title": "\uc804 \ud14c\uc2ac\ub77c \uc9c1\uc6d0, \uc624\ud1a0\ud30c\uc77c\ub7ff \ubb38\uc81c\uc810 \uae5c\uc9dd \ud3ed\ub85c.. \ucc28\uc8fc\ub4e4 \uc77c\ub3d9 \ub2f9\ud669Daumhttps://v.daum.net \u203a ...",
+        "content": "",
+        "size": [
+          658,
+          438
+        ],
+        "date": "2023:12:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://newautopost.co.kr/issue-plus/article/60831/",
+        "title": "\ub098\ub77c\uba74 \uc808\ub300 \uc548 \ud0c0.. \ud14c\uc2ac\ub77c \uc804 \uc9c1\uc6d0 \ucda9\uaca9 \ud3ed\ub85c, \uc624\ub108\ub4e4 \uc81c\ub300\ub85c ...\ub274\uc624\ud1a0\ud3ec\uc2a4\ud2b8https://newautopost.co.kr \u203a article",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:12:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dawnproject.com/the-dawn-project-blog/",
+        "title": "The Dawn Project BlogThe Dawn Projecthttps://dawnproject.com \u203a the-dawn-project-blog",
+        "content": "... crashes involving Tesla's Full Self-Driving and Autopilot systems. ... Don't be a Tesla Crash Test Dummy. The Dawn Project is campaigning to\u00a0...",
+        "size": [
+          768,
+          384
+        ],
+        "date": "2023:12:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "da",
+        "link": "https://www.teslatip.dk/category/model-y/",
+        "title": "Model Y Arkiv - TeslaTip.dk - Tips til din Teslateslatip.dkhttps://www.teslatip.dk \u203a category",
+        "content": "S\u00e6t din Collision Warning til Early (Dette vil informere din Tesla om at foran eller bagvedk\u00f8rende biler, skal opm\u00e6rkes hurtigst muligt. Hvilket\u00a0...",
+        "size": [
+          600,
+          340
+        ],
+        "date": "2023:12:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://thirstymag.com/sending-12-year-old-to-hospital-3101818.html",
+        "title": "Semi truck and car crash, sending 12-year-old to hospitalthirstymag.comhttps://thirstymag.com \u203a sending-12...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. 09 janeiro 2024.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2024:01:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://phtarkwa.com/Surveillance-Footage-of-Tesla-Crash-on-Bay-Bridge-3144783.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgePentecost Hospital \u2013 Tarkwahttps://phtarkwa.com \u203a Surveillance...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, crash the car - phtarkwa.com.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2024:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://pennynoblepsychotherapy.com/http/klublr.com/ena/cartoon-parked-car-hit-ups",
+        "title": "Cartoon Parked Car Hit Upspennynoblepsychotherapy.comhttp://pennynoblepsychotherapy.com \u203a http \u203a ena \u203a ca...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 Hit by car cartoon\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": "2024:01:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://shop.imlig.com/Surveillance-Footage-of-Tesla-Crash-on-Bay-Bridge-3073260.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgeImlig K\u00e4serei Oberriet AGhttps://shop.imlig.com \u203a Surveillanc...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge ... Elon Musk has said Tesla's problematic autopilot features are \u201creally the\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2024:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.baran-store.ir/DRIFTCE-Review-1636930.html",
+        "title": "DRIFTCE Review, drift game - baran-store.irbaran-store.irhttps://www.baran-store.ir \u203a DRIFT...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. 27 janeiro 2024.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": "2024:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://gbu-presnenskij.ru/?u=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-qq-xpr090uV",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u0416\u0438\u043b\u0438\u0449\u043d\u0438\u043a \u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430https://gbu-presnenskij.ru \u203a 24 yup",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, Demonstrate your dedication to the Phoenix Suns by wearing The Valley Pixel T-shirt from It\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bharatagritech.com/?q=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-xx-mo37a7fm",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgebharatagritech.comhttps://www.bharatagritech.com \u203a 24 yup",
+        "content": "A self-driving Tesla car slammed on its brakes as it entered a tunnel (VIDEO) Royals Blue \u00b7 Surveillance Video Of Bay Bridge Tunnel Crash Caused By Tesla\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/theintercept/status/1612848940554108929?lang=en",
+        "title": "The Intercept on X: \"Exclusive: Surveillance footage of Tesla ...X\u00a0\u00b7\u00a0theintercept240+ likes  \u00b7  1 year ago",
+        "content": "Exclusive: Surveillance footage of Tesla crash on SF's Bay Bridge hours after Elon Musk announces \u201cself-driving\u201d feature\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.poluzzi-track.it/en/company-poluzzi.html/?w=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-rr-zop6x6iM",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgePoluzzi Track System Engineeringhttps://www.poluzzi-track.it \u203a Home \u203a 24 yup",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, Manufacturer This transfer-proof eyeliner pencil glides smoothly on your lash line or\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/rodneyabrooks/status/1613277029423800320?lang=en",
+        "title": "Rodney Brooks on X: \"Surveillance footage of Tesla FSD ...X\u00a0\u00b7\u00a0rodneyabrooks20+ likes  \u00b7  1 year ago",
+        "content": "Surveillance footage of Tesla FSD causing 8 car pile-up on Bay Bridge. Exclusive: Surveillance Footage of Tesla Crash on SF's Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://labelcdesigns.com/?c=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-jj-4bzYQYT1",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgelabelcdesigns.comhttps://labelcdesigns.com \u203a 24 yup",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, Celebrate the hometown of the Phoenix Suns with this 2023/24 City Edition El Valle Crewneck\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thirstymag.com/of-Tesla-Crash-on-Bay-Bridge-3101842.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgethirstymag.comhttps://thirstymag.com \u203a of-Tesla-Crash-on-Bay-Bridg...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, crash the car - thirstymag.com.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://appnox.ai/?g=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-aa-YpZK2Gtd",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgeAppnox.aihttps://appnox.ai \u203a tesla internet im auto",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, \u2713\u3010Car Charging Accessories\u3011Charging car cover could be Good to protect charger when you\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://spip.in.th/?s=footage-of-tesla-phantom-braking-causing-8-car-crash-jj-8Jkrmdsw",
+        "title": "Footage of Tesla phantom braking causing 8-car crash ... - SPIPSatit Prasarnmit International Programmehttps://spip.in.th \u203a pile up or pile-up",
+        "content": "Footage of Tesla phantom braking causing 8-car crash pile-up emerges Electrek. Tesla driver blames self-driving mode for 8-vehicle crash on Bay Bridge.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=BNsp3qhYdl0",
+        "title": "Self-Driving TESLA Failure Causes Huge Car Accident On ...YouTube\u00a0\u00b7\u00a0The Majority Report w/ Sam Seder56K+ views  \u00b7  1 year ago",
+        "content": "The Intercept's Ken Klippenstein obtained footage of a self-driving Tesla car coming to a full stop on the San Francisco Bay Bridge,\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kyberosc.com/?c=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-jj-xOlGx2uJ",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgeKyberOSChttps://kyberosc.com \u203a he owns at most eight cars",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, 1928 Hupmobile Series E Photograph by Paddy Shaffer.",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://copperbowl.de/of-Tesla-Crash-on-Bay-Bridge-3108384.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgecopperbowl.dehttps://copperbowl.de \u203a of-Tesla-Crash-on-Bay-Bridge...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge ... Elon Musk has said Tesla's problematic autopilot features are \u201creally the difference between\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://copperbowl.de/of-Tesla-Crash-on-Bay-Bridge-3108384.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgecopperbowl.dehttps://copperbowl.de \u203a of-Tesla-Crash-on-Bay-Bridge...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge ... Elon Musk has said Tesla's problematic autopilot features are \u201creally the difference between\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.docova.com/i-don-t-care-crashed-my-car-into-a-bridge-k.html",
+        "title": "triumf\u00e1ln\u00ed Rekreace spole\u010dnost i don t care crashed my car ...Docovahttps://www.docova.com \u203a i-don-t-care-crashed-my-ca...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bharatagritech.com/?q=footage-of-tesla-phantom-braking-causing-8-car-crash-xx-OxzGlRf9",
+        "title": "Footage Of Tesla Phantom Braking Causing 8-car Crash, 42 ...bharatagritech.comhttps://www.bharatagritech.com \u203a pile up or pile-up",
+        "content": "Footage of Tesla phantom braking causing 8-car crash pile-up emerges Electrek. Tesla driver blames self-driving mode for 8-vehicle crash on Bay Bridge. Cheap\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://raymichaels.com/?o=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-bb-XDLAE6Io",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgeraymichaels.comhttps://raymichaels.com \u203a crash",
+        "content": "A self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that injured people including a yr old child just hours\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blog.saimoveis.com.br/?o=the-most-expensive-car-in-the-world-at-$142-ll-x3wmDeU6",
+        "title": "The Most Expensive Car In The World At $142 Million 1955 ...S.A. Im\u00f3veishttps://blog.saimoveis.com.br \u203a ...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge.",
+        "size": [
+          1000,
+          989
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dos1.com.ph/?c=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-oo-eO4RqRiq",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgedos1.com.phhttps://dos1.com.ph \u203a 24 yup",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, Celebrate the hometown of the Phoenix Suns with this 2023/24 City Edition El Valle Crewneck\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/Linda__Stevens/status/1744805089683128537",
+        "title": "Linda Stevens on X: \"Exclusive: Surveillance Footage of Tesla ...X\u00a0\u00b7\u00a0Linda__Stevens4 weeks ago",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge https://t.co/AHIAD4JGuo.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.industrialvacuumsystems.com.au/shows-Tesla-accounts-for-most-driver-assist-crashes-3080716.html",
+        "title": "NHTSA data shows Tesla accounts for most driver-assist ...industrialvacuumsystems.com.auhttps://www.industrialvacuumsystems.com.au \u203a shows-...",
+        "content": "NHTSA data shows Tesla accounts for most driver-assist crashes. Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. NHTSA data shows Tesla accounts\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bros.pl/the-Difference-Between-a-Crash-and-an-Accident-3067893.html",
+        "title": "What's the Difference Between a Crash and an Accident?bros.plhttps://bros.pl \u203a the-Difference-Between-a-Crash-and-a...",
+        "content": "What's the Difference Between a Crash and an Accident? Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. What's the Difference Between a Crash\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://portipoh.com.my/?m=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-ss-MpVVa2uK",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgeAPKHuehttps://portipoh.com.my \u203a ...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, Warm and cool dawn colors illuminate the sky and the water, silhouetting the spans of the\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://richtig.cl/?w=top-20-biggest-tesla-crashes-of-2022-ll-aRGm3yUK",
+        "title": "top 20 biggest tesla crashes of 2022 - Richtigrichtig.clhttps://richtig.cl \u203a crashed tesla",
+        "content": "You may also like. Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lunfardo.com.ar/?e=footage-of-tesla-phantom-braking-causing-8-car-crash-zz-4Nr9D1ip",
+        "title": "Footage Of Tesla Phantom Braking Causing 8-car Crash, 53 ...Lunfardo Desarrolladora de Bebidashttps://lunfardo.com.ar \u203a pile up or pile-up",
+        "content": "Footage of Tesla phantom braking causing 8-car crash pile-up emerges Electrek. Tesla driver blames self-driving mode for 8-vehicle crash on Bay Bridge.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=a7PP1Pqs5ko",
+        "title": "Did Tesla Full Self Driving Cause This Crash? - YouTubeYouTube\u00a0\u00b7\u00a0Dirty Tesla49.4K+ views  \u00b7  1 year ago",
+        "content": "Full article: https://theintercept.com/2023/01/10/tesla-crash-footage-autopilot/ \u2600\ufe0fOrdering Tesla Solar? Use one of my Patron's referral\u00a0...",
+        "size": [
+          120,
+          90
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackseven-shop.com/car-crash-images-k.html",
+        "title": "pikaso Te\u017eiti Glad car crash images otvor to\u010dan odu\u0161evljenblackseven-shop.comhttps://blackseven-shop.com \u203a car-crash-images-k",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contratacion.fundovidaips.com/?m=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-yy-L3Elrjhm",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgeFundovidahttps://contratacion.fundovidaips.com \u203a ...",
+        "content": "A self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that injured people including a yr old child just hours\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackseven-shop.com/crash-auto-k.html",
+        "title": "pla\u0107a lekcija Kent crash auto beskraj mozak Ulazblackseven-shop.comhttps://blackseven-shop.com \u203a crash-auto-k",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lacasedeco.com/i-crush-my-car-into-the-bridge-k.html",
+        "title": "kdykoli zmizet Pob\u0159e\u017e\u00ed i crush my car into the bridge Stanice ...La Case D\u00e9cohttps://www.lacasedeco.com \u203a i-crush-my-car-into-the...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kyberosc.com/?c=meet-the-rolls-royce-droptail-probably-the-world-s-jj-rjdnreip",
+        "title": "Meet The Rolls-Royce Droptail, Probably The World's Most, 55 ...KyberOSChttps://kyberosc.com \u203a he owns at most eight cars",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Related products.",
+        "size": [
+          1000,
+          989
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://copperbowl.de/Texas-police-to-demand-Tesla-crash-data-as-Musk-denies-Autopilot-3106196.html",
+        "title": "Texas police to demand Tesla crash data as Musk denies ...copperbowl.dehttps://copperbowl.de \u203a Texas-police-to-demand-Tesla...",
+        "content": "Texas police to demand Tesla crash data as Musk denies Autopilot use, crash cars. ... Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Texas police\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contratacion.fundovidaips.com/?m=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-yy-L3Elrjhm",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgeFundovidahttps://contratacion.fundovidaips.com \u203a ...",
+        "content": "A self-driving Tesla that abruptly stopped on the Bay Bridge, resulting in an eight-vehicle crash that injured people including a yr old child just hours\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackseven-shop.com/crash-auto-k.html",
+        "title": "pla\u0107a lekcija Kent crash auto beskraj mozak Ulazblackseven-shop.comhttps://blackseven-shop.com \u203a crash-auto-k",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lacasedeco.com/i-crush-my-car-into-the-bridge-k.html",
+        "title": "kdykoli zmizet Pob\u0159e\u017e\u00ed i crush my car into the bridge Stanice ...La Case D\u00e9cohttps://www.lacasedeco.com \u203a i-crush-my-car-into-the...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thirstymag.com/shows-what-a-car-crash-would-look-at-various-speeds-689107.html",
+        "title": "Viral videos shows what a car crash would look at various ...thirstymag.comhttps://thirstymag.com \u203a shows-what-a-car-crash-woul...",
+        "content": "Viral videos shows what a car crash would look at various speeds, crash the car meme - thirstymag ... Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mail.anitservice.com.br/?o=mid-bay-bridge-accident-2023-h-Y1mmVjfk",
+        "title": "Mid Bay Bridge Accident 2023 Offers USAanitservice.com.brhttps://mail.anitservice.com.br \u203a ...",
+        "content": "Bay Bridge Accident news Today's latest updates CBS Baltimore , FHP: Motorcyclist killed in crash near Mid-Bay Bridge , Two Niceville Florida seriously\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://copperbowl.de/Texas-police-to-demand-Tesla-crash-data-as-Musk-denies-Autopilot-3106196.html",
+        "title": "Texas police to demand Tesla crash data as Musk denies ...copperbowl.dehttps://copperbowl.de \u203a Texas-police-to-demand-Tesla...",
+        "content": "Texas police to demand Tesla crash data as Musk denies Autopilot use, crash cars. ... Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Texas police\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sharikanath.4livedemo.com/Tesla-Crash-on-Bay-Bridge-3154285.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge4livedemo.comhttps://sharikanath.4livedemo.com \u203a Tesla-Crash-on-B...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge ... Elon Musk has said Tesla's problematic autopilot features are \u201creally the difference between\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://staging.tehnoexport.rs/?w=exclusive-surveillance-footage-of-tesla-crash-on-bay-bridge-yy-VglBwVTo",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay BridgeTehnoexporthttps://staging.tehnoexport.rs \u203a crash",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, Neo Cortex and Tropy are back at it again and launching an all-out assault on not just this\u00a0...",
+        "size": [
+          440,
+          440
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ambassadorhotelhargeisa.com/cars-introduce-new-potential-hazards-in-an-accident-293639.html",
+        "title": "Electric cars introduce new potential hazards in an accidentAmbassador Hotel Hargeisahttps://ambassadorhotelhargeisa.com \u203a cars-introduce-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Electric cars ... Tesla's Autopilot keeps causing its cars to crash - Vox. Electric cars\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mail.anitservice.com.br/?o=elon-musk-s-appetite-for-destruction-the-new-york-hh-Kqw4dID",
+        "title": "Elon Musk's Appetite for Destruction The New York Timesanitservice.com.brhttps://mail.anitservice.com.br \u203a ...",
+        "content": "Tesla stock plunges: Did self-driving tech cause crash? Elon Musk's Appetite for ... Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://charlesjohnson.substack.com/p/why-elon-musks-handlers-suspended",
+        "title": "Why Elon Musk's Handlers Suspended Me From Twitter For ...Substack\u00a0\u00b7\u00a0Charles Johnson's Thoughts and Adventures20+ likes  \u00b7  1 year ago",
+        "content": "theintercept.comExclusive: Surveillance Footage of Tesla Crash on SF's Bay Bridge Hours After Elon Musk Announces \u201cSelf-Driving\u201d FeatureMusk\u00a0...",
+        "size": [
+          600,
+          314
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=E2hY2Jk7lYc",
+        "title": "Self Driving Tesla Causes 8 Car Pileup - YouTubeYouTube\u00a0\u00b7\u00a0Mental Outlaw144.8K+ views  \u00b7  1 year ago",
+        "content": "In this video I discuss the Tesla Model S that caused an eight-car pileup on the Bay Bridge last Thanksgiving ... Tesla Crashes on Full Self\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://el-gendy.com/Surveillance-Footage-of-Tesla-Crash-on-Bay-Bridge-3135460.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgeel-gendy.comhttps://el-gendy.com \u203a Surveillance-Footage-of-Tesla-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, crash the car - el-gendy.com.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.instagram.com/p/CpiWHympq_3/?hl=en",
+        "title": "A Tesla Model S which the driver claimed to be using the 'Self ...Instagram\u00a0\u00b7\u00a0supercar.fails22.5K+ likes  \u00b7  11 months ago",
+        "content": "... 'Self Driving' feature caused an eight-vehicle crash on the San Francisco Bay\u2026 | Instagram. supercar.fails. \u2022. Follow. San Francisco, California.",
+        "size": [
+          1440,
+          1782
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pre-texts.org/Blog-Undertow-Games-2593116.html",
+        "title": "Blog Undertow Games, scp containment breach - pre-texts.orgpre-texts.orghttps://pre-texts.org \u203a Blog-Undertow-Games-2593116",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 \u2713 Toddynho \u00b7 EDP445 Offers Me A CUPCAKE At 3 AM \u00b7 Pin de Marcelo Cabral em Caminh\u00e3o Frases de\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://denzel-patterer.at/?e=cadillac-nears-the-end-for-gas-powered-models-automotive-xx-JqXaooT2",
+        "title": "Cadillac Nears The End For Gas-powered Models Automotive ...denzel-patterer.athttps://denzel-patterer.at \u203a ...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Related products.",
+        "size": [
+          1000,
+          989
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hideawayaurora.com/itemfzwn/38437.phtml",
+        "title": "Gr\u00f3nsko St\u00ednovan\u00e9 P\u0159\u00edsn\u00fd i crash my car into the bridge i dont ...hideawayaurora.comhttps://hideawayaurora.com \u203a itemfzwn",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pre-texts.org/Feed-and-Grow-Fish-NEW-GIANT-LEVEL-200-GOLIATH-FISH-TOO-BIG-FOR-2861992.html",
+        "title": "Feed and Grow Fish - NEW GIANT LEVEL 200 GOLIATH FISH ...pre-texts.orghttps://pre-texts.org \u203a Feed-and-Grow-Fish-NEW-GIA...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 GAZEBOS. \u00a92024 pre-texts.org All rights reserved. Termos de uso Pol\u00edtica de Privacidade e\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hideawayaurora.com/itemxswg/82581.phtml",
+        "title": "Gr\u00f3nsko St\u00ednovan\u00e9 P\u0159\u00edsn\u00fd i crash my car into the bridge i dont ...hideawayaurora.comhttps://hideawayaurora.com \u203a itemxswg",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1000,
+          989
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://centropyme.unso.edu.ar/pile-driving-accidents-k.html",
+        "title": "Hospitality Downtown Contempt pile driving accidents Trunk ...Universidad Nacional Ra\u00fal Scalabrini Ortizhttps://centropyme.unso.edu.ar \u203a pile-driving-accident...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1000,
+          989
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.alwayspureorganics.com/fyoj55400t0bf5.htm",
+        "title": "provide community ability pile driving accidents have Fourth ...alwayspureorganics.comhttps://www.alwayspureorganics.com \u203a ...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contratacion.fundovidaips.com/?m=tesla-totaled-after-crashing-into-pickup-truck-$60-000-yy-5B7VrJhE",
+        "title": "Tesla Totaled After Crashing Into Pickup TruckFundovidahttps://contratacion.fundovidaips.com \u203a ...",
+        "content": "TOP 20 BIGGEST TESLA CRASHES OF 2022 \u00b7 Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.booktripsnow.com/i-crush-my-car-into-the-bridge-k.html",
+        "title": "Obrovsk\u00fd Probl\u00e9m Velmi rozzloben\u00fd i crush my car into the ...booktripsnow.comhttps://www.booktripsnow.com \u203a i-crush-my-car-into-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.booktripsnow.com/i-crush-my-car-into-the-bridge-k.html",
+        "title": "Obrovsk\u00fd Probl\u00e9m Velmi rozzloben\u00fd i crush my car into the ...booktripsnow.comhttps://www.booktripsnow.com \u203a i-crush-my-car-into-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://patienceayeni.com/what-a-car-crash-would-look-at-various-speeds-720066.html",
+        "title": "Viral videos shows what a car crash would look at various ...patienceayeni.comhttps://patienceayeni.com \u203a what-a-car-crash-would-lo...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Viral videos ... Tesla crash: Police say no one was in driver's seat in Texas crash. Viral videos\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mangga77online.com/shows-Tesla-accounts-for-most-driver-assist-crashes-3114023.html",
+        "title": "NHTSA data shows Tesla accounts for most driver-assist ...mangga77online.comhttps://mangga77online.com \u203a shows-Tesla-accounts-f...",
+        "content": "NHTSA data shows Tesla accounts for most driver-assist crashes, crash cars - mangga77online ... Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://oshgu.uz/?o=land-rover-defender-130-seats-eight-priced-under-$70-dd-N1BojPiL",
+        "title": "Land Rover Defender 130 Seats Eight, Priced under $70000oshgu.uzhttps://oshgu.uz \u203a he owns at most eight cars",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge.",
+        "size": [
+          1000,
+          989
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=lmRO9HldP84",
+        "title": "Tesla's Phantom Braking Issue Causes 8 Car Pileup & More ...YouTube\u00a0\u00b7\u00a0The Electric Arena5K+ views  \u00b7  1 year ago",
+        "content": "... Tesla phantom braking causing 8-car crash pile-up emerges. ... Tesla phantom braking causing 8-car crash pile-up emerges. Tesla's Phantom Braking\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://topdriveeletronica.com.br/i-don-t-care-crashed-my-car-into-a-bridge-k.html",
+        "title": "Dop\u0159edu Solidn\u00ed \u017dalobce i don t care crashed my car into a ...topdriveeletronica.com.brhttps://topdriveeletronica.com.br \u203a i-don-t-care-crashe...",
+        "content": "",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://russian.lt/?q=crashed-tesla-d-ZBayqpU9",
+        "title": "Crashed Tesla Shop Prices | russian.ltrussian.lthttps://russian.lt \u203a ...",
+        "content": "... Tesla crash in Florida , Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. ... Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 crashed\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.crunchbase.com/organization/autopilot-2/company_overview/overview_timeline",
+        "title": "Autopilot - Recent News & Activity - CrunchbaseCrunchbasehttps://www.crunchbase.com \u203a overview_timeline",
+        "content": "Tesla recalls over 2 million vehicles to fix defective system that monitors drivers using Autopilot ... crash data. News\u2022 Jun 15, 2022. Techcircle \u2014 Tesla\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.crunchbase.com/organization/autopilot-2/signals_and_news/timeline",
+        "title": "Autopilot - Recent News & Activity - CrunchbaseCrunchbasehttps://www.crunchbase.com \u203a autopilot-2 \u203a timeline",
+        "content": "Tesla Driver Ordered to Pay $23K for Fatal Autopilot Crash. News\u2022 Dec 17 ... Bay Times \u2014 Map: These 16 Tesla crashes are part of a federal investigation into\u00a0...",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bateriasrecreiobarra24hs.com.br/?s=plywood-slices-into-florida-woman-s-car-in-latest-kk-1lyzaKCk",
+        "title": "Plywood Slices Into Florida Woman's Car In Latest, 60% OFFbateriasrecreiobarra24hs.com.brhttps://bateriasrecreiobarra24hs.com.br \u203a ...",
+        "content": "I want my family back in a Tesla' says father after surviving severe crash in a Model X Electrek ... Car seat brand in tesla crash\uff5cTikTok Search. Plywood slices\u00a0...",
+        "size": [
+          960,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://teamster.org/ab316/",
+        "title": "Keep Our Streets Safe. Protect Good Jobs. Require Human ...International Brotherhood of Teamstershttps://teamster.org \u203a ...",
+        "content": "Require Human Safety Operators. 12323SB141tesla-crash-feature. Right now, legislators in Sacramento have the opportunity to stand up for public safety and to\u00a0...",
+        "size": [
+          2000,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://teamster.org/keep-our-streets-safe-protect-our-families-require-human-safety-operators/",
+        "title": "Keep Our Streets Safe. Protect Our Families. Require Human ...International Brotherhood of Teamstershttps://teamster.org \u203a keep-our-streets-safe-protect-our...",
+        "content": "Require Human Safety Operators. 12323SB141tesla-crash-feature. Right now, legislators in Indianapolis have the opportunity to stand up for public safety and to\u00a0...",
+        "size": [
+          2000,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://courses.grainger.illinois.edu/CS441/sp2023/lectures/Lecture%2001%20-%20Introduction%20to%20AML.pdf",
+        "title": "CS441 Applied Machine Learning - Course WebsitesUniversity of Illinois Urbana-Champaignhttps://courses.grainger.illinois.edu \u203a lectures",
+        "content": "Tesla accident. Page 15. 3. Appreciation for your own constantly learning mind. Page 16. Course outline. Prof: Derek Hoiem dhoiem@illinois.edu. TAs. \u2022 Vatsal\u00a0...",
+        "size": [
+          1533,
+          767
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ar.inspiredpencil.com/pictures-2023/most-dangerous-accident-videos",
+        "title": "Most Dangerous Accident Videos - ar.inspiredpencil.comar.inspiredpencil.comhttps://ar.inspiredpencil.com \u203a pictures-2023 \u203a most-d...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          989
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/dashcam-crashes-compilation",
+        "title": "dashcam crashes compilation\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "#dashcamvideos #dashcam #crash #fy #foryou #foryoupage #fyp #viraltiktok #dashcamcrash #crashes ... bridge crashPalace pertex puffa beanieKiller tomatoes at\u00a0...",
+        "size": [
+          100,
+          100
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.instagram.com/kenklipp/?hl=en",
+        "title": "Ken Klippenstein (@kenklipp) \u2022 Instagram photos and videosInstagram\u00a0\u00b7\u00a0kenklipp28K+ followers",
+        "content": "",
+        "size": [
+          1080,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/bus-crash-video-cam",
+        "title": "bus crash video cam\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "510. The clip with the bus   #dashcamvideos #dashcam #crash #tramcrash #fyp ... bayapp is to watch trolls twohow did autumn and matthew broke upmix vpn x\u00a0...",
+        "size": [
+          100,
+          100
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://eightify.app/summary/automotive-technology/tesla-s-full-self-driving-beta-causes-8-car-pileup-risks-of-unstable-software",
+        "title": "Tesla's Full Self-Driving Beta Causes 8 Car Pileup - EightifyEightifyhttps://eightify.app \u203a summary \u203a automotive-technology",
+        "content": "... collision avoidance systems with automated braking and swerving in vehicles manufactured after 2010.. 04:47. Tesla drivers may be more prone to accidents\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/tag/tramcrash",
+        "title": "#tramcrash | TikTokTikTokhttps://www.tiktok.com \u203a tag \u203a tramcrash",
+        "content": "tram crash | 7.7M views. Watch the latest videos about #tramcrash on TikTok.",
+        "size": [
+          100,
+          100
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/Mercedes-crash-russian-song",
+        "title": "Mercedes crash russian song\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "Discover videos related to Mercedes crash russian song on TikTok.",
+        "size": [
+          100,
+          100
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.instagram.com/ah.nouh/?hl=en",
+        "title": "ah.nouh - Autofandi - InstagramInstagram\u00a0\u00b7\u00a0ah.nouh128K+ followers",
+        "content": "",
+        "size": [
+          750,
+          1334
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hamadcpa.com/worst-color-car-for-accidents-k.html",
+        "title": "sintomo Ruggito culto worst color car for accidents Montagna ...hamadcpa.comhttps://hamadcpa.com \u203a worst-color-car-for-accidents-k",
+        "content": "",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tonicradio.fr/deuxieme-match-et-deuxieme-defaite-pour-lasvel/?m=airbags-deployed-in-2-3-vehicle-crash-on-i-rr-PzYNBPib",
+        "title": "Airbags Deployed In 2-3 Vehicle Crash On I-75 NB Near, 42 ...Prizm Institutehttps://www.tonicradio.fr \u203a Home \u203a tre-1s-75nb",
+        "content": "Airbags deployed in 2-3 vehicle crash on I-75 NB near Galbraith Road. 4.6. (60) ... Tesla airbag didn't deploy during a major car accident r/TeslaLounge. Replace\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://eightify.app/summary/automotive-technology",
+        "title": "Automotive Technology Summaries - EightifyEightifyhttps://eightify.app \u203a ... \u203a Should these 10 car trends DIE?!",
+        "content": "",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://in.thptnganamst.edu.vn/share-30-images-speeding-porsche-cuts-girl-in-half/",
+        "title": "Share 30+ images speeding porsche cuts girl in halfIn.thptnganamst.edu.vnhttps://in.thptnganamst.edu.vn \u203a share-30-images-spee...",
+        "content": "",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://charlesjohnson.substack.com/archive?sort=top",
+        "title": "Archive - Charles Johnson's Thoughts and AdventuresCharles Johnson's Thoughts and Adventureshttps://charlesjohnson.substack.com \u203a archive",
+        "content": "",
+        "size": [
+          600,
+          314
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.charminarmi.com/of-Tesla-Crash-on-Bay-Bridge-3145102.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgecharminarmi.comhttps://www.charminarmi.com \u203a of-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, crash the car - charminarmi.com.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://in.thptnganamst.edu.vn/share-30-images-speeding-porsche-cuts-girl-in-half/",
+        "title": "Share 30+ images speeding porsche cuts girl in halfIn.thptnganamst.edu.vnhttps://in.thptnganamst.edu.vn \u203a share-30-images-spee...",
+        "content": "",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.charminarmi.com/of-Tesla-Crash-on-Bay-Bridge-3145102.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgecharminarmi.comhttps://www.charminarmi.com \u203a of-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, crash the car - charminarmi.com.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://twitter.com/theintercept/status/1612848940554108929?lang=ar-x-fm",
+        "title": "X \\ The Intercept \u0639\u0644\u0649 X: \"Exclusive: Surveillance footage of ...X\u00a0\u00b7\u00a0theintercept240+ likes  \u00b7  1 year ago",
+        "content": "Exclusive: Surveillance footage of Tesla crash on SF's Bay Bridge hours after Elon Musk announces \u201cself-driving\u201d feature\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://tripsclothing.store/Exclusive-Surveillance-Footage-of-Tesla-Crash-on-Bay-Bridge-3154712.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgetripsclothing.storehttps://tripsclothing.store \u203a Exclusiv...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge, crash the car - tripsclothing.store.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://ledvietnguyen.com/Exclusive-Surveillance-Footage-of-Tesla-Crash-on-Bay-Bridge-3101014.html",
+        "title": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridgeledvietnguyen.comhttps://ledvietnguyen.com \u203a Exclusi...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge ... Elon Musk has said Tesla's problematic autopilot features are \u201creally the difference between\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://pexind.com/shows-what-a-car-crash-would-look-at-various-speeds-740234.html",
+        "title": "Viral videos shows what a car crash would look at various ...pexind.comhttps://pexind.com \u203a shows-what-a-...",
+        "content": " \u00b7 ",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://mabellabrasil.com.br/crash-in-Sun-Valley-under-investigation-125884.html",
+        "title": "Fatal Thanksgiving day car crash in Sun Valley under ...mabellabrasil.com.brhttps://mabellabrasil.com.br \u203a crash-...",
+        "content": "Fatal Thanksgiving day car crash in Sun Valley under investigation. Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Fatal Thanksgiving day car\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://grupomontes.com.ar/Coisas-para-desenhar-Goku-super-saiyan-Desenho-3d-896995.html",
+        "title": "Goku SSJ2 Coisas para desenhar, Goku super saiyan ...grupomontes.com.arhttps://grupomontes.com.ar \u203a ...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Ratchet and Clank: BTN \u2013 Apps on Google Play. Ice Scream 4: Rods Factory na App Store. Distrito\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://bethleem.mu/Melhor-dos-Animes-Pelo-visto-teremos-1424616.html",
+        "title": "Melhor dos Animes - Pelo visto, teremos muitasbethleem.muhttps://bethleem.mu \u203a Melhor-dos-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Hitman Reborn Action Figures, Reborn Hitman Anime Figures. Calculadora Preta Cient\u00edfica 240\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.marazulseguros.com.br/Crash-of-Cars-Crash-of-Cars-Mid-Year-Update-is-now-live-605556.html",
+        "title": "Crash of Cars Mid-Year Update is now live!marazulseguros.com.brhttps://www.marazulseguros.com.br \u203a ...",
+        "content": "Crash of Cars - Crash of Cars Mid-Year Update is now live! Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Crash of Cars - Crash of Cars Mid\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lebenshilfswerk-waren.de/extLink/http:/fra.animalia-life.club/accident-du-mod%C3%A8le-Tesla",
+        "title": "Accident Du Mod\u00e8le Tesla - Lebenshilfswerk WarenLebenshilfswerk Warenhttps://www.lebenshilfswerk-waren.de \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://livebuild.vandeneeckhoutjan.be/First-Cars-3-reactions-crash-in-3683054.html",
+        "title": "First Cars 3 reactions crash invandeneeckhoutjan.behttps://livebuild.vandeneeckhoutjan.be \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.saharainn.net/Cars-Crash-of-Cars-Mid-Year-Update-is-now-live-609611.html",
+        "title": "Crash of Cars Mid-Year Update is now live! - saharainn.netsaharainn.nethttps://www.saharainn.net \u203a Cars-Cr...",
+        "content": " \u00b7 ",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.arkaduyti.org/crash-auto",
+        "title": "Inspiracija remek djelo Nezaboravan crash auto - arkaduyti.orgarkaduyti.orghttps://www.arkaduyti.org \u203a crash-a...",
+        "content": "... Crash - Ogborn Mihm LLP. atleti\u010dar Veli\u010danstven Fjord Exclusive\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://energizasun.com.br/auto-site-s-k.html",
+        "title": "Prestige wij Fascineren auto site s variabel regel pompenergizasun.com.brhttps://energizasun.com.br \u203a auto-sit...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://ensure.growthsubtotal.com/Motors-Unveils-New-Program-to-Help-Drivers-Keep-their-Cars-on-2668170.html",
+        "title": "Motors Unveils New Program to Help Drivers Keep their Cars ongrowthsubtotal.comhttps://ensure.growthsubtotal.com \u203a ...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Motors Unveils New Program to Help Drivers Keep their Cars on. A Chinese man checks out a car\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://omygod.be/Latest-version-1-25-0-com-imangi-templerun-3620836.html",
+        "title": "Temple Run Apk Download for Android- Latest version 1.25.0Omygod \u2013 Vormgevershttps://omygod.be \u203a Latest-version-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. 05 janeiro 2024.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://cirurgiaplasticadabarra.com.br/Concei-o-P-s-jogo-FC-Porto-x-Shakhtar-1842987.html",
+        "title": "Francisco Concei\u00e7\u00e3o, P\u00f3s-jogo FC Porto x Shakhtarcirurgiaplasticadabarra.com.brhttps://cirurgiaplasticadabarra.com.br \u203a ...",
+        "content": "Placa de v\u00eddeo: como saber se est\u00e1 com problema? Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 Paddle Shift Manopla Volante Esq. Jaguar Land\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://ensure.growthsubtotal.com/Motors-Unveils-New-Program-to-Help-Drivers-Keep-their-Cars-on-2668170.html",
+        "title": "Motors Unveils New Program to Help Drivers Keep their Cars ongrowthsubtotal.comhttps://ensure.growthsubtotal.com \u203a ...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. Motors Unveils New Program to Help Drivers Keep their Cars on. A Chinese man checks out a car\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://omygod.be/Latest-version-1-25-0-com-imangi-templerun-3620836.html",
+        "title": "Temple Run Apk Download for Android- Latest version 1.25.0Omygod \u2013 Vormgevershttps://omygod.be \u203a Latest-version-...",
+        "content": "Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge. 05 janeiro 2024.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://cirurgiaplasticadabarra.com.br/Concei-o-P-s-jogo-FC-Porto-x-Shakhtar-1842987.html",
+        "title": "Francisco Concei\u00e7\u00e3o, P\u00f3s-jogo FC Porto x Shakhtarcirurgiaplasticadabarra.com.brhttps://cirurgiaplasticadabarra.com.br \u203a ...",
+        "content": "Placa de v\u00eddeo: como saber se est\u00e1 com problema? Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 Paddle Shift Manopla Volante Esq. Jaguar Land\u00a0...",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.lacasadelcerro.com.py/www-auto-24-k.html",
+        "title": "piparminttu Kampaaja Autonominen www auto 24 Ty\u00f6tarjous ...La Casa del Cerro \u2013 Hotel Boutiquehttps://www.lacasadelcerro.com.py \u203a ...",
+        "content": "Carroll Shelby Would Have Been 100 Today. \u00b7 Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge \u00b7 CARS24 Australia- Buy & Sell Used Cars Online | Second\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://zingnews.vn/cao-t%C3%B4c-tin-tuc/trang55.html",
+        "title": "cao toc - Tin t\u1ee9c t\u1ee9c online 24h v\u1ec1 cao t\u00f4c - ZnewsZnewshttps://zingnews.vn \u203a trang55",
+        "content": "2. B\u1ed9 GTVT v\u1eeba c\u00f3 v\u0103n b\u1ea3n tr\u1ea3 l\u1eddi li\u00ean quan \u0111\u1ebfn ki\u1ebfn ngh\u1ecb quan t\u00e2m ch\u1ee7 tr\u01b0\u01a1ng x\u00e2y d\u1ef1ng s\u00e2n bay Ph\u00f9 C\u00e1t th\u00e0nh s\u00e2n bay qu\u1ed1c t\u1ebf. ... Xe Tesla t\u1ef1 l\u00e1i g\u00e2y tai n\u1ea1n li\u00ean\u00a0...",
+        "size": [
+          360,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.bic-iq.com/i-crash-my-car-into-the-bridge-i-dont-care-k.html",
+        "title": "sm\u011bs pokladna Nen\u00ed podstatn\u00e9 i crash my car into the bridge i ...bic-iq.comhttps://www.bic-iq.com \u203a i-crash-m...",
+        "content": "Home. sm\u011bs pokladna Nen\u00ed podstatn\u00e9 i crash my car into the bridge i dont care Kdokoliv Ministr bolest hlavy. Exclusive: Surveillance Footage of Tesla Crash\u00a0...",
+        "size": [
+          1000,
+          989
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://mangga77online.com/Cars-Crash-of-Cars-Mid-Year-Update-is-now-live-634136.html",
+        "title": "Crash of Cars Mid-Year Update is now live!mangga77online.comhttps://mangga77online.com \u203a Cars-...",
+        "content": "Crash of Cars - Crash of Cars Mid ... Crash of Cars - Crash of Cars Mid-Year Update is now live! Exclusive: Surveillance Footage of Tesla Crash on Bay Bridge.",
+        "size": [
+          1500,
+          750
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.tomsguide.fr/une-tesla-sarrete-net-un-plein-milieu-de-lautoroute-javais-peur-quon-me-percute/",
+        "title": "Une Tesla s'arr\u00eate net un plein milieu de l'autoroute, \"j'avais ...Toms Guidehttps://www.tomsguide.fr \u203a une-tesl...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.tuttosport.com/news/motori/2023/01/25-102717709/maxi_incidente_con_8_auto_e_9_feriti_colpa_della_guida_autonoma_di_tesla_",
+        "title": "Maxi incidente con 8 auto e 9 feriti: colpa della guida ...Tuttosporthttps://www.tuttosport.com \u203a 2023/01",
+        "content": "",
+        "size": [
+          2000,
+          1000
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://smoney.vn/tesla-khien-ca-doi-thu-va-khach-hang-phat-sot-khi-giam-gia-xe-dien-toi-20-tren-toan-cau-post699742.html",
+        "title": "Tesla khi\u1ebfn c\u1ea3 \u0111\u1ed1i th\u1ee7 v\u00e0 kh\u00e1ch h\u00e0ng ph\u00e1t s\u1ed1t khi gi\u1ea3m gi\u00e1 xe ...Smoney.vnhttps://smoney.vn \u203a tesla-khien-ca-...",
+        "content": "H\u00e3ng Tesla Inc (TSLA.O) \u0111\u00e3 gi\u1ea3m gi\u00e1 xe \u0111i\u1ec7n c\u1ee7a m\u00ecnh tr\u00ean to\u00e0n c\u1ea7u v\u1edbi m\u1ee9c gi\u1ea3m l\u00ean t\u1edbi 20%, ti\u1ebfp t\u1ee5c ch\u01b0\u01a1ng tr\u00ecnh gi\u1ea3m gi\u00e1 m\u1ea1nh m\u1ebd. ... Th\u1ee9 b\u1ea3y, ng\u00e0y 14/01/23 - 18:14. H\u00e3ng Tesla Inc (TSLA.O) \u0111\u00e3 gi\u1ea3m gi\u00e1 xe\u00a0...",
+        "size": [
+          300,
+          150
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://znews.vn/%C3%B4t%C3%B4-g%C3%A2y-tai-n%E1%BA%A1n-li%C3%AAn-ho%C3%A0n-tin-tuc.html",
+        "title": "Tin t\u1ee9c t\u1ee9c online 24h v\u1ec1 \u00f4t\u00f4 g\u00e2y tai n\u1ea1n li\u00ean ho\u00e0n - ZnewsZnewshttps://znews.vn \u203a \u00f4t\u00f4-g\u00e2y-tai-n\u1ea1n-l...",
+        "content": "Xe Tesla tu lai gay ra vu tai nan lien han va khien 8 chiec oto \u00b7 Xe Tesla t\u1ef1 l\u00e1i g\u00e2y ra v\u1ee5 tai n\u1ea1n li\u00ean h\u1ea1n v\u00e0 khi\u1ebfn 8 chi\u1ebfc \u00f4t\u00f4 ch\u1ed3ng ch\u1ea5t l\u00ean nhau. 11:36 11\u00a0...",
+        "size": [
+          360,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "af",
+        "link": "https://www.instagram.com/kenklipp/?next=%2Fvladrazikov%2F&hl=af",
+        "title": "Ken Klippenstein (@kenklipp) \u2022 Instagram-foto's en -video'sInstagram\u00a0\u00b7\u00a0kenklipp28K+ followers",
+        "content": "",
+        "size": [
+          1080,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://goldfizh.nl/EUA-abre-investiga-o-sobre-piloto-autom-tico-da-Tesla-ap-s-635962.html",
+        "title": "EUA abre investiga\u00e7\u00e3o sobre piloto autom\u00e1tico da Tesla ap\u00f3s ...Goldfizhhttps://goldfizh.nl \u203a EUA-abre-inve...",
+        "content": "",
+        "size": [
+          2560,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://znews.vn/tai-n%E1%BA%A1n-qu%E1%BA%ADn-12-tin-tuc.html",
+        "title": "tai nan quan 12 - Tin t\u1ee9c t\u1ee9c online 24h v\u1ec1 tai n\u1ea1n qu\u1eadn 12Znewshttps://znews.vn \u203a tai-n\u1ea1n-qu\u1eadn-12-...",
+        "content": "",
+        "size": [
+          360,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "da",
+        "link": "https://www.teslatip.dk/tag/tesla/",
+        "title": "Tesla Arkiv - TeslaTip.dk - Tips til din Teslateslatip.dkhttps://www.teslatip.dk \u203a tag \u203a tesla",
+        "content": "S\u00e6t din Collision Warning til Early (Dette vil informere din Tesla om at foran eller bagvedk\u00f8rende biler, skal opm\u00e6rkes hurtigst muligt. Hvilket ogs\u00e5 giver dig\u00a0...",
+        "size": [
+          600,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "da",
+        "link": "https://www.teslatip.dk/tag/tesla/",
+        "title": "Tesla Arkiv - TeslaTip.dk - Tips til din Teslateslatip.dkhttps://www.teslatip.dk \u203a tag \u203a tesla",
+        "content": "S\u00e6t din Collision Warning til Early (Dette vil informere din Tesla om at foran eller bagvedk\u00f8rende biler, skal opm\u00e6rkes hurtigst muligt. Hvilket ogs\u00e5 giver dig\u00a0...",
+        "size": [
+          600,
+          340
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://www.vezess.hu/tesla/model-s/",
+        "title": "Tesla Model S - VezessVezesshttps://www.vezess.hu \u203a Tesla",
+        "content": "Ez most a legolcs\u00f3bb Tesla a piacon, de van vele egy \u201ekis\u201d b\u00f6kken\u0151. Kov\u00e1ts ... Ism\u00e9t kudarcot vallhatott a Tesla \u2013 a t\u0171zolt\u00f3aut\u00f3t sem vette \u00e9szre? Kov\u00e1ts\u00a0...",
+        "size": [
+          340,
+          227
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://goldfizh.nl/EUA-abre-investiga-o-sobre-piloto-autom-tico-da-Tesla-ap-s-635962.html",
+        "title": "EUA abre investiga\u00e7\u00e3o sobre piloto autom\u00e1tico da Tesla ap\u00f3s ...Goldfizhhttps://goldfizh.nl \u203a EUA-abre-inve...",
+        "content": "",
+        "size": [
+          2560,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://www.vezess.hu/cimke/tesla-model-s/",
+        "title": "Tesla Model S - VezessVezesshttps://www.vezess.hu \u203a cimke \u203a tes...",
+        "content": "#Tesla Model S. L\u00e1tv\u00e1nyra is kigy\u00fart\u00e1k a leger\u0151sebb Tesl\u00e1t \u00b7 Sv\u00e9kus Gerg\u0151 \u00b7 L\u00e1tv\u00e1nyra is kigy\u00fart\u00e1k a leger\u0151sebb Tesl\u00e1t \u00b7 Ez most a legolcs\u00f3bb Tesla a piacon\u00a0...",
+        "size": [
+          340,
+          227
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://turbowaybr.tumblr.com/post/664340418400534528/leia-a-hist%C3%B3ria-do-volkswagen-fox-que-deixou-de",
+        "title": "Leia a hist\u00f3ria do Volkswagen Fox, que deixou de... - TurbowayTumblrhttps://turbowaybr.tumblr.com \u203a post",
+        "content": "",
+        "size": [
+          1200,
+          545
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.turboway.com.br/video-tesla-para-sozinho-e-causa-engavetamento-em-tunel/",
+        "title": "V\u00eddeo: Tesla para sozinho e causa engavetamento em t\u00fanelTurbowayhttps://www.turboway.com.br \u203a vid...",
+        "content": "",
+        "size": [
+          696,
+          316
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://turbowaybr.tumblr.com/",
+        "title": "TurbowayTumblrhttps://turbowaybr.tumblr.com",
+        "content": "",
+        "size": [
+          1200,
+          545
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://tefuk.org/epsfu/d682814.html",
+        "title": "money Surprisingly Pamphlet \u0627\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u0633\u064a\u0627\u0631\u0629 violin ...tefuk.orghttps://tefuk.org \u203a epsfu",
+        "content": "\u0628\u0627\u0644\u0635\u0648\u0631.. \u00b7 \u062a\u0635\u0627\u062f\u0645 200 \u0645\u0631\u0643\u0628\u0629 \u0641\u064a \u0623\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u0645\u0631\u0648\u0631\u064a \u0628\u0627\u0644\u0635\u064a\u0646 \u00b7 \u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648: \u0623\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u0644\u0627\u0646\u0642\u0644\u0627\u0628 \u0633\u064a\u0627\u0631\u0629 \u062a\u0642\u0648\u062f\u0647\u0627 \u0641\u062a\u0627\u0629 \u0641\u064a \u0645\u0635\u0631 | \u0648\u0643\u0627\u0644\u0629 \u0633\u0648\u0627 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629 \u00b7 \u0628\u0627\u0644\u0635\u0648\u0631\" \u0634\u0627\u0647\u062f 15 \u062d\u0627\u062f\u062b \u0645\u0646 \u0627\u063a\u0631\u0628\u00a0...",
+        "size": [
+          701,
+          466
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://incar.tw/post/tag/fsd-%E5%AE%8C%E5%85%A8%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B",
+        "title": "FSD \u5b8c\u5168\u81ea\u52d5\u99d5\u99db - \u766e\u8eca\u5831\u766e\u8eca\u5831https://incar.tw \u203a post \u203a tag \u203a fsd-\u5b8c...",
+        "content": "TESLA FSD(Full Self-Driving\u5b8c\u5168\u81ea\u52d5\u99d5\u99db)\u7cfb\u7d71\u662f\u7279\u65af\u62c9\u53ef\u4ee5\u548c\u5c0d\u624b\u62c9\u958b\u8ddd\u96e2\u7684\u6b66\u5668\u4e4b\u4e00\uff0c\u4e5f\u8b93\u7279\u7c89\u6700\u70ba\u5439\u6367\u548c\u7d1b\u7d1b\u4ee5\u8eab\u5be6\u6e2c\uff0c\u7576\u7136\u9019\u7cfb\u7d71\u5728\u5927\u90e8\u4efd\u7684\u60c5\u6cc1\u4e0b\u2026",
+        "size": [
+          1082,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://incar.tw/post/tag/%E7%89%B9%E6%96%AF%E6%8B%89/page/5",
+        "title": "\u7279\u65af\u62c9\u2013 \u7b2c5 \u9801 - \u766e\u8eca\u5831\u766e\u8eca\u5831https://incar.tw \u203a tag \u203a \u7279\u65af\u62c9 \u203a page",
+        "content": "Tesla \u53ef\u4ee5\u77ed\u66ab\u7684\u7576\u8239\u958b\u662fElon Musk\u81ea\u5df1\u5728Twitter \u4e0a\u9762\u8aaa\u7684\uff0c\u96d6\u7136\u4ed6\u53e3\u982d\u4e0a\u8aaa\u4e0d\u5efa\u8b70\uff0c\u4f46\u5728\u6628\u5929\u4ed6\u53c8\u81ea\u5df1\u8f49\u63a8\u4e86\u4e00\u6bb5Model 3 \u6d89\u6c34\u5f71\u7247\uff0c\u770b\u4f86\u9084\u662f\u9817\u70ba\u81ea\u8c6a\u2026",
+        "size": [
+          1082,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://windowaddesigns.com/EUA-abre-investiga-o-sobre-piloto-autom-tico-da-Tesla-ap-s-712252.html",
+        "title": "EUA abre investiga\u00e7\u00e3o sobre piloto autom\u00e1tico da Tesla ap\u00f3s ...windowaddesigns.comhttps://windowaddesigns.com \u203a EU...",
+        "content": " \u00b7 ",
+        "size": [
+          2560,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.newsauto.gr/tag/autopilot/",
+        "title": "Autopilot | NewsAuto.grNewsAuto.grhttps://www.newsauto.gr \u203a tag \u203a aut...",
+        "content": "\u039f\u03b9 \u03b3\u03ac\u03c4\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03bb\u03cd \u03ad\u03be\u03c5\u03c0\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03ac\u03bc\u03c0\u03bf\u03c3\u03b5\u03c2 \u03b6\u03c9\u03ad\u03c2 \u03bd\u03b1 \u03be\u03bf\u03b4\u03ad\u03c8\u03bf\u03c5\u03bd. \u039f \u03bf\u03b4\u03b7\u03b3\u03cc\u03c2 \u03b1\u03c5\u03c4\u03bf\u03cd \u03c4\u03bf\u03c5 Tesla \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b4\u03cd\u03bf. 24/01/2023\u00a0...",
+        "size": [
+          1000,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://turbowaybr.tumblr.com/post/664340418400534528/leia-a-hist%C3%B3ria-do-volkswagen-fox-que-deixou-de",
+        "title": "Leia a hist\u00f3ria do Volkswagen Fox, que deixou de... - TurbowayTumblrhttps://turbowaybr.tumblr.com \u203a post",
+        "content": "",
+        "size": [
+          1200,
+          545
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.turboway.com.br/video-tesla-para-sozinho-e-causa-engavetamento-em-tunel/",
+        "title": "V\u00eddeo: Tesla para sozinho e causa engavetamento em t\u00fanelTurbowayhttps://www.turboway.com.br \u203a vid...",
+        "content": "",
+        "size": [
+          696,
+          316
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://turbowaybr.tumblr.com/",
+        "title": "TurbowayTumblrhttps://turbowaybr.tumblr.com",
+        "content": "",
+        "size": [
+          1200,
+          545
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.turboway.com.br/video-tesla-para-sozinho-e-causa-engavetamento-em-tunel/",
+        "title": "V\u00eddeo: Tesla para sozinho e causa engavetamento em t\u00fanelTurbowayhttps://www.turboway.com.br \u203a vid...",
+        "content": "",
+        "size": [
+          696,
+          316
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://turbowaybr.tumblr.com/",
+        "title": "TurbowayTumblrhttps://turbowaybr.tumblr.com",
+        "content": "",
+        "size": [
+          1200,
+          545
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://acboonline.com/%D8%A7%D8%BA%D8%B1%D8%A8-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-k.html",
+        "title": "\u0627\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u0633\u064a\u0627\u0631\u0629 \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645acboonline.comhttps://acboonline.com \u203a \u0627\u063a\u0631\u0628-\u062d\u0627\u062f\u062b-...",
+        "content": "\u0645\u0648\u0642\u0639 \u062e\u0628\u0631\u0646\u064a : \u0627\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u0633\u064a\u0631 \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645 - \u0635\u0648\u0631 \u00b7 \u0641\u064a\u062f\u064a\u0648 \u0635\u0627\u062f\u0645.. \u00b7 \u0641\u064a\u062f\u064a\u0648 .. \u00b7 \u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648: \u0634\u0627\u0647\u062f \u0623\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u0633\u064a\u0631 \u0634\u0647\u062f\u062a\u0647 \u0645\u062f\u064a\u0646\u0629 \u0623\u0628\u0648 \u0638\u0628\u064a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629! \u00b7 \u0634\u0627\u0647\u062f \u0635\u0648\u0631 \u0623\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u0642\u064a\u0627\u062f\u0629 \u0644\u0633\u064a\u062f\u0629.",
+        "size": [
+          460,
+          306
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://croftdentalpractice.co.uk/Google-causa-primeiro-acidente-Tecnologia-1566072.html",
+        "title": "Carro do Google causa primeiro acidente, Tecnologiacroftdentalpractice.co.ukhttps://croftdentalpractice.co.uk \u203a G...",
+        "content": " \u00b7 ",
+        "size": [
+          2560,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.packagecontainers.com/%D8%A7%D8%BA%D8%B1%D8%A8-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-k.html",
+        "title": "\u0627\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u0633\u064a\u0627\u0631\u0629 \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645Package Containershttps://www.packagecontainers.com \u203a ...",
+        "content": "\u0634\u0627\u0647\u062f ..\u0623\u063a\u0631\u0628 \u062d\u0627\u062f\u062b \u062a\u0635\u0627\u062f\u0645 \u0633\u064a\u0627\u0631\u062a\u064a\u0646 \u0641\u064a \u0627\u0644\u064a\u0645\u0646 \u0628\u064a\u0646 \u0627\u0644\u0623\u0628 \u0648\u0627\u0628\u0646\u0647 \u0641\u064a \u0634\u0628\u0648\u0629 \u0623\u062f\u0649 \u0625\u0644\u0649 \u0648\u0641\u0627\u062a\u0647\u0645\u0627 | \u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0639\u0631\u0628. \u0623\u063a\u0631\u0628 \u062d\u0627\u062f\u062b.. \u0633\u064a\u0627\u0631\u0629 \u062a\u0639\u062a\u0644\u064a \u0633\u0648\u0631 \u0641\u064a \u062c\u062f\u0629 \u0648\u0633\u0639\u0648\u062f\u064a\u0648\u0646 \u064a\u062a\u0646\u062f\u0631\u0648\u0646 - \u0648\u0637\u0646\u00a0...",
+        "size": [
+          460,
+          306
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://incar.tw/post/tag/fsd-%E5%AE%8C%E5%85%A8%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B",
+        "title": "FSD \u5b8c\u5168\u81ea\u52d5\u99d5\u99db - \u766e\u8eca\u5831\u766e\u8eca\u5831https://incar.tw \u203a post \u203a tag \u203a fsd-\u5b8c...",
+        "content": "TESLA FSD(Full Self-Driving\u5b8c\u5168\u81ea\u52d5\u99d5\u99db)\u7cfb\u7d71\u662f\u7279\u65af\u62c9\u53ef\u4ee5\u548c\u5c0d\u624b\u62c9\u958b\u8ddd\u96e2\u7684\u6b66\u5668\u4e4b\u4e00\uff0c\u4e5f\u8b93\u7279\u7c89\u6700\u70ba\u5439\u6367\u548c\u7d1b\u7d1b\u4ee5\u8eab\u5be6\u6e2c\uff0c\u7576\u7136\u9019\u7cfb\u7d71\u5728\u5927\u90e8\u4efd\u7684\u60c5\u6cc1\u4e0b\u2026",
+        "size": [
+          1082,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://incar.tw/post/tag/%E7%89%B9%E6%96%AF%E6%8B%89/page/5",
+        "title": "\u7279\u65af\u62c9\u2013 \u7b2c5 \u9801 - \u766e\u8eca\u5831\u766e\u8eca\u5831https://incar.tw \u203a tag \u203a \u7279\u65af\u62c9 \u203a page",
+        "content": "Tesla \u53ef\u4ee5\u77ed\u66ab\u7684\u7576\u8239\u958b\u662fElon Musk\u81ea\u5df1\u5728Twitter \u4e0a\u9762\u8aaa\u7684\uff0c\u96d6\u7136\u4ed6\u53e3\u982d\u4e0a\u8aaa\u4e0d\u5efa\u8b70\uff0c\u4f46\u5728\u6628\u5929\u4ed6\u53c8\u81ea\u5df1\u8f49\u63a8\u4e86\u4e00\u6bb5Model 3 \u6d89\u6c34\u5f71\u7247\uff0c\u770b\u4f86\u9084\u662f\u9817\u70ba\u81ea\u8c6a\u2026",
+        "size": [
+          1082,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "auto_showroom",
+        "ioclass": "indoor",
+        "probability": 0.4129526615142822
+      },
+      {
+        "class": "parking_garage/indoor",
+        "ioclass": "indoor",
+        "probability": 0.1864779144525528
+      },
+      {
+        "class": "auto_factory",
+        "ioclass": "indoor",
+        "probability": 0.14904069900512695
+      },
+      {
+        "class": "assembly_line",
+        "ioclass": "indoor",
+        "probability": 0.07424883544445038
+      },
+      {
+        "class": "repair_shop",
+        "ioclass": "indoor",
+        "probability": 0.051908887922763824
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.7687907218933105
+      },
+      {
+        "class": "busy",
+        "score": 0.7340396642684937
+      },
+      {
+        "class": "glowing",
+        "score": 0.6257800459861755
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.6152896881103516
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.5854805707931519
+      },
+      {
+        "class": "season/winter",
+        "score": 0.563003659248352
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5282586216926575
+      },
+      {
+        "class": "dirty",
+        "score": 0.5232378244400024
+      },
+      {
+        "class": "moist",
+        "score": 0.5091211199760437
+      },
+      {
+        "class": "ice",
+        "score": 0.5008367300033569
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 755,
+        "pred_lat": 48.79351043701172,
+        "pred_long": 9.187312126159668
+      },
+      "middle": {
+        "pred_class": 4431,
+        "pred_lat": 51.50595474243164,
+        "pred_long": 0.030865659937262535
+      },
+      "fine": {
+        "pred_class": 6146,
+        "pred_lat": 51.50595474243164,
+        "pred_long": 0.030865659937262535
+      },
+      "hierarchy": {
+        "pred_class": 6146,
+        "pred_lat": 51.50595474243164,
+        "pred_long": 0.030865659937262535
+      },
+      "country": {
+        "city": "London",
+        "state": "England",
+        "country": "United Kingdom"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 51.493847,
+    "longitude": 0.0,
+    "generationtime_ms": 0.1239776611328125,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 4.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2020-06-08T00:00",
+        "2020-06-08T01:00",
+        "2020-06-08T02:00",
+        "2020-06-08T03:00",
+        "2020-06-08T04:00",
+        "2020-06-08T05:00",
+        "2020-06-08T06:00",
+        "2020-06-08T07:00",
+        "2020-06-08T08:00",
+        "2020-06-08T09:00",
+        "2020-06-08T10:00",
+        "2020-06-08T11:00",
+        "2020-06-08T12:00",
+        "2020-06-08T13:00",
+        "2020-06-08T14:00",
+        "2020-06-08T15:00",
+        "2020-06-08T16:00",
+        "2020-06-08T17:00",
+        "2020-06-08T18:00",
+        "2020-06-08T19:00",
+        "2020-06-08T20:00",
+        "2020-06-08T21:00",
+        "2020-06-08T22:00",
+        "2020-06-08T23:00",
+        "2020-06-09T00:00",
+        "2020-06-09T01:00",
+        "2020-06-09T02:00",
+        "2020-06-09T03:00",
+        "2020-06-09T04:00",
+        "2020-06-09T05:00",
+        "2020-06-09T06:00",
+        "2020-06-09T07:00",
+        "2020-06-09T08:00",
+        "2020-06-09T09:00",
+        "2020-06-09T10:00",
+        "2020-06-09T11:00",
+        "2020-06-09T12:00",
+        "2020-06-09T13:00",
+        "2020-06-09T14:00",
+        "2020-06-09T15:00",
+        "2020-06-09T16:00",
+        "2020-06-09T17:00",
+        "2020-06-09T18:00",
+        "2020-06-09T19:00",
+        "2020-06-09T20:00",
+        "2020-06-09T21:00",
+        "2020-06-09T22:00",
+        "2020-06-09T23:00"
+      ],
+      "apparent_temperature": [
+        8.3,
+        7.6,
+        7.1,
+        6.7,
+        6.6,
+        7.1,
+        7.6,
+        8.2,
+        9.7,
+        11.1,
+        11.5,
+        12.0,
+        11.3,
+        11.7,
+        11.9,
+        11.5,
+        12.9,
+        12.1,
+        11.3,
+        11.2,
+        10.2,
+        9.5,
+        9.5,
+        9.2,
+        9.1,
+        8.8,
+        8.6,
+        8.6,
+        8.8,
+        8.6,
+        8.6,
+        8.9,
+        9.7,
+        10.5,
+        11.1,
+        12.3,
+        14.0,
+        15.5,
+        15.2,
+        15.4,
+        16.0,
+        15.5,
+        14.8,
+        14.7,
+        14.0,
+        12.8,
+        11.6,
+        10.9
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        51,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

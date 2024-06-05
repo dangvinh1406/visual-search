@@ -1,0 +1,701 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {},
+        "seasonal": false,
+        "max_count": 0,
+        "abnormal": false,
+        "plot": {
+          "labels": [],
+          "datasets": []
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 26,
+            "percentage": 61.904761904761905
+          },
+          "Turkish": {
+            "count": 9,
+            "percentage": 21.428571428571427
+          },
+          "Croatian": {
+            "count": 2,
+            "percentage": 4.761904761904762
+          },
+          "Arabic": {
+            "count": 1,
+            "percentage": 2.380952380952381
+          },
+          "Estonian": {
+            "count": 1,
+            "percentage": 2.380952380952381
+          },
+          "Finnish": {
+            "count": 1,
+            "percentage": 2.380952380952381
+          },
+          "Italian": {
+            "count": 1,
+            "percentage": 2.380952380952381
+          },
+          "unknown": {
+            "count": 1,
+            "percentage": 2.380952380952381
+          }
+        },
+        "total": 42,
+        "plot": {
+          "labels": [
+            "English",
+            "Turkish",
+            "Croatian",
+            "Arabic",
+            "others"
+          ],
+          "data": [
+            61,
+            21,
+            4,
+            2,
+            12
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": null,
+      "oldest": null,
+      "unspecified_time": 42,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.kron4.com/news/bay-area/3-hospitalized-after-car-crashes-into-san-francisco-building/",
+        "title": "3 hospitalized after car crashes into San Francisco buildingKRON4https://www.kron4.com \u203a news \u203a bay-area \u203a 3-hospit...",
+        "content": " \u00b7 ",
+        "size": [
+          639,
+          359
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfchronicle.com/sf/article/Two-vehicle-crash-in-S-F-sends-3-people-to-17576222.php",
+        "title": "3 injured, 22 displaced after a Tesla and a Prius crash into ...San Francisco Chroniclehttps://www.sfchronicle.com \u203a ... \u203a San Francisco",
+        "content": " \u00b7 ",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sfchronicle.com/bayarea/article/tesla-plunges-off-cliff-at-devil-s-slide-17690271.php",
+        "title": "Tesla plunges off cliff at Devil's Slide, 2 adults, 2 children ...San Francisco Chroniclehttps://www.sfchronicle.com \u203a Bay Area",
+        "content": " \u00b7 ",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.abatezanetti.it/?k=tesla-faces-new-china-test-after-woman-s-auto-ww-oMakP8uy",
+        "title": "Tesla Faces New China Test After Woman's Auto-Show ...Abate Zanettihttps://www.abatezanetti.it \u203a ...",
+        "content": "Man dies in horrific high-speed crash in Vallejo, witnesses say police had been pursuing Honda ABC7 San Francisco. Tesla Faces New China Test After Woman's\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mediadem.pl/?c=tesla-faces-new-china-test-after-woman-s-auto-ww-W7WYEZfz",
+        "title": "Tesla Faces New China Test After Woman's Auto-Show ...Mediadem Consultinghttps://mediadem.pl \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://amoretti.edu.bo/?u=tesla-crashes-into-girl-scout-cookie-stand-at-a-gg-lZAdQRcB",
+        "title": "Tesla Crashes Into Girl Scout Cookie Stand At A Walmart In ...Unidad Educativa Amoretti. La Paz-Boliviahttps://amoretti.edu.bo \u203a ...",
+        "content": "Driver San Francisco marks the return of the established video game series ... Federal Agency Investigates Tesla Crash; Driver Says Car Was On Autopilot The Two-\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.universalshockslimited.com/?c=man-arrested-after-100mph-tesla-crash-causes-crazy-chaos-cc-mr6aOWh2",
+        "title": "Man Arrested After 100mph Tesla Crash Causes 'Crazy ...universalshockslimited.comhttps://www.universalshockslimited.com \u203a ...",
+        "content": "Man Arrested After 100mph Tesla Crash Causes 'Crazy Chaos,' Sends Car Parts Flying Into Homes, Convi\u00e9rtase en un periodista que investiga casos de\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aquinox.in/?c=tesla-crashes-into-girl-scout-cookie-stand-at-a-hh-nG5vA9Iz",
+        "title": "Tesla Crashes Into Girl Scout Cookie Stand At A Walmart In ...aquinox.inhttps://www.aquinox.in \u203a ...",
+        "content": "Driver San Francisco marks the return of the established video game series ... Federal Agency Investigates Tesla Crash; Driver Says Car Was On Autopilot The Two-\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=Dwe9kfyT2iU",
+        "title": "550 The Most DANGEROUS Car Crashing Caught On DashcamYouTube\u00a0\u00b7\u00a0SWAG Fails 89,6K+ views  \u00b7  1 month ago",
+        "content": "... cars fails and idiot drivers, idiots in cars & car crash compilation. We are always impressed with the incredible moments when idiots in cars\u00a0...",
+        "size": [
+          480,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://frankfurter.blog/which-of-the-following-occurs-during-the-third-impact-of-a-motor-vehicle-crash-tncc",
+        "title": "Which of the Following Occurs During the Third Impact of a ...frankfurter.bloghttps://frankfurter.blog \u203a which-of-the-following-occurs-...",
+        "content": "3 hospitalized after car crashes into San Francisco building. TNCC 8th ... One Transported After Vehicle Crash On Three Notch Road ... Calam\u00e9o - Tncc 9th\u00a0...",
+        "size": [
+          899,
+          505
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=kvSY2fG8dzU",
+        "title": "Craziest Supercar Fails & Crashes Compilation @swagfailscarYouTube\u00a0\u00b7\u00a0SWAG Fails 150,1K+ views  \u00b7  1 year ago",
+        "content": "Craziest Supercar Fails & Crashes Compilation Insane expensive luxury cars fails and idiot drivers crash compilation.",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://frankfurter.blog/what-is-the-third-impact-of-a-motor-vehicle-crash",
+        "title": "What Is the Third Impact of a Motor Vehicle Crash - Frankfurterfrankfurter.bloghttps://frankfurter.blog \u203a what-is-the-third-impact-of-a-m...",
+        "content": "... Car Crash ... 3 hospitalized after car crashes into San Francisco building. Tesla Sued Over Fatal Car Crash, Model 3 Allegedly Exploded ... Side Impacts\u00a0...",
+        "size": [
+          899,
+          505
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=XZUJXsgxzd8",
+        "title": "Best Of Idiots In Cars, Expensive Fails, Supercar Fails - YouTubeYouTube\u00a0\u00b7\u00a0SWAG Fails 18,4K+ views  \u00b7  2 months ago",
+        "content": "... cars fails and idiot drivers, idiots in cars & car crash compilation. We are always impressed with the incredible moments when idiots in cars\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=kfu5b3DC6p0",
+        "title": "The CRAZIEST Idiots In Cars Caught On Dashcam #49YouTube\u00a0\u00b7\u00a0SWAG Fails 2,8K+ views  \u00b7  2 months ago",
+        "content": "... cars fails and idiot drivers, idiots in cars & car crash compilation. We are always impressed with the incredible moments when idiots in cars\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bharatagritech.com/?q=man-arrested-after-100mph-tesla-crash-causes-crazy-chaos-xx-nnN8Wlhg",
+        "title": "Man Arrested After 100mph Tesla Crash Causes 'Crazy ...bharatagritech.comhttps://www.bharatagritech.com \u203a crazy car crashes",
+        "content": "Man Arrested After 100mph Tesla Crash Causes 'Crazy Chaos,' Sends Car Parts Flying Into Homes, Convi\u00e9rtase en un periodista que investiga casos de\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://saltsourcecompany.com/1075btvuR1391HL502.htm",
+        "title": "Expression stay up Dialogue car audio san bruno ...saltsourcecompany.comhttps://saltsourcecompany.com \u203a ...",
+        "content": "Pre-Owned 2020 Toyota Camry XSE 4D Sedan in San Francisco #61C07608 | San Francisco Honda ... 3 injured, 22 displaced after a Tesla and a Prius crash into S.F.\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://diatica.pt/entity.php?4689j4aojk.htm",
+        "title": "berberin mrtva\u010dnica Lije\u010dnik car crash injuries Takozvani ...diatica.pthttps://diatica.pt \u203a entity",
+        "content": "3 injured, 22 displaced after a Tesla and a Prius crash into S.F. home\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/Thomas-street-car-accident-10th-august",
+        "title": "Thomas street car accident 10th august\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "Discover videos related to Thomas street car accident 10th august on TikTok.",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/75-ave-thomas-phx-accodent-today",
+        "title": "75 ave thomas phx accodent today - TikTokTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "... car #caraccident #crimetape #entertainment #district #pavement #tacobell #kfc ... San Francisco Zoo. 75 ave thomas phx accodent today. 55.9M views. Discover\u00a0...",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bahamaspiceltd.com/?o=elon-musk-promises-tesla-model-safety-improvements-after-crash-dd-WyeVpjFP",
+        "title": "Elon Musk Promises Tesla Model Safety Improvements After ...bahamaspiceltd.comhttps://bahamaspiceltd.com \u203a ...",
+        "content": "Elon Musk promises Tesla Model safety improvements after crash CNET. Fatal Tesla crash on Bear Valley Road was intentional, driver identified VVNG. Give your\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/was-richard-thomas-actor-involved-in-fatal-car-crash",
+        "title": "was richard thomas actor involved in fatal car crash - TikTokTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": " \u00b7 ",
+        "size": [
+          1080,
+          1920
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://test-web.eufonie.fr/?o=tesla-crashes-into-girl-scout-cookie-stand-at-a-uu-p3gWm5tv",
+        "title": "Tesla Crashes Into Girl Scout Cookie Stand At A Walmart In ...Eufoniehttps://test-web.eufonie.fr \u203a ...",
+        "content": "Looking for SNOWBOARD VERSION? Click HEREUSA Ski Flag Car Sticker, Elevate the \"altitude\" of any room and upgrade its decor in a unique and innovative.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.flerodiesel.it/?k=tesla-totaled-after-crashing-into-pickup-truck-$60-000-qq-dwLRxNTv",
+        "title": "Tesla Totaled After Crashing Into Pickup Truckflerodiesel.ithttps://www.flerodiesel.it \u203a crashed tesla",
+        "content": "Tesla hit parked police car 'while using Autopilot' BBC News ... You may also like. US safety watchdog probes fatal Tesla crash in Florida.",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://private.lanka.tax/?m=hurt-in-hong-kong-after-truck-slams-into-shop-rr-nP8O5qH6",
+        "title": "Hurt In Hong Kong After Truck Slams Into Shop, Following, 52 ...lanka.taxhttps://private.lanka.tax \u203a the car goods shop",
+        "content": "Federal Agency Investigates Tesla Crash; Driver Says Car Was On Autopilot The Two-Way NPR. hurt in Hong Kong after truck slams into shop, following collision\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.4math.net/2019/04/olympiade-math-algebre-01-ex-29.html/?q=us-safety-watchdog-probes-fatal-tesla-crash-in-florida-gg-E3WrQ5Fx",
+        "title": "US Safety Watchdog Probes Fatal Tesla Crash In Florida4Mathhttps://www.4math.net \u203a 2019/04 \u203a olympiade-math-...",
+        "content": " \u00b7 ",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://save4k.com/channel/UUzyUBH57hSEGtrQyXmQvvsA",
+        "title": "\u0412\u0438\u0434\u0435\u043e \u0441 \u043a\u0430\u043d\u0430\u043b\u0430 \"Deceased Actors Hollywood\"Save4K.comhttps://save4k.com \u203a channel",
+        "content": "... Fatal Car Accident Today. \u0421\u043a\u0430\u0447\u0430\u0442\u044c. 100. Marie Osmond - Her Last Goodbye On Her Deathbed, Ending After Years Of Suffering. \u0421\u043a\u0430\u0447\u0430\u0442\u044c. 101. 5 Minutes Ago! Millions\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.pilchuckfoundation.org/tesla-car-crash",
+        "title": "publika Mo\u017ee se izra\u010dunati Ku\u0107ni ljubimci tesla car crashpilchuckfoundation.orghttps://www.pilchuckfoundation.org \u203a ...",
+        "content": "publika Mo\u017ee se izra\u010dunati Ku\u0107ni ljubimci tesla car crash. 2024-01-06 05:32:17 ... crash into S.F. home\u00a0...",
+        "size": [
+          2048,
+          1536
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://arriyadiyah.com/788095",
+        "title": "\u062a\u0633\u0644\u0627 \u062a\u0648\u0627\u062c\u0647 \u062a\u062d\u0642\u064a\u0642\u0627\u062a \u062d\u0627\u062f\u062b \u0627\u0644\u0635\u064a\u0646 | \u0635\u062d\u064a\u0641\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629https://arriyadiyah.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          950,
+          439
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.studioiannicelli.it/incidente-con-veicolo-non-identificato-che-scappa-cosa-bisogna-sapere/",
+        "title": "Incidente con veicolo non identificato che scappastudioiannicelli.ithttps://www.studioiannicelli.it \u203a in...",
+        "content": "",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://shiftdelete.net/elektrikli-ve-hibrit-surus-haftasi",
+        "title": "Elektrikli ve hibrit ara\u00e7lar, 9-10 Eyl\u00fcl'de Yenikap\u0131'da ...ShiftDelete.Nethttps://shiftdelete.net \u203a elektrikli-v...",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://shiftdelete.net/elon-musk-tesla-yasa-ihlali",
+        "title": "Elon Musk Tesla kullan\u0131rken yasalar\u0131 \u00e7i\u011fnedi! \u0130\u015fte o anlar - SDNShiftDelete.Nethttps://shiftdelete.net \u203a elon-musk-...",
+        "content": " \u00b7 ",
+        "size": [
+          640,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://shiftdelete.net/yazar/gokberk-bayram",
+        "title": "G\u00f6kberk Baycan Yaz\u0131lar\u0131 - ShiftDelete.NetShiftDelete.Nethttps://shiftdelete.net \u203a yazar \u203a gok...",
+        "content": "",
+        "size": [
+          640,
+          360
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://shiftdelete.net/elektrikli-otomobiller-kaza-masraflari-ile-korkutuyor",
+        "title": "Elektrikli otomobiller kaza masraflar\u0131 ile korkutuyor!ShiftDelete.Nethttps://shiftdelete.net \u203a Haberler",
+        "content": " \u00b7 ",
+        "size": [
+          120,
+          90
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.sondakika.com/teknoloji/haber-ust-uste-yasanan-kazalarin-ardindan-tesla-15515273/",
+        "title": "Tesla'n\u0131n otonom s\u00fcr\u00fc\u015f teknolojisi sorgulan\u0131yor! - Son DakikaSon Dakikahttps://www.sondakika.com \u203a habe...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.haberler.com/teknoloji/tesla-nin-otonom-surus-teknolojisi-sorgulaniyor-15515258-haberi/",
+        "title": "Tesla'n\u0131n otonom s\u00fcr\u00fc\u015f teknolojisi sorgulan\u0131yor! - HaberlerHaberlerhttps://www.haberler.com \u203a tesla-n...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.haberler.com/teknoloji/tesla-nin-otonom-surus-teknolojisi-sorgulaniyor-15515258-haberi/",
+        "title": "Tesla'n\u0131n otonom s\u00fcr\u00fc\u015f teknolojisi sorgulan\u0131yor! - HaberlerHaberlerhttps://www.haberler.com \u203a teknoloji",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "et",
+        "link": "https://et.gov-civil-portalegre.pt/blue-bloods-how-old-is-tom-selleck-and-how-has-he-lasted-in-hollywood-so-long-review-61502",
+        "title": "'Siniverelised': kui vana on Tom Selleck ja kuidas ta on ...gov-civil-portalegre.pthttps://et.gov-civil-portalegre.pt \u203a bl...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://videomon.biz/?q=tom+selleck",
+        "title": "Tom Selleck mp3 mp4 flv webm m4a hd video indirVideomon.Bizhttps://videomon.biz \u203a ...",
+        "content": "Tom Selleck Video Indir ... Magnum, P.I. (1980\u201319880 Cast THEN and NOW, The actors have aged ... Magnum Steals A Car! | Magnum P.I. ... Tom Selleck's INSANE Lifestyle\u00a0...",
+        "size": [
+          320,
+          180
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://tr.alrm.pt/tom-selleck-opens-up-about-value-his-family-life-over-fame",
+        "title": "Tom Selleck Kaliforniya'daki Aile \u00c7iftli\u011finde Ya\u015fam\u0131 Konu\u015fuyoralrm.pthttps://tr.alrm.pt \u203a tom-selleck-open...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://hr.alrm.pt/tom-selleck-opens-up-about-value-his-family-life-over-fame",
+        "title": "Tom Selleck razgovara o \u017eivotu na svom obiteljskom ran\u010du u ...alrm.pthttps://hr.alrm.pt \u203a tom-selleck-ope...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://fi.alrm.pt/tom-selleck-opens-up-about-value-his-family-life-over-fame",
+        "title": "Tom Selleck puhuu el\u00e4m\u00e4st\u00e4\u00e4n perheens\u00e4 tilalla Kaliforniassaalrm.pthttps://fi.alrm.pt \u203a tom-selleck-open...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "iw",
+        "link": "https://iw.alrm.pt/tom-selleck-opens-up-about-value-his-family-life-over-fame",
+        "title": "\u05d8\u05d5\u05dd \u05e1\u05dc\u05e7 \u05de\u05d3\u05d1\u05e8 \u05e2\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd \u05d1\u05d7\u05d5\u05d5\u05d4 \u05d4\u05de\u05e9\u05e4\u05d7\u05ea\u05d9\u05ea \u05e9\u05dc\u05d5 \u05d1\u05e7\u05dc\u05d9\u05e4\u05d5\u05e8\u05e0\u05d9\u05d4 - alrmalrm.pthttps://iw.alrm.pt \u203a tom-selleck-ope...",
+        "content": "\u05d8\u05d5\u05dd \u05d5\u05de\u05e9\u05e4\u05d7\u05ea\u05d5 \u05d4\u05dd \u05d1\u05e2\u05dc\u05d9 \u05d4\u05d7\u05d5\u05d5\u05d4 \u05de\u05d0\u05d6 1988. \u05d4\u05d5\u05d0 \u05e8\u05e6\u05d4 \u05e0\u05e1\u05d9\u05d2\u05d4 \u05e4\u05e8\u05d8\u05d9\u05ea \u05dc\u05d0\u05d7\u05e8 \u05d4\u05ea\u05d4\u05d9\u05dc\u05d4 \u05d4\u05e2\u05d6\u05d4 \u05e9\u05dc \u05de\u05d2\u05e0\u05d5\u05dd \u05e4\u05d9. \u05dc\u05d3\u05d1\u05e8\u05d9\u05d5, '\u05d9\u05d3\u05e2\u05ea\u05d9 \u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05d0\u05dc\u05d9\u05ea \u05de\u05d4 \u05d6\u05d4 \u05d0\u05d5\u05de\u05e8 \u05d1\u05de\u05d5\u05e0\u05d7\u05d9\u05dd \u05e9\u05dc \u05dc\u05d4\u05d9\u05d5\u05ea \u05d0\u05d3\u05dd \u05e6\u05d9\u05d1\u05d5\u05e8\u05d9,\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "auto_showroom",
+        "ioclass": "indoor",
+        "probability": 0.30691269040107727
+      },
+      {
+        "class": "assembly_line",
+        "ioclass": "indoor",
+        "probability": 0.17049439251422882
+      },
+      {
+        "class": "auto_factory",
+        "ioclass": "indoor",
+        "probability": 0.1596694439649582
+      },
+      {
+        "class": "parking_garage/indoor",
+        "ioclass": "indoor",
+        "probability": 0.10492289811372757
+      },
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.06967277079820633
+      }
+    ],
+    "transients": [
+      {
+        "class": "dirty",
+        "score": 0.8084598183631897
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.7417401075363159
+      },
+      {
+        "class": "moist",
+        "score": 0.6983674764633179
+      },
+      {
+        "class": "ice",
+        "score": 0.6963269710540771
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.6912238597869873
+      },
+      {
+        "class": "season/winter",
+        "score": 0.6721378564834595
+      },
+      {
+        "class": "busy",
+        "score": 0.6459959149360657
+      },
+      {
+        "class": "cluttered",
+        "score": 0.6280765533447266
+      },
+      {
+        "class": "glowing",
+        "score": 0.5229980945587158
+      },
+      {
+        "class": "rugged",
+        "score": 0.521569550037384
+      },
+      {
+        "class": "exciting",
+        "score": 0.5210636258125305
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1712,
+        "pred_lat": 48.84591293334961,
+        "pred_long": 2.2985706329345703
+      },
+      "middle": {
+        "pred_class": 3131,
+        "pred_lat": 37.7408561706543,
+        "pred_long": -122.46481323242188
+      },
+      "fine": {
+        "pred_class": 35,
+        "pred_lat": 47.254981994628906,
+        "pred_long": -122.44819641113281
+      },
+      "hierarchy": {
+        "pred_class": 35,
+        "pred_lat": 47.254981994628906,
+        "pred_long": -122.44819641113281
+      },
+      "country": {
+        "city": "Tacoma",
+        "state": "Washington",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {},
+  "inference": {
+    "conflicts": []
+  }
+}

@@ -1,0 +1,3322 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 188,
+            "abnormal": true
+          },
+          "2023/11": {
+            "count": 15,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 188,
+        "abnormal": true,
+        "plot": {
+          "labels": [
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Anomaly detected",
+              "backgroundColor": "#DD1B16",
+              "data": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                188,
+                null,
+                null
+              ]
+            },
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                188,
+                15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 223,
+            "percentage": 94.8936170212766
+          },
+          "Russian": {
+            "count": 4,
+            "percentage": 1.702127659574468
+          },
+          "German": {
+            "count": 3,
+            "percentage": 1.2765957446808511
+          },
+          "Hindi": {
+            "count": 1,
+            "percentage": 0.425531914893617
+          },
+          "Dutch; Flemish": {
+            "count": 1,
+            "percentage": 0.425531914893617
+          },
+          "Swedish": {
+            "count": 1,
+            "percentage": 0.425531914893617
+          },
+          "Chinese": {
+            "count": 1,
+            "percentage": 0.425531914893617
+          }
+        },
+        "total": 235,
+        "plot": {
+          "labels": [
+            "English",
+            "Russian",
+            "German",
+            "Hindi",
+            "others"
+          ],
+          "data": [
+            94,
+            1,
+            1,
+            0,
+            4
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://www.nbcphiladelphia.com/news/national-international/israeli-forces-raid-gazas-largest-hospital-where-hundreds-of-patients-are-stranded-by-fighting/3696276/",
+        "title": "Israel-Hamas War: IDF raids Al-Shifa hospital in GazaNBC10 Philadelphiahttps://www.nbcphiladelphia.com \u203a news \u203a israeli-forc...",
+        "content": "Israeli forces raided Gaza's largest hospital early Wednesday, where hundreds of patients, including newborns, have been stranded with\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.wsls.com/video/news/2023/08/15/10-news-investigates-school-safety-reports-heres-what-we-found-in-our-roanoke-zone-2/",
+        "title": "Here's what we found in our Roanoke zone - WSLS 10WSLShttps://www.wsls.com \u203a video \u203a news \u203a 2023/08/15",
+        "content": "",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:08:15 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 31,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/video/news/2023/08/15/10-news-investigates-school-safety-reports-heres-what-we-found-in-our-roanoke-zone-2/",
+        "title": "Here's what we found in our Roanoke zone - WSLS 10WSLShttps://www.wsls.com \u203a video \u203a news \u203a 2023/08/15",
+        "content": "",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:08:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/print/2023/10/1208127",
+        "title": "Netanyahu tells Israel 'We are at war' after Hamas kills at least ...AccessWDUNhttps://accesswdun.com \u203a print \u203a 2023/10",
+        "content": "JERUSALEM (AP) \u2014 Israel's national rescue service says at least 22 people have been killed and hundreds wounded in a Hamas military incursion on\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/print/2023/10/1208126",
+        "title": "Netanyahu tells Israel 'We are at war' after Hamas launches ...AccessWDUNhttps://accesswdun.com \u203a print \u203a 2023/10",
+        "content": "Israeli media reported that dozens of people were hospitalized in southern Israel. The Palestinian Health Ministry in Gaza reported injuries\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.redhillsmsnews.com/netanyahu-tells-israel-we-are-war-after-hamas-kills-least-22-unprecedented-attack-1",
+        "title": "Netanyahu tells Israel 'We are at war' after Hamas kills at least ...Winston County Journalhttps://www.redhillsmsnews.com \u203a netanyahu-tells-isra...",
+        "content": "JERUSALEM (AP) \u2014 The ruling Hamas militant group in the Gaza Strip carried out an unprecedented, multi-front attack on Israel at daybreak\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/print/2023/10/1208127",
+        "title": "Netanyahu tells Israel 'We are at war' after Hamas kills at least ...AccessWDUNhttps://accesswdun.com \u203a print \u203a 2023/10",
+        "content": "JERUSALEM (AP) \u2014 Israel's national rescue service says at least 22 people have been killed and hundreds wounded in a Hamas military incursion on\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bostonherald.com/2023/10/06/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Boston Heraldhttps://www.bostonherald.com \u203a 2023/10/06 \u203a hamas-...",
+        "content": "Civilians are trapped and particularly vulnerable during wars and bouts of fighting. Israeli airstrikes in Gaza intensified after nightfall,\u00a0...",
+        "size": [
+          620,
+          413
+        ],
+        "date": "2023:10:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://accesswdun.com/print/2023/10/1208126",
+        "title": "Netanyahu tells Israel 'We are at war' after Hamas launches ...AccessWDUNhttps://accesswdun.com \u203a print \u203a 2023/10",
+        "content": "Israeli media reported that dozens of people were hospitalized in southern Israel. The Palestinian Health Ministry in Gaza reported injuries\u00a0...",
+        "size": [
+          512,
+          341
+        ],
+        "date": "2023:10:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://religionnews.com/2023/10/07/despite-terrorist-attacks-the-people-of-israel-live/",
+        "title": "Despite terrorist attacks, the people of Israel liveReligion News Servicehttps://religionnews.com \u203a 2023/10/07 \u203a despite-terror...",
+        "content": "There is something uniquely heinous about attacking Israeli civilians during Jewish holidays and on the anniversary of the Yom Kippur War. It is\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pentictonherald.ca/news/world_news/article_5369d22e-88e3-50ff-b324-b9c95e880c89.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Penticton Heraldhttps://www.pentictonherald.ca \u203a news \u203a world_news",
+        "content": "In a televised address Saturday night, Israeli Prime Minister Benjamin Netanyahu, who earlier declared Israel to be at war, said the military\u00a0...",
+        "size": [
+          650,
+          433
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://religionnews.com/2023/10/07/despite-terrorist-attacks-the-people-of-israel-live/",
+        "title": "Despite terrorist attacks, the people of Israel liveReligion News Servicehttps://religionnews.com \u203a 2023/10/07 \u203a despite-terror...",
+        "content": "There is something uniquely heinous about attacking Israeli civilians during Jewish holidays and on the anniversary of the Yom Kippur War. It is\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.krmg.com/news/world/israel-says/4QQZ5ZTR4ZIQRE5XCWSAEWRMSA/",
+        "title": "Netanyahu tells Israel 'We are at war' after Hamas kills at least ...KRMGhttps://www.krmg.com \u203a news \u203a world \u203a israel-says",
+        "content": "JERUSALEM \u2014 (AP) \u2014 The ruling Hamas militant group in the Gaza Strip carried out an unprecedented, multi-front attack on Israel at daybreak\u00a0...",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://westernpost.ng/netanyahu-says-israel-is-at-war-after-hamas-launches-surprise-air-and-ground-attack-from-gaza/",
+        "title": "Netanyahu says Israel is 'at war' after Hamas launches ...westernpost.nghttps://westernpost.ng \u203a netanyahu-says-israel-is-at-wa...",
+        "content": "Israel's Prime Minister Benjamin Netanyahu declared that the country was \u201cat war\u201d on Saturday, after Palestinian militants in Gaza fired a\u00a0...",
+        "size": [
+          927,
+          618
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/armed-israeli-citizens-called-on-to-protect-israeli-towns",
+        "title": "Armed Israeli Citizens Called On to Protect Israeli TownsThe Messengerhttps://themessenger.com \u203a news \u203a armed-israeli-citize...",
+        "content": "\"Citizens of Israel, we are at war, not in an operation or in rounds, but at war,\" Israeli Prime Minister Benjamin Netanyahu has said. The\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.amny.com/world/war-israel-hamas-surprise-attack/",
+        "title": "WAR IN ISRAEL: Hamas surprise attack from Gaza sparks ...AM New Yorkhttps://www.amny.com \u203a world \u203a war-israel-hamas-sur...",
+        "content": "Under cover of a barrage of rockets, dozens of Hamas militants broke out of the blockaded Gaza Strip and into nearby Israeli towns,\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://usa2.topnews.media/2023/10/07/we-are-at-war-netanyahu-declares-after-surprise-attack-on-israel-by-hamas-politico/",
+        "title": "'We are at war,' Netanyahu declares after surprise attack on ...TOPNews.MEDIAhttps://usa2.topnews.media \u203a 2023/10/07 \u203a we-are-at-...",
+        "content": "... Israel and the Islamist militant group. Israeli Prime Minister Benjamin Netanyahu declared the country was \u201cat war.\u201d The massive assault\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.belgrade-news.com/news/video-netanyahu-citizens-of-israel-we-are-at-war-hamas-kills-22-in-unprecedented-wide/article_0b972b6e-650a-11ee-977f-0397c645ff30.html",
+        "title": "(VIDEO) Netanyahu: 'Citizens of Israel, We are at war'; Hamas ...belgrade-news.comhttps://www.belgrade-news.com \u203a news \u203a video-netanya...",
+        "content": "JERUSALEM (AP) \u2014 The ruling Hamas militant group in the Gaza Strip carried out an unprecedented attack on Israel at daybreak Saturday,\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.belgrade-news.com/news/video-netanyahu-citizens-of-israel-we-are-at-war-hamas-kills-22-in-unprecedented-wide/article_0b972b6e-650a-11ee-977f-0397c645ff30.html",
+        "title": "(VIDEO) Netanyahu: 'Citizens of Israel, We are at war'; Hamas ...belgrade-news.comhttps://www.belgrade-news.com \u203a news \u203a video-netanya...",
+        "content": "JERUSALEM (AP) \u2014 The ruling Hamas militant group in the Gaza Strip carried out an unprecedented attack on Israel at daybreak Saturday,\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.usnews.com/news/best-countries/slideshows/a-timeline-of-the-israel-palestinian-conflict",
+        "title": "A Timeline of the Israel-Palestinian Conflict - USNews.comU.S. News & World Reporthttps://www.usnews.com \u203a News \u203a Best Countries",
+        "content": "The Israeli government subsequently declared war on Hamas, launching aerial assaults on the densely populated strip and preparing for a\u00a0...",
+        "size": [
+          4050,
+          2700
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.independent.co.uk/news/world/middle-east/israel-palestine-hamas-attack-b2425819.html",
+        "title": "Surprise Palestinian attack is most significant military ...The Independenthttps://www.independent.co.uk \u203a World \u203a Middle East",
+        "content": "Israel says it is now very firmly at war. <p>Police officers ... Israelis in the \u201cGaza envelope\u201d, the areas in Israel around Gaza, told me\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.capeandislands.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | CAI - WCAIcapeandislands.orghttps://www.capeandislands.org \u203a photos-israel-hamas-...",
+        "content": "This picture taken from southern Israel near the border with the Gaza Strip shows smoke billowing \u00b7 A temporary cease-fire in Gaza appears set\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcsandiego.com/news/national-international/photos-hamas-launches-unprecedented-attack-on-israel/3322523/",
+        "title": "Photos: Israel-Hamas War - NBC 7 San DiegoNBC 7 San Diegohttps://www.nbcsandiego.com \u203a national-international",
+        "content": "Israel says it's now at war with Hamas and launched airstrikes in Gaza and has ordered a 'full siege' of Gaza. 48 photos. 1/48. Mahmud Hams\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kvcrnews.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | KVCR NewsKVCR Newshttps://www.kvcrnews.org \u203a photos-israel-hamas-war",
+        "content": "Photos: Israel Hamas War ... Fri., Oct. 13: A Palestinian child watches as smoke billows on the ... Fri., Oct. 13: A Palestinian child watches as\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://toronto.citynews.ca/2023/10/07/hamas-kills-22-in-israel/",
+        "title": "'We are at war': Hamas surprise attack against Israel leaves ...CityNews Torontohttps://toronto.citynews.ca \u203a hamas-kills-22-in-israel",
+        "content": "Backed by a barrage of rockets, Hamas militants stormed from the blockaded Gaza Strip into nearby Israeli towns, killing dozens and abducting\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wrvo.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | WRVO Public MediaWRVOhttps://www.wrvo.org \u203a photos-israel-hamas-war",
+        "content": "Israel is at war according to Prime Minister Benjamin Netanyahu after Palestinian Islamist Group Hamas launched an unprecedented attack today,\u00a0...",
+        "size": [
+          6709,
+          4473
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thestar.com/news/world/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_146ba0ec-511b-5b7b-875d-f1f3c0607b0a.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Toronto Starhttps://www.thestar.com \u203a News \u203a World",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister saying the country is now at war with Hamas and vowing to inflict an \u201c\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kelownadailycourier.ca/news/world_news/article_daa5de98-ded8-555d-bd29-d117daf420fc.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...kelownadailycourier.cahttps://www.kelownadailycourier.ca \u203a news \u203a world_news",
+        "content": "In a televised address Saturday night, Israeli Prime Minister Benjamin Netanyahu, who earlier declared Israel to be at war, said the military\u00a0...",
+        "size": [
+          650,
+          433
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wfae.org/united-states-world/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War - Charlotte - WFAEWFAEhttps://www.wfae.org \u203a united-states-world \u203a photos-is...",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kccu.org/world/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War - KCCUKCCUhttps://www.kccu.org \u203a world \u203a photos-israel-hamas-war",
+        "content": "Sat., Oct. 7: Members of the Israeli frorces take cover on the side of a street in Ashkelon as sirens wail while barrages of rockets are fired\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbur.org/npr/1204468284/photos-war-in-israel-gaza",
+        "title": "Photos: Israel Hamas War | WBURWBURhttps://www.wbur.org \u203a npr \u203a photos-war-in-israel-gaza",
+        "content": "Photos: Israel Hamas War ... Editor's note: This report contains some graphic images. Viewer discretion is advised. The war raging since\u00a0...",
+        "size": [
+          786,
+          524
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vpm.org/npr-news/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War - VPM NewsVPMhttps://www.vpm.org \u203a npr-news \u203a photos-israel-hama...",
+        "content": "Palestinians fled in a mass exodus from northern Gaza after Israel's military told some 1 million people to evacuate toward the southern part of\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://gathering.tweakers.net/forum/list_messages/1598253/21",
+        "title": "Situatie Isra\u00ebl en Gaza - Gathering of TweakersGathering of Tweakershttps://gathering.tweakers.net \u203a forum",
+        "content": "... Israel niet hoeven ondergaan. Dat wordt toch alleen maar erger zo ... World War One \u00b7 zaterdag 7 oktober 2023 15:36. Acties: +1 Henk 'm! RoD\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wliw.org/radio/news/photos-the-war-in-israel-and-gaza/",
+        "title": "Photos: The war in Israel and Gaza | News | WLIW-FMWLIWhttps://www.wliw.org \u203a Home \u203a NPR Stories",
+        "content": "Mon., Oct. 9: Israelis evacuate a site struck by a rocket fired from the Gaza Strip, in Ashkelon, southern Israel.",
+        "size": [
+          948,
+          632
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vancouver.citynews.ca/2023/10/07/hamas-kills-22-in-israel/",
+        "title": "'We are at war': Hamas surprise attack against Israel leaves ...CityNews Vancouverhttps://vancouver.citynews.ca \u203a hamas-kills-22-in-israel",
+        "content": "Backed by a barrage of rockets, Hamas militants stormed from the blockaded Gaza Strip into nearby Israeli towns, killing dozens and abducting\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/residents-near-gaza-strip-beg-for-idf-help-as-they-fight-off-terrorists/",
+        "title": "Residents near Gaza Strip beg for IDF help as they fight off ...The Times of Israelhttps://www.timesofisrael.com \u203a residents-near-gaza-st...",
+        "content": "Is our live war coverage important to you? Are you relying on The Times of Israel for accurate and timely coverage right now? If so, please join\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.elpais.com/international/2023-10-07/the-missile-attack-on-israel-in-pictures.html",
+        "title": "The missile attack on Israel, in pictures | Fotos - EL PA\u00cdS EnglishEL PA\u00cdS Englishhttps://english.elpais.com \u203a International",
+        "content": "Palestinian forces launch over 2200 rockets and deploy armed militias into Israel. The Israeli army responds by bombing Gaza.",
+        "size": [
+          414,
+          276
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://www.milwaukeeindependent.com/newswire/hamas-stuns-israel-unprecedented-surprise-attack-gaza-strip-left-hundreds-dead/",
+        "title": "Hamas stuns Israel with unprecedented surprise attack out of ...Milwaukee Independenthttp://www.milwaukeeindependent.com \u203a newswire",
+        "content": "GRAPHIC PHOTO WARNING: This gallery contains news images from war that some viewers may find disturbing. 100723_AttackGaza_04a_AdelHana.",
+        "size": [
+          1800,
+          1200
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.independent.com.mt/articles/2023-10-07/world-news/Hamas-surprise-attack-out-of-Gaza-Strip-stuns-Israel-and-leaves-dozens-dead-in-fighting-retaliation-6736255426",
+        "title": "Hamas surprise attack out of Gaza Strip stuns Israel and ...The Malta Independenthttps://www.independent.com.mt \u203a articles \u203a world-news",
+        "content": "\u201cWe are at war,\u201d Israeli Prime Minister Benjamin Netanyahu said in a televised address, declaring a mass army mobilization. \u201cNot an 'operation,'\u00a0...",
+        "size": [
+          959,
+          640
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://newsvirginian.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_5bf58e55-b076-550e-aa4a-83add9a60c9c.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...The News Virginianhttps://newsvirginian.com \u203a hamas-surprise-attack-out-of...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://starexponent.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_e21d6f90-b75c-5291-b8bb-730cd636301c.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Culpeper Star-Exponenthttps://starexponent.com \u203a hamas-surprise-attack-out-of-...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thetandd.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_9aeaea85-200f-56b2-9ac4-9d4e239960af.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...The Times and Democrathttps://thetandd.com \u203a hamas-surprise-attack-out-of-gaza...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://magicvalley.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_ba336cfa-8efc-5cf4-9990-7e5441399044.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...magicvalley.comhttps://magicvalley.com \u203a hamas-surprise-attack-out-of-g...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister saying the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://heritagereporter.com/we-are-at-war-netanyahu-tells-israel-after-hamas-kills-at-least-22-in-unprecedented-attack/",
+        "title": "'We are at war', Netanyahu tells Israel after Hamas kills at least ...heritagereporter.comhttps://heritagereporter.com \u203a Top Stories",
+        "content": "We are at war,\u201d Israeli Prime Minister Benjamin Netanyahu said in a televised address, declaring a mass mobilization of the country's army\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mcdowellnews.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_061f87f1-55d5-5ac8-9e1d-524b62df514c.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...McDowell Newshttps://mcdowellnews.com \u203a hamas-surprise-attack-out-o...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fremonttribune.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_fb76e12e-ea8e-5f0b-bac2-9f4ad3304bb4.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Fremont Tribunehttps://fremonttribune.com \u203a hamas-surprise-attack-out-o...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister saying the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pressofatlanticcity.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_194616c0-86fe-5ff0-ae6e-6c6c31953043.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Press of Atlantic Cityhttps://pressofatlanticcity.com \u203a hamas-surprise-attack-ou...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bismarcktribune.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_1db33d7b-0699-5b90-bd9c-3a5d50048f14.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Bismarck Tribunehttps://bismarcktribune.com \u203a hamas-surprise-attack-out-...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newslooks.com/israeli-military-says-fighting-continues-in-22-areas-of-s-israel/",
+        "title": "Israeli military says fighting continues in 22 areas of S. IsraelNewsLookshttps://www.newslooks.com \u203a israeli-military-says-figh...",
+        "content": "Israel said it is now at war with Hamas and launched airstrikes in Gaza, vowing to inflict an \u201cunprecedented price.\u201d Israeli security forces\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://democratherald.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_b9d6cad4-4b01-5cc7-8d35-1b2cd20cc1f3.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Albany Democrat-Heraldhttps://democratherald.com \u203a hamas-surprise-attack-out-...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://buffalonews.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_5dbd6483-3cd5-5d35-a081-a26c21fb1940.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel ... - Buffalo NewsThe Buffalo Newshttps://buffalonews.com \u203a hamas-surprise-attack-out-of-g...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kenoshanews.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_7ca63e9b-80b4-58e1-804c-4dc697b5775f.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Kenosha Newshttps://kenoshanews.com \u203a hamas-surprise-attack-out-of-...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister saying the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://starherald.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_2030dd20-2afc-54fe-9dcc-12ba62630748.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Star-Heraldhttps://starherald.com \u203a hamas-surprise-attack-out-of-gaz...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kearneyhub.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_69f5518f-0786-5938-8770-e719eabb1864.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel ... - Kearney HubKearney Hubhttps://kearneyhub.com \u203a hamas-surprise-attack-out-of-g...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister saying the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mtstandard.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_7a09e41a-3e36-59bb-a1d2-a7966cb69f08.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Montana Standardhttps://mtstandard.com \u203a hamas-surprise-attack-out-of-ga...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister saying the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://newsadvance.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_354a4960-60cf-5343-aa1c-a88f79082f8f.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...The News & Advancehttps://newsadvance.com \u203a hamas-surprise-attack-out-of-...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://cw34.com/news/local/israel-attacks-hamas-jewish-federations-offer-support-humanitarian-aid-palm-beach-county-state-officials-react-issue-statements-florida-ocotber-7-2023",
+        "title": "Local Jewish Federations vow support for Israel ... - WTVXWTVXhttps://cw34.com \u203a news \u203a local \u203a israel-attacks-hamas...",
+        "content": "It's still unclear just how many have been killed or injured in the surprise attack which prompted Israel to declare war. The Jewish\u00a0...",
+        "size": [
+          6733,
+          4676
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newstalk.com/news/one-dead-and-at-least-15-injured-as-rockets-fired-into-israel-1512858",
+        "title": "At least 40 dead and hundreds injured as rockets fired into IsraelNewstalkhttps://www.newstalk.com \u203a news \u203a one-dead-and-at-l...",
+        "content": "... Israeli territory from the Gaza Strip this morning. Israel has issued a 'State of War' alert as large plumes of black smoke could be seen\u00a0...",
+        "size": [
+          1920,
+          1280
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thesouthern.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_17683c01-5bd1-512b-9ee0-3066736f2dfe.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Southern Illinoisanhttps://thesouthern.com \u203a hamas-surprise-attack-out-of-g...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thesouthern.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_17683c01-5bd1-512b-9ee0-3066736f2dfe.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Southern Illinoisanhttps://thesouthern.com \u203a hamas-surprise-attack-out-of-g...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wbtw.com/news/state-regional-news/south-carolina-lawmakers-react-to-surprise-attack-on-israel-by-hamas-militants/",
+        "title": "South Carolina lawmakers react to surprise attack on Israel by ...WBTWhttps://www.wbtw.com \u203a news \u203a state-regional-news",
+        "content": "... Israel by Hamas militants early Saturday morning. The Hamas militant group in the Gaza Strip carried out an unprecedented attack on Israel\u00a0...",
+        "size": [
+          1872,
+          1247
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thenationalherald.com/netanyahu-tells-israel-we-are-at-war-after-hamas-kills-at-least-22-in-unprecedented-attack/",
+        "title": "Hamas Attacked Israel, Kills at Least 40 and Netanyahu Says ...The National Heraldhttps://www.thenationalherald.com \u203a Blog",
+        "content": "\u201cWe are at war,\u201d Israeli Prime Minister Benjamin Netanyahu said in a ... Israel will win this war.\u201d The attack comes at a time of historic\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pennlive.com/nation-world/2023/10/we-are-at-war-israels-netanyahu-says-after-hamas-attack.html",
+        "title": "'We are at war,' Israel's Netanyahu says after Hamas attackPennLive.comhttps://www.pennlive.com \u203a nation-world \u203a 2023/10 \u203a w...",
+        "content": "\u201cWe are at war,\u201d Israeli Prime Minister Benjamin Netanyahu said in a televised address, declaring a mass army mobilization. \u201cNot an 'operation,'\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nptelegraph.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_19fcc8b1-bc3c-57f2-ae61-e7a5bf66c301.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...The North Platte Telegraphhttps://nptelegraph.com \u203a hamas-surprise-attack-out-of-g...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://billingsgazette.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_9148d919-9458-5f92-917f-4058cf51ccdb.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Billings Gazettehttps://billingsgazette.com \u203a hamas-surprise-attack-out-of...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nptelegraph.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_19fcc8b1-bc3c-57f2-ae61-e7a5bf66c301.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...The North Platte Telegraphhttps://nptelegraph.com \u203a hamas-surprise-attack-out-of-g...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://missoulian.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_1f240611-3e74-5fc7-8e9c-1aff1ac5f987.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Missoulianhttps://missoulian.com \u203a hamas-surprise-attack-out-of-ga...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://billingsgazette.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_9148d919-9458-5f92-917f-4058cf51ccdb.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Billings Gazettehttps://billingsgazette.com \u203a hamas-surprise-attack-out-of...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://poststar.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_49d01b51-471d-552c-ac07-660763e5a318.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...The Post Starhttps://poststar.com \u203a hamas-surprise-attack-out-of-gaza-...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://rapidcityjournal.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_154fc1c5-87df-5e4e-9df6-809dce190264.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Rapid City Journalhttps://rapidcityjournal.com \u203a hamas-surprise-attack-out-...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://missoulian.com/hamas-surprise-attack-out-of-gaza-stuns-israel-and-leaves-hundreds-dead-in-fighting-retaliation/article_1f240611-3e74-5fc7-8e9c-1aff1ac5f987.html",
+        "title": "Hamas surprise attack out of Gaza stuns Israel and leaves ...Missoulianhttps://missoulian.com \u203a hamas-surprise-attack-out-of-ga...",
+        "content": "A stunned Israel launched airstrikes in Gaza, with its prime minister declaring the country is now at war with Hamas and vowing to inflict an \"\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsiu.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | WSIUWSIUhttps://www.wsiu.org \u203a photos-israel-hamas-war",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wxpr.org/2023-10-07/photos-the-war-in-israel-and-gaza",
+        "title": "Photos: The war in Israel and Gaza - WXPRWXPRhttps://www.wxpr.org \u203a photos-the-war-in-israel-and-...",
+        "content": "Israel is at war, according to Prime Minister Benjamin Netanyahu, after Palestinian Islamist Group Hamas launched an unprecedented attack on\u00a0...",
+        "size": [
+          6709,
+          4473
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nprillinois.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | NPR IllinoisNPR Illinoishttps://www.nprillinois.org \u203a photos-israel-hamas-war",
+        "content": "Wed., Oct. 11: An Israeli mobile artillery unit fired a shell from ... Wed., Oct. 11: An Israeli mobile artillery unit fired a shell from southern\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wxxinews.org/npr-news/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | WXXI NewsWXXI Newshttps://www.wxxinews.org \u203a npr-news \u203a photos-israel-...",
+        "content": "The White House says at least 11 American citizens have been killed in the fighting between Hamas and Israel.",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.michiganradio.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War - Michigan RadioMichigan Radiohttps://www.michiganradio.org \u203a photos-israel-hamas-...",
+        "content": "Viewer discretion is advised. The war raging since Saturday's attack on Israel by Hamas entered a seventh day Friday. Palestinians fled in a\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/gallery/2023/10/7/israel-palestine-escalation-in-pictures",
+        "title": "Israel pummels Gaza after Hamas's unprecedented attackAl Jazeerahttps://www.aljazeera.com \u203a gallery \u203a 2023/10 \u203a israel...",
+        "content": "Israel-Gaza war \u00b7 Features \u00b7 Economy \u00b7 Opinion \u00b7 Video; More Show more ... ISRAEL-PALESTINIANS/. Israelis take cover in a bomb shelter in Rishon\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/we-are-at-war-netanyahu-says-after-hamas-launches-devastating-surprise-attack/",
+        "title": "'We are at war,' Netanyahu says, after Hamas launches ...The Times of Israelhttps://www.timesofisrael.com \u203a we-are-at-war-netany...",
+        "content": "Prime Minister Benjamin Netanyahu said Israel \u201cis at war\u201d after Hamas launched a devastating surprise attack on the country on Saturday,\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/07/us-palestinian-office-posts-israelis-to-stand-down-then-deletes-it/",
+        "title": "US Palestinian office posts Israelis to stand down, then deletes itNew York Posthttps://nypost.com \u203a 2023/10/07 \u203a us-palestinian-offic...",
+        "content": "2007: Hamas seizes control of Gaza in a civil war. 2008: Israel launches military offensive against Gaza after Palestinian terrorists fired\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.indiatoday.in/world/story/5000-rockets-gunmen-on-ground-hamas-biggest-attack-on-israel-gaza-unfolded-timeline-2445962-2023-10-07",
+        "title": "How Hamas' biggest attack on Israel unfolded - India TodayIndia Todayhttps://www.indiatoday.in \u203a World",
+        "content": "... Israel during the early hours of Saturday. Here's a recap of the fold of events that rocked Israel which has now declared a \"state of war\".",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.oregonlive.com/nation/2023/10/hamas-surprise-attack-out-of-gaza-strip-leaves-hundreds-dead-during-jewish-holiday-israel-declares-war.html",
+        "title": "Hamas surprise attack out of Gaza Strip leaves hundreds ...OregonLive.comhttps://www.oregonlive.com \u203a nation \u203a 2023/10 \u203a hamas...",
+        "content": "Israel said it is now at war with Hamas and launched airstrikes in Gaza, vowing to inflict an \u201cunprecedented price.\u201d Bodies of dead Israeli\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktla.com/news/nationworld/israel-is-now-at-war-with-hamas-how-the-u-s-and-socal-are-reacting/",
+        "title": "Israel is now 'at war' with Hamas: how the U.S., SoCal is reactingKTLAhttps://ktla.com \u203a news \u203a nationworld \u203a israel-is-now-a...",
+        "content": "Israeli Prime Minister Benjamin Netanyahu announced that his country is now \u201cat war\u201d with the Hamas militant group following the group's\u00a0...",
+        "size": [
+          5999,
+          4000
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nj.com/news/2023/10/israel-at-war-after-surprise-deadly-attack-by-hamas.html",
+        "title": "Israel 'at war' after surprise deadly attack by Hamas - NJ.comNJ.comhttps://www.nj.com \u203a news \u203a 2023/10 \u203a israel-at-war-afte...",
+        "content": "The rocket fire comes during a period of heavy fighting in the West Bank, where nearly 200 Palestinians have been killed in Israeli military\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.smh.com.au/world/middle-east/surprise-attack-palestinian-gunmen-cross-into-israel-rocket-barrage-launched-from-gaza-20231007-p5eahh.html",
+        "title": "'We are at war', Netanyahu declares after Hamas launches ...Sydney Morning Heraldhttps://www.smh.com.au \u203a ... \u203a Israeli-Palestinian conflict",
+        "content": "As warning sirens wailed across southern and central Israel, including in Jerusalem, Israel's military said it was on a war footing.",
+        "size": [
+          584,
+          389
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nydailynews.com/2023/10/07/hamas-attack-israel-at-war-gaza/",
+        "title": "Israel 'at war' after Hamas launches surprise attack in GazaNew York Daily Newshttps://www.nydailynews.com \u203a 2023/10/07 \u203a hamas-...",
+        "content": "Prime Minister Benjamin Netanyahu declared Israel was at war on Saturday after Palestinian militant group Hamas carried out a pre-dawn\u00a0...",
+        "size": [
+          619,
+          413
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ctpublic.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | Connecticut PublicConnecticut Publichttps://www.ctpublic.org \u203a photos-israel-hamas-war",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://globalnews.ca/news/10011923/israel-attack-canadian-reaction/",
+        "title": "Canadian politicians condemn unprecedented Hamas attack ...Global Newshttps://globalnews.ca \u203a israel-attack-canadian-reaction",
+        "content": "The attacks pushed Israeli Prime Minister Benjamin Netanyahu to declare the country is now at \"at war'' in a televised address,\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.southcarolinapublicradio.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | South Carolina Public RadioSouth Carolina Public Radiohttps://www.southcarolinapublicradio.org \u203a photos-isr...",
+        "content": "Fri., Oct. 13: Israeli soldiers inspect the site of a music festival ... Fri., Oct. 13: Israeli soldiers inspect the site of a music festival near\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcconnecticut.com/news/national-international/palestinian-militants-launch-dozens-of-rockets-into-israel-sirens-are-heard-across-the-country/3119220/",
+        "title": "Israel is at war with Hamas, Netanyahu says - NBC ConnecticutNBC Connecticuthttps://www.nbcconnecticut.com \u203a national-international",
+        "content": "An error occurred. ... Opacity. Reset Done. NBC Universal, Inc. Israeli Prime Minister Benjamin Netanyahu declared war against Hamas after the\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aljazeera.com/gallery/2023/10/7/aftermath-of-the-attack-in-ashkelon-israel",
+        "title": "Aftermath of the attacks on Israel in Ashkelon - Al JazeeraAl Jazeerahttps://www.aljazeera.com \u203a gallery \u203a 2023/10 \u203a after...",
+        "content": "Israel says it is \u201cat war\u201d after Hamas launched a large-scale military operation against the country, saying it was in response to the\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wuwf.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | WUWFWUWFhttps://www.wuwf.org \u203a photos-israel-hamas-war",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.abc.net.au/news/2023-10-08/israel-and-hamas-at-war-after-surprise-attacks-from-gaza-strip/102947962",
+        "title": "Israel retaliates with Gaza strikes after Palestinian militants kill ...Australian Broadcasting Corporationhttps://www.abc.net.au \u203a news \u203a israel-and-hamas-at-w...",
+        "content": "Israel has formally declared war with Hamas, launching air strikes on Gaza and vowing to inflict an \"unprecedented price\" after dozens of\u00a0...",
+        "size": [
+          862,
+          575
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/2023/10/07/opinions/hamas-attack-israel-terrorism-ghitis/index.html",
+        "title": "Opinion: Hamas' attack on Israel is an indisputable act ... - CNNCNN.comhttps://www.cnn.com \u203a hamas-attack-israel-terrorism-ghitis",
+        "content": "... Israelis call the Yom Kippur War and Arab countries call the October 6 War. ... Israel's Channel 12 spoke to Israelis in communities where they\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hppr.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | HPPRHigh Plains Public Radiohttps://www.hppr.org \u203a photos-israel-hamas-war",
+        "content": "",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://health.wusf.usf.edu/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | Health News FloridaHealth News Floridahttps://health.wusf.usf.edu \u203a photos-israel-hamas-war",
+        "content": "Tues., Oct. 10: Relatives and colleagues of Palestinian journalists Saeed Al-Taweel and Mohammad Sobh, who were killed in Israeli airstrikes,\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nhpr.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | New Hampshire Public RadioNew Hampshire Public Radiohttps://www.nhpr.org \u203a photos-israel-hamas-war",
+        "content": "Mon., Oct. 9: Israeli soldiers in an armoured vehicles drive along a ... Mon., Oct. 9: Israeli soldiers in an armoured vehicles drive along a\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wusf.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | WUSFWUSFhttps://www.wusf.org \u203a photos-israel-hamas-war",
+        "content": "Mon., Oct. 9: Israeli soldiers in an armoured vehicles drive along a ... Mon., Oct. 9: Israeli soldiers in an armoured vehicles drive along a\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cbsnews.com/news/israel-attack-hamas-unprecedented-rocket-invasion/",
+        "title": "At least 250 killed in unprecedented Hamas attack in IsraelCBS Newshttps://www.cbsnews.com \u203a World",
+        "content": "\"We are at war,\" Israeli Prime Minister Benjamin Netanyahu said in a televised address Saturday morning, declaring a mass mobilization of the\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.southcarolinapublicradio.org/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | South Carolina Public RadioSouth Carolina Public Radiohttps://www.southcarolinapublicradio.org \u203a photos-isr...",
+        "content": "Fri., Oct. 13: Israeli soldiers inspect the site of a music festival ... Fri., Oct. 13: Israeli soldiers inspect the site of a music festival near\u00a0...",
+        "size": [
+          880,
+          587
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.marca.com/en/lifestyle/world-news/2023/10/07/652131cb268e3ec00a8b45c0.html",
+        "title": "Netanyahu tells Israel 'We are at war' after Hamas kills at least ...Marcahttps://www.marca.com \u203a world-news \u203a 2023/10/07",
+        "content": "Israel's national rescue service says at least 22 people have been killed and hundreds wounded in a Hamas military incursion on Saturday\u00a0...",
+        "size": [
+          1980,
+          1320
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://apnews.com/article/biden-hamas-israel-gop-trump-desantis-13641817571f8df9afeeb720d1774cdc",
+        "title": "Hamas attack on Israel has left Biden fending off GOP criticismAP Newshttps://apnews.com \u203a article",
+        "content": "... Israel's military with armed drones. A senior ... Israel declares war, bombards Gaza and battles to dislodge Hamas fighters after surprise attack.",
+        "size": [
+          599,
+          399
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/forces-continue-to-battle-terrorists-in-gaza-border-area-after-devastating-assault/",
+        "title": "Forces continue to battle terrorists in Gaza border area after ...The Times of Israelhttps://www.timesofisrael.com \u203a forces-continue-to-bat...",
+        "content": "Prime Minister Benjamin Netanyahu said Israel was at war, as he discussed the potential formation of an emergency government with leaders of the\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/israeli-drone-strikes-obliterate-hamas-fighters-on-gaza-border-morning-after-surprise-attack",
+        "title": "Israeli Drone Strikes Obliterate Hamas Fighters on Gaza ...The Messengerhttps://themessenger.com \u203a news \u203a israeli-drone-strikes...",
+        "content": "Israeli Prime Minister Benjamin Netanyahu warned that his country is \u201cembarking on a long and difficult war\u201d in response to Hamas' attacks. \u201c[\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/forces-continue-to-battle-terrorists-in-gaza-border-area-after-devastating-assault/",
+        "title": "Forces continue to battle terrorists in Gaza border area after ...The Times of Israelhttps://www.timesofisrael.com \u203a forces-continue-to-bat...",
+        "content": "Prime Minister Benjamin Netanyahu said Israel was at war, as he discussed the potential formation of an emergency government with leaders of the\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.adn.com/nation-world/2023/10/08/israel-battles-hamas-militants-as-combined-death-toll-from-mass-incursion-passes-900/",
+        "title": "Israel declares war, bombards Gaza and battles to dislodge ...Alaska Dispatch Newshttps://www.adn.com \u203a nation-world \u203a 2023/10/08 \u203a isra...",
+        "content": "The Israeli government formally declared war and gave the green light for \u201csignificant military steps\u201d to retaliate against Hamas for its\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nairaland.com/7869348/human-cost-israeli-palestinian-conflict-deaths",
+        "title": "The Human Cost Of The Israeli-palestinian Conflict (deaths ...Nairaland Forumhttps://www.nairaland.com \u203a human-cost-israeli-palesti...",
+        "content": "Here is the total deaths and Injuries during Israel/Palestinian war since 2008 according to UN 2008 : Palestine : 3,202",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3237210/hundreds-dead-israel-hamas-war-lebanons-hezbollah-launches-attacks",
+        "title": "Around 1,000 dead in Israel-Hamas war, as Lebanon's ...South China Morning Posthttps://www.scmp.com \u203a News \u203a World \u203a Middle East",
+        "content": "Israeli Prime Minister Benjamin Netanyahu on Sunday warned of a \u201clong and difficult\u201d war, as fighting with Hamas left hundreds dead on both\u00a0...",
+        "size": [
+          1999,
+          1333
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/israeli-drone-strikes-obliterate-hamas-fighters-on-gaza-border-morning-after-surprise-attack",
+        "title": "Israeli Drone Strikes Obliterate Hamas Fighters on Gaza ...The Messengerhttps://themessenger.com \u203a news \u203a israeli-drone-strikes...",
+        "content": "Israeli Prime Minister Benjamin Netanyahu warned that his country is \u201cembarking on a long and difficult war\u201d in response to Hamas' attacks. \u201c[\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://apnews.com/article/israel-palestinians-hamas-4531f5dafa68fb7b1f47ed23407cf934",
+        "title": "Battle scene photos show death and destruction in Israel and ...AP Newshttps://apnews.com \u203a article",
+        "content": "... Israel-Hamas war: Week 1 updates \u00b7 Fire and smoke rise following an Israeli airstrike, in Gaza City, Sunday, Oct \u00b7 Israel declares war, bombards\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.silive.com/nation/2023/10/israel-declares-war-and-approves-significant-steps-to-retaliate-for-surprise-attack-by-hamas.html",
+        "title": "Israel declares war and approves 'significant' steps to retaliate ...SILive.comhttps://www.silive.com \u203a nation \u203a 2023/10 \u203a israel-declar...",
+        "content": "Hezbollah fired dozens of rockets and shells Sunday at three Israeli positions in a disputed area along the border, and the Israeli military\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jdcorg-media.s3.amazonaws.com/wp-content/uploads/2023/10/JDC-Israel-Is-At-War_A-Call-for-Action-Oct-8-2023-JFN.pdf",
+        "title": "Israel's Citizens Need Our Support - AWSAmazon Web Serviceshttps://jdcorg-media.s3.amazonaws.com \u203a JDC-...",
+        "content": "ISRAEL AT WAR | A CALL FOR ACTION | OCTOBER 2023. 4. \u2022 Enabling a dynamic response: JDC will establish a fund for dedicated unforeseen and\u00a0...",
+        "size": [
+          1693,
+          1191
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.adn.com/nation-world/2023/10/08/live-updates-israel-says-it-is-at-war-after-surprise-hamas-attack/",
+        "title": "Live updates: Israel taking 'significant military steps' in ...Alaska Dispatch Newshttps://www.adn.com \u203a nation-world \u203a 2023/10/08 \u203a live...",
+        "content": "... Israel. Earlier Sunday, Israel formally declared war and gave the green light for \u201csignificant military steps\u201d to retaliate against Hamas\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.scmp.com/news/hong-kong/politics/article/3237221/hongkongers-israel-urged-follow-official-instructions-top-envoy-city-warns-escalating-violence",
+        "title": "Hongkongers in Israel urged to follow official instructions as ...South China Morning Posthttps://www.scmp.com \u203a News \u203a Hong Kong \u203a Politics",
+        "content": "... residents staying in Middle Eastern country as Israeli soldiers battle Hamas fighters; Amir Lati, Israel's consul general in Hong Kong,\u00a0...",
+        "size": [
+          1999,
+          1333
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://deoghar.net/video-israel-is-fighting-a-two-pronged-war-hezbollah-also-jumped-into-the-war-along-with-hamas-prt/",
+        "title": "VIDEO: \u0926\u094b\u0924\u0930\u092b\u093e \u091c\u0902\u0917 \u0932\u0921\u093c \u0930\u0939\u093e \u0907\u091c\u0930\u093e\u0907\u0932, \u0939\u092e\u093e\u0938 \u0915\u0947 \u0938\u093e\u0925 \u0939\u093f\u091c\u092c\u0941\u0932\u094d\u0932\u093e \u092d\u0940 ...deoghar.nethttps://deoghar.net \u203a video-israel-is-...",
+        "content": "Israel is being attacked from two sides. The Israeli army is fighting a war on two fronts. In fact, after the sudden attack by Hamas on\u00a0...",
+        "size": [
+          2000,
+          1334
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hotsr.com/news/2023/oct/08/israel-at-war-after-hamas-surprise-attack/",
+        "title": "VIDEO, GALLERY: Israel 'at war' after Hamas surprise attackThe Sentinel-Recordhttps://www.hotsr.com \u203a news \u203a oct \u203a israel-at-war-aft...",
+        "content": "JERUSALEM -- Backed by a barrage of rockets, dozens of Hamas militants broke out of the blockaded Gaza Strip and into nearby Israeli towns,\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elderofziyon.blogspot.com/2023/10/1008-links-pt2-october-7th-2023-day.html",
+        "title": "10/08 Links Pt2: October 7th 2023 a day that will live in infamy ...Elder Of Ziyonhttps://elderofziyon.blogspot.com \u203a 2023/10",
+        "content": "They will see off this enemy, too. Israel at war: The names and faces of Israel's fallen heroes. Nissim Logasi z\"l. Igal Iluz z\"l. Alon Barad z\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thestar.com/opinion/contributors/these-are-the-questions-that-hang-over-the-attack-on-israel/article_fa2d21be-fea0-509d-88b6-5e21add8e4e2.html",
+        "title": "These are the questions that hang over the attack on IsraelToronto Starhttps://www.thestar.com \u203a Opinion \u203a Contributors",
+        "content": "Israel-Hamas War \u00b7 The Kids Aren't All Right \u00b7 Real Estate \u00b7 Greenbelt \u00b7 Transit \u00b7 GTA \u00b7 Real Estate \u00b7 Readers' Choice Awards \u00b7 Canada \u00b7 Ontario\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tpr.org/news/2023-10-07/photos-israel-hamas-war",
+        "title": "Photos: Israel Hamas War | TPR - Texas Public RadioTexas Public Radiohttps://www.tpr.org \u203a news \u203a photos-israel-hamas-war",
+        "content": "Photos: Israel Hamas War ... Sat, Oct. 7: Police officers evacuate a woman and a child from a ... Sat, Oct. 7: Police officers evacuate a woman and\u00a0...",
+        "size": [
+          6709,
+          4473
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/american-jewish-groups-offer-bipartisan-support-to-israel-after-assault-from-gaza/",
+        "title": "American Jewish groups offer broad support to Israel after ...The Times of Israelhttps://www.timesofisrael.com \u203a american-jewish-grou...",
+        "content": "We call on the international community to condemn in the strongest terms the war crimes committed against Israelis. We pray for the wellbeing of\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.9news.com.au/world/israel-news-hamas-launches-thousands-of-rockets-into-israel/cc538325-be14-494c-b153-e8488fa715c1",
+        "title": "Hundreds dead after Hamas launches surprise air and ground ...9News.com.auhttps://www.9news.com.au \u203a World",
+        "content": "Israel's Prime Minister Benjamin Netanyahu declared that the country was \"at war\" on Saturday, after Palestinian militants in Gaza fired a\u00a0...",
+        "size": [
+          500,
+          333
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.irishtimes.com/world/middle-east/2023/10/09/israel-declares-state-of-war-as-death-toll-from-hamas-attack-rises-to-700/",
+        "title": "Israeli army describes Hamas attack as 'worst day' in history ...The Irish Timeshttps://www.irishtimes.com \u203a middle-east \u203a 2023/10/09",
+        "content": "Israel formally declared a state of war on Sunday as the death toll from Saturday's Hamas cross-border attack rose to more than 700,\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.wienerzeitung.at/a/q-a-nahostkonflikt",
+        "title": "Die wichtigsten Antworten zum Krieg in Israel - Wiener ZeitungWiener Zeitunghttps://www.wienerzeitung.at \u203a q-a-...",
+        "content": "Der Hamas-Angriff ist ein Terrorakt. Warum war Israels Armee nicht vorbereitet? Woher stammen die Waffen und warum gleicht Gaza einem\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcdfw.com/news/local/jewish-community-shows-support-for-israel-prayer-events-planned/3356400/",
+        "title": "Jewish community shows support for Israel, prayer events ...NBC 5 Dallas-Fort Worthhttps://www.nbcdfw.com \u203a news \u203a local \u203a jewish-com...",
+        "content": "With only a day's notice, hundreds gathered for prayer at Akiba Yavneh Academy in Dallas. Each person either knows someone affected by the war\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/09/onlyfans-mia-khalifa-urges-hamas-to-film-attacks-horizontal/",
+        "title": "OnlyFans Mia Khalifa urges Hamas to film attacks 'horizontal'New York Posthttps://nypost.com \u203a 2023/10/09 \u203a onlyfans-mia-khali...",
+        "content": "... Israelis. More On: Israel war 2023 \u00b7 Meet the Iranian-born Biden military aide reportedly under investigation for major influence campaign\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnews.com/meet-the-press/first-read/war-israel-elevates-foreign-policy-2024-contest-rcna119447",
+        "title": "War in Israel elevates foreign policy in 2024 contest - NBC NewsNBC Newshttps://www.nbcnews.com \u203a meet-the-press \u203a first-read",
+        "content": "The Hamas attack on Israel has elevated foreign policy, national security and intelligence gathering to the forefront of the 2024\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://religionnews.com/2023/10/09/american-jews-listen-to-harrowing-stories-of-death-and-disarray-from-israel/",
+        "title": "American Jews listen to harrowing stories of death and ...Religion News Servicehttps://religionnews.com \u203a 2023/10/09 \u203a american-jew...",
+        "content": "American evangelicals interpret Israel-Hamas War as a prelude to End Times \u00b7 Opinion \u00b7 Before we find peace in the Mideast, we have to stop\u00a0...",
+        "size": [
+          2560,
+          1707
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3237260/hostages-complicate-israels-plan-vengeance-against-hamas-attack",
+        "title": "Hostages complicate Israel's plan for vengeance against ...South China Morning Posthttps://www.scmp.com \u203a News \u203a World \u203a Middle East",
+        "content": "... Israeli towns, killing hundreds of Israelis and escaping with dozens of hostages, in the deadliest day for Israel since the 1973 war.",
+        "size": [
+          1999,
+          1333
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcboston.com/news/national-international/israel-intensifies-gaza-bombardment-battles-to-dislodge-hamas-fighters-from-its-territory/3155140/",
+        "title": "Israel vows complete siege on Gaza Strip - NBC BostonNBC Bostonhttps://www.nbcboston.com \u203a national-international",
+        "content": "Israeli Prime Minister Benjamin Netanyahu declared war against Hamas after the Palestinian militant group launched a surprise attack on Israel,\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsandsentinel.com/news/local-news/2023/10/picture-this-fear-death-and-destruction-in-israel-and-the-gaza-strip/",
+        "title": "Picture This: Fear, death and destruction in Israel and the ...News and Sentinelhttps://www.newsandsentinel.com \u203a news \u203a 2023/10",
+        "content": "Palestinian relatives mourn over the body of Ahmad Awawda, 19, who was killed in clashes with Israeli troops near the city of Nablus the\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnewyork.com/news/national-international/hamas-threatens-to-kill-civilian-hostage-any-time-israel-hits-civilian-areas-without-warning/4753104/",
+        "title": "Hamas threatens to kill civilian hostage any time Israel hits ...NBC New Yorkhttps://www.nbcnewyork.com \u203a national-international",
+        "content": "\u201cThis war crime will not be forgiven,\u201d he added. Around 1,400 Israelis and Palestinians are dead two days after Hamas launched an attack that\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.wienerzeitung.at/a/q-a-nahostkonflikt",
+        "title": "Die wichtigsten Antworten zum Krieg in Israel - Wiener ZeitungWiener Zeitunghttps://www.wienerzeitung.at \u203a q-a-...",
+        "content": "Der Hamas-Angriff ist ein Terrorakt. Warum war Israels Armee nicht vorbereitet? Woher stammen die Waffen und warum gleicht Gaza einem\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/09/onlyfans-mia-khalifa-urges-hamas-to-film-attacks-horizontal/",
+        "title": "OnlyFans Mia Khalifa urges Hamas to film attacks 'horizontal'New York Posthttps://nypost.com \u203a 2023/10/09 \u203a onlyfans-mia-khali...",
+        "content": "... Israelis. More On: Israel war 2023 \u00b7 Meet the Iranian-born Biden military aide reportedly under investigation for major influence campaign\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/09/israel-ignored-warning-something-big-was-coming-egyptian-official/",
+        "title": "Israel ignored warning 'something big' was comingNew York Posthttps://nypost.com \u203a 2023/10/09 \u203a israel-ignored-warn...",
+        "content": "More On: Israel war 2023 \u00b7 Meet the Iranian-born Biden military aide reportedly under investigation for major influence campaign: 'Clear and\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcboston.com/news/local/pro-palestinian-demonstrators-defend-weekend-violence-in-israel-as-resistance-against-oppression/3155861/",
+        "title": "Pro-Palestinian demonstrators defend violence in Israel as ...NBC Bostonhttps://www.nbcboston.com \u203a news \u203a local \u203a pro-pales...",
+        "content": "Israel declared war on Hamas Sunday after the Palestinian militant group's unprecedented surprise attacks over the weekend.",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcchicago.com/news/national-international/what-sparked-the-current-war-between-israel-and-hamas-in-the-gaza-strip/3246334/",
+        "title": "What sparked the current war between Israel and Hamas in ...NBC Chicagohttps://www.nbcchicago.com \u203a national-international",
+        "content": "A surprise weekend attack on Israel by the Palestinian militant group Hamas \u2014 which included the killing of hundreds at a crowded music festival\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.indiatoday.in/world/photo/israel-strikes-gaza-fatal-hamas-infiltration-2446444-2023-10-09",
+        "title": "Israel strikes Gaza after fatal Hamas infiltration | IN PICSIndia Todayhttps://www.indiatoday.in \u203a World \u203a Gallery",
+        "content": "Israel pounded Gaza following one of its deadliest days in decades, as Hamas militants infiltrated Israeli towns, resulting in a significant\u00a0...",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.mathrubhumi.com/multimedia/photos/heart-wrenching-images-from-the-israel-palestine-conflict-1.8971581",
+        "title": "Heart wrenching images from the Israel-Palestine conflictMathrubhumi Englishhttps://english.mathrubhumi.com \u203a Multimedia \u203a Photos",
+        "content": "'War does not determine who is right - only who is left\"- Bertrand Russell.",
+        "size": [
+          856,
+          570
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.independent.co.uk/news/world/israel-intelligence-failure-hamas-attack-b2426871.html",
+        "title": "How Israel's intelligence failed to see Hamas' most shocking ...The Independenthttps://www.independent.co.uk \u203a World",
+        "content": "Especially as the war now declared by Netanyahu will put, indeed is already putting, the lives of unknowable numbers of civilian Palestinians in\u00a0...",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nydailynews.com/2023/10/09/israel-hamas-palestine-gaza-war-death-toll/",
+        "title": "PHOTOS: Thousands dead in war between Israel and HamasNew York Daily Newshttps://www.nydailynews.com \u203a 2023/10/09 \u203a israel-h...",
+        "content": "Israel is at war with Hamas, a terrorist group, following a surprise terrorist attack on Saturday, Oct. 7, 2023, where the group killed\u00a0...",
+        "size": [
+          619,
+          413
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.opb.org/article/2023/10/09/photos-the-war-in-israel-and-gaza/",
+        "title": "Photos: The war in Israel and Gaza - OPBOregon Public Broadcastinghttps://www.opb.org \u203a article \u203a 2023/10/09 \u203a photos-t...",
+        "content": "Photos: The war in Israel and Gaza.",
+        "size": [
+          6709,
+          4473
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abcnews4.com/news/local/rscd-investigator-safe-in-israel-officials-say",
+        "title": "RCSD Investigator safe in Israel, officials say - WCIVWCIVhttps://abcnews4.com \u203a news \u203a local \u203a rscd-investigato...",
+        "content": "In an interview with Fox News on Sunday, Senator Lindsey Graham said if this war escalates,\"...We're all going to come after you.\" Senator\u00a0...",
+        "size": [
+          6733,
+          4676
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/2023/10/09/opinions/israel-intelligence-failure-september-11-bergen/index.html",
+        "title": "Opinion: The 9/11 attack wasn't an intelligence failure ... - CNNCNN.comhttps://www.cnn.com \u203a 2023/10/09 \u203a opinions \u203a israel-in...",
+        "content": "... Israeli policymakers to be exercises rather than preparations for war. In addition, as the veteran former CIA official Bruce Riedel has\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jdcorg-media.s3.amazonaws.com/wp-content/uploads/2023/10/JDC_Israel-Is-At-War_A-Call-for-Action-Oct-9-2023.pdf",
+        "title": "Israel at War: - AWSAmazon Web Serviceshttps://jdcorg-media.s3.amazonaws.com \u203a JDC_...",
+        "content": "Economic Assistance and Resilience. JDC will provide emergency support to small businesses and municipalities in Israel's. South including:.",
+        "size": [
+          1693,
+          1191
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://apnews.com/article/israel-palestinians-gaza-hamas-music-festival-6a55aae2375944f10ecc4c52d05f2ffe",
+        "title": "Israeli survivors recount terror at music festival, where Hamas ...AP Newshttps://apnews.com \u203a article",
+        "content": "\u201cThis is not just war. This is hell,\u201d Alper said. \u201cBut in that hell I still feel that somehow, we can choose to act out of love, and not\u00a0...",
+        "size": [
+          599,
+          399
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/09/onlyfans-mia-khalifa-urges-hamas-to-film-attacks-horizontal/",
+        "title": "OnlyFans Mia Khalifa urges Hamas to film attacks 'horizontal'New York Posthttps://nypost.com \u203a 2023/10/09 \u203a onlyfans-mia-khali...",
+        "content": "... Israelis. More On: Israel war 2023 \u00b7 Pro-Palestinian protesters pass out 'Killed by Israel' posters during Macy's Thanksgiving Day Parade\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://english.mathrubhumi.com/multimedia/photos/heart-wrenching-images-from-the-israel-palestine-conflict-1.8971581",
+        "title": "Heart wrenching images from the Israel-Palestine conflictMathrubhumi Englishhttps://english.mathrubhumi.com \u203a Multimedia \u203a Photos",
+        "content": "'War does not determine who is right - only who is left\"- Bertrand Russell.",
+        "size": [
+          856,
+          570
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breakingnews.ie/world/number-of-displaced-people-in-gaza-rises-to-more-than-123000-1536630.html",
+        "title": "Number of displaced people in Gaza rises to more than 123,000BreakingNews.iehttps://www.breakingnews.ie \u203a world \u203a number-of-dis...",
+        "content": "... Israel's occupation and blockade of Gaza. Advertisement. Israel \u2013 which declared war on Hamas on Sunday \u2013 hit more than 800 targets in Gaza\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abcnews4.com/rscd-investigator-safe-in-israel-officials-say",
+        "title": "RCSD Investigator safe in Israel, officials say - WCIVWCIVhttps://abcnews4.com \u203a rscd-investigator-safe-in-israel...",
+        "content": "In an interview with Fox News on Sunday, Senator Lindsey Graham said if this war escalates,\"...We're all going to come after you.\" Senator\u00a0...",
+        "size": [
+          6733,
+          4676
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cleveland.com/world/2023/10/israel-increases-bombardment-of-gaza-strip-as-it-battles-hamas.html",
+        "title": "Israel increases bombardment of Gaza Strip as it battles HamasCleveland.comhttps://www.cleveland.com \u203a world \u203a 2023/10 \u203a israel-in...",
+        "content": "JERUSALEM \u2014 Israel intensified its bombardments of the Gaza Strip on Monday after declaring war and vowing to destroy the \u201cmilitary and\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcboston.com/news/national-international/israel-strikes-downtown-gaza-city-and-mobilizes-thousands-of-reservists-as-war-enters-4th-day/3156102/",
+        "title": "President Biden says 14 Americans have been killed in Israel ...NBC Bostonhttps://www.nbcboston.com \u203a national-international",
+        "content": "Photos: Israel-Hamas War ... Palestinians stand next to a crater caused by an explosion from an Israeli airstrike in Khan Yunis in the southern of\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theglobeandmail.com/world/article-israel-hamas-war-visual-overview/",
+        "title": "Israel-Hamas war: 28 days of strife, in photosThe Globe and Mailhttps://www.theglobeandmail.com \u203a world \u203a article-isr...",
+        "content": "The 28 days of strife \u00b7 Day 1: Rockets from Gaza \u00b7 Day 2: Israel strikes back \u00b7 Day 3: Reality of war sinks in \u00b7 Day 4: The net tightens \u00b7 Day 5\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.news24.com/news24/opinions/columnists/adriaanbasson/adriaan-basson-first-ukraine-now-israel-ancs-sickening-depravity-on-show-again-20231010",
+        "title": "Adriaan Basson | First Ukraine, now Israel: ANC's sickening ...News24https://www.news24.com \u203a ... \u203a columnists \u203a adriaanbasson",
+        "content": "ancpalestinehamasisraelmahlengi bhengu-motsirigazawar. heading. description. username. Show Comments (274). Adriaan Basson | Springboks holding\u00a0...",
+        "size": [
+          1620,
+          1080
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ktla.com/news/nationworld/israel-at-war-photos-from-the-frontlines/",
+        "title": "Israel at war: Photos from the frontlines - KTLAKTLAhttps://ktla.com \u203a news \u203a nationworld \u203a israel-at-war-p...",
+        "content": "The latest Israel-Palestinian war is reverberating around the world as foreign governments try to determine how many of their citizens are\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/israeli-woman-learns-missing-husband-is-dead-on-live-television",
+        "title": "Israeli Woman Learns Missing Husband is Dead on Live ...themessenger.comhttps://themessenger.com \u203a news \u203a israeli-woman-lear...",
+        "content": "... Israel \u00b7 Israel-Hamas War Day 11 Live Updates: Hundreds Dead After Gaza Hospital Explosion; Top Hamas Leader Killed \u00b7 Israeli Girl in Wheelchair\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.msn.com/en-us/news/opinion/wake-the-hell-up-washington-america-s-enemies-are-reveling-in-your-weakness/ar-AA1hZpLf",
+        "title": "Wake the hell up Washington! America's enemies are reveling ...MSNhttps://www.msn.com \u203a en-us \u203a news \u203a opinion \u203a wak...",
+        "content": "... Israel declaring war on Hamas. Yes, you read that right: a bloody barbecue! Attendees were even reported to have enjoyed a live band near\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/10/wake-the-hell-up-washington-americas-enemies-are-reveling-in-your-weakness/",
+        "title": "Wake the hell up, Washington! America's enemies are ...New York Posthttps://nypost.com \u203a 2023/10/10 \u203a wake-the-hell-up-w...",
+        "content": "... Saturday, then hosted a staff barbecue with his wife at the White House on Sunday \u2014 within hours of Israel declaring war on Hamas.",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/israeli-woman-learns-missing-husband-is-dead-on-live-television",
+        "title": "Israeli Woman Learns Missing Husband is Dead on Live ...themessenger.comhttps://themessenger.com \u203a news \u203a israeli-woman-lear...",
+        "content": "... Israel \u00b7 Israel-Hamas War Day 11 Live Updates: Hundreds Dead After Gaza Hospital Explosion; Top Hamas Leader Killed \u00b7 Israeli Girl in Wheelchair\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcchicago.com/news/national-international/who-are-hamas-and-why-did-the-militant-group-attack-israel-what-you-need-to-know/3247130/",
+        "title": "What is Hamas and why did the group attack Israel in 2023?NBC Chicagohttps://www.nbcchicago.com \u203a national-international",
+        "content": "Without an agreement, wars and conflicts continued. In 1967, during what became known as the Six-Day War, Israel seized the Gaza Strip and\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnews.com/politics/congress/house-republicans-skeptical-us-aid-link-israel-ukraine-rcna119674",
+        "title": "House GOP skeptical of linking U.S. aid to Israel and UkraineNBC Newshttps://www.nbcnews.com \u203a politics \u203a congress \u203a hous...",
+        "content": "Not even the same at all,\u201d she said. \u201cOur government's funding Ukraine's government, funding the proxy war with Russia. Israel has their own\u00a0...",
+        "size": [
+          2500,
+          1667
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/national-international/power-authority-says-sole-plant-will-run-out-of-fuel-in-hours-leaving-gaza-with-no-electricity-after-israeli-cutoff/3338895/",
+        "title": "Israel pounds sealed-off Gaza strip, cuts power supplyNBC Bay Areahttps://www.nbcbayarea.com \u203a national-international",
+        "content": "As strikes devastate Gaza, Israel forms unity government to oversee war sparked by Hamas attack \u00b7 In the sealed-off Gaza Strip, Palestinians\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/2023/10/10/opinions/israel-hamas-jews-not-all-right-klein/index.html",
+        "title": "Opinion: After Hamas attacks on Israel, we Jews are not okayCNN.comhttps://www.cnn.com \u203a 2023/10/10 \u203a opinions \u203a israel-h...",
+        "content": "From the moment we woke up last Saturday morning to news of the war in Israel, my husband's and my phones started buzzing with the question, \u201cIs\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcboston.com/news/local/lexington-family-mourns-father-killed-defending-village-in-israel/3157946/",
+        "title": "Lexington family mourns father killed defending village in IsraelNBC Bostonhttps://www.nbcboston.com \u203a news \u203a local \u203a lexington...",
+        "content": "The consul general of Israel to New England says the war has been \"Israel's darkest day in its modern history.\" Get Boston local news, weather\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcmiami.com/news/national-international/the-death-toll-of-us-citizens-in-the-israel-hamas-war-rises-to-22-state-department/3130654/",
+        "title": "22 US citizens killed in Israel-Hamas war - NBC 6 South FloridaNBC 6 South Floridahttps://www.nbcmiami.com \u203a national-international \u203a t...",
+        "content": "The number of U.S. citizens confirmed to have been killed in the Israel-Hamas war has risen to 22, the State Department said Wednesday.",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnn.com/2023/10/11/opinions/washington-us-military-support-israel-ukraine-andelman/index.html",
+        "title": "Opinion: How long can America continue to be arsenal ... - CNNCNN.comhttps://www.cnn.com \u203a 2023/10/11 \u203a opinions \u203a washing...",
+        "content": "Now Israel is at war, a close ally that the Biden administration has pledged to support. And the scope of that conflict could grow: Israeli\u00a0...",
+        "size": [
+          3000,
+          2000
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.peacenowcanada.org/news-releases/these-are-the-questions-that-hang-over-the-attack-on-israel/",
+        "title": "These are the questions that hang over the attack on IsraelCanadian Friends of Peace Nowhttps://www.peacenowcanada.org \u203a News and Media",
+        "content": "Despite the darkness of war, we must look forward. Thursday, November 16, 2023. \ufeffCFPN supports humanitarian pauses\ufeff. Wednesday, November 8\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.pennlive.com/galleries/JHOUY2Q3G5G6HMCWHQ4XVG4VHQ/",
+        "title": "Israel, Palestine attacks - pennlive.comPennLive.comhttps://www.pennlive.com \u203a galleries",
+        "content": "Israel Hamas war. An Israeli howitzer fires at the Gaza Strip from the south of Israel on Thursday, Oct. 12, 2023. (AP Photo/Ohad Zwigenberg).",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnewyork.com/news/national-international/blinken-arrives-in-tel-aviv-as-strikes-devastate-gaza-and-israel-says-its-preparing-for-possible-ground-assault/4761878/",
+        "title": "White House says 27 Americans killed in Israel-Hamas warNBC New Yorkhttps://www.nbcnewyork.com \u203a national-international",
+        "content": "White House says 27 Americans killed in Israel-Hamas war; Israel preparing for possible ground assault \u00b7 The White House announced the U.S.\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcchicago.com/news/national-international/israel-allows-palestinians-to-flee-north-gaza-ahead-of-expected-ground-invasion/3250760/",
+        "title": "Gaza's desperate civilians flee or huddle in ... - NBC ChicagoNBC Chicagohttps://www.nbcchicago.com \u203a national-international",
+        "content": "7 assault. This is the deadliest war for Israel since the 1973 conflict with Egypt and Syria.",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://thehimalayantimes.com/world/israel-allows-egypt-to-deliver-limited-aid-to-gaza",
+        "title": "ISRAEL ALLOWS EGYPT TO DELIVER LIMITED AID TO GAZAThe Himalayan Timeshttps://thehimalayantimes.com \u203a world \u203a israel-allows-...",
+        "content": "It also demanded that international Red Cross be allowed to visit kidnapped Israelis held captive in Gaza. #Joe Biden #Israel-Hamas war.",
+        "size": [
+          400,
+          266
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jdcorg-media.s3.amazonaws.com/wp-content/uploads/2023/10/JDC_Israel-At-War_A-Call-for-Action-Oct-18-2023.pdf",
+        "title": "Israel at War - AWSAmazon Web Serviceshttps://jdcorg-media.s3.amazonaws.com \u203a JDC_...",
+        "content": "Israel is at War. JDC Is There. Since Saturday October 7, 2023, Israelis have been living a nightmare. Over 1,300 have been killed,\u00a0...",
+        "size": [
+          1693,
+          1191
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcdfw.com/news/national-international/israel-will-allow-egypt-to-deliver-some-aid-to-gaza/3363746/",
+        "title": "Israel will allow Egypt to deliver some aid to GazaNBC 5 Dallas-Fort Worthhttps://www.nbcdfw.com \u203a news \u203a national-international",
+        "content": "Israeli Prime Minister Benjamin Netanyahu declared war against Hamas after the Palestinian militant group launched a surprise attack on Israel,\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/national-international/israel-pounds-gaza-evacuates-town-near-lebanon-ahead-of-expected-ground-offensive-against-hamas/3347638/",
+        "title": "2 US hostages have been released by Hamas - NBC Bay AreaNBC Bay Areahttps://www.nbcbayarea.com \u203a national-international",
+        "content": "\u201cWe are continuing the war against Hamas and ready for the next stage of the war,\u201d he said. A potential Israeli ground assault is likely to lead\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/national-international/israel-pounds-gaza-evacuates-town-near-lebanon-ahead-of-expected-ground-offensive-against-hamas/3347638/",
+        "title": "2 US hostages have been released by Hamas - NBC Bay AreaNBC Bay Areahttps://www.nbcbayarea.com \u203a national-international",
+        "content": "\u201cWe are continuing the war against Hamas and ready for the next stage of the war,\u201d he said. A potential Israeli ground assault is likely to lead\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbclosangeles.com/news/national-international/israel-ramps-up-strikes-on-gaza-as-us-advises-delaying-ground-offensive-to-allow-talks-on-captives/3249934/",
+        "title": "Hamas frees two Israeli women as US advises delaying ...NBC Los Angeleshttps://www.nbclosangeles.com \u203a national-international",
+        "content": "Israeli Prime Minister Benjamin Netanyahu declared war against Hamas after the Palestinian militant group launched a surprise attack on Israel,\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.winnipegfreepress.com/world/2023/10/24/russia-maneuvers-carefully-over-the-israel-hamas-war-as-it-seeks-to-expand-its-global-clout",
+        "title": "Russia maneuvers carefully over the Israel-Hamas war as it ...Winnipeg Free Presshttps://www.winnipegfreepress.com \u203a 2023/10/24 \u203a ru...",
+        "content": "Russia has issued carefully calibrated criticism of both sides in the war between Israel and Hamas. But the conflict also is giving Moscow\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://apnews.com/article/russia-israel-hamas-putin-palestinians-mideast-efa2b7f3765aadbf6934839ea5fcd16b",
+        "title": "Russia maneuvers carefully over the Israel-Hamas warAP Newshttps://apnews.com \u203a article",
+        "content": "Russian President Vladimir Putin has condemned the Oct. 7 attack by Hamas militants. And he warned Israel against blockading the Gaza Strip.",
+        "size": [
+          599,
+          399
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.click2houston.com/news/world/2023/10/25/russia-maneuvers-carefully-over-the-israel-hamas-war-as-it-seeks-to-expand-its-global-clout/",
+        "title": "Russia maneuvers carefully over the Israel-Hamas war as it ...Click2Houstonhttps://www.click2houston.com \u203a world \u203a 2023/10/25",
+        "content": "Russia has issued carefully calibrated criticism of both sides in the war between Israel and Hamas.",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bostonglobe.com/2023/10/25/world/russia-maneuvers-carefully-over-israel-hamas-war-it-seeks-expand-its-global-clout/",
+        "title": "Russia maneuvers carefully over the Israel-Hamas war as it ...The Boston Globehttps://www.bostonglobe.com \u203a 2023/10/25 \u203a world \u203a ru...",
+        "content": "Russia has issued carefully calibrated criticism of both sides in the war between Israel and Hamas. But the conflict also is giving Moscow\u00a0...",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ottawa.citynews.ca/2023/10/25/russia-maneuvers-carefully-over-the-israel-hamas-war-as-it-seeks-to-expand-its-global-clout/",
+        "title": "Russia maneuvers carefully over the Israel-Hamas war as it ...CityNews Ottawahttps://ottawa.citynews.ca \u203a 2023/10/25 \u203a russia-mane...",
+        "content": "Konstantin Kosachev, deputy speaker of the upper house of Russian parliament, said that while Hamas unleashed the war, Israel's response was \u201c\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.clickondetroit.com/news/world/2023/10/25/russia-maneuvers-carefully-over-the-israel-hamas-war-as-it-seeks-to-expand-its-global-clout/",
+        "title": "Russia maneuvers carefully over the Israel-Hamas war as it ...ClickOnDetroithttps://www.clickondetroit.com \u203a world \u203a 2023/10/25",
+        "content": "Russia has issued carefully calibrated criticism of both sides in the war between Israel and Hamas.",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcconnecticut.com/news/national-international/un-warns-relief-operations-in-gaza-in-jeopardy-as-israeli-airstrikes-rise/3132205/",
+        "title": "Israel-Hamas War: UN Warns relief operations in Gaza in ...NBC Connecticuthttps://www.nbcconnecticut.com \u203a national-international",
+        "content": "UN warns Gaza blockade could force it to sharply cut relief missions as Israeli bombings rise. Gaza's residents have been running out of food,\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://toronto.citynews.ca/2023/10/25/russia-maneuvers-carefully-over-the-israel-hamas-war-as-it-seeks-to-expand-its-global-clout/",
+        "title": "Russia maneuvers carefully over the Israel-Hamas war as it ...CityNews Torontohttps://toronto.citynews.ca \u203a 2023/10/25 \u203a russia-mane...",
+        "content": "Konstantin Kosachev, deputy speaker of the upper house of Russian parliament, said that while Hamas unleashed the war, Israel's response was \u201c\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsls.com/news/world/2023/10/25/russia-maneuvers-carefully-over-the-israel-hamas-war-as-it-seeks-to-expand-its-global-clout/",
+        "title": "Russia maneuvers carefully over the Israel-Hamas war as it ...WSLShttps://www.wsls.com \u203a news \u203a world \u203a 2023/10/25",
+        "content": "Russia has issued carefully calibrated criticism of both sides in the war between Israel and Hamas.",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.local10.com/news/world/2023/10/25/russia-maneuvers-carefully-over-the-israel-hamas-war-as-it-seeks-to-expand-its-global-clout/",
+        "title": "Russia maneuvers carefully over the Israel-Hamas war as it ...WPLGhttps://www.local10.com \u203a news \u203a world \u203a 2023/10/25",
+        "content": "Russia has issued carefully calibrated criticism of both sides in the war between Israel and Hamas.",
+        "size": [
+          5000,
+          3334
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.npr.org/2023/10/27/1208836319/israel-hamas-islamic-jihad-militants-videos-details",
+        "title": "New details emerge about the Hamas-led attackers who ...NPRhttps://www.npr.org \u203a 2023/10/27 \u203a israel-hamas-islamic...",
+        "content": "... Israel's founding war 75 years ago. Failed rounds of Israeli-Palestinian peace talks have driven support for what Palestinians call armed\u00a0...",
+        "size": [
+          6733,
+          4484
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnewyork.com/news/national-international/israel-says-female-soldier-captured-during-hamas-assault-has-been-released-during-its-ground-operation-in-gaza/4813591/",
+        "title": "Israel says female soldier captured during Hamas assault has ...NBC New Yorkhttps://www.nbcnewyork.com \u203a national-international",
+        "content": "Photos: Israel-Hamas War ... Palestinians stand next to a crater caused by an explosion from an Israeli airstrike in Khan Yunis in the southern of\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcbayarea.com/news/national-international/israel-says-female-soldier-captured-during-hamas-assault-has-been-released-during-its-ground-operation-in-gaza/3356164/",
+        "title": "Israel says female soldier captured during Hamas assault has ...NBC Bay Areahttps://www.nbcbayarea.com \u203a national-international",
+        "content": "Photos: Israel-Hamas War ... Palestinians stand next to a crater caused by an explosion from an Israeli airstrike in Khan Yunis in the southern of\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcsandiego.com/news/national-international/hamas-could-inspire-attacks-in-the-us-fbi-chief-christopher-wray-says/3342321/",
+        "title": "Hamas could inspire attacks in the US, FBI chief saysNBC 7 San Diegohttps://www.nbcsandiego.com \u203a national-international",
+        "content": "Photos: Israel-Hamas War ... Palestinians stand next to a crater caused by an explosion from an Israeli airstrike in Khan Yunis in the southern of\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcconnecticut.com/news/national-international/an-israeli-ministry-in-a-concept-paper-proposes-transferring-gaza-civilians-to-egypts-sinai/3137268/",
+        "title": "An Israeli ministry proposes transferring Gaza civilians to ...NBC Connecticuthttps://www.nbcconnecticut.com \u203a national-international",
+        "content": "\u201cWhat happened in 1948 will not be allowed to happen again.\" A mass displacement, Abu Rudeineh said, would be \u201ctantamount to declaring a new war\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcphiladelphia.com/news/national-international/israeli-airstrikes-level-apartments-in-gaza-refugee-camp-as-ground-troops-battle-hamas/3682526/",
+        "title": "Israeli airstrikes level apartments in Gaza refugee campNBC10 Philadelphiahttps://www.nbcphiladelphia.com \u203a news \u203a israeli-airst...",
+        "content": "7 rampage, which ignited the war. Hamas, an Islamic militant group, openly calls for the destruction of Israel. Get Philly local news, weather\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcconnecticut.com/news/national-international/an-israeli-ministry-in-a-concept-paper-proposes-transferring-gaza-civilians-to-egypts-sinai/3137268/",
+        "title": "An Israeli ministry proposes transferring Gaza civilians to ...NBC Connecticuthttps://www.nbcconnecticut.com \u203a national-international",
+        "content": "A mass displacement, Abu Rudeineh said, would be \u201ctantamount to declaring a new war.\u201d Get Connecticut local news, weather forecasts and\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcmiami.com/news/national-international/why-cant-facebook-stop-hamas-from-posting-grisly-videos-of-the-killing-of-israeli-civilians/3148035/",
+        "title": "Why can't Facebook block Hamas' grisly videos?NBC 6 South Floridahttps://www.nbcmiami.com \u203a national-international",
+        "content": "FBI director Christopher Wray testified Tuesday that the Israel-Hamas war has raised terrorism threats against the U.S. \u201cto a whole other level.",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:11:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbclosangeles.com/news/national-international/gazas-phone-and-internet-connections-cut-off-again-as-israeli-troops-battle-hamas-militants/3257093/",
+        "title": "Foreign passport holders, wounded Palestinians allowed to ...NBC Los Angeleshttps://www.nbclosangeles.com \u203a national-international",
+        "content": "ISRAELI ARMY ADVANCES DEEPER INTO GAZA. Brig Gen. \u00b7 BORDER OPENS TO ALLOW SOME PEOPLE OUT \u00b7 Photos: Israel-Hamas War \u00b7 HOSPITALS WARN OF DEPLETING\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:11:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbclosangeles.com/news/national-international/pressure-rises-on-israel-to-pause-fighting-and-ease-siege-as-battles-intensify-near-gaza-city/3259104/",
+        "title": "Pressure rises on Israel to pause fighting and ease siege as ...NBC Los Angeleshttps://www.nbclosangeles.com \u203a national-international",
+        "content": "FBI director Christopher Wray testified Tuesday that the Israel-Hamas war has raised terrorism threats against the U.S. \u201cto a whole other level.",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:11:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcwashington.com/news/national-international/the-us-urges-more-protections-for-civilians-caught-in-crossfire-as-israel-tightens-encirclement-of-gaza/3461218/",
+        "title": "Israel resists US pressure to pause the war - NBC4 WashingtonNBC4 Washingtonhttps://www.nbcwashington.com \u203a national-international",
+        "content": "U.S. Secretary of State Antony Blinken urged Israel to do everything in its power to protect civilians caught in the fighting in Gaza and\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:11:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://themessenger.com/news/israel-defense-minister-says-war-will-be-over-sooner-if-gazans-kill-hamas-leader-themselves",
+        "title": "Israel Defense Minister Says War Will Be Over Sooner if ...themessenger.comhttps://themessenger.com \u203a news \u203a israel-defense-mini...",
+        "content": "Israel's defense minister said Gazans can cut the war unfolding in Gaza short if they kill the leader of Hamas themselves. Defense Minister Yoav\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:11:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ca.finance.yahoo.com/news/ap-photos-death-destruction-despair-041638207.html",
+        "title": "Death, destruction and despair reign a month into Israel ...Yahoo Finance Canadahttps://ca.finance.yahoo.com \u203a news \u203a ap-photos-deat...",
+        "content": "... Israel-Hamas war. The Associated Press. November 6 ... Israel Hamas One Month of War Photo Gallery. Palestinians celebrate by a destroyed Israeli\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://uk.finance.yahoo.com/news/ap-photos-death-destruction-despair-041638207.html",
+        "title": "Death, destruction and despair reign a month into Israel ...Yahoo Finance UKhttps://uk.finance.yahoo.com \u203a news \u203a ap-photos-deat...",
+        "content": "... Israel-Hamas war. The Associated Press. 6 November ... Israel Hamas One Month of War Photo Gallery. Palestinians celebrate by a destroyed Israeli\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mysanantonio.com/news/article/ap-photos-death-destruction-and-despair-reigns-18473798.php",
+        "title": "AP PHOTOS: Death, destruction and despair reign a month ...MySAhttps://www.mysanantonio.com \u203a News",
+        "content": "AP PHOTOS: Death, destruction and despair reign a month into Israel-Hamas war. By The Associated PressUpdated Nov 7, 2023 9:59 a.m..",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.aftonbladet.se/nyheter/a/Q763VQ/bildextra-en-manad-av-krig-tusentals-doda",
+        "title": "BILDEXTRA: En m\u00e5nad av krig \u2212 tusentals d\u00f6da - AftonbladetAftonbladethttps://www.aftonbladet.se \u203a nyheter \u203a bildextra-en-mana...",
+        "content": "Den 7 oktober br\u00f6t kriget ut n\u00e4r terrorst\u00e4mplade Hamas gick till attack mot Israel. Efter det har Israel svarat med luftangrepp, en blockad\u00a0...",
+        "size": [
+          1900,
+          1267
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.yahoo.com/ap-photos-death-destruction-despair-041638207.html",
+        "title": "AP PHOTOS: Death, destruction and despair reign a month ...Yahoo Newshttps://news.yahoo.com \u203a ap-photos-death-destruction...",
+        "content": "... Israel-Hamas war. The Associated Press. Updated ... Israel Hamas One Month of War Photo Gallery. Palestinians celebrate by a destroyed Israeli\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.seattlepi.com/news/article/ap-photos-death-destruction-and-despair-reigns-18473798.php",
+        "title": "AP PHOTOS: Death, destruction and despair reign a month ...Seattle Post-Intelligencerhttps://www.seattlepi.com \u203a News",
+        "content": "... destruction and despair reign a month into Israel-Hamas war. By The Associated PressUpdated Nov 7, 2023 7:59 a.m..",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.seattlepi.com/news/article/ap-photos-death-destruction-and-despair-reigns-18473798.php",
+        "title": "AP PHOTOS: Death, destruction and despair reign a month ...Seattle Post-Intelligencerhttps://www.seattlepi.com \u203a News",
+        "content": "... destruction and despair reign a month into Israel-Hamas war. By The Associated PressUpdated Nov 7, 2023 7:59 a.m..",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.chron.com/news/article/ap-photos-death-destruction-and-despair-reigns-18473798.php",
+        "title": "AP PHOTOS: Death, destruction and despair reign a month ...Chronhttps://www.chron.com \u203a News",
+        "content": "... destruction and despair reign a month into Israel-Hamas war. By The Associated PressUpdated Nov 7, 2023 9:59 a.m..",
+        "size": [
+          2048,
+          1365
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.amny.com/news/pro-palestine-protesters-take-manhattan-bridge/",
+        "title": "War in Israel | Election Day pro-Palestine protest sees ...AM New Yorkhttps://www.amny.com \u203a news \u203a pro-palestine-proteste...",
+        "content": "The latest New York City protest over the Israel-Hamas conflict saw thousands of pro-Palestine protesters on the march through Lower\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": "2023:11:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcphiladelphia.com/news/national-international/israeli-forces-raid-gazas-largest-hospital-where-hundreds-of-patients-are-stranded-by-fighting/3696276/",
+        "title": "Israel-Hamas War: IDF raids Al-Shifa hospital in GazaNBC10 Philadelphiahttps://www.nbcphiladelphia.com \u203a news \u203a israeli-forc...",
+        "content": "Israeli forces raided Gaza's largest hospital early Wednesday, where hundreds of patients, including newborns, have been stranded with\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcdfw.com/news/national-international/dissent-over-us-policy-in-the-israel-hamas-war-stirs-unusual-public-protests-from-federal-employees/3391714/",
+        "title": "Federal employees speaking out to condemn Israel-Hamas warNBC 5 Dallas-Fort Worthhttps://www.nbcdfw.com \u203a news \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://onefamilyfund.ca/",
+        "title": "One Family Fund \u2013 Overcoming Terror TogetherOne Family Fundhttps://onefamilyfund.ca",
+        "content": "Israel at War Emergency Fund \u00b7 Israel at War Emergency Fund \u00b7 OneFamily provides long-term emotional and financial support to Israel's victims of terror and war.",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcphiladelphia.com/news/national-international/photos-hamas-launches-unprecedented-attack-on-israel/3662683/",
+        "title": "Photos: Israel-Hamas War - NBC10 PhiladelphiaNBC10 Philadelphiahttps://www.nbcphiladelphia.com \u203a news \u203a photos-ha...",
+        "content": "Photos: Israel-Hamas War. Published October 7, 2023 \u2022 Updated on October 16, 2023 at 2:07 pm. The militant Hamas rulers of the Gaza Strip carried out an\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbclosangeles.com/news/national-international/israel-hamas-truce-deal-for-hostage-release-hits-last-minute-snag-now-expected-to-start-friday/3275501/",
+        "title": "Qatar says Gaza cease-fire will begin Friday morning, with aid ...NBC Los Angeleshttps://www.nbclosangeles.com \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcconnecticut.com/news/national-international/truce-deal-raises-hopes-of-freeing-hostages-in-gaza-and-halting-worst-mideast-violence-in-decades/3155267/",
+        "title": "Israel and Hamas reach deal to release 50 hostagesNBC Connecticuthttps://www.nbcconnecticut.com \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcsandiego.com/news/national-international/truce-deal-raises-hopes-of-freeing-hostages-in-gaza-and-halting-worst-mideast-violence-in-decades/3362299/",
+        "title": "Israel and Hamas reach deal to release 50 hostagesNBC 7 San Diegohttps://www.nbcsandiego.com \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/casakshamagarwal_war-death-terror-activity-7117008548848386048-hD9Y",
+        "title": "CA Saksham Agarwal on LinkedIn: #war #death #terror #loss ...LinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "SHOCKING UPDATE: Israel's ongoing war just got bigger! Palestinian terror group Hamas' cowardly surprise attack is being applauded by Iran!! Iranian\u2026",
+        "size": [
+          599,
+          399
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcchicago.com/news/national-international/israel-hamas-truce-deal-for-hostage-release-hits-last-minute-snag-now-expected-to-start-friday/3285981/",
+        "title": "Gaza truce and hostage release to start Friday - NBC ChicagoNBC Chicagohttps://www.nbcchicago.com \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcmiami.com/news/national-international/truce-deal-raises-hopes-of-freeing-hostages-in-gaza-and-halting-worst-mideast-violence-in-decades/3166465/",
+        "title": "Israel and Hamas reach deal to release 50 hostagesNBC 6 South Floridahttps://www.nbcmiami.com \u203a national-international \u203a t...",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcdfw.com/news/national-international/israel-hamas-truce-deal-for-hostage-release-hits-last-minute-snag-now-expected-to-start-friday/3395221/",
+        "title": "Israel-Hamas truce deal for hostages release expected to start ...NBC 5 Dallas-Fort Worthhttps://www.nbcdfw.com \u203a news \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcwashington.com/news/national-international/truce-deal-raises-hopes-of-freeing-hostages-in-gaza-and-halting-worst-mideast-violence-in-decades/3477276/",
+        "title": "Israel and Hamas reach deal to release 50 hostagesNBC4 Washingtonhttps://www.nbcwashington.com \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcsandiego.com/news/national-international/israel-hamas-truce-deal-for-hostage-release-hits-last-minute-snag-now-expected-to-start-friday/3363161/",
+        "title": "Israel-Hamas truce deal for hostages release expected to start ...NBC 7 San Diegohttps://www.nbcsandiego.com \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://theexodusroad.com/israel-emergency-relief-fund/",
+        "title": "Israel Emergency Relief Fund - The Exodus RoadThe Exodus Roadhttps://theexodusroad.com \u203a israel-emergency-relief-f...",
+        "content": "... war. Israel-founded Cellebrite, together with The Exodus Road, is responding by mobilizing funds to vetted organizations that are on the ground offering\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/casakshamagarwal_liquidity-centralbanks-investing-activity-6807222255894974464-Rt7e",
+        "title": "CA Saksham Agarwal on LinkedIn: #liquidity #centralbanks ...LinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "... war against Israel!! In Israel, PM Netanyahu has formed a unity government and set up a war cabinet with a vow to end Hamas!! Israel has been bombarding\u00a0...",
+        "size": [
+          599,
+          399
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/FarReachingMinistries/posts/wwwfrmusaorg/5270762156372771/?locale=ms_MY",
+        "title": "Far Reaching Ministries - FacebookFacebook\u00a0\u00b7\u00a0Far Reaching Ministries40+ reactions",
+        "content": "Israel formed a war council and declared war on Hamas with the sole goal of destroying their well-entrenched terrorist network. In addition, Israel is defending\u00a0...",
+        "size": [
+          2048,
+          1366
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.necn.com/news/national-international/israel-hamas-truce-deal-for-hostage-release-hits-last-minute-snag-now-expected-to-start-friday/3098725/?amp=1",
+        "title": "Israel-Hamas truce deal for hostages release expected to start ...New England Cable Newshttps://www.necn.com \u203a news \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/FarReachingMinistries/posts/wwwfrmusaorg/5270762156372771/?locale=ms_MY",
+        "title": "Far Reaching Ministries - FacebookFacebook\u00a0\u00b7\u00a0Far Reaching Ministries40+ reactions",
+        "content": "Israel formed a war council and declared war on Hamas with the sole goal of destroying their well-entrenched terrorist network. In addition, Israel is defending\u00a0...",
+        "size": [
+          2048,
+          1366
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.necn.com/news/national-international/israel-hamas-truce-deal-for-hostage-release-hits-last-minute-snag-now-expected-to-start-friday/3098725/?amp=1",
+        "title": "Israel-Hamas truce deal for hostages release expected to start ...New England Cable Newshttps://www.necn.com \u203a news \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.necn.com/news/national-international/truce-deal-raises-hopes-of-freeing-hostages-in-gaza-and-halting-worst-mideast-violence-in-decades/3097887/?amp=1",
+        "title": "Israel and Hamas reach deal to release 50 hostages - NECNNew England Cable Newshttps://www.necn.com \u203a news \u203a national-international",
+        "content": " \u00b7 ",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.irishtimes.com/author/mark-weiss/",
+        "title": "Mark Weiss - The Irish TimesThe Irish Timeshttps://www.irishtimes.com \u203a author \u203a mark-weiss",
+        "content": "Mark Weiss ; Israeli-Irish Hamas hostage Emily Hand (9) not in first batch of captives to be released on Friday \u00b7 Thu Nov 23 2023 - 15:28 ; Israel-Hamas war:\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://debateyconvergencia.com.ar/netanyahu-says-israel-is-at-war-after-hamas-launches-surprise-air-and-ground-attack-from-gaza/",
+        "title": "Netanyahu says Israel is 'at war' after Hamas launches ...Debate y Convergenciahttps://debateyconvergencia.com.ar \u203a netanyahu-says-i...",
+        "content": "Residents of Kibbutz Beeri and Kibbutz Nir Oz, two Israeli communities, told the country's Channel 12 television station that assailants from Gaza were trying\u00a0...",
+        "size": [
+          927,
+          618
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://onefamilyfund.ca/page/3",
+        "title": "Page 3 \u2013 Overcoming Terror Together - One Family FundOne Family Fundhttps://onefamilyfund.ca \u203a page",
+        "content": "Israel at War Emergency Fund. Donate NowDonate Now ... OneFamily provides long-term emotional and financial support to Israel's victims of terror and war.",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lk.linkedin.com/posts/casakshamagarwal_wish-you-a-merry-christmas-coco-activity-7012646468457000960-R7uT",
+        "title": "CA Saksham Agarwal posted on LinkedInLinkedInhttps://lk.linkedin.com \u203a posts",
+        "content": "ALERT: Israel is at war! The Israel-Palestine conflict is seeing its largest action ever as the skirmish has evolved into a full blown war!! In a surprise\u00a0...",
+        "size": [
+          599,
+          399
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.irishtimes.com/tags/israel-hamas-conflict/10/",
+        "title": "Israel-Hamas conflict - The Irish TimesThe Irish Timeshttps://www.irishtimes.com \u203a tags \u203a israel-hamas-conflict",
+        "content": "Palestinian hopelessness drove the Hamas attack on Israel \u00b7 Israel declares war and approves 'significant' military steps in retaliation for Hamas attack.",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.facebook.com/FarReachingMinistries/?locale=zh_CN",
+        "title": "Far Reaching Ministries - FacebookFacebook\u00a0\u00b7\u00a0Far Reaching Ministries6.2K+ followers",
+        "content": "deadly war. Israel formed a war council and declared war on Hamas with the sole goal of destroying their well-entrenched terrorist network. In addition\u00a0...",
+        "size": [
+          2048,
+          1366
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.facebook.com/FarReachingMinistries/?locale=zh_TW",
+        "title": "Far Reaching Ministries - FacebookFacebook\u00a0\u00b7\u00a0Far Reaching Ministries6.2K+ followers",
+        "content": "deadly war. Israel formed a war council and declared war on Hamas with the sole goal of destroying their well-entrenched terrorist network. In addition\u00a0...",
+        "size": [
+          2048,
+          1366
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.wienerzeitung.at/",
+        "title": "Wiener ZeitungWiener Zeitunghttps://www.wienerzeitung.at",
+        "content": "Die wichtigsten Antworten zum Krieg in Israel. Der Hamas-Angriff ist ein Terrorakt. Warum war Israels Armee nicht vorbereitet? 4 Min \u00b7 Politik \u00b7 Nahost \u00b7 Ein\u00a0...",
+        "size": [
+          6733,
+          4489
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.kommersant.ru/doc/6351119",
+        "title": "\u041d\u0435\u0442\u0430\u043d\u044c\u044f\u0445\u0443 \u0437\u0430\u044f\u0432\u0438\u043b \u043e \u043f\u0440\u043e\u0433\u0440\u0435\u0441\u0441\u0435 \u0432 \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u0430\u0445 \u0441 \u00ab\u0425\u0430\u043c\u0430\u0441\u043e\u043cKommersanthttps://www.kommersant.ru \u203a \u041c\u0438\u0440",
+        "content": " \u00b7 ",
+        "size": [
+          816,
+          544
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.kommersant.ru/doc/6352165",
+        "title": "\u0412\u043b\u0430\u0441\u0442\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f: \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0437\u0430\u043b\u043e\u0436\u043d\u0438\u043a\u043e\u0432 \u043d\u0430\u0447\u043d\u0435\u0442\u0441\u044f \u043d\u0435 ...Kommersanthttps://www.kommersant.ru \u203a doc",
+        "content": "\u00ab\u041f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b \u043e\u0431 \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u0437\u0430\u043b\u043e\u0436\u043d\u0438\u043a\u043e\u0432 \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u044e\u0442\u0441\u044f \u0438 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442\u0441\u044f \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u00bb,\u2014 \u0441\u043a\u0430\u0437\u0430\u043b \u0433\u043e\u0441\u043f\u043e\u0434\u0438\u043d \u0425\u0430\u043d\u0435\u0433\u0431\u0438, \u0435\u0433\u043e \u0441\u043b\u043e\u0432\u0430 \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 The Times of Israel. \u041e\u043d \u043e\u0442\u043c\u0435\u0442\u0438\u043b\u00a0...",
+        "size": [
+          816,
+          544
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.kommersant.ru/doc/6351298",
+        "title": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c \u043e\u0434\u043e\u0431\u0440\u0438\u043b \u0441\u0434\u0435\u043b\u043a\u0443 \u0441 \u00ab\u0425\u0430\u043c\u0430\u0441\u043e\u043c\u00bb \u043f\u043e \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0435\u043d\u0438\u044e ...Kommersanthttps://www.kommersant.ru \u203a doc",
+        "content": " \u00b7 ",
+        "size": [
+          816,
+          544
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.kommersant.ru/doc/6351420",
+        "title": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c \u043e\u0431\u043d\u0430\u0440\u043e\u0434\u043e\u0432\u0430\u043b \u0441\u043f\u0438\u0441\u043e\u043a 300 \u043f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0441\u043a\u0438\u0445 ...Kommersanthttps://www.kommersant.ru \u203a doc",
+        "content": " \u00b7 ",
+        "size": [
+          816,
+          544
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "alley",
+        "ioclass": "outdoor",
+        "probability": 0.30607348680496216
+      },
+      {
+        "class": "art_gallery",
+        "ioclass": "indoor",
+        "probability": 0.08345910161733627
+      },
+      {
+        "class": "street",
+        "ioclass": "outdoor",
+        "probability": 0.07307637482881546
+      },
+      {
+        "class": "medina",
+        "ioclass": "outdoor",
+        "probability": 0.06914513558149338
+      },
+      {
+        "class": "television_studio",
+        "ioclass": "indoor",
+        "probability": 0.0660393089056015
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.5759122371673584
+      },
+      {
+        "class": "dry",
+        "score": 0.5361159443855286
+      },
+      {
+        "class": "cluttered",
+        "score": 0.536115288734436
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 275,
+        "pred_lat": 18.877105712890625,
+        "pred_long": -70.3758316040039
+      },
+      "middle": {
+        "pred_class": 1397,
+        "pred_lat": -36.80955123901367,
+        "pred_long": -72.94219207763672
+      },
+      "fine": {
+        "pred_class": 1496,
+        "pred_lat": -36.82240295410156,
+        "pred_long": -73.05144500732422
+      },
+      "hierarchy": {
+        "pred_class": 1496,
+        "pred_lat": -36.82240295410156,
+        "pred_long": -73.05144500732422
+      },
+      "country": {
+        "city": "Concepcion",
+        "state": "Biob\u00edo Region",
+        "country": "Chile"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": "2023:10:07 10:29:16",
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": -36.801407,
+    "longitude": -73.08804,
+    "generationtime_ms": 0.1990795135498047,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 16.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2023-10-07T00:00",
+        "2023-10-07T01:00",
+        "2023-10-07T02:00",
+        "2023-10-07T03:00",
+        "2023-10-07T04:00",
+        "2023-10-07T05:00",
+        "2023-10-07T06:00",
+        "2023-10-07T07:00",
+        "2023-10-07T08:00",
+        "2023-10-07T09:00",
+        "2023-10-07T10:00",
+        "2023-10-07T11:00",
+        "2023-10-07T12:00",
+        "2023-10-07T13:00",
+        "2023-10-07T14:00",
+        "2023-10-07T15:00",
+        "2023-10-07T16:00",
+        "2023-10-07T17:00",
+        "2023-10-07T18:00",
+        "2023-10-07T19:00",
+        "2023-10-07T20:00",
+        "2023-10-07T21:00",
+        "2023-10-07T22:00",
+        "2023-10-07T23:00",
+        "2023-10-08T00:00",
+        "2023-10-08T01:00",
+        "2023-10-08T02:00",
+        "2023-10-08T03:00",
+        "2023-10-08T04:00",
+        "2023-10-08T05:00",
+        "2023-10-08T06:00",
+        "2023-10-08T07:00",
+        "2023-10-08T08:00",
+        "2023-10-08T09:00",
+        "2023-10-08T10:00",
+        "2023-10-08T11:00",
+        "2023-10-08T12:00",
+        "2023-10-08T13:00",
+        "2023-10-08T14:00",
+        "2023-10-08T15:00",
+        "2023-10-08T16:00",
+        "2023-10-08T17:00",
+        "2023-10-08T18:00",
+        "2023-10-08T19:00",
+        "2023-10-08T20:00",
+        "2023-10-08T21:00",
+        "2023-10-08T22:00",
+        "2023-10-08T23:00"
+      ],
+      "apparent_temperature": [
+        8.7,
+        7.4,
+        6.4,
+        6.0,
+        6.5,
+        6.5,
+        6.2,
+        5.0,
+        3.0,
+        2.9,
+        2.8,
+        5.6,
+        7.6,
+        8.9,
+        10.4,
+        12.3,
+        12.9,
+        12.7,
+        12.4,
+        11.2,
+        9.7,
+        8.0,
+        6.7,
+        6.0,
+        5.9,
+        6.6,
+        7.2,
+        7.2,
+        5.8,
+        6.4,
+        6.3,
+        5.7,
+        5.6,
+        5.3,
+        2.5,
+        4.9,
+        7.0,
+        9.4,
+        11.2,
+        12.4,
+        13.1,
+        13.8,
+        13.4,
+        12.7,
+        11.3,
+        10.1,
+        9.5,
+        8.6
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        3,
+        1,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": [
+      {
+        "message": "Captured time from EXIF is after the first time the image appear on the internet"
+      }
+    ]
+  }
+}

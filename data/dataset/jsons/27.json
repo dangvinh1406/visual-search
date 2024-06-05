@@ -1,0 +1,3197 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 15,
+            "abnormal": true
+          },
+          "2022/04": {
+            "count": 9,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 18,
+            "abnormal": true
+          },
+          "2023/10": {
+            "count": 7,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 5,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": false,
+        "max_count": 18,
+        "abnormal": true,
+        "plot": {
+          "labels": [
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Anomaly detected",
+              "backgroundColor": "#DD1B16",
+              "data": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                15,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                18,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                15,
+                9,
+                7,
+                0,
+                0,
+                2,
+                3,
+                5,
+                0,
+                4,
+                7,
+                2,
+                2,
+                5,
+                2,
+                1,
+                2,
+                4,
+                18,
+                7,
+                5,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 89,
+            "percentage": 43.8423645320197
+          },
+          "Albanian": {
+            "count": 25,
+            "percentage": 12.31527093596059
+          },
+          "Vietnamese": {
+            "count": 23,
+            "percentage": 11.330049261083744
+          },
+          "Persian": {
+            "count": 11,
+            "percentage": 5.41871921182266
+          },
+          "Chinese": {
+            "count": 2,
+            "percentage": 0.9852216748768473
+          },
+          "Czech": {
+            "count": 8,
+            "percentage": 3.9408866995073892
+          },
+          "Arabic": {
+            "count": 5,
+            "percentage": 2.4630541871921183
+          },
+          "Russian": {
+            "count": 4,
+            "percentage": 1.9704433497536946
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 3,
+            "percentage": 1.477832512315271
+          },
+          "Thai": {
+            "count": 3,
+            "percentage": 1.477832512315271
+          },
+          "Malay": {
+            "count": 3,
+            "percentage": 1.477832512315271
+          },
+          "Lithuanian": {
+            "count": 2,
+            "percentage": 0.9852216748768473
+          },
+          "Maltese": {
+            "count": 2,
+            "percentage": 0.9852216748768473
+          },
+          "Portuguese": {
+            "count": 2,
+            "percentage": 0.9852216748768473
+          },
+          "Indonesian": {
+            "count": 2,
+            "percentage": 0.9852216748768473
+          },
+          "Bulgarian": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          },
+          "French": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          },
+          "Slovak": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          },
+          "Spanish; Castilian": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          },
+          "Tamil": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          },
+          "Greek, Modern (1453-)": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          },
+          "Ukrainian": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          },
+          "German": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          },
+          "Bengali": {
+            "count": 1,
+            "percentage": 0.49261083743842365
+          }
+        },
+        "total": 203,
+        "plot": {
+          "labels": [
+            "English",
+            "Albanian",
+            "Vietnamese",
+            "Persian",
+            "others"
+          ],
+          "data": [
+            43,
+            12,
+            11,
+            5,
+            29
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://bnn.network/world/russia/ukraine-eliminates-990-russian-terrorists-in-24-hours-significant-losses-for-russian-forces/",
+        "title": "Ukraine Counters Russian Forces: Significant Losses for RussiaBNN Breakinghttps://bnn.network \u203a Military \u203a Russia \u203a Ukraine",
+        "content": "In conclusion, the conflict between Ukraine and Russia remains intense, with the Ukrainian Defense Forces actively countering Russian forces.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:16 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "cs",
+        "link": "https://cz.linkedin.com/posts/martin-boh%C3%A1%C4%8D-549b4825_%C5%A1mejdi-activity-6811543986696663040-taWV?trk=public_profile_like_view",
+        "title": "Martin Boh\u00e1\u010d na LinkedIn: #\u0161mejdiLinkedIn\u00a0\u00b7\u00a0Martin Boh\u00e1\u010d2 years ago",
+        "content": "It'll be used to push back vatniks and keep Ukrainians safe. d\u00edk ... russians, it does not matter, they were always sc*mbags. Reagan Library.",
+        "size": [
+          800,
+          321
+        ],
+        "date": "2021:06:17 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 101,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "cs",
+        "link": "https://cz.linkedin.com/posts/martin-boh%C3%A1%C4%8D-549b4825_%C5%A1mejdi-activity-6811543986696663040-taWV?trk=public_profile_like_view",
+        "title": "Martin Boh\u00e1\u010d na LinkedIn: #\u0161mejdiLinkedIn\u00a0\u00b7\u00a0Martin Boh\u00e1\u010d2 years ago",
+        "content": "It'll be used to push back vatniks and keep Ukrainians safe. d\u00edk ... russians, it does not matter, they were always sc*mbags. Reagan Library.",
+        "size": [
+          800,
+          321
+        ],
+        "date": "2021:06:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theins.news/postview/914-will-russia-make-a-military-move-against-ukraine-follow-these-clues",
+        "title": "Will Russia Make A Military Move Against Ukraine? Follow ...The INS newshttps://www.theins.news \u203a postview \u203a 914-will-russia-...",
+        "content": "First, Belarus and Russia announced a large-scale joint military exercise, called Allied Resolve 2022, near the Ukrainian border. This type of\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2022:01:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.rfi.fr/fr/europe/20220327-en-direct-guerre-en-ukraine-kiev-dit-%C3%A9tudier-la-demande-russe-de-sa-neutralit%C3%A9",
+        "title": "Le jour o\u00f9 l'arm\u00e9e ukrainienne a repouss\u00e9 des attaques ... - RFIRFIhttps://www.rfi.fr \u203a RFI \u203a Europe",
+        "content": "Au 33e jour de l'invasion de l'Ukraine par la Russie, de nouvelles n\u00e9gociations s'ouvrent en Turquie alors que Zelensky dit \u00e9tudier \u00ab en\u00a0...",
+        "size": [
+          2480,
+          1743
+        ],
+        "date": "2022:03:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.brookings.edu/articles/russias-ambitions-ukraines-resistance-and-the-wests-response/",
+        "title": "Russia's ambitions, Ukraine's resistance, and the West's ...Brookingshttps://www.brookings.edu \u203a articles \u203a russias-ambitio...",
+        "content": "On March 15, as the Russia-Ukraine war neared the three-week mark, Brookings experts held a discussion on developments in the conflict so\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": "2022:03:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nytimes.com/2022/03/28/briefing/biden-russia-oscars-will-smith-israel.html",
+        "title": "Your Tuesday Briefing: Biden Stands by His CondemnationThe New York Timeshttps://www.nytimes.com \u203a 2022/03/28 \u203a briefing \u203a bide...",
+        "content": "State of the war: Russia seems to be refocusing its territorial ambitions on cementing control of the east. Ukrainian officials also claimed\u00a0...",
+        "size": [
+          3000,
+          1687
+        ],
+        "date": "2022:03:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.nytimes.com/zh-hans/2022/03/28/world/asia/ukraine-russia-war-biden-putin.html",
+        "title": "\u62dc\u767b\u4e3a\u201c\u666e\u4eac\u4e0d\u5e94\u7ee7\u7eed\u638c\u6743\u201d\u8a00\u8bba\u8fa9\u62a4\uff1b\u5965\u65af\u5361\u5728\u5c34\u5c2c\u548c\u4e89\u8bae\u4e2d\u843d\u5e55The New York Timeshttps://www.nytimes.com \u203a asia \u203a u...",
+        "content": "... ukraine-russia-war-biden-putin.html. Share full article. Advertisement. SKIP ADVERTISEMENT. Supported by. SKIP ADVERTISEMENT. \u7b80\u62a5\uff1a\u62dc\u767b\u00a0...",
+        "size": [
+          1050,
+          549
+        ],
+        "date": "2022:03:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.belfasttelegraph.co.uk/news/republic-of-ireland/republic-of-ireland-should-maintain-its-military-neutrality-say-three-quarters-of-sinn-fein-voters/41497784.html",
+        "title": "Republic of Ireland should maintain its military neutrality, say ...Belfast Telegraphhttps://www.belfasttelegraph.co.uk \u203a news \u203a republic-of-i...",
+        "content": "A Ukrainian serviceman walks near the wreck of a Russian tank on the ... Ukraine war. btn-dark,monthly,article,featured,premium. Premium.",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2022:03:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://day.kyiv.ua/ru/article/den-planety/budem-li-katatsya-na-mashine-vremeni-v-sovetskoe-proshloe",
+        "title": "\u0411\u0443\u0434\u0435\u043c \u043b\u0438 \u043a\u0430\u0442\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u043c\u0430\u0448\u0438\u043d\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0435 ...\u0413\u0430\u0437\u0435\u0442\u0430 \u00ab\u0414\u0435\u043d\u044c\u00bbhttps://day.kyiv.ua \u203a den-planety",
+        "content": "\u00ab\u0415\u0441\u043b\u0438 \u043d\u0430\u043c \u0443\u0434\u0430\u0441\u0442\u0441\u044f \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u044d\u0442\u0438 \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0438\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u0435\u043c, \u0442\u043e \u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u0431\u0443\u0434\u0435\u0442 \u0432\u00a0...",
+        "size": [
+          650,
+          457
+        ],
+        "date": "2022:03:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.brookings.edu/articles/the-russia-ukraine-war-may-be-bad-news-for-nuclear-nonproliferation/",
+        "title": "The Russia-Ukraine war may be bad news for nuclear ...Brookingshttps://www.brookings.edu \u203a articles \u203a the-russia-ukrai...",
+        "content": "As we watch with horror and sadness the extreme devastation associated with Russia's ongoing attack on Ukraine another potential casualty of\u00a0...",
+        "size": [
+          500,
+          351
+        ],
+        "date": "2022:03:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://www.khaosod.co.th/around-the-world-news/news_6968093",
+        "title": "\u0e40\u0e1c\u0e22\u0e1c\u0e39\u0e49\u0e1a\u0e31\u0e07\u0e04\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22 \u201c\u0e1b\u0e25\u0e34\u0e14\u0e0a\u0e35\u0e1e\u201d \u0e2b\u0e25\u0e31\u0e07\u0e23\u0e16\u0e16\u0e31\u0e07\u0e40\u0e08\u0e4a\u0e07\u0e40\u0e01\u0e37\u0e2d\u0e1a\u0e17\u0e31\u0e49\u0e07\u0e04\u0e25\u0e31\u0e07\u0e2d\u0e32\u0e27\u0e38\u0e18\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14https://www.khaosod.co.th \u203a news_...",
+        "content": "A Ukrainian serviceman walks near the wreck of a Russian tank on the front line in the Kyiv region, Ukraine. Ukraine says a top Russian\u00a0...",
+        "size": [
+          800,
+          569
+        ],
+        "date": "2022:03:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20220330-%E8%8B%B1%E5%9B%BD%E5%86%9B%E6%96%B9%E6%83%85%E6%8A%A5%E7%A7%B0%E4%BE%B5%E4%B9%8C%E4%BF%84%E5%86%9B%E5%8F%97%E9%87%8D%E5%88%9B%E8%A2%AB%E8%BF%AB%E8%BF%94%E5%9B%9E%E9%87%8D%E6%95%B4%E5%86%8D%E8%A1%A5%E7%BB%99",
+        "title": "\u82f1\u56fd\u519b\u65b9\u60c5\u62a5\u79f0\u4fb5\u4e4c\u4fc4\u519b\u53d7\u91cd\u521b\u88ab\u8feb\u8fd4\u56de\u91cd\u6574\u518d\u8865\u7ed9 - RFIRFIhttps://www.rfi.fr \u203a \u6cd5\u5e7f \u203a \u6b27\u6d32",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2022:03:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20220330-%E8%8B%B1%E5%9B%BD%E5%86%9B%E6%96%B9%E6%83%85%E6%8A%A5%E7%A7%B0%E4%BE%B5%E4%B9%8C%E4%BF%84%E5%86%9B%E5%8F%97%E9%87%8D%E5%88%9B%E8%A2%AB%E8%BF%AB%E8%BF%94%E5%9B%9E%E9%87%8D%E6%95%B4%E5%86%8D%E8%A1%A5%E7%BB%99",
+        "title": "\u82f1\u56fd\u519b\u65b9\u60c5\u62a5\u79f0\u4fb5\u4e4c\u4fc4\u519b\u53d7\u91cd\u521b\u88ab\u8feb\u8fd4\u56de\u91cd\u6574\u518d\u8865\u7ed9 - RFIRFIhttps://www.rfi.fr \u203a \u6cd5\u5e7f \u203a \u6b27\u6d32",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2022:03:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.zeit.de/newsletter/was-jetzt/2022-03/teilrueckzug-charkiw-smartwatch-2022-03-30",
+        "title": "\"Was jetzt?\"-Newsletter: Russland k\u00fcndigt Teilr\u00fcckzug an ...Zeit Onlinehttps://www.zeit.de \u203a ... \u203a Politik",
+        "content": "Doch seit dem Ukraine-Krieg kommt das bei den W\u00e4hlern nicht mehr gut an. ... Dies war genau die Zeit, als das Kapitol am 6. Januar 2021 gest\u00fcrmt\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2022:03:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://successdigestonline.com/the-secret-to-the-ukrainian-militarys-success/",
+        "title": "The secret to the Ukrainian military's success - SuccessDigestSuccessDigesthttps://successdigestonline.com \u203a the-secret-to-the-ukrain...",
+        "content": "Russia's awful military performance in Ukraine has been the greatest surprise to emerge from President Vladimir Putin's unprovoked invasion,\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2022:03:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.brookings.edu/articles/russia-ukraine-a-negotiated-settlement-will-be-difficult/",
+        "title": "Russia-Ukraine: A negotiated settlement will be difficultBrookingshttps://www.brookings.edu \u203a articles \u203a russia-ukraine-...",
+        "content": "In 2014, Russia used military force to seize Crimea and annexed it following a sham referendum. Many Ukrainians likely understand that they lack\u00a0...",
+        "size": [
+          500,
+          351
+        ],
+        "date": "2022:03:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnews.com/think/opinion/russian-ukraine-war-ukrainian-army-winning-rcna22415",
+        "title": "The secret to the Ukrainian military's success - NBC NewsNBC Newshttps://www.nbcnews.com \u203a think \u203a opinion \u203a russian-uk...",
+        "content": "Russian-Ukraine war has the Ukrainian army winning as Russian soldiers are killed in Ukraine. Here's why Vladimir Putin is seeing his\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2022:03:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.brookings.edu/articles/what-do-americans-think-of-the-russia-ukraine-war-and-of-the-us-response/",
+        "title": "What do Americans think of the Russia-Ukraine war and of the ...Brookingshttps://www.brookings.edu \u203a articles \u203a what-do-americ...",
+        "content": "",
+        "size": [
+          500,
+          351
+        ],
+        "date": "2022:03:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://icmglt.org/the-secret-to-the-ukrainian-militarys-success/",
+        "title": "The secret to the Ukrainian military's success - ICMGLTICMGLThttps://icmglt.org \u203a the-secret-to-the-ukrainian-military...",
+        "content": "Russia's awful military performance in Ukraine has been the greatest surprise to emerge from President Vladimir Putin's unprovoked invasion\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2022:04:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://icmglt.org/the-secret-to-the-ukrainian-militarys-success/",
+        "title": "The secret to the Ukrainian military's success - ICMGLTICMGLThttps://icmglt.org \u203a the-secret-to-the-ukrainian-military...",
+        "content": "Russia's awful military performance in Ukraine has been the greatest surprise to emerge from President Vladimir Putin's unprovoked invasion\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2022:04:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/place/comments/ttw16p/the_great_war_between_mexico_and_italy/",
+        "title": "The great War between Mexico and Italy! : r/place - RedditReddit\u00a0\u00b7\u00a0r/place1 comments  \u00b7  1 year ago",
+        "content": "r/AskARussian \u00b7 How does the war in Ukraine end without them surrendering to Russia? 51 upvotes \u00b7 204 comments. Top Posts. Reddit \u00b7 reReddit:\u00a0...",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": "2022:04:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/place/comments/tu4k52/the_among_us_invasion_of_the_ukrainian_flag_will/",
+        "title": "r/place - The among us invasion of the Ukrainian flag will win ...Reddit\u00a0\u00b7\u00a0r/place3 comments  \u00b7  1 year ago",
+        "content": "Ukraine will ultimately win the irregular war with Russia \u00b7 r/Conservative - Ukraine will ultimately win the irregular war with Russia. foxnews.",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": "2022:04:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/place/comments/ttw16p/the_great_war_between_mexico_and_italy/",
+        "title": "The great War between Mexico and Italy! : r/place - RedditReddit\u00a0\u00b7\u00a0r/place1 comments  \u00b7  1 year ago",
+        "content": "r/AskARussian \u00b7 How does the war in Ukraine end without them surrendering to Russia? 51 upvotes \u00b7 204 comments. Top Posts. Reddit \u00b7 reReddit:\u00a0...",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": "2022:04:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/place/comments/tu4k52/the_among_us_invasion_of_the_ukrainian_flag_will/",
+        "title": "r/place - The among us invasion of the Ukrainian flag will win ...Reddit\u00a0\u00b7\u00a0r/place3 comments  \u00b7  1 year ago",
+        "content": "Ukraine will ultimately win the irregular war with Russia \u00b7 r/Conservative - Ukraine will ultimately win the irregular war with Russia. foxnews.",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": "2022:04:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/the-whole-world-would-benefit-from-a-ukrainian-victory-over-russia/",
+        "title": "The whole world would benefit from a Ukrainian victory over ...Atlantic Councilhttps://www.atlanticcouncil.org \u203a blogs \u203a ukrainealert",
+        "content": "If Ukraine receives enhanced military support from the West, the Ukrainian military can push Russian forces out of the east and liberate the\u00a0...",
+        "size": [
+          1024,
+          720
+        ],
+        "date": "2022:04:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://soha.vn/lam-phat-nhin-tu-banh-pizza-dan-my-bat-dau-cam-nhan-ro-rang-ap-luc-dang-de-nang-muon-tim-hang-an-trua-gia-mem-cung-kho-20220408001656261.htm",
+        "title": "L\u1ea1m ph\u00e1t nh\u00ecn t\u1eeb b\u00e1nh pizza: D\u00e2n M\u1ef9 b\u1eaft \u0111\u1ea7u c\u1ea3m nh\u1eadn r\u00f5 ...SOHAhttps://soha.vn \u203a Qu\u1ed1c t\u1ebf",
+        "content": "Bloomberg \u0111\u01b0a tin, Nga d\u1ef1 ki\u1ebfn \u200b\u200bs\u1ebd b\u00e1n kh\u00ed \u0111\u1ed1t cho Trung Qu\u1ed1c v\u1edbi gi\u00e1 g\u1ea7n b\u1eb1ng m\u1ed9t n\u1eeda so ... 10 gi\u1edd tr\u01b0\u1edbc. Ukraine \u0111\u1ec1 xu\u1ea5t Th\u1ed5\u00a0...",
+        "size": [
+          320,
+          200
+        ],
+        "date": "2022:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://soha.vn/lam-phat-nhin-tu-banh-pizza-dan-my-bat-dau-cam-nhan-ro-rang-ap-luc-dang-de-nang-muon-tim-hang-an-trua-gia-mem-cung-kho-20220408001656261.htm",
+        "title": "L\u1ea1m ph\u00e1t nh\u00ecn t\u1eeb b\u00e1nh pizza: D\u00e2n M\u1ef9 b\u1eaft \u0111\u1ea7u c\u1ea3m nh\u1eadn r\u00f5 ...SOHAhttps://soha.vn \u203a Qu\u1ed1c t\u1ebf",
+        "content": "Bloomberg \u0111\u01b0a tin, Nga d\u1ef1 ki\u1ebfn \u200b\u200bs\u1ebd b\u00e1n kh\u00ed \u0111\u1ed1t cho Trung Qu\u1ed1c v\u1edbi gi\u00e1 g\u1ea7n b\u1eb1ng m\u1ed9t n\u1eeda so ... 10 gi\u1edd tr\u01b0\u1edbc. Ukraine \u0111\u1ec1 xu\u1ea5t Th\u1ed5\u00a0...",
+        "size": [
+          320,
+          200
+        ],
+        "date": "2022:04:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.anninhthudo.vn/tinh-bao-my-tro-thanh-vu-khi-bi-mat-cuc-ky-hieu-qua-cua-ukraine-post503766.antd",
+        "title": "T\u00ecnh b\u00e1o M\u1ef9 tr\u1edf th\u00e0nh 'v\u0169 kh\u00ed b\u00ed m\u1eadt' c\u1ef1c k\u1ef3 hi\u1ec7u qu\u1ea3 c\u1ee7a ...anninhthudo.vnhttps://www.anninhthudo.vn \u203a tinh-...",
+        "content": "T\u00ecnh b\u00e1o M\u1ef9 \u0111\u01b0\u1ee3c cho l\u00e0 \u0111ang l\u00e0m vi\u1ec7c v\u00ec Ukraine, th\u00f4ng tin m\u00e0 h\u1ecd cung c\u1ea5p c\u00f3 gi\u00e1 tr\u1ecb nh\u01b0 m\u1ed9t lo\u1ea1i v\u0169 kh\u00ed b\u00ed m\u1eadt c\u1ef1c k\u1ef3 l\u1ee3i h\u1ea1i gi\u00fap Kyiv\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": "2022:05:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.anninhthudo.vn/nga-gianh-thang-loi-buoc-ngoat-khi-kiem-soat-duoc-thanh-pho-popasnaya-post503899.antd",
+        "title": "Nga gi\u00e0nh th\u1eafng l\u1ee3i b\u01b0\u1edbc ngo\u1eb7t khi ki\u1ec3m so\u00e1t \u0111\u01b0\u1ee3c th\u00e0nh ph\u1ed1 ...B\u00e1o \u0110i\u1ec7n t\u1eed An ninh Th\u1ee7 \u0111\u00f4https://www.anninhthudo.vn \u203a nga-...",
+        "content": "B\u00ed m\u1eadt v\u1ec1 s\u1ef1 t\u0103ng tr\u01b0\u1edfng m\u1ea1nh c\u1ee7a \u0111\u1ed3ng Ruble d\u01b0\u1edbi \u00e1p l\u1ef1c c\u00e1c l\u1ec7nh tr\u1eebng ph\u1ea1t ph\u01b0\u01a1ng T\u00e2y \u00b7 Nga \u0111\u00e1p tr\u1ea3 m\u1ea1nh m\u1ebd n\u1ebfu Ukraine t\u1ea5n c\u00f4ng c\u1ea7u Crimea\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": "2022:05:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.anninhthudo.vn/tin-hieu-bao-dong-cho-nga-khi-quan-doi-ukraine-phan-cong-lon-tai-kharkiv-post503939.antd",
+        "title": "T\u00edn hi\u1ec7u b\u00e1o \u0111\u1ed9ng cho Nga khi Qu\u00e2n \u0111\u1ed9i Ukraine ph\u1ea3n c\u00f4ng ...B\u00e1o \u0110i\u1ec7n t\u1eed An ninh Th\u1ee7 \u0111\u00f4https://www.anninhthudo.vn \u203a tin-h...",
+        "content": "Ng\u00e0y c\u00e0ng c\u00f3 nhi\u1ec1u t\u00edn hi\u1ec7u \u0111\u00e1ng lo cho Nga v\u00e0 ly khai do h\u1ecd ki\u1ec3m so\u00e1t t\u1ea1i Kharkiv, khi Qu\u00e2n \u0111\u1ed9i Ukraine b\u1eaft \u0111\u1ea7u ti\u1ebfn h\u00e0nh ho\u1ea1t \u0111\u1ed9ng ph\u1ea3n\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": "2022:05:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.anninhthudo.vn/tin-hieu-bao-dong-cho-nga-khi-quan-doi-ukraine-phan-cong-lon-tai-kharkiv-post503939.antd",
+        "title": "T\u00edn hi\u1ec7u b\u00e1o \u0111\u1ed9ng cho Nga khi Qu\u00e2n \u0111\u1ed9i Ukraine ph\u1ea3n c\u00f4ng ...B\u00e1o \u0110i\u1ec7n t\u1eed An ninh Th\u1ee7 \u0111\u00f4https://www.anninhthudo.vn \u203a tin-h...",
+        "content": "Ng\u00e0y c\u00e0ng c\u00f3 nhi\u1ec1u t\u00edn hi\u1ec7u \u0111\u00e1ng lo cho Nga v\u00e0 ly khai do h\u1ecd ki\u1ec3m so\u00e1t t\u1ea1i Kharkiv, khi Qu\u00e2n \u0111\u1ed9i Ukraine b\u1eaft \u0111\u1ea7u ti\u1ebfn h\u00e0nh ho\u1ea1t \u0111\u1ed9ng ph\u1ea3n\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": "2022:05:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://issuu.com/humanitemagazine/docs/issueviiir/1",
+        "title": "ISSUE VII: International Relations by Humanit\u00e9 Magazine - Issuuissuuhttps://issuu.com \u203a humanitemagazine \u203a docs \u203a issueviiir",
+        "content": "",
+        "size": [
+          338,
+          480
+        ],
+        "date": "2022:05:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cssf/arquivos/31-05-2022-a-importancia-do-servico-do-centro-de-referencia-para-imunobiologicos-denise-suguitani",
+        "title": "Denise Suguitani - C\u00e2mara dos DeputadosPortal da C\u00e2mara dos Deputadoshttps://www2.camara.leg.br \u203a cssf \u203a arquivos",
+        "content": "",
+        "size": [
+          3065,
+          1916
+        ],
+        "date": "2022:05:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cssf/arquivos/31-05-2022-a-importancia-do-servico-do-centro-de-referencia-para-imunobiologicos-denise-suguitani",
+        "title": "Denise Suguitani - C\u00e2mara dos DeputadosPortal da C\u00e2mara dos Deputadoshttps://www2.camara.leg.br \u203a cssf \u203a arquivos",
+        "content": "",
+        "size": [
+          3065,
+          1916
+        ],
+        "date": "2022:05:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://vov.vn/the-gioi/ho-so/trung-quoc-trong-khai-niem-chien-luoc-cua-nato-post962242.vov",
+        "title": "Trung Qu\u1ed1c trong \u201cKh\u00e1i ni\u1ec7m Chi\u1ebfn l\u01b0\u1ee3c c\u1ee7a NATO\u201d | VOV.VNVOVhttps://vov.vn \u203a TH\u1ebe GI\u1edaI \u203a H\u1ed2 S\u01a0",
+        "content": "... Ukraine. Kh\u00e1i ni\u1ec7m Chi\u1ebfn l\u01b0\u1ee3c 2022 t\u00e1i kh\u1eb3ng \u0111\u1ecbnh m\u1ed9t c\u00e1ch r\u00e0nh r\u1ecdt \u0111i\u1ec1u sau \u0111\u00e2y: NATO \u0111\u00f3ng vai tr\u00f2 h\u00f2n \u0111\u00e1 t\u1ea3ng c\u1ee7a an ninh ch\u00e2u \u00c2u-\u0110\u1ea1i T\u00e2y\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": "2022:08:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Why-didnt-Russia-send-its-full-milItary-might-and-quickly-end-the-war-in-Ukraine-They-only-send-190-000-against-700-000-strong-Ukrainian-military-no-massive-bombing-massive-artillery-bombardment-decapitation-strike",
+        "title": "Why didn't Russia send it's full milItary might and quickly end ...Quorahttps://www.quora.com \u203a Why-didnt-Russia-send-its-full...",
+        "content": "The rationale for Ukraine fighting for Bakhmut is that they are attriting Russian forces at a high rate. However if Ukraine is losing quality\u00a0...",
+        "size": [
+          602,
+          423
+        ],
+        "date": "2022:08:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.anninhthudo.vn/quan-doi-ukraine-tap-trung-luc-luong-quy-mo-gan-belgorod-voi-muc-dich-gi-post516985.antd",
+        "title": "Qu\u00e2n \u0111\u1ed9i Ukraine t\u1eadp trung l\u1ef1c l\u01b0\u1ee3ng quy m\u00f4 g\u1ea7n Belgorod ...B\u00e1o \u0110i\u1ec7n t\u1eed An ninh Th\u1ee7 \u0111\u00f4https://www.anninhthudo.vn \u203a quan...",
+        "content": "Sau khi L\u1ef1c l\u01b0\u1ee3ng v\u0169 trang Li\u00ean bang Nga r\u00fat qu\u00e2n kh\u1ecfi Kharkiv \u0111\u1ec3 't\u00e1i b\u1ed1 tr\u00ed', Qu\u00e2n \u0111\u1ed9i Ukraine b\u1eaft \u0111\u1ea7u gi\u00e0nh quy\u1ec1n ki\u1ec3m so\u00e1t c\u00e1c khu d\u00e2n\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.anninhthudo.vn/quan-doi-ukraine-tap-trung-luc-luong-quy-mo-gan-belgorod-voi-muc-dich-gi-post516985.antd",
+        "title": "Qu\u00e2n \u0111\u1ed9i Ukraine t\u1eadp trung l\u1ef1c l\u01b0\u1ee3ng quy m\u00f4 g\u1ea7n Belgorod ...B\u00e1o \u0110i\u1ec7n t\u1eed An ninh Th\u1ee7 \u0111\u00f4https://www.anninhthudo.vn \u203a quan...",
+        "content": "Sau khi L\u1ef1c l\u01b0\u1ee3ng v\u0169 trang Li\u00ean bang Nga r\u00fat qu\u00e2n kh\u1ecfi Kharkiv \u0111\u1ec3 't\u00e1i b\u1ed1 tr\u00ed', Qu\u00e2n \u0111\u1ed9i Ukraine b\u1eaft \u0111\u1ea7u gi\u00e0nh quy\u1ec1n ki\u1ec3m so\u00e1t c\u00e1c khu d\u00e2n\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": "2022:09:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.rfi.fr/ru/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/20220930-%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9-%D0%B7%D0%B0%D0%BB%D1%83%D0%B6%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B4%D0%B8%D0%BD-%D0%B8%D0%B7-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%87%D1%82%D0%BE-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BA%D0%BE%D0%BC-%D0%B2%D1%81%D1%83-%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%BE-%D1%81%D0%B5%D0%B1%D0%B5-%D0%B8-%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5",
+        "title": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439 \u0417\u0430\u043b\u0443\u0436\u043d\u044b\u0439 \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u0433\u043b\u0430\u0432\u043d\u044b\u0445 \u0434\u0435\u044f\u0442\u0435\u043b\u0435\u0439 ... - RFIRFIhttps://www.rfi.fr \u203a RFI \u203a \u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+        "content": "... \u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u2014 \u043b\u0438\u0448\u044c \u043f\u043e \u00ab\u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u043c\u0443 \u0442\u044b\u043b\u0443\u00bb \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430. \u041f\u043e \u0438\u0445 \u043c\u043d\u0435\u043d\u0438\u044e, \u043b\u0438\u0448\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e \u044d\u0442\u043e\u0433\u043e \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430 \u0432\u0440\u044f\u0434 \u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0441\u044f, \u043d\u043e \u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u043c\u043e\u0433\u043b\u0430 \u0431\u044b\u00a0...",
+        "size": [
+          2480,
+          1743
+        ],
+        "date": "2022:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/igihe/photos/a.10150270361727114/10160218134132114/?type=3",
+        "title": "igihe - FacebookFacebook\u00a0\u00b7\u00a0IGIHE230+ reactions  \u00b7  1 year ago",
+        "content": "Ingabo za Ukraine zatangaje ko zatangiye kwisubiza bimwe mu bice bya Donetsk, Kherson, Luhansk na Zaporizhzhia Perezida w'u Burusiya,\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": "2022:10:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.facebook.com/igihe/photos/a.10150270361727114/10160218134132114/?type=3",
+        "title": "igihe - FacebookFacebook\u00a0\u00b7\u00a0IGIHE230+ reactions  \u00b7  1 year ago",
+        "content": "Ingabo za Ukraine zatangaje ko zatangiye kwisubiza bimwe mu bice bya Donetsk, Kherson, Luhansk na Zaporizhzhia Perezida w'u Burusiya,\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": "2022:10:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://www.periskopi.com/inteligjenca-britanike-trupat-ukrainase-po-i-afrohen-kufijve-ruse/",
+        "title": "Inteligjenca britanike: Trupat ukrainase po i afrohen kufijve rus\u00ebPeriskopihttps://www.periskopi.com \u203a inteligj...",
+        "content": "The illegal and unprovoked invasion of Ukraine is continuing. The map below is the latest Defence Intelligence update on the situation in\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2022:10:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://www.periskopi.com/ukraina-kemi-vrare-afer-62-mije-ushtare-ruse-deri-me-tani/",
+        "title": "Kemi vrar\u00eb af\u00ebr 62 mij\u00eb ushtar\u00eb rus\u00eb deri m\u00eb tani - PeriskopiPeriskopihttps://www.periskopi.com \u203a ukrain...",
+        "content": "2\ufe0f\u20e32\ufe0f\u20e36\ufe0f\u20e3 days of full-scale Russia's war on #Ukraine. Information on #Russian invasion. Losses of #Russia's armed forces in Ukraine\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2022:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://www.periskopi.com/ukraina-rusia-kreu-1-mije-100-krime-lufte-vetem-ne-rajonin-e-kharkivit/",
+        "title": "Rusia kreu 1 mij\u00eb 100 krime lufte vet\u00ebm n\u00eb rajonin e KharkivitPeriskopihttps://www.periskopi.com \u203a ukrain...",
+        "content": "Shumica e procedimeve penale, rreth 1,000, ishin p\u00ebr shkeljen e ligjeve dhe zakoneve t\u00eb luft\u00ebs, thot\u00eb agjencia e lajmeve Interfax-Ukraine,\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2022:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "http://www.panorama.com.al/agresioni-ne-ukraine-be-miraton-sanksione-te-reja-kunder-rusise/",
+        "title": "Agresioni n\u00eb Ukrain\u00eb, BE miraton sanksione t\u00eb reja kund\u00ebr ...Gazeta Panoramahttp://www.panorama.com.al \u203a agre...",
+        "content": "Nj\u00eb paket\u00eb e re sanksionesh q\u00eb synon t\u00eb ushtroj\u00eb m\u00eb shum\u00eb presion ndaj Rusis\u00eb \u00ebsht\u00eb miratuar nga BE. 220331-destroyed-russian-tank-ukraine-al-\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2022:12:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "uk",
+        "link": "https://ua.korrespondent.net/ukraine/4547326-zsu-vdaryly-po-shtabu-okupantiv-na-khersonschyni-zvedennia-henshtabu",
+        "title": "\u0417\u0421\u0423 \u0432\u0434\u0430\u0440\u0438\u043b\u0438 \u043f\u043e \u0448\u0442\u0430\u0431\u0443 \u043e\u043a\u0443\u043f\u0430\u043d\u0442\u0456\u0432 \u043d\u0430 \u0425\u0435\u0440\u0441\u043e\u043d\u0449\u0438\u043d\u0456 - \u0437\u0432\u0435\u0434\u0435\u043d\u043d\u044f ...\u041a\u043e\u0440\u0440\u0435\u0441\u043f\u043e\u043d\u0434\u0435\u043d\u0442.Nethttps://ua.korrespondent.net \u203a ukraine",
+        "content": "\u0422\u0415\u0413\u0418: \u0432\u043e\u0439\u043d\u0430, \u0423\u043a\u0440\u0430\u0438\u043d\u0430-\u0420\u043e\u0441\u0441\u0438\u044f, \u0412\u0421\u0423 \u00b7 0 0 0 0. \u042f\u043a\u0449\u043e \u0432\u0438 \u043f\u043e\u043c\u0456\u0442\u0438\u043b\u0438 \u043f\u043e\u043c\u0438\u043b\u043a\u0443, \u0432\u0438\u0434\u0456\u043b\u0456\u0442\u044c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u0439 \u0442\u0435\u043a\u0441\u0442 \u0456 \u043d\u0430\u0442\u0438\u0441\u043d\u0456\u0442\u044c Ctrl + Enter, \u0449\u043e\u0431 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0442\u0438 \u043f\u0440\u043e \u0446\u0435\u00a0...",
+        "size": [
+          1200,
+          843
+        ],
+        "date": "2022:12:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://korrespondent.net/ukraine/4547326-vsu-udaryly-po-shtabu-okkupantov-na-khersonschyne-svodka-henshtaba",
+        "title": "\u0412\u0421\u0423 \u0443\u0434\u0430\u0440\u0438\u043b\u0438 \u043f\u043e \u0448\u0442\u0430\u0431\u0443 \u043e\u043a\u043a\u0443\u043f\u0430\u043d\u0442\u043e\u0432 \u043d\u0430 \u0425\u0435\u0440\u0441\u043e\u043d\u0449\u0438\u043d\u0435 - \u0441\u0432\u043e\u0434\u043a\u0430 ...\u041a\u043e\u0440\u0440\u0435\u0441\u043f\u043e\u043d\u0434\u0435\u043d\u0442.nethttps://korrespondent.net \u203a ukraine",
+        "content": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u00b7 \u0412\u0441\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0440\u0430\u0437\u0434\u0435\u043b\u0430 \u00b7 \u0421\u043e\u0431\u044b\u0442\u0438\u044f \u00b7 \u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u00b7 \u0413\u043e\u0440\u043e\u0434 \u00b7 \u041c\u0438\u0440 \u00b7 \u0411\u0438\u0437\u043d\u0435\u0441 \u00b7 \u0421\u043f\u043e\u0440\u0442 \u00b7 Lifestyle \u00b7 \u0428\u043e\u0443-\u0431\u0438\u0437 \u00b7 \u041d\u0430\u0443\u043a\u0430 \u00b7 \u0411\u041b\u041e\u0413\u0418 \u0427\u0418\u0422\u0410\u0422\u0415\u041b\u0415\u0419. \u041f\u041e\u0418\u0421\u041a \u041f\u041e\u00a0...",
+        "size": [
+          1200,
+          843
+        ],
+        "date": "2022:12:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://korrespondent.net/ukraine/4547326-vsu-udaryly-po-shtabu-okkupantov-na-khersonschyne-svodka-henshtaba",
+        "title": "\u0412\u0421\u0423 \u0443\u0434\u0430\u0440\u0438\u043b\u0438 \u043f\u043e \u0448\u0442\u0430\u0431\u0443 \u043e\u043a\u043a\u0443\u043f\u0430\u043d\u0442\u043e\u0432 \u043d\u0430 \u0425\u0435\u0440\u0441\u043e\u043d\u0449\u0438\u043d\u0435 - \u0441\u0432\u043e\u0434\u043a\u0430 ...\u041a\u043e\u0440\u0440\u0435\u0441\u043f\u043e\u043d\u0434\u0435\u043d\u0442.nethttps://korrespondent.net \u203a ukraine",
+        "content": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u00b7 \u0412\u0441\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0440\u0430\u0437\u0434\u0435\u043b\u0430 \u00b7 \u0421\u043e\u0431\u044b\u0442\u0438\u044f \u00b7 \u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u00b7 \u0413\u043e\u0440\u043e\u0434 \u00b7 \u041c\u0438\u0440 \u00b7 \u0411\u0438\u0437\u043d\u0435\u0441 \u00b7 \u0421\u043f\u043e\u0440\u0442 \u00b7 Lifestyle \u00b7 \u0428\u043e\u0443-\u0431\u0438\u0437 \u00b7 \u041d\u0430\u0443\u043a\u0430 \u00b7 \u0411\u041b\u041e\u0413\u0418 \u0427\u0418\u0422\u0410\u0422\u0415\u041b\u0415\u0419. \u041f\u041e\u0418\u0421\u041a \u041f\u041e\u00a0...",
+        "size": [
+          1200,
+          843
+        ],
+        "date": "2022:12:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://al-ain.com/article/turkey-cold-war-cluster-bombs-ukraine",
+        "title": "\u0645\u062c\u0644\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629: \u062a\u0631\u0643\u064a\u0627 \u0632\u0648\u062f\u062a \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627 \u0628\u0642\u0646\u0627\u0628\u0644 \u0639\u0646\u0642\u0648\u062f\u064a\u0629 - \u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629https://al-ain.com \u203a article \u203a turkey-...",
+        "content": "\u0642\u0627\u0644\u062a \u0645\u0635\u0627\u062f\u0631 \u0644\u0645\u062c\u0644\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0625\u0646 \u062a\u0631\u0643\u064a\u0627 \u0628\u062f\u0623\u062a\u060c \u0645\u0646\u0630 \u0646\u0647\u0627\u064a\u0629 2022\u060c \u0628\u0625\u0631\u0633\u0627\u0644 \u0642\u0646\u0627\u0628\u0644 \u0639\u0646\u0642\u0648\u062f\u064a\u0629 \u062a\u0631\u062c\u0639 \u0644\u062d\u0642\u0628\u0629 \u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0628\u0627\u0631\u062f\u0629 \u0625\u0644\u0649 \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627.",
+        "size": [
+          320,
+          183
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://al-ain.com/article/russia-ukraine-war-solidar-arteries-donetsk",
+        "title": "\"\u0633\u0648\u0644\u064a\u062f\u0627\u0631\" \u0627\u0644\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0629.. \u0627\u0644\u0631\u0648\u0633 \u0641\u064a \u0634\u0631\u0627\u064a\u064a\u0646 \u062f\u0648\u0646\u0628\u0627\u0633 \u0648\u0639\u0644\u0649 \u0623\u0628\u0648\u0627\u0628 ...\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629https://al-ain.com \u203a article \u203a russia-u...",
+        "content": "\u0645\u062e\u0627\u0644\u0628 \u0627\u0644\u0631\u0648\u0633 \u062a\u062f\u0643 \u0623\u0633\u0648\u0627\u0631 \u0633\u0648\u0644\u064a\u062f\u0627\u0631 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629 \u0641\u064a \u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0646\u064a\u062a\u0633\u0643 \u0634\u0631\u0642\u064a \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627 \u0648\u062a\u0633\u064a\u0637\u0631 \u0639\u0644\u0649 \u0628\u0644\u062f\u0629 \u0623\u062e\u0631\u0649 \u0628\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0641\u064a \u062e\u0637\u0648\u0627\u062a \u062a\u0642\u0631\u0639 \u0623\u0628\u0648\u0627\u0628 \"\u0628\u0627\u062e\u0645\u0648\u062a\".",
+        "size": [
+          320,
+          183
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://al-ain.com/article/ukrainian-war-russian-canadian-kiev",
+        "title": "\u062d\u0631\u0628 \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627.. \u0642\u0635\u0641 \u0631\u0648\u0633\u064a \u0639\u0644\u0649 \u062e\u0627\u0631\u0643\u064a\u0641 \u0648\u0647\u062f\u064a\u0629 \u0643\u0646\u062f\u064a\u0629 \u0644\u0643\u064a\u064a\u0641\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629https://al-ain.com \u203a article \u203a ukraini...",
+        "content": "\u0623\u0639\u0644\u0646\u062a \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627 \u0623\u0646\u0651 \u0642\u0635\u0641\u0627\u064b \u0631\u0648\u0633\u064a\u0627\u064b \u0627\u0633\u062a\u0647\u062f\u0641 \u062e\u0627\u0631\u0643\u064a\u0641 \u0628\u0639\u064a\u062f \u0633\u0627\u0639\u0627\u062a \u0645\u0646 \u0632\u064a\u0627\u0631\u0629 \u0645\u0641\u0627\u062c\u0626\u0629 \u0642\u0627\u0645\u062a \u0628\u0647\u0627 \u0625\u0644\u0649 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0648\u0632\u064a\u0631\u0629 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0623\u0646\u0627\u0644\u064a\u0646\u0627 \u0628\u064a\u0631\u0628\u0648\u0643.",
+        "size": [
+          768,
+          439
+        ],
+        "date": "2023:01:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://al-ain.com/article/tanks-leopard-ukraine-germany",
+        "title": "\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627 \u062a\u062a\u0648\u0642 \u0644\u0644\u062f\u0628\u0627\u0628\u0629 \"\u0644\u064a\u0648\u0628\u0627\u0631\u062f 2\".. \u0635\u0645\u0645\u062a \u0642\u062f\u064a\u0645\u0627 \u0644\u0645\u0648\u0627\u062c\u0647\u0629 \"\u0627\u0644\u0633\u0648\u0641\u064a\u062a\"\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629https://al-ain.com \u203a article \u203a tanks-le...",
+        "content": "\u0642\u0627\u0644 \u0646\u0627\u0626\u0628 \u0627\u0644\u0645\u0633\u062a\u0634\u0627\u0631 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a \u0631\u0648\u0628\u0631\u062a \u0647\u0627\u0628\u064a\u0643\u060c \u0625\u0646\u0647 \u0644\u0627 \u064a\u062a\u0639\u064a\u0646 \u0639\u0644\u0649 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0627\u0644\u062d\u064a\u0644\u0648\u0644\u0629 \u062f\u0648\u0646 \u062a\u0648\u0631\u064a\u062f \u0645\u062f\u0631\u0639\u0627\u062a \"\u0644\u064a\u0648\u0628\u0627\u0631\u062f 2\" \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0645\u0646 \u0628\u0648\u0644\u0646\u062f\u0627 \u0625\u0644\u0649\u00a0...",
+        "size": [
+          320,
+          183
+        ],
+        "date": "2023:01:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://top-channel.tv/2023/01/16/shkembimi-i-1000-te-burgosurve-moska-dhe-kievi-vijojne-punen-per-marreveshjen-e-madhe/",
+        "title": "Shk\u00ebmbimi i 1000 t\u00eb burgosurve, Moska dhe Kievi vijojn\u00eb ...Top Channelhttps://top-channel.tv \u203a 2023/01/16",
+        "content": "Vladimir Putin dhe Rexhep Tajip Erdogan diskutuan shk\u00ebmbimin e burrave t\u00eb plagosur n\u00eb Ukrain\u00eb mes \u00e7\u00ebshtjeve t\u00eb tjera n\u00eb nj\u00eb telefonat\u00eb t\u00eb sotme.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:01:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://durreslajm.al/perendimi-do-te-dergoje-tanke-ne-ukraine-rusia-evropa-te-zgjohet-nga-gjumi-shba-po-perfiton-nga-lufta/",
+        "title": "Evropa t\u00eb zgjohet nga gjumi, SHBA po p\u00ebrfiton nga luftaLajme Durr\u00ebshttps://durreslajm.al \u203a perendimi-do...",
+        "content": "Rusia ka reaguar pas vendimit t\u00eb vendeve Per\u00ebndimore p\u00ebr t\u00eb d\u00ebrguar tanke n\u00eb Ukrain\u00eb, duke th\u00ebn\u00eb se \u201cEvropa duhet t\u00eb zgjohet\u201d,\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://durreslajm.al/perendimi-do-te-dergoje-tanke-ne-ukraine-rusia-evropa-te-zgjohet-nga-gjumi-shba-po-perfiton-nga-lufta/",
+        "title": "Evropa t\u00eb zgjohet nga gjumi, SHBA po p\u00ebrfiton nga luftaLajme Durr\u00ebshttps://durreslajm.al \u203a perendimi-do...",
+        "content": "Rusia ka reaguar pas vendimit t\u00eb vendeve Per\u00ebndimore p\u00ebr t\u00eb d\u00ebrguar tanke n\u00eb Ukrain\u00eb, duke th\u00ebn\u00eb se \u201cEvropa duhet t\u00eb zgjohet\u201d,\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.youtube.com/watch?v=KMxNfh6Qj5o&vl=ar",
+        "title": "2 MINUTES AGO! GREAT VICTORY! Ukrainian Army Killed ...YouTube\u00a0\u00b7\u00a0Ozillo News45.8K+ views  \u00b7  9 months ago",
+        "content": "The two armies continue to suffer losses in the war that started with Russia's decision to invade and continues on the territory of Ukraine.",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=KMxNfh6Qj5o",
+        "title": "2 MINUTES AGO! GREAT VICTORY! Ukrainian Army Killed ...YouTube\u00a0\u00b7\u00a0Ozillo News45.8K+ views  \u00b7  9 months ago",
+        "content": "The two armies continue to suffer losses in the war that started with Russia's decision to invade and continues on the territory of Ukraine.",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/What-is-Russias-military-power-in-2023-after-1-year-of-war-in-Ukraine",
+        "title": "What is Russia's military power in 2023 after 1 year of war in ...Quorahttps://www.quora.com \u203a What-is-Russias-military-power...",
+        "content": "As of early August 2022, Ukrainian officials estimated that Russia had lost over 35,000 soldiers in the war. This has forced the Russian\u00a0...",
+        "size": [
+          602,
+          423
+        ],
+        "date": "2023:03:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://www.periskopi.com/ukraina-thote-se-rusia-humbi-mbi-1-000-ushtare-per-24-ore-ne-luften-per-bahmutin/",
+        "title": "Ukraina thot\u00eb se Rusia humbi mbi 1.000 ushtar\u00eb p\u00ebr 24 or\u00eb n\u00eb ...Periskopihttps://www.periskopi.com \u203a ukrain...",
+        "content": "... Ukrain\u00eb, nj\u00eb nga periudhat m\u00eb vdekjeprur\u00ebse t\u00eb konfirmuara p\u00ebr forcat e Putinit. Dje, Ukraina tha gjithashtu se ushtria ruse nisi \u201cm\u00eb shum\u00eb\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2023:03:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://gazetainfokus.com/sipas-ministrise-britanike-te-mbrojtjes-qe-nga-fillimi-i-luftes-ne-ukraine-rusise-i-jane-shkaterruar-mbi-10-mije-automjete-ushtarake/?page1=3622",
+        "title": "Sipas ministris\u00eb britanike t\u00eb Mbrojtjes: Q\u00eb nga fillimi i luft\u00ebs n\u00eb ...Infokushttps://gazetainfokus.com \u203a sipas-mi...",
+        "content": "Sipas ministris\u00eb britanike t\u00eb Mbrojtjes: Q\u00eb nga fillimi i luft\u00ebs n\u00eb Ukrain\u00eb, Rusis\u00eb i jan\u00eb shkat\u00ebrruar mbi 10 mij\u00eb automjete ushtarake. 22:52\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:04:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/@warclips_6/video/7225114297779735850",
+        "title": "army #fyp - #viral #M249saw #war #SONG - name another loveTikTok\u00a0\u00b7\u00a0CLASSIFIED AND BEDJEZA ARE W190+ views  \u00b7  7 months ago",
+        "content": "TikTok video from Elijah (@warclips_6): \"#army#fyp #viral#M249saw#war#SONG name another love#military #nato\". original sound - Elijah.",
+        "size": [
+          100,
+          100
+        ],
+        "date": "2023:04:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/@warclips_6/video/7225114297779735850",
+        "title": "army #fyp - #viral #M249saw #war #SONG - name another loveTikTok\u00a0\u00b7\u00a0CLASSIFIED AND BEDJEZA ARE W190+ views  \u00b7  7 months ago",
+        "content": "TikTok video from Elijah (@warclips_6): \"#army#fyp #viral#M249saw#war#SONG name another love#military #nato\". original sound - Elijah.",
+        "size": [
+          100,
+          100
+        ],
+        "date": "2023:04:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.guancha.cn/internation/www.guancha.cn//internation/2023_04_25_689848.shtml",
+        "title": "\u82cf\u4e39\u505c\u706b72\u5c0f\u65f6\uff0c\u7b2c\u4e00\u6279\u4e2d\u56fd\u516c\u6c11\u5df2\u5b89\u5168\u64a4\u79bb - \u89c2\u5bdf\u8005\u89c2\u5bdf\u8005https://www.guancha.cn \u203a internation",
+        "content": "",
+        "size": [
+          365,
+          259
+        ],
+        "date": "2023:04:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.guancha.cn/internation/www.guancha.cn//internation/2023_04_25_689848.shtml",
+        "title": "\u82cf\u4e39\u505c\u706b72\u5c0f\u65f6\uff0c\u7b2c\u4e00\u6279\u4e2d\u56fd\u516c\u6c11\u5df2\u5b89\u5168\u64a4\u79bb - \u89c2\u5bdf\u8005\u89c2\u5bdf\u8005https://www.guancha.cn \u203a internation",
+        "content": "",
+        "size": [
+          365,
+          259
+        ],
+        "date": "2023:04:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://issuu.com/humanitemagazine/docs/final_issue_15",
+        "title": "ISSUE XV: Biodiversity by Humanit\u00e9 Magazine - Issuuissuuhttps://issuu.com \u203a docs \u203a final_issue_15",
+        "content": "True Aquatic Treasure Robert. Baddn-Powell, a famous English soldier who fought a different war for his people, once warned, \u201cWe never fail our\u00a0...",
+        "size": [
+          338,
+          480
+        ],
+        "date": "2023:05:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://www.vizionplus.tv/universiteti-me-i-mire-rus-ofron-arsim-falas-per-veteranet-e-luftes/",
+        "title": "Universiteti m\u00eb i mir\u00eb rus ofron arsim falas p\u00ebr veteran\u00ebt e luft\u00ebsVizion Plushttps://www.vizionplus.tv \u203a universi...",
+        "content": "S\u00eb fundmi, nj\u00eb nga universitetet m\u00eb t\u00eb mira t\u00eb Rusis\u00eb ka njoftuar se do t\u00eb financoj\u00eb arsimin p\u00ebr veteran\u00ebt e luft\u00ebs n\u00eb Ukrain\u00eb dhe familjet e\u00a0...",
+        "size": [
+          752,
+          440
+        ],
+        "date": "2023:05:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.sohu.com/a/689865785_121704911",
+        "title": "\u7f8e\u56fd\u5728\u4e9a\u6b27\u5927\u9646\u56db\u5904\u6405\u548c\uff0c\u5374\u5bf9\u62c9\u7f8e\u89c6\u800c\u4e0d\u89c1 - \u641c\u72d0Sohuhttps://www.sohu.com \u203a ...",
+        "content": "",
+        "size": [
+          604,
+          432
+        ],
+        "date": "2023:06:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.youtube.com/watch?v=CCdH21RGpgk",
+        "title": "Jenderal Ukraina Akui Pertahanan Rusia Sulit Dibobol meski ...YouTube\u00a0\u00b7\u00a0Tribunnews30K+ views  \u00b7  4 months ago",
+        "content": "... : BIMA MAULANA VP: ADAM SUKMANA #perangrusiavsukraina #russia #ukraine #putin #zelensky #seranganbalasan #seranganbalikcepat #kyiv #tankleopard.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:07:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.meer.com/es/75097-la-guerra-en-ucrania-rusia-en-un-atascadero",
+        "title": "La guerra en Ucrania: Rusia en un atascadero - Meermeer.comhttps://www.meer.com \u203a 75097-la-g...",
+        "content": "De hecho, existe una brecha entre la ret\u00f3rica y la intenci\u00f3n de usar armas nucleares: Crimea anexada y territorio ruso han sido atacados por\u00a0...",
+        "size": [
+          410,
+          308
+        ],
+        "date": "2023:07:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.news.yahoo.com/%E7%83%8F%E5%8C%97%E7%B4%84%E6%97%85%E6%8A%95%E5%85%A5%E6%88%B0%E5%A0%B4%E4%B9%9F%E6%B2%92%E7%94%A8-%E4%BF%8480%E6%9E%9A%E6%BA%AB%E5%A3%93%E5%BD%88%E7%8C%9B%E8%BD%9F-2%E8%90%AC%E5%A3%AB%E5%85%B5%E5%BC%B7%E6%94%BB%E5%BA%AB%E7%9A%AE%E6%8F%9A%E6%96%AF%E5%85%8B-102209456.html",
+        "title": "\u70cf\u5317\u7d04\u65c5\u6295\u5165\u6230\u5834\u4e5f\u6c92\u7528! \u4fc480\u679a\u6eab\u58d3\u5f48\u731b\u8f5f2\u842c\u58eb\u5175\u5f37\u653b\u5eab\u76ae ...Yahoo\u5947\u6469\u65b0\u805ehttps://tw.news.yahoo.com \u203a \u70cf\u5317\u7d04...",
+        "content": "",
+        "size": [
+          640,
+          450
+        ],
+        "date": "2023:08:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.news.yahoo.com/%E7%83%8F%E5%8C%97%E7%B4%84%E6%97%85%E6%8A%95%E5%85%A5%E6%88%B0%E5%A0%B4%E4%B9%9F%E6%B2%92%E7%94%A8-%E4%BF%8480%E6%9E%9A%E6%BA%AB%E5%A3%93%E5%BD%88%E7%8C%9B%E8%BD%9F-2%E8%90%AC%E5%A3%AB%E5%85%B5%E5%BC%B7%E6%94%BB%E5%BA%AB%E7%9A%AE%E6%8F%9A%E6%96%AF%E5%85%8B-102209456.html",
+        "title": "\u70cf\u5317\u7d04\u65c5\u6295\u5165\u6230\u5834\u4e5f\u6c92\u7528! \u4fc480\u679a\u6eab\u58d3\u5f48\u731b\u8f5f2\u842c\u58eb\u5175\u5f37\u653b\u5eab\u76ae ...Yahoo\u5947\u6469\u65b0\u805ehttps://tw.news.yahoo.com \u203a \u70cf\u5317\u7d04...",
+        "content": "",
+        "size": [
+          640,
+          450
+        ],
+        "date": "2023:08:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://soha.vn/mang-luoi-phong-khong-manh-nhat-the-gioi-dang-hoat-dong-o-kyiv-20230810083402865.htm",
+        "title": "M\u1ea1ng l\u01b0\u1edbi ph\u00f2ng kh\u00f4ng m\u1ea1nh nh\u1ea5t th\u1ebf gi\u1edbi \u0111ang ho\u1ea1t \u0111\u1ed9ng \u1edf ...SOHAhttps://soha.vn \u203a Qu\u00e2n S\u1ef1",
+        "content": "GD&T\u0110 - \u1ea4n ph\u1ea9m The Times c\u1ee7a Anh cho r\u1eb1ng m\u1ed9t m\u1ea1ng l\u01b0\u1edbi ph\u00f2ng kh\u00f4ng m\u1ea1nh nh\u1ea5t th\u1ebf gi\u1edbi \u0111\u00e3 \u0111\u01b0\u1ee3c t\u1ea1o ra xung quanh th\u1ee7 \u0111\u00f4 Kyiv c\u1ee7a Ukraine.",
+        "size": [
+          320,
+          200
+        ],
+        "date": "2023:08:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://soha.vn/mang-luoi-phong-khong-manh-nhat-the-gioi-dang-hoat-dong-o-kyiv-20230810083402865.htm",
+        "title": "M\u1ea1ng l\u01b0\u1edbi ph\u00f2ng kh\u00f4ng m\u1ea1nh nh\u1ea5t th\u1ebf gi\u1edbi \u0111ang ho\u1ea1t \u0111\u1ed9ng \u1edf ...SOHAhttps://soha.vn \u203a Qu\u00e2n S\u1ef1",
+        "content": "GD&T\u0110 - \u1ea4n ph\u1ea9m The Times c\u1ee7a Anh cho r\u1eb1ng m\u1ed9t m\u1ea1ng l\u01b0\u1edbi ph\u00f2ng kh\u00f4ng m\u1ea1nh nh\u1ea5t th\u1ebf gi\u1edbi \u0111\u00e3 \u0111\u01b0\u1ee3c t\u1ea1o ra xung quanh th\u1ee7 \u0111\u00f4 Kyiv c\u1ee7a Ukraine.",
+        "size": [
+          320,
+          200
+        ],
+        "date": "2023:08:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://smartencyclopedia.org/2023/09/04/unrest-among-russian-mercenaries-in-ukraine-signals-kremlins-challenges/",
+        "title": "Unrest Among Russian Mercenaries in Ukraine Signals ...Smartencyclopediahttps://smartencyclopedia.org \u203a 2023 \u203a September \u203a 4",
+        "content": "Categories \u00b7 Military News, Military Operations, Russia (SNB), Russia (Troublespots), Russian Armed Forces, Ukraine (News), Ukraine (Troublespots)\u00a0...",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": "2023:09:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://giaoducthoidai.vn/bao-my-khang-dinh-da-den-luc-thuc-hien-ke-hoach-c-o-ukraine-post653355.html",
+        "title": "\u0110\u1ebfn l\u00fac Ukraine ph\u1ea3i \u0111\u00e0m ph\u00e1n v\u1edbi Nga?B\u00e1o Gi\u00e1o d\u1ee5c v\u00e0 Th\u1eddi \u0111\u1ea1i Onlinehttps://giaoducthoidai.vn \u203a bao-my-...",
+        "content": "NATO v\u00e0 Nga kh\u00f4ng c\u00f3 g\u00ec \u0111\u1ec3 so s\u00e1nh v\u1edbi Polonez-M \u00b7 Th\u1ebf gi\u1edbi 23/11/2023 09:00. GD&T\u0110 - T\u1edd Military Watch v\u1eeba c\u00f3 so s\u00e1nh h\u1ec7 th\u1ed1ng ph\u00f3ng lo\u1ea1t\u00a0...",
+        "size": [
+          820,
+          487
+        ],
+        "date": "2023:09:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://soha.vn/bao-my-khang-dinh-da-den-luc-thuc-hien-ke-hoach-c-o-ukraine-20230907202821774.htm",
+        "title": "B\u00e1o M\u1ef9 kh\u1eb3ng \u0111\u1ecbnh \u0111\u00e3 \u0111\u1ebfn l\u00fac th\u1ef1c hi\u1ec7n K\u1ebf ho\u1ea1ch C \u1edf UkraineSOHAhttps://soha.vn \u203a Qu\u1ed1c t\u1ebf",
+        "content": "Theo \u00f4ng Milley, Kiev v\u00e0 ph\u01b0\u01a1ng T\u00e2y h\u00e3y t\u1eadn d\u1ee5ng n\u00f3, \u0111\u1eebng b\u1ecf l\u1ee1 n\u00f3, b\u1edfi v\u00ec v\u1ec1 m\u1eb7t qu\u00e2n s\u1ef1, L\u1ef1c l\u01b0\u1ee3ng V\u0169 trang Ukraine v\u1edbi s\u1ef1 h\u1eadu thu\u1eabn c\u1ee7a M\u1ef9 v\u00e0\u00a0...",
+        "size": [
+          660,
+          410
+        ],
+        "date": "2023:09:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "http://vpdf.org.vn/tin-tuc-su-kien/hoa-binh-an-ninh/bao-my-khang-dinh-da-den-luc-thuc-hien-ke-hoach-c-o-ukraine.html",
+        "title": "B\u00e1o M\u1ef9 kh\u1eb3ng \u0111\u1ecbnh \u0111\u00e3 \u0111\u1ebfn l\u00fac th\u1ef1c hi\u1ec7n K\u1ebf ho\u1ea1ch C \u1edf Ukrainevpdf.org.vnhttp://vpdf.org.vn \u203a hoa-binh-an-ninh",
+        "content": "Jamie Dettmer, bi\u00ean t\u1eadp vi\u00ean c\u1ee7a Politico Europe cho r\u1eb1ng, \u0111\u1ed1i v\u1edbi L\u1ef1c l\u01b0\u1ee3ng V\u0169 trang Ukraine, m\u1ed9t \u201cng\u00f5 c\u1ee5t\u201d th\u1ef1c s\u1ef1 \u0111\u00e3 \u0111\u1ebfn v\u1edbi h\u1ecd tr\u00ean t\u1ea5t c\u1ea3\u00a0...",
+        "size": [
+          1000,
+          621
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "http://vpdf.org.vn/tin-tuc-su-kien/hoa-binh-an-ninh/bao-my-khang-dinh-da-den-luc-thuc-hien-ke-hoach-c-o-ukraine.html",
+        "title": "B\u00e1o M\u1ef9 kh\u1eb3ng \u0111\u1ecbnh \u0111\u00e3 \u0111\u1ebfn l\u00fac th\u1ef1c hi\u1ec7n K\u1ebf ho\u1ea1ch C \u1edf Ukrainevpdf.org.vnhttp://vpdf.org.vn \u203a hoa-binh-an-ninh",
+        "content": "Jamie Dettmer, bi\u00ean t\u1eadp vi\u00ean c\u1ee7a Politico Europe cho r\u1eb1ng, \u0111\u1ed1i v\u1edbi L\u1ef1c l\u01b0\u1ee3ng V\u0169 trang Ukraine, m\u1ed9t \u201cng\u00f5 c\u1ee5t\u201d th\u1ef1c s\u1ef1 \u0111\u00e3 \u0111\u1ebfn v\u1edbi h\u1ecd tr\u00ean t\u1ea5t c\u1ea3\u00a0...",
+        "size": [
+          1000,
+          621
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://pan.bg/view_article-6-572036-Responsible-Statecraft-sasht-slepiyat-optimizym-podvede-sasht-v-ukrajna.html",
+        "title": "Responsible Statecraft (\u0421\u0410\u0429): \u0421\u043b\u0435\u043f\u0438\u044f\u0442 \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u044a\u043c \u043f\u043e\u0434\u0432\u0435\u0434\u0435 ...Pan.bghttps://pan.bg \u203a view_article-6-572...",
+        "content": "\u0437\u0430\u0433\u043b\u0430\u0432\u0438\u0435 - Why blind optimism leads us astray on Ukraine). \u0412 \u0440\u0435\u0437\u0443\u043b\u0442\u0430\u0442 \u043d\u0430 \u0442\u043e\u0432\u0430 \u0441\u0435 \u043e\u043a\u0430\u0437\u0430, \u0447\u0435 \u0437\u0430 \u0442\u0435\u0437\u0438, \u043a\u043e\u0438\u0442\u043e \u0432\u044f\u0440\u0432\u0430\u0442 \u043d\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u043d\u0430\u0442\u0430 \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0430 \u0438\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.rumaniamilitary.ro/ce-sisteme-de-arme-au-capatat-o-noua-sansa",
+        "title": "Ce sisteme de arme au capatat o noua sansa?Romania Militaryhttps://www.rumaniamilitary.ro \u203a ce...",
+        "content": "... Russia and Ukraine jam each other's drones https://www.businessinsider.com/ukraine-russia-war-us-army-urgently-working-on-electronic-warfare\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.sohu.com/a/719111726_121649366",
+        "title": "6000\u4e4c\u519b\u62fc\u6b7b\u7a81\u56f4\uff0c\u4fc4\u519b\u6740\u8fdb\u9a6c\u6797\u5361\uff0c\u62b5\u6297\u8005\u683c\u6740\u52ff\u8bba - \u641c\u72d0Sohuhttps://www.sohu.com \u203a ...",
+        "content": "",
+        "size": [
+          640,
+          450
+        ],
+        "date": "2023:09:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.sohu.com/a/719111726_121649366",
+        "title": "6000\u4e4c\u519b\u62fc\u6b7b\u7a81\u56f4\uff0c\u4fc4\u519b\u6740\u8fdb\u9a6c\u6797\u5361\uff0c\u62b5\u6297\u8005\u683c\u6740\u52ff\u8bba - \u641c\u72d0Sohuhttps://www.sohu.com \u203a ...",
+        "content": "",
+        "size": [
+          640,
+          450
+        ],
+        "date": "2023:09:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/russia-world-war-2022",
+        "title": "Russia World War 2022 - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a russia-world-war...",
+        "content": "The whole world would benefit from a Ukrainian victory over ... Ukraine war could lead to World War III, says Trump image. Russia-Ukraine war\u00a0...",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": "2023:09:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://xamvn.vc/r/nga-tao-noi-ham-moi-gay-thiet-hai-nang-cho-ukraine-ma-khong-can-hop-vay.668434/",
+        "title": "Nga t\u1ea1o \"n\u1ed3i h\u1ea7m\" m\u1edbi, g\u00e2y thi\u1ec7t h\u1ea1i n\u1eb7ng cho Ukraine m\u00e0 ...\u2705 XAMVNhttps://xamvn.vc \u203a nga-tao-noi-ham...",
+        "content": "",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://medium.com/@Kessu/the-never-ending-war-why-russias-plans-for-ukraine-fell-short-6f69ca9da554",
+        "title": "The Never-Ending War: Why Russia's Plans for Ukraine Fell ...Medium\u00a0\u00b7\u00a0Ville Takala10+ likes  \u00b7  1 month ago",
+        "content": "When Russia first invaded Ukraine in 2014, they had ambitious plans to conquer the entire country within two days. However, five years later\u00a0...",
+        "size": [
+          1400,
+          984
+        ],
+        "date": "2023:09:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://ata.gov.al/2023/09/30/lagjja-e-re-te-5-maji-rama-po-sistemohen-102-familje-te-prekura-nga-termeti/",
+        "title": "Lagjja e re te \u201c5 Maji\u201d, Rama: Po sistemohen 102 familje t\u00eb ...Agjencia Telegrafike Shqiptarehttps://ata.gov.al \u203a Flash",
+        "content": "",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://ata.gov.al/2023/09/30/soft-news-nje-mace-si-roje-sigurie/",
+        "title": "SOFT NEWS - Nj\u00eb mace si... roj\u00eb sigurie? - ATSH -Agjencia Telegrafike Shqiptarehttps://ata.gov.al \u203a Bota",
+        "content": "",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://ata.gov.al/2023/09/30/soft-news-nje-mace-si-roje-sigurie/",
+        "title": "SOFT NEWS - Nj\u00eb mace si... roj\u00eb sigurie? - ATSH -Agjencia Telegrafike Shqiptarehttps://ata.gov.al \u203a Bota",
+        "content": "",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://ata.gov.al/2023/09/30/lagjja-e-re-te-5-maji-rama-po-sistemohen-102-familje-te-prekura-nga-termeti/",
+        "title": "Lagjja e re te \u201c5 Maji\u201d, Rama: Po sistemohen 102 familje t\u00eb ...Agjencia Telegrafike Shqiptarehttps://ata.gov.al \u203a Flash",
+        "content": "",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://ata.gov.al/2023/09/30/fokus-ukraina-278-130-trupa-ruse-te-vrare-ne-lufte/",
+        "title": "FOKUS - Ukraina: 278 130 trupa ruse t\u00eb vrar\u00eb n\u00eb luft\u00eb - ATSH -Agjencia Telegrafike Shqiptarehttps://ata.gov.al \u203a Bota",
+        "content": "KIEV, 30 shtator /ATSH-ANSA/ \u2013 Sipas Shtabit t\u00eb P\u00ebrgjithsh\u00ebm t\u00eb ushtris\u00eb ukrainase, numri i ushtar\u00ebve rus\u00eb t\u00eb vrar\u00eb n\u00eb Ukrain\u00eb u rrit n\u00eb\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://ata.gov.al/2023/09/30/fokus-ukraina-278-130-trupa-ruse-te-vrare-ne-lufte/",
+        "title": "FOKUS - Ukraina: 278 130 trupa ruse t\u00eb vrar\u00eb n\u00eb luft\u00eb - ATSH -Agjencia Telegrafike Shqiptarehttps://ata.gov.al \u203a Bota",
+        "content": "KIEV, 30 shtator /ATSH-ANSA/ \u2013 Sipas Shtabit t\u00eb P\u00ebrgjithsh\u00ebm t\u00eb ushtris\u00eb ukrainase, numri i ushtar\u00ebve rus\u00eb t\u00eb vrar\u00eb n\u00eb Ukrain\u00eb u rrit n\u00eb\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": "2023:09:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/is-the-war-in-ukraine-going-well-for-russia",
+        "title": "Is The War In Ukraine Going Well For Russia - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a is-the-war-i...",
+        "content": "Russia's Ukraine War Has Narrowed \u2014 But Not its Goals ... More \u00b7 Ukrainian nationalists enlist to defend Kyiv against Russian troops. Russia's\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.doisongphapluat.com/tin-tuc-ukraine-moi-nhat-ngay-24-10-2023-hon-150-khu-vuc-o-ukraine-bi-nga-tan-cong-a596363.html",
+        "title": "Tin t\u1ee9c Ukraine m\u1edbi nh\u1ea5t ng\u00e0y 24/10: H\u01a1n 150 khu v\u1ef1c \u1edf ...\u0110\u1eddi s\u1ed1ng Ph\u00e1p lu\u1eadthttps://www.doisongphapluat.com \u203a ...",
+        "content": "Tuy nhi\u00ean, Ukraine ch\u1eafc ch\u1eafn s\u1ebd kh\u00f4ng ng\u1eebng chi\u1ebfn \u0111\u1ea5u trong m\u00f9a \u0111\u00f4ng v\u00e0 h\u1ecd c\u0169ng \u0111\u00e3 l\u00e0m suy y\u1ebfu l\u1ef1c l\u01b0\u1ee3ng Nga \u1edf m\u1ee9c \u0111\u1ed9 \u0111\u00e1ng k\u1ec3. Kiev v\u1eabn c\u00f3 kh\u1ea3\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.doisongphapluat.com/tin-tuc-ukraine-moi-nhat-ngay-24-10-2023-hon-150-khu-vuc-o-ukraine-bi-nga-tan-cong-a596363.html",
+        "title": "Tin t\u1ee9c Ukraine m\u1edbi nh\u1ea5t ng\u00e0y 24/10: H\u01a1n 150 khu v\u1ef1c \u1edf ...\u0110\u1eddi s\u1ed1ng Ph\u00e1p lu\u1eadthttps://www.doisongphapluat.com \u203a ...",
+        "content": "Tuy nhi\u00ean, Ukraine ch\u1eafc ch\u1eafn s\u1ebd kh\u00f4ng ng\u1eebng chi\u1ebfn \u0111\u1ea5u trong m\u00f9a \u0111\u00f4ng v\u00e0 h\u1ecd c\u0169ng \u0111\u00e3 l\u00e0m suy y\u1ebfu l\u1ef1c l\u01b0\u1ee3ng Nga \u1edf m\u1ee9c \u0111\u1ed9 \u0111\u00e1ng k\u1ec3. Kiev v\u1eabn c\u00f3 kh\u1ea3\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-nga-that-tui-chuyen-gia-duc-noi-avdiivka-nguy-ngap-20231029114901914.htm",
+        "title": "Chi\u1ebfn s\u1ef1 Ukraine: Nga \"th\u1eaft t\u00fai\", chuy\u00ean gia \u0110\u1ee9c n\u00f3i Avdiivka ...B\u00e1o D\u00e2n tr\u00edhttps://dantri.com.vn \u203a ... \u203a Qu\u00e2n s\u1ef1",
+        "content": "(D\u00e2n tr\u00ed) - Theo Julian R\u00f6pke, chuy\u00ean gia qu\u00e2n s\u1ef1 c\u1ee7a b\u00e1o BILD (\u0110\u1ee9c), ng\u01b0\u1eddi \u1ee7ng h\u1ed9 Ukraine cho bi\u1ebft, Nga ti\u1ebfp t\u1ee5c t\u1ea5n c\u00f4ng \u1edf Avdiivka.",
+        "size": [
+          162,
+          108
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://dantri.com.vn/the-gioi/cuoc-phan-cong-cua-ukraine-da-ket-thuc-20231030120619708.htm",
+        "title": "Cu\u1ed9c ph\u1ea3n c\u00f4ng c\u1ee7a Ukraine \u0111\u00e3 k\u1ebft th\u00fac? | B\u00e1o D\u00e2n tr\u00edB\u00e1o D\u00e2n tr\u00edhttps://dantri.com.vn \u203a ... \u203a Qu\u00e2n s\u1ef1",
+        "content": "(D\u00e2n tr\u00ed) - Ukraine v\u1eabn ch\u01b0a ch\u1ecdc th\u1ee7ng ho\u00e0n to\u00e0n tuy\u1ebfn ph\u00f2ng th\u1ee7 c\u1ee7a Nga v\u00e0 v\u01b0\u01a1n t\u1edbi c\u00e1c th\u00e0nh ph\u1ed1 m\u1ee5c ti\u00eau - Tokmak, Berdiansk v\u00e0\u00a0...",
+        "size": [
+          162,
+          108
+        ],
+        "date": "2023:10:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://dantri.com.vn/the-gioi/ong-zelensky-xoc-lai-tinh-than-giua-luc-binh-si-met-moi-vi-xung-dot-20231031095807025.htm",
+        "title": "\u00d4ng Zelensky x\u1ed1c l\u1ea1i tinh th\u1ea7n gi\u1eefa l\u00fac binh s\u0129 m\u1ec7t m\u1ecfi v\u00ec xung ...B\u00e1o D\u00e2n tr\u00edhttps://dantri.com.vn \u203a the-gioi \u203a on...",
+        "content": "(D\u00e2n tr\u00ed) - T\u1ed5ng th\u1ed1ng Ukraine Volodymyr Zelensky n\u1ed7 l\u1ef1c thuy\u1ebft ph\u1ee5c c\u00e1c \u0111\u1ed3ng minh ph\u01b0\u01a1ng T\u00e2y, c\u0169ng nh\u01b0 n\u1ed9i b\u1ed9, v\u1ec1 vi\u1ec7c c\u1ea7n duy tr\u00ec tinh\u00a0...",
+        "size": [
+          162,
+          108
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-nga-gianh-2-diem-cao-chien-luoc-o-avdiivka-20231031100755864.htm",
+        "title": "Chi\u1ebfn s\u1ef1 Ukraine: Nga gi\u00e0nh 2 \u0111i\u1ec3m cao chi\u1ebfn l\u01b0\u1ee3c \u1edf AvdiivkaB\u00e1o D\u00e2n tr\u00edhttps://dantri.com.vn \u203a ... \u203a Qu\u00e2n s\u1ef1",
+        "content": "Truy\u1ec1n th\u00f4ng Ukraine cho bi\u1ebft, l\u1ef1c l\u01b0\u1ee3ng Kiev \u0111\u00e3 m\u1edf cu\u1ed9c t\u1ea5n c\u00f4ng t\u1ed5ng l\u1ef1c nh\u1eb1m gi\u00e0nh l\u1ea1i v\u00f9ng b\u00e3i x\u1ec9 th\u1ea3i Avdiivka quan tr\u1ecdng m\u00e0 h\u1ecd \u0111\u00e3 m\u1ea5t c\u1ea1nh\u00a0...",
+        "size": [
+          162,
+          108
+        ],
+        "date": "2023:10:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/russia/ammunition-depot-ablaze-in-occupied-ukraine-a-telling-sign-of-escalating-conflict/",
+        "title": "Ammunition Depot Ablaze in Occupied Ukraine: A Telling Sign ...BNN Breakinghttps://bnn.network \u203a Military \u203a Russia \u203a Ukraine",
+        "content": "This storage facility, repurposed by Russian forces for storing ammunition and military vehicle parking, resides in the Russian-occupied Donetsk\u00a0...",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2023:11:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://www.youtube.com/watch?v=-IZPZrCdwYc",
+        "title": "Perang Ukraina Hakikatnya Sudah Selesai - YouTubeYouTube\u00a0\u00b7\u00a0JejakTapak News31.5K+ views  \u00b7  2 weeks ago",
+        "content": "... Russia MoD/Ukraine MoD Music: Please Tell Me_Silent Partner. ... Military & History New 57K views \u00b7 6:25. Go to channel \u00b7 BREAKING: Ohio voters\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:11:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/russia/ukrainian-forces-inflict-major-blow-on-russian-combatants-international-relations-strained/",
+        "title": "Ukrainian Forces Inflict Major Blow on Russian Combatants ...BNN Breakinghttps://bnn.network \u203a Military \u203a Russia \u203a Ukraine",
+        "content": "In the ongoing conflict between Ukraine and Russia, military engagements have resulted in significant losses. ... The war has exacted a\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/russia/ukrainian-forces-destroy-russian-military-ship-askold-in-strategic-missile-strike/",
+        "title": "Ukrainian Forces Annihilate Russian Ship 'Askold'BNN Breakinghttps://bnn.network \u203a Military \u203a Russia \u203a Ukraine",
+        "content": "The conflict between Ukraine and Russia continues to escalate, with both countries engaging in military actions and retaliatory strikes, each\u00a0...",
+        "size": [
+          150,
+          150
+        ],
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bnn.network/world/russia/ukraine-eliminates-990-russian-terrorists-in-24-hours-significant-losses-for-russian-forces/",
+        "title": "Ukraine Counters Russian Forces: Significant Losses for RussiaBNN Breakinghttps://bnn.network \u203a Military \u203a Russia \u203a Ukraine",
+        "content": "In conclusion, the conflict between Ukraine and Russia remains intense, with the Ukrainian Defense Forces actively countering Russian forces.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:11:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://idcar.com.ar/ssia-s-War-on-Ukraine-Shows-That-It-Is-Fascist-The-New-York-5713-165819",
+        "title": "Opinion Russia's War on Ukraine Shows That It Is Fascistidcar.com.arhttps://idcar.com.ar \u203a should feel so good",
+        "content": "Opinion Russia's War on Ukraine Shows That It Is Fascist - The New York Times | should feel so good - idcar.com.ar.",
+        "size": [
+          1024,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.belfercenter.org/publication/consider-these-4-inconvenient-questions-ukraine-war-moves-forward",
+        "title": "Consider These 4 Inconvenient Questions as the Ukraine War ...The Belfer Center for Science and International Affairshttps://www.belfercenter.org \u203a publication \u203a consider-t...",
+        "content": "... Ukraine that buried Russian President Vladimir Putin in an ignominious grave. ... war between the United States and Russia and could escalate to a nuclear war.",
+        "size": [
+          380,
+          230
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnews.com/think",
+        "title": "THINK: Fresh Opinions, Sharp Analyses and Powerful EssaysNBC Newshttps://www.nbcnews.com \u203a think",
+        "content": "Photo illustration of a Ukrainian soldier hugging his girlfriend, and Ukrainian President Zelenskyy in military. Chelsea Stahl / NBC News; Getty Images \u00b7 Russia\u00a0...",
+        "size": [
+          260,
+          130
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.atlanticcouncil.org/event/leading-from-the-front/",
+        "title": "Leading from the front: How Ukraine's local officials resist RussiaAtlantic Councilhttps://www.atlanticcouncil.org \u203a event \u203a leading-from...",
+        "content": "War in Ukraine ... In February 2022, Moscow launched an all-out invasion of Ukraine after a months-long military build-up, threatening the country's sovereignty\u00a0...",
+        "size": [
+          1600,
+          900
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.belfercenter.org/publication/russia-review-109",
+        "title": "Russia in Review - Belfer CenterThe Belfer Center for Science and International Affairshttps://www.belfercenter.org \u203a publication \u203a russia-rev...",
+        "content": "Ukrainian President Petro Poroshenko and Polish Prime Minister Donald Tusk have discussed plans to form a joint military brigade including the two countries and\u00a0...",
+        "size": [
+          380,
+          230
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hfk-haderslev.dk/?y=ukraine-s-military-gains-raise-kyiv-s-war-aims-jj-qL61zqcy",
+        "title": "Ukraine's Military Gains Raise Kyiv's War Aims As Russia, 46 ...Haderslev Fodbold Klubhttps://hfk-haderslev.dk \u203a Tactical Gear Ukraine Lviv",
+        "content": "Home; \u203a; Tactical Gear Ukraine Lviv; \u203a; Ukraine's Military Gains Raise Kyiv's War Aims as Russia Shells Eastern Cities WSJ\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.belfercenter.org/publication/russia-review-205",
+        "title": "Russia in Review - Belfer CenterThe Belfer Center for Science and International Affairshttps://www.belfercenter.org \u203a publication \u203a russia-rev...",
+        "content": "... military involvement in Syrian domestic affairs,\u201d Russia's U.N. Ambassador ... A Report Card on the War in Ukraine \u00b7 Graham Allison. | Feb 22, 2023. In the\u00a0...",
+        "size": [
+          380,
+          230
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nationalinterest.org/tag/russian-army",
+        "title": "Russian Army | The National InterestThe National Interesthttps://nationalinterest.org \u203a tag \u203a russian-army",
+        "content": "Stories From Russian Army. Artillery Duel: Who Will Win the Russian-Ukrainian War for the Donbas? by Kris Osborn June 2, 2022. Kremlin Purge? Ukraine Claims\u00a0...",
+        "size": [
+          707,
+          524
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=ukraine-crisis-highlights-superpowers-quarrel-over-spheres-of-influence-cc-EevlpWh0",
+        "title": "Ukraine Crisis Highlights Superpowers' Quarrel Over Spheres ...elevate.inhttps://www.elevate.in \u203a flag of ukraine amazon",
+        "content": "Russia's war on Ukraine [What Think Tanks are thinking] Epthinktank European Parliament. KliKil Flag Ukrainian flag balcony decoration \u2013 Ukraine flag made of\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Why-hasnt-Russia-brought-more-air-power-to-bear-during-its-2022-invasion-of-Ukraine",
+        "title": "Why hasn't Russia brought more air power to bear during its ...Quorahttps://www.quora.com \u203a Why-hasnt-Russia-brought-mo...",
+        "content": "You wonder why Putin's Russia stopped its military advance in Ukraine? \u00b7 First, get your mind off the ideas put forward by some Russian nationalists that this is\u00a0...",
+        "size": [
+          602,
+          423
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.insightnews.com/opinion/columnists/the-shadow-of-death/article_3560d726-f082-11ed-8789-2fc4083b7a18.html",
+        "title": "The Shadow of Death... | Columnists | insightnews.comInsight Newshttps://www.insightnews.com \u203a opinion \u203a the-shadow-of-...",
+        "content": "",
+        "size": [
+          1200,
+          844
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=ukraine-crisis-highlights-superpowers-quarrel-over-spheres-of-influence-cc-1dD9A4sx",
+        "title": "Ukraine Crisis Highlights Superpowers' Quarrel Over Spheres ...elevate.inhttps://www.elevate.in \u203a is amazon in the ukraine",
+        "content": "Ukraine crisis highlights superpowers' quarrel over spheres of influence Nikkei Asia. Turning the tide in Russia's war on Ukraine Financial Times. Ukraine\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://defenceforumindia.com/threads/russia-ukraine-war-2022.83278/page-1791",
+        "title": "Russia Ukraine War 2022 | Page 1791 - Indian Defence ForumIndian Defence Forumhttps://defenceforumindia.com \u203a ... \u203a Europe and Russia",
+        "content": "",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Why-is-the-US-trying-to-frame-Ukraine-for-the-blowing-up-of-Nord-Stream-when-we-already-know-that-the-US-did-it",
+        "title": "Why is the US trying to frame Ukraine for the blowing ... - QuoraQuorahttps://www.quora.com \u203a Why-is-the-US-trying-to-frame...",
+        "content": "When the Russo-Ukrainian war started I estimated that US support would run out in a year. After all, the Russian army was the 2nd best in the world, the US\u00a0...",
+        "size": [
+          602,
+          423
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://policycommons.net/artifacts/4141920/russias-ambitions-ukraines-resistance-and-the-wests-response/4950566/",
+        "title": "Russias ambitions, Ukraines resistance, and the Wests ...Policy Commonshttps://policycommons.net \u203a artifacts \u203a russias-ambitio...",
+        "content": "... Ukrainians to resist the Russian attack. I think for many Ukrainians, this is almost an existential threat in that they see losing meaning an end to Ukrainian\u00a0...",
+        "size": [
+          2022
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.iiitl.ac.in/olive_ammunition.shtml/?g=ukraine-puts-army-on-alert-as-russia-heats-up-pp-8ddgzlS7",
+        "title": "Ukraine Puts Army On Alert As Russia Heats Up Crimea, 56 ...IIIT Lucknowhttps://www.iiitl.ac.in \u203a olive_ammunition",
+        "content": "The Russian Annexation of Crimea \u00b7 Crimea is\u00a0...",
+        "size": [
+          1024,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alliance.health/?g=two-weeks-at-the-front-in-ukraine-the-new-tt-glwkk0HM",
+        "title": "Two Weeks at the Front in Ukraine The New Yorkeralliance.healthhttps://alliance.health \u203a ukrainian military jacket",
+        "content": "Military winter jacket Ukrainian ORIGINAL \u0417\u0421\u0423! Two Weeks at the Front in Ukraine The New Yorker. Russia-Ukraine war at a glance: what we know on day 323 of\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://doyletechcorp.com/?o=ukraine-crisis-highlights-superpowers-quarrel-over-spheres-of-influence-uu-kYeg9oc0",
+        "title": "Ukraine Crisis Highlights Superpowers' Quarrel Over Spheres ...Doyletechhttps://doyletechcorp.com \u203a ukraine war",
+        "content": "Ukrainian army trapped Russians with ingenious tactic: Russians who left trenches easily shot down! What Caused the Russia-Ukraine War? (And How Will It End\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alliance.health/?g=two-weeks-at-the-front-in-ukraine-the-new-tt-glwkk0HM",
+        "title": "Two Weeks at the Front in Ukraine The New Yorkeralliance.healthhttps://alliance.health \u203a ukrainian military jacket",
+        "content": "Military winter jacket Ukrainian ORIGINAL \u0417\u0421\u0423! Two Weeks at the Front in Ukraine The New Yorker. Russia-Ukraine war at a glance: what we know on day 323 of\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://doyletechcorp.com/?o=ukraine-crisis-highlights-superpowers-quarrel-over-spheres-of-influence-uu-kYeg9oc0",
+        "title": "Ukraine Crisis Highlights Superpowers' Quarrel Over Spheres ...Doyletechhttps://doyletechcorp.com \u203a ukraine war",
+        "content": "Ukrainian army trapped Russians with ingenious tactic: Russians who left trenches easily shot down! What Caused the Russia-Ukraine War? (And How Will It End\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.synctalent.co.za/?i=ukraine-s-military-gains-raise-kyiv-s-war-aims-pp-LljrgMC3",
+        "title": "Ukraine's Military Gains Raise Kyiv's War Aims As Russia, 58 ...synctalent.co.zahttps://www.synctalent.co.za \u203a ...",
+        "content": "Ukraine's Military Gains Raise Kyiv's War Aims as Russia Shells Eastern Cities WSJ, Second.",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tonicradio.fr/category/locale/page/362/?m=climbing-the-ladder-how-the-west-can-manage-escalation-rr-8gzeFb",
+        "title": "Climbing the ladder: How the West can manage escalation in ...CRA-MShttps://www.tonicradio.fr \u203a ... \u203a council active 60g price",
+        "content": "Russia's ambitions, Ukraine's resistance, and the West's response Brookings ... Ukraine war heading towards a dangerous turn\u201d. Climbing the ladder: How the\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://zenaidebar.com.br/4319/7656-6084.htm/?e=two-weeks-at-the-front-in-ukraine-the-new-ee-bXgYaWIy",
+        "title": "Two Weeks At The Front In Ukraine The New Yorker, 54% OFFzenaidebar.com.brhttps://zenaidebar.com.br \u203a ... \u203a ukraine army backpack",
+        "content": "Two Weeks at the Front in Ukraine The New Yorker. Russia-Ukraine war: List of key events, day 506 Russia-Ukraine war News Al Jazeera. Two Weeks at the Front\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tonicradio.fr/category/locale/page/1256/?m=climbing-the-ladder-how-the-west-can-manage-escalation-rr-8gzeFb",
+        "title": "Climbing the ladder: How the West can manage escalation in ...CRA-MShttps://www.tonicradio.fr \u203a ... \u203a council active 60g price",
+        "content": "Russia's ambitions, Ukraine's resistance, and the West's response Brookings ... Ukraine war heading towards a dangerous turn\u201d. Climbing the ladder: How the\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://sushmajoynest.in/?w=ukraine-s-military-gains-raise-kyiv-s-war-aims-ii-62JDNet0",
+        "title": "Ukraine's Military Gains Raise Kyiv's War Aims As Russia, 41 ...sushmajoynest.inhttp://sushmajoynest.in \u203a ...",
+        "content": "Can Ukrainian Freedom Fighters Stand Up to the Russian Military? History Suggests They Can Vanity Fair. Ukraine's Military Gains Raise Kyiv's War Aims as\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qmsoft.com.vn/two-weeks-at-the-front-in-ukraine-the-new-ff-2zkPBqil",
+        "title": "Two Weeks At The Front In Ukraine The New Yorkerqmsoft.com.vnhttps://qmsoft.com.vn \u203a ...",
+        "content": "Ukraine updates: Russia says Ukraine attacks repelled Russia-Ukraine war News Al Jazeera ... Russia-Ukraine war at a glance: what we know on day 323 of the\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.aic-prestigeinspirefoundation.in/?g=ukraine-s-offensive-in-kharkiv-was-hard-and-bitter-aa-kqPM7Lfy",
+        "title": "Ukraine's offensive in Kharkiv was hard and bitter, say soldiers ...AIC-PRESTIGEhttps://www.aic-prestigeinspirefoundation.in \u203a ...",
+        "content": "Military briefing: Russia and Ukraine prepare for rigours of winter war Financial Times ... Ukraine train front-line medics as war rages with Russia The American\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://happyvillage.com.tw/?c=in-pictures-one-year-of-war-in-ukraine-ii-KaBZWvHv",
+        "title": "In pictures: One year of war in Ukrainehappyvillage.com.twhttps://happyvillage.com.tw \u203a war gore",
+        "content": "What Does Russia's War on Ukraine Mean for the International ... Russia-Ukraine war: What happened today (April 2) NPR. In pictures: One year of war in\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://woodroc.com/in-ukraine-war-a-shadowy-key-player-emerges-russia-mm-G9PYD9T6",
+        "title": "In Ukraine War, A Shadowy Key Player Emerges: Russia'swoodroc.comhttps://woodroc.com \u203a ...",
+        "content": "In Ukraine War, A Shadowy Key Player Emerges: Russia's Private Army Los Angeles Times | Used Military Clothing Store Near Me | woodroc.com.",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/discover/russian-soldier-kissing-cross-ww2",
+        "title": "russian soldier kissing cross ww2\uff5cTikTok SearchTikTokhttps://www.tiktok.com \u203a Discover",
+        "content": "75. deltathundergaming. 40. #Russian soldiers #Respect#war#WW2 army \u00b7 theladyizdihar. 2946. k.g.b_editz. 199. Small edit #Ussr #ww2 #soldiers #russia #fyp\u30b7.",
+        "size": [
+          100,
+          100
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.avldispensary.com/p/seltzer-mellow/?m=what-is-happening-in-ukraine-and-why-is-russia-xx-xXNzvjiE",
+        "title": "What Is Happening In Ukraine And Why Is Russia Invading ...Asheville Dispensaryhttps://www.avldispensary.com \u203a Home \u203a ukraine war",
+        "content": "What Is Happening in Ukraine and Why Is Russia Invading? WSJ, Check out this great listen on The 2022 war in Ukraine has been breaking news since it Have\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://heureux-dans-sa-vie.com/comment-devenir-independant-affectivement-au-sein-de-son-couple/?c=ukraine-is-doubling-its-army-while-russia-scrapes-the-7-ww-072abbT9",
+        "title": "Ukraine Is Doubling Its Army, While Russia Scrapes The, 54 ...Heureux dans sa viehttps://heureux-dans-sa-vie.com \u203a comment-devenir-i...",
+        "content": "Find many great new used options and get the best deals for Uniform Tactical Helmet 6B7-1M Ratnik Size-3 Invaders War in Ukraine at the best.",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://test.egerton.ac.ke/?i=petition-%C2%B7-%D0%A1ondemn-events-in-cyprus-supporting-russian-invasion-ee-DkVQ3oIN",
+        "title": "Petition \u00b7 \u0421ondemn Events In Cyprus, Supporting Russian, 45 ...Egerton Universityhttps://test.egerton.ac.ke \u203a ...",
+        "content": "Petition \u00b7 \u0421ondemn events in Cyprus, supporting Russian invasion of Ukraine \u00b7. Wednesday, March Russia's War On Ukraine: News And Information From Ukraine.",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://garmentsconsulting.com/civil-society-help-turn-back-the-Russians-New-633-98347",
+        "title": "Did Ukraine's civil society help turn back the Russians? - Newgarmentsconsulting.comhttps://garmentsconsulting.com \u203a civil-society-help-tur...",
+        "content": "Did Ukraine's civil society help turn back the Russians? - New. Russia-Ukraine War: 24-Hour Revolt by Wagner Mercenaries. Did Ukraine's civil society help\u00a0...",
+        "size": [
+          1500,
+          1054
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/what-happened-with-ukraine-and-russia-2022",
+        "title": "What Happened With Ukraine And Russia 2022 - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a what-happe...",
+        "content": "Impacts of Russia's War in Ukraine | Belfer Center for ... U.S. Public Views of Russian Invasion of Ukraine and Biden's ... More.",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://talentpool.com.ng/?c=the-first-time-you-die-you-re-dead-reddit-yy-vkO0aGsa",
+        "title": "The First Time You Die, You're Dead': Reddit Warriors, 60% OFFtalentpool.com.nghttps://talentpool.com.ng \u203a ...",
+        "content": "Why is the Russian military performing so badly in Ukraine? The Russian military is much better equipped and trained than the Ukrainian They have a deal of\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/davejohnmorris8?lang=en",
+        "title": "David Morris (@davejohnmorris8) / XTwitter\u00a0\u00b7\u00a0davejohnmorris850+ followers",
+        "content": "MA in Second World War Studies and Degree in War studies both at The University of Wolverhampton. interested in Normandy Campaign. LI and RUC.",
+        "size": [
+          1200,
+          843
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/are-russian-and-ukraine-at-war",
+        "title": "Are Russian And Ukraine At War Guide 2023 - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a are-russian-and-...",
+        "content": "Russia-Ukraine war: List of key events, day 536 | Russia ... Scale of Russian deaths in Ukraine signals trouble for Putin image. Russia's\u00a0...",
+        "size": [
+          1500,
+          1054
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://yournumberrocks.com/?m=the-first-time-you-die-you-re-dead-reddit-3-vv-g23OjeCD",
+        "title": "The First Time You Die, You're Dead': Reddit Warriors, 51% OFFyournumberrocks.comhttps://yournumberrocks.com \u203a ...",
+        "content": "Ukraine war: Russia accuses US of direct role in Ukraine war THE AUTHORITY NEWS. Find many great new used options and get the best deals for Breville Combi\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/what-happened-with-ukraine-and-russia-2022",
+        "title": "What Happened With Ukraine And Russia 2022 - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a what-happe...",
+        "content": "Impacts of Russia's War in Ukraine | Belfer Center for ... U.S. Public Views of Russian Invasion of Ukraine and Biden's ... More.",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://talentpool.com.ng/?c=the-first-time-you-die-you-re-dead-reddit-yy-vkO0aGsa",
+        "title": "The First Time You Die, You're Dead': Reddit Warriors, 60% OFFtalentpool.com.nghttps://talentpool.com.ng \u203a ...",
+        "content": "Why is the Russian military performing so badly in Ukraine? The Russian military is much better equipped and trained than the Ukrainian They have a deal of\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/davejohnmorris8?lang=en",
+        "title": "David Morris (@davejohnmorris8) / XTwitter\u00a0\u00b7\u00a0davejohnmorris850+ followers",
+        "content": "MA in Second World War Studies and Degree in War studies both at The University of Wolverhampton. interested in Normandy Campaign. LI and RUC.",
+        "size": [
+          1200,
+          843
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/are-russian-and-ukraine-at-war",
+        "title": "Are Russian And Ukraine At War Guide 2023 - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a are-russian-and-...",
+        "content": "Russia-Ukraine war: List of key events, day 536 | Russia ... Scale of Russian deaths in Ukraine signals trouble for Putin image. Russia's\u00a0...",
+        "size": [
+          1500,
+          1054
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/what-is-currently-happening-with-the-war-in-ukraine",
+        "title": "What Is Currently Happening With The War In Ukraine Articlesblackshirts.infohttps://blackshirts.info \u203a collection \u203a what-is-currently-...",
+        "content": "Ukraine crisis | Euromaidan, Crimea, & War in the Donbas ... Russia-Ukraine war: What happened today (March 22) | WUNC photograph. Ukraine crisis | Euromaidan,\u00a0...",
+        "size": [
+          1500,
+          1054
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/warstudies_wlv",
+        "title": "War Studies, Politics & IR at Wolverhampton - X.comTwitter\u00a0\u00b7\u00a0warstudies_wlv800+ followers",
+        "content": "",
+        "size": [
+          1200,
+          843
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/who-is-doing-better-russia-or-ukraine",
+        "title": "Who Is Doing Better Russia Or Ukraine Gallery - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a who-is-doi...",
+        "content": "What Russia's economic resilience means for the war in ... Ukraine will build back better - The Japan Times. More \u00b7 Keep Calm and Carry On\u00a0...",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tiktok.com/@warclips_6/video/7225111565589105966",
+        "title": "army#fpy#military #fyp\u30b7 #USA #NATO#cool video ... - TikTokTikTok\u00a0\u00b7\u00a0CLASSIFIED AND BEDJEZA ARE W270+ views",
+        "content": "TikTok video from CLASSIFIED IS DAD AND IM JR (@warclips_6): \"#army#fpy#military #fyp\u30b7 #USA #NATO#cool video#SONG NAME UR FINAL MESSAGE\". .",
+        "size": [
+          100,
+          100
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/is-the-war-in-ukraine-over",
+        "title": "Is The War In Ukraine Over Galerie - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a is-the-war-i...",
+        "content": "Russia-Ukraine war at a glance: what we know on day 415 of ... 100 Days Into Ukraine War, It's Time to End the Age of Impunity.",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theins.news/postview/1914-yemen-s-drone-doom-loop-a-model-of-instability-for-fragile-states",
+        "title": "Yemen's Drone Doom Loop: A Model Of Instability For Fragile ...theins.newshttps://www.theins.news \u203a postview \u203a 1914-yemen-s-d...",
+        "content": "The war in Ukraine has further spurred the development and rapid deployment ... Ukraine Is A Russian Vital Interest, And Moscow Will Behave Accordingly. 2022\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lovelytravels.co.in/ukrainian-war-gore-k.html",
+        "title": "Emplacement contenu Oxyder ukrainian war gore chameau ...lovelytravels.co.inhttps://www.lovelytravels.co.in \u203a ukrainian-war-gore-k",
+        "content": "Burned Bodies Found at Site of Alleged War Crime in Ukraine \u00b7 Foreign fighters now on battlefield helping battle Russia: Ukraine \u00b7 Photos from Ukraine: What it\u00a0...",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/battles-in-ukraine-war",
+        "title": "Battles In Ukraine War - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a battles-in-ukrain...",
+        "content": " \u00b7 ",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/battles-in-ukraine-war",
+        "title": "Battles In Ukraine War - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a battles-in-ukrain...",
+        "content": " \u00b7 ",
+        "size": [
+          2000,
+          1405
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://castromarina.info/ukrainian-sayings-about-war",
+        "title": "Ukrainian Sayings About War - Castro Marinacastromarina.infohttps://castromarina.info \u203a ukrainian-sayings-about-war",
+        "content": "HRW: What can get you in trouble for anti-war speech in Russia? Rereading Russian Classics in the Shadow of the Ukraine War ... Quotes by famous authors on\u00a0...",
+        "size": [
+          500,
+          351
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/how-far-am-i-from-kyiv-ukraine",
+        "title": "How Far Am I From Kyiv Ukraine Guide 2023 - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a how-far-am-i-fro...",
+        "content": "Kyiv not in NATO after Russia war would be 'suicidal ... Battle for Kyiv: How Ukrainian forces defended and saved ... image. Negotiations\u00a0...",
+        "size": [
+          1024,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pueblerino.info/how-long-is-a-flight-from-uk-to-ukraine",
+        "title": "How Long Is A Flight From Uk To Ukraine - Pu Eble Rinopueblerino.infohttps://pueblerino.info \u203a how-long-is-a-flight-from-uk...",
+        "content": "When and how will Ukraine's war with Russia end?",
+        "size": [
+          3065,
+          2154
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://www.blockdit.com/pages/5e86c42c8e9d070c9afd909a",
+        "title": "Military Weapons and SPY Tactical GEARS - BlockditBlockdithttps://www.blockdit.com \u203a pages",
+        "content": "\u0e2a\u0e37\u0e1a\u0e40\u0e19\u0e37\u0e48\u0e2d\u0e07\u0e08\u0e32\u0e01 \u0e42\u0e1e\u0e2a\u0e15\u0e4c\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19 \u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07 \u201c\u0e2d\u0e32\u0e27\u0e38\u0e18 \u0e0a\u0e38\u0e14 \u0e41\u0e25\u0e30 \u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c \u0e43\u0e19\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19-\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22 (All weapons, Gears and Equipment in Ukraine-Russia War) \u201c. \u0e25\u0e34\u0e07\u0e01\u0e4c\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u00a0...",
+        "size": [
+          800,
+          563
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.zbraneproukrajinu.cz/",
+        "title": "D\u00e1rek pro Putina - Ve\u0159ejn\u00e1 sb\u00edrka na zbran\u011b pro UkrajinuD\u00e1rek pro Putinahttps://www.zbraneproukrajinu.cz",
+        "content": "Mikina Russian Invaders (sv\u011btl\u00e1). 4999. KOUPIT. Skladem. Image product. Mikina Russian ... Future for Ukraine \u00b7 Pam\u011b\u0165 n\u00e1roda \u00b7 Voz\u00edm drony \u00b7 Zdravotn\u00ed zaji\u0161t\u011bn\u00ed.",
+        "size": [
+          1280,
+          515
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://www.blockdit.com/posts/6252a4921390c7f560046ac1",
+        "title": "[Military Weapons and SPY Tactical GEARS] \u0e1c\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e02\u0e2d\u0e42\u0e17\u0e29\u0e17\u0e38\u0e01 ...Blockdithttps://www.blockdit.com \u203a posts",
+        "content": "\u0e2d\u0e32\u0e27\u0e38\u0e18 \u0e0a\u0e38\u0e14 \u0e41\u0e25\u0e30 \u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c \u0e43\u0e19\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19-\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22 (All weapons, Gears and Equipment in Ukraine-Russia War). \u0e2d\u0e32\u0e27\u0e38\u0e18 \u0e0a\u0e38\u0e14 \u0e41\u0e25\u0e30 \u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c \u0e02\u0e2d\u0e07\u0e17\u0e2b\u0e32\u0e23\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19 ( Ukrainian Soldier's weapons,\u00a0...",
+        "size": [
+          800,
+          563
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "lt",
+        "link": "https://www.facebook.com/LIETUVAI1VV/?locale=id_ID",
+        "title": "Lietuvai TB | Taurage - FacebookFacebook\u00a0\u00b7\u00a0Lietuvai TB40+ followers",
+        "content": "Ukrainian war, the National Military and Historical Museum of Ukraine and an exhibition of destroyed. Russian military equipment, brought from. Hostomel, Kyiv\u00a0...",
+        "size": [
+          2048,
+          1439
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "lt",
+        "link": "https://www.facebook.com/LIETUVAI1VV/",
+        "title": "Lietuvai TB | Taurage - FacebookFacebook\u00a0\u00b7\u00a0Lietuvai TB40+ followers",
+        "content": "Ukrainian war, the National Military and Historical Museum of Ukraine and an exhibition of destroyed. Russian military equipment, brought from. Hostomel, Kyiv\u00a0...",
+        "size": [
+          2048,
+          1439
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://twitter.com/dradamdighton?lang=bn",
+        "title": "Dr Adam Dighton (@DrAdamDighton) / XTwitter\u00a0\u00b7\u00a0DrAdamDighton900+ followers",
+        "content": "My latest article has been published online by 'War in History'. It examines how war was conceptualized by the British Army, 1866-1933.",
+        "size": [
+          1200,
+          843
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sk",
+        "link": "https://www.darcekpreputina.eu/",
+        "title": "Dar\u010dek pre Putina - Verejn\u00e1 zbierka na zbrane pre UkrajinuDar\u010dek pre Putinahttps://www.darcekpreputina.eu",
+        "content": "Mikina Russian Invaders (zelen\u00e1). \u20ac 208.95. K\u00daPI\u0164. Na sklade. Image product. Mikina ... Support Ukraine Slovakia \u00b7 Post Bellum \u00b7 Kto pom\u00f4\u017ee Ukrajine \u00b7 Donio.",
+        "size": [
+          1280,
+          515
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ta",
+        "link": "https://news.lankasri.com/article/ukraine-army-suffered-90-000-casualties-1698660488",
+        "title": "\u0b8e\u0ba8\u0bcd\u0ba4 \u0baa\u0bb2\u0ba9\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8... 90000 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcdLankasrihttps://news.lankasri.com \u203a article \u203a ukraine-army-suff...",
+        "content": "90,000 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd: \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb0\u0bb7\u0bcd\u0baf\u0bbe. Russo-Ukrainian War. By Arbin 2 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u00a0...",
+        "size": [
+          600,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.eghtesadnews.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-57/611110-%D8%AF%D9%87%D9%86-%DA%A9%D8%AC%DB%8C-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A8%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A8%D8%B1-%D9%84%D8%A8%D9%87-%D9%BE%D8%B1%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D9%86%DA%AF-%D8%AA%D9%85%D8%A7%D9%85-%D8%B9%DB%8C%D8%A7%D8%B1",
+        "title": "\u067e\u0634\u062a \u067e\u0631\u062f\u0647 \u062a\u0635\u0645\u06cc\u0645 \u067e\u0648\u062a\u06cc\u0646 \u0628\u0631\u0627\u06cc \u062d\u0645\u0644\u0647 \u0628\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646/ \u0648\u0627\u0634\u0646\u06af\u062a\u0646\u0627\u0642\u062a\u0635\u0627\u062f\u0646\u06cc\u0648\u0632https://www.eghtesadnews.com \u203a 61...",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ms",
+        "link": "https://www.airtimes.my/tag/saifuddin-abdullah/",
+        "title": "Saifuddin Abdullah - Air Times News NetworkAir Times News Networkhttps://www.airtimes.my \u203a tag \u203a saif...",
+        "content": "\u201cKita menjaga hubungan bilateral yang baik dengan kedua-dua Rusia dan Ukraine. Kita berharap dan menyokong usaha-usaha diplomatik untuk segera mendapatkan\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.shahrekhabar.com/news/170050980048849",
+        "title": "\u062f\u0647\u0646 \u06a9\u062c\u06cc \u067e\u0648\u062a\u06cc\u0646 \u0628\u0647 \u0628\u0627\u06cc\u062f\u0646/ \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631 \u0644\u0628\u0647 \u067e\u0631\u062a\u06af\u0627\u0647 \u062c\u0646\u06af ...\u0634\u0647\u0631\u062e\u0628\u0631https://www.shahrekhabar.com \u203a ne...",
+        "content": "220331-destroyed-russian-tank-ukraine-al-1304-a4a48d. \u0645\u0633\u06a9\u0648 \u0648 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u062f\u0631 \u06cc\u06a9 \u0642\u062f\u0645\u06cc \u0631\u0648\u06cc\u0627\u0631\u0648\u06cc\u06cc \u0645\u0633\u062a\u0642\u06cc\u0645. \u0628\u0647 \u06af\u0641\u062a\u0647 \u062a\u062d\u0644\u06cc\u0644\u06af\u0631\u0627\u0646\u060c \u0632\u0645\u0627\u0646 \u062f\u0642\u06cc\u0642 \u062a\u0635\u0645\u06cc\u0645 \u067e\u0648\u062a\u06cc\u0646 \u0628\u0631\u0627\u06cc \u062d\u0645\u0644\u0647 \u0628\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://pelikan.media/ni/2uwPMtRAef8LoA5B4/%D8%AF%D9%87%D9%86_%DA%A9%D8%AC%DB%8C_%D9%BE%D9%88%D8%AA%DB%8C%D9%86_%D8%A8%D9%87_%D8%A8%D8%A7%DB%8C%D8%AF%D9%86_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7_%D9%88_%D8%B1%D9%88%D8%B3%DB%8C%D9%87_%D8%A8%D8%B1_%D9%84%D8%A8%D9%87_%D9%BE%D8%B1%D8%AA%DA%AF%D8%A7%D9%87_%D8%AC%D9%86%DA%AF_%D8%AA%D9%85%D8%A7%D9%85",
+        "title": "\u062f\u0647\u0646 \u06a9\u062c\u06cc \u067e\u0648\u062a\u06cc\u0646 \u0628\u0647 \u0628\u0627\u06cc\u062f\u0646/ \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631 \u0644\u0628\u0647 \u067e\u0631\u062a\u06af\u0627\u0647 \u062c\u0646\u06af ...\u067e\u0644\u06cc\u06a9\u0627\u0646 \u0645\u062f\u06cc\u0627https://pelikan.media \u203a \u062f\u0647\u0646_\u06a9\u062c\u06cc_\u067e\u0648...",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.zbraneproukrajinu.cz/filtr-campaign/aktivni-kampane",
+        "title": "Ve\u0159ejn\u00e1 sb\u00edrka na zbran\u011b pro Ukrajinu - D\u00e1rek pro PutinaD\u00e1rek pro Putinahttps://www.zbraneproukrajinu.cz \u203a ...",
+        "content": "",
+        "size": [
+          1280,
+          515
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "mt",
+        "link": "https://one.com.mt/tag/ukrajna/",
+        "title": "Ukrajna - ONEone.com.mthttps://one.com.mt \u203a tag \u203a ukrajna",
+        "content": "",
+        "size": [
+          585,
+          411
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://indeksonline.net/sanksionet-ndaj-rusise-mund-te-vazhdojne-edhe-pas-perfundimit-te-luftes-ne-ukraine/",
+        "title": "Sanksionet ndaj Rusis\u00eb mund t\u00eb vazhdojn\u00eb edhe pas ...Indeksonlinehttps://indeksonline.net \u203a sanksionet...",
+        "content": "Sanksionet ndaj Rusis\u00eb mund t\u00eb vazhdojn\u00eb edhe pas p\u00ebrfundimit t\u00eb luft\u00ebs n\u00eb Ukrain\u00eb. Viber Icon. IndeksOnline. E Diele, 13 N\u00ebntor 2022 17:33. Sekretarja\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.zbraneproukrajinu.cz/filtr-campaign/vsechny-kampane",
+        "title": "Ve\u0159ejn\u00e1 sb\u00edrka na zbran\u011b pro Ukrajinu - D\u00e1rek pro PutinaD\u00e1rek pro Putinahttps://www.zbraneproukrajinu.cz \u203a ...",
+        "content": "",
+        "size": [
+          1280,
+          515
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://top-channel.tv/2022/12/08/nuk-ndalen-bombardimet-ne-ukraine-15-humbje-jete-gjate-oreve-te-fundit/",
+        "title": "Nuk ndalen bombardimet n\u00eb Ukrain\u00eb, 15 humbje jete gjat\u00eb ...Top Channelhttps://top-channel.tv \u203a 2022/12/08",
+        "content": "Nuk ndalen bombardimet n\u00eb Ukrain\u00eb, 15 humbje jete gjat\u00eb or\u00ebve t\u00eb fundit. 08/12/2022 16:46. Bombardimet gjat\u00eb nat\u00ebs kan\u00eb shkaktuar 15 viktima dhe 15 t\u00eb\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://pelikan.media/ni/2uwPPMKPXarwiDQB2/%D8%AF%D9%87%D9%86_%DA%A9%D8%AC%DB%8C_%D9%BE%D9%88%D8%AA%DB%8C%D9%86_%D8%A8%D9%87_%D8%A8%D8%A7%DB%8C%D8%AF%D9%86_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7_%D9%88_%D8%B1%D9%88%D8%B3%DB%8C%D9%87_%D8%A8%D8%B1_%D9%84%D8%A8%D9%87_%D9%BE%D8%B1%D8%AA%DA%AF%D8%A7%D9%87_%D8%AC%D9%86%DA%AF_%D8%AA%D9%85%D8%A7%D9%85",
+        "title": "\u062f\u0647\u0646 \u06a9\u062c\u06cc \u067e\u0648\u062a\u06cc\u0646 \u0628\u0647 \u0628\u0627\u06cc\u062f\u0646/ \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631 \u0644\u0628\u0647 \u067e\u0631\u062a\u06af\u0627\u0647 \u062c\u0646\u06af ...\u067e\u0644\u06cc\u06a9\u0627\u0646 \u0645\u062f\u06cc\u0627https://pelikan.media \u203a \u062f\u0647\u0646_\u06a9\u062c\u06cc_\u067e\u0648...",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://pelikan.media/ni/2uwPMtRAef8LoA5B4/%D8%AF%D9%87%D9%86_%DA%A9%D8%AC%DB%8C_%D9%BE%D9%88%D8%AA%DB%8C%D9%86_%D8%A8%D9%87_%D8%A8%D8%A7%DB%8C%D8%AF%D9%86_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7_%D9%88_%D8%B1%D9%88%D8%B3%DB%8C%D9%87_%D8%A8%D8%B1_%D9%84%D8%A8%D9%87_%D9%BE%D8%B1%D8%AA%DA%AF%D8%A7%D9%87_%D8%AC%D9%86%DA%AF_%D8%AA%D9%85%D8%A7%D9%85",
+        "title": "\u062f\u0647\u0646 \u06a9\u062c\u06cc \u067e\u0648\u062a\u06cc\u0646 \u0628\u0647 \u0628\u0627\u06cc\u062f\u0646/ \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631 \u0644\u0628\u0647 \u067e\u0631\u062a\u06af\u0627\u0647 \u062c\u0646\u06af ...\u067e\u0644\u06cc\u06a9\u0627\u0646 \u0645\u062f\u06cc\u0627https://pelikan.media \u203a \u062f\u0647\u0646_\u06a9\u062c\u06cc_\u067e\u0648...",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.zbraneproukrajinu.cz/filtr-campaign/aktivni-kampane",
+        "title": "Ve\u0159ejn\u00e1 sb\u00edrka na zbran\u011b pro Ukrajinu - D\u00e1rek pro PutinaD\u00e1rek pro Putinahttps://www.zbraneproukrajinu.cz \u203a ...",
+        "content": "",
+        "size": [
+          1280,
+          515
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "mt",
+        "link": "https://one.com.mt/tag/ukrajna/",
+        "title": "Ukrajna - ONEone.com.mthttps://one.com.mt \u203a tag \u203a ukrajna",
+        "content": "",
+        "size": [
+          585,
+          411
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://indeksonline.net/sanksionet-ndaj-rusise-mund-te-vazhdojne-edhe-pas-perfundimit-te-luftes-ne-ukraine/",
+        "title": "Sanksionet ndaj Rusis\u00eb mund t\u00eb vazhdojn\u00eb edhe pas ...Indeksonlinehttps://indeksonline.net \u203a sanksionet...",
+        "content": "Sanksionet ndaj Rusis\u00eb mund t\u00eb vazhdojn\u00eb edhe pas p\u00ebrfundimit t\u00eb luft\u00ebs n\u00eb Ukrain\u00eb. Viber Icon. IndeksOnline. E Diele, 13 N\u00ebntor 2022 17:33. Sekretarja\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://www.zbraneproukrajinu.cz/filtr-campaign/vsechny-kampane",
+        "title": "Ve\u0159ejn\u00e1 sb\u00edrka na zbran\u011b pro Ukrajinu - D\u00e1rek pro PutinaD\u00e1rek pro Putinahttps://www.zbraneproukrajinu.cz \u203a ...",
+        "content": "",
+        "size": [
+          1280,
+          515
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://top-channel.tv/2022/12/08/nuk-ndalen-bombardimet-ne-ukraine-15-humbje-jete-gjate-oreve-te-fundit/",
+        "title": "Nuk ndalen bombardimet n\u00eb Ukrain\u00eb, 15 humbje jete gjat\u00eb ...Top Channelhttps://top-channel.tv \u203a 2022/12/08",
+        "content": "Nuk ndalen bombardimet n\u00eb Ukrain\u00eb, 15 humbje jete gjat\u00eb or\u00ebve t\u00eb fundit. 08/12/2022 16:46. Bombardimet gjat\u00eb nat\u00ebs kan\u00eb shkaktuar 15 viktima dhe 15 t\u00eb\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://sk.linkedin.com/posts/martin-boh%C3%A1%C4%8D-549b4825_snb-stb-%C4%8Dmfs-fa%C4%8Dr-b%C5%AFh-activity-7065046673831415808-K0te",
+        "title": "Martin Boh\u00e1\u010d - SNB, StB, \u010cMFS, FA\u010cR, B\u016fh.LinkedInhttps://sk.linkedin.com \u203a posts",
+        "content": "It'll be used to push back vatniks and keep Ukrainians safe. d\u00edk / diakyo\" a ... russians, it does not matter, they were always sc*mbags. President Reagan's\u00a0...",
+        "size": [
+          800,
+          321
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.eghtesadnews.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-57/611110-%D8%AF%D9%87%D9%86-%DA%A9%D8%AC%DB%8C-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A8%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A8%D8%B1-%D9%84%D8%A8%D9%87-%D9%BE%D8%B1%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D9%86%DA%AF-%D8%AA%D9%85%D8%A7%D9%85-%D8%B9%DB%8C%D8%A7%D8%B1",
+        "title": "\u067e\u0634\u062a \u067e\u0631\u062f\u0647 \u062a\u0635\u0645\u06cc\u0645 \u067e\u0648\u062a\u06cc\u0646 \u0628\u0631\u0627\u06cc \u062d\u0645\u0644\u0647 \u0628\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646/ \u0648\u0627\u0634\u0646\u06af\u062a\u0646\u0627\u0642\u062a\u0635\u0627\u062f\u0646\u06cc\u0648\u0632https://www.eghtesadnews.com \u203a 61...",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ms",
+        "link": "https://www.airtimes.my/tag/saifuddin-abdullah/",
+        "title": "Saifuddin Abdullah - Air Times News NetworkAir Times News Networkhttps://www.airtimes.my \u203a tag \u203a saif...",
+        "content": "\u201cKita menjaga hubungan bilateral yang baik dengan kedua-dua Rusia dan Ukraine. Kita berharap dan menyokong usaha-usaha diplomatik untuk segera mendapatkan\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.shahrekhabar.com/news/170050980048849",
+        "title": "\u062f\u0647\u0646 \u06a9\u062c\u06cc \u067e\u0648\u062a\u06cc\u0646 \u0628\u0647 \u0628\u0627\u06cc\u062f\u0646/ \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631 \u0644\u0628\u0647 \u067e\u0631\u062a\u06af\u0627\u0647 \u062c\u0646\u06af ...\u0634\u0647\u0631\u062e\u0628\u0631https://www.shahrekhabar.com \u203a ne...",
+        "content": "220331-destroyed-russian-tank-ukraine-al-1304-a4a48d. \u0645\u0633\u06a9\u0648 \u0648 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u062f\u0631 \u06cc\u06a9 \u0642\u062f\u0645\u06cc \u0631\u0648\u06cc\u0627\u0631\u0648\u06cc\u06cc \u0645\u0633\u062a\u0642\u06cc\u0645. \u0628\u0647 \u06af\u0641\u062a\u0647 \u062a\u062d\u0644\u06cc\u0644\u06af\u0631\u0627\u0646\u060c \u0632\u0645\u0627\u0646 \u062f\u0642\u06cc\u0642 \u062a\u0635\u0645\u06cc\u0645 \u067e\u0648\u062a\u06cc\u0646 \u0628\u0631\u0627\u06cc \u062d\u0645\u0644\u0647 \u0628\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://flight.com.gr/macron-zelensky-will-have-to-negotiate-with-russia-at-some-point/",
+        "title": "\u039c\u03b1\u03ba\u03c1\u03cc\u03bd: \u03bf \u0396\u03b5\u03bb\u03ad\u03bd\u03c3\u03ba\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03b1 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03b8\u03b1 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 ... - \u03a0\u03c4\u03ae\u03c3\u03b7\u03a0\u03c4\u03ae\u03c3\u03b7https://flight.com.gr \u203a macron-zelen...",
+        "content": "",
+        "size": [
+          1024,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "cs",
+        "link": "https://sk.linkedin.com/posts/martin-boh%C3%A1%C4%8D-549b4825_asociacesr%C3%A1%C4%8D%C5%AF-nevyjedn%C3%A1vejtejakosr%C3%A1%C4%8Di-activity-7033797790300282881-2XBl",
+        "title": "Martin Boh\u00e1\u010d on LinkedInLinkedInhttps://sk.linkedin.com \u203a posts",
+        "content": "... Russia, killing all 269 persons on board. It was en route to Seoul from ... The incident occurred during heightened tensions during the Cold War and further\u00a0...",
+        "size": [
+          800,
+          321
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ms",
+        "link": "https://www.airtimes.my/tag/rusia/page/3/",
+        "title": "Rusia - Air Times News NetworkAir Times News Networkhttps://www.airtimes.my \u203a tag \u203a page",
+        "content": "Beliau yang juga Timbalan Pengerusi Majlis Keselamatan Rusia (Russian Security ... Crimea Ukraine. Manakala, Putin mengiktiraf 'kemerdekaan' Donetsk dan\u00a0...",
+        "size": [
+          1000,
+          703
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://gazetainfokus.com/sipas-ministrise-britanike-te-mbrojtjes-qe-nga-fillimi-i-luftes-ne-ukraine-rusise-i-jane-shkaterruar-mbi-10-mije-automjete-ushtarake/",
+        "title": "Sipas ministris\u00eb britanike t\u00eb Mbrojtjes: Q\u00eb nga fillimi i luft\u00ebs n\u00eb ...gazetainfokus.comhttps://gazetainfokus.com \u203a sipas-mi...",
+        "content": "Sipas ministris\u00eb britanike t\u00eb Mbrojtjes: Q\u00eb nga fillimi i luft\u00ebs n\u00eb Ukrain\u00eb, Rusis\u00eb i jan\u00eb shkat\u00ebrruar mbi 10 mij\u00eb automjete ushtarake. 22:52 | 15 April\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://360grade.al/598700/propozimi-kinez-per-fundin-e-luftes-ne-ukraine-cfare-parashikon-plani-prej-12-pikash/",
+        "title": "Propozimi kinez p\u00ebr fundin e luft\u00ebs n\u00eb Ukrain\u00eb, \u00e7far\u00eb ...360 Gradehttps://360grade.al \u203a propozimi-kin...",
+        "content": "Nj\u00eb vit pas fillimit t\u00eb agresionit rus n\u00eb Ukrain\u00eb, Kina po ofron nj\u00eb propozim prej 12 pikash p\u00ebr t'u dh\u00ebn\u00eb fund luftimeve. Propozimi vjen pas njoftimit t\u00eb\u00a0...",
+        "size": [
+          880,
+          523
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://mil.ifeng.com/c/8RmmnaaTvdo",
+        "title": "\u4e4c\u519b\u4e3a\u4f55\u53cd\u653b\u4e0d\u987a\uff1f\u7f8e\u5a92\uff1a\u8d23\u4efb\u5728\u5317\u7ea6 - \u51e4\u51f0\u519b\u4e8b\u51e4\u51f0\u519b\u4e8bhttps://mil.ifeng.com \u203a ...",
+        "content": "",
+        "size": [
+          1035,
+          582
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.rumaniamilitary.ro/category/categorii-de-arme/tancuri-2",
+        "title": "Tancuri! Archives - Romania MilitaryRomania Militaryhttps://www.rumaniamilitary.ro \u203a ta...",
+        "content": "",
+        "size": [
+          250,
+          150
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://gazetablic.com/njerezit-e-ketyre-profesioneve-sdo-te-ftohen-ne-lufte-ne-rusi/",
+        "title": "Njer\u00ebzit e k\u00ebtyre profesioneve s'do t\u00eb ftohen n\u00eb luft\u00eb n\u00eb RusiGazetaBlichttps://gazetablic.com \u203a njerezit-e-k...",
+        "content": "K\u00ebt\u00eb e b\u00ebri t\u00eb ditur Ministri rus i Mbrojtjes, Sergei Shoigu i cili tha se Rusia do t\u00eb th\u00ebrras 300 mij\u00eb trupa shtes\u00eb p\u00ebr luft\u00ebn e Rusis\u00eb n\u00eb Ukrain\u00eb, n\u00eb at\u00eb q\u00eb\u00a0...",
+        "size": [
+          2560,
+          1799
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://gazetablic.com/ukraina-rendit-humbjet-totale-deri-me-sot-te-rusise-me-shume-se-152-mije-jete-te-humbura/",
+        "title": "Ukraina rendit humbjet totale deri m\u00eb sot t\u00eb Rusis\u00eb, m\u00eb shum\u00eb ...GazetaBlichttps://gazetablic.com \u203a ukraina-ren...",
+        "content": "",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://mil.ifeng.com/c/8RmmnaaTvdo",
+        "title": "\u4e4c\u519b\u4e3a\u4f55\u53cd\u653b\u4e0d\u987a\uff1f\u7f8e\u5a92\uff1a\u8d23\u4efb\u5728\u5317\u7ea6 - \u51e4\u51f0\u519b\u4e8b\u51e4\u51f0\u519b\u4e8bhttps://mil.ifeng.com \u203a ...",
+        "content": "",
+        "size": [
+          1035,
+          582
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.rumaniamilitary.ro/category/categorii-de-arme/tancuri-2",
+        "title": "Tancuri! Archives - Romania MilitaryRomania Militaryhttps://www.rumaniamilitary.ro \u203a ta...",
+        "content": "",
+        "size": [
+          250,
+          150
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://gazetablic.com/japonia-i-ofron-ndihma-ukraines-do-te-siguroje-ushqim-dhe-ilace-per-qytetaret/",
+        "title": "Japonia i ofron ndihma Ukrain\u00ebs, do t\u00eb siguroj\u00eb ushqim dhe ...GazetaBlichttps://gazetablic.com \u203a japonia-i-of...",
+        "content": "T\u00eb dy diskutuan situat\u00ebn n\u00eb Ukrain\u00eb, sanksionet e m\u00ebtejshme kund\u00ebr Rusis\u00eb dhe ndihm\u00ebn ndaj Ukrain\u00ebs. Kjo \u00ebsht\u00eb hera e kat\u00ebrt q\u00eb dy lider\u00ebt flasin me telefon\u00a0...",
+        "size": [
+          2560,
+          1799
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://marsalqatar.qa/post/43432/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D9%82%D8%AA%D9%84-100-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7",
+        "title": "\u0631\u0648\u0633\u064a\u0627 \u062a\u0639\u0644\u0646 \u0642\u062a\u0644 100 \u0639\u0633\u0643\u0631\u064a \u0623\u0648\u0643\u0631\u0627\u0646\u064a \u0648\u062a\u062f\u0645\u064a\u0631 30 \u0645\u0646\u0635\u0629 \u0647\u0627\u0648\u0646\u0645\u0631\u0633\u0627\u0644 \u0642\u0637\u0631https://marsalqatar.qa \u203a \u0639\u0627\u0644\u0645\u064a",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.anninhthudo.vn/tam-anh-huong-cua-phuong-tay-suy-giam-nghiem-trong-tren-toan-cau-post558527.antd",
+        "title": "T\u1ea7m \u1ea3nh h\u01b0\u1edfng c\u1ee7a ph\u01b0\u01a1ng T\u00e2y suy gi\u1ea3m nghi\u00eam tr\u1ecdng tr\u00ean ...B\u00e1o \u0110i\u1ec7n t\u1eed An ninh Th\u1ee7 \u0111\u00f4https://www.anninhthudo.vn \u203a tam-...",
+        "content": " \u00b7 ",
+        "size": [
+          854,
+          600
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "http://sahebkhabar.ir/news/63595287/%D9%BE%D8%B4%D8%AA-%D9%BE%D8%B1%D8%AF%D9%87-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%DA%A9%D8%B1%D9%85%D9%84%DB%8C%D9%86-%D8%B1%D8%A7",
+        "title": "\u067e\u0634\u062a \u067e\u0631\u062f\u0647 \u062a\u0635\u0645\u06cc\u0645 \u067e\u0648\u062a\u06cc\u0646 \u0628\u0631\u0627\u06cc \u062d\u0645\u0644\u0647 \u0628\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646/ \u0648\u0627\u0634\u0646\u06af\u062a\u0646\u0635\u0627\u062d\u0628\u200c\u062e\u0628\u0631http://sahebkhabar.ir \u203a news \u203a \u067e\u0634\u062a...",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://vista.ir/n/en1mi9c",
+        "title": "\u062f\u0647\u0646 \u06a9\u062c\u06cc \u067e\u0648\u062a\u06cc\u0646 \u0628\u0647 \u0628\u0627\u06cc\u062f\u0646/ \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631 \u0644\u0628\u0647 \u067e\u0631\u062a\u06af\u0627\u0647 \u062c\u0646\u06af ...\u0648\u06cc\u0633\u062a\u0627https://vista.ir \u203a ... \u203a \u0633\u06cc\u0627\u0633\u06cc",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.shahrekhabar.com/news/170068050056899",
+        "title": "\u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0648 \u0645\u0633\u06a9\u0648 \u0628\u0631 \u0644\u0628\u0647 \u067e\u0631\u062a\u06af\u0627\u0647 \u062c\u0646\u06af \u062a\u0645\u0627\u0645 \u0639\u06cc\u0627\u0631 - \u0634\u0647\u0631\u062e\u0628\u0631\u0634\u0647\u0631\u062e\u0628\u0631https://www.shahrekhabar.com \u203a ne...",
+        "content": "220331-destroyed-russian-tank-ukraine-al-1304-a4a48d. \u0645\u0633\u06a9\u0648 \u0648 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u062f\u0631 \u06cc\u06a9 \u0642\u062f\u0645\u06cc \u0631\u0648\u06cc\u0627\u0631\u0648\u06cc\u06cc \u0645\u0633\u062a\u0642\u06cc\u0645. \u0628\u0647 \u06af\u0641\u062a\u0647 \u062a\u062d\u0644\u06cc\u0644\u06af\u0631\u0627\u0646\u060c \u0632\u0645\u0627\u0646 \u062f\u0642\u06cc\u0642 \u062a\u0635\u0645\u06cc\u0645 \u067e\u0648\u062a\u06cc\u0646 \u0628\u0631\u0627\u06cc \u062d\u0645\u0644\u0647 \u0628\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646\u00a0...",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-107/50837-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D9%85%D8%B3%DA%A9%D9%88-%D8%A8%D8%B1-%D9%84%D8%A8%D9%87-%D9%BE%D8%B1%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D9%86%DA%AF-%D8%AA%D9%85%D8%A7%D9%85-%D8%B9%DB%8C%D8%A7%D8%B1",
+        "title": "\u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0648 \u0645\u0633\u06a9\u0648 \u0628\u0631 \u0644\u0628\u0647 \u067e\u0631\u062a\u06af\u0627\u0647 \u062c\u0646\u06af \u062a\u0645\u0627\u0645 \u0639\u06cc\u0627\u0631 - \u0627\u06a9\u0648 \u0627\u06cc\u0631\u0627\u0646\u0627\u06a9\u0648\u0627\u06cc\u0631\u0627\u0646https://www.ecoiran.com \u203a 50837-\u0648\u0627...",
+        "content": " \u00b7 ",
+        "size": [
+          2500,
+          1757
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.8887098431587219
+      },
+      {
+        "class": "excavation",
+        "ioclass": "outdoor",
+        "probability": 0.027894483879208565
+      },
+      {
+        "class": "construction_site",
+        "ioclass": "outdoor",
+        "probability": 0.02419542893767357
+      },
+      {
+        "class": "trench",
+        "ioclass": "outdoor",
+        "probability": 0.017358293756842613
+      },
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.011137749068439007
+      }
+    ],
+    "transients": [
+      {
+        "class": "season/winter",
+        "score": 0.834226667881012
+      },
+      {
+        "class": "time/daylight",
+        "score": 0.7666720151901245
+      },
+      {
+        "class": "moist",
+        "score": 0.7474080324172974
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.7437397241592407
+      },
+      {
+        "class": "ice",
+        "score": 0.7383161783218384
+      },
+      {
+        "class": "dirty",
+        "score": 0.7314409613609314
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.7306848764419556
+      },
+      {
+        "class": "rugged",
+        "score": 0.6154988408088684
+      },
+      {
+        "class": "cluttered",
+        "score": 0.518813967704773
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.5026660561561584
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 3205,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "middle": {
+        "pred_class": 6833,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "fine": {
+        "pred_class": 11854,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "hierarchy": {
+        "pred_class": 11854,
+        "pred_lat": 39.42734909057617,
+        "pred_long": -94.20240783691406
+      },
+      "country": {
+        "city": "",
+        "state": "Missouri",
+        "country": "United States"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 39.40246,
+    "longitude": -94.22653,
+    "generationtime_ms": 0.23102760314941406,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 326.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2021-06-17T00:00",
+        "2021-06-17T01:00",
+        "2021-06-17T02:00",
+        "2021-06-17T03:00",
+        "2021-06-17T04:00",
+        "2021-06-17T05:00",
+        "2021-06-17T06:00",
+        "2021-06-17T07:00",
+        "2021-06-17T08:00",
+        "2021-06-17T09:00",
+        "2021-06-17T10:00",
+        "2021-06-17T11:00",
+        "2021-06-17T12:00",
+        "2021-06-17T13:00",
+        "2021-06-17T14:00",
+        "2021-06-17T15:00",
+        "2021-06-17T16:00",
+        "2021-06-17T17:00",
+        "2021-06-17T18:00",
+        "2021-06-17T19:00",
+        "2021-06-17T20:00",
+        "2021-06-17T21:00",
+        "2021-06-17T22:00",
+        "2021-06-17T23:00",
+        "2021-06-18T00:00",
+        "2021-06-18T01:00",
+        "2021-06-18T02:00",
+        "2021-06-18T03:00",
+        "2021-06-18T04:00",
+        "2021-06-18T05:00",
+        "2021-06-18T06:00",
+        "2021-06-18T07:00",
+        "2021-06-18T08:00",
+        "2021-06-18T09:00",
+        "2021-06-18T10:00",
+        "2021-06-18T11:00",
+        "2021-06-18T12:00",
+        "2021-06-18T13:00",
+        "2021-06-18T14:00",
+        "2021-06-18T15:00",
+        "2021-06-18T16:00",
+        "2021-06-18T17:00",
+        "2021-06-18T18:00",
+        "2021-06-18T19:00",
+        "2021-06-18T20:00",
+        "2021-06-18T21:00",
+        "2021-06-18T22:00",
+        "2021-06-18T23:00"
+      ],
+      "apparent_temperature": [
+        32.2,
+        31.1,
+        29.5,
+        28.6,
+        27.8,
+        27.2,
+        26.1,
+        25.3,
+        24.5,
+        24.2,
+        24.1,
+        23.4,
+        24.8,
+        28.8,
+        31.1,
+        33.4,
+        34.0,
+        36.6,
+        38.4,
+        38.3,
+        38.4,
+        38.4,
+        37.6,
+        36.1,
+        36.4,
+        34.4,
+        31.8,
+        30.6,
+        29.4,
+        28.7,
+        28.0,
+        27.6,
+        26.9,
+        26.3,
+        26.0,
+        25.9,
+        26.9,
+        29.1,
+        30.7,
+        32.2,
+        34.5,
+        36.5,
+        38.7,
+        39.6,
+        39.2,
+        38.7,
+        37.8,
+        36.5
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

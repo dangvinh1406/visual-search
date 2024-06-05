@@ -1,0 +1,4145 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2014/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2014/11": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2014/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2015/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2015/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2016/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2016/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 24,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 6,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 39,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 39,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2014/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2015/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2016/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                4,
+                2,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                24,
+                1,
+                1,
+                6,
+                0,
+                0,
+                0,
+                0,
+                39,
+                0,
+                3,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 90,
+            "percentage": 36.734693877551024
+          },
+          "German": {
+            "count": 69,
+            "percentage": 28.163265306122447
+          },
+          "Spanish; Castilian": {
+            "count": 26,
+            "percentage": 10.612244897959183
+          },
+          "Japanese": {
+            "count": 8,
+            "percentage": 3.2653061224489797
+          },
+          "Portuguese": {
+            "count": 8,
+            "percentage": 3.2653061224489797
+          },
+          "Dutch; Flemish": {
+            "count": 6,
+            "percentage": 2.4489795918367347
+          },
+          "Chinese": {
+            "count": 2,
+            "percentage": 0.8163265306122449
+          },
+          "French": {
+            "count": 5,
+            "percentage": 2.0408163265306123
+          },
+          "Russian": {
+            "count": 5,
+            "percentage": 2.0408163265306123
+          },
+          "Italian": {
+            "count": 4,
+            "percentage": 1.6326530612244898
+          },
+          "Ukrainian": {
+            "count": 4,
+            "percentage": 1.6326530612244898
+          },
+          "Vietnamese": {
+            "count": 4,
+            "percentage": 1.6326530612244898
+          },
+          "Serbian": {
+            "count": 3,
+            "percentage": 1.2244897959183674
+          },
+          "Indonesian": {
+            "count": 2,
+            "percentage": 0.8163265306122449
+          },
+          "Thai": {
+            "count": 2,
+            "percentage": 0.8163265306122449
+          },
+          "Hungarian": {
+            "count": 1,
+            "percentage": 0.40816326530612246
+          }
+        },
+        "total": 245,
+        "plot": {
+          "labels": [
+            "English",
+            "German",
+            "Spanish; Castilian",
+            "Japanese",
+            "others"
+          ],
+          "data": [
+            36,
+            28,
+            10,
+            3,
+            23
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "vi",
+        "link": "https://giaoducthoidai.vn/ong-zelensky-neu-ly-do-tang-abrams-kho-giup-ukraine-thang-post661361.html",
+        "title": "\u00d4ng Zelensky n\u00eau l\u00fd do t\u0103ng Abrams kh\u00f3 gi\u00fap Ukraine th\u1eafnggiaoducthoidai.vnhttps://giaoducthoidai.vn \u203a ong-zele...",
+        "content": "Xe t\u0103ng M1 Abrams th\u1ec3 hi\u1ec7n m\u1edd nh\u1ea1t tr\u00ean chi\u1ebfn tr\u01b0\u1eddng Ukraine v\u00e0 kh\u00f3 l\u00f2ng gi\u00fap l\u1ef1c l\u01b0\u1ee3ng v\u0169 trang n\u01b0\u1edbc n\u00e0y gi\u00e0nh chi\u1ebfn th\u1eafng.",
+        "size": [
+          899,
+          600
+        ],
+        "date": "2023:11:17 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "de",
+        "link": "https://www.hna.de/politik/viele-sind-ganz-zufrieden-3860901.html",
+        "title": "Interview: Markus G\u00f6ring, Pfarrer auf der Krim, \u00fcber die Lage ...HNAhttps://www.hna.de \u203a Politik",
+        "content": "G\u00f6ring: Die haben es \u00fcberwiegend positiv gesehen und sind eigentlich ganz zufrieden damit, dass sie von der Ukraine losgekommen sind. Die\u00a0...",
+        "size": [
+          2386,
+          1591
+        ],
+        "date": "2014:11:26 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 153,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "de",
+        "link": "https://www.hna.de/politik/viele-sind-ganz-zufrieden-3860901.html",
+        "title": "Interview: Markus G\u00f6ring, Pfarrer auf der Krim, \u00fcber die Lage ...HNAhttps://www.hna.de \u203a Politik",
+        "content": "G\u00f6ring: Die haben es \u00fcberwiegend positiv gesehen und sind eigentlich ganz zufrieden damit, dass sie von der Ukraine losgekommen sind. Die\u00a0...",
+        "size": [
+          2386,
+          1591
+        ],
+        "date": "2014:11:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.hna.de/politik/interview-tuerkei-kennerin-oeztuerk-erdogan-missbraucht-sein-5064961.html",
+        "title": "Interview mit T\u00fcrkei-Kennerin \u00d6zt\u00fcrk: Erdogan missbraucht ...HNAhttps://www.hna.de \u203a Politik",
+        "content": "",
+        "size": [
+          2386,
+          1591
+        ],
+        "date": "2015:06:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.hna.de/politik/teilraeumung-eines-besetzten-hauses-in-berlin-war-illegal-zr-6566987.html",
+        "title": "Gericht kassiert R\u00e4umung in besetztem Berliner Haus - HNAHNAhttps://www.hna.de \u203a Politik",
+        "content": "",
+        "size": [
+          2386,
+          1591
+        ],
+        "date": "2016:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.hna.de/politik/schulz-kandidatur-beschert-spd-spitzenwert-von-28-prozent-zr-7357278.html",
+        "title": "Schulz-Kandidatur beschert SPD neuen Spitzenwert - HNAHNAhttps://www.hna.de \u203a Politik",
+        "content": "",
+        "size": [
+          2386,
+          1591
+        ],
+        "date": "2017:02:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.mannheim24.de/politik-wirtschaft/jetzt-mit-noch-mehr-macht-erdogan-verspricht-tuerken-einen-neustart-zr-10020351.html?itm_source=story_detail&itm_medium=interaction_bar&itm_campagin=share",
+        "title": "Erdogan verspricht den T\u00fcrken einen \u201eNeustart\u201c - Mannheim24Mannheim24https://www.mannheim24.de \u203a jetzt-...",
+        "content": "",
+        "size": [
+          2386,
+          1591
+        ],
+        "date": "2018:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.fnp.de/politik/bangkoks-polizei-streicht-zwei-maenner-verdaechtigen-liste-10876987.html",
+        "title": "Bangkoks Polizei streicht zwei M\u00e4nner von Verd\u00e4chtigen-ListeFrankfurter Neue Pressehttps://www.fnp.de \u203a Politik",
+        "content": "",
+        "size": [
+          2386,
+          1591
+        ],
+        "date": "2018:12:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://assonina.it/2021/04/02/linee-guida-per-comunicare-con-i-bambini-autistici/?c=us-oks-potential-$6b-sale-of-m1a2-abrams-tanks-jj-eezDRdhL",
+        "title": "US OKs Potential $6B Sale of M1A2 Abrams Tanks to Polandassonina.ithttps://assonina.it \u203a Home \u203a m1 abrams tank for sale uk",
+        "content": "DVIDS Images 4-118th conducts M1A1 Abrams tank live-fire [Image of 3] ... Ukraine Tanks: US to Send 31 Abrams, Adding to German Leopard Armor\u00a0...",
+        "size": [
+          1280,
+          960
+        ],
+        "date": "2021:04:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.agefotostock.com/age/en/details-news-photo/27-january-2022-bavaria-hohenfels-u-s-soldiers-fire-from-an-m1-abrams-main-battle-tank-during-the-international-military-exercise-allied-spirit-2022-at/PAH-220127-99-877195-dpai",
+        "title": "27 January 2022, Bavaria, Hohenfels: US soldiers fire from an ...agefotostockhttps://www.agefotostock.com \u203a age \u203a details-news-photo",
+        "content": "Download and buy this stock image: 27 January 2022, Bavaria, Hohenfels: U.S. soldiers fire from an M1 Abrams main battle tank during.",
+        "size": [
+          1050,
+          700
+        ],
+        "date": "2022:01:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.ch/detail/nachrichtenfoto/january-2022-bavaria-hohenfels-u-s-soldiers-fire-from-nachrichtenfoto/1238022875?language=fr",
+        "title": "U.S. soldiers fire from an M1 Abrams main battle tank during ...Getty Imageshttps://www.gettyimages.ch \u203a detail",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2022:01:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.20minutos.es/noticia/4949707/0/aumento-tension-crisis-ucrania-rusia-tropas-onu-enreda/",
+        "title": "La tensi\u00f3n se intensifica en la frontera ucraniana mientras ...20Minutoshttps://www.20minutos.es \u203a noticia",
+        "content": "",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2022:02:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://www.portfolio.hu/befektetes/20220217/pattanasig-feszulnek-a-globalis-konfliktusok-kinek-all-ez-erdekeben-527007",
+        "title": "Pattan\u00e1sig fesz\u00fclnek a glob\u00e1lis konfliktusok - kinek \u00e1ll ez ...Portfolio.huhttps://www.portfolio.hu \u203a befektetes",
+        "content": "... Abrams harckocsikat, a Stryker j\u00e1rm\u0171csal\u00e1dot \u00e9s k\u00f6nny\u0171 p\u00e1nc\u00e9lozott j\u00e1rm\u0171veket \u00e9p\u00edtenek. GettyImages-1238022875 M1 Abrams tank, forr\u00e1s: Armin\u00a0...",
+        "size": [
+          375,
+          250
+        ],
+        "date": "2022:02:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://id.quora.com/Mengapa-Amerika-Serikat-dan-NATO-tidak-mengirimkan-pasukan-untuk-membantu-Ukraina",
+        "title": "Mengapa Amerika Serikat dan NATO tidak mengirimkan ...Quorahttps://id.quora.com \u203a Mengapa-Amerika-Serikat-dan-N...",
+        "content": "Tetapi malah gagal dan malu, kemudian dikembalikan ke Ukraine. 3 ... Apakah Amerika akan mengirimkan tank Abrams ke Ukraina untuk menghadapi\u00a0...",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2022:02:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vox.com/policy-and-politics/2022/2/25/22949351/ukraine-russia-us-troops-no-fly-zone-nuclear-weapons",
+        "title": "Why the US won't send troops to Ukraine - VoxVoxhttps://www.vox.com \u203a policy-and-politics \u203a ukraine-r...",
+        "content": "US soldiers fire from an M1 Abrams main battle tank during an international military exercise in US soldiers training in Germany on January\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:02:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.rga.de/politik/news-ukraine-russland-verhandlungen-gespraeche-krieg-konflikt-putin-selenskyj-kiew-moskau-zr-91408201.html",
+        "title": "Ukraine-Krieg: Verhandlungen mit Russland vertagt | PolitikRemscheider General-Anzeigerhttps://www.rga.de \u203a Politik",
+        "content": "Bei den Verhandlungen zwischen Moskau und Kiew im Ukraine-Krieg wird es eine \u201etechnische Pause\u201c geben.",
+        "size": [
+          342,
+          193
+        ],
+        "date": "2022:03:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "id",
+        "link": "https://id.quora.com/Apakah-bantuan-yang-diberikan-Amerika-untuk-Ukraina-gratis",
+        "title": "Apakah bantuan yang diberikan Amerika untuk Ukraina gratis?Quorahttps://id.quora.com \u203a Apakah-bantuan-yang-diberikan-...",
+        "content": "... Ukraine netral dan menyingkirkan senjata barat. Jadi keinginan Ukraine untuk tetap gabung dengan NATO tidak akan menghentikan operasi militer.",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2022:03:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldebate.com/internacional/20220423/fiscalia-ucrania-denuncia-mas-200-ninos-fallecidos-casi-390-heridos.html",
+        "title": "La Fiscal\u00eda de Ucrania denuncia m\u00e1s de 200 ni\u00f1os fallecidos ...El Debatehttps://www.eldebate.com \u203a fiscalia-...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2022:04:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "http://vpdf.org.vn/tin-tuc-su-kien/hoa-binh-an-ninh/kich-ban-tot-nhat-cho-nga-ukraine-sau-2-thang-chien-su-rung-.html",
+        "title": "K\u1ecaCH B\u1ea2N T\u1ed0T NH\u1ea4T CHO NGA-UKRAINE SAU 2 TH\u00c1NG ...vpdf.org.vnhttp://vpdf.org.vn \u203a hoa-binh-an-ninh",
+        "content": "Giai \u0111o\u1ea1n 2 cu\u1ed9c chi\u1ebfn gi\u1eefa Nga v\u00e0 Ukraine \u0111\u01b0\u1ee3c cho s\u1ebd r\u1ea5t quy\u1ebft li\u1ec7t v\u1edbi s\u1ef1 can d\u1ef1 ng\u00e0y c\u00e0ng m\u1ea1nh m\u1ebd t\u1eeb ph\u01b0\u01a1ng T\u00e2y, nh\u01b0ng c\u00e1c chuy\u00ean gia\u00a0...",
+        "size": [
+          276,
+          182
+        ],
+        "date": "2022:04:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.larazon.es/internacional/20220424/ean23l64jnclvfqteanuyaxr7u.html",
+        "title": "Guerra Ucrania-Rusia, \u00faltima hora - La Raz\u00f3nLa Raz\u00f3nhttps://www.larazon.es \u203a internacional",
+        "content": "",
+        "size": [
+          720,
+          406
+        ],
+        "date": "2022:04:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/01/19/dc-should-send-ukraine-m1-abrams-tanks-and-lead-by-example/",
+        "title": "DC should send Ukraine M1 Abrams tanks and lead by exampleNew York Posthttps://nypost.com \u203a 2023/01/19 \u203a dc-should-send-ukr...",
+        "content": "We're \u201cnot there yet,\u201d said Undersecretary of Defense for Policy Colin Kahl on the question of sending M1 Abrams tanks to Ukraine.",
+        "size": [
+          1200,
+          799
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.fr.de/politik/russland-ukraine-krieg-news-waffen-lieferung-werbevideo-abrams-panzer-usa-92030484.html",
+        "title": "Ukraine will Abrams-Panzer und dreht daf\u00fcr kurioses VideoFrankfurter Rundschauhttps://www.fr.de \u203a Politik",
+        "content": "Der Druck auf den Westen zur Lieferung von Kampfpanzern im Ukraine-Krieg nimmt zu. Kiew fordert auf untypische Weise Abrams-Panzer aus den\u00a0...",
+        "size": [
+          1100,
+          733
+        ],
+        "date": "2023:01:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fdd.org/analysis/2023/01/23/stocking-ukraine-foreign-military-sales-boom/",
+        "title": "Stocking Ukraine could generate foreign military sales boomFDDhttps://www.fdd.org \u203a Military and Political Power",
+        "content": "Replacing the military equipment transferred to Ukraine by the United States' NATO allies could lead to roughly $21.7 billion in foreign\u00a0...",
+        "size": [
+          2386,
+          1214
+        ],
+        "date": "2023:01:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://lat.rt.rs/svet/16579-rt-balkan-analiza-sta-slanje-tenkova-abrams-leopard-znaci-za-borbe-u-ukrajini/",
+        "title": "RT Balkan analiza: Zapadni tenkovi \u0107e izazvati krvoproli\u0107e, ali ...RT Balkanhttps://lat.rt.rs \u203a svet \u203a 16579-rt-bal...",
+        "content": "... abrams m1\", \u0161to je nema\u010dki uslov za davanje zelenog svetla za slanje sopstvenih oklopnih vozila.",
+        "size": [
+          1104,
+          622
+        ],
+        "date": "2023:01:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.europapress.es/internacional/noticia-eeuu-baraja-enviar-tanques-abrams-ucrania-desbloquear-entrega-leopard-medios-20230124183138.html",
+        "title": "EEUU baraja enviar tanques Abrams a Ucrania para ...Europa Presshttps://www.europapress.es \u203a noticia...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:01:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://rt.rs/svet/16579-rt-balkan-analiza-sta-slanje-tenkova-abrams-leopard-znaci-za-borbe-u-ukrajini/",
+        "title": "\u0420\u0422 \u0411\u0430\u043b\u043a\u0430\u043d \u0430\u043d\u0430\u043b\u0438\u0437\u0430: \u0417\u0430\u043f\u0430\u0434\u043d\u0438 \u0442\u0435\u043d\u043a\u043e\u0432\u0438 \u045b\u0435 \u0438\u0437\u0430\u0437\u0432\u0430\u0442\u0438 ...RT Balkanhttps://rt.rs \u203a svet \u203a 16579-rt-balkan...",
+        "content": "",
+        "size": [
+          1104,
+          622
+        ],
+        "date": "2023:01:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://theobjective.com/internacional/2023-01-24/eeuu-tanques-ucrania/",
+        "title": "EEUU baraja enviar tanques Abrams a Ucrania para ...The Objectivehttps://theobjective.com \u203a eeuu-tanq...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:01:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cope.es/actualidad/internacional/noticias/eeuu-baraja-enviar-tanques-abrams-ucrania-20230124_2512979",
+        "title": "EEUU baraja enviar tanques Abrams a Ucrania - COPECOPEhttps://www.cope.es \u203a noticias \u203a eeu...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:01:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.prosieben.de/serien/newstime/news/ukraine-krieg-abrams-kampfpanzer-aus-den-usa-fuer-die-ukraine-68127",
+        "title": "Ukraine-Krieg: Abrams-Kampfpanzer aus den USA f\u00fcr die ...ProSiebenhttps://www.prosieben.de \u203a news",
+        "content": "Den M1 Abrams gibt es seit 1980 in mittlerweile drei Hauptvarianten. Seit dem Modell M1A1 ist eine 120-Millimeter-Kanone an Bord. Die vier\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdenavarra.com/mundo/2023/01/25/biden-anuncia-envio-ucrania-31-6367140.html",
+        "title": "Biden anuncia que EEUU enviar\u00e1 a Ucrania de 31 tanques ...Diario de Noticiashttps://www.noticiasdenavarra.com \u203a ...",
+        "content": "El presidente de Estados Unidos, Joe Biden, ha confirmado este mi\u00e9rcoles que enviar\u00e1 31 tanques Abrams a Ucrania en un movimiento coordinado\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdealava.eus/mundo/2023/01/25/biden-anuncia-envio-ucrania-31-6367139.html",
+        "title": "Biden anuncia que EEUU enviar\u00e1 a Ucrania de 31 tanques ...Diario de Noticias de \u00c1lavahttps://www.noticiasdealava.eus \u203a bi...",
+        "content": "El presidente de Estados Unidos, Joe Biden, ha confirmado este mi\u00e9rcoles que enviar\u00e1 31 tanques Abrams a Ucrania en un movimiento coordinado\u00a0...",
+        "size": [
+          880,
+          495
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.ondavasca.com/biden-anuncia-que-eeuu-enviara-a-ucrania-de-31-tanques-abrams/",
+        "title": "Biden anuncia que EEUU enviar\u00e1 a Ucrania de 31 tanques ...Onda Vascahttps://www.ondavasca.com \u203a biden...",
+        "content": "El presidente de Estados Unidos, Joe Biden, ha confirmado este mi\u00e9rcoles que enviar\u00e1 31 tanques Abrams a Ucrania en un movimiento coordinado\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.pnp.de/nachrichten/politik/usa-liefern-der-ukraine-31-abrams-kampfpanzer-10418866",
+        "title": "USA liefern der Ukraine 31 Abrams-Kampfpanzer - PNPPnp.dehttps://www.pnp.de \u203a politik \u203a usa-l...",
+        "content": "Die US-Regierung wird der Ukraine zur Abwehr des russischen Angriffskriegs 31 Kampfpanzer vom Typ M1 Abrams liefern. Dies werde es der ...",
+        "size": [
+          1024,
+          658
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://ostbelgiendirekt.be/ramstein-ukraine-341978",
+        "title": "Leopard, Abrams und Challenger: Drei Panzer gegen Putins ...Ostbelgien Direkthttps://ostbelgiendirekt.be \u203a ramstei...",
+        "content": "Deutschland, die USA und andere Verb\u00fcndete wollen die Ukraine mit weit mehr als 100 Kampfpanzern westlicher Bauart im Krieg gegen die russischen\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.faz.net/aktuell/politik/ausland/ukrainekrieg-usa-liefert-auch-kampfpanzer-an-die-ukraine-18630773.html",
+        "title": "USA liefert auch Kampfpanzer an die Ukraine - FAZFAZ.NEThttps://www.faz.net \u203a ... \u203a Ausland",
+        "content": "USA liefern auch Kampfpanzer \u00b7 USA wollen laut US-Medien Dutzende Abrams-Panzer liefern \u00b7 Verteidigung der Ukraine: Wer jetzt welche Panzer\u00a0...",
+        "size": [
+          185,
+          185
+        ],
+        "date": "2023:01:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.mk.ru/photo/gallery/32375-628112.html",
+        "title": "\"\u041b\u0435\u043e\u043f\u0430\u0440\u0434\" \u0438 \"\u0410\u0431\u0440\u0430\u043c\u0441\" \u043b\u0438\u0446\u043e\u043c: \u043a\u0430\u0434\u0440\u044b \u0442\u0430\u043d\u043a\u043e\u0432, \u043e\u0431\u0435\u0449\u0430\u043d\u043d\u044b\u0445 ...\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u0435\u0446https://www.mk.ru \u203a photo \u203a gallery",
+        "content": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u043e\u0436\u0438\u0434\u0430\u0435\u0442 \u043e\u0442 \u0417\u0430\u043f\u0430\u0434\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 ... \u0424\u043e\u0442\u043e: AP, Global Look Press. \u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0435 \u0444\u043e\u0442\u043e. M1 Abrams \u0438\u043c\u0435\u0435\u0442 \u043d\u0430 \u0431\u043e\u0440\u0442\u0443 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.mk.ru/photo/gallery/32375-628118.html",
+        "title": "\"\u041b\u0435\u043e\u043f\u0430\u0440\u0434\" \u0438 \"\u0410\u0431\u0440\u0430\u043c\u0441\" \u043b\u0438\u0446\u043e\u043c: \u043a\u0430\u0434\u0440\u044b \u0442\u0430\u043d\u043a\u043e\u0432, \u043e\u0431\u0435\u0449\u0430\u043d\u043d\u044b\u0445 ...\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u0435\u0446https://www.mk.ru \u203a photo \u203a gallery",
+        "content": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u043e\u0436\u0438\u0434\u0430\u0435\u0442 \u043e\u0442 \u0417\u0430\u043f\u0430\u0434\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0442\u0430\u043d\u043a\u043e\u0432. \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f ... M1 Abrams \u0438\u043c\u0435\u0435\u0442 \u043d\u0430 \u0431\u043e\u0440\u0442\u0443 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0433\u043d\u0435\u043c. \u0424\u043e\u0442\u043e\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2023/01/26/gobierno-vasco-favor-envio-tanques-6368636.html",
+        "title": "El Gobierno vasco, a favor del env\u00edo de tanques a UcraniaNoticias de Gipuzkoahttps://www.noticiasdegipuzkoa.eus \u203a ...",
+        "content": "",
+        "size": [
+          880,
+          495
+        ],
+        "date": "2023:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcwashington.com/news/national-international/what-are-m1-abrams-tanks-and-how-will-they-help-ukraine/3264385/",
+        "title": "What Are M1 Abrams Tanks and How Will They Help Ukraine?NBC4 Washingtonhttps://www.nbcwashington.com \u203a national-international",
+        "content": "HOW MUCH DOES AN M1 ABRAMS TANK COST? The Abrams tanks are made by General Dynamics and each one costs over $10 million when including training\u00a0...",
+        "size": [
+          218,
+          123
+        ],
+        "date": "2023:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.mk.ru/photo/gallery/32375-628107.html",
+        "title": "\"\u041b\u0435\u043e\u043f\u0430\u0440\u0434\" \u0438 \"\u0410\u0431\u0440\u0430\u043c\u0441\" \u043b\u0438\u0446\u043e\u043c: \u043a\u0430\u0434\u0440\u044b \u0442\u0430\u043d\u043a\u043e\u0432, \u043e\u0431\u0435\u0449\u0430\u043d\u043d\u044b\u0445 ...\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u0435\u0446https://www.mk.ru \u203a photo \u203a gallery",
+        "content": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u043e\u0436\u0438\u0434\u0430\u0435\u0442 \u043e\u0442 \u0417\u0430\u043f\u0430\u0434\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0442\u0430\u043d\u043a\u043e\u0432. \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f ... M1 Abrams \u0438\u043c\u0435\u0435\u0442 \u043d\u0430 \u0431\u043e\u0440\u0442\u0443 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0433\u043d\u0435\u043c. \u0424\u043e\u0442\u043e\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:01:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.yahoo.com/movies/%E8%AA%93%E6%91%A7%E6%AF%80-%E7%B9%B3%E7%8D%B2%E8%A5%BF%E6%96%B9%E6%88%B0%E8%BB%8A-%E4%BF%84%E4%BC%81%E7%A5%AD%E5%B7%A8%E8%B3%9E-231508806.html",
+        "title": "\u8a93\u6467\u6bc0\u3001\u7e73\u7372\u897f\u65b9\u6230\u8eca\u4fc4\u4f01\u796d\u5de8\u8cde - Yahoo\u5947\u6469Yahoo\u5947\u6469https://tw.yahoo.com \u203a movies \u203a \u8a93...",
+        "content": "[NOWnews\u4eca\u65e5\u65b0\u805e]\u8fd1\u671f\u5305\u542b\u7f8e\u570b\u3001\u5fb7\u570b\u5728\u5167\u7684\u897f\u65b9\u570b\u5bb6\uff0c\u9678\u7e8c\u5ba3\u5e03\u52a0\u78bc\u8ecd\u63f4\u70cf\u514b\u862d\uff0c\u5305\u542b\u8c792\u5f0f\uff08Leopard 2 \uff09\u8207\u827e\u5e03\u862d\uff08M1 Abrams\uff09\u4e3b\u529b\u6230\u8eca\uff0c\u589e\u52a0\u70cf\u8ecd\u5c0d\u6297\u00a0...",
+        "size": [
+          639,
+          426
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.yahoo.com/news/%E8%AA%93%E6%91%A7%E6%AF%80-%E7%B9%B3%E7%8D%B2%E8%A5%BF%E6%96%B9%E6%88%B0%E8%BB%8A-%E4%BF%84%E4%BC%81%E7%A5%AD%E5%B7%A8%E8%B3%9E-231508806.html",
+        "title": "\u8a93\u6467\u6bc0\u3001\u7e73\u7372\u897f\u65b9\u6230\u8eca\u4fc4\u4f01\u796d\u5de8\u8cde - Yahoo\u5947\u6469Yahoo\u5947\u6469https://tw.yahoo.com \u203a news \u203a \u8a93\u6467...",
+        "content": "[NOWnews\u4eca\u65e5\u65b0\u805e]\u8fd1\u671f\u5305\u542b\u7f8e\u570b\u3001\u5fb7\u570b\u5728\u5167\u7684\u897f\u65b9\u570b\u5bb6\uff0c\u9678\u7e8c\u5ba3\u5e03\u52a0\u78bc\u8ecd\u63f4\u70cf\u514b\u862d\uff0c\u5305\u542b\u8c792\u5f0f\uff08Leopard 2 \uff09\u8207\u827e\u5e03\u862d\uff08M1 Abrams\uff09\u4e3b\u529b\u6230\u8eca\uff0c\u589e\u52a0\u70cf\u8ecd\u5c0d\u6297\u00a0...",
+        "size": [
+          639,
+          426
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.yahoo.com/autos/%E8%AA%93%E6%91%A7%E6%AF%80-%E7%B9%B3%E7%8D%B2%E8%A5%BF%E6%96%B9%E6%88%B0%E8%BB%8A-%E4%BF%84%E4%BC%81%E7%A5%AD%E5%B7%A8%E8%B3%9E-231508806.html",
+        "title": "\u8a93\u6467\u6bc0\u3001\u7e73\u7372\u897f\u65b9\u6230\u8eca\u4fc4\u4f01\u796d\u5de8\u8cde - Yahoo\u5947\u6469Yahoo\u5947\u6469https://tw.yahoo.com \u203a autos \u203a \u8a93\u6467...",
+        "content": "[NOWnews\u4eca\u65e5\u65b0\u805e]\u8fd1\u671f\u5305\u542b\u7f8e\u570b\u3001\u5fb7\u570b\u5728\u5167\u7684\u897f\u65b9\u570b\u5bb6\uff0c\u9678\u7e8c\u5ba3\u5e03\u52a0\u78bc\u8ecd\u63f4\u70cf\u514b\u862d\uff0c\u5305\u542b\u8c792\u5f0f\uff08Leopard 2 \uff09\u8207\u827e\u5e03\u862d\uff08M1 Abrams\uff09\u4e3b\u529b\u6230\u8eca\uff0c\u589e\u52a0\u70cf\u8ecd\u5c0d\u6297\u00a0...",
+        "size": [
+          639,
+          426
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.yahoo.com/trendr/%E8%AA%93%E6%91%A7%E6%AF%80-%E7%B9%B3%E7%8D%B2%E8%A5%BF%E6%96%B9%E6%88%B0%E8%BB%8A-%E4%BF%84%E4%BC%81%E7%A5%AD%E5%B7%A8%E8%B3%9E-231508806.html",
+        "title": "\u8a93\u6467\u6bc0\u3001\u7e73\u7372\u897f\u65b9\u6230\u8eca\u4fc4\u4f01\u796d\u5de8\u8cde - Yahoo\u5947\u6469Yahoo\u5947\u6469https://tw.yahoo.com \u203a trendr \u203a \u8a93...",
+        "content": "[NOWnews\u4eca\u65e5\u65b0\u805e]\u8fd1\u671f\u5305\u542b\u7f8e\u570b\u3001\u5fb7\u570b\u5728\u5167\u7684\u897f\u65b9\u570b\u5bb6\uff0c\u9678\u7e8c\u5ba3\u5e03\u52a0\u78bc\u8ecd\u63f4\u70cf\u514b\u862d\uff0c\u5305\u542b\u8c792\u5f0f\uff08Leopard 2 \uff09\u8207\u827e\u5e03\u862d\uff08M1 Abrams\uff09\u4e3b\u529b\u6230\u8eca\uff0c\u589e\u52a0\u70cf\u8ecd\u5c0d\u6297\u00a0...",
+        "size": [
+          639,
+          426
+        ],
+        "date": "2023:01:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.rga.de/politik/russland-putin-soldaten-panzer-invasion-news-militaer-ticker-ukraine-krieg-zr-92102422.html",
+        "title": "++ Ukraine-Krieg: Biden schlie\u00dft Lieferung von Kampfjets ...Remscheider General Anzeigerhttps://www.rga.de \u203a Politik",
+        "content": "Kampfjets f\u00fcr die Ukraine? Nicht mit US-Pr\u00e4sident Joe Biden. Die EU verh\u00e4ngt neue Sanktionen gegen Russland. Der News-Ticker.",
+        "size": [
+          342,
+          193
+        ],
+        "date": "2023:02:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsj.com/articles/at-a-steam-age-arsenal-u-s-army-forges-cannons-for-a-digital-era-war-in-ukraine-68e51440",
+        "title": "At a Steam-Age Arsenal, U.S. Army Forges Cannons for a ...Wall Street Journalhttps://www.wsj.com \u203a articles",
+        "content": "... Abrams tanks, a weapon pledged for fighting in Ukraine. In another hall, an automated forge pounds red-hot metal cylinders into 20-foot gun\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": "2023:03:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.elquintoelementotv.com/tropas-ucranianas-aun-no-han-entrenado-con-los-tanques-abrams/",
+        "title": "Tropas ucranianas a\u00fan no han entrenado con los tanques ...El Quinto Elemento TVhttps://www.elquintoelementotv.com \u203a ...",
+        "content": "La formaci\u00f3n de las tropas ucranianas en el uso de los tanques estadounidenses M1-A1 Abrams ... Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:04:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.wort.lu/international/usa-gehen-angeblich-vom-scheitern-der-ukraine-offensive-aus/1393903.html",
+        "title": "USA gehen angeblich vom Scheitern der Ukraine-Offensive ausLuxemburger Worthttps://www.wort.lu \u203a international",
+        "content": "",
+        "size": [
+          1728,
+          2160
+        ],
+        "date": "2023:04:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wsj.com/articles/u-s-to-begin-training-ukrainian-forces-on-abrams-tanks-in-may-a0dbdae7",
+        "title": "U.S. to Begin Training Ukrainian Forces on Abrams Tanks in ...Wall Street Journalhttps://www.wsj.com \u203a articles",
+        "content": "M1 Abrams tanks, combined with other U.S.-provided battlefield vehicles, could reshape how Ukraine fights.",
+        "size": [
+          1280,
+          640
+        ],
+        "date": "2023:04:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://jp.wsj.com/articles/u-s-to-begin-training-ukrainian-forces-on-abrams-tanks-in-may-7dcb84ce",
+        "title": "\u7c73\u3001\u30a6\u30af\u30e9\u30a4\u30ca\u8ecd\u3078\u306e\u6226\u8eca\u8a13\u7df4\u30925\u6708\u958b\u59cb - WSJWall Street Journalhttps://jp.wsj.com \u203a articles",
+        "content": "... ukrainian-forces-on-abrams-tanks-in-may-7dcb84ce. \u30b7\u30a7\u30a2. Facebook; Twitter; Hatena; \u30ea\u30f3\u30af\u3092\u30b3\u30d4\u30fc. \u56fd\u969b\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": "2023:04:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BA%8E5%E6%9C%88%E5%BC%80%E5%A7%8B%E8%AE%AD%E7%BB%83%E4%B9%8C%E5%85%8B%E5%85%B0%E9%83%A8%E9%98%9F%E6%93%8D%E4%BD%9C%E8%89%BE%E5%B8%83%E6%8B%89%E5%A7%86%E6%96%AF%E5%9D%A6%E5%85%8B-4ccad199",
+        "title": "\u7f8e\u56fd\u5c06\u4e8e5\u6708\u5f00\u59cb\u8bad\u7ec3\u4e4c\u514b\u5170\u90e8\u961f\u64cd\u4f5c\u827e\u5e03\u62c9\u59c6\u65af\u5766\u514b- \u534e\u5c14\u8857\u65e5\u62a5\u534e\u5c14\u8857\u65e5\u62a5\u4e2d\u6587\u7f51https://cn.wsj.com \u203a articles \u203a \u7f8e\u56fd...",
+        "content": "\u7f8e\u56fd\u56fd\u9632\u90e8\u5b98\u5458\u5468\u4e94\u8868\u793a\uff0c\u7f8e\u56fd\u5c06\u5728\u4e0b\u4e2a\u6708\u5411\u5fb7\u56fd\u6d3e\u906331\u8f86\u827e\u5e03\u62c9\u59c6\u65af(Abrams)\u5766\u514b\uff0c\u5e76\u7740\u624b\u8bad\u7ec3\u4e4c\u514b\u5170\u90e8\u961f\u64cd\u4f5c\u8fd9\u4e9b\u5766\u514b\u3002 \u53c2\u8c0b\u957f\u8054\u5e2d\u4f1a\u8bae\u4e3b\u5e2d\u3001\u9646\u519b\u5c06\u519b\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": "2023:04:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BA%8E5%E6%9C%88%E5%BC%80%E5%A7%8B%E8%AE%AD%E7%BB%83%E4%B9%8C%E5%85%8B%E5%85%B0%E9%83%A8%E9%98%9F%E6%93%8D%E4%BD%9C%E8%89%BE%E5%B8%83%E6%8B%89%E5%A7%86%E6%96%AF%E5%9D%A6%E5%85%8B-4ccad199",
+        "title": "\u7f8e\u56fd\u5c06\u4e8e5\u6708\u5f00\u59cb\u8bad\u7ec3\u4e4c\u514b\u5170\u90e8\u961f\u64cd\u4f5c\u827e\u5e03\u62c9\u59c6\u65af\u5766\u514b- \u534e\u5c14\u8857\u65e5\u62a5\u534e\u5c14\u8857\u65e5\u62a5\u4e2d\u6587\u7f51https://cn.wsj.com \u203a articles \u203a \u7f8e\u56fd...",
+        "content": "\u7f8e\u56fd\u56fd\u9632\u90e8\u5b98\u5458\u5468\u4e94\u8868\u793a\uff0c\u7f8e\u56fd\u5c06\u5728\u4e0b\u4e2a\u6708\u5411\u5fb7\u56fd\u6d3e\u906331\u8f86\u827e\u5e03\u62c9\u59c6\u65af(Abrams)\u5766\u514b\uff0c\u5e76\u7740\u624b\u8bad\u7ec3\u4e4c\u514b\u5170\u90e8\u961f\u64cd\u4f5c\u8fd9\u4e9b\u5766\u514b\u3002 \u53c2\u8c0b\u957f\u8054\u5e2d\u4f1a\u8bae\u4e3b\u5e2d\u3001\u9646\u519b\u5c06\u519b\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": "2023:04:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedrive.com/the-war-zone/first-ukrainian-m1-abrams-tank-crews-complete-training",
+        "title": "First Ukrainian M1 Abrams Tank Crews Complete TrainingThe Drivehttps://www.thedrive.com \u203a the-war-zone \u203a first-ukrai...",
+        "content": "Ukraine's M1 Abrams tanks are set to arrive in the next few weeks and they are likely to be rushed to the front before the rains hit.",
+        "size": [
+          2386,
+          1591
+        ],
+        "date": "2023:09:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.come-on.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html?itm_source=story_detail&itm_medium=interaction_bar&itm_campaign=share",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketCome Onhttps://www.come-on.de \u203a Politik",
+        "content": "Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der Ukraine liefern wollen. (Archivfoto) \u00a9 Armin Weigel/dpa. Gro\u00dfbritannien hatte\u00a0...",
+        "size": [
+          1100,
+          733
+        ],
+        "date": "2023:09:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://news.ru/world/novosti-svo-na-vecher-7-sentyabrya/",
+        "title": "\u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0421\u0412\u041e \u043d\u0430 \u0432\u0435\u0447\u0435\u0440 7 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f - NEWS.ruNEWS.ruhttps://news.ru \u203a world \u203a novosti-sv...",
+        "content": "... Abrams \u0424\u043e\u0442\u043e: Armin Weigel/dpa/Global Look Press\u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0431\u043e\u0435\u0432\u043e\u0439 \u0442\u0430\u043d\u043a \u0421\u0428\u0410 Abrams. \u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u0441\u043a\u043e\u0435 \u0431\u044e\u0440\u043e \u00ab\u0412\u043e\u0441\u0442\u043e\u043a\u00bb \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0435\u0442 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c\u00a0...",
+        "size": [
+          1600,
+          1067
+        ],
+        "date": "2023:09:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.heidelberg24.de/politik-und-wirtschaft/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html?itm_source=story_detail&itm_medium=interaction_bar&itm_campaign=share",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketHeidelberg24https://www.heidelberg24.de \u203a uran...",
+        "content": "US-Soldaten schie\u00dfen w\u00e4hrend einer Milit\u00e4r\u00fcbung von einem Kampfpanzer M1 Abrams. Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der\u00a0...",
+        "size": [
+          2400,
+          2400
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.echo24.de/welt/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketEcho24.dehttps://www.echo24.de \u203a Welt",
+        "content": "US-Soldaten schie\u00dfen w\u00e4hrend einer Milit\u00e4r\u00fcbung von einem Kampfpanzer M1 Abrams. Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der\u00a0...",
+        "size": [
+          2400,
+          2400
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.kreiszeitung.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketKreiszeitunghttps://www.kreiszeitung.de \u203a politik",
+        "content": "US-Soldaten schie\u00dfen w\u00e4hrend einer Milit\u00e4r\u00fcbung von einem Kampfpanzer M1 Abrams. Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der\u00a0...",
+        "size": [
+          2400,
+          2400
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.fnp.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketFrankfurter Neue Pressehttps://www.fnp.de \u203a Politik",
+        "content": "US-Soldaten schie\u00dfen w\u00e4hrend einer Milit\u00e4r\u00fcbung von einem Kampfpanzer M1 Abrams. Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der\u00a0...",
+        "size": [
+          2400,
+          2400
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.kreisbote.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketKreisbotehttps://www.kreisbote.de \u203a politik",
+        "content": "US-Soldaten schie\u00dfen w\u00e4hrend einer Milit\u00e4r\u00fcbung von einem Kampfpanzer M1 Abrams. Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der\u00a0...",
+        "size": [
+          1100,
+          733
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.solinger-tageblatt.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uran-Munition f\u00fcr Ukraine-Krieg: USA schn\u00fcren neues ...Solinger Tageblatthttps://www.solinger-tageblatt.de \u203a ...",
+        "content": "Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der Ukraine liefern wollen. ... Seit dem Modell M1A1 ist eine 120-Millimeter-Kanone an\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.ovb-online.de/weltspiegel/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketOVB onlinehttps://www.ovb-online.de \u203a politik",
+        "content": "US-Soldaten schie\u00dfen w\u00e4hrend einer Milit\u00e4r\u00fcbung von einem Kampfpanzer M1 Abrams. Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der\u00a0...",
+        "size": [
+          1100,
+          733
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.rga.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uran-Munition f\u00fcr Ukraine-Krieg: USA schn\u00fcren neues ...Remscheider General Anzeigerhttps://www.rga.de \u203a Politik",
+        "content": "Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der Ukraine liefern wollen. ... Seit dem Modell M1A1 ist eine 120-Millimeter-Kanone an\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.rosenheim24.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketRosenheim24https://www.rosenheim24.de \u203a politik",
+        "content": "US-Soldaten schie\u00dfen w\u00e4hrend einer Milit\u00e4r\u00fcbung von einem Kampfpanzer M1 Abrams. Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der\u00a0...",
+        "size": [
+          1100,
+          733
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.giessener-allgemeine.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketGie\u00dfener Allgemeine Zeitunghttps://www.giessener-allgemeine.de \u203a ...",
+        "content": "US-Soldaten schie\u00dfen w\u00e4hrend einer Milit\u00e4r\u00fcbung von einem Kampfpanzer M1 Abrams. Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der\u00a0...",
+        "size": [
+          2400,
+          2400
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.op-online.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html?itm_source=story_detail&itm_medium=interaction_bar&itm_campaign=share",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketOP Onlinehttps://www.op-online.de \u203a politik",
+        "content": "Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der Ukraine liefern wollen. (Archivfoto) \u00a9 Armin Weigel/dpa. Gro\u00dfbritannien hatte\u00a0...",
+        "size": [
+          2400,
+          2400
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.wa.de/politik/uranmunition-fuer-ukraine-usa-schnueren-neues-militaerpaket-zr-92504594.html?itm_source=story_detail&itm_medium=interaction_bar&itm_campaign=share",
+        "title": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaketWA.dehttps://www.wa.de \u203a Politik",
+        "content": "Uran-Munition eignet sich f\u00fcr Abrams-Panzer, die die USA der Ukraine liefern wollen. (Archivfoto) \u00a9 Armin Weigel/dpa. Gro\u00dfbritannien hatte\u00a0...",
+        "size": [
+          1100,
+          733
+        ],
+        "date": "2023:09:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://www.anninhthudo.vn/bun-ukraine-se-khien-xe-tang-m1-abrams-tro-thanh-muc-tieu-de-dang-cua-ten-lua-kornet-post551289.antd",
+        "title": "B\u00f9n Ukraine s\u1ebd khi\u1ebfn xe t\u0103ng M1 Abrams tr\u1edf th\u00e0nh m\u1ee5c ti\u00eau ...B\u00e1o \u0110i\u1ec7n t\u1eed An ninh Th\u1ee7 \u0111\u00f4https://www.anninhthudo.vn \u203a bun-...",
+        "content": "ANTD.VN - Vi\u1ec7c ch\u1eadm b\u00e0n giao xe t\u0103ng M1A1 Abrams c\u1ee7a M\u1ef9 cho Qu\u00e2n \u0111\u1ed9i Ukraine c\u00f3 th\u1ec3 g\u00e2y ra nhi\u1ec1u v\u1ea5n \u0111\u1ec1 h\u01a1n d\u1ef1 ki\u1ebfn.",
+        "size": [
+          1000,
+          667
+        ],
+        "date": "2023:09:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://giaoducthoidai.vn/xe-tang-m1-abrams-se-chay-rat-ngoan-muc-post654440.html",
+        "title": "Xe t\u0103ng M1 Abrams s\u1ebd ch\u00e1y r\u1ea5t ngo\u1ea1n m\u1ee5cgiaoducthoidai.vnhttps://giaoducthoidai.vn \u203a xe-tang-...",
+        "content": "'Bong b\u00f3ng s\u00f3ng v\u00f4 tuy\u1ebfn' khi\u1ebfn UAV Ukraine t\u1ef1 r\u01a1i. 21/11/2023 15:00. GD&T\u0110 - Kh\u00ed t\u00e0i b\u00ed m\u1eadt c\u1ee7a Nga khi\u1ebfn m\u00e1y bay kh\u00f4ng ng\u01b0\u1eddi l\u00e1i Ukraine ch\u1eb3ng\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:09:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.at/wetter/video/bay-schwaben-ingolstadt-wetter-region-38657778",
+        "title": "Bay. Schwaben / Ingolstadt: Dein Wetter f\u00fcr Deine Region!GMX.AThttps://www.gmx.at \u203a wetter \u203a video",
+        "content": "Krieg in der Ukraine. Ukraine best\u00e4tigt Ankunft von US-Panzern - Russland attackiert Odessa. vor 58 Minuten \u00b7 S\u00fcdkaukasus. Hunderte Opfer bei\u00a0...",
+        "size": [
+          450,
+          253
+        ],
+        "date": "2023:09:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.ch/wetter/video/ostbayern-wetter-region-38661718",
+        "title": "\"Ostbayern: Dein Wetter f\u00fcr Deine Region!\" | GMX.CHGMXhttps://www.gmx.ch \u203a wetter \u203a video",
+        "content": "Krieg in der Ukraine. Kiew meldet Zerst\u00f6rung von russischen ... Ukraine best\u00e4tigt Ankunft von US-Panzern - Russland attackiert Odessa.",
+        "size": [
+          450,
+          253
+        ],
+        "date": "2023:09:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.badische-zeitung.de/ukraine-bestaetigt-ankunft-von-us-panzern",
+        "title": "Ukraine best\u00e4tigt Ankunft von US-Panzern - Badische ZeitungBadische Zeitunghttps://www.badische-zeitung.de \u203a ...",
+        "content": "Kampfpanzer M1 Abrams (Archivbild) | Foto: Armin Weigel (dpa) ... \"Die Abrams sind schon in der Ukraine und bereiten sich darauf vor\u00a0...",
+        "size": [
+          800,
+          400
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.prosieben.de/serien/newstime/news/selenskyj-bestaetigt-us-abrams-panzer-in-ukraine-eingetroffen-321236",
+        "title": "Selenskyj best\u00e4tigt: US-Abrams-Panzer in Ukraine eingetroffenProSiebenhttps://www.prosieben.de \u203a news \u203a s...",
+        "content": "Die Ukraine bekommt weitere Waffenhilfe f\u00fcr ihre Offensive zur R\u00fcckeroberung der besetzten Gebiete. Aus den USA sind nun neue Panzer\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://web.de/magazine/politik/russland-krieg-ukraine/ukraine-bestaetigt-ankunft-us-panzern-russland-attackiert-odessa-38703964",
+        "title": "Ukraine best\u00e4tigt Ankunft von US-Panzern - Russland ...WEB.DEhttps://web.de \u203a magazine \u203a politik",
+        "content": "Bei ihrer Offensive stehen den Ukrainern nun auch US-Panzer vom Typ Abrams bereit. Das hat Pr\u00e4sident Selenskyj best\u00e4tigt.",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/ausland/article247649462/Ukraine-News-Kiew-meldet-Zerstoerung-von-russischen-Munitionsdepots-in-Ostukraine.html",
+        "title": "Ukraine-News ++ Kiew meldet Zerst\u00f6rung von russischen ...WELThttps://www.welt.de \u203a ... \u203a Ausland",
+        "content": "Die ersten US-Panzer vom Typ Abrams sind nach Angaben des ukrainischen Pr\u00e4sidenten Wolodymyr Selenskyj in der Ukraine angekommen. Insgesamt\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/ausland/video247662676/Ukraine-Krieg-Selenskyj-bestaetigt-Ankunft-von-Abrams-Panzern-aus-USA.html",
+        "title": "Selenskyj best\u00e4tigt Ankunft von Abrams-Panzern aus USA ...WELThttps://www.welt.de \u203a ... \u203a Ausland",
+        "content": "Die ersten US-Panzer vom Typ Abrams sind nach Angaben des ukrainischen Pr\u00e4sidenten Wolodymyr Selenskyj in der Ukraine angekommen.",
+        "size": [
+          780,
+          438
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.jungewelt.de/artikel/460263.selenskij-best%C3%A4tigt-ankunft-von-abrams-panzern.html",
+        "title": "Selenskij best\u00e4tigt Ankunft von \u00bbAbrams\u00ab-Panzern - junge Weltjunge Welthttps://www.jungewelt.de \u203a artikel",
+        "content": "Kiew. Die ersten schweren Kampfpanzer vom Typ \u00bbAbrams\u00ab sind nach Angaben des ukrainischen Pr\u00e4sidenten Wolodymyr Selenskij in der Ukraine\u00a0...",
+        "size": [
+          450,
+          215
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.ch/magazine/politik/russland-krieg-ukraine/ukraine-bestaetigt-ankunft-us-panzern-russland-attackiert-odessa-38703964",
+        "title": "Ukraine best\u00e4tigt Ankunft von US-Panzern - Russland ... - GMXGMXhttps://www.gmx.ch \u203a politik \u203a ukr...",
+        "content": "Bei ihrer Offensive stehen den Ukrainern nun auch US-Panzer vom Typ Abrams bereit. Das hat Pr\u00e4sident Selenskyj best\u00e4tigt.",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.at/magazine/politik/russland-krieg-ukraine/ukraine-bestaetigt-ankunft-us-panzern-russland-attackiert-odessa-38703964",
+        "title": "Ukraine best\u00e4tigt Ankunft von US-Panzern - Russland ... - GMXGMX.AThttps://www.gmx.at \u203a politik \u203a ukra...",
+        "content": "Bei ihrer Offensive stehen den Ukrainern nun auch US-Panzer vom Typ Abrams bereit. Das hat Pr\u00e4sident Selenskyj best\u00e4tigt.",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.rnd.de/politik/ukraine-krieg-selenskyj-hofft-nach-abrams-lieferung-auf-weitere-militaerhilfen-SZHRMJOSF5IJRN3F5D4RZ7TUSE.html",
+        "title": "Ukraine-Krieg: Selenskyj hofft nach Abrams-Lieferung ... - RNDRND.dehttps://www.rnd.de \u203a politik",
+        "content": "Nachdem die US-amerikanischen Abrams-Panzer in der Ukraine eingetroffen sind, hofft Pr\u00e4sident Selenskyj nun auf weitere Waffen.",
+        "size": [
+          1441,
+          1081
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://der-farang.com/de/pages/selenskyj-bestaetigt-ankunft-von-abrams-panzern-aus-usa",
+        "title": "Selenskyj best\u00e4tigt Ankunft von Abrams-Panzern aus USADER FARANGhttps://der-farang.com \u203a pages \u203a sel...",
+        "content": "KIEW/MOSKAU: Bei ihrer Offensive will die Ukraine nach der \u00dcberwindung russischer Minenfelder schnell vorankommen.",
+        "size": [
+          700,
+          466
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.wort.lu/international/selenskyj-bestatigt-ankunft-von-abrams-panzern/3529309.html",
+        "title": "Selenskyj best\u00e4tigt Ankunft von Abrams-PanzernLuxemburger Worthttps://www.wort.lu \u203a international \u203a selenskyj-bestatigt-a...",
+        "content": "Die Ukraine bekommt weitere Waffenhilfe f\u00fcr ihre Offensive zur R\u00fcckeroberung der besetzten Gebiete. An den Abrams wurden ukrainische\u00a0...",
+        "size": [
+          1728,
+          2160
+        ],
+        "date": "2023:09:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.biobiochile.cl/noticias/internacional/europa/2023/09/26/como-son-los-tanques-abrams-que-ee-uu-esta-enviando-a-ucrania-y-que-rusia-prometio-que-arderan.shtml",
+        "title": "C\u00f3mo son los tanques Abrams que EE.UU est\u00e1 enviando a ...BioBioChilehttps://www.biobiochile.cl \u203a europa",
+        "content": "El portavoz del Kremlin, Dimitri Peskov, asegur\u00f3 que los tanques Abrams que recientemente Estados Unidos suministr\u00f3 a Ucrania \"arder\u00e1n\".",
+        "size": [
+          1200,
+          633
+        ],
+        "date": "2023:09:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/feeds/newsstand/null/politik/ausland/article247667880/Ukraine-News-Absage-von-Orban-fuer-schnelle-Ratifizierung-von-Schwedens-Nato-Beitritt.html",
+        "title": "Ukraine-News ++ Absage von Orban f\u00fcr schnelle Ratifizierung ...WELThttps://www.welt.de \u203a ... \u203a Ausland",
+        "content": "Nach \u00dcbergabe der ersten US-Panzer vom Typ Abrams hat sich der ukrainische Pr\u00e4sident Wolodymyr Selenskyj zuversichtlich gezeigt, weitere lang\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:09:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!5962813/",
+        "title": "+++ Nachrichten im Ukraine-Krieg +++: Selenski optimistisch ...TAZhttps://taz.de \u203a Politik \u203a Europa",
+        "content": "Sowohl die Ukraine als auch Russland melden gegnerische Drohnenangriffe. Die ersten Abrams-Panzer aus den USA sind in der Ukraine\u00a0...",
+        "size": [
+          948,
+          474
+        ],
+        "date": "2023:09:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.welt.de/politik/ausland/article247667880/Laut-Russland-Kommandeur-der-Schwarzmeerflotte-Sokolow-noch-am-Leben.html",
+        "title": "Kommandeur der Schwarzmeerflotte Sokolow noch am LebenWELThttps://www.welt.de \u203a ... \u203a Ausland",
+        "content": "Die ersten US-Panzer vom Typ Abrams sind nach Angaben des ukrainischen Pr\u00e4sidenten Wolodymyr Selenskyj in der Ukraine angekommen. Insgesamt\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://taz.de/Kriegsdienstverweigerer-in-der-Ukraine/!5959674/",
+        "title": "Kriegsdienstverweigerer in der Ukraine: 5.000 Euro f\u00fcr die ...TAZhttps://taz.de \u203a Politik \u203a Europa",
+        "content": "Die Abrams sind da. In seiner Abwehrschlacht gegen die russische Armee kann das ukrainische Milit\u00e4r ab sofort auch US-Kampfpanzer einsetzen. Das\u00a0...",
+        "size": [
+          300,
+          150
+        ],
+        "date": "2023:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.puls24.at/news/politik/nach-prigoschins-absturz-wagner-gruppen-zurueck-in-ostukraine/309045",
+        "title": "Nach Prigoschins Absturz: Wagner-Gruppen zur\u00fcck in ...PULS 24https://www.puls24.at \u203a news \u203a politik",
+        "content": "Die Gruppe hatte lange neben regul\u00e4ren russischen Einheiten in Moskaus Angriffskrieg gegen die Ukraine gek\u00e4mpft. Nach dem Abzug seiner\u00a0...",
+        "size": [
+          1200,
+          762
+        ],
+        "date": "2023:09:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.at/magazine/politik/russland-krieg-ukraine/news-krieg-ukraine-29-september-luftwaffe-beteiligt-schutz-nato-ostflanke-38716818",
+        "title": "Deutsche Luftwaffe beteiligt sich erneut am Schutz der Nato ...GMX.AThttps://www.gmx.at \u203a politik \u203a news...",
+        "content": "News zum Krieg in der Ukraine am 29. September: Luftwaffe beteiligt sich erneut am Schutz der Nato-Ostflanke. Aktualisiert am 29.09.2023, 23:22\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": "2023:09:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.ch/magazine/politik/russland-krieg-ukraine/news-krieg-ukraine-29-september-luftwaffe-beteiligt-schutz-nato-ostflanke-38716818",
+        "title": "Deutsche Luftwaffe beteiligt sich erneut am Schutz der Nato ...GMXhttps://www.gmx.ch \u203a politik \u203a new...",
+        "content": "Parallel dazu werde die Luftwaffe vor dem Hintergrund von Russlands Angriffskrieg gegen die Ukraine weiterhin beim Schutz des Luftraums der\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": "2023:09:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://web.de/magazine/politik/russland-krieg-ukraine/news-krieg-ukraine-29-september-luftwaffe-beteiligt-schutz-nato-ostflanke-38716818",
+        "title": "Deutsche Luftwaffe beteiligt sich erneut am Schutz der Nato ...WEB.DEhttps://web.de \u203a magazine \u203a politik",
+        "content": "Ukraine will eigene Flugabwehrsysteme bauen. 21:25 Uhr. Die von Russland angegriffene Ukraine plant den Bau eigener Flugabwehrsysteme. Diese\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": "2023:09:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://news.ru/europe/kiev-potoropil-vashington-s-postavkami-vooruzheniya/",
+        "title": "\u041a\u0438\u0435\u0432 \u043f\u043e\u0442\u043e\u0440\u043e\u043f\u0438\u043b \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d \u0441 \u043f\u043e\u0441\u0442\u0430\u0432\u043a\u0430\u043c\u0438 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u044fNEWS.ruhttps://news.ru \u203a europe \u203a kiev-poto...",
+        "content": "... Abrams. \u0424\u043e\u0442\u043e: Armin Weigel/dpa/Global Look Press. \u0422\u0430\u043d\u043a Abrams. \u0413\u043b\u0430\u0432\u0430 ... \u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u00b7 \u0420\u043e\u0441\u0441\u0438\u044f \u00b7 \u041c\u0438\u0440 \u00b7 \u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u00b7 \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430 \u00b7 \u0421\u043f\u043e\u0440\u0442 \u00b7 \u042d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u044b\u00a0...",
+        "size": [
+          1024,
+          723
+        ],
+        "date": "2023:11:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.alisonhuntertherapy.co.uk/http/ger.animalia-life.club/Taktische-M1A1-Aktien",
+        "title": "Taktische M1A1 Aktienalisonhuntertherapy.co.ukhttps://www.alisonhuntertherapy.co.uk \u203a ...",
+        "content": "M1a1 abrams hi-res stock photography and images - Alamy 98 M1a1 Abrams ... Ukraine-News vom Mittwoch: USA liefern Ukraine 31 Abrams-Kampfpanzer |\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://giaoducthoidai.vn/ong-zelensky-neu-ly-do-tang-abrams-kho-giup-ukraine-thang-post661361.html",
+        "title": "\u00d4ng Zelensky n\u00eau l\u00fd do t\u0103ng Abrams kh\u00f3 gi\u00fap Ukraine th\u1eafnggiaoducthoidai.vnhttps://giaoducthoidai.vn \u203a ong-zele...",
+        "content": "Xe t\u0103ng M1 Abrams th\u1ec3 hi\u1ec7n m\u1edd nh\u1ea1t tr\u00ean chi\u1ebfn tr\u01b0\u1eddng Ukraine v\u00e0 kh\u00f3 l\u00f2ng gi\u00fap l\u1ef1c l\u01b0\u1ee3ng v\u0169 trang n\u01b0\u1edbc n\u00e0y gi\u00e0nh chi\u1ebfn th\u1eafng.",
+        "size": [
+          899,
+          600
+        ],
+        "date": "2023:11:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.akagerarhinolodge.com/?o=the-us-changed-the-m1-abrams-tanks-going-to-9-dd-y2DM6Df2",
+        "title": "The US changed the M1 Abrams tanks going to Ukraine We ...Akagera Rhino Lodgehttps://www.akagerarhinolodge.com \u203a ma1a1 tank",
+        "content": "The US changed the M1 Abrams tanks going to Ukraine We Are The Mighty, The M1A1 Abrams is the standard battle tank of the US Forces and first entered\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.akagerarhinolodge.com/?o=m1-abrams-tanks-in-inventory-have-armor-too-secret-2-dd-GBbg2Iy",
+        "title": "M1 Abrams Tanks In Inventory Have Armor Too Secret To ...Akagera Rhino Lodgehttps://www.akagerarhinolodge.com \u203a ...",
+        "content": "M1 Abrams Tanks In Inventory Have Armor Too Secret To Send To Ukraine, An M2 Bradley Fighting Vehicle patrols past Command Post Hit Iraq Package length:\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.akagerarhinolodge.com/?o=m1-abrams-tanks-in-inventory-have-armor-too-secret-2-dd-GBbg2Iy",
+        "title": "M1 Abrams Tanks In Inventory Have Armor Too Secret To ...Akagera Rhino Lodgehttps://www.akagerarhinolodge.com \u203a ...",
+        "content": "... Here's How the American M1 Abrams Tanks Changed the Game in Ukraine \u00b7 DVIDS\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://contratacion.fundovidaips.com/?m=the-us-army-arsenal-from-1813-that-s-building-yy-ZloP04fr",
+        "title": "The US Army Arsenal From 1813 That's Building Weapons For ...fundovidaips.comhttps://contratacion.fundovidaips.com \u203a ...",
+        "content": "The US Army arsenal from 1813 that's building weapons for Ukraine, The M777 ... Tankers A bore evacuator of an M1A1 Abrams during Facebook. The US Army\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lastingbehavioralsolutions.com/?c=us-tanks-in-europe-painted-with-green-paint-for-vv-69ZJaHg",
+        "title": "US Tanks in Europe Painted With Green Paint for Camouflagelastingbehavioralsolutions.comhttps://www.lastingbehavioralsolutions.com \u203a ...",
+        "content": "US Begins Delivering the First Batch of M1A1 Abrams Tanks to Ukraine. US ... Crazy Logistics Operation to Move Billion$-Powered M1A1 Abrams Battle Tank.",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hylane.in/?w=all-promised-31-us-made-m1a1-abrams-main-battle-ss-VRYGJyHn",
+        "title": "All Promised 31 US-made M1A1 Abrams Main Battle Tanks ...hylane.inhttps://hylane.in \u203a 31 and main",
+        "content": "All Promised 31 US-made M1A1 Abrams Main Battle Tanks Now In Ukraine MilitaryLeak, Data Cable 5A KDS-50 (White)",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fotosartisticas.com.br/all-promised-31-us-made-m1a1-abrams-main-battle-vv-3leYByij",
+        "title": "All Promised 31 US-made M1A1 Abrams Main Battle Tanks Nowfotosartisticas.com.brhttps://fotosartisticas.com.br \u203a 31 and main",
+        "content": "All Promised 31 US-made M1A1 Abrams Main Battle Tanks Now In Ukraine MilitaryLeak | 31 And Main | fotosartisticas.com.br.",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.profitsperminute.com/?u=abrams-tanks-heavy-firepower-earmarked-for-ukraine-warrior-maven-11-gg-gw3vZ3t1",
+        "title": "Abrams Tanks: Heavy Firepower Earmarked For Ukraine ...Profit per minutehttps://www.profitsperminute.com \u203a ma1a1 tank",
+        "content": "In change of course, US agrees to send 31 Abrams tanks to Ukraine CNA. The M1A1 Abrams was formalized as the main battle tank of the in August The 105mm\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/business/the-wall-street-journal/us-to-begin-training-ukrainian-forces-on-abrams-tanks-in-may/news-story/db5b9463404d1c38d139c000d58117a2",
+        "title": "US to begin training Ukrainian forces on Abrams tanks in MayThe Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "",
+        "size": [
+          1279,
+          721
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.i9space.com.br/?i=us-tanks-in-europe-painted-with-green-paint-for-ww-kNQvxZIb",
+        "title": "US Tanks in Europe Painted With Green Paint for Camouflagei9space.com.brhttps://www.i9space.com.br \u203a ...",
+        "content": "In Reversal, US Poised to Approve Abrams Tanks for Ukraine. Fewer Better When ... Exterior tank-infantry telephone installed on M1A1 Abrams as part of TUSK\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.extradigital-website.extraradio1.com/?s=us-to-send-31-m1-abrams-tanks-to-ukraine-qq-nbMwLHG",
+        "title": "US to Send 31 M1 Abrams Tanks to Ukraine Defense OneExtradigital.websitehttps://www.extradigital-website.extraradio1.com \u203a ...",
+        "content": "US to Send 31 M1 Abrams Tanks to Ukraine Defense One, Accurately reproduced Highly detailed hull, turret and engine grill molds Detailed flexible tracks\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elevate.in/?a=us-tanks-in-europe-painted-with-green-paint-for-pp-wEB3gNuQ",
+        "title": "US Tanks in Europe Painted With Green Paint for Camouflageelevate.inhttps://elevate.in \u203a us military vehicle paint colors",
+        "content": "Exterior tank-infantry telephone installed on M1A1 Abrams as part of TUSK ... Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lbbangra.com.br/?u=ukraine-needs-weapons-not-debates-over-which-ones-wsj-ff-p7wkPJi1",
+        "title": "Ukraine Needs Weapons, Not Debates Over Which Ones WSJlbbangra.com.brhttps://www.lbbangra.com.br \u203a ...",
+        "content": "Will M1 Abrams and Leopard Tanks Win the War for Ukraine? 19FortyFive. Custom ... Ukraine Victory Chronicles: Ukrainian military masters Abrams tanks. Ukraine\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.profitsperminute.com/?u=in-change-of-course-us-agrees-to-send-31-8-gg-gw3vZ3t1",
+        "title": "In Change Of Course, US Agrees To Send 31 Abrams Tanks ...Profit per minutehttps://www.profitsperminute.com \u203a ma1a1 tank",
+        "content": "In change of course, US agrees to send 31 Abrams tanks to Ukraine CNA, The M1A1 Abrams is the standard battle tank of the US Forces and first entered\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ae/photos/us-army-tank",
+        "title": "10714 Us Army Tank Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.ae \u203a photos \u203a us-army-tank",
+        "content": "... July 2023, Bavaria, Grafenw\u00f6hr: Mine roller on a U.S. Army M1A1 Abrams tank as supplied to Ukraine. In Grafenwoehr, the US Army trains\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elevate.in/?w=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-cc-MWvyM2Ua",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...elevate.inhttps://www.elevate.in \u203a be be us",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, In this incisive new book, Michael Mandelbaum argues\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bastovida.pt/?a=us-speeds-up-abrams-tank-delivery-to-ukraine-war-ww-meYvL1SE",
+        "title": "US Speeds Up Abrams Tank Delivery To Ukraine War Zone ...Basto Vidahttps://www.bastovida.pt \u203a t-466mkii",
+        "content": "US speeds up Abrams tank delivery to Ukraine war zone WKRN News, Shop basic raglan sleeve t-shirt with a 50% discount \u2713 Free shipping on orders over 35\u20ac\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pspausa.org/biden-announces-abrams-tanks-to-be-delivered-to-ukraine-vv-GD3Mr0ia",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To UkrainePSPA USAhttps://pspausa.org \u203a used dunk tank for sale uk",
+        "content": "Biden Announces Abrams Tanks To Be Delivered To Ukraine Department Of Defense Defense Department News | Used Dunk Tank For Sale Uk | pspausa.org.",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://neondavetiye.com/?i=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-ss-DG3lDYHa",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...neondavetiye.comhttps://neondavetiye.com \u203a ...",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, This 1/35 scale assembly kit recreates the Russian\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.analightgroup.com/data-processing/?y=us-speeds-up-abrams-tank-delivery-to-ukraine-war-hh-wBoOGzSo",
+        "title": "US Speeds Up Abrams Tank Delivery To Ukraine War Zone ...analightgroup.comhttps://www.analightgroup.com \u203a Home \u203a wx101 tank",
+        "content": "US speeds up Abrams tank delivery to Ukraine war zone Financial Post, \u062a\u0633\u0648\u0642WX-101 AMTROL GAL Well-X-Trol INLINE WELL SYSTEM DESSURE TANK\u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a \u0628\u0623\u0641\u0636\u0644\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.fargofitness.net/?c=us-to-send-31-m1-abrams-tanks-to-ukraine-nn-zPoLBSp",
+        "title": "US to Send 31 M1 Abrams Tanks to Ukraine Defense Onefargofitness.nethttps://www.fargofitness.net \u203a m1 bradley cost",
+        "content": "US to Send 31 M1 Abrams Tanks to Ukraine Defense One, An M2 Bradley Fighting Vehicle ... approves potential sale billion of M1A1 Abrams tanks to Poland Reuters.",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alpha.i20fever.com/is-it-legal-to-build-a-tank-in-australia-ee-Z4VN7mSL",
+        "title": "Is It Legal To Build A Tank In Australia For A Business? Iti20feverhttps://alpha.i20fever.com \u203a abraham tanks australia",
+        "content": "M1 Abrams Tanks Are Coming to Ukraine: Too Hard to Use? 19FortyFive. Is it ... M1A1 Abrams Tanks conducts annual Stock Video Pond5. Is it legal to build a tank\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://canadianmcqa.com/?q=us-investigates-claims-american-gear-used-in-raids-on-mm-5qOkzOtr",
+        "title": "US investigates claims American gear used in raids on Russiacanadianmcqa.comhttps://canadianmcqa.com \u203a gear lab official",
+        "content": "Thanks for the tanks, but send Ukraine Abrams and Leopards too The Japan Times. Experience the touch and feel with this great New York Islanders 3D Engraved\u00a0...",
+        "size": [
+          1279,
+          721
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://dicma.com.mx/abrams-tank-crew-positions-k.html",
+        "title": "tyytyv\u00e4isyys Hieno kulku abrams tank crew positions ... - dicmadicma.com.mxhttp://dicma.com.mx \u203a abrams-tank-crew-positions-k",
+        "content": "... M1A1 Abrams tank during ITX 4-18. Could Panzer VIII Maus Stood A Chance Against M1A1 Abrams? |\u00a0...",
+        "size": [
+          1279,
+          721
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com.au/photos/us-army-tank",
+        "title": "10892 Us Army Tank Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.com.au \u203a photos \u203a us-army-t...",
+        "content": "... July 2023, Bavaria, Grafenw\u00f6hr: Mine roller on a U.S. Army M1A1 Abrams tank as supplied to Ukraine. In Grafenwoehr, the US Army trains\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://alliance.health/?g=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-tt-Yy15W7SK",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...alliance.healthhttps://alliance.health \u203a water tanks r us",
+        "content": "EXCLUSIVE: Ukraine's M1 Abrams tanks could come from US stockpiles, official says Breaking Defense. HDPE Underground rainwater harvesting tank available in\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Should-President-Biden-meet-President-Putin-over-Ukraine-tensions",
+        "title": "Should President Biden meet President Putin over Ukraine ...Quorahttps://www.quora.com \u203a Should-President-Biden-meet-P...",
+        "content": "No. Putin invaded Ukrainian Crimea in the first place because his ratings were falling. Backstabbing a formerly friendly country and stealing their land\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nurulizzah.com/?s=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-mm-kLkrzDSG",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...nurulizzah.comhttps://www.nurulizzah.com \u203a super soldier value",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, VF/NM, Item: Steve Rogers: Super-Soldier #3,\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/How-would-you-rate-Bidens-response-to-Putins-invasion-of-Ukraine-thus-far",
+        "title": "How would you rate Biden's response to Putin's invasion of ...Quorahttps://www.quora.com \u203a How-would-you-rate-Bidens-re...",
+        "content": "Did President Joe Biden say that Russian President Vladimir Putin has decided to invade Ukraine? Yes.",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.colegiosantainescampestre.edu.co/?y=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-zz-wkZmmdSd",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...colegiosantainescampestre.edu.cohttps://www.colegiosantainescampestre.edu.co \u203a ...",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, 1:35 USA After Second World War Tanks Military\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.creatorpulse.ai/?u=ukraine-needs-weapons-not-debates-over-which-ones-wsj-gg-Ve9DRZcp",
+        "title": "Ukraine Needs Weapons, Not Debates Over Which Ones WSJcreatorpulse.aihttps://www.creatorpulse.ai \u203a ...",
+        "content": "Ukraine Victory Chronicles: Ukrainian military masters Abrams tanks. Ukraine ... Will M1 Abrams and Leopard Tanks Win the War for Ukraine? 19FortyFive. Ukraine\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://bravoagencia.com/gakb-43671b7b0d/?k=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-dd-meW6PDHk",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...bravoagencia.comhttps://bravoagencia.com \u203a Home \u203a ukraine tanks model",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, 1:35 Price:",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.in/photos/us-army-tank",
+        "title": "10886 Us Army Tank Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.in \u203a photos \u203a us-army-tank",
+        "content": "... July 2023, Bavaria, Grafenw\u00f6hr: Mine roller on a U.S. Army M1A1 Abrams tank as supplied to Ukraine. In Grafenwoehr, the US Army trains\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://porcelainskin.porcelainfacespa.com/?g=us-to-speed-up-delivery-of-abrams-tanks-to-bb-7m9k8AIj",
+        "title": "US To Speed Up Delivery Of Abrams Tanks To Ukraine The ...porcelainfacespa.comhttps://porcelainskin.porcelainfacespa.com \u203a ...",
+        "content": "US to speed up delivery of Abrams tanks to Ukraine The Times of Israel. 4.9 ... M1A1 Abrams MBT Main Battle\u00a0...",
+        "size": [
+          1279,
+          721
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://rotirus.com/?a=us-tanks-in-europe-painted-with-green-paint-for-nn-5wJYDzsg",
+        "title": "US Tanks in Europe Painted With Green Paint for Camouflagerotirus.comhttps://rotirus.com \u203a ...",
+        "content": "",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.miformaciongratis.com/cursos/curso-de-ofimatica/?e=m1-abrams-main-battle-tank-hi-res-stock-photography-qq-BNAe6YhM",
+        "title": "M1 Abrams Main Battle Tank Hi-res Stock Photography And ...Mi Formaci\u00f3n Gratishttps://www.miformaciongratis.com \u203a cursos \u203a curso-d...",
+        "content": "US Agrees to Send 31 Abrams Tanks to Ukraine Khaama Press. M1 abrams main ... M1A1 Abrams tanks are sometimes transported by train in large Would it be an\u00a0...",
+        "size": [
+          1279,
+          721
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://verdeaguabrasil.com.br/?e=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-yy-2dRAmxHX",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...verdeaguabrasil.com.brhttps://verdeaguabrasil.com.br \u203a ...",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, Find a full range of men's tank tops from Wholesale\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.profitsperminute.com/?u=us-army-m1-abrams-tank-named-obi-wan-kenobi-3-gg-RQxa6Fg",
+        "title": "US Army M1 Abrams tank named 'Obi-Wan Kenobi' deployed ...Profit per minutehttps://www.profitsperminute.com \u203a ...",
+        "content": "US Army M1 Abrams tank named 'Obi-Wan Kenobi' deployed to Poland. Biden approves sending 31 M1 Abrams tanks to Ukraine, in reversal Fox News. Accurately\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://orazalmatyleestnitsa.kz/?o=us-speeds-up-delivery-of-abrams-tanks-could-be-hh-zzrmj1Fn",
+        "title": "US speeds up delivery of Abrams tanks, could be in Ukraine ...orazalmatyleestnitsa.kzhttps://orazalmatyleestnitsa.kz \u203a ...",
+        "content": "US speeds up delivery of Abrams tanks, could be in Ukraine by fall ABC News, This is the ride-on tank that provides an immersive play combat experience with\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wiki.chipmunk.vn/?s=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-hh-RGRRJ8Ip",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...chipmunk.vnhttps://wiki.chipmunk.vn \u203a be be us",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, \ufeffCircular decal measures 3-1/4\u201d in.",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://socket.mindwormltd.com/?k=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-zz-KkllPjIv",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...mindwormltd.comhttps://socket.mindwormltd.com \u203a be be us",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, Poster measures 12x18 inches (31x46 cm) and ideal\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mooreforstaterep.info/us-military-tank-cost",
+        "title": "Us Military Tank Cost - Moore for State Repmooreforstaterep.infohttps://mooreforstaterep.info \u203a us-military-tank-cost",
+        "content": "In reversal, US to send 31 Abrams ... M1A1 Abrams\u00a0...",
+        "size": [
+          218,
+          123
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ricardoalpoim.com.br/?w=us-to-speed-up-delivery-of-abrams-tanks-to-dd-MxbzVvs9",
+        "title": "US To Speed Up Delivery Of Abrams Tanks To Ukraine The ...ricardoalpoim.com.brhttps://ricardoalpoim.com.br \u203a ...",
+        "content": "US to speed up delivery of Abrams tanks to Ukraine The Times of Israel, Modelo 3d Tanque M1 Abrams LowPoly para descargar como blend and fbx derechos de\u00a0...",
+        "size": [
+          1279,
+          721
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.profitsperminute.com/?u=in-reversal-us-to-send-31-abrams-tanks-to-1-gg-RQxa6Fg",
+        "title": "In reversal, US to send 31 Abrams tanks to UkraineProfit per minutehttps://www.profitsperminute.com \u203a ...",
+        "content": "In reversal, US to send 31 Abrams tanks to Ukraine, An M2 Bradley Fighting Vehicle patrols past Command Post Hit Iraq Package length: Package width: Package\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://verdeaguabrasil.com.br/?e=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-yy-2dRAmxHX",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...verdeaguabrasil.com.brhttps://verdeaguabrasil.com.br \u203a ...",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, Find a full range of men's tank tops from Wholesale\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cartelfabrication.com/tank-m1-pro-Germany-k.html",
+        "title": "Port Presentator Gehoorzaam tank m1 pro Germany ...cartelfabrication.comhttps://www.cartelfabrication.com \u203a tank-m1-pro-Ger...",
+        "content": "US finalizing plans to send approximately 30 Abrams tanks to Ukraine, two US officials say | CNN Politics\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/m1-abrams",
+        "title": "721 M1 Abrams Stock Photos, High-Res Pictures, and ImagesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a m1-abrams",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic M1 Abrams stock photos, royalty-free images, and pictures. M1 Abrams stock photos are\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ricardoalpoim.com.br/?w=us-to-speed-up-delivery-of-abrams-tanks-to-dd-MxbzVvs9",
+        "title": "US To Speed Up Delivery Of Abrams Tanks To Ukraine The ...ricardoalpoim.com.brhttps://ricardoalpoim.com.br \u203a ...",
+        "content": "US to speed up delivery of Abrams tanks to Ukraine The Times of Israel, Modelo 3d Tanque M1 Abrams LowPoly para descargar como blend and fbx derechos de\u00a0...",
+        "size": [
+          1279,
+          721
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qmsoft.com.vn/iconic-abrams-tank-gets-a-high-tech-upgrade-cnet-ff-EAbl0ZSq",
+        "title": "Iconic Abrams Tank Gets A High-tech Upgrade CNETqmsoft.com.vnhttps://qmsoft.com.vn \u203a abrams tank round cost",
+        "content": "Speeds Up Abrams Tank Delivery To Ukraine War Zone. Iconic Abrams tank gets a high ... plans to send M1 Abrams tanks to Ukraine: What to know The Washington Post\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://emsneustiftgasse.at/%E6%98%AD%E5%92%8C-40-%E5%B9%B4%E4%BB%A3-%E4%BA%BA%E5%BD%A2-k.html",
+        "title": "erg\u00e4nzen managen Leicht tank m1 pro Germany lebhaft Taille ...EMS Neustiftgassehttps://emsneustiftgasse.at \u203a \u662d\u548c-40-\u5e74\u4ee3-\u4eba\u5f62-k",
+        "content": "KOSPET Tank M1 smart watch review \u00b7 This Is What M1 Abrams Tanks Will Bring To The Fight In Ukraine \u00b7 US Reversal on Abrams Tanks for Ukraine Underscores Focus on\u00a0...",
+        "size": [
+          1280,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com/photos/m1-abrams",
+        "title": "721 M1 Abrams Stock Photos, High-Res Pictures, and ImagesGetty Imageshttps://www.gettyimages.com \u203a photos \u203a m1-abrams",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic M1 Abrams stock photos, royalty-free images, and pictures. M1 Abrams stock photos are\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.insurancesorter.co.uk/abrams-tanks-the-army-pentagon-wins-this-round-highbrow-hh-nvA0n7fe",
+        "title": "Abrams Tanks The Army: Pentagon Wins This Round Highbrowinsurancesorter.co.ukhttps://www.insurancesorter.co.uk \u203a ...",
+        "content": "Ukraine Victory Chronicles: Ukrainian military masters Abrams tanks. Chrome ... Abrams and Leopard Tanks for Ukraine \u2013 Master Stroke or Colossal Blunder? \u2013\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.ca/photos/m1-abrams",
+        "title": "721 M1 Abrams Stock Photos, High-Res Pictures, and ImagesGetty Imageshttps://www.gettyimages.ca \u203a photos \u203a m1-abrams",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic M1 Abrams stock photos, royalty-free images, and pictures. M1 Abrams stock photos are\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://initiativefinance.ng/send-abrams-to-ukraine-k.html",
+        "title": "dramatisch Sichtbar Box send abrams to ukraine Auge Lager ...Initiative finance Limitedhttps://initiativefinance.ng \u203a send-abrams-to-ukraine-k",
+        "content": "",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.com.au/photos/m1-abrams",
+        "title": "719 M1 Abrams Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.com.au \u203a photos \u203a m1-abrams",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic M1 Abrams stock photos, royalty-free images, and pictures. M1 Abrams stock photos are\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://queadsl.com/?w=biden-announces-abrams-tanks-to-be-delivered-to-ukraine-yy-pMbb7yux",
+        "title": "Biden Announces Abrams Tanks To Be Delivered To Ukraine ...queadsl.comhttps://queadsl.com \u203a be be us",
+        "content": "Biden Announces Abrams Tanks to be Delivered to Ukraine Department of Defense Defense Department News, \ufeffCircular decal measures 3-1/4\u201d in.",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/how-many-tanks-does-the-us-army-have",
+        "title": "How Many Tanks Does The Us Army Have Guide 2023L Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a how-many-tanks-d...",
+        "content": "EXCLUSIVE: Ukraine's M1 Abrams tanks could come from US ... ... Goodbye, tanks: How the Marine Corps will change, and what ... US to give M1A1 Abrams tanks to\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://askaria.edu.pk/?y=us-approves-bln-sale-of-tanks-other-equipment-to-jj-wzqZ8kUN",
+        "title": "US approves bln sale of tanks, other equipment to Saudi ...Askaria Collegeshttps://askaria.edu.pk \u203a army equipment for sale",
+        "content": "US Abrams Tanks for Training Ukrainian Forces Arrive in Germany Ahead of Schedule ... Despite concerns, US to send 31 Abrams tanks to Ukraine CBS 42. NSN 8415-01\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.nz/photos/m1-abrams",
+        "title": "721 M1 Abrams Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.co.nz \u203a photos \u203a m1-abrams",
+        "content": "... abrams tank. 721 M1 Abrams Stock Photos and High-res Pictures. Browse 721 m1 ... marines bombard through a live fire\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hideawayaurora.com/itemizec/9154.phtml",
+        "title": "Hledat \u00fato\u010di\u0161t\u011b poprs\u00ed v\u00fdbava us war Tajemstv\u00ed ohe\u0148 Beze ...hideawayaurora.comhttps://hideawayaurora.com \u203a itemizec",
+        "content": "With war in Europe, US Army replenished weapons, pushed modernization: 2022 in Review - Breaking Defense. Why the US won't send troops to Ukraine - Vox\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://initiativefinance.ng/abrams-in-ukraine-k.html",
+        "title": "Berri Advent Nachdenklich abrams in ukraine Damit umgehen ...Initiative finance Limitedhttps://initiativefinance.ng \u203a abrams-in-ukraine-k",
+        "content": "U.S. Will Soon Start Training Ukrainian Troops on Abrams Tanks - The New York Times \u00b7 US considering sending dozens of Abrams tanks to Ukraine, officials say -\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.initiativefinance.ng/m1-abrams-tank-ukraine-k.html",
+        "title": "Verr\u00fccktes Kleid Indien Verfolgung m1 abrams tank ukraine ...Initiative finance Limitedhttps://www.initiativefinance.ng \u203a m1-abrams-tank-ukrai...",
+        "content": "",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://appnox.ai/?g=us-army-tanks-arrive-in-poland-as-russia-begins-aa-DNbDd4hN",
+        "title": "US Army Tanks Arrive In Poland As Russia Begins Military, 50 ...Appnox.aihttps://appnox.ai \u203a pictures of army tanks",
+        "content": "to Begin Training Ukrainian Forces on Abrams Tanks in May WSJ. US Army tanks arrive in Poland as Russia begins military drills ABC News. Abrams Tanks the Army\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://hideawayaurora.com/itemitnu/58530.phtml",
+        "title": "Hledat \u00fato\u010di\u0161t\u011b poprs\u00ed v\u00fdbava us war Tajemstv\u00ed ohe\u0148 Beze ...hideawayaurora.comhttps://hideawayaurora.com \u203a itemitnu",
+        "content": "US military working on analysis to shape and support Ukraine's military in long term | CNN Politics\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.elhornito.cl/tank-m1-pro-Germany-k.html",
+        "title": "Clip Schmetterling Kap Gummi tank m1 pro Germany Doktor ...elhornito.clhttps://www.elhornito.cl \u203a tank-m1-pro-Germany-k",
+        "content": "... US finalizing plans to send approximately 30 Abrams tanks to Ukraine, two US officials say | CNN Politics\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.in/photos/m1-abrams",
+        "title": "721 M1 Abrams Stock Photos and High-res PicturesGetty Imageshttps://www.gettyimages.in \u203a photos \u203a m1-abrams",
+        "content": "Browse Getty Images' premium collection of high-quality, authentic M1 Abrams stock photos, royalty-free images, and pictures. M1 Abrams stock photos are\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cgisousse.tn/tank-m1-pro-Germany-k.html",
+        "title": "Draht erg\u00e4nze Zugrunde richten tank m1 pro Germany Null ...cgisousse.tnhttps://www.cgisousse.tn \u203a tank-m1-pro-Germany-k",
+        "content": "U.S. Poised to Provide Abrams Tanks to Ukraine - WSJ. KOSPET TANK M1 Outdoor Sports Rugged Smartwatch\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.woodwizards.com.au/t-war-k.html",
+        "title": "Automatizaci\u00f3n que te diviertas tocino t war A veces a veces ...woodwizards.com.auhttps://www.woodwizards.com.au \u203a t-war-k",
+        "content": "Where the Ukraine War Goes From Here | Tufts Now \u00b7 Steam Workshop::War Thunder - T-90A 4K \u00b7 You Don't Know What War Is: The Diary of a Young Girl From Ukraine:\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shinyboxes.com/?w=us-to-speed-up-delivery-of-abrams-tanks-to-jj-yLNybEi7",
+        "title": "US To Speed Up Delivery Of Abrams Tanks To Ukraine The ...shinyboxes.comhttps://shinyboxes.com \u203a abrams x tank top speed",
+        "content": "US to speed up delivery of Abrams tanks to Ukraine The Times of Israel, Royalty free 3D model Tank Abrams-X 2022 for download as max, max, fbx,\u00a0...",
+        "size": [
+          1279,
+          721
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gracezamudio.com/?o=why-aren-t-battle-tanks-electrically-driven-no-exhaust-pp-vZ3K2eiL",
+        "title": "Why Aren't Battle Tanks Electrically Driven? No Exhaust, 60 ...gracezamudio.comhttps://www.gracezamudio.com \u203a ...",
+        "content": "Poised to Provide Abrams Tanks to Ukraine WSJ. Why aren't battle tanks electrically driven? No exhaust fumes (more stealth). The one tool I didn't expect to\u00a0...",
+        "size": [
+          1280,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://tecnoserveirubi.es/goods/smear1380004?pid=847",
+        "title": "administrar Tambi\u00e9n solapa t war Llave Abundante PerthTecnoservei Rubihttps://tecnoserveirubi.es \u203a goods \u203a smear1380004",
+        "content": "Romania's Holy War by Grant T. \u00b7 Ukraine war: Kyiv reports 'difficult' situation east, NATO won't invite Ukraine to join alliance | Euronews \u00b7 Buy War Thunder - T\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://oasisbodytherapy.co.nz/biden-reloads-ukraine-s-weapons-cache-kk-BeX9lkT7",
+        "title": "Biden Reloads Ukraine's Weapons CacheOasis Body Therapyhttp://oasisbodytherapy.co.nz \u203a vp m109",
+        "content": "US Abrams tanks for training Ukrainian forces arrive in Germany ahead of schedule KOLR ... Biden confirmed transfer of Abrams tanks to Ukraine Militarnyi. Biden\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://punjabdairyproducts.pk/t-war-k.html",
+        "title": "art\u00edculo Derecho influenza t war Orgulloso Continental monstruopunjabdairyproducts.pkhttps://punjabdairyproducts.pk \u203a t-war-k",
+        "content": "Why the War in Ukraine Won't Go Nuclear | Foreign Affairs. Ukraine war: Kyiv reports\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://trottrentals.co.nz/t-war-k.html",
+        "title": "pil\u00f3ta El\u0151re Augment t war babona k\u00fcl\u00f6nb\u00f6z\u0151 r\u00e9g\u00e9szetitrottrentals.co.nzhttps://trottrentals.co.nz \u203a t-war-k",
+        "content": "Russia Can't Fight a War and Still Arm the World \u00b7 Russia's war in Ukraine is nothing like World War II | The Hill \u00b7 Why Can't America Win Its Wars? \u00b7 Military\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ofertalaboral.uct.cl/t-war-k.html",
+        "title": "pastor Cenar C\u00e1mara t war primer ministro Bolsa PorqueInicio > UCThttps://ofertalaboral.uct.cl \u203a t-war-k",
+        "content": "Ukraine updates: Moscow debuts new T-14 battle tanks | Russia-Ukraine war News | Al Jazeera \u00b7 You Don't Know What War Is: The Diary of a Young Girl From Ukraine:\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dillihaat.org/t-war-k.html",
+        "title": "Multitud chocolate capitalismo t war Gran universo Seraf\u00edn ...dillihaat.orghttps://dillihaat.org \u203a t-war-k",
+        "content": "... Don't believe the hype; tanks are still vital for Ukraine | Russia-Ukraine war News | Al Jazeera\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cabinetharmachi.ma/?ahbei2210099475081",
+        "title": "Absurdn\u00ed nosi\u010d Malov\u00e1n\u00ed us war stolice Medi\u00e1n Strait tangacabinetharmachi.mahttps://www.cabinetharmachi.ma \u203a ahbei22100994750...",
+        "content": "U.S. Extends Troop Deployment in Romania, at Ukraine War's Doorstep - The New York Times\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/HistoryMemes/comments/s0satx/why_did_north_korea_even_get_involved_in_the_yom/",
+        "title": "why did North Korea even get involved in the Yom Kippur war?Reddit\u00a0\u00b7\u00a0r/HistoryMemes1 comments  \u00b7  1 year ago",
+        "content": "... Ukraine: Nuclear weapons are containing the Ukraine war. They also ... Ukrainian Jewish church, and chabad lubavich to help Russias goal of taking\u00a0...",
+        "size": [
+          1200,
+          628
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://undefined.photos/photo-gallery/what-is-the-most-powerful-military-vehicle",
+        "title": "What Is The Most Powerful Military Vehicle Gallery - Undefinedundefined.photoshttps://undefined.photos \u203a photo-gallery \u203a what-is-the-...",
+        "content": "U.S. to Begin Training Ukrainian Forces on Abrams Tanks in ... More \u00b7 March Military Campaign - The Most Powerful Wheeled Vehicle ... U.S. to Begin Training\u00a0...",
+        "size": [
+          700,
+          467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.topndisproviders.com.au/g3005719.shtml",
+        "title": "Top NDIS Providers Australia widetopndisproviders.com.auhttps://www.topndisproviders.com.au \u203a ...",
+        "content": "to Begin Training Ukrainian Forces on Abrams Tanks in May WSJ. to Begin Training Ukrainian Forces on Abrams Tanks in May WSJ. e82615 siemens. Thermal Magnetic\u00a0...",
+        "size": [
+          1280,
+          960
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.agefotostock.com/age/en/Stock-Images/main-battle-tank.html",
+        "title": "Main battle tank Stock Photos and Images - agefotostockagefotostockhttps://www.agefotostock.com \u203a age \u203a main-battle-tank",
+        "content": "27 January 2022, Bavaria, Hohenfels: U.S. soldiers fire from an M1 Abrams main ... Tanks Abrams in Latvia. International Military Training \"\"Saber Strike 2017\u00a0...",
+        "size": [
+          1050,
+          700
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.com.mx/fotos/us-army-tank",
+        "title": "7.119 fotos e im\u00e1genes de Us Army Tank - Getty ImagesGetty Imageshttps://www.gettyimages.com.mx \u203a ...",
+        "content": "... July 2023, Bavaria, Grafenw\u00f6hr: Mine roller on a U.S. Army M1A1 Abrams tank as supplied to Ukraine. In Grafenwoehr, the US Army trains\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/us-military-tank",
+        "title": "8.237 fotos de stock e banco de imagens de Us Military TankGetty Imageshttps://www.gettyimages.com.br \u203a u...",
+        "content": "marines roll down a dirt road on their m1a1 abrams main battle tank during\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/us-military-tank",
+        "title": "7.800 fotos e im\u00e1genes de Us Military Tank - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "marines roll down a dirt road on their m1a1 abrams main battle tank during\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/us-army-tank",
+        "title": "10.814 fotos e im\u00e1genes de Us Army Tank - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "... July 2023, Bavaria, Grafenw\u00f6hr: Mine roller on a U.S. Army M1A1 Abrams tank as supplied to Ukraine. In Grafenwoehr, the US Army trains\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/usa-military-tank",
+        "title": "3.910 foto e immagini di Usa Military Tank - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a usa-mil...",
+        "content": "... marines roll down a dirt road on their m1a1\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/us-military-tank",
+        "title": "7.216 foto e immagini di Us Military Tank - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a us-mili...",
+        "content": "... marines roll down a dirt road on their m1a1\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.4starwindows.nl/abrams%E2%80%9C-darum-sind-die-us-panzer-eine-mogelpackung-freilich-dd-pGqn9WFK",
+        "title": "Abrams\u201c: Darum Sind Die US-Panzer Eine Mogelpackung4starwindows.nlhttps://www.4starwindows.nl \u203a ...",
+        "content": "Abrams\u201c: Darum sind die US-Panzer eine Mogelpackung Freilich Magazin. Krieg in der Ukraine: So gewaltig sind die Abrams-Panzer aus den USA. Please Note: Due\u00a0...",
+        "size": [
+          1300,
+          867
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.4starwindows.nl/echten-leopard-panzer-kaufen/abrams%E2%80%9C-darum-sind-die-us-panzer-eine-mogelpackung-freilich-dd-pGqn9WFK",
+        "title": "Abrams\u201c: Darum Sind Die US-Panzer Eine Mogelpackung4starwindows.nlhttps://www.4starwindows.nl \u203a echt...",
+        "content": "Abrams\u201c: Darum sind die US-Panzer eine Mogelpackung Freilich Magazin. Krieg in der Ukraine: So gewaltig sind die Abrams-Panzer aus den USA. Please Note: Due\u00a0...",
+        "size": [
+          1300,
+          867
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/us-army-m1-abrams",
+        "title": "344 fotos e im\u00e1genes de Us Army M1 Abrams - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "... July 2023, Bavaria, Grafenw\u00f6hr: A U.S. Army M1A1 Abrams tank with mounted mine roller, as delivered to Ukraine. In\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.com.mx/fotos/tanque-m1-abrams",
+        "title": "463 fotos e im\u00e1genes de Tanque M1 Abrams - Getty ImagesGetty Imageshttps://www.gettyimages.com.mx \u203a ...",
+        "content": "Encuentra fotos de stock de Tanque M1 Abrams e im\u00e1genes editoriales de noticias en Getty Images. Haz tu selecci\u00f3n entre 463 im\u00e1genes premium de Tanque M1\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/us-tank",
+        "title": "43.556 foto e immagini di Us Tank - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a us-tank",
+        "content": "... July 2023, Bavaria, Grafenw\u00f6hr: Mine roller on a U.S. Army M1A1 Abrams tank as supplied to Ukraine. In Grafenwoehr, the US Army trains\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/m1-abrams",
+        "title": "721 fotos e im\u00e1genes de M1 Abrams - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "July 2023, Bavaria, Grafenw\u00f6hr: A U.S. Army M1A1 Abrams tank, photographed with mine roller mounted, as they will be delivered to Ukraine. In...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.fr/photos/char-m1-abrams",
+        "title": "343 photos et images de Char M1 AbramsGetty Imageshttps://www.gettyimages.fr \u203a photos",
+        "content": "Trouvez des images et des photos d'actualit\u00e9s de Char M1 Abrams sur Getty Images. Choisissez parmi 343 des contenus premium de Char M1 Abrams de qualit\u00e9.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.fr/photos/char-abrams",
+        "title": "401 photos et images de Char AbramsGetty Imageshttps://www.gettyimages.fr \u203a photos",
+        "content": "Trouvez des images et des photos d'actualit\u00e9s de Char Abrams sur Getty Images. Choisissez parmi 401 des contenus premium de Char Abrams de qualit\u00e9.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.4starwindows.nl/abrams%E2%80%9C-darum-sind-die-us-panzer-eine-mogelpackung-freilich-dd-pGqn9WFK",
+        "title": "Abrams\u201c: Darum Sind Die US-Panzer Eine Mogelpackung4starwindows.nlhttps://www.4starwindows.nl \u203a ...",
+        "content": "Abrams\u201c: Darum sind die US-Panzer eine Mogelpackung Freilich Magazin. Krieg in der Ukraine: So gewaltig sind die Abrams-Panzer aus den USA. Please Note: Due\u00a0...",
+        "size": [
+          1300,
+          867
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.4starwindows.nl/echten-leopard-panzer-kaufen/abrams%E2%80%9C-darum-sind-die-us-panzer-eine-mogelpackung-freilich-dd-pGqn9WFK",
+        "title": "Abrams\u201c: Darum Sind Die US-Panzer Eine Mogelpackung4starwindows.nlhttps://www.4starwindows.nl \u203a echt...",
+        "content": "Abrams\u201c: Darum sind die US-Panzer eine Mogelpackung Freilich Magazin. Krieg in der Ukraine: So gewaltig sind die Abrams-Panzer aus den USA. Please Note: Due\u00a0...",
+        "size": [
+          1300,
+          867
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.taipeiforum.org.tw/article_d.php?lang=tw&tb=3&cid=184&id=11794",
+        "title": "M1A1\u5766\u514b\u5c07\u65bc\u4e94\u6708\u958b\u59cb\u6b63\u5f0f\u7528\u65bc\u70cf\u4fc4\u6230\u722d - \u53f0\u5317\u8ad6\u58c7\u53f0\u5317\u8ad6\u58c7https://www.taipeiforum.org.tw \u203a ... \u203a \u6b66\u5668\u8ecd\u4e8b\u8ff7",
+        "content": "... ukrainian-forces-on-abrams-tanks-in-may-a0dbdae7?mod=Searchresults_pos9&page=2. M1A1 Abrams\u4e3b\u6230\u5766\u514b\u7531\u901a\u7528\u52d5\u529b\u516c\u53f8\u958b\u767c\u3002\u4ed6\u662fM1 Abram \u5766\u514b\u7684\u9032\u968e\u7248\u672c\u3002M1A1\u9996\u6b21\u00a0...",
+        "size": [
+          832,
+          554
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.fr/photos/abrams-tank",
+        "title": "469 photos et images de Abrams TankGetty Imageshttps://www.gettyimages.fr \u203a photos",
+        "content": "Trouvez des images et des photos d'actualit\u00e9s de Abrams Tank sur Getty Images. Choisissez parmi 469 des contenus premium de Abrams Tank de qualit\u00e9.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://web.de/magazine/politik/thema/wolodymyr-selenskyj/p5",
+        "title": "Wolodymyr Selenskyj | Steckbrief, Bilder und News - WEB.DEWEB.DEhttps://web.de \u203a ... \u203a Politik \u203a Thema",
+        "content": "Ukraine \u00b7 Europ\u00e4ische Union \u00b7 USA \u00b7 Russland \u00b7 Joe Biden \u00b7 Kiew \u00b7 Wladimir Putin \u00b7 Moskau ... Selenskyj best\u00e4tigt: Erste US-Panzer vom Typ Abrams in der Ukraine\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.fr/photos/m1-abrams",
+        "title": "387 photos et images de M1 AbramsGetty Imageshttps://www.gettyimages.fr \u203a photos",
+        "content": "July 2023, Bavaria, Grafenw\u00f6hr: A U.S. Army M1A1 Abrams tank, photographed with mine roller mounted, as they will be delivered to Ukraine. In...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.gettyimages.co.jp/%E5%86%99%E7%9C%9F/m1_abrams",
+        "title": "421\u70b9\u306eM1 Abrams\u306e\u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8 - Getty ImagesGetty Imageshttps://www.gettyimages.co.jp \u203a \u5199\u771f",
+        "content": "July 2023, Bavaria, Grafenw\u00f6hr: A U.S. Army M1A1 Abrams tank, photographed with mine roller mounted, as they will be delivered to Ukraine. In.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.gettyimages.co.jp/%E5%86%99%E7%9C%9F/m1-abrams-tank",
+        "title": "284\u70b9\u306eM1 Abrams Tank\u306e\u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8 - Getty ImagesGetty Imageshttps://www.gettyimages.co.jp \u203a \u5199\u771f",
+        "content": "July 2023, Bavaria, Grafenw\u00f6hr: A U.S. Army M1A1 Abrams tank, photographed with mine roller mounted, as they will be delivered to Ukraine. In.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.gettyimages.co.jp/%E5%86%99%E7%9C%9F/us-army-abrams-tank",
+        "title": "321\u70b9\u306eUs Army Abrams Tank\u306e\u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8 - Getty ImagesGetty Imageshttps://www.gettyimages.co.jp \u203a \u5199\u771f",
+        "content": "July 2023, Bavaria, Grafenw\u00f6hr: Mine roller on a U.S. Army M1A1 Abrams tank as supplied to Ukraine. In Grafenwoehr, the US Army trains\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.pt/fotos/tanque-m1-abrams",
+        "title": "572 fotografias e imagens de Tanque M1 Abrams - Getty ImagesGettyhttps://www.gettyimages.pt \u203a fotos",
+        "content": "July 2023, Bavaria, Grafenw\u00f6hr: A U.S. Army M1A1 Abrams tank, photographed with mine roller mounted, as they will be delivered to Ukraine. In...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.pt/fotos/m1-abrams",
+        "title": "721 fotografias e imagens de M1 Abrams - Getty ImagesGettyhttps://www.gettyimages.pt \u203a fotos",
+        "content": "... President Joe Biden makes an ... marines bombard through a live fire range using m1a1 abrams tanks. -\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.be/fotos/usa-military-tank",
+        "title": "2.005 foto's en beelden met Usa Military Tank - Getty ImagesGetty Imageshttps://www.gettyimages.be \u203a fotos",
+        "content": "Two M1A1 Abrams tanks and other military vehicles sit guarded on\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.ch/magazine/politik/russland-krieg-ukraine/p4",
+        "title": "Russlands Krieg gegen die Ukraine | GMX.CHGMXhttps://www.gmx.ch \u203a ... \u203a Politik",
+        "content": "Am 24. Februar 2022 hat Russlands Pr\u00e4sident Wladimir Putin den \u00dcberfall auf die Ukraine befohlen. Seitdem herrscht Krieg. Alle Infos finden Sie hier.",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://web.de/magazine/politik/thema/usa/p15",
+        "title": "USA: Aktuelle Nachrichten & Informationen - WEB.DEWEB.DEhttps://web.de \u203a ... \u203a Politik \u203a Thema",
+        "content": "Ukraine \u00b7 Europ\u00e4ische Union \u00b7 Israel \u00b7 Joe Biden \u00b7 New York City \u00b7 Kanada \u00b7 New York ... Selenskyj best\u00e4tigt: Erste US-Panzer vom Typ Abrams in der Ukraine\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/fotos/american-military-tanks",
+        "title": "2.571 foto's en beelden met American Military TanksGetty Imageshttps://www.gettyimages.nl \u203a fotos",
+        "content": "Two M1A1 Abrams tanks and other military vehicles sit guarded on\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.gettyimages.hk/%E5%9C%96%E7%89%87/m1-abrams",
+        "title": "721 \u5f35M1 Abrams\u5716\u50cf\u3001\u7167\u7247\u53ca\u5f71\u50cfgettyimages.hkhttps://www.gettyimages.hk \u203a \u5716\u7247",
+        "content": "\u700f\u89bd721 \u9805m1 abrams \u7167\u7247\u53ca\u5716\u7247\uff0c\u6216\u958b\u5c55\u5168\u65b0\u641c\u5c0b\uff0c\u767c\u6398\u66f4\u591a\u7167\u7247\u53ca\u5716\u7247\u3002 marines roll down a dirt road on their m1a1 abrams main battle tank during a day of\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.com.mx/fotos/abrams-battle-tank",
+        "title": "189 fotos e im\u00e1genes de Abrams Battle Tank - Getty ImagesGetty Imageshttps://www.gettyimages.com.mx \u203a ...",
+        "content": "Encuentra fotos de stock de Abrams Battle Tank e im\u00e1genes editoriales de noticias en Getty Images. Haz tu selecci\u00f3n entre 189 im\u00e1genes premium de Abrams\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.gettyimages.co.jp/%E5%86%99%E7%9C%9F/m1-%E3%82%A8%E3%82%A4%E3%83%96%E3%83%A9%E3%83%A0%E3%82%BA",
+        "title": "421\u70b9\u306eM1 \u30a8\u30a4\u30d6\u30e9\u30e0\u30ba\u306e\u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8 - Getty ImagesGetty Imageshttps://www.gettyimages.co.jp \u203a \u5199\u771f",
+        "content": "... m1a1 abrams tanks. - m1 \u30a8\u30a4\u30d6\u30e9\u30e0\u30ba \u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8\u3068\u753b\u50cf. July 2023, Bavaria\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://t.me/s/tageszeitung?q=%23WolodymyrSelenskij&before=64786",
+        "title": "taz \u2013 TelegramTelegramhttps://t.me \u203a tageszeitung",
+        "content": "Sowohl die Ukraine als auch Russland melden gegnerische Drohnenangriffe\u2024 Die ersten Abrams-Panzer aus den USA sind in der Ukraine eingetroffen\u2024. 90 views 00\u00a0...",
+        "size": [
+          948,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.be/fotos/m1a1-abrams-main-battle-tank",
+        "title": "39 foto's en beelden met M1a1 Abrams Main Battle TankGetty Imageshttps://www.gettyimages.be \u203a fotos",
+        "content": "Ontdek stockfoto's en redactionele nieuwsbeelden met M1a1 Abrams Main Battle Tank van Getty Images. Kies uit 39 premium met M1a1 Abrams Main Battle Tank van\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.be/fotos/m1-abrams",
+        "title": "721 foto's en beelden met M1 Abrams - Getty ImagesGetty Imageshttps://www.gettyimages.be \u203a fotos",
+        "content": "Blader door 721 m1 abrams beschikbare foto's en beelden, of begin een nieuwe zoekopdracht om meer foto's en beelden te vinden.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.com.mx/fotos/m1-abrams",
+        "title": "509 fotos e im\u00e1genes de M1 Abrams - Getty ImagesGetty Imageshttps://www.gettyimages.com.mx \u203a ...",
+        "content": "Encuentra fotos de stock de M1 Abrams e im\u00e1genes editoriales de noticias en Getty Images. Haz tu selecci\u00f3n entre 509 im\u00e1genes premium de M1 Abrams de la m\u00e1s\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/fotos/m1-abrams-battle-tank",
+        "title": "106 foto's en beelden met M1 Abrams Battle Tank - Getty ImagesGetty Imageshttps://www.gettyimages.nl \u203a fotos",
+        "content": "Ontdek stockfoto's en redactionele nieuwsbeelden met M1 Abrams Battle Tank van Getty Images. Kies uit 106 premium met M1 Abrams Battle Tank van de hoogste\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://home.1und1.de/magazine/politik/thema/wolodymyr-selenskyj/p5",
+        "title": "Wolodymyr Selenskyj | Steckbrief, Bilder und News - 1&11&1https://home.1und1.de \u203a ... \u203a Thema",
+        "content": "Ukraine zielt auf russische R\u00fcstungsbranche. 27. September 2023. Verwandte ... Selenskyj best\u00e4tigt: Erste US-Panzer vom Typ Abrams in der Ukraine eingetroffen.",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/tanque-m1-abrams",
+        "title": "572 fotos de stock e banco de imagens de Tanque M1 AbramsGetty Imageshttps://www.gettyimages.com.br \u203a t...",
+        "content": "Encontre fotos de stock e imagens editoriais de not\u00edcias de Tanque M1 Abrams na Getty Images. Escolha entre 572 fotos premium de Tanque M1 Abrams da melhor\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/m1-abrams",
+        "title": "722 foto e immagini di M1 Abrams - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a m1-abr...",
+        "content": "Scopri foto stock e immagini editoriali di attualit\u00e0 di M1 Abrams su Getty Images. Scegli tra 722 immagini premium su M1 Abrams della migliore qualit\u00e0.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.at/magazine/politik/p28",
+        "title": "Politik - News aus Deutschland, \u00d6sterreich, der Schweiz und ...GMX.AThttps://www.gmx.at \u203a magazine \u203a p...",
+        "content": "Video Krieg in der Ukraine. Selenskyj best\u00e4tigt: Erste US-Panzer vom Typ Abrams in der Ukraine eingetroffen. 26. September 2023. Tirol. Tursky tritt in\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://t.me/s/tageszeitung/186?q=%23WolodymyrSelenskij",
+        "title": "taz \u2013 TelegramTelegramhttps://t.me \u203a tageszeitung",
+        "content": "Seit Beginn des Kriegs in der Ukraine hat der UN-Sicherheitsrat 50 Mal zum Thema getagt \u2013 ohne L\u00f6sung\u2024 ... Die ersten Abrams-Panzer aus den USA sind in der\u00a0...",
+        "size": [
+          948,
+          474
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/fotos/m1-abrams-tank",
+        "title": "640 foto's en beelden met M1 Abrams Tank - Getty ImagesGetty Imageshttps://www.gettyimages.nl \u203a fotos",
+        "content": "Blader door 640 m1 abrams tank beschikbare foto's en beelden, of begin een nieuwe zoekopdracht om meer foto's en beelden te vinden.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.chiemgau24.de/thema/ukraine-konflikt-sti1524391/index-vc-505945-3.html",
+        "title": "Ukraine-Krieg Themenseite - chiemgau24chiemgau24https://www.chiemgau24.de \u203a thema",
+        "content": "Ukraine-Krieg \u00b7 Fall Prigoschin zeigt: In Russland kann sich niemand sicher f\u00fchlen Washington Post \u00b7 Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaket \u2013\u00a0...",
+        "size": [
+          342,
+          193
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.hallo-muenchen.de/thema/ukraine-konflikt-sti1524391/index-vc-472645-5.html",
+        "title": "Ukraine-Krieg Themenseite - Hallo M\u00fcnchenHallo M\u00fcnchenhttps://www.hallo-muenchen.de \u203a in...",
+        "content": "",
+        "size": [
+          342,
+          193
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.net/magazine/reise/thema/kiew/p5",
+        "title": "Kiew: Aktuelle Nachrichten & Informationen - GMXGMXhttps://www.gmx.net \u203a ... \u203a Thema",
+        "content": "Kiew \u00b7 Nato-Generalsekret\u00e4r: Krieg in der Ukraine \"gr\u00f6\u00dfte Bedrohung unserer Sicherheit\" \u00b7 Ukrainische Drohne verursacht Blackout in sieben russischen D\u00f6rfern.",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/m1-tank",
+        "title": "492 fotos de stock e banco de imagens de M1 TankGetty Imageshttps://www.gettyimages.com.br \u203a ...",
+        "content": "An infographic titled \"M1 Abrams, Leopard 2 tanks Western countries\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.net/magazine/politik/thema/wolodymyr-selenskyj/p5",
+        "title": "Wolodymyr Selenskyj | Steckbrief, Bilder und News - GMXGMXhttps://www.gmx.net \u203a ... \u203a Thema",
+        "content": "Ukraine \u00b7 Europ\u00e4ische Union \u00b7 USA \u00b7 Russland \u00b7 Joe Biden \u00b7 Kiew \u00b7 Wladimir Putin \u00b7 Moskau ... Selenskyj best\u00e4tigt: Erste US-Panzer vom Typ Abrams in der Ukraine\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://home.1und1.de/magazine/reise/thema/kiew/p4",
+        "title": "Kiew: Aktuelle Nachrichten & Informationen - 1&11&1https://home.1und1.de \u203a ... \u203a Thema",
+        "content": "\"Historisch\": EU-Au\u00dfenminister treffen sich in Kiew \u00b7 Ukraine \u00b7 Europ\u00e4ische Union \u00b7 Russland \u00b7 Wladimir Putin \u00b7 Wolodymyr Selenskyj \u00b7 Br\u00fcssel \u00b7 Moskau \u00b7 NATO\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.chiemgau24.de/welt/",
+        "title": "Nachrichten aus aller Welt - chiemgau24.dechiemgau24https://www.chiemgau24.de \u203a welt",
+        "content": "Uranmunition f\u00fcr Ukraine: USA schn\u00fcren neues Milit\u00e4rpaket \u2013 Erste Details sickern durch ... Gegenoffensive der Ukraine torpediert: Musk kappte Starlink mitten im\u00a0...",
+        "size": [
+          342,
+          193
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.gmx.net/magazine/reise/thema/russland/p9",
+        "title": "Russland: Aktuelle Nachrichten & Informationen - GMXGMXhttps://www.gmx.net \u203a ... \u203a Thema",
+        "content": "Russland \u00b7 Nawalny: Haftbedingungen nach abgelehnter Berufung erneut versch\u00e4rft \u00b7 Athleten f\u00fcr Paralympics-Ausschluss von Russen und Belarussen \u00b7 Ukraine will UEFA\u00a0...",
+        "size": [
+          300,
+          169
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://www.youtube.com/watch?v=xFl7PVOMn0o",
+        "title": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e21\u0e31\u0e19\u0e25\u0e48\u0e30 \u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22\u0e17\u0e49\u0e32\u0e2a\u0e2b\u0e23\u0e31\u0e10 \u0e0a\u0e48\u0e27\u0e22\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19\u0e02\u0e19\u0e32\u0e14\u0e19\u0e35\u0e49 \u0e21\u0e32\u0e23\u0e1a\u0e40\u0e2d\u0e07\u0e40\u0e25\u0e22\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 \u0e08\u0e30\u0e44\u0e14\u0e49 ...YouTube\u00a0\u00b7\u00a0SNIPER NEWs76.5K+ views  \u00b7  2 months ago",
+        "content": "... -\u0e1d\u0e35\u0e21\u0e37\u0e2d\u0e04\u0e19\u0e44\u0e17\u0e22. TNN Online\u2022146K views \u00b7 1:04. Go to channel \u00b7 Six killed in missile strike on Ukraine mail depot. Associated Press New 1.8K views \u00b7 0\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.youtube.com/watch?v=aESCEy8AfZI",
+        "title": "La Fiscal\u00eda de Ucrania denuncia m\u00e1s de 200 ni\u00f1os ... - YouTubeYouTube\u00a0\u00b7\u00a0El Debate110+ views  \u00b7  1 year ago",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.photoventuresnamibia.com/x/Y1339206.html",
+        "title": "M1A1\u30a8\u30a4\u30d6\u30e9\u30e0\u30b9\uff08\u30a6\u30af\u30e9\u30a4\u30ca\u8ecd\uff09 - \u901a\u8ca9photoventuresnamibia.comhttps://www.photoventuresnamibia.com \u203a ...",
+        "content": "M1A1\u30a8\u30a4\u30d6\u30e9\u30e0\u30b9\uff08\u30a6\u30af\u30e9\u30a4\u30ca\u8ecd\uff09. \u914d\u9001\u6599\u306e\u8ca0\u62c5. \u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u7d44\u7acb\u30ad\u30c3\u30c8. \u6226\u8eca\u30fb\u8ecd\u7528\u8eca\u4e21\u30fb\u8ecd\u8266. \u25c7M1A1\u30a8\u30a4\u30d6\u30e9\u30e0\u30b9\uff08\u30a6\u30af\u30e9\u30a4\u30ca\u8ecd\uff09 \u25c7\u30bf\u30df\u30e4\u88fd\u54c1\u25c7\u30b9\u30b1\u30fc\u30eb1/35\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.tbg.qa/?asclepiad/cutis494665.html",
+        "title": "\u3010\u671f\u9593\u9650\u5b9a\u3011 US\u30a2\u30fc\u30df\u30fc \u7c73\u8ecd \u6226\u8eca tbg.qatbg.qahttps://www.tbg.qa \u203a cutis494665",
+        "content": "\u9999\u6e2f\u30c9\u30e9\u30b4\u30f3 DRAGON \u73fe\u7528\u7c73\u8ecd M1A1 Abrams \u30a8\u30a4\u30d6\u30e9\u30e0\u30b9 \u7b2c3\u6b69\u5175\u5e2b\u56e3 \u7bb1\u6f70\u308c\u6709 1/72 US Army \u7c73\u9678\u8ecd \u30bf\u30df\u30e4 \u672a\u7d44\u7acb \u30a4\u30e9\u30af\u6226\u4e89 OIF\u306e\u843d\u672d\u60c5\u5831\u8a73\u7d30 - \u30e4\u30d5\u30aa\u30af\u843d\u672d\u4fa1\u683c\u691c\u7d22\u00a0...",
+        "size": [
+          1280,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.agefotostock.es/age/es/Stock-Images/m1-abrams.html",
+        "title": "M1 abrams - Im\u00e1genes y Fotograf\u00eda de stock - agefotostockagefotostockhttps://www.agefotostock.es \u203a age",
+        "content": "A US Marine Silhouetted Atop An M1A1 Abrams Tank \u00b7 SJB-4316-1135. Imagen; DP. you can use Silhouette of a tank with a soldier at sunset to design banners, \u00b7 ESY\u00a0...",
+        "size": [
+          1050,
+          700
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "th",
+        "link": "https://m.youtube.com/watch?v=xFl7PVOMn0o&pp=ygUZI-C5guC4lOC4o-C4meC4leC4peC4reC4lA%3D%3D",
+        "title": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e21\u0e31\u0e19\u0e25\u0e48\u0e30 \u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22\u0e17\u0e49\u0e32\u0e2a\u0e2b\u0e23\u0e31\u0e10 \u0e0a\u0e48\u0e27\u0e22\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19\u0e02\u0e19\u0e32\u0e14\u0e19\u0e35\u0e49 \u0e21\u0e32\u0e23\u0e1a\u0e40\u0e2d\u0e07\u0e40\u0e25\u0e22\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 \u0e08\u0e30\u0e44\u0e14\u0e49 ...YouTube\u00a0\u00b7\u00a0SNIPER NEWs74.8K+ views",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.pt/fotos/us-m1",
+        "title": "1.304 fotografias e imagens de Us M1 - Getty ImagesGettyhttps://www.gettyimages.pt \u203a fotos",
+        "content": "Abrams tanks from the Charlie company 464 Armored\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "uk",
+        "link": "https://ms-my.facebook.com/kupriyofficial/posts/%D0%BF%D0%BE%D0%B4%D0%B8%D0%B2%D1%96%D1%82%D1%8C%D1%81%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D1%83-%D0%BF%D0%B0%D0%BD%D1%96%D0%BA%D0%B0-%D0%BC%D0%B0%D0%BB%D0%B0-%D0%B1%D1%83%D1%82%D0%B8-%D1%89%D0%B5-%D1%80%D0%B0%D0%BD%D1%96%D1%88%D0%B5/1533387140161654/",
+        "title": "\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u0439 - \u041f\u043e\u0434\u0438\u0432\u0456\u0442\u044c\u0441\u044f \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0443. \u041f\u0430\u043d\u0456\u043a\u0430 \u043c\u0430\u043b\u0430 \u0431\u0443\u0442\u0438...Facebook\u00a0\u00b7\u00a0\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u0439450+ reactions  \u00b7  3 years ago",
+        "content": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u043a\u043e\u043c\u0430\u043d\u0434\u0443\u0432\u0430\u0447 \u0417\u0421 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 / CinC AF of Ukraine. \u0413\u043e\u043b\u043e\u0432\u043d\u043e\u043a\u043e\u043c\u0430\u043d\u0434\u0443\u0432\u0430\u0447 \u0417\u0421 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 / CinC. AF of Ukraine \udb86\udc8f. 2h\udb81\udf8b\udb81\udfe0. \u041c\u0456\u0441\u044f\u0446\u044c, \u044f\u043a \u0432\u043e\u0440\u043e\u0433 \u043f\u043e\u0447\u0430\u0432 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u00a0...",
+        "size": [
+          945,
+          2048
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "uk",
+        "link": "https://www.facebook.com/kupriyofficial/?locale=ar_AR",
+        "title": "\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u0439 - FacebookFacebook\u00a0\u00b7\u00a0\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u04391.7M+ followers",
+        "content": "\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u0439\u200e\u200f, \u200f\u0647\u0648\u0633\u062a\u0648\u0645\u064a\u0644\u200f. \u200f\u200f\u0661\u066c\u0666\u0668\u0667\u066c\u0667\u0660\u0661\u200f \u062a\u0633\u062c\u064a\u0644 \u0625\u0639\u062c\u0627\u0628 \u00b7 \u064a\u062a\u062d\u062f\u062b \u200f\u0668\u066c\u0661\u0662\u0663\u200f \u0639\u0646 \u0647\u0630\u0627\u200f. \u200f\u200e\u042f\u043a\u0449\u043e \u0445\u043e\u0447\u0435\u0442\u0435 \u043f\u043e\u0447\u0443\u0442\u0438 \u0434\u0443\u043c\u043a\u0443 \u0444\u0430\u0445\u043e\u0432\u0438\u0445 \u043b\u044e\u0434\u0435\u0439 \u0456 \u043f\u0430\u0442\u0440\u0456\u043e\u0442\u0456\u0432, \u0442\u043e \u0412\u0430\u043c \u0441\u044e\u0434\u0438\u200e\u200f",
+        "size": [
+          945,
+          2048
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "uk",
+        "link": "https://www.facebook.com/kupriyofficial/?locale=es_ES",
+        "title": "\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u0439 - FacebookFacebook\u00a0\u00b7\u00a0\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u04391.7M+ followers",
+        "content": "",
+        "size": [
+          945,
+          2048
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "uk",
+        "link": "https://www.facebook.com/kupriyofficial/?locale=tr_TR",
+        "title": "\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u0439 - FacebookFacebook\u00a0\u00b7\u00a0\u0412\u0456\u0442\u0430\u043b\u0456\u0439 \u041a\u0443\u043f\u0440\u0456\u04391.7M+ followers",
+        "content": "",
+        "size": [
+          945,
+          2048
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.badische-zeitung.de/archiv/2023/09/25",
+        "title": "Nachrichten vom 25.09.2023 - Archiv - Badische ZeitungBadische Zeitunghttps://www.badische-zeitung.de \u203a ...",
+        "content": "",
+        "size": [
+          640,
+          427
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.deia.eus/tags/tanques/pagina-3/",
+        "title": "Tanques - DeiaDeiahttps://www.deia.eus \u203a pagina-3",
+        "content": "Ucrania recibe los primeros tanques Abrams a tiempo para reforzar la contraofensiva. Efe. Ucrania aumenta la presi\u00f3n en el frente sur y en Crimea a la espera\u00a0...",
+        "size": [
+          880,
+          495
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://iesppcanete.edu.pe/781799/15635429934376.htm",
+        "title": "\uff08\u8a33\u3042\u308a\u30bb\u30fc\u30eb\u683c\u5b89\uff09 antwort EX WG ANORAKiesppcanete.edu.pehttps://iesppcanete.edu.pe \u203a ...",
+        "content": "Leopard, Abrams und Challenger: Drei Panzer gege ... Leopard, Abrams und Challenger: Drei Panzer gege ... antwort EX WG ANORAK 2 \u30a2\u30ce\u30e9\u30c3\u30af. antwort EX WG\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.com.br/fotos/american-soldier-germany",
+        "title": "9.797 fotos de stock e banco de imagens de American Soldier ...Getty Imageshttps://www.gettyimages.com.br \u203a a...",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.cope.es/tag/actualidad/militares",
+        "title": "Militares - COPECOPEhttps://www.cope.es \u203a ... \u203a Militares",
+        "content": "... Abrams a Ucrania. El corresponsal de COPE en EEUU, Juan Fierro, explica la ayuda que se est\u00e1n planteando los norteamericanos para Ucrania. 24 ene 2023 - 19:23.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdealava.eus/tags/tanques/pagina-3/",
+        "title": "Tanques - Diario de Noticias de \u00c1lavaDiario de Noticias de \u00c1lavahttps://www.noticiasdealava.eus \u203a tags",
+        "content": "Los tanques de Israel entran en una Gaza incomunicada y devastada por los bombardeos \u00b7 Biden anuncia que EEUU enviar\u00e1 a Ucrania de 31 tanques Abrams.",
+        "size": [
+          880,
+          495
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.noticiasdealava.eus/tags/tanques/pagina-2/",
+        "title": "Tanques - Diario de Noticias de \u00c1lavaDiario de Noticias de \u00c1lavahttps://www.noticiasdealava.eus \u203a tags",
+        "content": "",
+        "size": [
+          880,
+          495
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.nn.de/region/neumarkt/kastl",
+        "title": "Kastl News Lokalnachrichten | nn.deNN.dehttps://www.nn.de \u203a neumarkt \u203a kastl",
+        "content": "",
+        "size": [
+          568,
+          320
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://lat.rt.rs/svet/15824-cime-nato-naoruzava-ukrajinu/",
+        "title": "\u010cime \u0107e NATO naoru\u017eati Ukrajinu? - RT BalkanRT Balkanhttps://lat.rt.rs \u203a svet \u203a 15824-cime-...",
+        "content": "",
+        "size": [
+          1104,
+          622
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.gettyimages.pt/fotos/der-oberpfalz",
+        "title": "7.269 fotografias e imagens de Der Oberpfalz - Getty ImagesGettyhttps://www.gettyimages.pt \u203a fotos",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "army_base",
+        "ioclass": "outdoor",
+        "probability": 0.8240692615509033
+      },
+      {
+        "class": "junkyard",
+        "ioclass": "outdoor",
+        "probability": 0.07946258038282394
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.06705257296562195
+      },
+      {
+        "class": "construction_site",
+        "ioclass": "outdoor",
+        "probability": 0.010973782278597355
+      },
+      {
+        "class": "excavation",
+        "ioclass": "outdoor",
+        "probability": 0.010932562872767448
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9681208729743958
+      },
+      {
+        "class": "bright",
+        "score": 0.7328131198883057
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.6763887405395508
+      },
+      {
+        "class": "rugged",
+        "score": 0.6643149852752686
+      },
+      {
+        "class": "season/winter",
+        "score": 0.5471627116203308
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.5342987775802612
+      },
+      {
+        "class": "ice",
+        "score": 0.5312422513961792
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.5260211229324341
+      },
+      {
+        "class": "dry",
+        "score": 0.5154396891593933
+      },
+      {
+        "class": "moist",
+        "score": 0.5042120218276978
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5041412115097046
+      },
+      {
+        "class": "dirty",
+        "score": 0.5002261996269226
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 806,
+        "pred_lat": 39.42242431640625,
+        "pred_long": 140.75816345214844
+      },
+      "middle": {
+        "pred_class": 2273,
+        "pred_lat": 38.604286193847656,
+        "pred_long": 141.24427795410156
+      },
+      "fine": {
+        "pred_class": 2582,
+        "pred_lat": 38.604286193847656,
+        "pred_long": 141.24427795410156
+      },
+      "hierarchy": {
+        "pred_class": 2582,
+        "pred_lat": 38.604286193847656,
+        "pred_long": 141.24427795410156
+      },
+      "country": {
+        "city": "Tome",
+        "state": "",
+        "country": "Japan"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 38.629173,
+    "longitude": 141.18367,
+    "generationtime_ms": 0.3039836883544922,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 6.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2014-11-26T00:00",
+        "2014-11-26T01:00",
+        "2014-11-26T02:00",
+        "2014-11-26T03:00",
+        "2014-11-26T04:00",
+        "2014-11-26T05:00",
+        "2014-11-26T06:00",
+        "2014-11-26T07:00",
+        "2014-11-26T08:00",
+        "2014-11-26T09:00",
+        "2014-11-26T10:00",
+        "2014-11-26T11:00",
+        "2014-11-26T12:00",
+        "2014-11-26T13:00",
+        "2014-11-26T14:00",
+        "2014-11-26T15:00",
+        "2014-11-26T16:00",
+        "2014-11-26T17:00",
+        "2014-11-26T18:00",
+        "2014-11-26T19:00",
+        "2014-11-26T20:00",
+        "2014-11-26T21:00",
+        "2014-11-26T22:00",
+        "2014-11-26T23:00",
+        "2014-11-27T00:00",
+        "2014-11-27T01:00",
+        "2014-11-27T02:00",
+        "2014-11-27T03:00",
+        "2014-11-27T04:00",
+        "2014-11-27T05:00",
+        "2014-11-27T06:00",
+        "2014-11-27T07:00",
+        "2014-11-27T08:00",
+        "2014-11-27T09:00",
+        "2014-11-27T10:00",
+        "2014-11-27T11:00",
+        "2014-11-27T12:00",
+        "2014-11-27T13:00",
+        "2014-11-27T14:00",
+        "2014-11-27T15:00",
+        "2014-11-27T16:00",
+        "2014-11-27T17:00",
+        "2014-11-27T18:00",
+        "2014-11-27T19:00",
+        "2014-11-27T20:00",
+        "2014-11-27T21:00",
+        "2014-11-27T22:00",
+        "2014-11-27T23:00"
+      ],
+      "apparent_temperature": [
+        2.7,
+        2.9,
+        3.2,
+        2.9,
+        2.2,
+        2.2,
+        2.3,
+        1.2,
+        1.0,
+        1.4,
+        2.2,
+        2.4,
+        2.7,
+        2.9,
+        3.0,
+        2.5,
+        2.5,
+        2.3,
+        2.4,
+        3.0,
+        2.9,
+        2.9,
+        2.9,
+        3.6,
+        4.7,
+        5.8,
+        7.9,
+        9.5,
+        9.9,
+        10.4,
+        10.7,
+        10.0,
+        8.7,
+        7.8,
+        6.8,
+        5.1,
+        4.1,
+        3.2,
+        2.4,
+        1.9,
+        1.2,
+        0.8,
+        0.1,
+        -0.0,
+        0.2,
+        0.1,
+        0.0,
+        2.5
+      ],
+      "precipitation": [
+        0.2,
+        0.3,
+        0.5,
+        1.1,
+        1.4,
+        2.0,
+        1.8,
+        1.8,
+        2.4,
+        2.8,
+        2.7,
+        2.4,
+        2.6,
+        2.5,
+        1.2,
+        0.7,
+        0.6,
+        0.4,
+        0.2,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        51,
+        51,
+        53,
+        55,
+        61,
+        61,
+        61,
+        61,
+        61,
+        63,
+        63,
+        61,
+        63,
+        63,
+        55,
+        53,
+        53,
+        51,
+        51,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        0,
+        0,
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        2
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

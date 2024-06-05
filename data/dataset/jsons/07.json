@@ -1,0 +1,3493 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 133,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 4,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 133,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                3,
+                1,
+                3,
+                2,
+                133,
+                4,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 52,
+            "percentage": 24.413145539906104
+          },
+          "French": {
+            "count": 31,
+            "percentage": 14.553990610328638
+          },
+          "German": {
+            "count": 19,
+            "percentage": 8.92018779342723
+          },
+          "Finnish": {
+            "count": 17,
+            "percentage": 7.981220657276995
+          },
+          "Russian": {
+            "count": 17,
+            "percentage": 7.981220657276995
+          },
+          "Spanish; Castilian": {
+            "count": 16,
+            "percentage": 7.511737089201878
+          },
+          "Portuguese": {
+            "count": 10,
+            "percentage": 4.694835680751174
+          },
+          "Arabic": {
+            "count": 8,
+            "percentage": 3.755868544600939
+          },
+          "Hungarian": {
+            "count": 5,
+            "percentage": 2.347417840375587
+          },
+          "Norwegian": {
+            "count": 5,
+            "percentage": 2.347417840375587
+          },
+          "Greek, Modern (1453-)": {
+            "count": 4,
+            "percentage": 1.8779342723004695
+          },
+          "Serbian": {
+            "count": 4,
+            "percentage": 1.8779342723004695
+          },
+          "Dutch; Flemish": {
+            "count": 3,
+            "percentage": 1.408450704225352
+          },
+          "Malay": {
+            "count": 2,
+            "percentage": 0.9389671361502347
+          },
+          "Chinese": {
+            "count": 2,
+            "percentage": 0.9389671361502347
+          },
+          "Tagalog": {
+            "count": 2,
+            "percentage": 0.9389671361502347
+          },
+          "Bengali": {
+            "count": 2,
+            "percentage": 0.9389671361502347
+          },
+          "Croatian": {
+            "count": 2,
+            "percentage": 0.9389671361502347
+          },
+          "Danish": {
+            "count": 2,
+            "percentage": 0.9389671361502347
+          },
+          "Malayalam": {
+            "count": 1,
+            "percentage": 0.4694835680751174
+          },
+          "Macedonian": {
+            "count": 1,
+            "percentage": 0.4694835680751174
+          },
+          "unknown": {
+            "count": 1,
+            "percentage": 0.4694835680751174
+          },
+          "Italian": {
+            "count": 1,
+            "percentage": 0.4694835680751174
+          },
+          "Albanian": {
+            "count": 1,
+            "percentage": 0.4694835680751174
+          },
+          "Hindi": {
+            "count": 1,
+            "percentage": 0.4694835680751174
+          },
+          "Turkish": {
+            "count": 1,
+            "percentage": 0.4694835680751174
+          },
+          "Lithuanian": {
+            "count": 1,
+            "percentage": 0.4694835680751174
+          }
+        },
+        "total": 213,
+        "plot": {
+          "labels": [
+            "English",
+            "French",
+            "German",
+            "Finnish",
+            "others"
+          ],
+          "data": [
+            24,
+            14,
+            8,
+            7,
+            47
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "nl",
+        "link": "https://www.volkskrant.nl/columns-opinie/wie-kiest-voor-wraak-riskeert-niet-meer-te-worden-gezien-als-slachtoffer~b459a473/",
+        "title": "Wie kiest voor wraak, riskeert niet meer te worden gezien als ...de Volkskranthttps://www.volkskrant.nl \u203a column...",
+        "content": "Hij wist dat hij met een machtig Hamas, dat Isra\u00ebl van de kaart wil vegen, altijd een excuus had om een Palestijnse staat tegen te houden. Met\u00a0...",
+        "size": [
+          1600,
+          1067
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "es",
+        "link": "https://agroambiente.com.do/canciller-de-china-llega-manana-para-inauguracion-de-la-primera-embajada-de-esa-nacion-en-rd/",
+        "title": "Canciller de China llega ma\u00f1ana para inauguraci\u00f3n de la ...Agroambiente.com.dohttps://agroambiente.com.do \u203a canci...",
+        "content": "CONFLICTO ISRAEL-PALESTINA La ONU eleva a 1.4 millones los desplazados en Gaza, casi dos tercios de la poblaci\u00f3n. 3 d\u00edas de publicado. El\u00a0...",
+        "size": [
+          390,
+          220
+        ],
+        "date": "2018:09:20 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 59,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "es",
+        "link": "https://agroambiente.com.do/canciller-de-china-llega-manana-para-inauguracion-de-la-primera-embajada-de-esa-nacion-en-rd/",
+        "title": "Canciller de China llega ma\u00f1ana para inauguraci\u00f3n de la ...Agroambiente.com.dohttps://agroambiente.com.do \u203a canci...",
+        "content": "CONFLICTO ISRAEL-PALESTINA La ONU eleva a 1.4 millones los desplazados en Gaza, casi dos tercios de la poblaci\u00f3n. 3 d\u00edas de publicado. El\u00a0...",
+        "size": [
+          390,
+          220
+        ],
+        "date": "2018:09:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsdirectory3.com/pyeongtaek-seo-excavator-hit-an-elementary-school-student-crossing-the-crosswalk-1-death-total/",
+        "title": "Pyeongtaek-seo excavator hit an elementary school student ...News Directory 3https://www.newsdirectory3.com \u203a pyeongtaek-seo-ex...",
+        "content": "Iran Warns of Escalating Situation in the Middle East Amid Israel-Hamas Conflict. October 23, 2023 No Comments. Read More \u00bb \u00b7 Concerns of\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2022:07:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lavoixdunord.fr/1223143/article/2022-09-02/apres-des-accusations-d-agressions-sexuelles-arcade-fire-dans-la-tourmente",
+        "title": "Apr\u00e8s des accusations d'agressions sexuelles, Arcade Fire ...La Voix du Nordhttps://www.lavoixdunord.fr \u203a article",
+        "content": "En ce moment Attaque au couteau \u00e0 ArrasGuerre Isra\u00ebl-HamasCoupe du monde de rugbyMobilit\u00e9, je bouge !Les brocantes du week-end Journal\u00a0...",
+        "size": [
+          417,
+          236
+        ],
+        "date": "2022:09:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://moszkvater.com/milyen-lesz-a-vilag-szuperhatalmak-nelkul/",
+        "title": "Milyen lesz a vil\u00e1g szuperhatalmak n\u00e9lk\u00fcl? - moszkvatermoszkvaterhttps://moszkvater.com \u203a Politika",
+        "content": "",
+        "size": [
+          550,
+          360
+        ],
+        "date": "2022:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://orf.at/stories/3295578/",
+        "title": "Dauerkrisen: Fataler Einfluss auf Vertrauen in Politik - ORFORFhttps://orf.at \u203a stories",
+        "content": "Israel will Luftangriffe auf Gaza verst\u00e4rken. Skyline von Tirana. Radikaler Umbau: Tiranas Operation an sich selbst. Gem\u00e4lde von Gabriele\u00a0...",
+        "size": [
+          518,
+          292
+        ],
+        "date": "2022:11:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alquds.co.uk/%D8%AD%D9%85%D8%A7%D8%B3-%D8%AA%D8%AF%D9%8A%D9%86-%D9%85%D8%B5%D8%A7%D8%AF%D9%82%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D9%85%D8%B3%D8%AA/",
+        "title": "\u062d\u0645\u0627\u0633 \u062a\u062f\u064a\u0646 \u0645\u0635\u0627\u062f\u0642\u0629 \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u0639\u0644\u0649 \u0625\u0642\u0627\u0645\u0629 \u0645\u0633\u062a\u0648\u0637\u0646\u0629 \u062c\u062f\u064a\u062f\u0629 \u0641\u064a \u0645\u062d\u064a\u0637 \u063a\u0632\u0629\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0639\u0631\u0628\u064ahttps://www.alquds.co.uk \u203a \u062d\u0645\u0627\u0633-\u062a\u062f...",
+        "content": "\u0648\u0642\u0627\u0644\u062a \u0625\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u201c\u0648\u062d\u062f\u0647\u0627 \u0645\u0646 \u062a\u062a\u062d\u0645\u0644 \u0645\u0633\u0624\u0648\u0644\u064a\u0629 \u0627\u0633\u062a\u0647\u062a\u0627\u0631\u0647\u0627 \u0628\u062a\u0633\u0643\u064a\u0646 \u0627\u0644\u0645\u0633\u062a\u0648\u0637\u0646\u064a\u0646 \u0642\u0631\u0628 \u0642\u0637\u0627\u0639 \u063a\u0632\u0629\u060c \u0648\u0648\u0636\u0639\u0647\u0645 \u0641\u064a \u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u062e\u0637\u0631\u060c \u0648\u0647\u064a \u0645\u0646 \u062a\u062a\u062d\u0645\u0651\u0644 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064a\u0629\u00a0...",
+        "size": [
+          296,
+          178
+        ],
+        "date": "2023:02:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://moszkvater.com/olaf-scholz-a-feher-hazban-avagy-a-nagy-elterelo-hadmuvelet/",
+        "title": "A \u201enagy elterel\u0151 hadm\u0171velet\u201d | #moszkvatermoszkvaterhttps://moszkvater.com \u203a olaf-schol...",
+        "content": "",
+        "size": [
+          550,
+          360
+        ],
+        "date": "2023:03:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsdirectory3.com/a-sandstorm-swept-through-china-affecting-millions-of-people/",
+        "title": "A SANDstorm swept through China, affecting MILLIONS of ...News Directory 3https://www.newsdirectory3.com \u203a a-sandstorm-swept-...",
+        "content": "Iran Warns of Escalating Situation in the Middle East Amid Israel-Hamas Conflict. October 23, 2023 No Comments. Read More \u00bb \u00b7 Concerns of\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:04:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newsdirectory3.com/survivor-subroto-pal-and-his-family-say/",
+        "title": "Survivor Subroto Pal and his family say - News Directory 3News Directory 3https://www.newsdirectory3.com \u203a survivor-subroto-p...",
+        "content": "Iran Warns of Escalating Situation in the Middle East Amid Israel-Hamas Conflict. October 23, 2023 No Comments. Read More \u00bb \u00b7 Concerns of\u00a0...",
+        "size": [
+          768,
+          512
+        ],
+        "date": "2023:06:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/israel-high-tech-companies-list",
+        "title": "Israel High Tech Companies List Articles - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a israel-high-tech-c...",
+        "content": "About 100 Israeli companies on the energy tech landscape ... photograph. Activist Hackers Are Racing Into the Israel-Hamas War\u2014for ...",
+        "size": [
+          1800,
+          1801
+        ],
+        "date": "2023:06:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://orf.at/stories/3320101/",
+        "title": "Warum ein wenig Alkohol das Herz sch\u00fctzen kann - ORFORFhttps://orf.at \u203a stories",
+        "content": "Aktuell in \u00b7 Israel will Luftangriffe auf Gaza verst\u00e4rken \u00b7 Radikaler Umbau: Tiranas Operation an sich selbst \u00b7 M\u00fcnter: Die verdr\u00e4ngte blaue\u00a0...",
+        "size": [
+          518,
+          292
+        ],
+        "date": "2023:06:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://moszkvater.com/ketseges-ukran-sikerek/",
+        "title": "K\u00e9ts\u00e9ges ukr\u00e1n sikerek | #moszkvatermoszkvaterhttps://moszkvater.com \u203a ketseges-u...",
+        "content": "",
+        "size": [
+          550,
+          360
+        ],
+        "date": "2023:07:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.sss.fi/2023/08/maanjaristys-ja-ennatykselliset-rankkasateet-riepottelevat-kiinaa/",
+        "title": "Maanj\u00e4ristys ja enn\u00e4tykselliset rankkasateet riepottelevat KiinaaSalon Seudun Sanomathttps://www.sss.fi \u203a 2023/08 \u203a maan...",
+        "content": "... Israel on pommittanut Gazaa jo kahden viikon ajan. LEHTIKUVA/AFP \u00b7 STT ... Hamas sanoo ty\u00f6skentelev\u00e4ns\u00e4 qatarilaisten ja egyptil\u00e4isten\u00a0...",
+        "size": [
+          218,
+          150
+        ],
+        "date": "2023:08:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lavoixdunord.fr/1365493/article/2023-08-25/les-geants-d-internet-contraints-plus-de-transparence-par-l-ue",
+        "title": "Les g\u00e9ants d'Internet contraints \u00e0 plus de transparence par l'UELa Voix du Nordhttps://www.lavoixdunord.fr \u203a article",
+        "content": "... Isra\u00ebl-HamasCoupe du monde de rugbyMobilit\u00e9, je bouge !Les brocantes du week-end Journal num\u00e9rique Jeux gratuits L'info en continu A la Une\u00a0...",
+        "size": [
+          417,
+          236
+        ],
+        "date": "2023:08:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://orf.at/stories/3328920/",
+        "title": "Kitzb\u00fchel: 15 Passagiere aus Seilbahn geborgen - news.ORF.atORFhttps://orf.at \u203a stories",
+        "content": "Kitzb\u00fchel: 15 Passagiere aus Seilbahn geborgen \u00b7 Aktuell in \u00b7 Israel will Luftangriffe auf Gaza verst\u00e4rken \u00b7 Radikaler Umbau: Tiranas Operation an\u00a0...",
+        "size": [
+          518,
+          292
+        ],
+        "date": "2023:08:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lavoixdunord.fr/1368221/article/2023-09-02/l-inde-lance-une-sonde-d-observation-solaire-une-semaine-apres-un-alunissage",
+        "title": "L'Inde lance une sonde d'observation solaire, une semaine ...La Voix du Nordhttps://www.lavoixdunord.fr \u203a article",
+        "content": "... Isra\u00ebl-HamasCoupe du monde de rugbyMobilit\u00e9, je bouge !Les brocantes du week-end Journal num\u00e9rique Jeux gratuits L'info en continu A la Une\u00a0...",
+        "size": [
+          417,
+          236
+        ],
+        "date": "2023:09:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://orf.at/stories/3330846/",
+        "title": "Offener Brief: Klimabeauftragte an allen Schulen gefordert - ORFORFhttps://orf.at \u203a stories",
+        "content": "Israel will Luftangriffe auf Gaza verst\u00e4rken. Skyline von Tirana. Radikaler Umbau: Tiranas Operation an sich selbst. Gem\u00e4lde von Gabriele\u00a0...",
+        "size": [
+          518,
+          292
+        ],
+        "date": "2023:09:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lavoixdunord.fr/1380097/article/2023-10-02/incendie-d-une-violence-extremedans-une-discotheque-espagnole-ce-qu-sait-du",
+        "title": "Incendie d'une violence \u00abextr\u00eame\u00bb dans une discoth\u00e8que ...La Voix du Nordhttps://www.lavoixdunord.fr \u203a article",
+        "content": "... Isra\u00ebl qui met en garde le Liban sur le risque d'une guerre ... Depuis l'attaque du\u00a0...",
+        "size": [
+          417,
+          236
+        ],
+        "date": "2023:10:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://ar.timesofisrael.com/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%82%D9%88%D9%85-%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%88%D8%AD%D8%AF%D8%A9-%D9%85%D9%83%D9%84%D9%81%D8%A9-%D8%A8/",
+        "title": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u062a\u0642\u0648\u0645 \u0628\u062a\u0634\u0643\u064a\u0644 \u0648\u062d\u062f\u0629 \u0645\u0643\u0644\u0641\u0629 \u0628\u062a\u0635\u0641\u064a\u0629 \u0642\u0648\u0627\u062a \u0648\u062d\u062f\u0629 \u0627\u0644\u0646\u062e\u0628\u0629 ...\u062a\u0627\u064a\u0645\u0632 \u0623\u0648\u0641 \u0625\u0633\u0631\u0627\u0626\u064a\u0644https://ar.timesofisrael.com \u203a \u062a\u0642\u0631\u064a...",
+        "content": "... (Israel Defense Forces). \u0648\u0642\u062f \u0623\u0631\u0633\u0644\u062a \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u062a\u062d\u0630\u064a\u0631\u0627\u062a \u0645\u062a\u0643\u0631\u0631\u0629 \u0644\u0642\u064a\u0627\u062f\u0629 \u062d\u0645\u0627\u0633 \u0645\u0646\u0630 7 \u0623\u0643\u062a\u0648\u0628\u0631. \u0648\u0642\u0627\u0644 \u0631\u0626\u064a\u0633 \u0627\u0644\u0648\u0631\u0632\u0627\u0621 \u0628\u0646\u064a\u0627\u0645\u064a\u0646 \u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u0628\u0639\u062f \u0623\u064a\u0627\u0645 \u0645\u0646 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a 7\u00a0...",
+        "size": [
+          640,
+          400
+        ],
+        "date": "2023:10:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alquds.co.uk/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D9%88%D9%84-%D8%A5%D9%86%D9%87-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%82%D8%B0%D8%A7%D8%A6/",
+        "title": "\u0627\u0644\u062c\u064a\u0634 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u064a\u0642\u0648\u0644 \u0625\u0646\u0647 \u064a\u0631\u062f \u0639\u0644\u0649 \u0642\u0630\u0627\u0626\u0641 \u0623\u0637\u0644\u0642\u062a \u0645\u0646 \u0633\u0648\u0631\u064a\u0627\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0639\u0631\u0628\u064ahttps://www.alquds.co.uk \u203a \u0627\u0644\u062c\u064a\u0634-\u0627...",
+        "content": "\u0648\u0642\u0627\u0644 \u0645\u0635\u062f\u0631 \u0641\u064a \u062c\u0646\u0648\u0628 \u0633\u0648\u0631\u064a\u0627 \u0625\u0646 \u0641\u0635\u064a\u0644\u0627 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0627 \u0623\u0637\u0644\u0642 \u062b\u0644\u0627\u062b\u0629 \u0635\u0648\u0627\u0631\u064a\u062e \u0628\u0627\u062a\u062c\u0627\u0647 \u0625\u0633\u0631\u0627\u0626\u064a\u0644. \u0648\u064a\u062b\u064a\u0631 \u0647\u0630\u0627 \u0627\u0644\u062a\u0637\u0648\u0631 \u0645\u062e\u0627\u0648\u0641 \u0645\u0646 \u0623\u0646 \u064a\u0624\u062f\u064a \u0627\u0644\u0639\u0646\u0641 \u0625\u0644\u0649 \u062d\u0631\u0628 \u0623\u0648\u0633\u0639 \u0646\u0637\u0627\u0642\u0627\u060c \u0625\u0630\u00a0...",
+        "size": [
+          296,
+          178
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sputniknews.in/20231010/biden-administration-caught-in-aid-dilemma-ukraine-vs-israel-4713463.html",
+        "title": "Biden Administration Caught in Aid Dilemma: Ukraine vs IsraelSputnik Indiahttps://sputniknews.in \u203a News",
+        "content": "Israel was attacked by Hamas. The conflict in Ukraine has not been resolved. The Biden administration must now make complex decisions\u00a0...",
+        "size": [
+          100,
+          100
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alquds.co.uk/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-100-%D8%AC%D8%AB%D8%A9-%D9%81%D9%8A-%D8%AA%D8%AC%D9%85%D8%B9-%D8%B3%D9%83%D8%A7%D9%86%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A/",
+        "title": "\u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 100 \u062c\u062b\u0629 \u0641\u064a \u062a\u062c\u0645\u0639 \u0627\u0633\u062a\u064a\u0637\u0627\u0646\u064a \u0642\u0631\u0628 \u0627\u0644\u062d\u062f\u0648\u062f \u0645\u0639 \u0642\u0637\u0627\u0639 \u063a\u0632\u0629\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0639\u0631\u0628\u064ahttps://www.alquds.co.uk \u203a \u0627\u0644\u0639\u062b\u0648\u0631-...",
+        "content": "\u0627\u0644\u0642\u062f\u0633: \u0639\u062b\u0631\u062a \u0645\u0646\u0638\u0645\u0629 \u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0639\u0644\u0649 100 \u062c\u062b\u0629 \u0641\u064a \u062a\u062c\u0645\u0639 \u0628\u0626\u064a\u0631\u064a \u0627\u0644\u0627\u0633\u062a\u064a\u0637\u0627\u0646\u064a \u0642\u0631\u0628 \u0627\u0644\u062d\u062f\u0648\u062f \u0645\u0639 \u0642\u0637\u0627\u0639 \u063a\u0632\u0629 \u0642\u0636\u0648\u0627 \u0628\u0646\u064a\u0631\u0627\u0646 \u0645\u0633\u0644\u062d\u064a \u062d\u0645\u0627\u0633 \u0627\u0644\u062a\u064a \u0634\u0646\u062a \u0627\u0644\u0633\u0628\u062a \u0647\u062c\u0648\u0645\u0627 \u0645\u0628\u0627\u063a\u062a\u0627\u00a0...",
+        "size": [
+          296,
+          178
+        ],
+        "date": "2023:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lunion.fr/id529084/article/2023-10-11/les-syndicats-de-retour-dans-la-rue-pour-les-salaires",
+        "title": "Les syndicats de retour dans la rue pour les salairesJournal L'Unionhttps://www.lunion.fr \u203a article \u203a les-...",
+        "content": "",
+        "size": [
+          606,
+          341
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lunion.fr/id529084/article/2023-10-11/les-syndicats-de-retour-dans-la-rue-pour-les-salaires",
+        "title": "Les syndicats de retour dans la rue pour les salairesJournal L'Unionhttps://www.lunion.fr \u203a article \u203a les-...",
+        "content": "",
+        "size": [
+          606,
+          341
+        ],
+        "date": "2023:10:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "da",
+        "link": "https://politiken.dk/udland/art9584485/Topm%C3%B8de-%C3%A5bner-med-m%C3%A5l-om-fredsk%C3%B8replan-men-Israel-er-ikke-med",
+        "title": "Topm\u00f8de \u00e5bner med m\u00e5l om fredsk\u00f8replan - men Israel er ...Politikenhttps://politiken.dk \u203a udland \u203a art9584485 \u203a Topm\u00f8de-\u00e5...",
+        "content": "Israel har siden lovet at sl\u00e5 meget h\u00e5rdt ned p\u00e5 Hamas. Bombardementer af Gaza har f\u00f8rt til omfattende \u00f8del\u00e6ggelser. If\u00f8lge det Hamas\u00a0...",
+        "size": [
+          960,
+          540
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.ilkkapohjalainen.fi/ulkomaat/israel-sanoo-kiihdyttavansa-iskujaan-gazaan",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan | Ilkka-PohjalainenIlkka-Pohjalainenhttps://www.ilkkapohjalainen.fi \u203a ... \u203a Ulkomaat",
+        "content": "H\u00e4n sanoi, ett\u00e4 ensimm\u00e4iset 20 rekkaa ovat testi avun jakamisen j\u00e4rjest\u00e4miseksi ilman, ett\u00e4 \u00e4\u00e4rij\u00e4rjest\u00f6 Hamas hy\u00f6tyy siit\u00e4. Biden varoitti,\u00a0...",
+        "size": [
+          979,
+          653
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.forssanlehti.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan - Forssan LehtiForssan Lehtihttps://www.forssanlehti.fi \u203a uutissu...",
+        "content": "AFP:n mukaan Israel on huolissaan siit\u00e4, ett\u00e4 Hamas k\u00e4ytt\u00e4isi Gazaan viety\u00e4 polttoainetta r\u00e4j\u00e4hdysten tai aseiden valmistamiseen. Kommentoi\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.latribune.ca/monde/2023/10/21/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-URFQOVKC4NBJ3C7ZBDIZIJFSDE/",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...latribune.cahttps://www.latribune.ca \u203a monde",
+        "content": "... Isra\u00ebl pendant des jours, apr\u00e8s Des hommes arm\u00e9s du Hamas ont attaqu\u00e9 des communaut\u00e9s dans le sud d'Isra\u00ebl le 7 octobre. (JALAA MAREY/AFP)\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lequotidien.com/monde/2023/10/21/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-URFQOVKC4NBJ3C7ZBDIZIJFSDE/",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...Le Quotidienhttps://www.lequotidien.com \u203a monde",
+        "content": "... Isra\u00ebl pendant des jours, apr\u00e8s Des hommes arm\u00e9s du Hamas ont attaqu\u00e9 des communaut\u00e9s dans le sud d'Isra\u00ebl le 7 octobre. (JALAA MAREY/AFP)\u00a0...",
+        "size": [
+          4999,
+          3333
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.ita-savo.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan - It\u00e4-SavoIt\u00e4-Savohttps://www.ita-savo.fi \u203a uutissuoma...",
+        "content": "AFP:n mukaan Israel on huolissaan siit\u00e4, ett\u00e4 Hamas k\u00e4ytt\u00e4isi Gazaan viety\u00e4 polttoainetta r\u00e4j\u00e4hdysten tai aseiden valmistamiseen. Kommentoi\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://vantbefinfo.com/gaza-lonu-porte-le-nombre-de-personnes-deplacees-a-14-million-soit-pres-des-deux-tiers-de-la-population/",
+        "title": "Gaza: L'ONU porte le nombre de personnes d\u00e9plac\u00e9es \u00e0 1,4 ...Vant B\u00e8f Info (VBI)https://vantbefinfo.com \u203a gaza-lonu...",
+        "content": "Gaza , le 21 octobre 2023.- Dans son rapport quotidien sur la situation en Isra\u00ebl et dans les territoires palestiniens depuis le d\u00e9clenchement\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lesoleil.com/monde/2023/10/21/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-URFQOVKC4NBJ3C7ZBDIZIJFSDE/",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...Le Soleilhttps://www.lesoleil.com \u203a monde",
+        "content": "... Isra\u00ebl pendant des jours, apr\u00e8s Des hommes arm\u00e9s du Hamas ont attaqu\u00e9 des communaut\u00e9s dans le sud d'Isra\u00ebl le 7 octobre. (JALAA MAREY/AFP)\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.lansi-uusimaa.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan - L\u00e4nsi-UusimaaL\u00e4nsi-Uusimaahttps://www.lansi-uusimaa.fi \u203a uutis...",
+        "content": "H\u00e4n sanoi, ett\u00e4 ensimm\u00e4iset 20 rekkaa ovat testi avun jakamisen j\u00e4rjest\u00e4miseksi ilman, ett\u00e4 \u00e4\u00e4rij\u00e4rjest\u00f6 Hamas hy\u00f6tyy siit\u00e4. Biden varoitti,\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.itahame.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan - It\u00e4-H\u00e4meIt\u00e4-H\u00e4mehttps://www.itahame.fi \u203a uutissuoma...",
+        "content": "AFP:n mukaan Israel on huolissaan siit\u00e4, ett\u00e4 Hamas k\u00e4ytt\u00e4isi Gazaan viety\u00e4 polttoainetta r\u00e4j\u00e4hdysten tai aseiden valmistamiseen. Kommentoi\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.iisalmensanomat.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan GazaanIisalmen Sanomathttps://www.iisalmensanomat.fi \u203a uu...",
+        "content": "Biden varoitti, ett\u00e4 jos Gazaa hallitseva Hamas ei anna avustusten menn\u00e4 l\u00e4pi tai takavarikoi ne, avustukset loppuvat. Humanitaarista apua on\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.rtl.be/actu/monde/international/israel-veut-augmenter-les-frappes-sur-gaza-des-samedi/2023-10-21/article/600667",
+        "title": "Isra\u00ebl veut \"augmenter les frappes\" sur Gaza d\u00e8s samediRTL infohttps://www.rtl.be \u203a monde \u203a article",
+        "content": "Plus de 1.400 personnes ont \u00e9t\u00e9 tu\u00e9es en Isra\u00ebl par des combattants du Hamas depuis le 7 octobre, en majorit\u00e9 des civils fauch\u00e9s par balles\u00a0...",
+        "size": [
+          1004,
+          669
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.lansi-savo.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan - L\u00e4nsi-SavoL\u00e4nsi-Savohttps://www.lansi-savo.fi \u203a uutissuo...",
+        "content": "Biden varoitti, ett\u00e4 jos Gazaa hallitseva Hamas ei anna avustusten menn\u00e4 l\u00e4pi tai takavarikoi ne, avustukset loppuvat. Humanitaarista apua on\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://de.nachrichten.yahoo.com/sport/israel-will-luftangriffe-gazastreifen-ab-180626778.html",
+        "title": "Israel will Luftangriffe auf Gazastreifen ab sofort verst\u00e4rkenYahoo Nachrichtenhttps://de.nachrichten.yahoo.com \u203a ...",
+        "content": "Die Luftangriffe auf das Pal\u00e4stinensergebiet sind Israels Reaktion auf den am 7. Oktober erfolgten Gro\u00dfangriff der Hamas, die den Gazastreifen\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.hameensanomat.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan GazaanH\u00e4meen Sanomathttps://www.hameensanomat.fi \u203a uu...",
+        "content": "H\u00e4n sanoi, ett\u00e4 ensimm\u00e4iset 20 rekkaa ovat testi avun jakamisen j\u00e4rjest\u00e4miseksi ilman, ett\u00e4 \u00e4\u00e4rij\u00e4rjest\u00f6 Hamas hy\u00f6tyy siit\u00e4. Biden varoitti,\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldiariodechihuahua.mx/internacional/israel-intensifica-ataques-en-gaza-antes-de-incursion-20231021-2111913.html",
+        "title": "Israel intensifica ataques en Gaza antes de incursi\u00f3nEl Diario de Chihuahuahttps://www.eldiariodechihuahua.mx \u203a ...",
+        "content": "El portavoz afirm\u00f3 que Hamas lo hace a prop\u00f3sito para que el Ej\u00e9rcito israel\u00ed destruya edificios. Los bombardeos de represalia lanzados por\u00a0...",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.savonsanomat.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan - Savon SanomatSavon Sanomathttps://www.savonsanomat.fi \u203a uutis...",
+        "content": "Biden varoitti, ett\u00e4 jos Gazaa hallitseva Hamas ei anna avustusten menn\u00e4 l\u00e4pi tai takavarikoi ne, avustukset loppuvat. Humanitaarista apua on\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lenouvelliste.ca/monde/2023/10/21/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-URFQOVKC4NBJ3C7ZBDIZIJFSDE/",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...Le Nouvellistehttps://www.lenouvelliste.ca \u203a monde",
+        "content": "... Isra\u00ebl pendant des jours, apr\u00e8s Des hommes arm\u00e9s du Hamas ont attaqu\u00e9 des communaut\u00e9s dans le sud d'Isra\u00ebl le 7 octobre. (JALAA MAREY/AFP)\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://mondo.me/info/Svijet/a1200103/Broj-zrtava-u-Palestini.html",
+        "title": "Broj \u017ertava u Palestini | Info | Svijet - Mondo.meMondo Crna Gorahttps://mondo.me \u203a Info \u203a Svijet",
+        "content": "Ministarstvo je saop\u0161tilo da je me\u0111u poginulima u izraelskim napadima 1.756 djece. Borbe su po\u010dele kada je Hamas 7. oktobra pokrenuo vi\u0161e\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.rtl.be/actu/monde/international/israel-veut-augmenter-les-frappes-sur-gaza-des-samedi/2023-10-21/article/600667",
+        "title": "Isra\u00ebl veut \"augmenter les frappes\" sur Gaza d\u00e8s samediRTL infohttps://www.rtl.be \u203a monde \u203a article",
+        "content": "Plus de 1.400 personnes ont \u00e9t\u00e9 tu\u00e9es en Isra\u00ebl par des combattants du Hamas depuis le 7 octobre, en majorit\u00e9 des civils fauch\u00e9s par balles\u00a0...",
+        "size": [
+          1004,
+          669
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://nepszava.hu/3212943_gaza-segelyszallitmanyok-izrael-egyiptom",
+        "title": "Meg\u00e9rkeztek G\u00e1z\u00e1ba az els\u0151 seg\u00e9lysz\u00e1ll\u00edtm\u00e1nyok - N\u00e9pszavaN\u00e9pszavahttps://nepszava.hu \u203a 3212943_gaz...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://wafa.ps/Pages/Details/82384",
+        "title": "\u0631\u0633\u0627\u0626\u0644 \u0645\u0646 \u062a\u062d\u062a \u0627\u0644\u0642\u0635\u0641 \u0641\u064a \u063a\u0632\u0629: \"\u0645\u0627 \u0632\u0644\u0646\u0627 \u0639\u0644\u0649 \u0642\u064a\u062f \u0627\u0644\u062d\u064a\u0627\u0629\" - \u0648\u0643\u0627\u0644\u0629 \u0648\u0641\u0627\u0648\u0641\u0627https://wafa.ps \u203a Pages \u203a Details",
+        "content": "\u0635\u0648\u0631\u0629 \u062c\u0648\u064a\u0629 \u0644\u0623\u0628\u0631\u0627\u062c \u0633\u0643\u0646\u064a\u0629 \u0648\u0645\u0646\u0627\u0632\u0644 \u062f\u0645\u0631\u062a \u062c\u0631\u0627\u0621 \u0642\u0635\u0641 \u0637\u064a\u0631\u0627\u0646 \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0627\u0644\u0645\u062a\u0648\u0627\u0635\u0644 \u0639\u0644\u0649 \u0642\u0637\u0627\u0639 \u063a\u0632\u0629 (\u062a\u0635\u0648\u064a\u0631: \u0623 \u0641 \u0628). \u063a\u0632\u0629 21-10-2023 \u0648\u0641\u0627- \u0623\u0635\u0628\u062d\u062a \u0627\u0644\u0631\u0633\u0627\u0626\u0644\u00a0...",
+        "size": [
+          700,
+          466
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.wafa.ps/Pages/Details/82384",
+        "title": "\u0631\u0633\u0627\u0626\u0644 \u0645\u0646 \u062a\u062d\u062a \u0627\u0644\u0642\u0635\u0641 \u0641\u064a \u063a\u0632\u0629: \"\u0645\u0627 \u0632\u0644\u0646\u0627 \u0639\u0644\u0649 \u0642\u064a\u062f \u0627\u0644\u062d\u064a\u0627\u0629\" - \u0648\u0641\u0627\u0648\u0641\u0627https://www.wafa.ps \u203a Pages \u203a Details",
+        "content": "\u0635\u0648\u0631\u0629 \u062c\u0648\u064a\u0629 \u0644\u0623\u0628\u0631\u0627\u062c \u0633\u0643\u0646\u064a\u0629 \u0648\u0645\u0646\u0627\u0632\u0644 \u062f\u0645\u0631\u062a \u062c\u0631\u0627\u0621 \u0642\u0635\u0641 \u0637\u064a\u0631\u0627\u0646 \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0627\u0644\u0645\u062a\u0648\u0627\u0635\u0644 \u0639\u0644\u0649 \u0642\u0637\u0627\u0639 \u063a\u0632\u0629 (\u062a\u0635\u0648\u064a\u0631: \u0623 \u0641 \u0628). \u063a\u0632\u0629 21-10-2023 \u0648\u0641\u0627- \u0623\u0635\u0628\u062d\u062a \u0627\u0644\u0631\u0633\u0627\u0626\u0644\u00a0...",
+        "size": [
+          700,
+          466
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://laveganews.net/la-onu-eleva-a-1-4-millones-los-desplazados-en-gaza-casi-dos-tercios-de-la-poblacion/",
+        "title": "La ONU eleva a 1.4 millones los desplazados en Gaza, casi ...La Vega Newshttps://laveganews.net \u203a la-onu-elev...",
+        "content": "Los fallecidos en Israel se mantienen en 1,400, con 4,629 heridos, casi todos en los ataques terroristas del 7 de octubre, se\u00f1ala el conteo\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://time.rs/c/65b877cb2b/tata-ako-umrem-da-li-cu-ici-u-raj-ili-pakao-potresni-prizori-i-ispovesti-palestinaca-zarobljenih-u-gazi-nema-struje-nema-zivota-beda.html",
+        "title": "\"TATA, AKO UMREM, DA LI \u0106U I\u0106I U RAJ ILI PAKAO ... - TIME.rsTIME.rshttps://time.rs \u203a tata-ako-umrem-da-...",
+        "content": "\"IRAN PODR\u017dAVA HAMAS, IMAMO DOKAZE\" Izraelska vojska naglasila samo jedno! ALO \u00b7 EVROPA U STRAHU OD TERORIZMA: Stru\u010dnjaci objasnili koja dr\u017eava\u00a0...",
+        "size": [
+          400,
+          300
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://laveganews.net/la-onu-eleva-a-1-4-millones-los-desplazados-en-gaza-casi-dos-tercios-de-la-poblacion/",
+        "title": "La ONU eleva a 1.4 millones los desplazados en Gaza, casi ...La Vega Newshttps://laveganews.net \u203a la-onu-elev...",
+        "content": "Los fallecidos en Israel se mantienen en 1,400, con 4,629 heridos, casi todos en los ataques terroristas del 7 de octubre, se\u00f1ala el conteo\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://mondo.rs/Info/Svet/a1844135/U-izraelskim-napadima-na-pojas-Gaze-ubijeno-je-4.385-ljudi.html",
+        "title": "U izraelskim napadima na pojas Gaze ubijeno je 4.385 ljudiMondohttps://mondo.rs \u203a Info \u203a Svet",
+        "content": "Borbe su po\u010dele kada je Hamas 7. oktobra pokrenuo vi\u0161e iznenadnih napada koji su uklju\u010divali brojne raketne napade i upade u Izrael preko kopna,\u00a0...",
+        "size": [
+          1200,
+          900
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://notisurbani.com/index.php/18-noticia-principal/33934-la-onu-eleva-a-1-4-millones-los-desplazados-en-gaza-casi-dos-tercios-de-la-poblacion",
+        "title": "La ONU eleva a 1.4 millones los desplazados en Gaza, casi ...Notisur Banihttps://notisurbani.com \u203a index.php",
+        "content": "Los fallecidos en Israel se mantienen en 1,400, con 4,629 heridos, casi todos en los ataques terroristas del 7 de octubre, se\u00f1ala el conteo\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://istoe.com.br/israel-intensifica-bombardeios-em-gaza-antes-de-incursao-terrestre-2/",
+        "title": "Israel intensifica bombardeios em Gaza antes de incurs\u00e3o ...ISTO\u00c9 Independentehttps://istoe.com.br \u203a israel-intensifi...",
+        "content": "Ap\u00f3s o ataque do Hamas em 7 de outubro, Israel prometeu \u201caniquilar\u201d o movimento islamista palestino. Assine nossa newsletter: Inscreva-se nas\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://listindiario.com/las-mundiales/20231021/onu-eleva-1-4-millones-desplazados-gaza-dos-tercios-poblacion_778289.html",
+        "title": "\"La ONU eleva a 1.4 millones los desplazados en Gaza, casi ...List\u00edn Diariohttps://listindiario.com \u203a onu-eleva-...",
+        "content": "... Israel y el grupo Ham\u00e1sAris Messinis/AFP. Facebook Twitter Whatsapp Comentarios. Avatar del Agencia EFE Agencia EFEGinebra, Suiza. Actualizada\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://press24.net/news/27978467/beschuss-aus-dem-libanon-israels-armee-spricht-von-getroffenen-terrorzellen",
+        "title": "Beschuss aus dem Libanon \u2013 Israels Armee spricht von ...Press24.nethttps://press24.net \u203a news \u203a beschus...",
+        "content": "Die pal\u00e4stinensische Terrororganisation Hamas hat Israel massiv angegriffen, Israel antwortet mit einer Gegenoffensive \u2013 der Newsblog. Nach\u00a0...",
+        "size": [
+          1440,
+          810
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.rtl.be/actu/monde/international/israel-veut-augmenter-les-frappes-sur-gaza-des-aujourdhui/2023-10-21/article/600658",
+        "title": "Isra\u00ebl veut \"augmenter les frappes\" sur Gaza d\u00e8s aujourd'huiRTL infohttps://www.rtl.be \u203a monde \u203a article",
+        "content": "... Gaza, en vue des pr\u00e9parations de la prochaine phase de son offensive sur le territoire palestinien contr\u00f4l\u00e9 par le Hamas.",
+        "size": [
+          1004,
+          669
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://dnevnik.hr/vijesti/svijet/rat-izraela-i-hamasa-se-nastavlja-dok-se-egipat-priprema-za-mirovni-samit---808528.html",
+        "title": "FOTO/VIDEO Jezivo svjedo\u010danstvo kirurga iz Gaze - DnevnikDnevnik.hrhttps://dnevnik.hr \u203a Vijesti \u203a Svijet",
+        "content": "... Hamas\", rprenosi Times of Israel. Rekao je da \u0107e se u drugoj fazi nastaviti s borbama, ali manjim intenzitetom dok trupe budu radile na\u00a0...",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://lomazoma.com/tritt-die-naechste-phase-ein-israel-will-die-luftangriffe-im-gazastreifen-verstaerken/",
+        "title": "Israel will die Luftangriffe im Gazastreifen verst\u00e4rkenlomazoma.comhttps://lomazoma.com \u203a tritt-die-nae...",
+        "content": "Seit dem Terroranschlag der Hamas vor zwei Wochen hat die israelische Armee bereits zahlreiche Ziele im Gazastreifen bombardiert. Armeechef\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lenouvelliste.ca/monde/2023/10/21/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-URFQOVKC4NBJ3C7ZBDIZIJFSDE/",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...Le Nouvellistehttps://www.lenouvelliste.ca \u203a monde",
+        "content": "... Isra\u00ebl pendant des jours, apr\u00e8s Des hommes arm\u00e9s du Hamas ont attaqu\u00e9 des communaut\u00e9s dans le sud d'Isra\u00ebl le 7 octobre. (JALAA MAREY/AFP)\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lequotidien.com/monde/2023/10/21/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-URFQOVKC4NBJ3C7ZBDIZIJFSDE/",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...Le Quotidienhttps://www.lequotidien.com \u203a monde",
+        "content": "... Isra\u00ebl pendant des jours, apr\u00e8s Des hommes arm\u00e9s du Hamas ont attaqu\u00e9 des communaut\u00e9s dans le sud d'Isra\u00ebl le 7 octobre. (JALAA MAREY/AFP)\u00a0...",
+        "size": [
+          4999,
+          3333
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://diario.mx/internacional/israel-intensifica-ataques-en-gaza-antes-de-incursion-20231021-2111948.html",
+        "title": "Israel intensifica ataques en Gaza antes de incursi\u00f3nEl Diario de Ju\u00e1rezhttps://diario.mx \u203a internacional \u203a is...",
+        "content": "Hagari afirm\u00f3 que al menos 550 cohetes lanzados por Hamas y la Yihad isl\u00e1mica han ca\u00eddo en Gaza desde el inicio del conflicto.",
+        "size": [
+          980,
+          617
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hu",
+        "link": "https://nepszava.hu/3212945_orban-viktor-atfogo-politikai-beszed-svajc",
+        "title": "\u00c1tfog\u00f3 politikai besz\u00e9dre k\u00e9sz\u00fcl Orb\u00e1n Viktor, nem ... - N\u00e9pszavaN\u00e9pszavahttps://nepszava.hu \u203a 3212945_orb...",
+        "content": "",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.sss.fi/2023/10/israel-sanoo-kiihdyttavansa-iskujaan-gazaan/",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan | SSS.fiSalon Seudun Sanomathttps://www.sss.fi \u203a 2023/10 \u203a israel...",
+        "content": "Biden varoitti, ett\u00e4 jos Gazaa hallitseva Hamas ei anna avustusten menn\u00e4 l\u00e4pi tai takavarikoi ne, avustukset loppuvat. Humanitaarista apua on\u00a0...",
+        "size": [
+          1000,
+          667
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://noticias.r7.com/internacional/israel-confirma-que-hamas-mantem-210-israelenses-refens-na-faixa-de-gaza-21102023",
+        "title": "Israel confirma que Hamas mant\u00e9m 210 israelenses ref\u00e9ns na ...R7.comhttps://noticias.r7.com \u203a internacional",
+        "content": "Israel confirma que Hamas mant\u00e9m 210 israelenses ref\u00e9ns na Faixa de Gaza \u00b7 'Terr\u00edvel': Hamas torturou v\u00edtimas antes de matar e queimou fam\u00edlias\u00a0...",
+        "size": [
+          221,
+          126
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://jstribune.com/frantzman-a-second-week-of-war/",
+        "title": "A Second Week of War: Israel's Ground Forces Wait on Two ...The Jerusalem Strategic Tribunehttps://jstribune.com \u203a Essays",
+        "content": "Essays \u2013 The second week of the war between Hamas and Israel began on October 15 with expectations for a ground incursion into Gaza,\u00a0...",
+        "size": [
+          1500,
+          812
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.japantimes.co.jp/news/2023/10/21/world/antonio-guterres-gaza-ceasefire/",
+        "title": "At Cairo summit, U.N. chief urges cease-fire to end Gaza ...The Japan Timeshttps://www.japantimes.co.jp \u203a news \u203a 2023/10/21 \u203a world",
+        "content": "U.N. chief Antonio Guterres pleaded Saturday for a \"humanitarian cease-fire\" in the war between Israel and Hamas militants that has\u00a0...",
+        "size": [
+          1000,
+          666
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.ksml.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan GazaanKeskisuomalainenhttps://www.ksml.fi \u203a uutissuomalai...",
+        "content": "Biden varoitti, ett\u00e4 jos Gazaa hallitseva Hamas ei anna avustusten menn\u00e4 l\u00e4pi tai takavarikoi ne, avustukset loppuvat. Humanitaarista apua on\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lorientlejour.com/article/1354213/plusieurs-rassemblements-de-soutien-aux-palestiniens-dont-plus-de-1000-personnes-a-lyon.html",
+        "title": "Plusieurs rassemblements de soutien aux Palestiniens, dont ...L'Orient-Le Jourhttps://www.lorientlejour.com \u203a plu...",
+        "content": "Depuis le 7 octobre, plus de 1.400 personnes ont \u00e9t\u00e9 tu\u00e9es en Isra\u00ebl par les hommes du mouvement islamiste palestinien Hamas, en majorit\u00e9 des\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://net25.com/news/israel-vows-to-step-up-gaza-strikes-before-ground-invasion",
+        "title": "ISRAEL VOWS TO STEP UP GAZA STRIKES BEFORE ...NET25https://net25.com \u203a news \u203a israel-vows-to-step-up-gaz...",
+        "content": "Rafah, Palestinian Territories | Israel's military said Saturday it would intensify strikes on Hamas-controlled Gaza ahead of a planned\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.telegraph.co.uk/world-news/2023/10/21/israel-gaza-latest-news-updates-hamas-palestine-day-15-live/",
+        "title": "Israel to intensify strikes on Hamas ahead of Gaza invasionThe Telegraphhttps://www.telegraph.co.uk \u203a world-news \u203a 2023/10/21",
+        "content": "Key moments ... Israel will step up its strikes on Gaza to increase pressure on Hamas ahead of an expected ground operation, a military spokesman\u00a0...",
+        "size": [
+          2500,
+          1563
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.kymensanomat.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan - Kymen SanomatKymen Sanomathttps://www.kymensanomat.fi \u203a uuti...",
+        "content": "H\u00e4n sanoi, ett\u00e4 ensimm\u00e4iset 20 rekkaa ovat testi avun jakamisen j\u00e4rjest\u00e4miseksi ilman, ett\u00e4 \u00e4\u00e4rij\u00e4rjest\u00f6 Hamas hy\u00f6tyy siit\u00e4. Biden varoitti,\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.reforma.com/israel-intensifica-ataques-en-gaza-antes-de-incursion/ar2696936",
+        "title": "Israel intensifica ataques en Gaza antes de incursi\u00f3n - ReformaReformahttps://www.reforma.com \u203a israel-in...",
+        "content": "Hagari afirm\u00f3 que al menos 550 cohetes lanzados por Hamas y la Yihad isl\u00e1mica han ca\u00eddo en Gaza desde el inicio del conflicto. CON INFORMACI\u00d3N\u00a0...",
+        "size": [
+          960,
+          640
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://noticias.r7.com/internacional/dois-grandes-ataques-aereos-atingem-a-faixa-de-gaza-depois-de-entrega-de-ajuda-humanitaria-21102023",
+        "title": "Dois grandes ataques a\u00e9reos atingem a Faixa de Gaza ...R7.comhttps://noticias.r7.com \u203a internacional",
+        "content": "A guerra entre Israel e os terroristas do Hamas, desencadeada no \u00faltimo dia 7 de outubro, chega ao d\u00e9cimo quarto dia com um saldo de 5.785\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.em.com.br/app/noticia/internacional/2023/10/21/interna_internacional,1579948/brasileira-ex-nora-de-um-dos-fundadores-do-hamas-quer-permanecer-em-gaza.shtml",
+        "title": "Brasileira ex-nora de um dos fundadores do Hamas quer ...Estado de Minashttps://www.em.com.br \u203a 2023/10/21",
+        "content": "V\u00edtima de viol\u00eancia dom\u00e9stica, separou-se no ano passado, mas n\u00e3o quer sair do territ\u00f3rio palestino sob guerra com Israel. O ex-sogro morreu no\u00a0...",
+        "size": [
+          600,
+          315
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.cartacapital.com.br/mundo/hamas-divulga-video-da-libertacao-de-refens-americanas-em-gaza-assista/",
+        "title": "Hamas divulga v\u00eddeo da liberta\u00e7\u00e3o de ref\u00e9ns americanas em ...CartaCapitalhttps://www.cartacapital.com.br \u203a h...",
+        "content": "... Israel. Antes de chegarem ao territorio israelense, Judith Raanan e ... Tags: Hamas, Israel, Oriente M\u00e9dio, Palestina, Junte se ao grupo de\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.stern.de/news/israel-will-luftangriffe-auf-gazastreifen-ab-sofort-verstaerken-33933864.html",
+        "title": "Israel will Luftangriffe auf Gazastreifen ab sofort verst\u00e4rkenSTERN.dehttps://www.stern.de \u203a news \u203a israel...",
+        "content": "Zugleich bereitet die israelische Armee eine Bodenoffensive vor. Die Hamas hatte am 7. Oktober einen Gro\u00dfangriff auf Israel gestartet und dabei\u00a0...",
+        "size": [
+          1440,
+          1081
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elpais.com/internacional/2023-10-21/las-imagenes-de-la-guerra-entre-israel-y-gaza-del-211023.html",
+        "title": "Las im\u00e1genes de la guerra entre Israel y Gaza del 21/10/23 ...El Pa\u00edshttps://elpais.com \u203a Internacional",
+        "content": "Los camiones de ayuda llegan a una instalaci\u00f3n de la ONU, mientras contin\u00faa el conflicto entre Israel y el grupo islamista palestino Ham\u00e1s.",
+        "size": [
+          414,
+          276
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.ess.fi/uutissuomalainen/6297759",
+        "title": "Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan GazaanEtel\u00e4-Suomen Sanomathttps://www.ess.fi \u203a uutissuomalainen",
+        "content": "Biden varoitti, ett\u00e4 jos Gazaa hallitseva Hamas ei anna avustusten menn\u00e4 l\u00e4pi tai takavarikoi ne, avustukset loppuvat. Humanitaarista apua on\u00a0...",
+        "size": [
+          1440,
+          960
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://de.finance.yahoo.com/nachrichten/israel-will-luftangriffe-gazastreifen-ab-180626778.html",
+        "title": "Israel will Luftangriffe auf Gazastreifen ab sofort verst\u00e4rkenYahoo Finanzenhttps://de.finance.yahoo.com \u203a israe...",
+        "content": "Die Luftangriffe auf das Pal\u00e4stinensergebiet sind Israels Reaktion auf den am 7. Oktober erfolgten Gro\u00dfangriff der Hamas, die den Gazastreifen\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://de.nachrichten.yahoo.com/israel-will-luftangriffe-gazastreifen-ab-180626778.html",
+        "title": "Israel will Luftangriffe auf Gazastreifen ab sofort verst\u00e4rkenYahoo Nachrichtenhttps://de.nachrichten.yahoo.com \u203a ...",
+        "content": "Die Hamas hatte am 7. Oktober einen Gro\u00dfangriff auf Israel gestartet und dabei etwa 1400 Menschen get\u00f6tet sowie rund 200 Menschen in den\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.irishtimes.com/world/middle-east/2023/10/21/israel-hamas-war-20-aid-trucks-reach-gaza-after-overnight-bombardment-kills-dozens/",
+        "title": "Israel-Hamas war: 20 aid trucks reach Gaza after ...The Irish Timeshttps://www.irishtimes.com \u203a middle-east \u203a 2023/10/21",
+        "content": "",
+        "size": [
+          4000,
+          2668
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://kazzylens.com/israel-to-step-up-gaza-bombardment-hours-after-relief-convoy-enters-104813",
+        "title": "Israel to step up Gaza bombardment hours after relief convoy ...Kazzylens Dailyhttps://kazzylens.com \u203a International",
+        "content": "RAFAH, Oct 22 \u2014 The Israeli military announced it was stepping up its bombardment of Hamas-controlled Gaza Saturday just...",
+        "size": [
+          800,
+          532
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.varmatin.com/conflits/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-880857",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...Var-Matinhttps://www.varmatin.com \u203a conflits",
+        "content": "Depuis l'attaque du Hamas le 7 octobre sur son territoire, Isra\u00ebl s'est jur\u00e9 \"d'an\u00e9antir\" le mouvement islamiste palestinien, class\u00e9\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.courrier-picard.fr/id459783/article/2023-10-22/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...La une - Courrier picardhttps://www.courrier-picard.fr \u203a isra...",
+        "content": "Depuis l'attaque du Hamas le 7 octobre sur son territoire, Isra\u00ebl s'est jur\u00e9 \"d'an\u00e9antir\" le mouvement islamiste palestinien.",
+        "size": [
+          1139,
+          759
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ms",
+        "link": "https://www.sinarharian.com.my/article/630748/berita/cetusan/israel-dalam-dasar-luar-barat",
+        "title": "Israel dalam dasar luar Barat - Sinar HarianSinar Harianhttps://www.sinarharian.com.my \u203a i...",
+        "content": "ISRAEL tidak ditubuhkan sebagai sebuah negara bangsa (nation state) tanpa sebab oleh kuasa-kuasa Barat pada 14 Mei 1948.",
+        "size": [
+          1000,
+          670
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.courrier-picard.fr/id459761/article/2023-10-22/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...La une - Courrier picardhttps://www.courrier-picard.fr \u203a isra...",
+        "content": "Depuis l'attaque du Hamas le 7 octobre sur son territoire, Isra\u00ebl s'est jur\u00e9 d'an\u00e9antir le mouvement islamiste, au pouvoir dans la bande de Gaza\u00a0...",
+        "size": [
+          1139,
+          759
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://www.prothomalo.com/business/world-business/lowvzt4erg",
+        "title": "\u0995\u09c7\u09ac\u09b2 \u09af\u09c1\u09a6\u09cd\u09a7\u09be\u09b8\u09cd\u09a4\u09cd\u09b0 \u09a8\u09af\u09bc, \u09b9\u09be\u09ae\u09be\u09b8 \u09a0\u09c7\u0995\u09be\u09a4\u09c7 \u0986\u09b0\u09cd\u09a5\u09bf\u0995 \u0985\u09b8\u09cd\u09a4\u09cd\u09b0\u0993 \u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u0997 \u0995\u09b0\u099b\u09c7 ...\u09aa\u09cd\u09b0\u09a5\u09ae \u0986\u09b2\u09cbhttps://www.prothomalo.com \u203a ... \u203a \u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af",
+        "content": "",
+        "size": [
+          977,
+          652
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "iw",
+        "link": "https://www.calcalist.co.il/market/article/sj8pulwzp",
+        "title": "\"\u05d4\u05e4\u05d2\u05d9\u05e2\u05d4 \u05de\u05d4\u05de\u05dc\u05d7\u05de\u05d4 \u05e2\u05d3\u05d9\u05d9\u05df \u05dc\u05d0 \u05de\u05d2\u05d5\u05dc\u05de\u05ea \u05d1\u05e9\u05d5\u05e7 \u05d4\u05d7\u05d5\u05d1 \u05d4\u05de\u05e7\u05d5\u05de\u05d9\" | \u05db\u05dc\u05db\u05dc\u05d9\u05e1\u05d8Calcalisthttps://www.calcalist.co.il \u203a article",
+        "content": "\u05d1\u05ea\u05d5\u05dd \u05e9\u05d1\u05d5\u05e2\u05d9\u05d9\u05dd \u05dc\u05de\u05dc\u05d7\u05de\u05d4, \u05d4\u05ea\u05d2\u05d5\u05d1\u05d4 \u05d1\u05e9\u05d5\u05e7 \u05d4\u05de\u05e0\u05d9\u05d5\u05ea \u05de\u05de\u05e9\u05d9\u05db\u05d4 \u05dc\u05d4\u05d9\u05d5\u05ea \u05de\u05ea\u05d5\u05e0\u05d4 \u05d1\u05e9\u05dc \u05e4\u05d3\u05d9\u05d5\u05e0\u05d5\u05ea \u05e0\u05de\u05d5\u05db\u05d9\u05dd \u05de\u05e6\u05d3 \u05d4\u05e6\u05d9\u05d1\u05d5\u05e8 \u05d5\u05e8\u05db\u05d9\u05e9\u05d5\u05ea \u05e9\u05dc \u05d4\u05de\u05d5\u05e1\u05d3\u05d9\u05d9\u05dd. \"\u05d0\u05dd \u05d4\u05de\u05de\u05e9\u05dc\u05d4 \u05ea\u05ea\u05de\u05e7\u05d3 \u05d1\u05e6\u05de\u05d9\u05d7\u05d4,\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "no",
+        "link": "https://www.tv2.no/nyheter/utenriks/mener-israel-har-en-umulig-oppgave-helt-urealistisk/16153187/",
+        "title": "Mener Israel har en umulig oppgave: - Helt urealistisk - TV2TV2.nohttps://www.tv2.no \u203a ... \u203a utenriks",
+        "content": "De pr\u00f8ver ogs\u00e5 \u00e5 ta ut s\u00e5 mye som mulig av Hamas sitt lederskap. Det sier Sverre Diesen, general og tidligere forsvarssjef til TV 2. Israels\u00a0...",
+        "size": [
+          375,
+          267
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.milliyet.com.tr/dunya/savas-yayilir-korkusu-7023364",
+        "title": "Bu, soyk\u0131r\u0131m de\u011filse ne? 'Sava\u015f yay\u0131l\u0131r' korkusu - MilliyetMilliyethttps://www.milliyet.com.tr \u203a dunya",
+        "content": "\u0130srail-Hamas \u00e7at\u0131\u015fmalar\u0131nda 15'inci g\u00fcn geride kal\u0131rken, \u0130srail ordusu Gazze \u015eeridi'ndeki hava sald\u0131r\u0131lar\u0131na devam ediyor. Filistin kaynaklar\u0131na\u00a0...",
+        "size": [
+          869,
+          487
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theborneopost.com/2023/10/22/israel-to-step-up-gaza-bombardment-hours-after-relief-convoy-enters/",
+        "title": "Israel to step up Gaza bombardment hours after relief convoy ...The Borneo Posthttps://www.theborneopost.com \u203a World",
+        "content": "RAFAH (Oct 22): The Israeli military announced it was stepping up its bombardment of Hamas-controlled Gaza Saturday just hours after the\u00a0...",
+        "size": [
+          800,
+          532
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rte.ie/news/post/104298768/",
+        "title": "Over 50 killed in overnight airstrikes on Gaza - Hamas - RTERaidi\u00f3 Teilif\u00eds \u00c9ireannhttps://www.rte.ie \u203a news \u203a post",
+        "content": "Israel vows to step up Gaza strikes before ground invasionIsrael's military announced intensified strikes on Hamas-controlled Gaza ahead of\u00a0...",
+        "size": [
+          521,
+          293
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.malaymail.com/news/world/2023/10/22/israel-to-step-up-gaza-bombardment-hours-after-relief-convoy-enters/97686",
+        "title": "Israel to step up Gaza bombardment hours after relief convoy ...Malay Mailhttps://www.malaymail.com \u203a world \u203a 2023/10/22 \u203a is...",
+        "content": "RAFAH, Oct 22 \u2014 The Israeli military announced it was stepping up its bombardment of Hamas-controlled Gaza Saturday just hours after the\u00a0...",
+        "size": [
+          1000,
+          666
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "no",
+        "link": "https://www.tv2.no/nyheter/utenriks/mener-israel-har-en-umulig-oppgave-helt-urealistisk/16153187/",
+        "title": "Mener Israel har en umulig oppgave: - Helt urealistisk - TV2TV2.nohttps://www.tv2.no \u203a ... \u203a utenriks",
+        "content": "De pr\u00f8ver ogs\u00e5 \u00e5 ta ut s\u00e5 mye som mulig av Hamas sitt lederskap. Det sier Sverre Diesen, general og tidligere forsvarssjef til TV 2. Israels\u00a0...",
+        "size": [
+          375,
+          267
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://storage.kuwaittimes.com/pdf/2023/oct/22/p07.pdf",
+        "title": "Arabs face reprisals in Zionist entity - Kuwait Timeskuwaittimeshttps://storage.kuwaittimes.com \u203a pdf \u203a oct",
+        "content": "The campaign comes in response to an October 7 attack that saw Hamas militants infiltrate into southern. Zionist entity by land, air and sea,\u00a0...",
+        "size": [
+          895,
+          593
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rnz.co.nz/news/world/500741/israel-gaza-conflict-all-the-latest-developments-on-22-october",
+        "title": "Israel-Gaza conflict: All the latest developments on 22 OctoberRNZhttps://www.rnz.co.nz \u203a news \u203a world \u203a israel-gaza-co...",
+        "content": "Gazans have been warned to move south out of the north of Gaza, or be seen as sympathisers to the Hamas cause. Updated Oct 22, 2023 12:39 AM.",
+        "size": [
+          1050,
+          656
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/israel-said-to-form-unit-tasked-with-killing-hamas-commandos-behind-oct-7-assault/",
+        "title": "Israel said to form unit tasked with killing Hamas commandos ...The Times of Israelhttps://www.timesofisrael.com \u203a israel-said-to-form-un...",
+        "content": "With a likely ground offensive looming, Israel has warned that every Hamas member faces death but two accused masterminds of the October 7\u00a0...",
+        "size": [
+          2037,
+          1274
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.nachrichten.at/politik/aussenpolitik/israel-weitet-kampfeinsatz-aus-usa-verlegen-waffensysteme;art391,3890702",
+        "title": "Israel weitet Kampfeinsatz aus, USA verlegen Waffensystemenachrichten.athttps://www.nachrichten.at \u203a politik",
+        "content": "Auch \u00fcber Gaza waren Rauchwolken zu sehen. Angaben der Hamas zufolge wurden bei den n\u00e4chtlichen Angriffen mehr als 30 H\u00e4user zerst\u00f6rt. Die\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tl",
+        "link": "https://net25.com/news/bayern-s-goretzka-to-miss-several-games-with-broken-hand",
+        "title": "BAYERN'S GORETZKA TO MISS SEVERAL GAMES ... - NET25NET25https://net25.com \u203a news \u203a bayern-s...",
+        "content": "ISRAEL RAIDS WEST BANK HOME OF HAMAS DEPUTY LEADER \u00b7 ASEAN COUNTRIES KINONDENA ANG GIYERA NG ISRAEL AT HAMAS \u00b7 PIPE BOMB EXPLODES NEAR ISRAELI\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.rtl.be/actu/monde/international/israel-intensifie-ses-frappes-en-preparation-dune-invasion-terrestre-nous-allons/2023-10-22/article/600711",
+        "title": "Isra\u00ebl intensifie ses frappes en pr\u00e9paration d'une invasion ...RTL infohttps://www.rtl.be \u203a monde \u203a article",
+        "content": "Selon l'arm\u00e9e isra\u00e9lienne, environ 1.500 combattants du Hamas ont \u00e9t\u00e9 tu\u00e9s dans la contre-offensive ayant permis \u00e0 Isra\u00ebl de reprendre le\u00a0...",
+        "size": [
+          1189,
+          669
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "da",
+        "link": "https://nyheder.tv2.dk/udland/2023-10-22-bror-til-formodet-dansk-gidsel-send-soldaterne-ind-i-gaza",
+        "title": "Bror til formodet dansk gidsel: Send soldaterne ind i Gaza - TV 2TV 2https://nyheder.tv2.dk \u203a udland \u203a 2...",
+        "content": "Israel b\u00f8r sende soldater ind i Gaza i et fors\u00f8g p\u00e5 at f\u00e5 de flere hundrede gidsler ud, som terrorbev\u00e6gelsen Hamas menes at have i sin varet\u00e6gt.",
+        "size": [
+          624,
+          351
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lunion.fr/id532575/article/2023-10-22/israel-intensifie-ses-frappes-sur-gaza-avant-une-invasion-terrestre",
+        "title": "Isra\u00ebl intensifie ses frappes sur Gaza avant une invasion ...Journal L'Unionhttps://www.lunion.fr \u203a article \u203a isra...",
+        "content": "Depuis l'attaque du Hamas le 7 octobre sur son territoire, Isra\u00ebl s'est jur\u00e9 d'an\u00e9antir le mouvement islamiste, au pouvoir dans la bande de\u00a0...",
+        "size": [
+          1190,
+          669
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.ertnews.gr/eidiseis/diethni/antallagi-pyron-mesa-sti-lorida-tis-gazas-to-israil-epivevaionei-apoleia-stratioti-eno-i-xamas-leei-oti-trapikan-se-fygi/",
+        "title": "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03c0\u03c5\u03c1\u03ce\u03bd \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03b7 \u039b\u03c9\u03c1\u03af\u03b4\u03b1 \u03c4\u03b7\u03c2 \u0393\u03ac\u03b6\u03b1\u03c2 - ertnews.grertnews.grhttps://www.ertnews.gr \u203a diethni \u203a a...",
+        "content": "\u2013 Hamas said its fighters destroyed two Israeli military bulldozers and a tank in an ambush.#Palestine #Hamas #Gaza #Israel #IsraelPalestineWar\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.sss.fi/2023/10/ukrainassa-ainakin-kuusi-ihmista-saanut-surmansa-ohjusiskussa-kuriiriyhtion-tiloihin/",
+        "title": "Ukrainassa ainakin kuusi ihmist\u00e4 saanut surmansa ...Salon Seudun Sanomathttps://www.sss.fi \u203a 2023/10 \u203a ukrai...",
+        "content": "... Israel on pommittanut Gazaa jo kahden viikon ajan. LEHTIKUVA/AFP. STT \u00b7 Israel sanoo kiihdytt\u00e4v\u00e4ns\u00e4 iskujaan Gazaan \u00b7 Eurooppa ei ollut\u00a0...",
+        "size": [
+          218,
+          150
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.monacomatin.mc/conflits/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-880857",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...Monaco-Matinhttps://www.monacomatin.mc \u203a isra...",
+        "content": "Depuis l'attaque du Hamas le 7 octobre sur son territoire, Isra\u00ebl s'est jur\u00e9 \"d'an\u00e9antir\" le mouvement islamiste palestinien, class\u00e9\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.lykavitos.gr/news/planet/cnn-xamas-kai-israilinos-stratos-sygkroustikan-mesa-sti-lorida-tis-gazas",
+        "title": "CNN: \u03a7\u03b1\u03bc\u03ac\u03c2 \u03ba\u03b1\u03b9 \u03b9\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03cc\u03c2 \u03c3\u03c4\u03c1\u03b1\u03c4\u03cc\u03c2 \u03c3\u03c5\u03b3\u03ba\u03c1\u03bf\u03cd\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03b7 ...Lykavitos.grhttps://www.lykavitos.gr \u203a planet",
+        "content": "... Hamas and Israeli troops clash inside Gaza - one of the first ... Israel #IsraelPalestineWar #Gazagenocide. \u2014 \u26a1NOW\u26a1 (@warinsightshq) October\u00a0...",
+        "size": [
+          970,
+          619
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.ertnews.gr/eidiseis/diethni/antallagi-pyron-mesa-sti-lorida-tis-gazas-to-israil-epivevaionei-apoleia-stratioti-eno-i-xamas-leei-oti-trapikan-se-fygi/",
+        "title": "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03c0\u03c5\u03c1\u03ce\u03bd \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03b7 \u039b\u03c9\u03c1\u03af\u03b4\u03b1 \u03c4\u03b7\u03c2 \u0393\u03ac\u03b6\u03b1\u03c2 - ertnews.grertnews.grhttps://www.ertnews.gr \u203a diethni \u203a a...",
+        "content": "\u2013 Hamas said its fighters destroyed two Israeli military bulldozers and a tank in an ambush.#Palestine #Hamas #Gaza #Israel #IsraelPalestineWar\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rte.ie/news/2023/1022/1412245-israel-hamas/",
+        "title": "As it happened: Fears war could mushroom - RTERaidi\u00f3 Teilif\u00eds \u00c9ireannhttps://www.rte.ie \u203a News \u203a News",
+        "content": "Israel's military announced intensified strikes on Hamas-controlled Gaza ahead of a planned ground invasion, as the Pentagon said today it was\u00a0...",
+        "size": [
+          521,
+          293
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://storage.kuwaittimes.com/pdf/2023/oct/22/kt.pdf",
+        "title": "Kuwait deeply affected by killing of civilians in Gazakuwaittimeshttps://storage.kuwaittimes.com \u203a pdf \u203a oct",
+        "content": "the Hamas-run health ministry. \u201cAs we gather, we are saddened by the escalating violence that Gaza is witnessing today, the price of which\u00a0...",
+        "size": [
+          895,
+          593
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.varmatin.com/conflits/israel-intensifie-ses-frappes-contre-gaza-avant-une-invasion-terrestre-880857",
+        "title": "Isra\u00ebl intensifie ses frappes contre Gaza avant une invasion ...Var-Matinhttps://www.varmatin.com \u203a conflits",
+        "content": "Depuis l'attaque du Hamas le 7 octobre sur son territoire, Isra\u00ebl s'est jur\u00e9 \"d'an\u00e9antir\" le mouvement islamiste palestinien, class\u00e9\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "el",
+        "link": "https://www.lykavitos.gr/news/planet/cnn-xamas-kai-israilinos-stratos-sygkroustikan-mesa-sti-lorida-tis-gazas",
+        "title": "CNN: \u03a7\u03b1\u03bc\u03ac\u03c2 \u03ba\u03b1\u03b9 \u03b9\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03cc\u03c2 \u03c3\u03c4\u03c1\u03b1\u03c4\u03cc\u03c2 \u03c3\u03c5\u03b3\u03ba\u03c1\u03bf\u03cd\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03b7 ...Lykavitos.grhttps://www.lykavitos.gr \u203a planet",
+        "content": "... Hamas and Israeli troops clash inside Gaza - one of the first ... Israel #IsraelPalestineWar #Gazagenocide. \u2014 \u26a1NOW\u26a1 (@warinsightshq) October\u00a0...",
+        "size": [
+          970,
+          619
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.straitstimes.com/world/middle-east/first-emergency-convoy-reaches-gaza-israel-says-it-will-intensify-strikes",
+        "title": "First emergency convoy reaches Gaza; Israel says it will ...The Straits Timeshttps://www.straitstimes.com \u203a world \u203a middle-east \u203a fi...",
+        "content": "The US welcomed the opening but echoed a warning from Israel that no aid should end up in Hamas hands. Read more at straitstimes.com.",
+        "size": [
+          860,
+          573
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rte.ie/news/2023/1022/1412235-israel-gaza-strikes/",
+        "title": "Second aid convoy enters Gaza from Egypt - UN - RTERaidi\u00f3 Teilif\u00eds \u00c9ireannhttps://www.rte.ie \u203a News \u203a News",
+        "content": "Israel imposed a total blockade and launched air strikes on Gaza in response to a deadly attack on Israeli soil by Hamas on 7 October. The\u00a0...",
+        "size": [
+          1440,
+          810
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.knowledia.com/IN/en/articles/companies-are-getting-caught-in-the-israel-hamas-war-s-crossfire-b57f6b3623f93c2cfad3013934c24dcf20874d22",
+        "title": "Companies Are Getting Caught in the Israel-Hamas War's ...Knowledia Newshttps://news.knowledia.com \u203a articles",
+        "content": "As the Israel-Hamas war stretches on \u2014 with Israeli airstrikes hitting more targets in Gaza amid calls by the U.S. and others to delay a\u00a0...",
+        "size": [
+          1800,
+          1801
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://ktromedia.com/60880/",
+        "title": "\u516c\u53f8\u9677\u5165\u4ee5\u8272\u5217\u4e0e\u54c8\u9a6c\u65af\u6218\u4e89\u7684\u4ea4\u706b\u4e4b\u4e2d - Ktromedia.comKtromedia.comhttps://ktromedia.com \u203a \u5546\u4e1a",
+        "content": "",
+        "size": [
+          1050,
+          550
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://ghall.com.ua/2023/10/23/spetssluzhby-izrailya-sozdali-tsentr-spetsoperatsij-dlya-likvidatsii-verhushki-hamas/33yt4lr-highres-e1697931740739/",
+        "title": "\u0445\u0430\u043c\u0430\u0441 - GuildHallghall.com.uahttps://ghall.com.ua \u203a 2023/10/23",
+        "content": "",
+        "size": [
+          2037,
+          1274
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.cincainews.com/news/world/2023/10/23/israeli-defence-minister-says-the-war-may-take-months-but-in-the-end-there-will-be-no-hamas/97872",
+        "title": "\u4ee5\u8272\u5217\uff1a\u5bf9\u52a0\u6c99\u5730\u9762\u653b\u52bf\u6216\u6301\u7eed3\u4e2a\u6708 - \u7cbe\u5f69\u5927\u9a6c\u7cbe\u5f69\u5927\u9a6chttps://www.cincainews.com \u203a world",
+        "content": "",
+        "size": [
+          400,
+          266
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.singtaousa.com/4644438",
+        "title": "\u7f8e\u570b\u8981\u6c42\u4ee5\u8272\u5217\u63a8\u9072\u5730\u9762\u9032\u653b - \u661f\u5cf6\u65e5\u5831Singtao USAhttps://www.singtaousa.com \u203a ...",
+        "content": "",
+        "size": [
+          815,
+          543
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://ghall.com.ua/2023/10/23/spetssluzhby-izrailya-sozdali-tsentr-spetsoperatsij-dlya-likvidatsii-verhushki-hamas/",
+        "title": "\u0421\u043f\u0435\u0446\u0441\u043b\u0443\u0436\u0431\u044b \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043b\u0438 \u0446\u0435\u043d\u0442\u0440 \u0441\u043f\u0435\u0446\u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 \u0434\u043b\u044f ...ghall.com.uahttps://ghall.com.ua \u203a 2023/10/23",
+        "content": "\u041f\u043e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0438\u0437\u0434\u0430\u043d\u0438\u044f The Times of Israel, \u0437\u0430\u0434\u0430\u0447\u0435\u0439 \u0446\u0435\u043d\u0442\u0440\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 \u043f\u0440\u043e\u0442\u0438\u0432 \u0442\u0435\u0445 \u0447\u043b\u0435\u043d\u043e\u0432 \u0425\u0410\u041c\u0410\u0421, \u043a\u043e\u0442\u043e\u0440\u044b\u0435\u00a0...",
+        "size": [
+          2037,
+          1274
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "no",
+        "link": "https://www.nettavisen.no/nyheter/siste-nytt-fra-konflikten-i-israel-og-palestina/s/5-95-1408711",
+        "title": "Siste nytt fra konflikten i Israel og Palestina - NettavisenNettavisenhttps://www.nettavisen.no \u203a nyheter",
+        "content": "15.48: Israel hevder \u00e5 ha avverget droneangrep fra Gaza. Den israelske h\u00e6ren (IDF) hevder at de avverget et Hamas-angrep med to droner fra\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "no",
+        "link": "https://www.nettavisen.no/nyheter/ber-om-krigspause-for-a-fa-fram-nodhjelp-til-gaza/s/5-95-1409836",
+        "title": "Ber om krigspause for \u00e5 f\u00e5 fram n\u00f8dhjelp til Gaza - NettavisenNettavisenhttps://www.nettavisen.no \u203a nyheter",
+        "content": "Tvil om v\u00e5penhvile. Uansett m\u00e5 Hamas l\u00f8slate gislene og slutte \u00e5 sende raketter mot Israel, understreker EUs utenrikssjef. \u2013 Det er en del av\u00a0...",
+        "size": [
+          400,
+          266
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://contrareloj.com.do/hamas-reporta-que-hay-mas-de-5-000-muertos-por-bombardeos-de-israel-sobre-gaza/",
+        "title": "Ham\u00e1s reporta que hay m\u00e1s de 5.000 muertos por ...contrareloj.com.dohttps://contrareloj.com.do \u203a hamas-r...",
+        "content": "Un alto el fuego \u00abdar\u00eda a Ham\u00e1s la oportunidad de descansar, reequiparse y prepararse para continuar lanzando ataques terroristas contra Israel\u00bb\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.blick.ch/ausland/das-gefaehrliche-schweigen-israels-zum-gaza-krieg-was-kommt-nach-der-hamas-id19071137.html",
+        "title": "Suche nach Exitstrategie: Was kommt nach der Hamas? - BlickBlickhttps://www.blick.ch \u203a Ausland",
+        "content": "Israel will in Gaza einmarschieren und die Hamas eliminieren. Und dann? Eine klare Exitstrategie aus dem Krieg fehlt Israel bislang.",
+        "size": [
+          2000,
+          1500
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.blick.ch/ausland/das-gefaehrliche-schweigen-israels-zum-gaza-krieg-was-kommt-nach-der-hamas-id19071137.html",
+        "title": "Suche nach Exitstrategie: Was kommt nach der Hamas? - BlickBlickhttps://www.blick.ch \u203a Ausland",
+        "content": "Israel will in Gaza einmarschieren und die Hamas eliminieren. Und dann? Eine klare Exitstrategie aus dem Krieg fehlt Israel bislang.",
+        "size": [
+          2000,
+          1500
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.cartacapital.com.br/mundo/biden-diz-que-para-falar-em-cessar-fogo-em-gaza-hamas-tem-que-libertar-refens/",
+        "title": "Biden diz que para 'falar' em cessar-fogo em Gaza, Hamas ...CartaCapitalhttps://www.cartacapital.com.br \u203a bi...",
+        "content": "Pouco antes, o Hamas informou ter libertado outras duas mulheres sequestradas em Israel.",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.cartacapital.com.br/mundo/eua-rejeitam-apelos-de-cessar-fogo-em-gaza-por-julgar-que-beneficiaria-hamas/",
+        "title": "EUA rejeitam apelos de cessar-fogo em Gaza por julgar que ...CartaCapitalhttps://www.cartacapital.com.br \u203a e...",
+        "content": "'Daria ao Hamas a capacidade de descansar, de se reaparelhar e continuar a lan\u00e7ar ataques terroristas contra Israel', afirmou o porta-voz do\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "no",
+        "link": "https://headtopics.com/no/siste-nytt-fra-konflikten-i-israel-og-palestina-47426380",
+        "title": "Siste nytt fra konflikten i Israel og Palestina - Head TopicsHead Topicshttps://headtopics.com \u203a siste-nytt-fr...",
+        "content": "Israel har i tillegg oppgitt at 1500 Hamas-krigere ble drept i kampene som oppsto inne i Israel under angrepet 7. oktober. 01.30: Israelske\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nytimes.com/2023/10/23/business/dealbook/companies-israel-hamas-war-statements.html",
+        "title": "Companies Are Caught in the Israel-Hamas War's CrossfireThe New York Timeshttps://www.nytimes.com \u203a Business \u203a DealBook",
+        "content": "",
+        "size": [
+          1800,
+          1801
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elcomercio.pe/mundo/oriente-medio/guerra-israel-vs-hamas-en-gaza-en-vivo-hoy-sabado-21-de-octubre-de-2023-ultima-hora-del-conflicto-en-israel-y-gaza-noticias-muertos-heridos-exodo-secuestrados-rehenes-ofensiva-terrestre-bombardeos-y-mas-palestina-benjamin-netanyahu-noticia/",
+        "title": "Guerra Israel vs Hamas en Gaza EN VIVO hoy Lunes 23 de ...El Comerciohttps://elcomercio.pe \u203a oriente-medio",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.cartacapital.com.br/mundo/eua-rejeitam-apelos-de-cessar-fogo-em-gaza-por-julgar-que-beneficiaria-hamas/",
+        "title": "EUA rejeitam apelos de cessar-fogo em Gaza por julgar que ...CartaCapitalhttps://www.cartacapital.com.br \u203a e...",
+        "content": "'Daria ao Hamas a capacidade de descansar, de se reaparelhar e continuar a lan\u00e7ar ataques terroristas contra Israel', afirmou o porta-voz do\u00a0...",
+        "size": [
+          1024,
+          682
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://elcomercio.pe/mundo/oriente-medio/guerra-israel-vs-hamas-en-gaza-en-vivo-hoy-sabado-21-de-octubre-de-2023-ultima-hora-del-conflicto-en-israel-y-gaza-noticias-muertos-heridos-exodo-secuestrados-rehenes-ofensiva-terrestre-bombardeos-y-mas-palestina-benjamin-netanyahu-noticia/",
+        "title": "Guerra Israel vs Hamas en Gaza EN VIVO hoy Lunes 23 de ...El Comerciohttps://elcomercio.pe \u203a oriente-medio",
+        "content": "",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.blick.ch/fr/news/monde/pas-de-strategie-de-sortie-que-va-t-il-se-passer-pour-gaza-si-israel-elimine-le-hamas-id19071156.html",
+        "title": "Que va-t-il se passer pour Gaza si Isra\u00ebl \u00e9limine le Hamas?Blickhttps://www.blick.ch \u203a ... \u203a Monde",
+        "content": "Isra\u00ebl veut envahir Gaza et \u00e9liminer le Hamas. Et ensuite? Il manque \u00e0 Isra\u00ebl une strat\u00e9gie claire de sortie de guerre.",
+        "size": [
+          2000,
+          1500
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thegame.photos/en/world/in-an-interview-with-saeed-qaq-the-israel-hamas-conflict-and-safety-concerns-for-journalists-photojournalists/",
+        "title": "In an Interview with Saeed Qaq: The Israel-Hamas Conflict ...the game magazinehttps://www.thegame.photos \u203a world \u203a in-an-interview...",
+        "content": "IMAGO / Saeed Qaq | Smoke billows over Gaza, as seen from Sderot city, marking the 15th day of Israeli airstrikes. Sderot, Israel - October 21,\u00a0...",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.cartacapital.com.br/mundo/eua-voltam-a-se-manifestar-contra-cessar-fogo-na-faixa-de-gaza/",
+        "title": "EUA voltam a se manifestar contra cessar-fogo na Faixa de ...CartaCapitalhttps://www.cartacapital.com.br \u203a e...",
+        "content": "O conflito entre Israel e o grupo palestino Hamas est\u00e1 no 18\u00ba dia, com mais de 5.000 mortos entre os palestinos. \u201cUm cessar-fogo neste momento\u00a0...",
+        "size": [
+          300,
+          200
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://contrareloj.com.do/zorrilla-ozuna-se-disculpa-tras-hacer-jurar-a-abinader-que-lo-nombraria-en-el-gobierno/",
+        "title": "Zorrilla Ozuna se disculpa tras hacer jurar a Abinader que lo ...contrareloj.com.dohttps://contrareloj.com.do \u203a zorrilla-...",
+        "content": "Ham\u00e1s reporta que hay m\u00e1s de 5.000 muertos por bombardeos de Israel sobre Gaza. Hace 12 mins. Gobierno asegura maneja con transparencia cifras\u00a0...",
+        "size": [
+          390,
+          220
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://listindiario.com/las-mundiales/20231024/asamblea-general-onu-reunira-jueves-tratar-guerra-israel-hamas_778631.html",
+        "title": "\"Asamblea General de ONU se reunir\u00e1 el jueves para tratar ...Listin Diariohttps://listindiario.com \u203a asamblea-g...",
+        "content": "Asamblea General de ONU se reunir\u00e1 el jueves para tratar guerra Israel-Ham\u00e1s. La reuni\u00f3n se realizar\u00e1 a pedido de varios estados, en\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://panoramand.com/internacionales/asamblea-general-de-onu-se-reunira-el-jueves-para-tratar-guerra-israel-hamas/",
+        "title": "Asamblea General de ONU se reunir\u00e1 el jueves para tratar ...panoramand.comhttps://panoramand.com \u203a asamblea...",
+        "content": "La Asamblea General de la ONU se reunir\u00e1 el jueves para discutir sobre la guerra desatada por el ataque de Ham\u00e1s a Israel,\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailysabah.com/business/economy/israel-to-amend-budget-as-cost-of-palestine-conflict-reaches-246m-daily",
+        "title": "Israel to amend budget as cost of Palestine conflict reaches ...Daily Sabahhttps://www.dailysabah.com \u203a business \u203a economy",
+        "content": "... Hamas launched a surprise attack against Israel on Oct. 7. Some 1,400 people are said to have been killed in Israel. Smotrich described the\u00a0...",
+        "size": [
+          3000,
+          2001
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://en.sputniknews.africa/20231025/russia-received-us-proposals-on-arms-control-currently-studying-them-senior-diplomat-1063066285.html",
+        "title": "Russia Received US Proposals on Arms Control, Currently ...Sputnik Afriquehttps://en.sputniknews.africa \u203a News",
+        "content": "... Israeli bombardment in al- \u00b7 Israel-Palestine Escalation \u00b7 Thousands of Americans Sign Petition Urging Biden to Stop Sending Arms to Israel. 11\u00a0...",
+        "size": [
+          100,
+          100
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ml",
+        "link": "https://www.mangalam.com/news/detail/665761-latest-news-if-your-will-is-to-live-in-peace-israels-offer-for-info-on-hostages.html",
+        "title": "\u0d35\u0d3f\u0d35\u0d30\u0d02 \u0d28\u0d32\u0d4d\u200d\u0d15\u0d3f\u0d2f\u0d3e\u0d32\u0d4d\u200d \u0d38\u0d2e\u0d3e\u0d27\u0d3e\u0d28\u0d35\u0d41\u0d02 ...Mangalamhttps://www.mangalam.com \u203a detail",
+        "content": "... If Your Will Is To Live In Peace...\": Israel's Offer For Info On Hostages. ... hamas-frees-2-more-hostages. \u0d30\u0d23\u0d4d\u0d1f\u0d41 \u0d38\u0d4d\u0d24\u0d4d\u0d30\u0d40\u0d15\u0d33\u0d46 \u0d15\u0d42\u0d1f\u0d3f\u00a0...",
+        "size": [
+          400,
+          241
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://fr.sputniknews.africa/20231025/terrorisme-groupes-armes-le-conflit-israelo-palestinien-cree-des-menaces-en-afrique-1063086130.html",
+        "title": "Terrorisme, groupes arm\u00e9s: le conflit isra\u00e9lo-palestinien cr\u00e9e ...Sputnik Afriquehttps://fr.sputniknews.africa \u203a terror...",
+        "content": "Le conflit entre Isra\u00ebl et le Hamas dans la bande de Gaza alimente certaines menaces en Afrique, affirme le magazine am\u00e9ricain Foreign Policy.",
+        "size": [
+          1400,
+          1400
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.straitstimes.com/world/middle-east/israel-bombards-gaza-prepares-invasion-as-biden-urges-path-to-peace",
+        "title": "Israel mounts new sortie into Gaza, hints there may be several ...The Straits Timeshttps://www.straitstimes.com \u203a world \u203a middle-east \u203a is...",
+        "content": "GAZA/JERUSALEM - Israel said its ground forces had made a big push into Gaza overnight to attack Hamas targets as Prime Minister Benjamin\u00a0...",
+        "size": [
+          860,
+          573
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://ar.shafaqna.com/AR/390290/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1-%D8%B9%D9%84%DB%8C-%D8%BA%D8%B2/",
+        "title": "\u0636\u062d\u0627\u064a\u0627 \u0627\u0644\u0642\u0635\u0641 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0627\u0644\u0645\u0633\u062a\u0645\u0631 \u0639\u0644\u06cc \u063a\u0632\u0629 \u062a\u062a\u062c\u0627\u0648\u0632 7 \u0622\u0644\u0627\u0641 \u0634\u062e\u0635\u0634\u0641\u0642\u0646\u0627 \u0627\u0644\u0639\u0631\u0628\u064ahttps://ar.shafaqna.com \u203a \u0636\u062d\u0627\u064a\u0627-\u0627\u0644\u0642...",
+        "content": "\u0634\u0641\u0642\u0646\u0627 \u2013 \u0623\u0641\u0627\u062f\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629 \u0628\u0623\u0646 \u062d\u0635\u064a\u0644\u0629 \u0636\u062d\u0627\u064a\u0627 \u0627\u0644\u0642\u0635\u0641 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0639\u0644\u0649 \u0627\u0644\u0642\u0637\u0627\u0639 \u062a\u062c\u0627\u0648\u0632\u062a 7028 \u0642\u062a\u0644\u0627 \u0628\u064a\u0646\u0647\u0645 2913 \u0637\u0641\u0644\u0627 \u06481709 \u0646\u0633\u0627\u0621 \u0648397 \u0645\u0633\u0646\u0627.",
+        "size": [
+          937,
+          625
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sputniknews.in/20231027/americans-already-leading-military-operations-against-gaza-strip-hamas-5109324.html",
+        "title": "Americans Already Leading Military Operations Against Gaza ...Sputnik Indiahttps://sputniknews.in \u203a News",
+        "content": "Deputy Head of Hamas Political Bureau Mousa Abu Marzouq commented on the US involvement in the Israel-Hamas conflict, UN voting, and Hamas's\u00a0...",
+        "size": [
+          100,
+          100
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sputniknews.in/20231027/israel-us-most-responsible-for-conflict-in-middle-east-expert--5104327.html",
+        "title": "Israel-Hamas War Could Escalate Into Larger Conflict: ExpertSputnik Indiahttps://sputniknews.in \u203a News",
+        "content": "In the Middle East conflict, Israel is gearing up for a ground operation in Gaza. Sputnik interviewed Fazzur Rehman Siddiqui,\u00a0...",
+        "size": [
+          1280,
+          719
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://hindi.sputniknews.in/20231027/amerika-pahle-se-hi-gaja-pattii-ke-khilaf-sainy-abhiyan-ka-nettritw-kar-rhaa-hai-mrjauk-5109199.html",
+        "title": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u0939\u0940 \u0917\u093e\u091c\u093e \u092a\u091f\u094d\u091f\u0940 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0938\u0948\u0928\u094d\u092f \u0905\u092d\u093f\u092f\u093e\u0928 \u0915\u093e \u0928\u0947\u0924\u0943\u0924\u094d\u0935 ...Sputnik Indiahttps://hindi.sputniknews.in \u203a ameri...",
+        "content": "... israel map, lebanon attack on israel today hindi news, palestine hamas map ... Israel and the Palestinian group Hamas. A picture taken from\u00a0...",
+        "size": [
+          1400,
+          1400
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sputniknews.in/20231028/live-updates-israel-intends-to-eliminate-hamas-rejects-unga-call-for-ceasefire-foreign-minister-5108602.html",
+        "title": "Israel Intends to Eliminate Hamas, Rejects UNGA Call for ...Sputnik Indiahttps://sputniknews.in \u203a News",
+        "content": "After the sudden attack by Hamas on October 7, Israel initiated massive airstrikes on the Gaza Strip and is now gearing up for a ground\u00a0...",
+        "size": [
+          1280,
+          719
+        ],
+        "date": "2023:10:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://www.br.de/nachrichten/deutschland-welt/ereignisse-im-nahost-konflikt-aus-kw-43-im-rueckblick,Tsq69aP",
+        "title": "Ereignisse im Nahost-Konflikt aus KW 43 im R\u00fcckblick | BR24Bayerischer Rundfunkhttps://www.br.de \u203a nachrichten \u203a deutschland-welt",
+        "content": "12.20 Uhr: Hamas setzt Raketenangriffe auf Israel fort. Die Kassam-Brigaden, der bewaffnete Arm der im Gazastreifen herrschenden Hamas, haben\u00a0...",
+        "size": [
+          5225,
+          2938
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sputnikglobe.com/20231029/nearly-impossible-retired-us-general-says-israel-unlikely-to-achieve-stated-aim-in-gaza-1114584818.html",
+        "title": "Retired US General Says Israel Unlikely to Achieve Stated ...Sputnik Newshttps://sputnikglobe.com \u203a News",
+        "content": "General Robert Abrams said it's unlikely Israel will be able to accomplish their purported goal of eliminating Hamas while also protecting\u00a0...",
+        "size": [
+          1400,
+          1400
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pravda-en.com/world/2023/10/29/160544.html",
+        "title": "Retired US General Robert Adams sounded a note of ...pravda-en.comhttps://pravda-en.com \u203a World",
+        "content": "... Israel's ongoing military action in the besieged Gaza Strip. \u201cI think it's going to be what I would consider nearly impossible, to destroy Hamas\u00a0...",
+        "size": [
+          1280,
+          853
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.yahoo.com/trendr/%E7%BE%8E%E9%98%B2%E9%95%B7-%E6%9C%83%E6%8E%A1%E9%81%A9%E7%95%B6%E8%A1%8C%E5%8B%95%E5%9B%A0%E6%87%89%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E5%8D%87%E6%BA%AB-152007998.html",
+        "title": "\u7f8e\u9632\u9577\uff1a\u6703\u63a1\u9069\u7576\u884c\u52d5\u56e0\u61c9\u4e2d\u6771\u60c5\u52e2\u5347\u6eab - Yahoo\u5947\u6469Yahoo\u5947\u6469https://tw.yahoo.com \u203a trendr \u203a \u7f8e...",
+        "content": "\u7f8e\u570b\u570b\u9632\u90e8\u9577\u5967\u65af\u6c40\uff08Lloyd Austin\uff09\u4eca\u5929\u8868\u793a\uff0c\u7f8e\u570b\u6703\u63a1\u53d6\u300c\u9069\u7576\u884c\u52d5\u300d\uff0c\u4ee5\u56e0\u61c9\u4ee5\u8272\u5217\u8207\u54c8\u746a\u65af\uff08Hamas\uff09\u885d\u7a81\u9020\u6210\u7684\u4efb\u4f55\u4e2d\u6771\u60c5\u52e2\u5347\u6eab\u5c40\u9762\u3002 \u7f8e\u570b\u570b\u9632\u90e8\u00a0...",
+        "size": [
+          640,
+          427
+        ],
+        "date": "2023:11:02 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://cibaoaldia.com/israel-ataca-hospitales-y-escuelas-en-gaza-por-que-hamas-se-esconde-dentro-de-la-poblacion-civil/",
+        "title": "Israel ataca hospitales y escuelas en Gaza por que Ham\u00e1scibaoaldia.comhttps://cibaoaldia.com \u203a israel-ataca-...",
+        "content": "... Israel por \u00abeliminar por completo\u00bb a Ham\u00e1s hace que no duden en atacar los objetivos civiles en los territorios palestinos si, seg\u00fan los\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2023:11:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "mk",
+        "link": "https://civilmedia.mk/izrael-liderot-na-hamas-e-opkolen-vo-bunker-vo-gaza/",
+        "title": "\u0418\u0437\u0440\u0430\u0435\u043b: \u041b\u0438\u0434\u0435\u0440\u043e\u0442 \u043d\u0430 \u0425\u0430\u043c\u0430\u0441 \u0435 \u043e\u043f\u043a\u043e\u043b\u0435\u043d \u0432\u043e \u0431\u0443\u043d\u043a\u0435\u0440 \u0432\u043e \u0413\u0430\u0437\u0430CivilMediahttps://civilmedia.mk \u203a \u0421\u0412\u0415\u0422",
+        "content": "",
+        "size": [
+          800,
+          500
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.volkskrant.nl/columns-opinie/wie-kiest-voor-wraak-riskeert-niet-meer-te-worden-gezien-als-slachtoffer~b459a473/",
+        "title": "Wie kiest voor wraak, riskeert niet meer te worden gezien als ...de Volkskranthttps://www.volkskrant.nl \u203a column...",
+        "content": "Hij wist dat hij met een machtig Hamas, dat Isra\u00ebl van de kaart wil vegen, altijd een excuus had om een Palestijnse staat tegen te houden. Met\u00a0...",
+        "size": [
+          1600,
+          1067
+        ],
+        "date": "2023:11:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/the-daily-edition/2023-10-22/",
+        "title": "The Daily Edition | The Times of IsraelThe Times of Israelhttps://www.timesofisrael.com \u203a the-daily-edition",
+        "content": "",
+        "size": [
+          640,
+          400
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nytimes.com/section/business/dealbook?page=9",
+        "title": "DealBook - Page 9 - The New York TimesThe New York Timeshttps://www.nytimes.com \u203a Business \u203a DealBook",
+        "content": "Antisemitic content on Elon Musk's X has soared since Hamas attacked Israel on Oct. ... 7 Hamas attacks on Israel. November 17, 2023By Andrew Ross Sorkin, Ravi\u00a0...",
+        "size": [
+          190,
+          126
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nytimes.com/international/section/business/dealbook?page=9",
+        "title": "DealBook - Page 9 - The New York Times InternationalThe New York Timeshttps://www.nytimes.com \u203a ... \u203a Business \u203a DealBook",
+        "content": "The chief executive of SolarWinds, Sudhakar Ramakrishna, said an S.E.C. \u00b7 Antisemitic content on Elon Musk's X has soared since Hamas attacked Israel on Oct. \u00b7 Xi\u00a0...",
+        "size": [
+          190,
+          126
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.timesofisrael.com/topic/izz-ad-din-al-qassam-brigades/",
+        "title": "Izz ad-Din al-Qassam Brigades | The Times of IsraelThe Times of Israelhttps://www.timesofisrael.com \u203a topic \u203a izz-ad-din-al-...",
+        "content": "Izz ad-Din al-Qassam Brigades ; October 22, 2023, 2:51 am. Israel said to form unit tasked with killing Hamas commandos behind Oct. 7 assault ; October 10, 2023,\u00a0...",
+        "size": [
+          2037,
+          1274
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://re.linkedin.com/posts/capt-dr-s-g-naravane-17a06912_the-global-community-should-recognize-taiwan-activity-7043493115319463936-gL0v",
+        "title": "Capt.(Dr.) S G Naravane on LinkedIn: The global community ...LinkedInhttps://re.linkedin.com \u203a posts",
+        "content": "... Israel-Hamas War's Crossfire First it was college campuses. Now the corporate world is increasingly feeling pressure to find a balance in responding to the\u00a0...",
+        "size": [
+          800,
+          419
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/capt-dr-s-g-naravane-17a06912_forging-ahead-china-boosts-its-project-activity-7091935433613279232-Eziw",
+        "title": "Capt.(Dr.) S G Naravane on LinkedIn: 'Forging ahead': China ...LinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "... Israel-Hamas War's Crossfire First it was college campuses. Now the corporate world is increasingly feeling pressure to find a balance in responding to the\u00a0...",
+        "size": [
+          800,
+          419
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/posts/capt-dr-s-g-naravane-17a06912_aukus-moving-from-nuke-subs-to-ai-drone-swarms-activity-7068859546785447936-e93P",
+        "title": "Capt.(Dr.) S G Naravane on LinkedIn: AUKUS is moving to ...LinkedInhttps://www.linkedin.com \u203a posts",
+        "content": "... Israel-Hamas War's Crossfire First it was college campuses. Now the corporate world is increasingly feeling pressure to find a balance in responding to the\u00a0...",
+        "size": [
+          800,
+          419
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/TimesofIsrael/status/1715888234927100114",
+        "title": "The Times of Israel on X: \"Israel said to form unit tasked with ...Twitter\u00a0\u00b7\u00a0TimesofIsrael210+ likes  \u00b7  1 month ago",
+        "content": "Israel said to form unit tasked with killing Hamas commandos behind Oct. 7 assault\u00a0...",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/IsraeliMossad/comments/17ecpeu/israel_said_to_form_unit_tasked_with_killing/",
+        "title": "Israel said to form unit tasked with killing Hamas commandos ...Reddit\u00a0\u00b7\u00a0r/IsraeliMossad1 month ago",
+        "content": "The Israel Defense Forces has already announced the death of several Nukbha commanders in strikes since the Hamas-led attack two weeks ago,\u00a0...",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/TheMajorityReport/comments/17letbn/idf_using_palestinians_as_human_shield_in_2004/",
+        "title": "IDF, using Palestinians as human shield in 2004. - RedditReddit\u00a0\u00b7\u00a0r/TheMajorityReport9 comments  \u00b7  3 weeks ago",
+        "content": "... Israeli massacre of. 351 upvotes \u00b7 10 comments. r/IsraeliMossad \u00b7 Israel said to form unit tasked with killing Hamas commandos behind Oct. 7\u00a0...",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/conspiracy/comments/17jf1xk/israeli_involvement_in_the_oct_7_attack/",
+        "title": "Israeli Involvement In the Oct 7 Attack : r/conspiracy - RedditReddit\u00a0\u00b7\u00a0r/conspiracy9 comments  \u00b7  3 weeks ago",
+        "content": "... Israeli homes and even its own bases killing many of its own citizens. In order to ensure that they kill all of the Hamas fighters, Israel's\u00a0...",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://net25.com/news/rodgers-readies-celtic-to-take-on-the-world-s-best-in-champions-league",
+        "title": "RODGERS READIES CELTIC TO TAKE ON THE WORLD'S ...NET25https://net25.com \u203a news \u203a rodgers-readies-celtic-to-ta...",
+        "content": "ISRAEL RAIDS WEST BANK HOME OF HAMAS DEPUTY LEADER \u00b7 ASEAN COUNTRIES KINONDENA ANG GIYERA NG ISRAEL AT HAMAS \u00b7 PIPE BOMB EXPLODES NEAR ISRAELI EMBASSY IN CYPRUS.",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/healthnow/comments/17fhkg8/new_israeli_unit_tasked_with_killing_all_hamas/",
+        "title": "New Israeli unit tasked with killing all Hamas terrorists ... - RedditReddit\u00a0\u00b7\u00a0r/healthnow1 month ago",
+        "content": "New Israeli unit tasked with killing all Hamas terrorists involved in Oct. 7 attack - YouTube. Play. Upvote 1. Downvote 0 comments",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.rte.ie/radio/radio1/clips/22314567/",
+        "title": "Weather Forecast | Morning Ireland - RT\u00c9 Radio 1Raidi\u00f3 Teilif\u00eds \u00c9ireannhttps://www.rte.ie \u203a radio \u203a radio1 \u203a clips",
+        "content": "Qatar said to be engaging highly with Hamas to release Israeli hostages. John ... Israel/Palestine conflict and the quest to free the 220 hostages. Clip \u2022 11\u00a0...",
+        "size": [
+          600,
+          338
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://il.linkedin.com/in/yaron-shamay",
+        "title": "Yaron Shamay | LinkedInLinkedIn\u00a0\u00b7\u00a0Yaron Shamay2K+ followers",
+        "content": "Over 20 years of experience in the world of insurance in Israel. Throughout my career, I\u2026 | Learn more about Yaron Shamay's work experience, education,\u00a0...",
+        "size": [
+          490,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://il.linkedin.com/in/gilad-kaizer-82950514b",
+        "title": "Gilad Kaizer - Head of Global Equity - Migdal Group - LinkedInLinkedIn\u00a0\u00b7\u00a0Gilad Kaizer570+ followers",
+        "content": "Nov 2005 - Nov 2006 1 year 1 month. Tel Aviv - Jaffa, Tel Aviv District, Israel ... Volunteer Experience. Israel Defense Forces Graphic. Paratroopers brigade, The\u00a0...",
+        "size": [
+          490,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/us-companies-that-do-business-in-israel",
+        "title": "Us Companies That Do Business In Israel - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a us-companies-tha...",
+        "content": "Israel-Hamas war: What is the boycott, divestment, and ... Fourth Israeli company to put U.S. headquarters in St. Louis ... photograph.",
+        "size": [
+          1800,
+          1801
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://il.linkedin.com/in/erez-migdali-245b971b7",
+        "title": "Erez Migdali | LinkedInLinkedIn\u00a0\u00b7\u00a0Erez Migdali700+ followers",
+        "content": "Erez Migdali. Migdal Group Tel Aviv University. Kfar Sava, Center District, Israel ... Vice President and Head of Startup Division in the Israel Innovation\u00a0...",
+        "size": [
+          490,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://il.linkedin.com/in/adva-shlanger-meiri-b2895224a",
+        "title": "Adva Shlanger Meiri - Deputy CEO- Head Of Non Life DivisionLinkedIn\u00a0\u00b7\u00a0Adva Shlanger Meiri570+ followers",
+        "content": "Deputy CEO. Migdal Group Bar-Ilan University. Tel Aviv-Yafo, Tel Aviv District, Israel. 577 followers 500+ connections. See your mutual connections. View mutual\u00a0...",
+        "size": [
+          490,
+          276
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twitter.com/Ulfberht75",
+        "title": "Ulfberht 75 (@Ulfberht75) / XTwitter\u00a0\u00b7\u00a0Ulfberht75150+ followers",
+        "content": "NEW: Hamas militants were told by commanders to behead Israelis and cut their feet on October 7th, according to an Israeli interrogation video obtained and\u00a0...",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://twitter.com/StandwithusBr",
+        "title": "StandWithUs Brasil (@StandwithusBr) / XTwitter\u00a0\u00b7\u00a0StandwithusBr15.2K+ followers",
+        "content": "Conte\u00fado sens\u00edvel \u26a0\ufe0f Aos poucos temos tomado conhecimento da extens\u00e3o das atrocidades cometidas pelo Hamas em Israel, no \u00faltimo dia 07 de outubro.",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tl",
+        "link": "https://net25.com/news/dangerous-maneuvers-ng-chinese-vessel-sa-wps-nagresulta-sa-banggaan",
+        "title": "DANGEROUS MANEUVERS' NG CHINESE VESSEL SA WPS ...NET25https://net25.com \u203a news \u203a dangero...",
+        "content": "ISRAEL DEFENSE MINISTER SAYS HAMAS WAR COULD LAST MONTHS \u00b7 THE ISRAEL-HAMAS MILITARY BALANCE \u00b7 ARAB, WESTERN DIPLOMATS TALK PAST EACH OTHER ON GAZA \u00b7 US AMPS UP\u00a0...",
+        "size": [
+          800,
+          533
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lest-eclair.fr/888/locations/israel?page=1",
+        "title": "Isra\u00ebl - Journal L'Est \u00c9clairL'Est Eclairhttps://www.lest-eclair.fr \u203a israel",
+        "content": "La guerre qui dure depuis bient\u00f4t trois semaines entre Isra\u00ebl et le Hamas palestinien dans la bande de Gaza affecte d\u00e9j\u00e0 les \u00e9conomies des pays voisins,\u00a0...",
+        "size": [
+          644,
+          362
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lunion.fr/401938/locations/palestine",
+        "title": "Palestine - Journal L'UnionJournal L'Unionhttps://www.lunion.fr \u203a locations",
+        "content": "Isra\u00ebl affirme que le Hamas a \u00abperdu le contr\u00f4le\u00bb \u00e0 Gaza \u00b7 D\u00e8s la premi\u00e8re semaine, des t\u00e9moignages des secouristes de Zaka, parmi les tout premiers.",
+        "size": [
+          644,
+          362
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://lhongtortai.com/collection/nachrichten-libanon-israel",
+        "title": "Nachrichten Libanon Israel - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection",
+        "content": "Nahost-Konflikt: Israels Albtraum von einem zweiten Gaza im ... Krieg gegen Israel: Hamas-Angriff l\u00f6st Jubel im Libanon aus ... Bild. Politik: Aktuelle\u00a0...",
+        "size": [
+          5225,
+          2938
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://press24.net/news/27977985/",
+        "title": "Israel: Deshalb tragen Soldaten \"Kochm\u00fctzen\" - Press24.netPress24.nethttps://press24.net \u203a news",
+        "content": "Hamas-Terror - US-Soldaten in Einsatzbereitschaft. vor einem Monat - Bild. Diese Aktion soll abschrecken! Die USA haben wegen des Hamas -Terrors auf Israel\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://lhongtortai.com/collection/hauptstadt-israel-heute",
+        "title": "Hauptstadt Israel Heute - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection",
+        "content": "Israels Verteidigungsminister: Hamas hat Krieg gegen Israel ... Bild. Israel/Pal\u00e4stina - Siedlungsgebiete-978-3-14-100382-6-. Israels Verteidigungsminister:\u00a0...",
+        "size": [
+          5225,
+          2938
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://blackshirts.info/collection/wieso-geh%C3%B6rt-israel-zu-europa",
+        "title": "Wieso Geh\u00f6rt Israel Zu Europa - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection",
+        "content": "Liveblog zu Israel: ++ Netanyahu: \"Werden die Hamas ... Foto. Fl\u00fcchtlinge in Israel: \"Da drau\u00dfen lauert die Gefahr\" - DER ... Foto.",
+        "size": [
+          5225,
+          2938
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "lt",
+        "link": "https://www.15min.lt/naujiena/aktualu/pasaulis/gazos-ruoze-zuvusiuju-skaicius-pasieke-4-385-sako-ministerija-57-2132218",
+        "title": "Gazos Ruo\u017ee \u017euvusi\u0173j\u0173 skai\u010dius pasiek\u0117 4 385, sako ministerija15min.lthttps://www.15min.lt \u203a ... \u203a Pasaulis",
+        "content": "Gazos Ruo\u017eo palestinie\u010di\u0173 islamist\u0173 grupuot\u0117 \u201eHamas\u201c spalio 7 dien\u0105 netik\u0117tai u\u017epuol\u0117 Izrael\u012f, \u012fsiver\u017edama \u012f jo teritorij\u0105 ir vykdydama raket\u0173 atakas. Izraelis\u00a0...",
+        "size": [
+          1920,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://interfans.org/forum/threads/conflitto-israelo-palestinese.2363435/page-224",
+        "title": "Conflitto Israelo-Palestinese | Pagina 224 - Interfans.orgInterfans.orghttps://interfans.org \u203a ... \u203a Off Topic",
+        "content": "Israel said to form unit tasked with killing Hamas commandos behind Oct. 7 assault. Report says Mossad and Shin Bet have set up an operations center to track\u00a0...",
+        "size": [
+          1024,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lest-eclair.fr/Section/29?page=14",
+        "title": "France-Monde | Journal L'Est \u00c9clair - L'Est EclairL'Est Eclairhttps://www.lest-eclair.fr \u203a Section",
+        "content": "Guerre Isra\u00ebl \u2013 Hamas : un premier convoi humanitaire est entr\u00e9 dans Gaza.",
+        "size": [
+          644,
+          362
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "de",
+        "link": "https://lhongtortai.com/collection/danny-bed%C3%BCrftig-instagram",
+        "title": "Danny Bed\u00fcrftig Instagram - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection",
+        "content": "#gaza #israel #hamas #bild #satire #guterboi Bild. Als PDF herunterladen (36.54 MB) - Intro.de. Wie naiv willst du sein? - Annalena #Baerbock : ja!! #gaza #\u00a0...",
+        "size": [
+          5225,
+          2938
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://albanianpost.com/idf-ja-thote-se-vrau-2-komando-te-hamasit-ne-sulmin-kufitar-te-gazes-gjate-nates/",
+        "title": "IDF-ja thot\u00eb se vrau 2 komando t\u00eb Hamasit n\u00eb sulmin kufitar t\u00eb ...Albanian Posthttps://albanianpost.com \u203a idf-ja-tho...",
+        "content": "Hamas \u00b7 Komando \u00b7 vrasje \u00b7 IDF \u00b7 Gaza \u00b7 T\u00eb fundit nga rubrika \u00b7 9 ... Arrihet marr\u00ebveshja Izrael-Hamas p\u00ebr lirimin e 50 pengjeve n\u00eb k\u00ebmbim t\u00eb 150 palestinez\u00ebve t\u00eb\u00a0...",
+        "size": [
+          2037,
+          1274
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.itahame.fi/aihe/Terveydenhuollon_toimintalaitokset",
+        "title": "Terveydenhuollon toimintalaitokset - It\u00e4-H\u00e4meIt\u00e4-H\u00e4mehttps://www.itahame.fi \u203a aihe \u203a Ter...",
+        "content": "Israel pelk\u00e4\u00e4 avun Gazassa p\u00e4\u00e4tyv\u00e4n Hamasin k\u00e4siin \u2013 j\u00e4rjest\u00f6t korostavat vankkaa kokemustaan kriisiavun toimittamisessa sit\u00e4 eniten tarvitseville. 23.10\u00a0...",
+        "size": [
+          720,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sr",
+        "link": "https://mondo.rs/bombardovanje/tag3234/1",
+        "title": "Tag:bombardovanje - MondoMondohttps://mondo.rs \u203a tag3234",
+        "content": "HAMAS RAKETIRAO AERODROM KOD TEL AVIVA! Ispaljeno 50 projektila - \"Ovo je odgovor na raseljavanje i napade na civile\" \u00b7 Hamas bombardovao aerodrom Ben Gurion.",
+        "size": [
+          400,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://echomsk.spb.ru/nws/1900066-hamas-zayavil-chto-v-hode-operatsii-izrailya-v-gaze-pogibli-13-tysyach-chelovek.html",
+        "title": "\u0425\u0410\u041c\u0410\u0421 \u0437\u0430\u044f\u0432\u0438\u043b, \u0447\u0442\u043e \u0432 \u0445\u043e\u0434\u0435 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0432 \u0413\u0430\u0437\u0435 ...Echomsk.spb.ruhttps://echomsk.spb.ru \u203a nws \u203a 190...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lunion.fr/29/sections/france-monde?page=12",
+        "title": "France-Monde - Journal L'UnionJournal L'Unionhttps://www.lunion.fr \u203a sections \u203a fr...",
+        "content": "Isra\u00ebl rejette le cessez-le-feu et s'engage \u00e0 poursuivre la guerre contre le Hamas. REM 03-11-2023 14:54:05. image \u00b7 Un risque de p\u00e9nurie de gaz en Europe cet\u00a0...",
+        "size": [
+          644,
+          362
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://m.business-gazeta.ru/news/612853",
+        "title": "\u0425\u0435\u0437\u0431\u043e\u043b\u043b\u0430\u00bb \u0432\u044b\u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0438\u0437 \u041b\u0438\u0432\u0430\u043d\u0430 \u0431\u043e\u043b\u0435\u0435 30 \u0440\u0430\u043a\u0435\u0442 \u043f\u043e \u0418\u0437\u0440\u0430\u0438\u043b\u044e\u0411\u0418\u0417\u041d\u0415\u0421 Onlinehttps://m.business-gazeta.ru \u203a news",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://echomsk.spb.ru/nws/1900066-hamas-zayavil-chto-v-hode-operatsii-izrailya-v-gaze-pogibli-13-tysyach-chelovek.html",
+        "title": "\u0425\u0410\u041c\u0410\u0421 \u0437\u0430\u044f\u0432\u0438\u043b, \u0447\u0442\u043e \u0432 \u0445\u043e\u0434\u0435 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0432 \u0413\u0430\u0437\u0435 ...Echomsk.spb.ruhttps://echomsk.spb.ru \u203a nws \u203a 190...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.lunion.fr/29/sections/france-monde?page=12",
+        "title": "France-Monde - Journal L'UnionJournal L'Unionhttps://www.lunion.fr \u203a sections \u203a fr...",
+        "content": "Isra\u00ebl rejette le cessez-le-feu et s'engage \u00e0 poursuivre la guerre contre le Hamas. REM 03-11-2023 14:54:05. image \u00b7 Un risque de p\u00e9nurie de gaz en Europe cet\u00a0...",
+        "size": [
+          644,
+          362
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://m.business-gazeta.ru/news/612853",
+        "title": "\u0425\u0435\u0437\u0431\u043e\u043b\u043b\u0430\u00bb \u0432\u044b\u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0438\u0437 \u041b\u0438\u0432\u0430\u043d\u0430 \u0431\u043e\u043b\u0435\u0435 30 \u0440\u0430\u043a\u0435\u0442 \u043f\u043e \u0418\u0437\u0440\u0430\u0438\u043b\u044e\u0411\u0418\u0417\u041d\u0415\u0421 Onlinehttps://m.business-gazeta.ru \u203a news",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fi",
+        "link": "https://www.kouvolansanomat.fi/aihe/Aseelliset_konfliktit",
+        "title": "Aseelliset konfliktit - Kouvolan SanomatKouvolan Sanomathttps://www.kouvolansanomat.fi \u203a ...",
+        "content": "Israel pelk\u00e4\u00e4 avun Gazassa p\u00e4\u00e4tyv\u00e4n Hamasin k\u00e4siin \u2013 j\u00e4rjest\u00f6t korostavat ... Hamas sanoo ty\u00f6skentelev\u00e4ns\u00e4 v\u00e4litt\u00e4jien kanssa panttivankeina olevien siviilien\u00a0...",
+        "size": [
+          720,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ms",
+        "link": "https://bm.cari.com.my/forum.php?mod=viewthread&tid=5225488&extra=&page=287",
+        "title": "SALAM MAULIDUR RASUL - Utara - Negeri & Negara - ForumCARI Infonethttps://bm.cari.com.my \u203a forum",
+        "content": "... Israel. sfhzuraz Lv.22 5726#. 22-10-2023 01:45 PM. Moderator | Credits 1158720. Antara rakyat dari negara lain yang hadir bersolidariti dalam himpunan Freedom\u00a0...",
+        "size": [
+          1000,
+          670
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.standaard.be/krant?origin=app",
+        "title": "Krant - De StandaardDe Standaardhttps://www.standaard.be \u203a krant",
+        "content": "",
+        "size": [
+          640,
+          828
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.business-gazeta.ru/news/59596",
+        "title": "\u0411\u043e\u043b\u0435\u0435 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0420\u0424 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u043d\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0438 ...\u0411\u0418\u0417\u041d\u0415\u0421 Onlinehttps://www.business-gazeta.ru \u203a news",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.standaard.be/digitalekrant",
+        "title": "Krant - De StandaardDe Standaardhttps://www.standaard.be \u203a digitalek...",
+        "content": "",
+        "size": [
+          640,
+          828
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://www.business-gazeta.ru/news/4434",
+        "title": "\u0424\u0435\u0440\u043c\u0435\u0440\u044b \u0420\u0422 \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u043b\u0438 \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0442\u044c \u0437\u0435\u0440\u043d\u043e - \u0411\u0418\u0417\u041d\u0415\u0421 Online\u0411\u0418\u0417\u041d\u0415\u0421 Onlinehttps://www.business-gazeta.ru \u203a news",
+        "content": "",
+        "size": [
+          750,
+          500
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://ar.shafaqna.com/AR/394325/%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%DB%8C-%D8%BA%D8%B2%D8%A9-%D9%84%D9%84%D9%8A/",
+        "title": "\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u063a\u0627\u0631\u0627\u062a \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0639\u0644\u06cc \u063a\u0632\u0629 \u0644\u0644\u064a\u0648\u0645 \u0627\u0644\u0640 45 \u0639\u0644\u06cc \u0627\u0644\u062a\u0648\u0627\u0644\u064a\u0634\u0641\u0642\u0646\u0627 \u0627\u0644\u0639\u0631\u0628\u064ahttps://ar.shafaqna.com \u203a \u062a\u0648\u0627\u0635\u0644-\u0627\u0644...",
+        "content": " \u00b7 ",
+        "size": [
+          937,
+          625
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://dnevnik.hr/video/izrael-nastavlja-napade-na-pojas-gaze---62657530",
+        "title": "Izrael nastavlja napade na pojas Gaze - DnevnikDnevnik.hrhttps://dnevnik.hr \u203a video \u203a izrael-n...",
+        "content": "",
+        "size": [
+          1920,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bn",
+        "link": "https://ajkerdarpon.com/news/rater-ondhkare-nz-voter-madhzme-srkar-gthn-hbe",
+        "title": "\u09b0\u09be\u09a4\u09c7\u09b0 \u0985\u09a8\u09cd\u09a7\u0995\u09be\u09b0\u09c7 \u09a8\u09af\u09bc, \u09ad\u09cb\u099f\u09c7\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u09b8\u09b0\u0995\u09be\u09b0 \u0997\u09a0\u09a8 \u09b9\u09ac\u09c7\u09a6\u09c8\u09a8\u09bf\u0995 \u0986\u099c\u0995\u09c7\u09b0 \u09a6\u09b0\u09cd\u09aa\u09a3https://ajkerdarpon.com \u203a news \u203a ra...",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1768110/v-gaze-soobschili-chto-s-nachala-udarov-izrailya-pogibli-bolee-133-tys-chelovek.html",
+        "title": "\u0412 \u0413\u0430\u0437\u0435 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438, \u0447\u0442\u043e \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0443\u0434\u0430\u0440\u043e\u0432 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u043f\u043e\u0433\u0438\u0431\u043b\u0438 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a v-gaz...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://echomsk.spb.ru/nws/1895831-genschiny-i-deti-oon-raskryla-ugasayuschie-podrobnosti-udara-izrailya-po-shkolam-v-gaze.html",
+        "title": "\"\u0416\u0435\u043d\u0449\u0438\u043d\u044b \u0438 \u0434\u0435\u0442\u0438\": \u041e\u041e\u041d \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0430 \u0443\u0436\u0430\u0441\u0430\u044e\u0449\u0438\u0435 ...Echomsk.spb.ruhttps://echomsk.spb.ru \u203a nws \u203a 189...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1760631/wafa-gertvami-izrailskih-udarov-po-domam-v-sektore-gaza-stali-15-chelovek.html",
+        "title": "WAFA: \u0436\u0435\u0440\u0442\u0432\u0430\u043c\u0438 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0445 \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0434\u043e\u043c\u0430\u043c \u0432 \u0441\u0435\u043a\u0442\u043e\u0440\u0435 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a wafa-...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1774973/v-gaze-soobschili-chto-pri-izrailskih-udarah-pogibli-bolee-14-tys-chelovek.html",
+        "title": "\u0412 \u0413\u0430\u0437\u0435 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438, \u0447\u0442\u043e \u043f\u0440\u0438 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0445 \u0443\u0434\u0430\u0440\u0430\u0445 \u043f\u043e\u0433\u0438\u0431\u043b\u0438 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a v-gaz...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1759619/genschiny-i-deti-oon-raskryla-ugasayuschie-podrobnosti-udara-izrailya-po-shkolam-v-gaze.html",
+        "title": "\"\u0416\u0435\u043d\u0449\u0438\u043d\u044b \u0438 \u0434\u0435\u0442\u0438\": \u041e\u041e\u041d \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0430 \u0443\u0436\u0430\u0441\u0430\u044e\u0449\u0438\u0435 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a gensc...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://echomsk.spb.ru/nws/1895831-genschiny-i-deti-oon-raskryla-ugasayuschie-podrobnosti-udara-izrailya-po-shkolam-v-gaze.html",
+        "title": "\"\u0416\u0435\u043d\u0449\u0438\u043d\u044b \u0438 \u0434\u0435\u0442\u0438\": \u041e\u041e\u041d \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0430 \u0443\u0436\u0430\u0441\u0430\u044e\u0449\u0438\u0435 ...Echomsk.spb.ruhttps://echomsk.spb.ru \u203a nws \u203a 189...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1760631/wafa-gertvami-izrailskih-udarov-po-domam-v-sektore-gaza-stali-15-chelovek.html",
+        "title": "WAFA: \u0436\u0435\u0440\u0442\u0432\u0430\u043c\u0438 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0445 \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0434\u043e\u043c\u0430\u043c \u0432 \u0441\u0435\u043a\u0442\u043e\u0440\u0435 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a wafa-...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1774973/v-gaze-soobschili-chto-pri-izrailskih-udarah-pogibli-bolee-14-tys-chelovek.html",
+        "title": "\u0412 \u0413\u0430\u0437\u0435 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438, \u0447\u0442\u043e \u043f\u0440\u0438 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0445 \u0443\u0434\u0430\u0440\u0430\u0445 \u043f\u043e\u0433\u0438\u0431\u043b\u0438 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a v-gaz...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://forpost-sevastopol.ru/newsfull/1759619/genschiny-i-deti-oon-raskryla-ugasayuschie-podrobnosti-udara-izrailya-po-shkolam-v-gaze.html",
+        "title": "\"\u0416\u0435\u043d\u0449\u0438\u043d\u044b \u0438 \u0434\u0435\u0442\u0438\": \u041e\u041e\u041d \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0430 \u0443\u0436\u0430\u0441\u0430\u044e\u0449\u0438\u0435 ...forpost-sevastopol.ruhttps://forpost-sevastopol.ru \u203a gensc...",
+        "content": " \u00b7 ",
+        "size": [
+          1200,
+          797
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "industrial_area",
+        "ioclass": "outdoor",
+        "probability": 0.6650883555412292
+      },
+      {
+        "class": "volcano",
+        "ioclass": "outdoor",
+        "probability": 0.08236058801412582
+      },
+      {
+        "class": "village",
+        "ioclass": "outdoor",
+        "probability": 0.023849276825785637
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.023636389523744583
+      },
+      {
+        "class": "downtown",
+        "ioclass": "outdoor",
+        "probability": 0.015738489106297493
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.8156133890151978
+      },
+      {
+        "class": "weather/clouds",
+        "score": 0.6513696312904358
+      },
+      {
+        "class": "rugged",
+        "score": 0.6061438322067261
+      },
+      {
+        "class": "dry",
+        "score": 0.569956362247467
+      },
+      {
+        "class": "beautiful",
+        "score": 0.566136360168457
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5061831474304199
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1163,
+        "pred_lat": 31.757287979125977,
+        "pred_long": 35.030609130859375
+      },
+      "middle": {
+        "pred_class": 1457,
+        "pred_lat": 31.788331985473633,
+        "pred_long": 35.15078353881836
+      },
+      "fine": {
+        "pred_class": 6763,
+        "pred_lat": 31.469512939453125,
+        "pred_long": 35.098026275634766
+      },
+      "hierarchy": {
+        "pred_class": 6763,
+        "pred_lat": 31.469512939453125,
+        "pred_long": 35.098026275634766
+      },
+      "country": {
+        "city": "Yatta",
+        "state": "",
+        "country": "Palestinian Territories"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 31.458698,
+    "longitude": 35.053764,
+    "generationtime_ms": 0.18703937530517578,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 781.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2018-09-20T00:00",
+        "2018-09-20T01:00",
+        "2018-09-20T02:00",
+        "2018-09-20T03:00",
+        "2018-09-20T04:00",
+        "2018-09-20T05:00",
+        "2018-09-20T06:00",
+        "2018-09-20T07:00",
+        "2018-09-20T08:00",
+        "2018-09-20T09:00",
+        "2018-09-20T10:00",
+        "2018-09-20T11:00",
+        "2018-09-20T12:00",
+        "2018-09-20T13:00",
+        "2018-09-20T14:00",
+        "2018-09-20T15:00",
+        "2018-09-20T16:00",
+        "2018-09-20T17:00",
+        "2018-09-20T18:00",
+        "2018-09-20T19:00",
+        "2018-09-20T20:00",
+        "2018-09-20T21:00",
+        "2018-09-20T22:00",
+        "2018-09-20T23:00",
+        "2018-09-21T00:00",
+        "2018-09-21T01:00",
+        "2018-09-21T02:00",
+        "2018-09-21T03:00",
+        "2018-09-21T04:00",
+        "2018-09-21T05:00",
+        "2018-09-21T06:00",
+        "2018-09-21T07:00",
+        "2018-09-21T08:00",
+        "2018-09-21T09:00",
+        "2018-09-21T10:00",
+        "2018-09-21T11:00",
+        "2018-09-21T12:00",
+        "2018-09-21T13:00",
+        "2018-09-21T14:00",
+        "2018-09-21T15:00",
+        "2018-09-21T16:00",
+        "2018-09-21T17:00",
+        "2018-09-21T18:00",
+        "2018-09-21T19:00",
+        "2018-09-21T20:00",
+        "2018-09-21T21:00",
+        "2018-09-21T22:00",
+        "2018-09-21T23:00"
+      ],
+      "apparent_temperature": [
+        18.7,
+        18.4,
+        17.8,
+        17.1,
+        17.4,
+        20.1,
+        21.5,
+        23.0,
+        25.1,
+        26.9,
+        28.1,
+        28.4,
+        27.3,
+        24.8,
+        22.4,
+        21.4,
+        20.8,
+        20.4,
+        20.5,
+        19.9,
+        19.3,
+        18.5,
+        17.5,
+        16.8,
+        15.9,
+        15.7,
+        15.4,
+        15.5,
+        16.3,
+        19.2,
+        20.4,
+        22.0,
+        24.4,
+        26.4,
+        27.6,
+        28.1,
+        27.4,
+        25.7,
+        23.6,
+        21.9,
+        20.3,
+        19.7,
+        19.7,
+        18.5,
+        17.3,
+        16.0,
+        15.4,
+        15.5
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

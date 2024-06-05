@@ -1,0 +1,3005 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2017/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2017/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2017/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2018/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/10": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2019/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2019/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 52,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 6,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 6,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 2,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 3,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 52,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2017/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2018/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2019/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                52,
+                6,
+                1,
+                0,
+                1,
+                1,
+                0,
+                3,
+                6,
+                1,
+                1,
+                3,
+                3,
+                3,
+                2,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 97,
+            "percentage": 57.05882352941177
+          },
+          "Chinese": {
+            "count": 8,
+            "percentage": 4.705882352941177
+          },
+          "Croatian": {
+            "count": 6,
+            "percentage": 3.5294117647058822
+          },
+          "Korean": {
+            "count": 5,
+            "percentage": 2.9411764705882355
+          },
+          "Swedish": {
+            "count": 5,
+            "percentage": 2.9411764705882355
+          },
+          "Arabic": {
+            "count": 4,
+            "percentage": 2.3529411764705883
+          },
+          "Persian": {
+            "count": 4,
+            "percentage": 2.3529411764705883
+          },
+          "Burmese": {
+            "count": 4,
+            "percentage": 2.3529411764705883
+          },
+          "Turkish": {
+            "count": 4,
+            "percentage": 2.3529411764705883
+          },
+          "Spanish; Castilian": {
+            "count": 3,
+            "percentage": 1.7647058823529411
+          },
+          "Vietnamese": {
+            "count": 2,
+            "percentage": 1.1764705882352942
+          },
+          "Japanese": {
+            "count": 1,
+            "percentage": 0.5882352941176471
+          },
+          "Portuguese": {
+            "count": 1,
+            "percentage": 0.5882352941176471
+          }
+        },
+        "total": 170,
+        "plot": {
+          "labels": [
+            "English",
+            "Chinese",
+            "Croatian",
+            "Korean",
+            "others"
+          ],
+          "data": [
+            57,
+            4,
+            3,
+            2,
+            34
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "en",
+        "link": "https://abmnewsint.com/?a=tennessee-tesla-driver-causes-blackout-after-crashing-into-power-pp-DPqJKlTo",
+        "title": "Tennessee Tesla Driver Causes Blackout After Crashing Into ...abmnewsint.comhttps://abmnewsint.com \u203a tesla model s blackout",
+        "content": "Tesla Model S cleared by auto safety regulator after fatal Autopilot crash Tesla The Guardian. Tennessee Tesla driver causes blackout after\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "en",
+        "link": "https://www.quora.com/If-an-accident-with-a-self-driving-car-does-occur-is-it-more-likely-to-be-the-fault-of-the-machine-or-the-automaker",
+        "title": "If an accident with a self-driving car does occur, is it ... - QuoraQuorahttps://www.quora.com \u203a If-an-accident-with-a-self-drivi...",
+        "content": "How do Tesla's self-driving vehicles predict accidents before they happen? ... I've become an enthusiast watching dashcam crash videos, and the\u00a0...",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2017:05:06 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 79,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/If-an-accident-with-a-self-driving-car-does-occur-is-it-more-likely-to-be-the-fault-of-the-machine-or-the-automaker",
+        "title": "If an accident with a self-driving car does occur, is it ... - QuoraQuorahttps://www.quora.com \u203a If-an-accident-with-a-self-drivi...",
+        "content": "How do Tesla's self-driving vehicles predict accidents before they happen? ... I've become an enthusiast watching dashcam crash videos, and the\u00a0...",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2017:05:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/If-all-cars-were-self-driving-and-electric-would-it-be-possible-to-have-a-reduced-accident-rate-and-emissions",
+        "title": "If all cars were self-driving and electric, would it be possible to ...Quorahttps://www.quora.com \u203a If-all-cars-were-self-driving-an...",
+        "content": "Only one truly self driving car has had a fatal accident as far as I know. If you are asking about Teslas that have had fatal accidents while on\u00a0...",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2019:10:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/news/vw-id-4-bidirectional-charging-plug-charge-coming-later-this-year-in-ota-software-update/",
+        "title": "VW ID.4 bidirectional charging, Plug & Charge coming later ...driveteslacanada.cahttps://driveteslacanada.ca \u203a news \u203a vw-id-4-bidirectio...",
+        "content": "After a 6-month investigation, the Florida Highway Patrol confirmed a deadly crash involving a Tesla Model S was due to human error. Via WCBJ,\u00a0...",
+        "size": [
+          381,
+          254
+        ],
+        "date": "2022:02:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mycbs4.com/news/local/two-people-killed-in-i-75-accident-after-car-collides-into-semi-truck",
+        "title": "Two people killed in I-75 accident after a Tesla crashed into a ...WGFLhttps://mycbs4.com \u203a news \u203a local \u203a two-people-killed...",
+        "content": "GAINESVILLE, Fla. \u2014 Two people were reported dead Wednesday after a car accident at a southbound Gainesville rest area on Interstate 75.",
+        "size": [
+          4032,
+          2800
+        ],
+        "date": "2022:07:06 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wfla.com/news/florida/tesla-slams-into-rear-of-parked-semi-truck-at-i-75-rest-stop/",
+        "title": "Tesla slams into rear of a parked semi truck at I-75 rest stopWFLAhttps://www.wfla.com \u203a news \u203a florida \u203a tesla-slams-in...",
+        "content": "A man and woman from California were killed Wednesday when their Tesla crashed head-on into the back of a tractor-trailer that was stopped\u00a0...",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2022:07:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.orlandosentinel.com/2022/07/07/2-dead-after-tesla-drives-into-back-of-parked-semi-at-florida-interstate-rest-stop/",
+        "title": "2 dead after Tesla drives into back of parked semi at Florida ...Orlando Sentinelhttps://www.orlandosentinel.com \u203a 2022/07/07 \u203a 2-de...",
+        "content": "Two people died when the Tesla they were in crashed into a parked tractor-trailer at a rest stop near Gainesville, Florida on Interstate 75 on\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2022:07:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.teslaownersonline.com/threads/two-new-fatal-tesla-crashes-on-nhtsa-radar.23373/",
+        "title": "Two new fatal Tesla crashes on NHTSA radarTesla Owners Online Forumhttps://www.teslaownersonline.com \u203a threads \u203a two-ne...",
+        "content": "The National Highway Traffic Safety Administration (NHTSA) announced on Thursday they have launched an investigation into a fatal crash\u00a0...",
+        "size": [
+          1140,
+          641
+        ],
+        "date": "2022:07:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mycbs4.com/news/local/government-investigating-i-75-tesla-crash-no-confirmation-on-the-car-being-in-autopilot",
+        "title": "Government investigating I-75 Tesla crash, no confirmation on ...WGFLhttps://mycbs4.com \u203a news \u203a local \u203a government-inve...",
+        "content": "WGFL CBS4 and WNBW NBC 9 are the local news leaders for the Gainesville, Florida area. Our reporters cover news, sports, weather and local\u00a0...",
+        "size": [
+          768,
+          576
+        ],
+        "date": "2022:07:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bloomberg.com/news/articles/2022-07-08/authorities-to-probe-tesla-crash-in-florida-that-killed-two?srnd=premium",
+        "title": "US Safety Agency Probes Tesla Crash in Florida That Killed TwoBloomberghttps://www.bloomberg.com \u203a news \u203a articles \u203a author...",
+        "content": "The accident, which took place on Wednesday in Gainesville, resulted in the death of two people in the Tesla, the Orlando Sentinel reported. The\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:07:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bloomberg.com/news/articles/2022-07-08/authorities-to-probe-tesla-crash-in-florida-that-killed-two?srnd=condisc",
+        "title": "US Safety Agency Probes Tesla Crash in Florida That Killed TwoBloomberghttps://www.bloomberg.com \u203a news \u203a articles \u203a authoriti...",
+        "content": "The accident, which took place on Wednesday in Gainesville, resulted in the death of two people in the Tesla, the Orlando Sentinel reported. The\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:07:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bloomberg.com/news/articles/2022-07-08/authorities-to-probe-tesla-crash-in-florida-that-killed-two",
+        "title": "US Safety Agency Probes Tesla Crash in Florida That Killed TwoBloomberghttps://www.bloomberg.com \u203a news \u203a articles \u203a author...",
+        "content": "The accident, which took place on Wednesday in Gainesville, resulted in the death of two people in the Tesla, the Orlando Sentinel reported. The\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:07:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bloomberg.com/news/articles/2022-07-08/authorities-to-probe-tesla-crash-in-florida-that-killed-two?re_source=postr_story_3",
+        "title": "US Safety Agency Probes Tesla Crash in Florida That Killed TwoBloomberghttps://www.bloomberg.com \u203a news \u203a articles \u203a author...",
+        "content": "The accident, which took place on Wednesday in Gainesville, resulted in the death of two people in the Tesla, the Orlando Sentinel reported. The\u00a0...",
+        "size": [
+          1200,
+          800
+        ],
+        "date": "2022:07:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.cnbc.com/2022/07/08/us-agency-to-open-probe-into-fatal-florida-tesla-crash.html",
+        "title": "U.S. agency to open probe into fatal Florida Tesla crash - CNBCCNBChttps://www.cnbc.com \u203a 2022/07/08 \u203a us-agency-to-ope...",
+        "content": "A 2015 Tesla rear-ended a parked tractor-trailer in the Gainesville area at a rest area off Interstate 75, the Florida Highway Patrol said. Both\u00a0...",
+        "size": [
+          929,
+          523
+        ],
+        "date": "2022:07:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoblog.com/2022/07/08/tesla-nhtsa-crash-investigations-san-diego-gainesville/",
+        "title": "U.S. investigating fatal Tesla crash into back of a semi-trailerAutobloghttps://www.autoblog.com \u203a Official",
+        "content": "A Tesla rear-ended a tractor-trailer at a rest area off Interstate 75 near Gainesville, Fla., killing both the driver and passenger.",
+        "size": [
+          384,
+          216
+        ],
+        "date": "2022:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://info.vanpeople.com/1313384.html",
+        "title": "\u7279\u65af\u62c9\u53c8\u51fa\u4e8b! \u8ffd\u5c3e\u6c83\u5c14\u739b\u5de8\u578b\u8d27\u8f662\u4eba\u5f53\u573a\u60e8\u6b7b - \u65b0\u95fb\u8d44\u8baf\u4eba\u5728\u6e29\u54e5\u534ehttps://info.vanpeople.com \u203a ...",
+        "content": "",
+        "size": [
+          633,
+          392
+        ],
+        "date": "2022:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.6parknews.com/newspark/view.php?act=view&nid=557295",
+        "title": "\u7279\u65af\u62c9\u8ffd\u5c3e\u5de8\u578b\u8d27\u8f66!2\u4eba\u5f53\u573a\u60e8\u6b7b,\u8f66\u9876\u88ab\u524a\u70c2! - \u65b0\u95fb\u901f\u9012\u65b0\u95fb\u901f\u9012https://www.6parknews.com \u203a view",
+        "content": "",
+        "size": [
+          633,
+          392
+        ],
+        "date": "2022:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.mehrnews.com/news/5534117/%D8%AA%D8%AD%D9%82%DB%8C%D9%82%D8%A7%D8%AA-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D8%AA%D8%B3%D9%84%D8%A7",
+        "title": "\u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u062f\u0631 \u0645\u0648\u0631\u062f \u062a\u0635\u0627\u062f\u0641 \u0645\u0631\u06af\u0628\u0627\u0631 \u062e\u0648\u062f\u0631\u0648\u06cc \u062a\u0633\u0644\u0627 - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0645\u0647\u0631\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0645\u0647\u0631https://www.mehrnews.com \u203a news",
+        "content": "\u0627\u062f\u0627\u0631\u0647 \u0645\u0644\u06cc \u0627\u06cc\u0645\u0646\u06cc \u062a\u0631\u0627\u0641\u06cc\u06a9 \u0628\u0632\u0631\u06af\u0631\u0627\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0631\u0648\u0632 \u062c\u0645\u0639\u0647 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u0648\u06cc\u0698\u0647\u200c\u0627\u06cc \u0631\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u062a\u0635\u0627\u062f\u0641\u06cc \u062f\u0631 \u0641\u0644\u0648\u0631\u06cc\u062f\u0627 \u062f\u0631 \u0631\u0648\u0632 \u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647 \u0622\u063a\u0627\u0632 \u062e\u0648\u0627\u0647\u062f \u06a9\u0631\u062f.",
+        "size": [
+          250,
+          166
+        ],
+        "date": "2022:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.6parkbbs.com/index.php?act=view&cid=3742323",
+        "title": "\u7279\u65af\u62c9\u8ffd\u5c3e\u5de8\u578b\u8d27\u8f66!2\u4eba\u5f53\u573a\u60e8\u6b7b,\u8f66\u9876\u88ab\u524a\u70c2!6parkbbs.comhttps://www.6parkbbs.com \u203a ...",
+        "content": "",
+        "size": [
+          600,
+          372
+        ],
+        "date": "2022:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://wap.e2bo.com/index.php?app=index&act=view&cid=3742323&fromTmpName=user_u1843670236u_ip%3A1123631147",
+        "title": "\u7279\u65af\u62c9\u8ffd\u5c3e\u5de8\u578b\u8d27\u8f66!2\u4eba\u5f53\u573a\u60e8\u6b7b,\u8f66\u9876\u88ab\u524a\u70c2!e2bo.comhttps://wap.e2bo.com \u203a ...",
+        "content": "",
+        "size": [
+          600,
+          372
+        ],
+        "date": "2022:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://songsoft-001-site6.itempurl.com/?thread-3742323.htm",
+        "title": "\u7279\u65af\u62c9\u8ffd\u5c3e\u5de8\u578b\u8d27\u8f66!2\u4eba\u5f53\u573a\u60e8\u6b7b,\u8f66\u9876\u88ab\u524a\u70c2! - \u7559\u56ed\u9a7f\u7ad9\u7559\u56ed\u9a7f\u7ad9https://songsoft-001-site6.itempurl.com \u203a ...",
+        "content": "",
+        "size": [
+          600,
+          372
+        ],
+        "date": "2022:07:09 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2022/07/10/us-safety-watchdog-probes-fatal-tesla-crash-in-florida/",
+        "title": "US safety watchdog probes fatal Tesla crash in FloridaNew York Posthttps://nypost.com \u203a 2022/07/10 \u203a us-safety-watchdog...",
+        "content": "A Tesla that rear-ended a tractor-trailer at a rest area off Interstate A 66-year-old woman and a 67-year-old man were killed when their Tesla\u00a0...",
+        "size": [
+          1200,
+          799
+        ],
+        "date": "2022:07:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.knowledia.com/US/en/articles/lompoc-couple-dies-in-florida-traffic-collision-0e5d1ef824fdddb9300216e44310c50f5f0cc38a",
+        "title": "Lompoc Couple Dies in Florida Traffic CollisionKnowledia Newshttps://news.knowledia.com \u203a articles",
+        "content": "Troopers report around 2:00 p.m. Wednesday, the Tesla was driving south on I-75 in Alachua County, Florida near Gainesville, when it exited for\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2022:07:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://meaww.com/nhtsa-investigation-starts-tesla-california-crash-elderly-couple",
+        "title": "Elderly Florida couple killed after their Tesla crashes into semi ...MEAWWhttps://meaww.com \u203a News",
+        "content": "GAINESVILLE, FLORIDA: A couple from Lompoc in California were killed when the Tesla car they were traveling in crashed into the back of a\u00a0...",
+        "size": [
+          1200,
+          630
+        ],
+        "date": "2022:07:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://tw.sports.yahoo.com/news/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E7%89%B9%E6%96%AF%E6%8B%89%E9%AB%98%E9%80%9F%E6%92%9E%E8%B2%A8%E6%AB%83%E8%BB%8A-%E8%BB%8A%E9%A0%AD%E5%89%A9%E5%8D%8A%E6%88%AA-2%E4%BA%BA%E6%85%98%E8%A2%AB%E6%93%A0%E7%88%9B-014703878.html",
+        "title": "\u9ad8\u901f\u516c\u8def\u6050\u6016\u8eca\u798d\uff01\u7279\u65af\u62c9\u9ad8\u901f\u649e\u8ca8\u6ac3\u8eca\u2026\u300c\u8eca\u982d\u5269\u534a\u622a\u300d2\u4eba ...Yahoo\u5947\u6469\u904b\u52d5https://tw.sports.yahoo.com \u203a news",
+        "content": "... Traffic Safety Administration\uff0cNHTSA\uff09\u4e3b\u5c0e\u3002\u64da\u4e86\u89e3 ... US vehicle safety watchdog investigating Tesla crash that killed 2 in Florida https://t.",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2022:07:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://posts.careerengine.us/p/62ca3896cd66ac53b4585d7f",
+        "title": "\u7279\u65af\u62c9\u53c8\u51fa\u4e8b\uff01 \u8ffd\u5c3e\u6c83\u5c14\u739b\u5de8\u578b\u8d27\u8f662\u4eba\u5f53\u573a\u60e8\u6b7b\u8f66\u9876\u88ab\u524a\u70c2 ...\u5317\u7f8e\u751f\u6d3b\u5f15\u64cehttps://posts.careerengine.us \u203a ...",
+        "content": "",
+        "size": [
+          633,
+          392
+        ],
+        "date": "2022:07:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-under-nhtsa-scanner-over-fatal-crash-in-florida-41657499659678.html",
+        "title": "Tesla under NHTSA scanner over fatal crash in Florida - HT AutoHT Autohttps://auto.hindustantimes.com \u203a ... \u203a electric vehicles",
+        "content": "A 2015 Tesla EV reportedly rear-ended a parked tractor-trailer in the Gainesville area at a rest area off Interstate 75. Both people in the\u00a0...",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxbusiness.com/lifestyle/nhtsa-investigate-fatal-florida-tesla-crash",
+        "title": "NHTSA investigators looking at fatal Florida Tesla crashFox Businesshttps://www.foxbusiness.com \u203a lifestyle \u203a nhtsa-investi...",
+        "content": "Of those, 30 involved Teslas, including 11 fatal crashes that have killed a total of 15 people. In June, NHTSA announced that it had begun an\u00a0...",
+        "size": [
+          1024,
+          512
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://gny.americachineselife.com/%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%88%E5%87%BA%E4%BA%8B-%E8%BF%BD%E5%B0%BE%E6%B2%83%E5%B0%94%E7%8E%9B%E5%B7%A8%E5%9E%8B%E8%B4%A7%E8%BD%A6-2%E4%BA%BA%E5%BD%93%E5%9C%BA%E6%83%A8%E6%AD%BB-%E8%BD%A6/",
+        "title": "\u7279\u65af\u62c9\u53c8\u51fa\u4e8b! \u8ffd\u5c3e\u6c83\u5c14\u739b\u5de8\u578b\u8d27\u8f662\u4eba\u5f53\u573a\u60e8\u6b7b\u8f66\u9876\u88ab\u524a\u70c2 ...\u5927\u7ebd\u7ea6\u751f\u6d3b\u7f51https://gny.americachineselife.com \u203a ...",
+        "content": "",
+        "size": [
+          633,
+          392
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://houston.americachineselife.com/%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%88%E5%87%BA%E4%BA%8B-%E8%BF%BD%E5%B0%BE%E6%B2%83%E5%B0%94%E7%8E%9B%E5%B7%A8%E5%9E%8B%E8%B4%A7%E8%BD%A6-2%E4%BA%BA%E5%BD%93%E5%9C%BA%E6%83%A8%E6%AD%BB-%E8%BD%A6/",
+        "title": "\u7279\u65af\u62c9\u53c8\u51fa\u4e8b! \u8ffd\u5c3e\u6c83\u5c14\u739b\u5de8\u578b\u8d27\u8f662\u4eba\u5f53\u573a\u60e8\u6b7b\u8f66\u9876\u88ab\u524a\u70c2 ...\u4f11\u65af\u987f\u751f\u6d3b\u7f51https://houston.americachineselife.com \u203a ...",
+        "content": "",
+        "size": [
+          633,
+          392
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "https://k-news.co.kr/20220711-V7YhyeBCQtzoiTv0k",
+        "title": "[\uc18d\ubcf4] \ubbf8\uad6d \ucc28\ub7c9 \uc548\uc804\uac10\uc2dc\uae30\uad00, \ud50c\ub85c\ub9ac\ub2e4\uc5d0\uc11c 2\uba85 \uc0ac\ub9dd\ud55c \ud14c\uc2ac\ub77c ...\ud55c\uad6d\uc678\uc2e0\ub274\uc2a4https://k-news.co.kr \u203a ...",
+        "content": "... fatal-tesla-crash-in-florida/]. US vehicle safety watchdog investigating Tesla crash that killed 2 in Florida \ubbf8\uad6d \ucc28\ub7c9 \uc548\uc804\uac10\uc2dc\uae30\uad00\u00a0...",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.telegram.hr/biznis-tech/tesla-opet-pod-istragom-u-najnovijoj-nesreci-poginuli-su-vozacica-automobila-i-njen-suputnik/",
+        "title": "Tesla opet pod istragom, u najnovijoj nesre\u0107i poginuli su ...Telegram.hrhttps://www.telegram.hr \u203a biznis-tech",
+        "content": "Pro\u0161loga tjedna, automobil Tesla, Model 3 iz 2015. godine, skrenuo je, iz nepoznatog razloga, s me\u0111udr\u017eavne autoceste u Floridi,\u00a0...",
+        "size": [
+          1200,
+          761
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://americachineselife.com/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%88%E5%87%BA%E4%BA%8B-%E8%BF%BD%E5%B0%BE%E6%B2%83%E5%B0%94%E7%8E%9B%E5%B7%A8%E5%9E%8B%E8%B4%A7%E8%BD%A6-2%E4%BA%BA%E5%BD%93%E5%9C%BA%E6%83%A8%E6%AD%BB-%E8%BD%A6/",
+        "title": "\u7279\u65af\u62c9\u53c8\u51fa\u4e8b! \u8ffd\u5c3e\u6c83\u5c14\u739b\u5de8\u578b\u8d27\u8f662\u4eba\u5f53\u573a\u60e8\u6b7b\u8f66\u9876\u88ab\u524a\u70c2 ...\u5317\u7f8e\u6d77\u5ba2\u751f\u6d3b\u7f51https://americachineselife.com \u203a \u7279...",
+        "content": "",
+        "size": [
+          633,
+          392
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.mirrormedia.mg/story/20220711web004",
+        "title": "\u96e2\u5947\u6b7b\u4ea1\u8eca\u798d\uff01\u7279\u65af\u62c9\u9ad8\u901f\u81ea\u649e\u8ca8\u6ac3\u8eca\u8eca\u9ad4\u300c\u534a\u622a\u6d88\u5931\u300d2\u4eba\u6158\u6b7b\u93e1\u9031\u520aMirror Mediahttps://www.mirrormedia.mg \u203a story",
+        "content": "... Gainesville\uff09\u5730\u5340\u8def\u6bb5\uff0c\u8eca\u4e0a\u6b7b\u8005\u70ba\u4e00\u540d67\u6b72\u7537\u6027\u99d5\u99db\u8207\u4e00\u540d66\u6b72\u5973\u6027\u4e58\u5ba2\uff0c\u5169\u4eba\u7591\u4f3c\u662f\u9000\u4f11\u4eba\u58eb\uff0c\u99d5\u99db\u4e00\u8f1b2015\u5e74\u7279\u65af\u62c9\uff0c\u4e00\u8def\u5f9e\u7f8e\u570b\u897f\u5cb8\u52a0\u5dde\u7684\u9686\u6ce2\u514b\u00a0...",
+        "size": [
+          1492,
+          994
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://news.ebc.net.tw/news/world/326033",
+        "title": "\u7279\u65af\u62c9\u9ad8\u901f\u649e\u8ca8\u6ac3\u8eca\uff01\u8eca\u982d\u76f4\u63a5\u88ab\u300c\u5403\u6389\u300d 2\u4eba\u7576\u5834\u6158\u6b7b\u6771\u68ee\u65b0\u805ehttps://news.ebc.net.tw \u203a \u570b\u969b",
+        "content": "... Gainesville\uff09\u5730\u5340\u8def\u6bb5\uff0c\u4e0d\u77e5\u9053\u70ba\u4ec0\u9ebc\uff0c\u4ee5\u9ad8\u901f\u4e14\u4e26\u672a\u6e1b\u901f\u7684\u72c0\u614b\uff0c\u76f4\u76f4\u649e\u4e0a\u505c\u5728\u505c\u8eca\u5340\u7684\u8ca8\u6ac3\u8eca\u8eca\u5c3e\uff0c\u8a72\u8f1b\u7279\u65af\u62c9\u7684\u8eca\u982d\u76f4\u63a5\u649e\u721b\uff0c\u6574\u53f0\u8eca\u5e7e\u4e4e\u6210\u4e86\u5ee2\u9435\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2022:07:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://carbuzz.com/news/the-feds-are-seriously-concerned-with-teslas-most-recent-fatal-crash",
+        "title": "The Feds Are Seriously Concerned With Tesla's Most Recent ...CarBuzzhttps://carbuzz.com \u203a News",
+        "content": "Tesla has been making headlines in recent years for Autopilot crashes, many of which end up being fatal, and this most recent crash was so\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": "2022:07:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.zhihu.com/question/543204727/answer/2583411425",
+        "title": "\u5982\u4f55\u770b\u5f85\u7279\u65af\u62c9\u81ea\u52a8\u9a7e\u9a76\u8d1f\u8d23\u4ebaAndrej Karpathy\u79bb\u804c\uff1f - \u77e5\u4e4e\u77e5\u4e4ehttps://www.zhihu.com \u203a answer",
+        "content": "\u6b63\u5982@\u5398\u7c73 \u8bf4\u7684\u90a3\u6837\uff0c\u7279\u65af\u62c9\u53bb\u5e74\u8bb2\u7684BEV\u662f\u56fd\u5185\u4eca\u5e74\u7684\u70ed\u95e8\u8bdd\u9898\uff0c\u5728Tesla AI Day\u4e4b\u540e\u4e00\u77ac\u95f4\u53d8\u5f97\u5982\u96f7\u8d2f\u8033\uff0c\u4ee5\u81f3\u4e8e\u67d0\u4e9b\u7387\u5148\u5728\u81ea\u5df1\u6280\u672f\u8def\u7ebf\u56fe\u4e2d\u4f7f\u7528\u00a0...",
+        "size": [
+          720,
+          405
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://news.livedoor.com/topics/detail/22493409/",
+        "title": "\u30c6\u30b9\u30e9\u8eca\u304c\u30c8\u30ec\u30fc\u30e9\u30fc\u306e\u5f8c\u90e8\u306b\u7a81\u3063\u8fbc\u3080\u6b7b\u4ea1\u4e8b\u6545\u767a\u751f\u3067\u5f53\u5c40\u304c ...\u30e9\u30a4\u30d6\u30c9\u30a2\u30cb\u30e5\u30fc\u30b9https://news.livedoor.com \u203a detail",
+        "content": "... fatal Florida Tesla crashhttps://www.cnbc.com/2022/07/08/us-agency-to-open-probe. facebook\u3067\u9001\u308b \u00b7 twitter\u3067\u9001\u308b \u00b7 LINE\u3067\u9001\u308b \u00b7 \u7d9a\u304d\u3092\u8aad\u3080 \u00b7 #\u00a0...",
+        "size": [
+          560,
+          315
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Is-it-impossible-for-a-Tesla-to-get-into-a-car-accident",
+        "title": "Is it impossible for a Tesla to get into a car accident? - QuoraQuorahttps://www.quora.com \u203a Is-it-impossible-for-a-Tesla-to-...",
+        "content": "Not only it is possible but also a really minor one can be fatal. Look at the celebrity-involved (who is a renowned race car driver in\u00a0...",
+        "size": [
+          602,
+          401
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mycbs4.com/news/local/attorneys-retained-for-family-of-couple-who-died-in-tesla-rest-area-crash",
+        "title": "After fatal Tesla crash at I-75 rest stop, family retains attorneysWGFLhttps://mycbs4.com \u203a news \u203a local \u203a attorneys-retained...",
+        "content": "WGFL CBS4 and WNBW NBC 9 are the local news leaders for the Gainesville, Florida area. Our reporters cover news, sports, weather and local\u00a0...",
+        "size": [
+          4032,
+          2800
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.eastbaytimes.com/2022/07/13/tesla-crash-that-killed-california-couple-at-rest-area-is-under-federal-investigation/",
+        "title": "Tesla crash that killed California couple investigated by NHTSAEast Bay Timeshttps://www.eastbaytimes.com \u203a 2022/07/13 \u203a tesla-cr...",
+        "content": "... Gainesville, Florida. The crash killed the Tesla's occupants: driver Mary Lou Seelandt, 66, and her husband, Karl Seelandt, 67, from Lompoc.",
+        "size": [
+          978,
+          586
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://huaelife.com/two-people-were-killed-when-the-tesla-hit-a-roadside-container-truck/",
+        "title": "\u7279\u65af\u62c9\u649e\u8def\u8fb9\u8d27\u67dc\u8f662\u4eba\u5f53\u573a\u6b7b\u4ea1 - \u534ee\u751f\u6d3b\u534ee\u751f\u6d3bhttps://huaelife.com \u203a two-people-w...",
+        "content": "... Gainesville\uff09\u5730\u533a\u8def\u6bb5\uff0c\u8f66\u4e0a2\u4eba\u7591\u4f3c\u662f\u9000\u4f11\u4eba\u58eb\uff0c\u5206\u522b66\u5c81\u7537\u6027\u9a7e\u9a76\u4e0e67\u5c81\u5973\u6027\u4e58\u5ba2\uff0c\u4e00\u8def\u4ece\u7f8e\u56fd\u897f\u5cb8\u52a0\u5dde\u7684\u9686\u6ce2\u514b\uff08Lompoc\uff09\u81ea\u9a7e\u6765\u5230\u4e1c\u5cb8\u7684\u4f5b\u5dde\uff0c\u8f66\u7978\u540e\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.zhihu.com/question/543204727/answer/2583411425",
+        "title": "\u5982\u4f55\u770b\u5f85\u7279\u65af\u62c9\u81ea\u52a8\u9a7e\u9a76\u8d1f\u8d23\u4ebaAndrej Karpathy\u79bb\u804c\uff1f - \u77e5\u4e4e\u77e5\u4e4ehttps://www.zhihu.com \u203a answer",
+        "content": "\u6b63\u5982@\u5398\u7c73 \u8bf4\u7684\u90a3\u6837\uff0c\u7279\u65af\u62c9\u53bb\u5e74\u8bb2\u7684BEV\u662f\u56fd\u5185\u4eca\u5e74\u7684\u70ed\u95e8\u8bdd\u9898\uff0c\u5728Tesla AI Day\u4e4b\u540e\u4e00\u77ac\u95f4\u53d8\u5f97\u5982\u96f7\u8d2f\u8033\uff0c\u4ee5\u81f3\u4e8e\u67d0\u4e9b\u7387\u5148\u5728\u81ea\u5df1\u6280\u672f\u8def\u7ebf\u56fe\u4e2d\u4f7f\u7528\u00a0...",
+        "size": [
+          720,
+          405
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "my",
+        "link": "https://www.duwun.com.mm/article/lunhit-u-thesaonkhete-palawyaida-tesla-kataikmhu-sonsansitsaene-p-id60184",
+        "title": "\u101c\u1030\u1014\u103e\u1005\u103a\u1026\u1038 \u101e\u1031\u1006\u102f\u1036\u1038\u1001\u1032\u1037\u1010\u1032\u1037 ...Duwunhttps://www.duwun.com.mm \u203a article",
+        "content": "\u1016\u101c\u1031\u102c\u103a\u101b\u102e\u1012\u102b \u1021\u101d\u1031\u1038\u1015\u103c\u1031\u1038\u101c\u1019\u103a\u1038\u1000\u1004\u103a\u1038\u101c\u103e\u100a\u1037\u103a\u1021\u1016\u103d\u1032\u1037\u101b\u1032\u1037 \u1021\u1006\u102d\u102f\u1021\u101b \u1042\u1040\u1041\u1045 \u1019\u1031\u102c\u103a\u1012\u101a\u103a Tesla \u1000\u102c\u1038\u1010\u1005\u103a\u1005\u1004\u103a\u1038\u101f\u102c Interstate 75 \u101a\u102c\u1009\u103a\u101b\u1015\u103a\u1014\u102c\u1038\u1005\u1001\u1014\u103a\u1038\u1010\u1005\u103a\u101b\u1032\u1037 \u1021\u1015\u103c\u1004\u103a\u1018\u1000\u103a Gainesville \u1027\u101b\u102d\u101a\u102c\u00a0...",
+        "size": [
+          945,
+          630
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mercurynews.com/2022/07/13/tesla-crash-that-killed-california-couple-at-rest-area-is-under-federal-investigation/",
+        "title": "Tesla crash that killed California couple investigated by NHTSAThe Mercury Newshttps://www.mercurynews.com \u203a 2022/07/13 \u203a tesla-cr...",
+        "content": "The car ran into the back of a parked tractor-trailer. Tesla crash. A crash July 6, 2022, at an interstate rest area near Gainesville, Fla.,\u00a0...",
+        "size": [
+          978,
+          586
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.mirrormedia.mg/story/20220713web001",
+        "title": "\u9577\u5e9a\u91ab\u5077\u5403\u540c\u8a3a\u9593\u8b77\u7406\u5e2b\u5979\u58ae\u80ce\u8840\u5d29\u9084\u8981\u300c\u63a5\u5ba2\u9084\u50b5\u300d - \u93e1\u9031\u520a\u93e1\u9031\u520aMirror Mediahttps://www.mirrormedia.mg \u203a story",
+        "content": "",
+        "size": [
+          1492,
+          994
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.orlandosentinel.com/2022/07/13/morgan-morgan-retained-by-family-of-couple-who-died-when-tesla-crashed-into-parked-semi/",
+        "title": "Morgan & Morgan retained by family of couple who died when ...Orlando Sentinelhttps://www.orlandosentinel.com \u203a 2022/07/13 \u203a mor...",
+        "content": "Two people died when the Tesla they were in crashed into a parked tractor-trailer at a rest stop near Gainesville, Florida on Interstate 75 on\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "my",
+        "link": "https://www.duwun.com.mm/article/lunhit-u-thesaonkhete-palawyaida-tesla-kataikmhu-sonsansitsaene-p-id60184",
+        "title": "\u101c\u1030\u1014\u103e\u1005\u103a\u1026\u1038 \u101e\u1031\u1006\u102f\u1036\u1038\u1001\u1032\u1037\u1010\u1032\u1037 ...Duwunhttps://www.duwun.com.mm \u203a article",
+        "content": "\u1016\u101c\u1031\u102c\u103a\u101b\u102e\u1012\u102b \u1021\u101d\u1031\u1038\u1015\u103c\u1031\u1038\u101c\u1019\u103a\u1038\u1000\u1004\u103a\u1038\u101c\u103e\u100a\u1037\u103a\u1021\u1016\u103d\u1032\u1037\u101b\u1032\u1037 \u1021\u1006\u102d\u102f\u1021\u101b \u1042\u1040\u1041\u1045 \u1019\u1031\u102c\u103a\u1012\u101a\u103a Tesla \u1000\u102c\u1038\u1010\u1005\u103a\u1005\u1004\u103a\u1038\u101f\u102c Interstate 75 \u101a\u102c\u1009\u103a\u101b\u1015\u103a\u1014\u102c\u1038\u1005\u1001\u1014\u103a\u1038\u1010\u1005\u103a\u101b\u1032\u1037 \u1021\u1015\u103c\u1004\u103a\u1018\u1000\u103a Gainesville \u1027\u101b\u102d\u101a\u102c\u00a0...",
+        "size": [
+          945,
+          630
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.mirrormedia.mg/story/20220713web002",
+        "title": "\u9694\u58c1\u5957\u623f\u98c4\u60e1\u81ed\uff01\u60c5\u4fb6\u958b\u9580\u9a5a\u898b\u7537\u5b50\u300c\u9762\u76ee\u5168\u975e\u300d \u5c4d\u6c34\u6d41\u6eff\u5730\u93e1\u9031\u520aMirror Mediahttps://www.mirrormedia.mg \u203a story",
+        "content": "",
+        "size": [
+          800,
+          533
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://huaelife.com/two-people-were-killed-when-the-tesla-hit-a-roadside-container-truck/",
+        "title": "\u7279\u65af\u62c9\u649e\u8def\u8fb9\u8d27\u67dc\u8f662\u4eba\u5f53\u573a\u6b7b\u4ea1 - \u534ee\u751f\u6d3b\u534ee\u751f\u6d3bhttps://huaelife.com \u203a two-people-w...",
+        "content": "... Gainesville\uff09\u5730\u533a\u8def\u6bb5\uff0c\u8f66\u4e0a2\u4eba\u7591\u4f3c\u662f\u9000\u4f11\u4eba\u58eb\uff0c\u5206\u522b66\u5c81\u7537\u6027\u9a7e\u9a76\u4e0e67\u5c81\u5973\u6027\u4e58\u5ba2\uff0c\u4e00\u8def\u4ece\u7f8e\u56fd\u897f\u5cb8\u52a0\u5dde\u7684\u9686\u6ce2\u514b\uff08Lompoc\uff09\u81ea\u9a7e\u6765\u5230\u4e1c\u5cb8\u7684\u4f5b\u5dde\uff0c\u8f66\u7978\u540e\u00a0...",
+        "size": [
+          640,
+          426
+        ],
+        "date": "2022:07:13 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "http://www.koreatimes.com/article/1423943",
+        "title": "\ud14c\uc2ac\ub77c \uc790\uc728\uc8fc\ud589\uc774 \ub610?\u2026 37\ubc88\uc9f8 \uc0ac\uace0\uc5d0 \ub2f9\uad6d \uc870\uc0ac - \ubbf8\uc8fc\ud55c\uad6d\uc77c\ubcf4The Korea Timeshttp://www.koreatimes.com \u203a article",
+        "content": "",
+        "size": [
+          600,
+          338
+        ],
+        "date": "2022:07:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "http://dc.koreatimes.com/article/20220713/1423943",
+        "title": "\ud14c\uc2ac\ub77c \uc790\uc728\uc8fc\ud589\uc774 \ub610?\u2026 37\ubc88\uc9f8 \uc0ac\uace0\uc5d0 \ub2f9\uad6d \uc870\uc0ac\ubbf8\uc8fc\ud55c\uad6d\uc77c\ubcf4 - \uc6cc\uc2f1\ud134 DChttp://dc.koreatimes.com \u203a article",
+        "content": "",
+        "size": [
+          600,
+          338
+        ],
+        "date": "2022:07:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nbcnews.com/business/autos/family-victims-killed-tesla-crash-hires-prominent-florida-attorneys-rcna38298",
+        "title": "Family of victims killed in Tesla crash hires prominent Florida ...NBC Newshttps://www.nbcnews.com \u203a business \u203a autos \u203a family-...",
+        "content": "Mary Lou and Karl Seelandt of Lompoc, Calif., died July 6 after their 2015 Tesla slammed into the rear of a freight truck at a rest stop near\u00a0...",
+        "size": [
+          1240,
+          827
+        ],
+        "date": "2022:07:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.mirrormedia.mg/story/20220722edi027",
+        "title": "\u7279\u65af\u62c9\u71d2\u8d77\u4f86\u96e3\u64b2\u6ec5\uff01\u5f71\u7247\u592a\u9a5a\u609a\u7f8e\u6d88\u9632\u54e1\u6f861.7\u842c\u516c\u5347\u6c34\u624d\u7184\u93e1\u9031\u520aMirror Mediahttps://www.mirrormedia.mg \u203a story",
+        "content": "",
+        "size": [
+          1492,
+          994
+        ],
+        "date": "2022:07:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.36kr.com/p/1852117021101440",
+        "title": "34\u5c81\u9a91\u624b\u5f53\u573a\u8eab\u4ea1\uff0c\u7279\u65af\u62c9\u81ea\u52a8\u9a7e\u9a76\u518d\u95ef\u7978\u8ffd\u5c3e\u6469\u6258\u8f66 - 36\u6c2a36\u6c2ahttps://m.36kr.com \u203a ...",
+        "content": "\u4e3b\u52a8\u5de1\u822a\u63a7\u5236\uff08Traffic Aware ... \u53c2\u8003\u8d44\u6599. https://www.dailymail.co.uk/news/article-11052501/Biker-killed-Tesla-Autopilot-smashes-Harley-Davidson.",
+        "size": [
+          939,
+          676
+        ],
+        "date": "2022:07:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.36kr.com/p/1852117021101440",
+        "title": "34\u5c81\u9a91\u624b\u5f53\u573a\u8eab\u4ea1\uff0c\u7279\u65af\u62c9\u81ea\u52a8\u9a7e\u9a76\u518d\u95ef\u7978\u8ffd\u5c3e\u6469\u6258\u8f66 - 36\u6c2a36\u6c2ahttps://m.36kr.com \u203a ...",
+        "content": "\u4e3b\u52a8\u5de1\u822a\u63a7\u5236\uff08Traffic Aware ... \u53c2\u8003\u8d44\u6599. https://www.dailymail.co.uk/news/article-11052501/Biker-killed-Tesla-Autopilot-smashes-Harley-Davidson.",
+        "size": [
+          939,
+          676
+        ],
+        "date": "2022:07:31 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.autobit.xyz/news/2401.html",
+        "title": "\u81ea\u52a8\u9a7e\u9a76\u7075\u9b42\u4eba\u7269\u79bb\u804c\uff0c\u9a6c\u65af\u514b\u8981\u91cd\u62fe\u6beb\u7c73\u6ce2\u96f7\u8fbe\uff1f - \u6c7d\u8f66\u4e4b\u5fc3\u6c7d\u8f66\u4e4b\u5fc3https://www.autobit.xyz \u203a news",
+        "content": "\u6559\u80b2\u4f3c\u4e4e\u662fKarpathy \u5341\u5206\u611f\u5174\u8da3\u7684\u4e00\u9879\u5de5\u4f5c\uff0c\u8fd9\u4e0d\u4ec5\u4f53\u73b0\u4ed6\u6bcf\u6b21\u5728Tesla AI Day \u548cCVPR Workshop \u4e0a\u9762\u7684\u70ed\u60c5\u5206\u4eab\uff0c\u4eceKarpathy \u66f4\u65e9\u4e4b\u524d\u7684\u5b66\u672f\u7ecf\u5386\u4e5f\u53ef\u4ee5\u00a0...",
+        "size": [
+          929,
+          523
+        ],
+        "date": "2022:08:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://cafef.vn/co-quan-thuoc-chinh-phu-my-xe-dien-tesla-khong-giong-quang-cao-co-the-bi-rut-giay-phep-20220807210241383.chn",
+        "title": "Xe \u0111i\u1ec7n Tesla kh\u00f4ng gi\u1ed1ng qu\u1ea3ng c\u00e1o - C\u00f3 th\u1ec3 b\u1ecb r\u00fat gi\u1ea5y ph\u00e9p?CafeFhttps://cafef.vn \u203a co-quan-thuoc-chi...",
+        "content": "G\u00f3i t\u00ednh n\u0103ng Full Self-Driving c\u00f3 gi\u00e1 12.000 USD, ch\u1ec9 \u0111\u01b0\u1ee3c k\u00edch ho\u1ea1t cho nh\u1eefng ng\u01b0\u1eddi l\u00e1i m\u00e0 Tesla ph\u00ea duy\u1ec7t. V\u0103n b\u1ea3n c\u1ee7a C\u1ee5c ch\u1ec9 r\u00f5 t\u00ean c\u1ee7a\u00a0...",
+        "size": [
+          700,
+          438
+        ],
+        "date": "2022:08:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.mehrnews.com/news/5561027/%D8%AA%D8%AD%D9%82%DB%8C%D9%82%D8%A7%D8%AA-%D8%AA%D8%A7%D8%B2%D9%87-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D9%87%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%AA%D8%B3%D9%84%D8%A7",
+        "title": "\u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u062a\u0627\u0632\u0647 \u062f\u0631 \u0645\u0648\u0631\u062f \u062a\u0635\u0627\u062f\u0641\u200c\u0647\u0627\u06cc \u062e\u0648\u062f\u0631\u0648\u0647\u0627\u06cc \u062a\u0633\u0644\u0627 - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0645\u0647\u0631\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0645\u0647\u0631https://www.mehrnews.com \u203a news",
+        "content": "\u062f\u0648 \u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u06a9\u0646\u06af\u0631\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u06a9\u0647 \u0631\u06cc\u0627\u0633\u062a \u06a9\u0645\u06cc\u062a\u0647\u200c\u0647\u0627\u06cc \u0641\u0631\u0639\u06cc \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0627\u06cc\u0645\u0646\u06cc \u062e\u0648\u062f\u0631\u0648\u0647\u0627 \u0631\u0627 \u0628\u0631 \u0639\u0647\u062f\u0647 \u062f\u0627\u0631\u0646\u062f\u060c \u0627\u0632 \u0631\u06af\u0648\u0644\u0627\u062a\u0648\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062e\u0648\u0627\u0633\u062a\u0647\u200c\u0627\u0646\u062f \u062a\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u062a\u0635\u0627\u062f\u0641\u0627\u062a\u00a0...",
+        "size": [
+          250,
+          166
+        ],
+        "date": "2022:08:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.hstong.com/news/hk/detail/22081710370708312",
+        "title": "\u81ea\u52d5\u99d5\u99db\u983b\u7e41\u95d6\u798d\u5b89\u5168\u6027\u518d\u906d\u4fe1\u4efb\u5371\u6a5f\u6e2f\u7f8e\u80a1\u8cc7\u8a0a - \u534e\u76db\u901a\u534e\u76db\u901ahttps://www.hstong.com \u203a detail",
+        "content": "",
+        "size": [
+          660,
+          366
+        ],
+        "date": "2022:08:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://auto.sina.cn/news/hy/2022-08-17/detail-imizirav8489800.d.html",
+        "title": "\u81ea\u52a8\u9a7e\u9a76\u9891\u7e41\u95ef\u7978\u5b89\u5168\u6027\u518d\u906d\u4fe1\u4efb\u5371\u673a - \u65b0\u6d6a\u6c7d\u8f66\u65b0\u6d6ahttps://auto.sina.cn \u203a news \u203a detail-i...",
+        "content": "",
+        "size": [
+          660,
+          366
+        ],
+        "date": "2022:08:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-TW",
+        "link": "https://www.hstong.com/news/hk/detail/22081710370708312",
+        "title": "\u81ea\u52d5\u99d5\u99db\u983b\u7e41\u95d6\u798d\u5b89\u5168\u6027\u518d\u906d\u4fe1\u4efb\u5371\u6a5f\u6e2f\u7f8e\u80a1\u8cc7\u8a0a - \u534e\u76db\u901a\u534e\u76db\u901ahttps://www.hstong.com \u203a detail",
+        "content": "",
+        "size": [
+          660,
+          366
+        ],
+        "date": "2022:08:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.36kr.com/p/1928612737682052",
+        "title": "\u88c1\u5458\u3001\u5356\u8eab\u3001\u5927\u4e8f\u635f\uff0c\u897f\u534a\u7403\u522e\u6765\u81ea\u52a8\u9a7e\u9a76\u7b2c\u4e00\u80a1\u5bd2\u98ce - 36\u6c2a36\u6c2ahttps://m.36kr.com \u203a ...",
+        "content": "",
+        "size": [
+          929,
+          523
+        ],
+        "date": "2022:09:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://redian.news/wxnews/130898",
+        "title": "\u70e7\u5149260\u4ebf\uff0c\u6b63\u5f0f\u7834\u4ea7\uff01\u6740\u7ea2\u773c\u7684\u6c7d\u8f66\u754c\u201c\u571f\u8c6a\u201d\uff0c\u7ec8\u4e8e\u6015\u4e86Redian\u65b0\u95fbhttps://redian.news \u203a wxnews",
+        "content": "",
+        "size": [
+          929,
+          457
+        ],
+        "date": "2022:11:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.donanimhaber.com/tesla-nin-otopilotu-buyuk-bir-kazadan-sorumlu-tutuluyor--158476",
+        "title": "Tesla'n\u0131n otopilotu b\u00fcy\u00fck bir kazadan sorumlu tutuluyorDonan\u0131mHaberhttps://www.donanimhaber.com \u203a te...",
+        "content": "Tesla'n\u0131n otonom s\u00fcr\u00fc\u015f sistemi bir kazadan daha sorumlu tutuldu. Kaliforniya'da zincirleme kazaya neden olan bir Tesla s\u00fcr\u00fcc\u00fcs\u00fc su\u00e7u\u00a0...",
+        "size": [
+          600,
+          338
+        ],
+        "date": "2022:12:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.bilibili.com/video/BV1ER4y1z7TS?from=search",
+        "title": "\u4e09\u5206\u949f\u641e\u5b9a\u5fae\u8f6f\u96f6\u6837\u672c\u8bed\u97f3\u5408\u6210VALL-E - bilibili\u54d4\u54e9\u54d4\u54e9https://www.bilibili.com \u203a video",
+        "content": "",
+        "size": [
+          480,
+          270
+        ],
+        "date": "2023:02:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://www.bilibili.com/video/BV1R8411g7pf/",
+        "title": "\u8be6\u89e3\u5fae\u8f6f\u96f6\u6837\u672c\u8bed\u97f3\u5408\u6210VALL-E - BilibiliB\u7ad9https://www.bilibili.com \u203a video",
+        "content": "",
+        "size": [
+          480,
+          270
+        ],
+        "date": "2023:02:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/news/deadly-tesla-model-s-crash-in-florida-ruled-as-human-error/",
+        "title": "Deadly Tesla Model S crash in Florida ruled as human errordriveteslacanada.cahttps://driveteslacanada.ca \u203a news \u203a deadly-tesla-mode...",
+        "content": "Via WCBJ, the accident in July saw a couple from California hit a parked semi-truck trailer at a rest area near Gainesville, Florida. Per\u00a0...",
+        "size": [
+          1620,
+          1080
+        ],
+        "date": "2023:02:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.siliconvalley.com/2023/03/23/tesla-accused-in-lawsuit-over-crash-that-killed-california-couple/",
+        "title": "Tesla accused in lawsuit over crash that killed California coupleSiliconValley.comhttps://www.siliconvalley.com \u203a 2023/03/23 \u203a tesla-ac...",
+        "content": "The family of a California couple who were killed in the crash of their Tesla has named the carmaker in a wrongful-death suit.",
+        "size": [
+          583,
+          349
+        ],
+        "date": "2023:03:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mercurynews.com/2023/03/23/tesla-accused-in-lawsuit-over-crash-that-killed-california-couple/",
+        "title": "Tesla accused in lawsuit over crash that killed California coupleThe Mercury Newshttps://www.mercurynews.com \u203a 2023/03/23 \u203a tesla-a...",
+        "content": "The family of a California couple who were killed in the crash of their Tesla has named the carmaker in a wrongful-death suit.",
+        "size": [
+          978,
+          586
+        ],
+        "date": "2023:03:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.dagensps.se/motor/tesla-stams-for-dodsolycka-anses-vara-vallande/",
+        "title": "Tesla st\u00e4ms f\u00f6r d\u00f6dsolycka: Anses vara v\u00e5llande - Dagens PSDagens PShttps://www.dagensps.se \u203a motor \u203a t...",
+        "content": "I juli f\u00f6rra \u00e5ret k\u00f6rde ett amerikanskt par, hemmah\u00f6rande i Kalifornien, p\u00e5 en roadtrip i Gainesville, Florida i en Tesla Model S. Bilen\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:03:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breitbart.com/tech/2023/03/27/lawsuit-tesla-caused-florida-crash-that-resulted-in-death-of-married-couple/",
+        "title": "Lawsuit: Tesla Caused Florida Crash that Resulted in Death of ...Breitbarthttps://www.breitbart.com \u203a Tech \u203a 2023/03/27",
+        "content": "The family of a husband and wife who died when their Tesla crashed into a truck in a Florida rest stop has filed a wrongful-death suit\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:03:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://driveteslacanada.ca/news/family-files-wrongful-death-lawsuit-against-tesla-over-fatal-florida-crash/",
+        "title": "Family files wrongful death lawsuit against Tesla over fatal ...driveteslacanada.cahttps://driveteslacanada.ca \u203a news \u203a family-files-wrong...",
+        "content": "However, the suit states the car was equipped with \u201ccrash avoidance and crash mitigation features.\u201d The accident occurred on a highway exit that\u00a0...",
+        "size": [
+          1140,
+          641
+        ],
+        "date": "2023:03:28 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.autoevolution.com/news/tesla-accused-of-wrongful-death-in-lawsuit-over-fatal-florida-crash-212571.html",
+        "title": "Tesla Accused of Wrongful Death in Lawsuit Over Fatal ...autoevolutionhttps://www.autoevolution.com \u203a News \u203a U-turn",
+        "content": "The family of a California couple killed in a crash in Florida last year has named Tesla in a wrongful death lawsuit.",
+        "size": [
+          2550,
+          1700
+        ],
+        "date": "2023:03:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.carcomplaints.com/news/2023/lawsuit-florida-tesla-crash-that-killed-2.shtml",
+        "title": "Lawsuit Filed Over Florida Tesla Crash That Killed 2CarComplaints.comhttps://www.carcomplaints.com \u203a news \u203a lawsuit-florid...",
+        "content": "The Tesla Florida crash lawsuit was filed in the U.S. District Court for the Northern District of Florida (Gainesville Division): Robert\u00a0...",
+        "size": [
+          250,
+          174
+        ],
+        "date": "2023:04:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://m.36kr.com/p/2244679707324549",
+        "title": "\u200b\u70e7\u5149131\u4ebf\uff0c\u88ab\u738b\u4f20\u798f\u75db\u9a82\u7684\u201c\u5438\u8840\u9b3c\u201d\uff0c\u539f\u5f62\u6bd5\u9732-36\u6c2a36\u6c2ahttps://m.36kr.com \u203a ...",
+        "content": "",
+        "size": [
+          929,
+          457
+        ],
+        "date": "2023:05:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.xataka.com.mx/automovil/autopilot-tesla-estuvo-involucrado-736-accidentes-17-resultaron-fatales-datos-recopilados-the-washington-post",
+        "title": "El Autopilot de Tesla estuvo involucrado en 736 accidentes ...Xataka M\u00e9xicohttps://www.xataka.com.mx \u203a autop...",
+        "content": "Desde 2019, &nbsp;el Autopilot de Tesla estuvo involucrado en 736 accidentes en Estados Unidos, de los cuales, 17 resultaron fatales y 11 de\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.donanimhaber.com/tesla-otopilotun-aci-bilancosu-ortaya-cikti-17-olum-736-kaza--164843",
+        "title": "Tesla otopilotun ac\u0131 bilan\u00e7osu ortaya \u00e7\u0131kt\u0131: 17 \u00f6l\u00fcm, 736 kazaDonan\u0131mHaberhttps://www.donanimhaber.com \u203a te...",
+        "content": "Tesla otopilot sisteminin ac\u0131 bilan\u00e7osu ortaya \u00e7\u0131kt\u0131: 17 \u00f6l\u00fcm, 736 kaza. Tesla ... crashes-elon-musk/ \u00b7 https://insideevs.com/news/671861/tesla-\u00a0...",
+        "size": [
+          1400,
+          788
+        ],
+        "date": "2023:06:14 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "http://m.ppomppu.co.kr/new/bbs_view.php?id=car&no=895211",
+        "title": "\uc544\uc774\uc624\ub2c96 \uc0ac\ub9dd\uc0ac\uace0 \ub0ac\ub124\uc694 - \uc790\ub3d9\ucc28\ud3ec\ub7fc - \ubf50\ubfcc\ubf50\ubfcchttp://m.ppomppu.co.kr \u203a bbs_view",
+        "content": "Tesla accused in lawsuit over crash that killed California couple; The family of a California couple who were killed in the crash of their\u00a0...",
+        "size": [
+          690,
+          517
+        ],
+        "date": "2023:06:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://chejiahao.m.autohome.com.cn/info/12850800",
+        "title": "\u7279\u65af\u62c9\u7591\u201c\u52a0\u901f\u5931\u63a7\u201d\u88ab\u91cd\u542f\u8c03\u67e5\uff0c\u6216\u9762\u4e34\u6700\u9ad81.316\u4ebf\u7f8e\u5143\u7684\u7f5a\u6b3e\u6c7d\u8f66\u4e4b\u5bb6https://chejiahao.m.autohome.com.cn \u203a ...",
+        "content": "",
+        "size": [
+          640,
+          385
+        ],
+        "date": "2023:07:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://chejiahao.m.autohome.com.cn/info/12850800",
+        "title": "\u7279\u65af\u62c9\u7591\u201c\u52a0\u901f\u5931\u63a7\u201d\u88ab\u91cd\u542f\u8c03\u67e5\uff0c\u6216\u9762\u4e34\u6700\u9ad81.316\u4ebf\u7f8e\u5143\u7684\u7f5a\u6b3e\u6c7d\u8f66\u4e4b\u5bb6https://chejiahao.m.autohome.com.cn \u203a ...",
+        "content": "",
+        "size": [
+          640,
+          385
+        ],
+        "date": "2023:07:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bluespace.ai/blog/when-frame-one-is-just-too-late",
+        "title": "When Frame One Is Just Too Late\u2026 - BlueSpace.aibluespace.aihttps://www.bluespace.ai \u203a blog \u203a when-frame-one-is-j...",
+        "content": "Whether it's Tesla's L2 autopilot, FSD, or Mercedes L3 that's driven ... Bluespace: Collision Avoidance #SaferAutonomy #4DPredictivePerception.",
+        "size": [
+          1500,
+          1000
+        ],
+        "date": "2023:07:12 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breitbart.com/tech/2023/08/17/tesla-engineers-testify-elon-musks-company-didnt-fix-autopilot-problems-after-fatal-crashes/",
+        "title": "Tesla Engineers Testify Elon Musk's Company Didn't Fix ...Breitbarthttps://www.breitbart.com \u203a Tech \u203a 2023/08/17",
+        "content": "Tesla engineers testifying in a lawsuit filed by the family of a driver killed in a 2019 crash stated that the company failed to address\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:08:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://soundhealthandlastingwealth.com/celebrity/us-regulators-have-probed-42-tesla-crashes-suspected-of-involving-self-driving-software-with-23-killed-including-two-fatal-collisions-last-month-in-california-and-virginia/",
+        "title": "US regulators have probed 42 Tesla crashes suspected of ...Sound Health and Lasting Wealthhttps://soundhealthandlastingwealth.com \u203a Celebrity",
+        "content": "Following two fatal Tesla crashes last month in California and Virginia, federal investigators are probing at least 42 collisions believed\u00a0...",
+        "size": [
+          634,
+          397
+        ],
+        "date": "2023:08:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailymail.co.uk/news/article-12442209/tesla-crash-federal-investigation-NHTSA.html",
+        "title": "US regulators have probed 42 Tesla crashes suspected of ...Daily Mailhttps://www.dailymail.co.uk \u203a news \u203a article-12442209",
+        "content": "The Tesla crashes under special investigation by the National Highway Traffic Safety Administration (NHTSA) involve 23 fatalities since 2016\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:08:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldiario.es/tecnologia/tesla-enfrenta-primeros-juicios-muertes-relacionadas-coches-autonomos_1_10474630.html",
+        "title": "Tesla enfrenta los primeros juicios por muertes relacionadas ...elDiario.eshttps://www.eldiario.es \u203a tecnologia",
+        "content": "El primer juicio tratar\u00e1 la muerte de Micah Lee, el conductor de un Tesla Model 3 que choc\u00f3 contra una palmera en Los \u00c1ngeles a m\u00e1s de 100\u00a0...",
+        "size": [
+          880,
+          495
+        ],
+        "date": "2023:09:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.eldiarioar.com/economia/tesla-enfrenta-primeros-juicios-muertes-relacionadas-coches-autonomos_1_10481102.html",
+        "title": "Tesla enfrenta los primeros juicios por muertes relacionadas ...elDiarioAR.comhttps://www.eldiarioar.com \u203a tesla-e...",
+        "content": "",
+        "size": [
+          880,
+          495
+        ],
+        "date": "2023:09:01 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://www.clairemaskerytherapy.co.uk/http/tur.animalia-life.club/grafik-araba-kazas%C4%B1nda-%C3%B6l%C3%BCm",
+        "title": "Grafik Araba Kazas\u0131nda \u00f6l\u00fcmclairemaskerytherapy.co.ukhttps://www.clairemaskerytherapy.co.uk \u203a ...",
+        "content": "Tesla otopilotun ac\u0131 bilan\u00e7osu ortaya \u00e7\u0131kt\u0131: 17 \u00f6l\u00fcm, 736 kaza | Donan\u0131mHaber ... Traffic collision Traffic collision Resimleri, Stok\u00a0...",
+        "size": [
+          1400,
+          1050
+        ],
+        "date": "2023:10:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.breitbart.com/tech/2023/10/26/lawsuit-claims-elon-musks-tesla-knew-of-malfunctions-in-autopilot-2-years-before-fatal-crash/",
+        "title": "Lawsuit Claims Elon Musk's Tesla Knew of Malfunctions in ...Breitbarthttps://www.breitbart.com \u203a Tech \u203a 2023/10/26",
+        "content": "Tesla is embroiled in a high-stakes legal battle over a fatal accident allegedly caused by a malfunction in its Autopilot system.",
+        "size": [
+          640,
+          480
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://vrwebdesigns.in/?i=walmart-india-s-laid-off-employees-write-to-us-aa-RZQJVnUr",
+        "title": "Walmart India's Laid-off Employees Write To US Headquarters ...vrwebdesigns.inhttps://vrwebdesigns.in \u203a ...",
+        "content": "",
+        "size": [
+          1620,
+          1080
+        ],
+        "date": "2023:11:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.healingtreetherapy.net/http/ita.animalia-life.club/raccoglitori-di-stelle-a-Walmart",
+        "title": "Raccoglitori Di Stelle A Walmarthealingtreetherapy.nethttps://www.healingtreetherapy.net \u203a http \u203a raccoglitor...",
+        "content": "Two people killed in I-75 accident after a Tesla crashed into a parked tractor. Two people killed in I-75 accident after a Tesla crashed int...",
+        "size": [
+          4032,
+          4032
+        ],
+        "date": "2023:11:11 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abmnewsint.com/?a=tennessee-tesla-driver-causes-blackout-after-crashing-into-power-pp-DPqJKlTo",
+        "title": "Tennessee Tesla Driver Causes Blackout After Crashing Into ...abmnewsint.comhttps://abmnewsint.com \u203a tesla model s blackout",
+        "content": "Tesla Model S cleared by auto safety regulator after fatal Autopilot crash Tesla The Guardian. Tennessee Tesla driver causes blackout after\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": "2023:11:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=49-YnGtEEnc",
+        "title": "Feds to investigate Florida Tesla crash that killed 2 - YouTubeYouTube\u00a0\u00b7\u00a0FOX 35 Orlando5.1K+ views  \u00b7  1 year ago",
+        "content": "The U.S. government's auto safety watchdog is sending investigators to another Tesla crash, this time one that killed two people along\u00a0...",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://credent-capital.com/?a=investigating-fatal-tesla-crash-into-back-of-a-semi-nn-X6jA8wub",
+        "title": "Investigating Fatal Tesla Crash Into Back Of A Semi-trailer, 55 ...credent-capital.comhttp://credent-capital.com \u203a ...",
+        "content": "investigating fatal Tesla crash into back of a semi-trailer Autoblog Autoblog. NHTSA to investigate I-75 Tesla crash in Gainesville that killed. investigating\u00a0...",
+        "size": [
+          150,
+          90
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gorvallynch.com.au/?q=us-nhtsa-probes-tesla-crash-in-florida-that-killed-ll-41M8Wxix",
+        "title": "US NHTSA Probes Tesla Crash In Florida That Killed Two, 55 ...Gorval Lynchhttps://www.gorvallynch.com.au \u203a ...",
+        "content": "After fatal Tesla crash at I-75 rest stop, family retains attorneys WGFL. US ... NHTSA to investigate I-75 Tesla crash in Gainesville that killed. US NHTSA\u00a0...",
+        "size": [
+          583,
+          349
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=7R182E9LMuU",
+        "title": "Tesla Takes Control & Crashes Into Parked Walmart Truck ...YouTube\u00a0\u00b7\u00a0Mutha Trucker - Official Trucking Channel73.7K+ views  \u00b7  1 year ago",
+        "content": "Tesla Takes Control & Crashes Into Parked Walmart Truck Drivers Semi Truck Link Down Below For Store Locations!",
+        "size": [
+          640,
+          480
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/teslamotors/comments/1106orp/deadly_tesla_model_s_crash_in_florida_ruled_as/",
+        "title": "Deadly Tesla Model S crash in Florida ruled as human errorReddit\u00a0\u00b7\u00a0r/teslamotors170+ comments  \u00b7  9 months ago",
+        "content": "536 votes, 177 comments. 2.5M subscribers in the teslamotors community. The original and largest Tesla community on Reddit!",
+        "size": [
+          640,
+          426
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sotsu.co.jp/?o=family-of-victims-killed-in-tesla-crash-hires-prominent-cc-xEyxn5s7",
+        "title": "Family of victims killed in Tesla crash hires prominent Florida ...sotsu.co.jphttps://sotsu.co.jp \u203a walmart electronics lompoc ca",
+        "content": "Family of victims killed in Tesla crash hires prominent Florida attorneys, Economy Grade Made of aluminum, this 12 inch by 12 inch shield sign is made in\u00a0...",
+        "size": [
+          360,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/teslainvestorsclub/comments/11f5q3v/fatal_tesla_model_y_crash_investigation_finds/",
+        "title": "Fatal Tesla Model Y crash investigation finds accelerator ...Reddit\u00a0\u00b7\u00a0r/teslainvestorsclub110+ comments  \u00b7  8 months ago",
+        "content": "",
+        "size": [
+          1620,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://crea-tic.net/?i=federal-agency-to-investigate-fatal-tesla-crash-in-newport-ff-ekM7vcP",
+        "title": "Federal agency to investigate fatal Tesla crash in Newport ...crea-tic.nethttps://crea-tic.net \u203a team wheels california",
+        "content": "Federal agency to investigate fatal Tesla crash in Newport Beach Los Angeles Times, Used (normal wear), Hot Wheels Team Transport set of all (NISSAN\u00a0...",
+        "size": [
+          583,
+          349
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://printouch.biz/?e=us-nhtsa-probes-tesla-crash-in-florida-that-killed-hh-nAKjlbiy",
+        "title": "US NHTSA Probes Tesla Crash In Florida That Killed Two, 55 ...printouch.bizhttps://printouch.biz \u203a ...",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg, Pen Gear Poly Composition Books are a fun place to jot down lists, notes or This\u00a0...",
+        "size": [
+          720,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.octagonafrica.com/?u=family-of-victims-killed-in-tesla-crash-hires-prominent-xx-K7Y55jtl",
+        "title": "Family of victims killed in Tesla crash hires prominent Florida ...Octagon Africahttps://www.octagonafrica.com \u203a ...",
+        "content": "Family of victims killed in Tesla crash hires prominent Florida attorneys, About this item Durable Vinyl -Our Stickers are printed on weather resistant\u00a0...",
+        "size": [
+          929,
+          523
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://tudosobreeventos.com.br/?q=deadly-tesla-model-s-crash-in-florida-ruled-as-mm-d4K0aNTv",
+        "title": "Deadly Tesla Model S Crash In Florida Ruled As Human Error ...Tudo sobre Eventoshttps://tudosobreeventos.com.br \u203a ...",
+        "content": "Deadly Tesla Model S crash in Florida ruled as human error r/teslamotors, Fit For Toyota 2019 2020 2021 2022 RAV4 Avalon 2018-2021 Camry 2020 2021 2022\u00a0...",
+        "size": [
+          150,
+          90
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/company/blue-eagle-associates",
+        "title": "Blue Eagle Associates | LinkedInLinkedIn\u00a0\u00b7\u00a0Blue Eagle Associates10+ followers",
+        "content": "Blue Eagle Associates | 11 followers on LinkedIn. Specialist in Crash Data Retrieval & Analysis, Forensic Vehicle Inspections, Collision Damage Analysis,\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sadhuvaswanicollege.com/?q=another-tesla-on-autopilot-slammed-into-a-police-car-yy-KQ0MRpTa",
+        "title": "Another Tesla On Autopilot Slammed Into A Police Car Last ...Sadhu Vaswani Collegehttps://sadhuvaswanicollege.com \u203a fhp motorcycle",
+        "content": "Another Tesla Crashes Into an Emergency Vehicle, Kills Driver \u2013 Was It ... FHP Orlando Reports Another Tesla Crash on Autopilot Against Patrol Car autoevolution.",
+        "size": [
+          535,
+          401
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://printouch.biz/?e=us-nhtsa-probes-tesla-crash-in-florida-that-killed-hh-nAKjlbiy",
+        "title": "US NHTSA Probes Tesla Crash In Florida That Killed Two, 55 ...printouch.bizhttps://printouch.biz \u203a ...",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg, Pen Gear Poly Composition Books are a fun place to jot down lists, notes or This\u00a0...",
+        "size": [
+          720,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sotsu.co.jp/property/details/post_115.html/?k=tesla-crash-that-killed-california-couple-investigated-by-nhtsa-pp-5roJODuX",
+        "title": "Tesla crash that killed California couple investigated by NHTSAsotsu.co.jphttps://www.sotsu.co.jp \u203a property \u203a details \u203a post_115",
+        "content": "Low prices on the Acer Chromebook Spin 714 CP714-1WN 14\" Core I5 1235U Evo 16 GB RAM 256 GB SSD US at Hummingbird Networks, trusted Acer. Tesla crash that\u00a0...",
+        "size": [
+          800,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newtocbu.com/family-of-victims-killed-in-tesla-crash-hires-prominent-oo-ZZ0eG6Fp",
+        "title": "Family Of Victims Killed In Tesla Crash Hires ProminentCBU Welcomehttps://www.newtocbu.com \u203a ...",
+        "content": "Family Of Victims Killed In Tesla Crash Hires Prominent Florida Attorneys | Walmart Electronics Lompoc Ca | newtocbu.com.",
+        "size": [
+          360,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.unifyingdigitalcontent.com/?s=motorist-airlifted-after-crash-on-beltline-lawrence-county-ss-55lKKmsa",
+        "title": "Motorist airlifted after crash on Beltline Lawrence Countyunifyingdigitalcontent.comhttps://www.unifyingdigitalcontent.com \u203a ...",
+        "content": "investigating fatal Tesla crash into back of a semi-trailer Autoblog Autoblog ... killed after Tesla crashes into parked tractor-trailer at Florida rest stop. Our\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nurulizzah.com/?s=couple-killed-after-sedan-collides-with-walmart-tractor-trailer-mm-RyObq1i0",
+        "title": "Couple Killed After Sedan Collides With Walmart, 42% OFFnurulizzah.comhttps://www.nurulizzah.com \u203a ...",
+        "content": "US safety watchdog probes fatal Tesla crash in Florida ... Elderly Florida couple killed after their Tesla crashes into semi in 37th crash for company MEAWW.",
+        "size": [
+          800,
+          420
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedrive.com/category/tesla-news/page/4",
+        "title": "Tesla News (Page 4 Results) | The DriveThe Drivehttps://www.thedrive.com \u203a ... \u203a Tesla News",
+        "content": "Watch A Tesla Model S Plaid Speed Past 200 MPH For The First Time. By Victoria Scott / Updated Jul 1, 2022. A Lot of Bad Decisions Led to This Stripped\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.bergenhightech.no/?i=dead-in-tesla-vehicle-crash-at-paynes-prairie-rest-bb-MRkyjNHA",
+        "title": "Dead In Tesla Vehicle Crash At Paynes Prairie Rest Area,, 50 ...Bergen Hightech AShttps://www.bergenhightech.no \u203a ...",
+        "content": "dead in Tesla vehicle crash at Paynes Prairie rest area, FHP reports, Very detailed and colorful maps compiled by the Army Map Service This is the first\u00a0...",
+        "size": [
+          978,
+          586
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://mip.kaelingenieros.com/?u=family-of-victims-killed-in-tesla-crash-hires-prominent-pp-7O1bYPIp",
+        "title": "Family of victims killed in Tesla crash hires prominent Florida ...kaelingenieros.comhttps://mip.kaelingenieros.com \u203a ...",
+        "content": "Family of victims killed in Tesla crash hires prominent Florida attorneys, Shop anitarodrigu513's closet or find the perfect look from millions of Fast\u00a0...",
+        "size": [
+          360,
+          640
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.sunbelt.esp.br/?m=fog-blamed-for-casa-grande-crash-that-kills-mother-gg-94MZQdiE",
+        "title": "Fog blamed for Casa Grande crash that kills mother, teensunbelt.esp.brhttps://www.sunbelt.esp.br \u203a ...",
+        "content": "dead, injured in crash on I-10 near Casa Grande Local. Fog blamed for Casa Grande crash that kills mother, teen. Tesla slams into rear of a parked semi truck at\u00a0...",
+        "size": [
+          900,
+          506
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://imarimenow.com/?u=us-nhtsa-probes-tesla-crash-in-florida-that-killed-pp-DEXj0YI9",
+        "title": "US NHTSA Probes Tesla Crash In Florida That Killed Two, 40 ...imarimenow.comhttps://imarimenow.com \u203a ...",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg, Keep all your notes, ideas, doodles and records in one place with Pen Gear\u00a0...",
+        "size": [
+          720,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elevate.in/?a=wal-mart-center-hi-res-stock-photography-and-images-pp-VVlZb8u4",
+        "title": "Wal mart center hi-res stock photography and images Alamyelevate.inhttps://elevate.in \u203a ...",
+        "content": "walmart gainesville tx auto center ... You may also like. investigating fatal Tesla crash into back of a semi-trailer Autoblog Autoblog.",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/SelfDrivingCarsLie/comments/vts7xv/2_killed_after_tesla_crashes_into_parked/",
+        "title": "2 killed after Tesla crashes into parked tractor-trailer at Florida ...Reddit\u00a0\u00b7\u00a0r/SelfDrivingCarsLie10+ comments  \u00b7  1 year ago",
+        "content": "",
+        "size": [
+          140,
+          78
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://newpage.magistra.ec/?u=deadly-tesla-model-s-crash-in-florida-ruled-as-tt-gZbWPzT9",
+        "title": "Deadly Tesla Model S Crash In Florida Ruled As Human Error ...magistra.echttps://newpage.magistra.ec \u203a ...",
+        "content": "Deadly Tesla Model S crash in Florida ruled as human error r/teslamotors, The Decent X7 is a premium yet affordable electric scooter, the powerful 350w\u00a0...",
+        "size": [
+          150,
+          90
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://homolog.suelychapiro.com.br/car-with-wood-through-windows-in-texas-hits-sign-aa-RDWn6PfO",
+        "title": "Car With Wood Through Windows In Texas Hits Sign And SUV,Suely Chapirohttps://homolog.suelychapiro.com.br \u203a ...",
+        "content": "Car With Wood Through Windows In Texas Hits Sign And SUV, Keeps Going | Tesla Crash Meme | homolog.suelychapiro.com.br.",
+        "size": [
+          768,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://elementordemo-4.clinikadelexito.com/?k=tesla-model-s-on-autopilot-rams-police-car-as-jj-dg9axOcZ",
+        "title": "Tesla Model S On Autopilot Rams Police Car As Driver, 52 ...clinikadelexito.comhttps://elementordemo-4.clinikadelexito.com \u203a ...",
+        "content": "Man in horror Tesla crash walks out unscathed, vows to buy same EV again HT Auto ... The Feds Are Seriously Concerned With Tesla's Most Recent Fatal Crash CarBuzz\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ris3.ergomec.gr/?s=us-nhtsa-probes-tesla-crash-in-florida-that-killed-cc-Mz4DlYiK",
+        "title": "US NHTSA Probes Tesla Crash In Florida That Killed Two, 54 ...ergomec.grhttps://ris3.ergomec.gr \u203a ...",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg, Pen Gear Poly Composition Books are a fun place to jot down lists, notes or This\u00a0...",
+        "size": [
+          720,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://abmnewsint.com/page/297/?a=tennessee-tesla-driver-causes-blackout-after-crashing-into-power-pp-DPqJKlTo",
+        "title": "Tennessee Tesla Driver Causes Blackout After Crashing Into ...abmnewsint.comhttps://abmnewsint.com \u203a Home \u203a tesla model s blackout",
+        "content": "Tesla Model S cleared by auto safety regulator after fatal Autopilot crash Tesla The Guardian ... Family of Tesla driver killed in California crash sues, blaming\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://semspharma.com.br/?s=us-nhtsa-probes-tesla-crash-in-florida-that-killed-gg-vvnQkrie",
+        "title": "US NHTSA Probes Tesla Crash In Florida That Killed Two, 47 ...semspharma.com.brhttps://semspharma.com.br \u203a ...",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg, Keep all your notes, ideas, doodles and records in one place with Pen Gear\u00a0...",
+        "size": [
+          720,
+          1280
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://sewardjohnsonatelier.org/?k=mto-accepting-applications-for-modified-60-ft-trailer-trial-hh-XKjjAWFQ",
+        "title": "MTO Accepting Applications For Modified 60-ft Trailer Trial, 44 ...Seward Johnson Atelierhttps://sewardjohnsonatelier.org \u203a 60 in to ft",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg. MTO Accepting Applications for Modified 60-ft Trailer Trial Ontario Trucking\u00a0...",
+        "size": [
+          2200,
+          1467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://topdownrestoration.net/?u=federal-agency-to-investigate-fatal-tesla-crash-in-newport-ww-oJgmEHK",
+        "title": "Federal agency to investigate fatal Tesla crash in Newport ...topdownrestoration.nethttps://topdownrestoration.net \u203a ...",
+        "content": "Federal agency to investigate fatal Tesla crash in Newport Beach Los Angeles Times, Used (normal wear), Set of Used JDM Integra Type R 16\u201d Gunmetal Wheels,\u00a0...",
+        "size": [
+          583,
+          349
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.quora.com/Why-do-people-think-there-wont-be-crashes-with-self-driving-cars",
+        "title": "Why do people think there won't be crashes with self driving ...Quorahttps://www.quora.com \u203a Why-do-people-think-there-w...",
+        "content": "If you're referring to Tesla crashes on autopilot, then you are mistaken. ... We already have crash prevention technology on non self-driving cars that include\u00a0...",
+        "size": [
+          602,
+          401
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://tudosobreeventos.com.br/?q=left-foot-accelerator-walmart-m-85QqL5he",
+        "title": "Left Foot Accelerator Walmart Prices | tudosobreeventos.com.brTudo sobre Eventoshttps://tudosobreeventos.com.br \u203a ...",
+        "content": "Deadly Tesla Model S crash in Florida ruled as human error r/teslamotors \u00b7 left foot accelerator walmart \u00b7 November 2022 Pay to play: overcoming challenges in\u00a0...",
+        "size": [
+          1620,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.niccolospirito.com/ww2-bar-flamethrower-bazookas-by-bigchiefcrazytalk-on-deviantart-oo-M8VNdOtO",
+        "title": "WW2 BAR FlameThrower Bazookas By BigChiefCrazyTalk Onniccolospirito.comhttps://www.niccolospirito.com \u203a ...",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg. You may also\u00a0...",
+        "size": [
+          2200,
+          1467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedrive.com/category/electric-vehicles/page/9",
+        "title": "EV News (Page 9 Results) - The DriveThe Drivehttps://www.thedrive.com \u203a ... \u203a Electric Vehicles",
+        "content": "Feds Investigating Yet Another Fatal Tesla Crash, Again. By Rob Stumpf / Updated Jul 11, 2022. A\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qazmedia.kz/?o=list-of-the-154-stores-walmart-is-closing-bb-32kd84S1",
+        "title": "List Of The 154 Stores Walmart Is Closing, 40% OFFIR sem Errohttps://qazmedia.kz \u203a walmart king nc auto center",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg.",
+        "size": [
+          2200,
+          1467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dev.institutostanislavsky.com.br/another-tesla-on-autopilot-slammed-into-a-police-car-vv-48192214",
+        "title": "Another Tesla On Autopilot Slammed Into A Police Car Last ...Instituto Stanislavskyhttps://dev.institutostanislavsky.com.br \u203a another-tesla-...",
+        "content": "Another Tesla On Autopilot Slammed Into A Police Car Last Weekend Autoblog | Reddit Motorcycle Accident | dev.institutostanislavsky.com.br.",
+        "size": [
+          535,
+          401
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.youtube.com/watch?v=ePxfkupvjII",
+        "title": "Fatal Car Crash Compilation - YouTubeYouTube\u00a0\u00b7\u00a0Dash Cam Compilations With Commentary32.3K+ views  \u00b7  1 year ago",
+        "content": "Hello guys! In this video you ll be watching fatal car crash compilation 2021, fatal car crash compilation, fatal car crashes, fatal car\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.davidkhuynh.com/?q=motorist-airlifted-after-crash-on-beltline-lawrence-county-bb-6G9xxpi7",
+        "title": "Motorist airlifted after crash on Beltline Lawrence Countydavidkhuynh.comhttps://www.davidkhuynh.com \u203a ...",
+        "content": "investigating fatal Tesla crash into back of a semi-trailer Autoblog Autoblog ... killed after Tesla crashes into parked tractor-trailer at Florida rest stop. Get\u00a0...",
+        "size": [
+          1200,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://m.youtube.com/watch?v=q8BUSmLGf98&pp=ygUOI2NhcmdvcmVzdXBwbHk%3D",
+        "title": "Fatal Car Crash Compilation - YouTubeYouTube\u00a0\u00b7\u00a0Dash Cam Compilations With Commentary156.7K+ views",
+        "content": "Hi guys! :) In this video you ll be watching fatal car crash compilation 2021, fatal car crash compilation, fatal car crashes, fatal car crash,\u00a0...",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://printouch.biz/?e=system-optimization-plan-greater-denver-transit-hh-Vj96wAh0",
+        "title": "System Optimization Plan Greater Denver Transit, 48% OFFprintouch.bizhttps://printouch.biz \u203a ...",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg.",
+        "size": [
+          2200,
+          1467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.thedrive.com/category/news-by-brand/page/40",
+        "title": "News by Brand (Page 40 Results) | The DriveThe Drivehttps://www.thedrive.com \u203a News \u203a News by Brand",
+        "content": "Feds Investigating Yet Another Fatal Tesla Crash, Again. By Rob Stumpf / Updated Jul 11, 2022\u00a0...",
+        "size": [
+          1440,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/how-many-accidents-have-teslas-been-in",
+        "title": "How Many Accidents Have Teslas Been In - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a how-many-accide...",
+        "content": "Teslas account for 70% of driver-assist crashes, data show ... photograph. Inside a Fatal Tesla Autopilot Accident: 'It Happened So ... photograph.",
+        "size": [
+          1200,
+          799
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://lhongtortai.com/collection/tesla-autopilot-accident-truck",
+        "title": "Tesla Autopilot Accident Truck - L Hong To RtaiL Hong To Rtaihttps://lhongtortai.com \u203a collection \u203a tesla-autopilot-ac...",
+        "content": "Tesla's fatal crash: Feds say an overreliance on Autopilot ... How the Media Screwed Up the Fatal Tesla Accident | Vanity Fair More the full size Tesla\u00a0...",
+        "size": [
+          1024,
+          768
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://ntc.egerton.ac.ke/?k=windows-internorm-fenster-ag-ll-WLyWr0Ux",
+        "title": "WINDOWS Internorm-Fenster AG, 51% OFFEgerton Universityhttps://ntc.egerton.ac.ke \u203a dm 74i75",
+        "content": "Two people killed in I-75 accident after a Tesla crashed into a parked tractor-trailer WGFL. You may also like.",
+        "size": [
+          768,
+          576
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/in/mario-r-garcia-79a85a2b",
+        "title": "Mario R. Garcia | LinkedInLinkedIn\u00a0\u00b7\u00a0Mario R. Garcia2.4K+ followers",
+        "content": "... accident and every second counts in collecting all the vehicle information ... Tesla reportedly asked highway safety\u2026 Liked by Mario R. Garcia \u00b7 New damning\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/in/doug-campbell-a4ba05145",
+        "title": "Doug Campbell | LinkedInLinkedIn\u00a0\u00b7\u00a0Doug Campbell170+ followers",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://qazmedia.kz/?o=list-of-the-154-stores-walmart-is-closing-bb-32kd84S1",
+        "title": "List Of The 154 Stores Walmart Is Closing, 40% OFFIR sem Errohttps://qazmedia.kz \u203a walmart king nc auto center",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg.",
+        "size": [
+          2200,
+          1467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.linkedin.com/in/sai-khedekar-38740353",
+        "title": "Sai Khedekar - Application Engineer - Senior 1 - BorgWarnerLinkedIn\u00a0\u00b7\u00a0Sai Khedekar2K+ followers",
+        "content": "About. Technical Skillset \u2022 CAE Pre-Processors: HypeMesh, LS-PrePost, HyperCrash, Primer, ANSA. \u2022 CAE Solvers: LS\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://dev.sorga.org/?o=walmart-king-nc-auto-center-f-BxBR6Xi7",
+        "title": "Walmart King Nc Auto CenterSORGA Technologyhttps://dev.sorga.org \u203a ...",
+        "content": "24-hour Walmart Supercenter planned for Yaphank development Newsday \u00b7 walmart king nc auto center. US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA)\u00a0...",
+        "size": [
+          2200,
+          1467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.reddit.com/r/videos/comments/vqv2uy/car_totaled_during_colorado_hail_storm/",
+        "title": "Car totaled during Colorado hail storm : r/videos - RedditReddit\u00a0\u00b7\u00a0r/videos120+ comments  \u00b7  1 year ago",
+        "content": "r/SelfDrivingCarsLie - 2 killed after Tesla crashes into parked tractor-trailer at Florida. fox35orlando. 19 upvotes \u00b7 16 comments. r\u00a0...",
+        "size": [
+          140,
+          78
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://blackshirts.info/collection/combine-zp-crashes",
+        "title": "Combine Zp Crashes - Black Shirtsblackshirts.infohttps://blackshirts.info \u203a collection \u203a combine-zp-crashes",
+        "content": "Deadly Tesla Model S crash in Florida ruled as human error ... Investigation continues for multi-car crash on West Mercer ... photograph. go. Generalized\u00a0...",
+        "size": [
+          1620,
+          1080
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://castromarina.info/how-to-get-money-after-a-car-accident-reddit",
+        "title": "How To Get Money After A Car Accident Reddit - Castro Marinacastromarina.infohttps://castromarina.info \u203a how-to-get-money-after-a-car...",
+        "content": "Tesla crash that killed California couple investigated by NHTSA.",
+        "size": [
+          978,
+          586
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://linkupwithgcc.com/?h=7a20005&iid=4_109410567_5_0",
+        "title": "Horrific car accidents caught on camera, off 85% large reductionlinkupwithgcc.comhttps://linkupwithgcc.com \u203a ...",
+        "content": "... accidents caught on camera Rishabh Pant accident Reason behind crash ... accidents caught on camera The Feds Are Seriously Concerned With Tesla's Most Recent\u00a0...",
+        "size": [
+          840,
+          560
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "vi",
+        "link": "https://cafef.vn/xe-dien-tesla.html",
+        "title": "Xe \u0111i\u1ec7n tesla : Toyota th\u1eeba nh\u1eadn - CafeFCafeFhttps://cafef.vn \u203a xe-dien-tesla",
+        "content": "Xe \u0111i\u1ec7n tesla : Sau khi m\u1ed5 x\u1ebb xe \u0111i\u1ec7n Tesla, h\u00e3ng Toyota ph\u1ea3i th\u1eeba nh\u1eadn r\u1eb1ng kh\u00f4ng ph\u1ea3i c\u1ee9 s\u1ea3n xu\u1ea5t \u0111\u01b0\u1ee3c \u00f4 t\u00f4 l\u00e0 l\u00e0m \u0111\u01b0\u1ee3c xe \u0111i\u1ec7n.",
+        "size": [
+          320,
+          200
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.dagensps.se/motor/tillverkare/page/11/",
+        "title": "Tillverkare - Dagens PSDagens PShttps://www.dagensps.se \u203a Motor",
+        "content": "I juli f\u00f6rra \u00e5ret k\u00f6rde ett amerikanskt par, hemmah\u00f6rande i Kalifornien, p\u00e5 en roadtrip i Gainesville, Florida i en Tesla Model S. Bilen k\u00f6rde in i ett\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.telegram.hr/autor/eva-benedik/?page=68",
+        "title": "Eva Benedik - Telegram.hrTelegram.hrhttps://www.telegram.hr \u203a autor \u203a e...",
+        "content": "Tesla co-founder and CEO Elon Musk introduces the newly unveiled all-electric battery.",
+        "size": [
+          800,
+          505
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.dagensps.se/tag/elbilar/page/2/",
+        "title": "elbilar Arkiv - Dagens PSDagens PShttps://www.dagensps.se \u203a tag \u203a page",
+        "content": "I juli f\u00f6rra \u00e5ret k\u00f6rde ett amerikanskt par, hemmah\u00f6rande i Kalifornien, p\u00e5 en roadtrip i Gainesville, Florida i en Tesla Model S. Bilen k\u00f6rde in i ett\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.telegram.hr/biznis-tech/?page=42",
+        "title": "Biznis & Tech - 42. stranica | Telegram.hrTelegram.hrhttps://www.telegram.hr \u203a biznis-tech",
+        "content": "2022. Tesla co-founder and CEO Elon Musk introduces the newly unveiled all-electric battery \u00b7 Biznis & tech. Stru\u010dnjaci ka\u017eu da Musk ne mo\u017ee tek tako odustati\u00a0...",
+        "size": [
+          800,
+          505
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "my",
+        "link": "https://www.duwun.com.mm/topic/accident",
+        "title": "Accident | DuwunDuwunhttps://www.duwun.com.mm \u203a topic",
+        "content": "\u101c\u1030\u1014\u103e\u1005\u103a\u1026\u1038 \u101e\u1031\u1006\u102f\u1036\u1038\u1001\u1032\u1037\u1010\u1032\u1037 \u1016\u101c\u1031\u102c\u103a\u101b\u102e\u1012\u102b Tesla \u1000\u102c\u1038\u1010\u102d\u102f\u1000\u103a\u1019\u103e\u102f \u1005\u102f\u1036\u1005\u1019\u103a\u1038\u1005\u1005\u103a\u1006\u1031\u1038\u1014\u1031. Autopilot \u1005\u1014\u1005\u103a \u101e\u102f\u1036\u1038\u1011\u102c\u1038\u00a0...",
+        "size": [
+          945,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "http://m.futurecar.com/tag/%20electric%20vehicles",
+        "title": "electric vehicles - FutureCar.comFutureCarhttp://m.futurecar.com \u203a tag",
+        "content": "NHTSA Opens Investigations Into Two New Fatal Tesla Accidents. Vineeth Joel Patel. 2022-08-16 06\u00a0...",
+        "size": [
+          250,
+          166
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.dagensps.se/motor/tillverkare/page/11/",
+        "title": "Tillverkare - Dagens PSDagens PShttps://www.dagensps.se \u203a Motor",
+        "content": "I juli f\u00f6rra \u00e5ret k\u00f6rde ett amerikanskt par, hemmah\u00f6rande i Kalifornien, p\u00e5 en roadtrip i Gainesville, Florida i en Tesla Model S. Bilen k\u00f6rde in i ett\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "tr",
+        "link": "https://printouch.biz/?e=yumurta-fiyatlar%C4%B1-ald%C4%B1-ba%C5%9F%C4%B1n%C4%B1-gitti-ge%C3%A7en-ay-market-al%C4%B1%C5%9Fveri%C5%9Fi-hh-P908VYhb",
+        "title": "Yumurta Fiyatlar\u0131 Ald\u0131 Ba\u015f\u0131n\u0131 Gitti! Ge\u00e7en Ay Market, 54% OFFprintouch.bizhttps://printouch.biz \u203a ...",
+        "content": "US NHTSA Probes Tesla Crash in Florida That Killed Two (TSLA) Bloomberg.",
+        "size": [
+          2200,
+          1467
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.dagensps.se/motor/page/21/?utm_campaign=aretsmestlasta&utm_medium=email&utm_source=nyhetsbrev-one&link_id=0dCoiZAysegD",
+        "title": "Motor - Dagens PSDagens PShttps://www.dagensps.se \u203a page",
+        "content": "... Gainesville, Florida i en Tesla Model S. Bilen k\u00f6rde in i ett lastbilssl\u00e4p ... Tesla Model S, en av de bilar som Tesla nu s\u00e4nker priset p\u00e5 i USA. Konkurrensen\u00a0...",
+        "size": [
+          1200,
+          675
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.ammanyatravels.com/?h=66acc04&iid=5_5572325_17_6",
+        "title": "Walmart truck with cars, Hit 85% rabatu ogromny rabatammanyatravels.comhttps://www.ammanyatravels.com \u203a ...",
+        "content": "walmart truck with cars Tesla vehicle crash into Walmart truck leaves 2 dead in Alachua County walmart truck with cars Walmart commits to 100% zero-emission\u00a0...",
+        "size": [
+          4032,
+          3024
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.telegram.hr/autor/eva-benedik/?page=68",
+        "title": "Eva Benedik - Telegram.hrTelegram.hrhttps://www.telegram.hr \u203a autor \u203a e...",
+        "content": "Tesla co-founder and CEO Elon Musk introduces the newly unveiled all-electric battery.",
+        "size": [
+          800,
+          505
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.telegram.hr/autor/eva-benedik/?page=66",
+        "title": "Eva Benedik - Telegram.hrTelegram.hrhttps://www.telegram.hr \u203a autor \u203a e...",
+        "content": "Tesla co-founder and CEO Elon Musk introduces the newly unveiled all-electric battery.",
+        "size": [
+          800,
+          505
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hr",
+        "link": "https://www.telegram.hr/biznis-tech/?page=42",
+        "title": "Biznis & Tech - 42. stranica | Telegram.hrTelegram.hrhttps://www.telegram.hr \u203a biznis-tech",
+        "content": "2022. Tesla co-founder and CEO Elon Musk introduces the newly unveiled all-electric battery \u00b7 Biznis & tech. Stru\u010dnjaci ka\u017eu da Musk ne mo\u017ee tek tako odustati\u00a0...",
+        "size": [
+          800,
+          505
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "my",
+        "link": "https://www.duwun.com.mm/topic/accident",
+        "title": "Accident | DuwunDuwunhttps://www.duwun.com.mm \u203a topic",
+        "content": "\u101c\u1030\u1014\u103e\u1005\u103a\u1026\u1038 \u101e\u1031\u1006\u102f\u1036\u1038\u1001\u1032\u1037\u1010\u1032\u1037 \u1016\u101c\u1031\u102c\u103a\u101b\u102e\u1012\u102b Tesla \u1000\u102c\u1038\u1010\u102d\u102f\u1000\u103a\u1019\u103e\u102f \u1005\u102f\u1036\u1005\u1019\u103a\u1038\u1005\u1005\u103a\u1006\u1031\u1038\u1014\u1031. Autopilot \u1005\u1014\u1005\u103a \u101e\u102f\u1036\u1038\u1011\u102c\u1038\u00a0...",
+        "size": [
+          945,
+          630
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://medfamily.md/header.php?22710j8952.htm",
+        "title": "Hick Prestigious Raincoat \u062d\u0648\u0627\u062f\u062b \u0627\u0644\u0634\u0627\u062d\u0646\u0627\u062a \u0641\u064a \u0627\u0645\u0631\u064a\u0643\u0627 ...medfamily.mdhttps://medfamily.md \u203a header",
+        "content": "\u0631\u064a\u0627\u062d \u0634\u062f\u064a\u062f\u0629 \u062a\u062a\u0633\u0628\u0628 \u0641\u0649 \u0627\u0646\u0642\u0644\u0627\u0628 \u0639\u0634\u0631\u0627\u062a \u0627\u0644\u0634\u0627\u062d\u0646\u0627\u062a \u0641\u0649 \u0648\u0644\u0627\u064a\u0629 \u064a\u0648\u062a\u0627 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629.. \u0641\u064a\u062f\u064a\u0648 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639. \u062a\u0631\u0627\u062c\u0639 \u0648\u0641\u064a\u0627\u062a \u062d\u0648\u0627\u062f\u062b \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0644\u0644\u0639\u0627\u0645 \u0627\u0644\u062b\u0627\u0644\u062b \u0639\u0644\u0649 \u0627\u0644\u062a\u0648\u0627\u0644\u064a \u0628\u0623\u0645\u0631\u064a\u0643\u0627\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.mehrnews.com/page/search.xhtml?q=%22%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%D8%9B%22&a=0&alltp=true&allpl=true&pi=12677&allsr=true&pageSize=20&allty=true",
+        "title": "\u062c\u0633\u062a\u062c\u0648 - \"\u06af\u0632\u0627\u0631\u0634\u061b\" | \u0627\u062e\u0628\u0627\u0631 \u0627\u06cc\u0631\u0627\u0646 \u0648 \u062c\u0647\u0627\u0646 | Mehr News Agency\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0645\u0647\u0631https://www.mehrnews.com \u203a search",
+        "content": "\u0645\u0634\u0647\u062f \u0640 \u062f\u0631 \u0622\u0633\u062a\u0627\u0646\u0647 \u0639\u06cc\u062f \u0633\u0639\u06cc\u062f \u0642\u0631\u0628\u0627\u0646 \u0648 \u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0645\u0631\u0627\u0633\u0645 \u0631\u0648\u062d\u200c\u0628\u062e\u0634 \u062f\u0639\u0627\u06cc \u0639\u0631\u0641\u0647\u060c \u062d\u0631\u0645 \u0645\u0637\u0647\u0631 \u0631\u0636\u0648\u06cc \u0645\u0647\u06cc\u0627\u06cc \u0645\u06cc\u0632\u0628\u0627\u0646\u06cc \u0627\u0632 \u0627\u0631\u0627\u062f\u062a\u0645\u0646\u062f\u0627\u0646 \u062d\u0636\u0631\u062a \u062b\u0627\u0645\u0646\u200c\u0627\u0644\u062d\u062c\u062c (\u0639) \u0627\u0633\u062a. ...\u0628\u0647 \u06af\u0632\u0627\u0631\u0634 \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0645\u0647\u0631\u060c\u00a0...",
+        "size": [
+          250,
+          166
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://medfamily.md/links.php?uaai47066r88136gar80.htm",
+        "title": "Hick Prestigious Raincoat \u062d\u0648\u0627\u062f\u062b \u0627\u0644\u0634\u0627\u062d\u0646\u0627\u062a \u0641\u064a \u0627\u0645\u0631\u064a\u0643\u0627 ...medfamily.mdhttps://medfamily.md \u203a links",
+        "content": "\u0645\u0634 \u0647\u062a\u0635\u062f\u0642!! \u00b7 \u0634\u0627\u0647\u062f.. \u00b7 Western Star \u062a\u0639\u0644\u0646 \u0628\u064a\u0639 200 \u0623\u0644\u0641 \u0634\u0627\u062d\u0646\u0629 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 - \u0633\u064a\u0627\u0631\u0627\u062a - \u0627\u0644\u0648\u0637\u0646 \u00b7 \u0633\u062d\u0642\u062a 7 \u0623\u0628\u0631\u064a\u0627\u0621 \u0628\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0648\u0645\u062d\u0627\u064a\u0644.. \u00b7 \u062d\u0627\u062f\u062b \u0645\u0631\u0648\u0631 - \u0648\u064a\u0643\u064a\u0628\u064a\u062f\u064a\u0627 \u00b7 \u062a\u062d\u062f\u064d\u0651 \u0639\u0644\u0649 \u00ab\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://yabeelamotor.com/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D9%81%D8%AA%D8%AD-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AE%D9%84%D9%84-%D8%A8%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D9%84/",
+        "title": "\u0623\u0645\u0631\u064a\u0643\u0627 \u062a\u0641\u062a\u062d \u062a\u062d\u0642\u064a\u0642\u0627\u064b \u0641\u064a \u062e\u0644\u0644 \u0628\u0633\u064a\u0627\u0631\u0627\u062a \"\u062a\u0633\u0644\u0627\" - \u064a\u0628\u064a\u0644\u0647 \u0645\u0648\u062a\u0631\u0632yabeelamotor.comhttps://yabeelamotor.com \u203a \u0623\u0645\u0631\u064a\u0643\u0627-...",
+        "content": "\u0648\u0642\u0627\u0644\u062a \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0633\u0644\u0627\u0645\u0629 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0625\u0646 \u0639\u062c\u0644\u0627\u062a \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0641\u064a \u0645\u0648\u062f\u064a\u0644\u064a \u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0634\u0631\u0643\u0629 \u0644\u0639\u0627\u0645 2023 \u0627\u0644\u0644\u0630\u064a\u0646 \u0642\u0637\u0639\u0627 \u0639\u062f\u062f\u0627\u064b \u0642\u0644\u064a\u0644\u0627\u064b \u0645\u0646 \u0627\u0644\u0623\u0645\u064a\u0627\u0644\u060c \u0643\u0627\u0646\u062a \u0645\u0641\u0643\u0648\u0643\u0629\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.rontechgroup.com/deemki576581?ywxkxwzppq-360",
+        "title": "Celebrity tuberculosis Sandals \u062d\u0648\u0627\u062f\u062b \u0627\u0644\u0634\u0627\u062d\u0646\u0627\u062a \u0641\u064a \u0627\u0645\u0631\u064a\u0643\u0627 sulfur ...rontechgroup.comhttps://www.rontechgroup.com \u203a de...",
+        "content": "\u0627\u0644\u0639\u0645\u0644 \u0643\u0633\u0627\u0626\u0642 \u0634\u0627\u062d\u0646\u0629 \u0646\u0642\u0644 \u0627\u0644\u0623\u0632\u0628\u0627\u0644 \u0648\u0627\u0644\u0642\u0645\u0627\u0645\u0629 \u0641\u064a \u0627\u0645\u0631\u064a\u0643\u0627 Garbage Truck Driver \u00b7 \u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0645\u0646 \u0623\u0645\u0631\u064a\u0643\u0627 \u00b7 \u0631\u0627\u0628\u0637 \u0645\u0639\u0631\u0641\u0629 \u062d\u0648\u0627\u062f\u062b \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0645\u0646 \u0631\u0642\u0645 \u0627\u0644\u0634\u0627\u0635\u064a \u0627\u0645\u0631\u064a\u0643\u0627 \u0645\u062c\u0627\u0646\u0627 - \u0632\u0627\u062f \u0646\u062a\u00a0...",
+        "size": [
+          800,
+          534
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "zh-CN",
+        "link": "https://redian.news/wxnews/380494",
+        "title": "\u200b\u70e7\u5149131\u4ebf\uff01\u88ab\u738b\u4f20\u798f\u75db\u9a82\u7684\u201c\u5438\u8840\u9b3c\u201d\uff0c\u539f\u5f62\u6bd5\u9732| Redian NewsRedian\u65b0\u95fbhttps://redian.news \u203a wxnews",
+        "content": "",
+        "size": [
+          929,
+          457
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ko",
+        "link": "http://osteoclinic.co.uk/http/kor.animalia-life.club/%EB%9D%BD-%EC%A3%BC%EB%9D%BC%ED%8C%8C-%EC%8A%A4%ED%95%80-%ED%8A%B8%EB%9E%99",
+        "title": "\ub77d \uc8fc\ub77c\ud30c \uc2a4\ud540 \ud2b8\ub799osteoclinic.co.ukhttp://osteoclinic.co.uk \u203a http \u203a \ub77d-...",
+        "content": "",
+        "size": [
+          2000,
+          1333
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://mirnews.ir/KhabarElmis/Details/71906",
+        "title": "\u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u062a\u0627\u0632\u0647 \u062f\u0631 \u0645\u0648\u0631\u062f \u062a\u0635\u0627\u062f\u0641\u200c\u0647\u0627\u06cc \u062e\u0648\u062f\u0631\u0648\u0647\u0627\u06cc \u062a\u0633\u0644\u0627 - \u0645\u06cc\u0631\u0646\u06cc\u0648\u0632\u0645\u06cc\u0631\u0646\u06cc\u0648\u0632https://mirnews.ir \u203a Details",
+        "content": "\u062f\u0648 \u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u06a9\u0646\u06af\u0631\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u06a9\u0647 \u0631\u06cc\u0627\u0633\u062a \u06a9\u0645\u06cc\u062a\u0647\u200c\u0647\u0627\u06cc \u0641\u0631\u0639\u06cc \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0627\u06cc\u0645\u0646\u06cc \u062e\u0648\u062f\u0631\u0648\u0647\u0627 \u0631\u0627 \u0628\u0631 \u0639\u0647\u062f\u0647 \u062f\u0627\u0631\u0646\u062f\u060c \u0627\u0632 \u0631\u06af\u0648\u0644\u0627\u062a\u0648\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062e\u0648\u0627\u0633\u062a\u0647\u200c\u0627\u0646\u062f \u062a\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u062a\u0635\u0627\u062f\u0641\u0627\u062a \u062e\u0648\u062f\u0631\u0648\u0647\u0627\u06cc \u0627\u0644\u06a9\u062a\u0631\u06cc\u06a9\u06cc\u00a0...",
+        "size": [
+          250,
+          166
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "loading_dock",
+        "ioclass": "outdoor",
+        "probability": 0.2638224959373474
+      },
+      {
+        "class": "gas_station",
+        "ioclass": "outdoor",
+        "probability": 0.2522311806678772
+      },
+      {
+        "class": "parking_lot",
+        "ioclass": "outdoor",
+        "probability": 0.16586792469024658
+      },
+      {
+        "class": "street",
+        "ioclass": "outdoor",
+        "probability": 0.08515957742929459
+      },
+      {
+        "class": "highway",
+        "ioclass": "outdoor",
+        "probability": 0.03995669260621071
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9676763415336609
+      },
+      {
+        "class": "weather/sunny",
+        "score": 0.8185557126998901
+      },
+      {
+        "class": "dry",
+        "score": 0.7256957292556763
+      },
+      {
+        "class": "season/summer",
+        "score": 0.6846898198127747
+      },
+      {
+        "class": "busy",
+        "score": 0.6034695506095886
+      },
+      {
+        "class": "temperature/warm",
+        "score": 0.5541549921035767
+      },
+      {
+        "class": "lush",
+        "score": 0.5529846549034119
+      },
+      {
+        "class": "bright",
+        "score": 0.5081372857093811
+      },
+      {
+        "class": "cluttered",
+        "score": 0.5035709738731384
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 233,
+        "pred_lat": 46.976619720458984,
+        "pred_long": 14.05397891998291
+      },
+      "middle": {
+        "pred_class": 2364,
+        "pred_lat": 46.654117584228516,
+        "pred_long": 14.240217208862305
+      },
+      "fine": {
+        "pred_class": 2704,
+        "pred_lat": 46.62212371826172,
+        "pred_long": 14.25808334350586
+      },
+      "hierarchy": {
+        "pred_class": 2704,
+        "pred_lat": 46.62212371826172,
+        "pred_long": 14.25808334350586
+      },
+      "country": {
+        "city": "Klagenfurt",
+        "state": "Carinthia",
+        "country": "Austria"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": null,
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 46.64323,
+    "longitude": 14.347826,
+    "generationtime_ms": 0.1819133758544922,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 446.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2017-05-06T00:00",
+        "2017-05-06T01:00",
+        "2017-05-06T02:00",
+        "2017-05-06T03:00",
+        "2017-05-06T04:00",
+        "2017-05-06T05:00",
+        "2017-05-06T06:00",
+        "2017-05-06T07:00",
+        "2017-05-06T08:00",
+        "2017-05-06T09:00",
+        "2017-05-06T10:00",
+        "2017-05-06T11:00",
+        "2017-05-06T12:00",
+        "2017-05-06T13:00",
+        "2017-05-06T14:00",
+        "2017-05-06T15:00",
+        "2017-05-06T16:00",
+        "2017-05-06T17:00",
+        "2017-05-06T18:00",
+        "2017-05-06T19:00",
+        "2017-05-06T20:00",
+        "2017-05-06T21:00",
+        "2017-05-06T22:00",
+        "2017-05-06T23:00",
+        "2017-05-07T00:00",
+        "2017-05-07T01:00",
+        "2017-05-07T02:00",
+        "2017-05-07T03:00",
+        "2017-05-07T04:00",
+        "2017-05-07T05:00",
+        "2017-05-07T06:00",
+        "2017-05-07T07:00",
+        "2017-05-07T08:00",
+        "2017-05-07T09:00",
+        "2017-05-07T10:00",
+        "2017-05-07T11:00",
+        "2017-05-07T12:00",
+        "2017-05-07T13:00",
+        "2017-05-07T14:00",
+        "2017-05-07T15:00",
+        "2017-05-07T16:00",
+        "2017-05-07T17:00",
+        "2017-05-07T18:00",
+        "2017-05-07T19:00",
+        "2017-05-07T20:00",
+        "2017-05-07T21:00",
+        "2017-05-07T22:00",
+        "2017-05-07T23:00"
+      ],
+      "apparent_temperature": [
+        2.1,
+        3.5,
+        3.2,
+        1.7,
+        1.6,
+        2.5,
+        5.2,
+        8.1,
+        11.1,
+        14.7,
+        17.0,
+        20.0,
+        18.9,
+        16.7,
+        15.0,
+        14.9,
+        14.2,
+        13.0,
+        10.2,
+        9.5,
+        8.6,
+        8.9,
+        8.2,
+        8.3,
+        6.3,
+        9.1,
+        8.5,
+        7.8,
+        6.1,
+        7.2,
+        8.4,
+        11.1,
+        14.2,
+        14.3,
+        15.4,
+        15.3,
+        15.8,
+        16.2,
+        15.9,
+        15.6,
+        15.5,
+        13.3,
+        11.7,
+        10.7,
+        10.2,
+        8.4,
+        10.1,
+        9.1
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.1,
+        1.2,
+        0.1,
+        0.3,
+        0.6,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.1,
+        0.3,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        3,
+        51,
+        2,
+        3,
+        1,
+        1,
+        1,
+        1,
+        55,
+        55,
+        51,
+        51,
+        53,
+        51,
+        2,
+        3,
+        2,
+        1,
+        3,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0,
+        51,
+        51,
+        51,
+        51,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": []
+  }
+}

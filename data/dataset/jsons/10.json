@@ -1,0 +1,2960 @@
+{
+  "search": {
+    "charts": {
+      "frequency_timeline": {
+        "data": {
+          "2020/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2020/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2020/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2021/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2021/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/02": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/04": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/05": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/06": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/08": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/09": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2022/10": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/11": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2022/12": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/01": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/02": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/03": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/04": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/05": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/06": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/07": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/08": {
+            "count": 1,
+            "abnormal": false
+          },
+          "2023/09": {
+            "count": 0,
+            "abnormal": false
+          },
+          "2023/10": {
+            "count": 109,
+            "abnormal": false
+          },
+          "2023/11": {
+            "count": 11,
+            "abnormal": false
+          },
+          "2023/12": {
+            "count": 0,
+            "abnormal": false
+          }
+        },
+        "seasonal": true,
+        "max_count": 109,
+        "abnormal": false,
+        "plot": {
+          "labels": [
+            "2020/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2021/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2022/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "2023/01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+          ],
+          "datasets": [
+            {
+              "label": "Number of pages includings",
+              "backgroundColor": "#808080",
+              "data": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                109,
+                11,
+                0
+              ]
+            },
+            {
+              "label": "Seasonal detected",
+              "backgroundColor": "#00D8FF",
+              "data": []
+            }
+          ]
+        }
+      },
+      "lang_percentage": {
+        "data": {
+          "English": {
+            "count": 85,
+            "percentage": 46.7032967032967
+          },
+          "Portuguese": {
+            "count": 20,
+            "percentage": 10.989010989010989
+          },
+          "Bulgarian": {
+            "count": 14,
+            "percentage": 7.6923076923076925
+          },
+          "Arabic": {
+            "count": 10,
+            "percentage": 5.4945054945054945
+          },
+          "Japanese": {
+            "count": 8,
+            "percentage": 4.395604395604396
+          },
+          "Spanish; Castilian": {
+            "count": 7,
+            "percentage": 3.8461538461538463
+          },
+          "Dutch; Flemish": {
+            "count": 6,
+            "percentage": 3.2967032967032965
+          },
+          "Hindi": {
+            "count": 5,
+            "percentage": 2.7472527472527473
+          },
+          "Persian": {
+            "count": 4,
+            "percentage": 2.197802197802198
+          },
+          "French": {
+            "count": 4,
+            "percentage": 2.197802197802198
+          },
+          "Italian": {
+            "count": 4,
+            "percentage": 2.197802197802198
+          },
+          "Burmese": {
+            "count": 4,
+            "percentage": 2.197802197802198
+          },
+          "Romanian; Moldavian; Moldovan": {
+            "count": 4,
+            "percentage": 2.197802197802198
+          },
+          "Russian": {
+            "count": 3,
+            "percentage": 1.6483516483516483
+          },
+          "Albanian": {
+            "count": 3,
+            "percentage": 1.6483516483516483
+          },
+          "Swedish": {
+            "count": 1,
+            "percentage": 0.5494505494505495
+          }
+        },
+        "total": 182,
+        "plot": {
+          "labels": [
+            "English",
+            "Portuguese",
+            "Bulgarian",
+            "Arabic",
+            "others"
+          ],
+          "data": [
+            46,
+            10,
+            7,
+            5,
+            32
+          ],
+          "color": [
+            "#41B883",
+            "#E46651",
+            "#00D8FF",
+            "#DD1B16",
+            "#808080"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "newest": {
+        "lang": "pt",
+        "link": "https://aventurasnahistoria.uol.com.br/noticias/reportagem/guerra-entre-israel-e-hamas-completa-1-mes-com-mortes-de-criancas-de-escassez-em-gaza.phtml",
+        "title": "O que aconteceu at\u00e9 agora na guerra entre Israel e o Hamas?Aventuras na Hist\u00f3riahttps://aventurasnahistoria.uol.com.br \u203a ...",
+        "content": "Faixa de Gaza bombardeada por Israel - Getty Images ... bombardeio do hospital palestino Ahli\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      "oldest": {
+        "lang": "pt",
+        "link": "https://noticiatem.com/bahia/aritana-de-oxossi-na-festa-de-iemanja",
+        "title": "ARITANA DE OX\u00d3SSI NA FESTA DE IEMANJ\u00c1 - NoticiatemNoticiatemhttps://noticiatem.com \u203a bahia \u203a arit...",
+        "content": "",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2020:02:03 00:00:00",
+        "source_type": ""
+      },
+      "unspecified_time": 53,
+      "highlight": {}
+    },
+    "records": [
+      {
+        "lang": "pt",
+        "link": "https://noticiatem.com/bahia/aritana-de-oxossi-na-festa-de-iemanja",
+        "title": "ARITANA DE OX\u00d3SSI NA FESTA DE IEMANJ\u00c1 - NoticiatemNoticiatemhttps://noticiatem.com \u203a bahia \u203a arit...",
+        "content": "",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2020:02:03 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "my",
+        "link": "https://npnewsmm.com/news/60c88bf5ce628c261b51fbe6",
+        "title": "\u1000\u101b\u1004\u103a\u101c\u1000\u103a\u1014\u1000\u103a\u1000\u102d\u102f\u1004\u103a\u1019\u103b\u102c\u1038\u1021\u1000\u103c\u102c\u1038 ...NPNewshttps://npnewsmm.com \u203a news",
+        "content": "",
+        "size": [
+          400,
+          300
+        ],
+        "date": "2021:06:15 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.antena3.ro/emisiuni/news-hour-with-cnn/clotilde-armand-gafa-scoala-regala-614249.html",
+        "title": "Clotilde Armand, gaf\u0103 uria\u0219\u0103. A inaugurat o \u0219coal\u0103 \"invizibil\u0103\"Antena 3https://www.antena3.ro \u203a emisiuni",
+        "content": "... Gaza\". razboi ucraina rusia 4 noiembrie 2023. R\u0103zboi \u00een Ucraina, ziua 619. R\u0103zboiul din Orientul Mijlociu \"deturneaz\u0103 aten\u0163ia\" de la Ucraina\u00a0...",
+        "size": [
+          600,
+          334
+        ],
+        "date": "2021:09:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "my",
+        "link": "https://npnewsmm.com/news/621092fadff256130206aeeb",
+        "title": "\u1019\u102d\u102f\u1038\u1017\u103c\u1032\u1019\u103c\u102d\u102f\u1037\u1010\u103d\u1004\u103a\u1038 \u1010\u102d\u102f\u1000\u103a\u1015\u103d\u1032 ...NPNewshttps://npnewsmm.com \u203a news",
+        "content": "",
+        "size": [
+          400,
+          300
+        ],
+        "date": "2022:02:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://noticiatem.com/umbanda/exu-nao-e-diabo-saiba-quem-e-orixa-mensageiro",
+        "title": "'Exu n\u00e3o \u00e9 diabo': saiba quem \u00e9 orix\u00e1 mensageiro da Grande ...Noticiatemhttps://noticiatem.com \u203a umbanda",
+        "content": "",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2022:04:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://noticiatem.com/tv-e-famosos/filha-de-caua-e-grazi-estreia-como-modelo-em-capa-de-revista",
+        "title": "Filha de Cau\u00e3 e Grazi estreia como modelo em capa de revistaNoticiatemhttps://noticiatem.com \u203a tv-e-famosos",
+        "content": "",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2022:05:10 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://noticiatem.com/tv-e-famosos/filha-de-caua-reymond-escreve-recado-fofo-para-a-madrasta",
+        "title": "Filha de Cau\u00e3 Reymond escreve recado fofo para a madrastaNoticiatemhttps://noticiatem.com \u203a tv-e-famosos",
+        "content": "",
+        "size": [
+          600,
+          337
+        ],
+        "date": "2022:06:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "my",
+        "link": "https://npnewsmm.com/news/632d8686fad96f2af8781486",
+        "title": "\u101e\u103c\u1005\u1010\u103c\u1031\u1038\u101c\u103b\u1000\u1019\u103a\u1038\u1001\u103c\u1031\u1019\u103e\u102c \u101d\u1031\u101c\u1004\u102b\u1038 ...NPNewshttps://npnewsmm.com \u203a news",
+        "content": "",
+        "size": [
+          400,
+          300
+        ],
+        "date": "2022:09:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://novini.bg/sviat/azia/797388",
+        "title": "\u041a\u0438\u0442\u0430\u0439 \u0437\u0430\u043f\u043e\u0447\u043d\u0430 \u0432\u043e\u0435\u043d\u043d\u0438 \u0443\u0447\u0435\u043d\u0438\u044f \u043e\u043a\u043e\u043b\u043e \u0422\u0430\u0439\u0432\u0430\u043d - \u0410\u0437\u0438\u044f - Novini.bgNovini.bghttps://novini.bg \u203a \u0421\u0432\u044f\u0442 \u203a \u0410\u0437\u0438\u044f",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:08:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://aventurasnahistoria.uol.com.br/tags/bombardeio",
+        "title": "Busca: bombardeio - Aventuras na Hist\u00f3riaAventuras na Hist\u00f3riahttps://aventurasnahistoria.uol.com.br \u203a ...",
+        "content": "Israel nega 'impacto direto' em hospital em Gaza durante ataque que matou ao menos 500. Al\u00e9m de negar \"impacto direto\" em hospital, Israel\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:10:08 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.uk/detail/news-photo/palestinian-citizens-inspect-their-home-destroyed-during-news-photo/1738610452",
+        "title": "Palestinian citizens inspect their home destroyed during ...Getty Imageshttps://www.gettyimages.co.uk \u203a detail \u203a news-photo",
+        "content": "Palestinian citizens inspect their home destroyed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis,\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2023:10:16 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.uk/detail/news-photo/palestinian-emergency-services-and-local-citizens-search-news-photo/1740225054",
+        "title": "Palestinian emergency services and local citizens search for ...Getty Imageshttps://www.gettyimages.co.uk \u203a detail \u203a news-photo",
+        "content": "... Gaza Strip on October 17, 2023 in Khan Yunis, Gaza. Gazans are... Get premium, high resolution news photos at Getty Images.",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.naturalnews.com/2023-10-17-israelis-prepare-ground-invasion-as-palestinians-evacuate.html",
+        "title": "Israelis prepare ground invasion as Palestinians scramble to ...NaturalNews.comhttps://www.naturalnews.com \u203a 2023-10-17-israelis-pr...",
+        "content": "Israel's claim that Gaza Baptist Hospital bombing was a \u201cfailed\u201d Hamas rocket launch verified as LIE \u00b7 Israel BOMBS historic Greek Orthodox\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:17 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/israel-nega-impacto-direto-em-hospital-em-gaza-durante-ataque-que-matou-ao-menos-500.phtml",
+        "title": "Israel nega 'impacto direto' em hospital em Gaza durante ...Aventuras na Hist\u00f3riahttps://aventurasnahistoria.uol.com.br \u203a ...",
+        "content": "... bombardeio em Gaza, territ\u00f3rio palestino - Getty Images. Em comunicado, a For\u00e7a de Defesa de Israel alegou recentemente que o hospital\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://squarenews.ru/news/mir/ostavshiesya-bez-domov-zhiteli-gazy-nahodyat-ukrytie-v-bolnice-ash-shifa/",
+        "title": "\u041e\u0441\u0442\u0430\u0432\u0448\u0438\u0435\u0441\u044f \u0431\u0435\u0437 \u0434\u043e\u043c\u043e\u0432 \u0436\u0438\u0442\u0435\u043b\u0438 \u0413\u0430\u0437\u044b \u043d\u0430\u0445\u043e\u0434\u044f\u0442 \u0443\u043a\u0440\u044b\u0442\u0438\u0435 \u0432 ...squarenews.ruhttps://squarenews.ru \u203a news \u203a mir",
+        "content": "",
+        "size": [
+          827,
+          465
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://eldiariony.com/2023/10/18/inteligencia-de-ee-uu-atribuye-a-la-yihad-islamica-ataque-a-hospital-que-dejo-471-muertos-en-gaza/",
+        "title": "Inteligencia de EE.UU. atribuye a la Yihad Isl\u00e1mica ataque a ...El Diario NYhttps://eldiariony.com \u203a 2023/10/18",
+        "content": "Washington \u2013 La inteligencia de Estados Unidos atribuy\u00f3 este mi\u00e9rcoles el ataque contra un hospital en Gaza, en el que murieron 471 personas\u00a0...",
+        "size": [
+          4096,
+          2730
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/israel-nega-impacto-direto-em-hospital-em-gaza-durante-ataque-que-matou-ao-menos-500.phtml",
+        "title": "Israel nega 'impacto direto' em hospital em Gaza durante ...Aventuras na Hist\u00f3riahttps://aventurasnahistoria.uol.com.br \u203a ...",
+        "content": "... bombardeio em Gaza, territ\u00f3rio palestino - Getty Images. Em comunicado, a For\u00e7a de Defesa de Israel alegou recentemente que o hospital\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://russian.rt.com/world/news/1218679-zhiteli-gazy-bolnica",
+        "title": "\u041e\u0441\u0442\u0430\u0432\u0448\u0438\u0435\u0441\u044f \u0431\u0435\u0437 \u0434\u043e\u043c\u043e\u0432 \u0436\u0438\u0442\u0435\u043b\u0438 \u0413\u0430\u0437\u044b \u043d\u0430\u0445\u043e\u0434\u044f\u0442 \u0443\u043a\u0440\u044b\u0442\u0438\u0435 \u0432 ...RT \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043chttps://russian.rt.com \u203a world \u203a news",
+        "content": "",
+        "size": [
+          827,
+          465
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/oct/18/israel-hamas-war-live-news-gaza-hospital-west-bank-update-joe-biden-visit-protests-latest-updates?filterKeyEvents=false&page=with:block-65305f998f0858f6e93c8b6f",
+        "title": "Egypt's president agrees to open the Rafah crossingThe Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a oct \u203a israel...",
+        "content": "The Gaza health ministry, run by Hamas, said the Gaza hospital blast had killed 471 people and wounded more than 314. Tuesday's explosion was\u00a0...",
+        "size": [
+          600,
+          360
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/oct/18/israel-hamas-war-live-news-gaza-hospital-west-bank-update-joe-biden-visit-protests-latest-updates?filterKeyEvents=false&page=with:block-652f57d88f08269fdea764b2",
+        "title": "Egypt's president agrees to open the Rafah crossingThe Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a oct \u203a israel...",
+        "content": "The Gaza hospital explosion has deepened tensions in the Middle East and raised the stakes for US President Joe Biden as he flies to Israel to\u00a0...",
+        "size": [
+          600,
+          360
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/oct/18/israel-hamas-war-live-news-gaza-hospital-west-bank-update-joe-biden-visit-protests-latest-updates?filterKeyEvents=false&page=with:block-652f969e8f08269fdea76686",
+        "title": "Egypt's president agrees to open the Rafah crossingThe Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a oct \u203a israel...",
+        "content": "The Gaza health ministry, run by Hamas, blamed an Israeli strike for the hospital blast. The Israel Defence Forces, said it was caused by a\u00a0...",
+        "size": [
+          600,
+          360
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theguardian.com/world/live/2023/oct/18/israel-hamas-war-live-news-gaza-hospital-west-bank-update-joe-biden-visit-protests-latest-updates",
+        "title": "Egypt's president agrees to open the Rafah crossingThe Guardianhttps://www.theguardian.com \u203a world \u203a live \u203a oct \u203a israel...",
+        "content": "The announcement to allow water, food and other supplies happened as fury over the blast at Gaza City's al-Ahli Hospital spread across the\u00a0...",
+        "size": [
+          465,
+          279
+        ],
+        "date": "2023:10:18 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.gettyimages.co.jp/detail/1744741155",
+        "title": "Humanitarian Crisis In Gaza Deepens As Israel-Hamas ...Getty Imageshttps://www.gettyimages.co.jp \u203a detail",
+        "content": "A woman cries as she bids farewell to the bodies of Palestinians killed during Israeli airstrikes on October 19, 2023 in Khan Yunis, Gaza.",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://pamfleti.net/english/bota/lufta-e-pergjakshme-vritet-kreu-i-forcave-te-sigurise-te-hamasit-i193954",
+        "title": "Bloody war, head of Hamas security forces killed - BotaPamfletihttps://pamfleti.net \u203a english \u203a bota",
+        "content": "The head of the national security forces led by Hamas in Gaza has been killed as a result of Israeli airstrikes.",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://pamfleti.net/english/bota/paralajmeron-ish-shefi-i-cia-s-izraelit-do-ti-duhen-vite-per-te-marre-kontr-i193937",
+        "title": "Israel will need years to take control of Gaza! - Bota - PamfletiPamfletihttps://pamfleti.net \u203a english \u203a bota",
+        "content": "",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://torontosun.com/news/world/palestinians-trapped-in-gaza-find-nowhere-is-safe-during-israels-relentless-bombing",
+        "title": "Palestinians trapped in Gaza find nowhere is safe during ...Toronto Sunhttps://torontosun.com \u203a news \u203a world \u203a palestinians-tr...",
+        "content": "... Gaza's second-largest hospital deteriorated further, said Dr. Mohammed Qandeel of Nasser Hospital in the southern town of Khan Younis. Power\u00a0...",
+        "size": [
+          400,
+          267
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynews.com.au/world-news/joe-biden-forms-deal-with-egypt-to-allow-humanitarian-aid-into-gaza-despite-us-vetoing-un-call-for-immediate-ceasefire/news-story/0fc03f604c4ba429925ed7ffaad4ddf1",
+        "title": "Joe Biden forms deal with Egypt to allow humanitarian aid into ...Sky News Australiahttps://www.skynews.com.au \u203a World-news",
+        "content": "\"Huge bombardments\u201d have hit the area surrounding Al-Quds Hospital in Gaza City as the war between Hamas and Israel intensifies. Footage\u00a0...",
+        "size": [
+          650,
+          366
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynews.com.au/world-news/president-joe-biden-tells-israel-not-to-make-same-mistakes-the-us-did-after-911-attacks-as-first-satellite-images-showing-aftermath-of-deadly-gaza-hospital-blast/news-story/b1b96a8bee2771c1c560aa095062d3f2",
+        "title": "Joe Biden tells Israel not to make same mistakes as US did ...Sky News Australiahttps://www.skynews.com.au \u203a World-news",
+        "content": "He declared Israel was not responsible for the Gaza hospital blast that Hamas claimed left at least 471 people dead, saying it \"appears it was\u00a0...",
+        "size": [
+          650,
+          366
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.9news.com.au/world/israel-hamas-conflict-live-updates-breaking-news-october-19-2023/e88da0a5-73b4-4059-a081-24ed8c958a02",
+        "title": "Australians warned against Lebanon travel; Mining magnate ...9News.com.auhttps://www.9news.com.au \u203a World",
+        "content": "\"The people of Gaza are already suffering greatly. We feel a responsibility with the Australian government to do what we can to avert the rapid\u00a0...",
+        "size": [
+          750,
+          500
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pamfleti.net/english/bota/lufta-izrael-palestine-shba-voton-pro-rezolutes-kunder-izraelit-qendrimi-qe-i193911",
+        "title": "The Israel-Palestine war, the US votes in favor of the ... - PamfletiPamfletihttps://pamfleti.net \u203a english \u203a bota \u203a lufta-izrael-pales...",
+        "content": "",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://pamfleti.net/english/bota/lufta-izrael-palestine-shba-voton-pro-rezolutes-kunder-izraelit-qendrimi-qe-i193911",
+        "title": "The Israel-Palestine war, the US votes in favor of the ... - PamfletiPamfletihttps://pamfleti.net \u203a english \u203a bota \u203a lufta-izrael-pales...",
+        "content": "",
+        "size": [
+          450,
+          300
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://nypost.com/2023/10/19/actors-group-condemns-israeli-without-mentioning-hamas/",
+        "title": "Actors group condemns Israeli without mentioning HamasNew York Posthttps://nypost.com \u203a 2023/10/19 \u203a actors-group-conde...",
+        "content": "... Gaza. Tilda Swinton. 5. A letter signed by more than 2,000 actors, artists and musicians, including Tilda Swinton (above), has been slammed\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.secondcaptains.com/2023/10/19/episode-2770-footballers-speak-out-on-israel-palestine-tonali-in-trouble-tasteful-grunge/",
+        "title": "Episode 2770: Footballers Speak Out On Israel-Palestine ...Second Captainshttps://www.secondcaptains.com \u203a 2023/10/19 \u203a episo...",
+        "content": "Mohamed Salah yesterday posted a video asking world leaders to agree a deal to allow humanitarian aid to reach the people of Gaza. We\u00a0...",
+        "size": [
+          1240,
+          744
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://navbharattimes.indiatimes.com/navbharatgold/day-today/why-israels-former-pm-is-saying-hamas-israel-war-is-netanyahus-fault/story/104532737.cms",
+        "title": "Hamas- Israel war: \u0907\u091c\u0930\u093e\u092f\u0932 \u0915\u0947 \u092a\u0942\u0930\u094d\u0935 \u092a\u0940\u090f\u092e \u0915\u094d\u092f\u094b\u0902 \u0915\u0939 \u0930\u0939\u0947, \u0938\u093e\u0930\u093e \u0915\u0938\u0942\u0930 ...Navbharat Timeshttps://navbharattimes.indiatimes.com \u203a ...",
+        "content": "\u0909\u0928\u0915\u093e \u092f\u0939 \u092d\u0940 \u0915\u0939\u0928\u093e \u0939\u0948 \u0915\u093f \u0907\u091c\u0930\u093e\u092f\u0932\u0940 \u0938\u0947\u0928\u093e \u0915\u0947 \u0932\u093f\u090f \u091c\u093c\u092e\u0940\u0928\u0940 \u0911\u092a\u0930\u0947\u0936\u0928 \u0906\u0938\u093e\u0928 \u0928\u0939\u0940\u0902 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u093e\u0964 \u0926\u0930\u0905\u0938\u0932, \u0917\u093e\u091c\u093e \u092a\u091f\u094d\u091f\u0940 (Gaza Strip) \u092e\u0947\u0902 20 \u0932\u093e\u0916 \u0938\u0947\u00a0...",
+        "size": [
+          900,
+          462
+        ],
+        "date": "2023:10:19 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.theaustralian.com.au/nation/politics/ed-husic-anne-aly-blast-collective-punishment-by-israel/news-story/ee99c30c420d2f8e31e1ea64d9571ff6",
+        "title": "Israel-Hamas war: Ed Husic, Anne Aly blast 'collective ...The Australianhttps://www.theaustralian.com.au \u203a ... \u203a \"News Story\"",
+        "content": "As Israel and Hamas traded accusations over a strike on a Gaza hospital, Foreign Minister Penny Wong said it was difficult to say which side was\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.rainews.it/articoli/ultimora/Israele-Vivi-maggior-parte-ostaggi-cca07ea1-3b3f-42f2-b8ad-5c027a78b216.html",
+        "title": "Israele: \"Vivi maggior parte ostaggi\" - RaiNewsRaiNewshttps://www.rainews.it \u203a ultimora",
+        "content": "Tuttavia alcuni di loro sarebbero gi\u00e0 morti dato che a Gaza sarebbero stati portati anche i cadaveri di persone uccise durante l'attacco in\u00a0...",
+        "size": [
+          1536,
+          2048
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.naturalnews.com/2023-10-20-israel-military-green-light-enter-gaza-offensive.html",
+        "title": "Israeli military gets \u201cgreen light\u201d to enter Gaza and begin ...NaturalNews.comhttps://www.naturalnews.com \u203a 2023-10-20-israel-mili...",
+        "content": "",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://news.nestia.com/detail_share/11757315?media_type=1",
+        "title": "Letter from 2,000 actors and musicians slammed for accusing ...Nestiahttps://news.nestia.com \u203a detail_share",
+        "content": "... Gaza. Open Nestia to see more stories & pictures. 5 A letter signed by more than 2,000 actors, artists and musicians, including Tilda Swinton\u00a0...",
+        "size": [
+          5472,
+          3648
+        ],
+        "date": "2023:10:20 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.jagrantv.com/hi-show/israel-palestine-war-gruesome-pictures-of-the-ongoing-war-between-israel-and-hamas-have-surfaced-you-also-see-rc1046957",
+        "title": "Israel Palestine War: \u0907\u091c\u0930\u093e\u092f\u0932-\u0939\u092e\u093e\u0938 \u0915\u0947 \u092c\u0940\u091a \u091c\u093e\u0930\u0940 \u091c\u0902\u0917 \u0915\u0940 \u092d\u0940\u0937\u0923 ...Jagran TVhttps://www.jagrantv.com \u203a hi-show",
+        "content": "... \u092d\u092f\u093e\u0935\u0939 \u0924\u0938\u094d\u0935\u0940\u0930\u0947\u0902, \u0915\u093e\u0902\u092a \u091c\u093e\u090f\u0917\u0940 \u0930\u0941\u0939 | Gaza Patti | Hamas. Dainik Jagran - \u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923. Search. Info. Shopping.",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.jagran.com/himachal-pradesh/shimla-women-prisoners-will-still-keep-fast-for-the-long-life-of-her-husband-in-jail-23561920.html",
+        "title": "\u091c\u0947\u0932 \u092e\u0947\u0902 \u092c\u0902\u0926... \u092b\u093f\u0930 \u092d\u0940 \u0930\u0916\u0947\u0902\u0917\u0940 \u092a\u0924\u093f \u0915\u0940 \u0932\u0902\u092c\u0940 \u0909\u092e\u094d\u0930 \u0915\u0947 \u0932\u093f\u090f \u0935\u094d\u0930\u0924, \u092e\u0939\u093f\u0932\u093e ...Jagranhttps://www.jagran.com \u203a shimla",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynews.com.au/world-news/stop-more-bloodshed-celebrities-call-on-united-states-president-to-deescalate-war-in-middle-east-before-another-life-is-lost/news-story/187c1b7f93004fd5d85afc7aac37b6b3",
+        "title": "Celebrities call on United States President to de-escalate war ...Sky News Australiahttps://www.skynews.com.au \u203a World-news",
+        "content": "Multiple shot in US psychiatric hospital as police operation underway ... Gaza. The dire situation has now forced some big-name celebrities to\u00a0...",
+        "size": [
+          650,
+          366
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://novini.bg/sviat/blizyk-iztok/808483",
+        "title": "\"\u0425\u0430\u043c\u0430\u0441\": \u041d\u0435 \u043e\u0431\u0441\u044a\u0436\u0434\u0430\u043c\u0435 \u0440\u0430\u0437\u043c\u044f\u043d\u0430 \u043d\u0430 \u043f\u043b\u0435\u043d\u0435\u043d\u0438 \u0438\u0437\u0440\u0430\u0435\u043b\u0441\u043a\u0438 ...Novini.bghttps://novini.bg \u203a sviat \u203a blizyk-iztok",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/detail/nieuwsfoto%27s/the-rubble-of-buildings-which-were-destroyed-during-nieuwsfotos/1747846342",
+        "title": "The rubble of buildings which were destroyed during Israeli air ...Getty Imageshttps://www.gettyimages.nl \u203a detail",
+        "content": "The rubble of buildings which were destroyed during Israeli air raids are seen in the southern Gaza Strip on October 21, 2023 in Khan Yunis,\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/detail/nieuwsfoto%27s/local-citizens-search-for-victims-in-buildings-which-were-nieuwsfotos/1747845281",
+        "title": "Local citizens search for victims in buildings which were ...Getty Imageshttps://www.gettyimages.nl \u203a detail",
+        "content": "... Gaza Strip on October 21, 2023 in Khan Yunis, Gaza. Gazans are evacuating to the south as... Vind hoogwaardige nieuwsfoto's in een hoge\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/detail/nieuwsfoto%27s/local-citizens-search-for-victims-in-buildings-which-were-nieuwsfotos/1747845281",
+        "title": "Local citizens search for victims in buildings which were ...Getty Imageshttps://www.gettyimages.nl \u203a detail",
+        "content": "... Gaza Strip on October 21, 2023 in Khan Yunis, Gaza. Gazans are evacuating to the south as... Vind hoogwaardige nieuwsfoto's in een hoge\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.skynews.com.au/world-news/stop-more-bloodshed-celebrities-call-on-united-states-president-to-deescalate-war-in-middle-east-before-another-life-is-lost/news-story/187c1b7f93004fd5d85afc7aac37b6b3",
+        "title": "Celebrities call on United States President to de-escalate war ...Sky News Australiahttps://www.skynews.com.au \u203a World-news",
+        "content": "Multiple shot in US psychiatric hospital as police operation underway ... Gaza. The dire situation has now forced some big-name celebrities to\u00a0...",
+        "size": [
+          650,
+          366
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://blitz.bg/voinite/bashchata-na-trite-blgarcheta-v-gaza-prodlzhavat-da-padat-bombi-do-tyakh-video_news981871.html",
+        "title": "\u0411\u0430\u0449\u0430\u0442\u0430 \u043d\u0430 \u0442\u0440\u0438\u0442\u0435 \u0431\u044a\u043b\u0433\u0430\u0440\u0447\u0435\u0442\u0430 \u0432 \u0413\u0430\u0437\u0430: \u041f\u0440\u043e\u0434\u044a\u043b\u0436\u0430\u0432\u0430\u0442 \u0434\u0430 ...Blitz.bghttps://blitz.bg \u203a \u0412\u043e\u0439\u043d\u0438\u0442\u0435",
+        "content": "\u0411\u0430\u0449\u0430\u0442\u0430 \u043d\u0430 \u0442\u0440\u0438\u0442\u0435 \u0431\u044a\u043b\u0433\u0430\u0440\u0447\u0435\u0442\u0430 \u0432 \u0413\u0430\u0437\u0430: \u041f\u0440\u043e\u0434\u044a\u043b\u0436\u0430\u0432\u0430\u0442 \u0434\u0430 \u043f\u0430\u0434\u0430\u0442 \u0431\u043e\u043c\u0431\u0438 \u0434\u043e \u0442\u044f\u0445 \u0412\u0418\u0414\u0415\u041e. https://blitz.bg/voinite/bashchata-na-trite-blgarcheta-v-gaza\u00a0...",
+        "size": [
+          730,
+          487
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.jagran.com/maharashtra/mumbai-pune-delhi-flight-makes-emergency-landing-in-mumbai-23561943.html",
+        "title": "\u092f\u093e\u0924\u094d\u0930\u0940 \u0915\u0947 \u092c\u0948\u0917 \u092e\u0947\u0902 \u092c\u092e \u0939\u094b\u0928\u0947 \u0915\u093e \u0926\u093e\u0935\u093e \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u092a\u0941\u0923\u0947-\u0926\u093f\u0932\u094d\u0932\u0940 \u092b\u094d\u0932\u093e\u0907\u091f \u0915\u0940 ...Jagranhttps://www.jagran.com \u203a mumbai-...",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/detail/nieuwsfoto%27s/the-rubble-of-buildings-which-were-destroyed-during-nieuwsfotos/1747846342",
+        "title": "The rubble of buildings which were destroyed during Israeli air ...Getty Imageshttps://www.gettyimages.nl \u203a detail",
+        "content": "The rubble of buildings which were destroyed during Israeli air raids are seen in the southern Gaza Strip on October 21, 2023 in Khan Yunis,\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": "2023:10:21 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://news.eseuro.com/trends/2414710.html",
+        "title": "C\u00f3mo jugar a la defensiva en los mercados burs\u00e1tiles en ...News ES Eurohttps://news.eseuro.com \u203a trends",
+        "content": "Con la guerra en Gaza y Ucrania, la desaceleraci\u00f3n de la econom\u00eda ... hospital cercano a Gaza - about 13 hours ago. La NASA establece\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://news.eseuro.com/trends/2414649.html",
+        "title": "C\u00f3mo jugar a la defensiva en los mercados burs\u00e1tiles en ...News ES Eurohttps://news.eseuro.com \u203a trends",
+        "content": "Con la guerra en Gaza y Ucrania, la desaceleraci\u00f3n de la econom\u00eda estadounidense y el aumento de los precios del petr\u00f3leo, la recesi\u00f3n\u00a0...",
+        "size": [
+          1024,
+          576
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.legit.ng/world/asia/1559826-breaking-55-dead-israel-steps-gaza-strikes-details-emerge/",
+        "title": "55 Dead As Israel Steps Up Gaza Strikes, Details EmergeLegit.nghttps://www.legit.ng \u203a World \u203a Asia",
+        "content": "... hospital in Gaza. Biden said that based on what he has seen, the hospital attack appeals like the \u201cother team\u201d carried out the bomb attack\u00a0...",
+        "size": [
+          1000,
+          500
+        ],
+        "date": "2023:10:22 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hawaiipublicradio.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Hawaii Public Radiohttps://www.hawaiipublicradio.org \u203a npr-news \u203a palest...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.npr.org/2023/10/23/1208026655/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're ... - NPRNPRhttps://www.npr.org \u203a 2023/10/23 \u203a palestinian-american...",
+        "content": "... Gaza Strip on October 18, 2023 in Khan Yunis, Gaza. Ahmad ... 31 premature babies are evacuated from Al-Shifa Hospital to southern Gaza\u00a0...",
+        "size": [
+          1100,
+          824
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wvtf.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...WVTFhttps://www.wvtf.org \u203a palestinian-americans-on-the-is...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.ualrpublicradio.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Little Rock Public Radiohttps://www.ualrpublicradio.org \u203a npr-news \u203a palestini...",
+        "content": "... Gaza Strip on October 18, 2023 in Khan Yunis, Gaza. \"I'm literally watching my family get bombed and then being gaslit to say, 'Oh, they\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.capeandislands.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...capeandislands.orghttps://www.capeandislands.org \u203a palestinian-american...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.lakeshorepublicmedia.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Lakeshore Public Mediahttps://www.lakeshorepublicmedia.org \u203a npr-news \u203a p...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hawaiipublicradio.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Hawaii Public Radiohttps://www.hawaiipublicradio.org \u203a npr-news \u203a palest...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wusf.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...WUSFhttps://www.wusf.org \u203a palestinian-americans-on-the-i...",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on. MAHMUD HAMS. /. AFP via Getty Images.",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.capeandislands.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...capeandislands.orghttps://www.capeandislands.org \u203a palestinian-american...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.iowapublicradio.org/news-from-npr/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Iowa Public Radiohttps://www.iowapublicradio.org \u203a news-from-npr \u203a p...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.antena3.ro/emisiuni/news-hour-with-cnn/israel-incursiuni-limitate-fasia-gaza-purtator-cuvant-idf-689730.html",
+        "title": "Israelienii fac incursiuni limitate pe teritoriul F\u00e2\u0219iei Gaza ...Antena 3https://www.antena3.ro \u203a emisiuni",
+        "content": "",
+        "size": [
+          1200,
+          675
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wunc.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...WUNChttps://www.wunc.org \u203a palestinian-americans-on-the-i...",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on. MAHMUD HAMS. /. AFP via Getty Images.",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wyomingpublicmedia.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Wyoming Public Mediahttps://www.wyomingpublicmedia.org \u203a palestinian-a...",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on. MAHMUD HAMS. /. AFP via Getty Images.",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wkyufm.org/news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...WKU Public Radiohttps://www.wkyufm.org \u203a news \u203a palestinian-america...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.northcountrypublicradio.org/news/npr/1208026655/palestinian-americans-on-the-israel-hamas-war-quot-we-re-not-even-allowed-to-grieve-quot",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...North Country Public Radiohttps://www.northcountrypublicradio.org \u203a news \u203a npr",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on October 9, 2023.",
+        "size": [
+          4859,
+          3644
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wwno.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...WWNOhttps://www.wwno.org \u203a npr-news \u203a palestinian-ameri...",
+        "content": "... Gaza Strip on October 18, 2023 in Khan Yunis, Gaza. \"I'm literally watching my family get bombed and then being gaslit to say, 'Oh, they\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kunc.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...KUNChttps://www.kunc.org \u203a npr-news \u203a palestinian-americ...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kunc.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...KUNChttps://www.kunc.org \u203a npr-news \u203a palestinian-americ...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.boisestatepublicradio.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Boise State Public Radiohttps://www.boisestatepublicradio.org \u203a palestinian-am...",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on. MAHMUD HAMS. /. AFP via Getty Images.",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mainepublic.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war - Maine PublicMaine Publichttps://www.mainepublic.org \u203a npr-news \u203a palestinian-...",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on. MAHMUD HAMS. /. AFP via Getty Images.",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.delawarepublic.org/npr-headlines/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Delaware First Mediahttps://www.delawarepublic.org \u203a npr-headlines \u203a pale...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.tspr.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Tri States Public Radiohttps://www.tspr.org \u203a npr-news \u203a palestinian-america...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wxxinews.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war - WXXI NewsWXXI Newshttps://www.wxxinews.org \u203a npr-news \u203a palestinian-a...",
+        "content": "According to human rights groups, Gaza is in the depths of a humanitarian crisis, a direct result of Israel's bombing and \"complete siege\" of\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.northcountrypublicradio.org/news/npr/1208026655/palestinian-americans-on-the-israel-hamas-war-we-re-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...North Country Public Radiohttps://www.northcountrypublicradio.org \u203a news \u203a npr",
+        "content": "... A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza.",
+        "size": [
+          4859,
+          3644
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.apr.org/politics-government/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Alabama Public Radiohttps://www.apr.org \u203a politics-government \u203a palestinia...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.vpm.org/npr-news/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...VPMhttps://www.vpm.org \u203a npr-news \u203a npr-news \u203a palesti...",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on. MAHMUD HAMS. /. AFP via Getty Images.",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.mtpr.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Montana Public Radiohttps://www.mtpr.org \u203a palestinian-americans-on-the-i...",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on. MAHMUD HAMS. /. AFP via Getty Images.",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.nhpr.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...New Hampshire Public Radiohttps://www.nhpr.org \u203a palestinian-americans-on-the-i...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.upr.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Utah Public Radiohttps://www.upr.org \u203a npr-news \u203a palestinian-america...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kunm.org/npr-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...KUNMhttps://www.kunm.org \u203a npr-news \u203a palestinian-ameri...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wfae.org/race-equity/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...WFAEhttps://www.wfae.org \u203a race-equity \u203a palestinian-ameri...",
+        "content": "According to human rights groups, Gaza is in the depths of a humanitarian crisis, a direct result of Israel's bombing and \"complete siege\" of\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.northernpublicradio.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...Northern Public Radiohttps://www.northernpublicradio.org \u203a palestinian-ame...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wlrn.org/npr-breaking-news/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...WLRNhttps://www.wlrn.org \u203a npr-breaking-news \u203a palestinia...",
+        "content": "... Gaza Strip on October 18, 2023 in Khan Yunis, Gaza. \"I'm literally watching my family get bombed and then being gaslit to say, 'Oh, they\u00a0...",
+        "size": [
+          880,
+          660
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kasu.org/societal-issues/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...KASUhttps://www.kasu.org \u203a societal-issues \u203a palestinian-am...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.wvtf.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...WVTFhttps://www.wvtf.org \u203a palestinian-americans-on-the-is...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.hppr.org/2023-10-23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...High Plains Public Radiohttps://www.hppr.org \u203a palestinian-americans-on-the-i...",
+        "content": "A man cries because his home was bombed during Israeli air raids in the southern Gaza Strip on October 16, 2023 in Khan Yunis, Gaza. Over\u00a0...",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.kpbs.org/news/news/national/2023/10/23/palestinian-americans-on-the-israel-hamas-war-were-not-even-allowed-to-grieve",
+        "title": "Palestinian Americans on the Israel-Hamas war: 'We're not ...KPBShttps://www.kpbs.org \u203a news \u203a national \u203a 2023/10/23",
+        "content": "Palestinians evacuate the area following an Israeli airstrike on the Sousi mosque in Gaza City on. MAHMUD HAMS. /. AFP via Getty Images.",
+        "size": [
+          880,
+          542
+        ],
+        "date": "2023:10:23 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://wwiii.news/2023-10-24-israels-gaza-hospital-bombing-claims-not-credible.html",
+        "title": "Israel's Gaza hospital bombing claims not credible \u2013 analystswwiii.newshttps://wwiii.news \u203a 2023-10-24-israels-gaza-hospital-...",
+        "content": "... Hospital in Gaza this week. (Article republished from RT.com) The claims come from Earshot, an NGO specializing in audio analysis of footage\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://chaos.news/2023-10-24-hundreds-arrested-pro-palestinian-protest-capitol.html",
+        "title": "Around 300 people arrested after Jewish group organizes sit ...chaos.newshttps://chaos.news \u203a 2023-10-24-hundreds-arrested-pr...",
+        "content": "... Gaza, genocide, humanitarian, Israel, Israel-Palestine war, Jewish ... Israel's Gaza hospital bombing claims not credible \u2013 analysts. 10/24\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.infomoney.com.br/economia/83-dos-brasileiros-creem-que-guerra-israel-hamas-tera-impacto-negativo-para-economia-mostra-pesquisa/",
+        "title": "83% dos brasileiros creem que guerra Israel-Hamas ter\u00e1 ...InfoMoneyhttps://www.infomoney.com.br \u203a 8...",
+        "content": "KHAN YOUNIS, GAZA \u2013 OCTOBER 18: Palestinian emergency services and local citizens search for victims in buildings destroyed during Israeli\u00a0...",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ru",
+        "link": "https://dzen.ru/a/ZTf4GYcdQ2lWFzDn",
+        "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0446\u044b-\u043f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0446\u044b \u043e \u0432\u043e\u0439\u043d\u0435 \u043c\u0435\u0436\u0434\u0443 \u0418\u0437\u0440\u0430\u0438\u043b\u0435\u043c \u0438 ...\u0414\u0437\u0435\u043dhttps://dzen.ru \u203a ...",
+        "content": "",
+        "size": [
+          800,
+          599
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.naturalnews.com/2023-10-24-israel-to-consider-civilians-terrorist-accomplices.html",
+        "title": "Israel to consider civilians 'terrorist accomplices' if they stay in ...NaturalNews.comhttps://www.naturalnews.com \u203a 2023-10-24-israel-to-c...",
+        "content": "A limited number of aid trucks have been allowed to enter Gaza from Egypt, which included medical supplies but no fuel to power hospital\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://insanity.news/2023-10-24-israel-to-consider-civilians-terrorist-accomplices.html",
+        "title": "Israel to consider civilians 'terrorist accomplices' if they stay in ...Insanity Newshttps://insanity.news \u203a 2023-10-24-israel-to-consider-c...",
+        "content": "A limited number of aid trucks have been allowed to enter Gaza from Egypt, which included medical supplies but no fuel to power hospital\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://novini.bg/bylgariya/obshtestvo/808912",
+        "title": "\u0412\u043e\u0434\u0435\u0449\u0438\u0442\u0435 \u043d\u043e\u0432\u0438\u043d\u0438! \u0414\u0435\u043d\u043a\u043e\u0432: \u041d\u0438\u0435 \u043d\u0435 \u0441\u043c\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c \u0437\u0430 \u0410\u0432\u0441\u0442\u0440\u0438\u044f ...Novini.bghttps://novini.bg \u203a ... \u203a \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e",
+        "content": "",
+        "size": [
+          1280,
+          720
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://diamond.jp/articles/-/331078",
+        "title": "\u30a4\u30b9\u30e9\u30a8\u30eb\u5f85\u3061\u53d7\u3051\u308b\u5e02\u8857\u6226\u306e\u5730\u7344\u7d75 \u30ac\u30b6\u4fb5\u653b\u306a\u3089\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3https://diamond.jp \u203a ... \u203a WSJ PickUp",
+        "content": "",
+        "size": [
+          650,
+          341
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://twisted.news/2023-10-24-questions-israeli-attack-uss-liberty-naval-ship.html",
+        "title": "Questions persist about Israeli attack on USS Liberty naval ...Twisted Newshttps://twisted.news \u203a 2023-10-24-questions-israeli-att...",
+        "content": "... Gaza is an EXPERIMENT to test how globalists can enslave all of ... hospital attack. 10/25/2023 / By Belle Carter \u00b7 More calls for GENOCIDE\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:24 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://panic.news/2023-10-25-oil-prices-surged-amid-israel-hamas-war.html",
+        "title": "Oil prices surge by more than $1 per barrel amid ongoing ...panic.newshttps://panic.news \u203a 2023-10-25-oil-prices-surged-ami...",
+        "content": "In line with these oil price hikes, experts suggest that the looming Israeli ground offensive in the Gaza Strip played a pivotal role.",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.democide.news/2023-10-25-netanyahu-demolish-hamas-denies-gaza-hospital-attack.html",
+        "title": "Netanyahu vows to demolish Hamas as Israel nears \u201cfateful ...democide.newshttps://www.democide.news \u203a 2023-10-25-netanyahu-...",
+        "content": "The hospital served as a shelter for thousands of residents who fled their homes in northern Gaza. Palestinian Authority President Mahmoud Abbas\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://conspiracy.news/2023-10-25-israeli-airstrike-hits-church-kills-18-christians.html",
+        "title": "Israeli airstrike hits CHURCH in Gaza, kills at least 18 Christiansconspiracy.newshttps://conspiracy.news \u203a 2023-10-25-israeli-airstrike-...",
+        "content": "... Gaza hospital attack. 10/25/2023 / By Belle Carter \u00b7 More calls for GENOCIDE: Israeli President Isaac Herzog says civilians living in Gaza are\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://terrorism.news/2023-10-25-military-aid-unconditional-support-israel-no-plan.html",
+        "title": "Despite providing limitless military aid and \u201cunconditional ...Terrorism.newshttps://terrorism.news \u203a 2023-10-25-military-aid-unco...",
+        "content": "... Gaza, recognizing full well that Israel has no plan for the fallout ... hospital attack. 10/25/2023 / By Belle Carter \u00b7 More calls for GENOCIDE\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://panic.news/2023-10-25-gaza-children-developing-severe-trauma-symptoms.html",
+        "title": "Children in Gaza developing symptoms of SEVERE TRAUMApanic.newshttps://panic.news \u203a 2023-10-25-gaza-children-develo...",
+        "content": "Mental health experts in Gaza stress that there is no such thing as \u201cpost-traumatic stress disorder\u201d in Gaza ... hospital bombing. 10/24/2023 / By\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deception.news/2023-10-25-messages-bank-staff-gloating-debanking-nigel-farage.html",
+        "title": "Newly-revealed messages show British bank staff GLOATED ...Deception Newshttps://deception.news \u203a 2023-10-25-messages-bank-st...",
+        "content": "... Gaza hospital attack. 10/25/2023 / By Belle Carter \u00b7 More calls for GENOCIDE: Israeli President Isaac Herzog says civilians living in Gaza are\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fascism.news/2023-10-25-tiktok-app-now-dabbling-in-climate-censorship.html",
+        "title": "CCP-linked TikTok now dabbling in CLIMATE CENSORSHIPfascism.newshttps://fascism.news \u203a 2023-10-25-tiktok-app-now-da...",
+        "content": "Israeli blockade in Gaza threatens to unleash cholera, other infectious disease OUTBREAKS ... hospital bombing. 10/24/2023 / By Laura Harris.",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.dailymotion.com/video/x8p36i2",
+        "title": "Guerra Israel-Hamas \u00e9 preocupa\u00e7\u00e3o de 83% dos brasileiros ...Dailymotionhttps://www.dailymotion.com \u203a video",
+        "content": "ISRAEL x HAMAS: Israel intensifica bombardeio em Gaza em mais um dia de guerra ... hospital de Gaza. Panamericana TV \u00b7 2:59. S\u00e9ptimo d\u00eda de la\u00a0...",
+        "size": [
+          851,
+          480
+        ],
+        "date": "2023:10:25 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://diamond.jp/articles/-/331224",
+        "title": "\u5730\u4e0a\u4fb5\u653b\u3067\u4f55\u304c\u8d77\u304d\u308b\uff1f\u53d6\u6750\u3067\u898b\u305f\u30ac\u30b6\u5730\u533a\u306e\u60b2\u60e8\u306a\u5b9f\u60c5\u3068\u306f ...\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3https://diamond.jp \u203a articles",
+        "content": "",
+        "size": [
+          1300,
+          683
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fascism.news/2023-10-26-number-of-palestinians-jailed-israel-soars-two-weeks.html",
+        "title": "Report: Number of Palestinians JAILED in Israel soars to ...fascism.newshttps://fascism.news \u203a 2023-10-26-number-of-palestin...",
+        "content": "... Gaza Division responsible for monitoring the Gaza Strip. The Israeli ... hospital bombing. 10/24/2023 / By Laura Harris \u00b7 Russia: EU states are\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://fascism.news/2023-10-26-poll-more-americans-rejecting-constitution-embracing-violence.html",
+        "title": "America's crisis of faith: Poll reveals more Americans are ...fascism.newshttps://fascism.news \u203a 2023-10-26-poll-more-america...",
+        "content": "Israeli blockade in Gaza threatens to unleash cholera, other infectious disease OUTBREAKS ... hospital bombing. 10/24/2023 / By Laura Harris.",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://blitz.bg/voinite/ad-po-tmna-doba-v-ivitsata-gaza-izrael-otprishchi-uzhas-i-po-susha-vkara-tankovete-video_news982767.html",
+        "title": "\u0410\u0434 \u043f\u043e \u0442\u044a\u043c\u043d\u0430 \u0434\u043e\u0431\u0430 \u0432 \u0418\u0432\u0438\u0446\u0430\u0442\u0430 \u0413\u0430\u0437\u0430: \u0418\u0437\u0440\u0430\u0435\u043b \u043e\u0442\u043f\u0440\u0438\u0449\u0438 \u0443\u0436\u0430\u0441 \u0438 ...Blitz.bghttps://blitz.bg \u203a \u0412\u043e\u0439\u043d\u0438\u0442\u0435",
+        "content": "\u0410\u0434 \u043f\u043e \u0442\u044a\u043c\u043d\u0430 \u0434\u043e\u0431\u0430 \u0432 \u0418\u0432\u0438\u0446\u0430\u0442\u0430 \u0413\u0430\u0437\u0430: \u0418\u0437\u0440\u0430\u0435\u043b \u043e\u0442\u043f\u0440\u0438\u0449\u0438 \u0443\u0436\u0430\u0441 \u0438 \u043f\u043e \u0441\u0443\u0448\u0430, \u0432\u043a\u0430\u0440\u0430 \u0442\u0430\u043d\u043a\u043e\u0432\u0435\u0442\u0435 \u0412\u0418\u0414\u0415\u041e. https://blitz.bg/voinite/ad-po-tmna-doba-v-ivitsata-gaza\u00a0...",
+        "size": [
+          160,
+          90
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://deception.news/2023-10-26-china-using-israel-palestine-conflict-sideline-america.html",
+        "title": "China is using the Israel-Palestine conflict to sideline the U.S. ...Deception Newshttps://deception.news \u203a 2023-10-26-china-using-israe...",
+        "content": "... Gaza hospital attack. 10/25/2023 / By Belle Carter \u00b7 More calls for GENOCIDE: Israeli President Isaac Herzog says civilians living in Gaza are\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://diamond.jp/articles/-/331224",
+        "title": "\u5730\u4e0a\u4fb5\u653b\u3067\u4f55\u304c\u8d77\u304d\u308b\uff1f\u53d6\u6750\u3067\u898b\u305f\u30ac\u30b6\u5730\u533a\u306e\u60b2\u60e8\u306a\u5b9f\u60c5\u3068\u306f ...\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3https://diamond.jp \u203a articles",
+        "content": "",
+        "size": [
+          1300,
+          683
+        ],
+        "date": "2023:10:26 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://jovempan.com.br/videos/programas/3-em-1/entenda-os-principais-destaques-do-21o-dia-de-conflito-entre-israel-e-hamas.html",
+        "title": "Entenda os principais destaques do 21\u00ba dia de conflito entre ...Jovem Panhttps://jovempan.com.br \u203a programas",
+        "content": "",
+        "size": [
+          426,
+          240
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "my",
+        "link": "https://npnewsmm.com/news/653b854165784069e7511503",
+        "title": "\u1015\u102b\u101c\u1000\u103a\u1005\u1010\u102d\u102f\u1004\u103a\u1038 \u1014\u1031\u102c\u1000\u103a\u1006\u102f\u1036\u1038\u101b\u101e\u1010\u1004\u103a\u1038 ...NPNewshttps://npnewsmm.com \u203a news",
+        "content": "",
+        "size": [
+          1067,
+          800
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://jovempan.com.br/videos/programas/3-em-1/entenda-os-principais-destaques-do-21o-dia-de-conflito-entre-israel-e-hamas.html",
+        "title": "Entenda os principais destaques do 21\u00ba dia de conflito entre ...Jovem Panhttps://jovempan.com.br \u203a programas",
+        "content": "",
+        "size": [
+          426,
+          240
+        ],
+        "date": "2023:10:27 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://archive.ph/9JuTw",
+        "title": "Israel expands ground war against Hamas as observer fear ...Archive.todayhttps://archive.ph \u203a ...",
+        "content": "",
+        "size": [
+          1024,
+          683
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://diamond.jp/articles/-/331284",
+        "title": "\u30e6\u30c0\u30e4\u6559\u3068\u30a4\u30b9\u30e9\u30e0\u6559\u306f\u300c\u5144\u5f1f\u300d\u3060\u3063\u305f\uff1f\u5171\u5b58\u95a2\u4fc2\u3092\u5909\u3048\u305f\u201c2 ...\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3https://diamond.jp \u203a articles",
+        "content": "",
+        "size": [
+          1300,
+          683
+        ],
+        "date": "2023:10:29 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.foxnews.com/live-news/october-29-israel-hamas-war",
+        "title": "Israel expands ground war against Hamas as ... - Fox NewsFox Newshttps://www.foxnews.com \u203a live-news \u203a october-29-isr...",
+        "content": "The terrorist organization has been known to inflate casualty statistics, as it appeared to do in the case of a blast at a Gaza hospital earlier\u00a0...",
+        "size": [
+          624,
+          351
+        ],
+        "date": "2023:10:30 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alaraby2.com/news/%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D9%8A%D9%88%D8%A7%D8%A1-%D8%A8%D8%BA%D8%B2%D8%A9?amp=1",
+        "title": "\u062f\u0639\u0648\u0627\u062a \u0644\u0625\u0646\u0647\u0627\u0621 \u0627\u0644\u062d\u0631\u0628.. \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 \u064a\u0633\u062a\u0647\u062f\u0641 \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a \u0648\u0645\u0631\u0627\u0643\u0632 \u0627\u0644\u0625\u064a\u0648\u0627\u0621 ...\u0627\u0644\u0639\u0631\u0628\u064a 2https://www.alaraby2.com \u203a news",
+        "content": "\u0627\u0631\u062a\u0641\u0639\u062a \u062d\u0635\u064a\u0644\u0629 \u0627\u0644\u0639\u062f\u0648\u0627\u0646 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0639\u0644\u0649 \u063a\u0632\u0629 \u0641\u064a \u064a\u0648\u0645\u0647 \u0627\u0644\u064029 \u0625\u0644\u0649 9500 \u0634\u0647\u064a\u062f \u0628\u064a\u0646\u0647\u0645 3900 \u0637\u0641\u0644\u060c \u06482509 \u0633\u064a\u062f\u0627\u062a\u060c \u0631\u063a\u0645 \u0627\u0644\u062f\u0639\u0648\u0627\u062a \u0625\u0644\u0649 \u0647\u062f\u0646\u0629 \u0625\u0646\u0633\u0627\u0646\u064a\u0629 \u0648\u0648\u0642\u0641 \u0625\u0637\u0644\u0627\u0642\u00a0...",
+        "size": [
+          1012,
+          675
+        ],
+        "date": "2023:11:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://nabd.com/s/127642052-1419af/51-%D8%B4%D9%87%D9%8A%D8%AF%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B2%D9%8A-%D9%88%D8%B3%D8%B7-%D8%BA%D8%B2%D8%A9..-%D9%88%D8%A5%D8%B3%D9%82%D8%A7%D8%B7-%D9%82%D9%86%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D9%81%D8%B3%D9%81%D9%88%D8%B1-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%A6",
+        "title": "51 \u0634\u0647\u064a\u062f\u0627 \u062c\u062f\u064a\u062f\u0627 \u0648\u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u0639\u0634\u0631\u0627\u062a \u0641\u064a \u0642\u0635\u0641 \u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0644\u0645\u062e\u064a\u0645 ...\u0645\u0648\u0642\u0639 \u0646\u0628\u0636https://nabd.com \u203a 51-\u0634\u0647\u064a\u062f\u0627-\u062c\u062f\u064a\u062f\u0627-\u0648\u0625...",
+        "content": "51 \u0634\u0647\u064a\u062f\u0627 \u062c\u062f\u064a\u062f\u0627 \u0648\u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u0639\u0634\u0631\u0627\u062a \u0641\u064a \u0642\u0635\u0641 \u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0644\u0645\u062e\u064a\u0645 \u0627\u0644\u0645\u063a\u0627\u0632\u064a \u0648\u0633\u0637 \u063a\u0632\u0629.. \u0648\u0625\u0633\u0642\u0627\u0637 \u0642\u0646\u0627\u0628\u0644 \u0627\u0644\u0641\u0633\u0641\u0648\u0631 \u0627\u0644\u0623\u0628\u064a\u0636 \u0639\u0644\u0649 \u0645\u062e\u064a\u0645 \u0627\u0644\u0634\u0627\u0637\u0626. \u0627\u0644\u0623\u062d\u062f\u060c \u0665 \u0646\u0648\u0641\u0645\u0628\u0631 / \u062a\u0634\u0631\u064a\u0646\u00a0...",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:11:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alaraby.com/news/%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D9%8A%D9%88%D8%A7%D8%A1-%D8%A8%D8%BA%D8%B2%D8%A9",
+        "title": "\u062f\u0639\u0648\u0627\u062a \u0644\u0625\u0646\u0647\u0627\u0621 \u0627\u0644\u062d\u0631\u0628.. \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 \u064a\u0633\u062a\u0647\u062f\u0641 \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a \u0648\u0645\u0631\u0627\u0643\u0632 \u0627\u0644\u0625\u064a\u0648\u0627\u0621 ...\u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0627\u0644\u0639\u0631\u0628\u064ahttps://www.alaraby.com \u203a news \u203a \u062f...",
+        "content": "\u0627\u0631\u062a\u0641\u0639\u062a \u062d\u0635\u064a\u0644\u0629 \u0627\u0644\u0639\u062f\u0648\u0627\u0646 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0639\u0644\u0649 \u063a\u0632\u0629 \u0641\u064a \u064a\u0648\u0645\u0647 \u0627\u0644\u064029 \u0625\u0644\u0649 9500 \u0634\u0647\u064a\u062f \u0628\u064a\u0646\u0647\u0645 3900 \u0637\u0641\u0644\u060c \u06482509 \u0633\u064a\u062f\u0627\u062a\u060c \u0631\u063a\u0645 \u0627\u0644\u062f\u0639\u0648\u0627\u062a \u0625\u0644\u0649 \u0647\u062f\u0646\u0629 \u0625\u0646\u0633\u0627\u0646\u064a\u0629 \u0648\u0648\u0642\u0641 \u0625\u0637\u0644\u0627\u0642\u00a0...",
+        "size": [
+          1012,
+          675
+        ],
+        "date": "2023:11:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.dailyo.in/news/9061-palestinians-killed-14000-displaced-as-israel-continues-its-onslaught-on-gaza-42253",
+        "title": "9,061 Palestinians killed, 14,000 displaced as Israel continues ...Dailyohttps://www.dailyo.in \u203a News",
+        "content": "Palestinian emergency services and local citizens carry a victim of Israeli air raids in the southern Gaza Strip in Khan Yunis, Gaza. Photo:\u00a0...",
+        "size": [
+          594,
+          396
+        ],
+        "date": "2023:11:04 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://greenfue.com/51-%D8%B4%D9%87%D9%8A%D8%AF%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1/",
+        "title": "51 \u0634\u0647\u064a\u062f\u0627 \u062c\u062f\u064a\u062f\u0627 \u0648\u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u0639\u0634\u0631\u0627\u062a \u0641\u064a \u0642\u0635\u0641 \u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0644\u0645\u062e\u064a\u0645 ...\u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631https://greenfue.com \u203a 51-\u0634\u0647\u064a\u062f\u0627-\u062c\u062f...",
+        "content": "\u0645\u0639 \u062f\u062e\u0648\u0644 \u0627\u0644\u0639\u062f\u0648\u0627\u0646 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u064a\u0648\u0645\u0647 \u0627\u0644\u062b\u0644\u0627\u062b\u064a\u0646\u060c \u0648\u0627\u0635\u0644\u062a \u0642\u0648\u0627\u062a \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 \u062c\u0631\u0627\u0626\u0645\u0647\u0627 \u060c \u062d\u064a\u062b \u0627\u0633\u062a\u0634\u0647\u062f 51 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0627 \u0648\u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u0639\u0634\u0631\u0627\u062a \u0641\u062c\u0631 \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0642\u0635\u0641 \u0644\u0644\u0637\u064a\u0631\u0627\u0646\u00a0...",
+        "size": [
+          640,
+          360
+        ],
+        "date": "2023:11:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.eldjazaireldjadida.dz/%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B2%D9%8A/",
+        "title": "\u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u0645\u0646 \u0627\u0644\u0634\u0647\u062f\u0627\u0621 \u0648\u0627\u0644\u062c\u0631\u062d\u0649 \u0628\u0645\u062e\u064a\u0645 \u0627\u0644\u0645\u063a\u0627\u0632\u064a - \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0627\u0644\u062c\u062f\u064a\u062f\u0629\u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0627\u0644\u062c\u062f\u064a\u062f\u0629https://www.eldjazaireldjadida.dz \u203a ...",
+        "content": "\u0633\u0642\u0637 \u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u0645\u0646 \u0627\u0644\u0634\u0647\u062f\u0627\u0621 \u0648\u0627\u0644\u062c\u0631\u062d\u0649 \u0646\u062a\u064a\u062c\u0629 \u0642\u0635\u0641 \u062c\u064a\u0634 \u0627\u0644\u0639\u062f\u0648\u0627\u0646 \u0644\u0645\u0646\u0632\u0644 \u0641\u064a \u0645\u062e\u064a\u0645 \u0627\u0644\u0645\u063a\u0627\u0632\u064a \u0648\u0633\u0637 \u0642\u0637\u0627\u0639 \u063a\u0632\u0629 \u062d\u0633\u0628\u0645\u0627 \u0623\u0639\u0644\u0646\u062a\u0647 \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629.",
+        "size": [
+          780,
+          470
+        ],
+        "date": "2023:11:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alaraby.com/news/%D8%B1%D8%B4%D9%82%D8%A7%D8%AA-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9-%D9%88%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%AF%D8%A8%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%AA%D8%B5%D8%AF-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A8%D8%BA%D8%B2%D8%A9",
+        "title": "\u0631\u0634\u0642\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u062a\u062f\u0645\u064a\u0631 \u062f\u0628\u0627\u0628\u0627\u062a.. \u0627\u0644\u0645\u0642\u0627\u0648\u0645\u0629 \u062a\u0635\u062f\u0651 \u0647\u062c\u0645\u0627\u062a \u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0628\u063a\u0632\u0629\u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0627\u0644\u0639\u0631\u0628\u064ahttps://www.alaraby.com \u203a news \u203a \u0631...",
+        "content": "\u062a\u062d\u0627\u0648\u0644 \u0642\u0648\u0627\u062a \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 \u0627\u062c\u062a\u064a\u0627\u062d \u0642\u0637\u0627\u0639 \u063a\u0632\u0629 \u0645\u0646\u0630 9 \u0623\u064a\u0627\u0645\u060c \u0625\u0644\u0627 \u0623\u0646\u0647\u0627 \u0644\u0645 \u062a\u062d\u0642\u0642 \u062a\u0642\u062f\u0645\u064b\u0627 \u0648\u062a\u0643\u0628\u062f\u062a \u062e\u0633\u0627\u0626\u0631 \u0641\u064a \u062c\u0646\u0648\u062f\u0647\u0627 \u0648\u0622\u0644\u064a\u0627\u062a\u0647\u0627 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629.",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2023:11:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alaraby.com/news/%D8%B3%D9%86%D9%86%D8%AA%D8%B5%D8%B1-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%8A%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%B5%D9%85%D9%88%D8%AF-%D9%81%D9%8A-%D9%88%D8%AC%D9%87-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%88%D8%A8%D8%A7%D9%8A%D8%AF%D9%86",
+        "title": "\"\u0633\u0646\u0646\u062a\u0635\u0631\".. \u0641\u0644\u0633\u0637\u064a\u0646\u064a \u064a\u0648\u062c\u0651\u0647 \u0631\u0633\u0627\u0644\u0629 \u0635\u0645\u0648\u062f \u0641\u064a \u0648\u062c\u0647 \u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u0648\u0628\u0627\u064a\u062f\u0646\u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0627\u0644\u0639\u0631\u0628\u064ahttps://www.alaraby.com \u203a news",
+        "content": "\u0648\u0648\u062c\u0651\u0647 \u0641\u0644\u0633\u0637\u064a\u0646\u064a \u0631\u0633\u0627\u0644\u0629 \u0642\u0648\u064a\u0629 \u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0648\u0632\u0631\u0627\u0621 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0628\u0646\u064a\u0627\u0645\u064a\u0646 \u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u0648\u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a \u062c\u0648 \u0628\u0627\u064a\u062f\u0646\u060c \u0645\u0624\u0643\u062f\u064b\u0627 \u0623\u0646\u0651 \u0627\u0644\u063a\u0632\u064a\u064a\u0646 \u0633\u064a\u0646\u062a\u0635\u0631\u0648\u0646. \"\u063a\u0632\u0629 \u0633\u062a\u0646\u062a\u0635\u0631\". \u0648\u0642\u0627\u0644\u00a0...",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2023:11:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://greenfue.com/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%B5%D8%AD%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%84%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A3%D9%84%D8%A7-%D9%8A%D9%83/",
+        "title": "\u0648\u0632\u064a\u0631\u0629 \u0635\u062d\u0629 \u0641\u0644\u0633\u0637\u064a\u0646 \u0644\u0644\u0645\u062c\u062a\u0645\u0639 \u0627\u0644\u062f\u0648\u0644\u064a: \u0623\u0644\u0627 \u064a\u0643\u0641\u064a 30 \u064a\u0648\u0645\u064b\u0627 \u0645\u0646 \u0627\u0644\u0642\u062a\u0644 ...\u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631https://greenfue.com \u203a \u0648\u0632\u064a\u0631\u0629-\u0635\u062d\u0629-...",
+        "content": "\u0631\u0641\u0636 \u0631\u0626\u064a\u0633 \u0648\u0632\u0631\u0627\u0621 \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0628\u0646\u064a\u0627\u0645\u064a\u0646 \u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u0627\u0644\u062f\u0639\u0648\u0627\u062a \u0627\u0644\u0645\u0637\u0627\u0644\u0628\u0629 \u0628\u0648\u0642\u0641 \u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0641\u064a \u063a\u0632\u0629. \u0648\u0642\u0627\u0644 \u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u0644\u0644\u0623\u0637\u0642\u0645 \u0627\u0644\u062c\u0648\u064a\u0629 \u0648\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u0631\u064a\u0629 \u0641\u064a \u0642\u0627\u0639\u062f\u0629\u00a0...",
+        "size": [
+          498,
+          280
+        ],
+        "date": "2023:11:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://www.alaraby.com/news/%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D8%A5%D8%AF%D8%AE%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%B3-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AD%D8%B1%D8%A8-%D8%BA%D8%B2%D8%A9",
+        "title": "\u062f\u0639\u0648\u0627\u062a \u0644\u0625\u062f\u062e\u0627\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0627\u062a.. \u0627\u0644\u0628\u0627\u0628\u0627 \u0641\u0631\u0646\u0633\u064a\u0633 \u064a\u062d\u0630\u0631 \u0645\u0646 \u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u062d\u0631\u0628 \u063a\u0632\u0629\u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0627\u0644\u0639\u0631\u0628\u064ahttps://www.alaraby.com \u203a news \u203a \u062f...",
+        "content": "\u0648\u0623\u0636\u0627\u0641: \"\u0622\u0645\u0644 \u0623\u0646 \u064a\u062a\u0645 \u0627\u062a\u062e\u0627\u0630 \u062c\u0645\u064a\u0639 \u0627\u0644\u0625\u062c\u0631\u0627\u0621\u0627\u062a \u0645\u0646 \u0623\u062c\u0644 \u062a\u062c\u0646\u0628 \u062a\u0635\u0627\u0639\u062f \u0627\u0644\u0635\u0631\u0627\u0639\u060c \u0648\u0623\u0646 \u062a\u062a\u0645 \u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u062c\u0631\u062d\u0649\u060c \u0648\u0623\u0646 \u062a\u0635\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0627\u062a \u0625\u0644\u0649 \u0633\u0643\u0627\u0646 \u063a\u0632\u0629\u060c \u062d\u064a\u062b \u0627\u0644\u0648\u0636\u0639 \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u064a \u062e\u0637\u064a\u0631\u00a0...",
+        "size": [
+          400,
+          225
+        ],
+        "date": "2023:11:05 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://aventurasnahistoria.uol.com.br/noticias/reportagem/guerra-entre-israel-e-hamas-completa-1-mes-com-mortes-de-criancas-de-escassez-em-gaza.phtml",
+        "title": "O que aconteceu at\u00e9 agora na guerra entre Israel e o Hamas?Aventuras na Hist\u00f3riahttps://aventurasnahistoria.uol.com.br \u203a ...",
+        "content": "Faixa de Gaza bombardeada por Israel - Getty Images ... bombardeio do hospital palestino Ahli\u00a0...",
+        "size": [
+          800,
+          450
+        ],
+        "date": "2023:11:07 00:00:00",
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.uk/detail/news-photo/khan-yunis-palastine-injured-palestinian-children-at-nasser-news-photo/1730509072",
+        "title": ". Khan Yunis, Palastine. Injured Palestinian children at Nasser ...Getty Imageshttps://www.gettyimages.co.uk \u203a detail \u203a news-photo",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.gettyimages.co.uk/photos/concepts-&-topics",
+        "title": "222003967 Concepts & Topics Stock Photos and High-res ...Getty Imageshttps://www.gettyimages.co.uk \u203a photos \u203a concepts-&-...",
+        "content": "... Relative of Palestinians killed in an Israeli air strike mourns at a hospital in Rafah in the southern Gaza Strip, on October 19, 2023.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.naturalnews.com/2023-11-19-zionist-ben-shapiro-attacks-candace-owens-disgraceful.html",
+        "title": "Zionist Ben Shapiro attacks employee Candace Owens, calls ...NaturalNews.comhttps://www.naturalnews.com \u203a 2023-11-19-zionist-be...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          563
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.newstarget.com/2023-11-19-300m-to-die-from-radiation-should-adversaries-attack.html",
+        "title": "Report: 300M Americans could die from radiation should ...Newstarget.comhttps://www.newstarget.com \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          563
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.divinematrixsoulutions.com/tag/chemical-free-living/?doing_wp_cron=1684010422.6682629585266113281250",
+        "title": "Tag: Chemical Free Living - Divine Matrix SOULutionsdivinematrixsoulutions.comhttps://www.divinematrixsoulutions.com \u203a tag \u203a chemi...",
+        "content": "",
+        "size": [
+          1000,
+          563
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://www.zimfocus.co.zw/egypts-president-agrees-to-open-the-rafah-crossing-as-it-happened-the-guardian-2/",
+        "title": "Egypt's president agrees to open the Rafah crossingZimbabwe Focus Newshttps://www.zimfocus.co.zw \u203a egypts-president-agrees...",
+        "content": "The announcement to allow water, food and other supplies happened as fury over the blast at Gaza City's al-Ahli Hospital spread across the Middle East, and as\u00a0...",
+        "size": [
+          465,
+          279
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shuddh.co.in/success-the-true-measure-of-Josh-Giddey-s-character-Basketball-2764-121608",
+        "title": "Disappointment, not success, the true measure of Josh ...shuddh.co.inhttps://shuddh.co.in \u203a josh giddey family",
+        "content": "",
+        "size": [
+          500,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "https://shuddh.co.in/the-true-measure-of-Josh-Giddey-s-character-Basketball-2774-121618",
+        "title": "Disappointment, not success, the true measure of Josh ...shuddh.co.inhttps://shuddh.co.in \u203a josh giddey family",
+        "content": "",
+        "size": [
+          500,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://www.demonic.news/author/jdheyes",
+        "title": "By JD Heyes - Demonic Newsdemonic.newshttp://www.demonic.news \u203a author \u203a jdheyes",
+        "content": "... Gaza are LEGITIMATE TARGETS. October 25, 2023 / Ethan Huff \u00b7 Israeli airstrike hits CHURCH in Gaza, kills at least 18 Christians. October 25, 2023 / Laura\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "en",
+        "link": "http://www.demonic.news/author/jdheyes",
+        "title": "By JD Heyes - Demonic Newsdemonic.newshttp://www.demonic.news \u203a author \u203a jdheyes",
+        "content": "... Gaza are LEGITIMATE TARGETS. October 25, 2023 / Ethan Huff \u00b7 Israeli airstrike hits CHURCH in Gaza, kills at least 18 Christians. October 25, 2023 / Laura\u00a0...",
+        "size": [
+          1000,
+          563
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.youtube.com/watch?v=NRyOxlACnJ4",
+        "title": "50 PA\u00cdSES SE UNEM CONTRA VETO DOS EUA E PEDEM ...YouTube\u00a0\u00b7\u00a0Leandro Demori2.2K+ views  \u00b7  1 month ago",
+        "content": "",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.youtube.com/watch?v=jfx7Yg-9h8U",
+        "title": "Israel se contradiz ao tentar se desresponsabilizar por ataque ...YouTube\u00a0\u00b7\u00a0R\u00e1dio Brasil Atual300+ views  \u00b7  1 month ago",
+        "content": "Israel se contradiz ao tentar se desresponsabilizar por ataque a hospital em Gaza \u00b7 Comments4.",
+        "size": [
+          686,
+          386
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://aventurasnahistoria.uol.com.br/tags/hamas?page=3",
+        "title": "Busca: Hamas - Aventuras na Hist\u00f3ria - UOLAventuras na Hist\u00f3riahttps://aventurasnahistoria.uol.com.br \u203a ...",
+        "content": "Palestinos buscavam abrigos para bombardeios em hospitais antes de ataque. Na ter\u00e7a-feira, 17, ocorreu em Gaza o bombardeio a um hospital que culminou na\u00a0...",
+        "size": [
+          185,
+          104
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "hi",
+        "link": "https://www.youtube.com/watch?v=yy-jSSWZrT4",
+        "title": "\u0907\u091c\u0930\u093e\u092f\u0932-\u0939\u092e\u093e\u0938 \u091c\u0902\u0917 \u0915\u0940 \u092d\u092f\u093e\u0935\u0939 \u0924\u0938\u094d\u0935\u0940\u0930\u0947\u0902, \u0915\u093e\u0902\u092a \u091c\u093e\u090f\u0917\u0940 \u0930\u0941\u0939 | Gaza Patti ...YouTube\u00a0\u00b7\u00a0Dainik Jagran - \u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u092315.1K+ views  \u00b7  1 month ago",
+        "content": "... New 11K views \u00b7 1:10 \u00b7 Go to channel \u00b7 Israel battles Hamas near another Gaza hospital. FOX 5 New York New 1.5K views \u00b7 25:17 \u00b7 Go to channel\u00a0...",
+        "size": [
+          1280,
+          720
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/la-franja-de-gaza?page=2",
+        "title": "412.489 fotos e im\u00e1genes de La Franja De Gaza - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "Encuentra fotos de stock de La Franja De Gaza e im\u00e1genes editoriales de noticias en Getty Images. Haz tu selecci\u00f3n entre 412.489 im\u00e1genes premium de La\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/striscia-di-gaza?alloweduse=availableforalluses&license=rf&page=2",
+        "title": "519.844 foto e immagini di Striscia Di Gaza - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a striscia...",
+        "content": "Sfoglia 519.844 striscia di gaza fotografie e immagini disponibili, oppure cerca israele per trovare altre splendide fotografie e immagini.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.fr/photos/gaza-2000",
+        "title": "2 158 photos et images de Gaza 2000Getty Imageshttps://www.gettyimages.fr \u203a photos",
+        "content": "Trouvez des images et des photos d'actualit\u00e9s de Gaza 2000 sur Getty Images. Choisissez parmi 2 158 des contenus premium de Gaza 2000 de qualit\u00e9.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.com.mx/fotos/la-franja-de-gaza",
+        "title": "270.503 fotos e im\u00e1genes de La Franja De Gaza - Getty ImagesGetty Imageshttps://www.gettyimages.com.mx \u203a ...",
+        "content": "Encuentra fotos de stock de La Franja De Gaza e im\u00e1genes editoriales de noticias en Getty Images. Haz tu selecci\u00f3n entre 270.503 im\u00e1genes premium de La\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://jovempan.com.br/tag/hamas/page/8?page=1",
+        "title": "hamas: \u00faltimas not\u00edcias na Jovem Pan | Page 8Jovem Panhttps://jovempan.com.br \u203a tag \u203a page",
+        "content": "... Gaza \u00b7 ataque hospital gaza. Mundo; 27/10/2023 16h56. Israel acusa Hamas de usar hospitais de Gaza como quart\u00e9is e esconderijos \u00b7 Hamas assumiu autoria de\u00a0...",
+        "size": [
+          426,
+          240
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.com.mx/fotos/gaza",
+        "title": "270.817 fotos e im\u00e1genes de Gaza - Getty ImagesGetty Imageshttps://www.gettyimages.com.mx \u203a ...",
+        "content": "Encuentra fotos de stock de Gaza e im\u00e1genes editoriales de noticias en Getty Images. Haz tu selecci\u00f3n entre 270.817 im\u00e1genes premium de Gaza de la m\u00e1s alta\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.be/fotos/gaza-strip",
+        "title": "214.954 foto's en beelden met Gaza Strip - Getty ImagesGetty Imageshttps://www.gettyimages.be \u203a fotos",
+        "content": "214.954 Gaza Strip Stockfoto's en afbeeldingen van hoge resolutie. Blader door 214.954 gaza strip beschikbare foto's en beelden, of begin\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "nl",
+        "link": "https://www.gettyimages.nl/fotos/gaza-strip",
+        "title": "216.001 foto's en beelden met Gaza Strip - Getty ImagesGetty Imageshttps://www.gettyimages.nl \u203a fotos",
+        "content": "216.001 Gaza Strip Stockfoto's en afbeeldingen van hoge resolutie. Blader door 216.001 gaza strip beschikbare foto's en beelden, of begin\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.gettyimages.co.jp/%E5%86%99%E7%9C%9F/gaza-strip-khan-yunes",
+        "title": "23975\u70b9\u306eGaza Strip Khan Yunes\u306e\u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8Getty Imageshttps://www.gettyimages.co.jp \u203a \u5199\u771f",
+        "content": "... Palestinians injured in Israeli air raids arrive at Nasser Medical Hospital on October 24, 2023 in Khan Yunis, in the southern\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.fr/photos/israel-gaza-strip",
+        "title": "42 040 photos et images de Israel Gaza StripGetty Imageshttps://www.gettyimages.fr \u203a photos",
+        "content": "Trouvez des images et des photos d'actualit\u00e9s de Israel Gaza Strip sur Getty Images. Choisissez parmi 42 040 des contenus premium de Israel Gaza Strip de\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sv",
+        "link": "https://www.gettyimages.se/fotografier/gaza-strip",
+        "title": "202 786 bilder, fotografier och illustrationer med Gaza StripGettyhttps://www.gettyimages.se \u203a gaza-s...",
+        "content": "Hitta Gaza Strip bildbanksfoto och redaktionellt nyhetsbildmaterial hos Getty Images. V\u00e4lj mellan 202 786 premium Gaza Strip av h\u00f6gsta kvalitet.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "sq",
+        "link": "https://pamfleti.net/english/bota/tmerr-ne-izrael-gjenden-eshtrat-e-nje-gruaje-dhe-djalit-te-saj-trupat-e-tyr-i193926",
+        "title": "their bodies were burned after they were killed - Bota - PamfletiPamfletihttps://pamfleti.net \u203a english \u203a bota",
+        "content": "The Israeli military then launched Operation Iron Swords against Hamas targets inside the Gaza Strip. Israel's response has extended to cutting off water and\u00a0...",
+        "size": [
+          450,
+          300
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.fr/photos/we-are-all-gaza",
+        "title": "17 359 photos et images de We Are All GazaGetty Imageshttps://www.gettyimages.fr \u203a photos",
+        "content": "Trouvez des images et des photos d'actualit\u00e9s de We Are All Gaza sur Getty Images. Choisissez parmi 17 359 des contenus premium de We Are All Gaza de\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fr",
+        "link": "https://www.gettyimages.fr/photos/gozan",
+        "title": "84 461 photos et images de GozanGetty Imageshttps://www.gettyimages.fr \u203a photos",
+        "content": "... An explosion on a residential tower caused by Israeli air raids in the northern Gaza Strip on October 12, 2023 in Gaza City, Gaza. At least 1,200\u00a0...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "es",
+        "link": "https://www.gettyimages.es/fotos/2000-2023",
+        "title": "11.895 fotos e im\u00e1genes de 2000 2023 - Getty ImagesGetty Imageshttps://www.gettyimages.es \u203a fotos",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://jovempan.com.br/page/63/",
+        "title": "Esportes, entretenimento, not\u00edcias e v\u00eddeos com credibilidadeJovem Panhttps://jovempan.com.br \u203a page",
+        "content": "Israel acusa Hamas de usar hospitais de Gaza como quart\u00e9is e esconderijos ... Ap\u00f3s bombardeio, OMS perde contato com equipe em Gaza. Torne-se Premium.",
+        "size": [
+          426,
+          240
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/guerra-palestina",
+        "title": "317.105 foto e immagini di Guerra Palestina - Getty ImagesGetty Imageshttps://www.gettyimages.it \u203a guerra-...",
+        "content": "",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "it",
+        "link": "https://www.gettyimages.it/immagine/here-is-the-war-job-you-be-been-looking-for",
+        "title": "2.510 foto e immagini di Here Is The War Job You Be Been ...Getty Imageshttps://www.gettyimages.it \u203a here-is...",
+        "content": "Palestinian emergency services and local citizens search for victims in buildings destroyed during Israeli air raids in the southern Gaza Strip on...",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://jovempan.com.br/programas/3-em-1/page/3?page=3",
+        "title": "Programa 3 em 1: not\u00edcias, v\u00eddeos e podcasts - Jovem PanJovem Panhttps://jovempan.com.br \u203a page",
+        "content": "Ap\u00f3s bombardeio, OMS perde contato com equipe em Gaza \u00b7 3 em 1 \u00b7 27/10/2023 16h00\u00a0...",
+        "size": [
+          426,
+          240
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.infomoney.com.br/cotacoes/b3/indice/ibrx50/proventos/",
+        "title": "\u00cdndice Brasil 50 IBrX50 - Proventos - InfoMoneyInfoMoneyhttps://www.infomoney.com.br \u203a pr...",
+        "content": "",
+        "size": [
+          360,
+          202
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://www.gettyimages.co.jp/detail/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E5%86%99%E7%9C%9F/local-citizens-search-for-victims-in-buildings-destroyed-during-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E5%86%99%E7%9C%9F/1746641935",
+        "title": "Local citizens search for victims in buildings destroyed during ...Getty Imageshttps://www.gettyimages.co.jp \u203a detail",
+        "content": "Local citizens search for victims in buildings destroyed during Israeli air raids in the southern Gaza Strip on October 20, 2023 in Khan Yunis, Gaza.",
+        "size": [
+          612,
+          408
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://blitz.bg/voinite/iznevidelitsa-izrael-s-infarkten-khod-v-ivitsata-gaza-predi-primirieto-chuvat-se-pistsi_news987956.html",
+        "title": "\u0418\u0437\u0440\u0430\u0435\u043b \u0441 \u0438\u043d\u0444\u0430\u0440\u043a\u0442\u0435\u043d \u0445\u043e\u0434 \u0432 \u0418\u0432\u0438\u0446\u0430\u0442\u0430 \u0413\u0430\u0437\u0430 \u043f\u0440\u0435\u0434\u0438 ... - \u0411\u043b\u0438\u0446Blitz.bghttps://blitz.bg \u203a \u0412\u043e\u0439\u043d\u0438\u0442\u0435",
+        "content": " \u00b7 ",
+        "size": [
+          730,
+          487
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "pt",
+        "link": "https://www.infomoney.com.br/cotacoes/b3/indice/ibrx100/",
+        "title": "IBrX 100 (\u00cdndice Brasil 100) - InfoMoneyInfoMoneyhttps://www.infomoney.com.br \u203a ib...",
+        "content": "",
+        "size": [
+          360,
+          202
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ar",
+        "link": "https://greenfue.com/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8/",
+        "title": "\u0645\u0635\u0631 \u062a\u0637\u0627\u0644\u0628 \u0637\u0631\u0641\u064a \u0627\u0644\u0647\u062f\u0646\u0629 \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u064a\u0629 \u0641\u064a \u063a\u0632\u0629 \u0628\u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645 \u0628\u0627\u0644\u062a\u0646\u0641\u064a\u0630 ...\u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631https://greenfue.com \u203a \u0645\u0635\u0631-\u062a\u0637\u0627\u0644\u0628",
+        "content": " \u00b7 ",
+        "size": [
+          1000,
+          563
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.antena3.ro/tag/idf-396613.html",
+        "title": "\u015etiri despre IDF - Antena 3 CNNAntena 3https://www.antena3.ro \u203a idf-396613",
+        "content": "La o lun\u0103 de r\u0103zboiul declan\u0219at de gruparea terorist\u0103 Hamas, imaginile din satelit arat\u0103 progresele armatei israeliene \u00een interiorul F\u00e2\u015fiei Gaza. imagini\u00a0...",
+        "size": [
+          600,
+          334
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ro",
+        "link": "https://www.antena3.ro/stiri/2023/pagina-99",
+        "title": "\u0218tiri Antena 3 CNN din 2023 | Pagina 99Antena 3https://www.antena3.ro \u203a stiri \u203a pagi...",
+        "content": "... Gaza de c\u0103tre gruparea terorist\u0103 palestinian\u0103. purtator de cuvant al guvernului din israel. Eylon Levy, purt\u0103tor de cuv\u00e2nt al Guvernului din Israel: \"Cerem\u00a0...",
+        "size": [
+          600,
+          334
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://news.mojahedin.org/t/%DA%86%D9%87%D9%84-%D8%B3%D8%A7%D9%84-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85-%D8%AC%D9%86%DA%AF-%D8%A7%D9%81%D8%B1%D9%88%D8%B2%DB%8C",
+        "title": "\u0686\u0647\u0644 \u0633\u0627\u0644 \u062a\u0631\u0648\u0631\u06cc\u0633\u0645 \u0648 \u062c\u0646\u06af\u200c\u0627\u0641\u0631\u0648\u0632\u06cc - \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u062c\u0627\u0647\u062f\u06cc\u0646 \u062e\u0644\u0642 \u0627\u06cc\u0631\u0627\u0646mojahedin.orghttps://news.mojahedin.org \u203a \u0686\u0647\u0644-\u0633\u0627...",
+        "content": "\u0627\u0644\u0647\u0647\u0654 \u0645\u0631\u06af... \u00b7 \u062c\u0648\u062f\u06cc \u0627\u0633\u06af\u0631\u0648\u060c \u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u0645\u062c\u0644\u0633 \u0627\u0632 \u062d\u0632\u0628 \u062d\u0627\u06a9\u0645 (\u0644\u06cc\u0628\u0631\u0627\u0644) \u0648 \u0645\u0627\u06cc\u06a9\u0644 \u06a9\u0648\u067e\u0631\u060c \u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u00b7 \u0645\u06a9 \u06a9\u0627\u0644 \u0631\u0626\u06cc\u0633 \u06a9\u0645\u06cc\u062a\u0647 \u062e\u0627\u0631\u062c\u06cc \u0645\u062c\u0644\u0633 \u0646\u0645\u0627\u06cc\u0646\u062f\u06af\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u00b7 \u0627\u062b\u0631 \u0627\u0646\u06af\u0634\u062a \u0631\u0698\u06cc\u0645 \u062f\u0631 \u062c\u0646\u06af\u200c\u0627\u0641\u0631\u0648\u0632\u06cc\u00a0...",
+        "size": [
+          330,
+          187
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://news.mojahedin.org/t/%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86",
+        "title": "\u0641\u0644\u0633\u0637\u06cc\u0646 - \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u062c\u0627\u0647\u062f\u06cc\u0646 \u062e\u0644\u0642 \u0627\u06cc\u0631\u0627\u0646mojahedin.orghttps://news.mojahedin.org \u203a \u0641\u0644\u0633\u0637...",
+        "content": "\u062c\u0646\u06af \u062f\u0631 \u063a\u0632\u0647. \u067e\u06cc\u06af\u06cc\u0631\u06cc \u067e\u0631\u0648\u0646\u062f\u0647 \u062c\u0646\u0627\u06cc\u0627\u062a \u062c\u0646\u06af\u06cc \u062f\u0631 \u063a\u0632\u0647 \u0648 \u0627\u0633\u0631\u0627\u06cc\u06cc\u0644 \u062a\u0648\u0633\u0637 \u062f\u0627\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0627\u0647\u0647 2 \u00b7 \u062c\u0646\u06af \u062f\u0631 \u063a\u0632\u0647. \u0686\u0647\u0644\u200c\u0648\u0633\u0648\u0645\u06cc\u0646 \u0631\u0648\u0632 \u062c\u0646\u06af \u062f\u0631 \u063a\u0632\u0647 - \u0647\u0634\u062f\u0627\u0631 \u0627\u0633\u0631\u0627\u06cc\u06cc\u0644 \u0628\u0647 \u0641\u0644\u0633\u0637\u06cc\u0646\u06cc\u200c\u0647\u0627 \u062f\u0631 \u0634\u0647\u0631\u00a0...",
+        "size": [
+          330,
+          187
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://4vlast-bg.com/archives/623137/1697648874-gaz-2",
+        "title": "1697648874-gaz - 4\u0412\u041b\u0410\u0421\u0422 - \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430 \u0430\u0433\u0435\u043d\u0446\u0438\u044f4\u0412\u041b\u0410\u0421\u0422https://4vlast-bg.com \u203a archives \u203a 1...",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://4vlast-bg.com/archives/621677/1697648874-gaz",
+        "title": "1697648874-gaz - 4\u0412\u041b\u0410\u0421\u0422 - \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430 \u0430\u0433\u0435\u043d\u0446\u0438\u044f4\u0412\u041b\u0410\u0421\u0422https://4vlast-bg.com \u203a archives \u203a 1...",
+        "content": "",
+        "size": [
+          800,
+          450
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://zanas.top/900181/",
+        "title": "\u0418\u0437\u043d\u0435\u0432\u0438\u0434\u0435\u043b\u0438\u0446\u0430: \u0418\u0437\u0440\u0430\u0435\u043b \u0441 \u0438\u043d\u0444\u0430\u0440\u043a\u0442\u0435\u043d \u0445\u043e\u0434 \u0432 \u0418\u0432\u0438\u0446\u0430\u0442\u0430 \u0413\u0430\u0437\u0430 ...zanas.tophttps://zanas.top \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          730,
+          487
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://www.mojahedin.org/s?keyword=%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D9%87",
+        "title": "\u0645\u0646\u0627\u0638\u0631\u0647 - \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u062c\u0627\u0647\u062f\u06cc\u0646 \u062e\u0644\u0642 \u0627\u06cc\u0631\u0627\u0646mojahedin.orghttps://www.mojahedin.org \u203a ...",
+        "content": "'\u0645\u0646\u0627\u0638\u0631\u0647' ; \u0645\u0642\u0627\u0628\u0644\u0647 \u0628\u0627 \u067e\u0627\u0633\u062f\u0627\u0631\u0627\u0646 \u062f\u0631 \u062e\u06cc\u0627\u0628\u0627\u0646... \u00b7 1402/08/20 ; \u06a9\u0627\u0646\u062f\u06cc\u062f\u0627\u0647\u0627\u06cc \u0631\u06cc\u0627\u0633\u062a\u200c\u062c\u0645\u0647\u0648\u0631\u06cc \u062d\u0632\u0628 \u062c\u0645\u0647\u0648\u0631\u06cc\u062e\u0648\u0627\u0647 \u00b7 1402/08/18\u00a0...",
+        "size": [
+          330,
+          187
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "fa",
+        "link": "https://news.mojahedin.org/s?keyword=%D8%B1%D9%88%D8%B2+%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1",
+        "title": "\u0631\u0648\u0632 \u06a9\u0627\u0631\u06af\u0631 - \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u062c\u0627\u0647\u062f\u06cc\u0646 \u062e\u0644\u0642 \u0627\u06cc\u0631\u0627\u0646mojahedin.orghttps://news.mojahedin.org \u203a ...",
+        "content": "'\u0631\u0648\u0632 \u06a9\u0627\u0631\u06af\u0631' \u00b7 \u062a\u0635\u0648\u06cc\u0631\u06cc \u0627\u0632 \u06a9\u0627\u0631\u06af\u0631\u0627\u0646 - \u0639\u06a9\u0633 \u0627\u0632 \u0622\u0631\u0634\u06cc\u0648. \u0638\u0627\u0644\u0645\u0627\u0646\u0647\u200c\u062a\u0631\u06cc\u0646 \u0642\u0631\u0627\u0631\u062f\u0627\u062f\u0647\u0627\u06cc \u06a9\u0627\u0631 \u062f\u0631 \u062c\u0647\u0627\u0646 2 \u00b7 \u062a\u062c\u0646\u0639 \u0627\u0639\u062a\u0631\u0627\u0636\u06cc \u0628\u0627\u0632\u0646\u0634\u0633\u062a\u06af\u0627\u0646 \u00b7 \u06af\u0631\u0627\u0646 \u0634\u062f\u0646 \u0646\u0627\u0646 \u00b7 \u062e\u0627\u06a9\u0633\u067e\u0627\u0631\u06cc \u0622\u0631\u0645\u06cc\u062a\u0627 \u06af\u0631\u0627\u0648\u0646\u062f\u00a0...",
+        "size": [
+          330,
+          187
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "ja",
+        "link": "https://f15.homes/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%AE%E5%86%99%E7%9C%9F",
+        "title": "\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u5199\u771ff15.homeshttps://f15.homes \u203a \u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u5199\u771f",
+        "content": "",
+        "size": [
+          650,
+          341
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://novini.ludsport.fun/page/35/?s=%D0%90%D1%81%D1%8F&mtext=1",
+        "title": "\u0420\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0438 \u043e\u0442 \u0442\u044a\u0440\u0441\u0435\u043d\u0435\u0442\u043e \u0437\u0430 \u201c\u0410\u0441\u044f\u201d \u2013 \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 35 - \u041b\u0443\u0434 \u0421\u043f\u043e\u0440\u0442 -\u041b\u0443\u0434 \u0421\u043f\u043e\u0440\u0442 -https://novini.ludsport.fun \u203a page",
+        "content": "",
+        "size": [
+          730,
+          487
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://novini.ludsport.fun/page/37/?s=%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8&mtext=1",
+        "title": "\u0420\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0438 \u043e\u0442 \u0442\u044a\u0440\u0441\u0435\u043d\u0435\u0442\u043e \u0437\u0430 \u201c\u043e\u0436\u0435\u043d\u0438\u201d \u2013 \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 37\u041b\u0443\u0434 \u0421\u043f\u043e\u0440\u0442 -https://novini.ludsport.fun \u203a page",
+        "content": "",
+        "size": [
+          730,
+          487
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://novini.ludsport.fun/page/22/?s=%D0%BB%D0%B8%D1%86%D0%B5&mtext=1",
+        "title": "\u0420\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0438 \u043e\u0442 \u0442\u044a\u0440\u0441\u0435\u043d\u0435\u0442\u043e \u0437\u0430 \u201c\u043b\u0438\u0446\u0435\u201d \u2013 \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 22\u041b\u0443\u0434 \u0421\u043f\u043e\u0440\u0442 -https://novini.ludsport.fun \u203a page",
+        "content": "",
+        "size": [
+          730,
+          487
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://novini.ludsport.fun/page/87/?s=%D0%9A%D0%BE%D0%BB%D0%BA%D0%BE&mtext=1",
+        "title": "\u0420\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0438 \u043e\u0442 \u0442\u044a\u0440\u0441\u0435\u043d\u0435\u0442\u043e \u0437\u0430 \u201c\u041a\u043e\u043b\u043a\u043e\u201d \u2013 \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 87\u041b\u0443\u0434 \u0421\u043f\u043e\u0440\u0442 -https://novini.ludsport.fun \u203a page",
+        "content": "",
+        "size": [
+          730,
+          487
+        ],
+        "date": null,
+        "source_type": ""
+      },
+      {
+        "lang": "bg",
+        "link": "https://vchas.net/?p=1153787",
+        "title": "\u0418\u0437\u0440\u0430\u0435\u043b \u0438 \u201c\u0425\u0430\u043c\u0430\u0441\u201c \u0441\u0435 \u0440\u0430\u0437\u0431\u0440\u0430\u0445\u0430: \u041e\u0433\u044a\u043d\u044f\u0442 \u0441\u043f\u0438\u0440\u0430 \u0442\u043e\u0447\u043d\u043e \u0432\u2026Vchashttps://vchas.net \u203a ...",
+        "content": " \u00b7 ",
+        "size": [
+          730,
+          487
+        ],
+        "date": null,
+        "source_type": ""
+      }
+    ]
+  },
+  "vision": {
+    "places": [
+      {
+        "class": "slum",
+        "ioclass": "outdoor",
+        "probability": 0.8533351421356201
+      },
+      {
+        "class": "landfill",
+        "ioclass": "outdoor",
+        "probability": 0.09435803443193436
+      },
+      {
+        "class": "bazaar/outdoor",
+        "ioclass": "outdoor",
+        "probability": 0.013391470536589622
+      },
+      {
+        "class": "construction_site",
+        "ioclass": "outdoor",
+        "probability": 0.005354912951588631
+      },
+      {
+        "class": "downtown",
+        "ioclass": "outdoor",
+        "probability": 0.0040492401458323
+      }
+    ],
+    "transients": [
+      {
+        "class": "time/daylight",
+        "score": 0.9779805541038513
+      },
+      {
+        "class": "ice",
+        "score": 0.8313568830490112
+      },
+      {
+        "class": "season/winter",
+        "score": 0.8237394094467163
+      },
+      {
+        "class": "weather/snow",
+        "score": 0.7557036876678467
+      },
+      {
+        "class": "temperature/cold",
+        "score": 0.7419711351394653
+      },
+      {
+        "class": "busy",
+        "score": 0.7105085849761963
+      },
+      {
+        "class": "bright",
+        "score": 0.66437166929245
+      },
+      {
+        "class": "moist",
+        "score": 0.6415705680847168
+      },
+      {
+        "class": "cluttered",
+        "score": 0.6319841146469116
+      },
+      {
+        "class": "dirty",
+        "score": 0.5347670316696167
+      },
+      {
+        "class": "rugged",
+        "score": 0.5245071053504944
+      }
+    ],
+    "locations": {
+      "coarse": {
+        "pred_class": 1163,
+        "pred_lat": 31.757287979125977,
+        "pred_long": 35.030609130859375
+      },
+      "middle": {
+        "pred_class": 2361,
+        "pred_lat": 30.055252075195312,
+        "pred_long": 31.23897933959961
+      },
+      "fine": {
+        "pred_class": 1309,
+        "pred_lat": 18.44498062133789,
+        "pred_long": -72.32817840576172
+      },
+      "hierarchy": {
+        "pred_class": 6763,
+        "pred_lat": 31.469512939453125,
+        "pred_long": 35.098026275634766
+      },
+      "country": {
+        "city": "Port-au-Prince",
+        "state": "West",
+        "country": "Haiti"
+      }
+    }
+  },
+  "exif": {
+    "captured_time": "2023:10:18 09:58:36",
+    "captured_place": {
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "weather": {
+    "latitude": 18.453426,
+    "longitude": -72.29941,
+    "generationtime_ms": 0.2009868621826172,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 1578.0,
+    "hourly_units": {
+      "time": "iso8601",
+      "apparent_temperature": "\u00b0C",
+      "precipitation": "mm",
+      "weathercode": "wmo code"
+    },
+    "hourly": {
+      "time": [
+        "2023-10-18T00:00",
+        "2023-10-18T01:00",
+        "2023-10-18T02:00",
+        "2023-10-18T03:00",
+        "2023-10-18T04:00",
+        "2023-10-18T05:00",
+        "2023-10-18T06:00",
+        "2023-10-18T07:00",
+        "2023-10-18T08:00",
+        "2023-10-18T09:00",
+        "2023-10-18T10:00",
+        "2023-10-18T11:00",
+        "2023-10-18T12:00",
+        "2023-10-18T13:00",
+        "2023-10-18T14:00",
+        "2023-10-18T15:00",
+        "2023-10-18T16:00",
+        "2023-10-18T17:00",
+        "2023-10-18T18:00",
+        "2023-10-18T19:00",
+        "2023-10-18T20:00",
+        "2023-10-18T21:00",
+        "2023-10-18T22:00",
+        "2023-10-18T23:00",
+        "2023-10-19T00:00",
+        "2023-10-19T01:00",
+        "2023-10-19T02:00",
+        "2023-10-19T03:00",
+        "2023-10-19T04:00",
+        "2023-10-19T05:00",
+        "2023-10-19T06:00",
+        "2023-10-19T07:00",
+        "2023-10-19T08:00",
+        "2023-10-19T09:00",
+        "2023-10-19T10:00",
+        "2023-10-19T11:00",
+        "2023-10-19T12:00",
+        "2023-10-19T13:00",
+        "2023-10-19T14:00",
+        "2023-10-19T15:00",
+        "2023-10-19T16:00",
+        "2023-10-19T17:00",
+        "2023-10-19T18:00",
+        "2023-10-19T19:00",
+        "2023-10-19T20:00",
+        "2023-10-19T21:00",
+        "2023-10-19T22:00",
+        "2023-10-19T23:00"
+      ],
+      "apparent_temperature": [
+        20.2,
+        19.3,
+        18.7,
+        18.6,
+        18.1,
+        18.4,
+        17.6,
+        17.8,
+        17.3,
+        17.0,
+        16.7,
+        16.2,
+        19.8,
+        21.3,
+        22.3,
+        23.6,
+        23.6,
+        24.8,
+        23.8,
+        22.1,
+        21.6,
+        20.1,
+        19.9,
+        19.6,
+        20.3,
+        19.2,
+        18.9,
+        18.6,
+        18.1,
+        17.2,
+        17.0,
+        17.0,
+        17.1,
+        16.8,
+        16.7,
+        16.9,
+        19.5,
+        20.7,
+        21.4,
+        22.9,
+        24.5,
+        25.0,
+        23.8,
+        22.7,
+        21.9,
+        19.9,
+        19.6,
+        19.7
+      ],
+      "precipitation": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        0.8,
+        0.4,
+        0.0,
+        0.0,
+        0.4,
+        0.7,
+        0.2,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.1,
+        0.0,
+        0.1,
+        0.1,
+        1.1,
+        0.2,
+        0.0
+      ],
+      "weathercode": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        51,
+        53,
+        51,
+        0,
+        1,
+        51,
+        53,
+        51,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        51,
+        51,
+        3,
+        51,
+        51,
+        55,
+        51,
+        0
+      ]
+    }
+  },
+  "inference": {
+    "conflicts": [
+      {
+        "message": "Captured time from EXIF is after the first time the image appear on the internet"
+      },
+      {
+        "message": "Captured time from EXIF does not match with the season"
+      }
+    ]
+  }
+}
