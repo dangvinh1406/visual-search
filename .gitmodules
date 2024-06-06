@@ -1,3 +1,6 @@
 [submodule "src/vision/GeoEstimation"]
 	path = src/vision/GeoEstimation
 	url = https://github.com/TIBHannover/GeoEstimation.git
+[submodule "src/GeoEstimation"]
+	path = src/GeoEstimation
+	url = https://github.com/TIBHannover/GeoEstimation.git
